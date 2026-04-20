@@ -1,0 +1,35 @@
+# Python cache and local env
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Hugging Face / experiment artifacts (large)
+**/models/
+archive/hugging_face/
+archive/hugging_face
+
+# Generated outputs
+**/plots/
+**/results_baseline/
+**/data/logs/
+**/data/*.png
+**/data/*.jpg
+**/data/*.jpeg
+**/data/*.webp
+**/data/*.pdf
+
+# Temporary files
+*.tmp
+*.swp
+*.swo

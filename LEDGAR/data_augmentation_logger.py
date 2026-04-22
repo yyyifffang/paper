@@ -136,8 +136,13 @@ class DataAugmentationLogger:
             return
         
         df = pd.DataFrame(self.records)
-        df.to_excel(self.excel_path, index=False, engine="openpyxl")
-        print(f"✓ Exported to Excel: {self.excel_path}")
+        try:
+            df.to_excel(self.excel_path, index=False, engine="openpyxl")
+            print(f"✓ Exported to Excel: {self.excel_path}")
+        except ModuleNotFoundError:
+            csv_fallback_path = self.excel_path.with_suffix(".csv")
+            df.to_csv(csv_fallback_path, index=False, encoding="utf-8")
+            print(f"✓ openpyxl not installed; exported CSV instead: {csv_fallback_path}")
 
     def export_to_csv(self):
         """已經在即時寫入 CSV，此方法用於生成最終副本。"""

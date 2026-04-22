@@ -267,7 +267,7 @@ def load_ledgar_tfidf(random_seed=42, return_texts=False):
 
 
 def generate_variants_llama3(texts, labels, n_variants=3):
-    """使用本地 Llama 3 產生擴增資料。模型常駐 VRAM，無需釋放。"""
+    """使用本地 Llama 3 產生擴增資料，加入 Few-Shot 確保風格一致。"""
     texts = _to_text_array(texts)
     labels = np.asarray(labels)
 
@@ -275,20 +275,34 @@ def generate_variants_llama3(texts, labels, n_variants=3):
 
     augmented_texts = []
     augmented_labels = []
+    original_texts_repeated = [] # 新增：用來記錄對應的原文，傳給 Validator
 
     for text, label in zip(texts, labels):
+        # 使用 Few-Shot Prompt 確保模型模仿專業法律風格，且嚴格遵守分隔符號
         messages = [
             {
                 "role": "system",
-                "content": "You are a legal text augmentation assistant.",
+                "content": "You are a precise legal text data augmentation assistant. You strictly output variations separated by '|||' without any conversational filler."
             },
             {
                 "role": "user",
                 "content": (
-                    "Generate legal text variations while preserving label semantics.\n"
-                    f"Please output exactly {n_variants} variations separated by the delimiter '|||'. "
-                    "Do NOT include any titles, numbers, or introductory text like 'Here are the variations'. "
-                    f"Original text:\n{text}"
+                    "Generate 2 legal text variations while preserving exact legal semantics and formal terminology.\n\n"
+                    "Original text:\n"
+                    "The Agreement shall be governed by and construed in accordance with the laws of the State of New York.\n\n"
+                    "Output exactly 2 variations separated by '|||':"
+                )
+            },
+            {
+                "role": "assistant",
+                "content": "This Agreement shall be subject to and interpreted under the laws of the State of New York.|||The laws of the State of New York shall govern the construction and interpretation of this Agreement."
+            },
+            {
+                "role": "user",
+                "content": (
+                    f"Generate {n_variants} legal text variations while preserving exact legal semantics and formal terminology.\n\n"
+                    f"Original text:\n{text}\n\n"
+                    f"Output exactly {n_variants} variations separated by '|||':"
                 ),
             },
         ]
@@ -301,19 +315,22 @@ def generate_variants_llama3(texts, labels, n_variants=3):
             do_sample=True,
         )
 
-        # 解析 LLM 輸出
         raw_variations = response_text.split("|||") 
         variations = [v.strip() for v in raw_variations if v.strip()]
 
-        # 防呆機制：如果模型沒有用 ||| 分隔，或是切出來的數量不對
         if len(variations) == 0:
-            variations = [text]  # 至少保留原文
+            variations = [text]  
 
         for var in variations[:n_variants]:
             augmented_texts.append(var)
             augmented_labels.append(label)
+            original_texts_repeated.append(text) # 記錄這句擴增資料對應的原文
 
-    return np.asarray(augmented_texts, dtype=str), np.asarray(augmented_labels)
+    return (
+        np.asarray(augmented_texts, dtype=str), 
+        np.asarray(augmented_labels),
+        np.asarray(original_texts_repeated, dtype=str) # 回傳原文陣列
+    )
 
 
 def _parse_validator_response(text):
@@ -321,10 +338,11 @@ def _parse_validator_response(text):
     return "YES" in str(text).upper()
 
 
-def validate_with_qwen25(generated_texts, generated_labels):
-    """使用本地 Qwen2.5 驗證擴增資料並回傳 agreement rate。模型常駐 VRAM，無需釋放。"""
+def validate_with_qwen25(generated_texts, generated_labels, original_texts):
+    """加入 original_texts 參數，修復未定義 Bug，並加強風格審查。"""
     generated_texts = _to_text_array(generated_texts)
     generated_labels = np.asarray(generated_labels)
+    original_texts = _to_text_array(original_texts)
 
     if len(generated_texts) == 0:
         return np.asarray([], dtype=str), np.asarray([], dtype=generated_labels.dtype), 0.0
@@ -335,19 +353,22 @@ def validate_with_qwen25(generated_texts, generated_labels):
     valid_labels = []
     accepted = 0
 
-    for text, label in zip(generated_texts, generated_labels):
+    for text, label, orig_text in zip(generated_texts, generated_labels, original_texts):
         messages = [
             {
                 "role": "system",
-                "content": "You are a strict legal text validator.",
+                "content": "You are a strict senior legal counsel auditing data augmentation. You reject any text that loses the formal tone of a legal contract."
             },
             {
                 "role": "user",
                 "content": (
-                    "Analyze if the following text is a valid, logical, and professional legal "
-                    "contract clause without any conversational filler. Reply ONLY with the word "
-                    "'YES' if it is valid, or 'NO' if it is invalid. "
-                    f"Text: {text}"
+                    "Compare the 'Augmented Text' to the 'Original Text'. Evaluate based on two criteria:\n"
+                    "1. Semantic & Intent Preservation: Does it strictly preserve the legal intent, obligations, and rights?\n"
+                    "2. Formal Legal Style: Does it maintain formal legal terminology (avoiding conversational language or over-simplification)?\n\n"
+                    f"Original Text (Label Index: {label}):\n{orig_text}\n\n"
+                    f"Augmented Text:\n{text}\n\n"
+                    "First, briefly state your reasoning (max 2 sentences).\n"
+                    "Then, on a new line, output your final decision strictly enclosed in XML tags: <decision>YES</decision> or <decision>NO</decision>."
                 ),
             },
         ]
@@ -749,17 +770,18 @@ def run_proposed_framework(
             selected_texts = pool_texts[selected_idx]
             selected_labels = y_pool[selected_idx]
 
-            generated_texts, generated_labels = generate_variants_llama3(
+            generated_texts, generated_labels, original_texts_for_gen = generate_variants_llama3(
                 selected_texts,
                 selected_labels,
                 n_variants=3,
             )
 
             if validation_mode == "full":
-                # Group 3 使用全量驗證，不再採用抽樣 trust mechanism。
+                # 2. 將原文傳給 Validator 進行對比
                 trusted_texts, trusted_labels, agreement_rate = validate_with_qwen25(
                     generated_texts,
                     generated_labels,
+                    original_texts_for_gen # 新增這個參數！
                 )
                 print(f"Agreement Rate (full validation): {agreement_rate:.4f}")
                 print(f"Validated all generated samples: {len(generated_texts)}")

@@ -85,15 +85,25 @@ class AugmentationSampleReviewer:
         yes_samples = self.sample_by_decision("YES", yes_sample_size)
         no_samples = self.sample_by_decision("NO", no_sample_size)
 
-        # 輸出 YES 報告
+        # 輸出 YES 報告，若缺少 openpyxl 則自動改存 CSV
         yes_report_path = output_path / f"review_report_YES_{timestamp}.xlsx"
-        yes_samples.to_excel(yes_report_path, index=False, engine="openpyxl")
-        print(f"✓ Exported YES samples ({len(yes_samples)} records): {yes_report_path}")
+        try:
+            yes_samples.to_excel(yes_report_path, index=False, engine="openpyxl")
+            print(f"✓ Exported YES samples ({len(yes_samples)} records): {yes_report_path}")
+        except ModuleNotFoundError:
+            yes_report_path = output_path / f"review_report_YES_{timestamp}.csv"
+            yes_samples.to_csv(yes_report_path, index=False, encoding="utf-8")
+            print(f"✓ Exported YES samples as CSV ({len(yes_samples)} records): {yes_report_path}")
 
-        # 輸出 NO 報告
+        # 輸出 NO 報告，若缺少 openpyxl 則自動改存 CSV
         no_report_path = output_path / f"review_report_NO_{timestamp}.xlsx"
-        no_samples.to_excel(no_report_path, index=False, engine="openpyxl")
-        print(f"✓ Exported NO samples ({len(no_samples)} records): {no_report_path}")
+        try:
+            no_samples.to_excel(no_report_path, index=False, engine="openpyxl")
+            print(f"✓ Exported NO samples ({len(no_samples)} records): {no_report_path}")
+        except ModuleNotFoundError:
+            no_report_path = output_path / f"review_report_NO_{timestamp}.csv"
+            no_samples.to_csv(no_report_path, index=False, encoding="utf-8")
+            print(f"✓ Exported NO samples as CSV ({len(no_samples)} records): {no_report_path}")
 
         return str(yes_report_path), str(no_report_path)
 

@@ -306,14 +306,14 @@ def generate_variants_llama3(texts, labels, n_variants=3):
         messages = [
             {
                 "role": "system",
-                "content": "You are a legal text augmentation assistant.",
+                "content": "You are a precise legal text augmentation assistant.",
             },
             {
                 "role": "user",
                 "content": (
-                    "Generate legal text variations while preserving label semantics.\n"
+                    "Generate legal text variations while preserving exact legal semantics.\n"
                     f"Please output exactly {n_variants} variations separated by the delimiter '|||'. "
-                    "Do NOT include any titles, numbers, or introductory text like 'Here are the variations'. "
+                    "Do NOT include any titles, numbers, markdown, or introductory text like 'Here are the variations'.\n\n"
                     f"Original text:\n{text}"
                 ),
             },
@@ -405,20 +405,26 @@ def validate_with_qwen25(
     for idx, (text, label) in enumerate(zip(generated_texts, generated_labels)):
         # 取得標籤名稱
         label_name = label_mapping.get(int(label), f"Label {label}") if label_mapping else f"Label {label}"
+        if original_texts is not None and idx < len(original_texts):
+            original_text = str(original_texts[idx])
+        else:
+            original_text = "[N/A]"
         
         messages = [
             {
                 "role": "system",
-                "content": "You are a strict expert legal counsel. Your job is to filter out bad data augmentation.",
+                "content": "You are a senior legal counsel auditing data augmentation. You are tolerant of paraphrasing as long as the core legal obligations, rights, and liabilities remain unchanged.",
             },
             {
                 "role": "user",
                 "content": (
-                    f"Evaluate if the following augmented text accurately preserves the legal intent of a '{label_name}' clause. "
-                    "It must also be a professional legal contract clause without conversational fillers.\n\n"
-                    "First, provide a one-sentence reasoning within <reasoning></reasoning> tags.\n"
-                    "Then, output your final decision as exactly <decision>YES</decision> or <decision>NO</decision>.\n\n"
-                    f"Augmented Text: {text}"
+                    "Compare the 'Augmented Text' to the 'Original Text'.\n"
+                    "1. Does the Augmented Text strictly preserve the legal intent of the Original Text (accepting synonyms and rephrasing)?\n"
+                    "2. Is the Augmented Text a clean legal clause free of ANY conversational filler like 'Here is the variation' or 'Sure'?\n\n"
+                    f"Original Text: {original_text}\n"
+                    f"Augmented Text: {text}\n\n"
+                    "First, briefly state your reasoning (max 2 sentences).\n"
+                    "Then, on a new line, output your final decision strictly enclosed in XML tags: <decision>YES</decision> or <decision>NO</decision>."
                 ),
             },
         ]
@@ -436,7 +442,6 @@ def validate_with_qwen25(
 
         # 記錄到日誌
         if logger is not None and LOGGING_AVAILABLE:
-            original_text = original_texts[idx] if original_texts is not None else "[N/A]"
             logger.log_augmentation_result(
                 iteration=iteration,
                 original_text=original_text,

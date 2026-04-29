@@ -1,0 +1,944 @@
+Logging started: /root/paper/LEDGAR/data2/logs/experiment_log_ledgar_warmup_llm_framework_with_logging_20260427_101456.txt
+Timestamp: 2026-04-27 10:14:56
+================================================================================
+Loading dataset: lexlual/LEDGAR (train split)
+Primary source failed: Dataset 'lexlual/LEDGAR' doesn't exist on the Hub or cannot be accessed
+Fallback to: lex_glue (ledgar)
+
+=== Selected 10 Head & 10 Tail Classes for PoC ===
+  ID  0 -> Governing Laws            | Head (大宗條款) | 總樣本數: 3167
+  ID  1 -> Notices                   | Head (大宗條款) | 總樣本數: 2493
+  ID  2 -> Counterparts              | Head (大宗條款) | 總樣本數: 2427
+  ID  3 -> Entire Agreements         | Head (大宗條款) | 總樣本數: 2340
+  ID  4 -> Severability              | Head (大宗條款) | 總樣本數: 1808
+  ID  5 -> Survival                  | Head (大宗條款) | 總樣本數: 1469
+  ID  6 -> Amendments                | Head (大宗條款) | 總樣本數: 1467
+  ID  7 -> Assignments               | Head (大宗條款) | 總樣本數: 1327
+  ID  8 -> Expenses                  | Head (大宗條款) | 總樣本數: 1224
+  ID  9 -> Terms                     | Head (大宗條款) | 總樣本數: 1166
+  ID 10 -> Agreements                | Tail (冷門條款) | 總樣本數: 252
+  ID 11 -> Enforceability            | Tail (冷門條款) | 總樣本數: 244
+  ID 12 -> Submission To Jurisdiction | Tail (冷門條款) | 總樣本數: 238
+  ID 13 -> Effectiveness             | Tail (冷門條款) | 總樣本數: 229
+  ID 14 -> Jurisdictions             | Tail (冷門條款) | 總樣本數: 202
+  ID 15 -> Enforcements              | Tail (冷門條款) | 總樣本數: 201
+  ID 16 -> Positions                 | Tail (冷門條款) | 總樣本數: 190
+  ID 17 -> Approvals                 | Tail (冷門條款) | 總樣本數: 178
+  ID 18 -> Consent To Jurisdiction   | Tail (冷門條款) | 總樣本數: 175
+  ID 19 -> Costs                     | Tail (冷門條款) | 總樣本數: 168
+==============================================================
+
+Split summary:
+  Seed: 200
+  Unlabeled: 5000
+  Test: 2000
+  Classes in seed/test: 20
+
+============================================================
+PASSIVE LEARNING EXPERIMENT (Random)
+============================================================
+Initial labeled pool: 200 samples
+Remaining unlabeled: 5000 samples
+
+--- Iteration 1 ---
+Test - F1: 0.6539, Accuracy: 0.8490
+Selected 40 samples using random sampling
+Total labeled samples: 240
+Remaining unlabeled: 4960
+
+--- Iteration 2 ---
+Test - F1: 0.6596, Accuracy: 0.8640
+Selected 40 samples using random sampling
+Total labeled samples: 280
+Remaining unlabeled: 4920
+
+--- Iteration 3 ---
+Test - F1: 0.6692, Accuracy: 0.8635
+Selected 40 samples using random sampling
+Total labeled samples: 320
+Remaining unlabeled: 4880
+
+--- Iteration 4 ---
+Test - F1: 0.6523, Accuracy: 0.8525
+Selected 40 samples using random sampling
+Total labeled samples: 360
+Remaining unlabeled: 4840
+
+--- Iteration 5 ---
+Test - F1: 0.6480, Accuracy: 0.8655
+Selected 40 samples using random sampling
+Total labeled samples: 400
+Remaining unlabeled: 4800
+
+--- Iteration 6 ---
+Test - F1: 0.6408, Accuracy: 0.8655
+Selected 40 samples using random sampling
+Total labeled samples: 440
+Remaining unlabeled: 4760
+
+--- Iteration 7 ---
+Test - F1: 0.6415, Accuracy: 0.8680
+Selected 40 samples using random sampling
+Total labeled samples: 480
+Remaining unlabeled: 4720
+
+--- Iteration 8 ---
+Test - F1: 0.6244, Accuracy: 0.8695
+Selected 40 samples using random sampling
+Total labeled samples: 520
+Remaining unlabeled: 4680
+
+--- Iteration 9 ---
+Test - F1: 0.6158, Accuracy: 0.8710
+Selected 40 samples using random sampling
+Total labeled samples: 560
+Remaining unlabeled: 4640
+
+--- Iteration 10 ---
+Test - F1: 0.6213, Accuracy: 0.8770
+Selected 40 samples using random sampling
+Total labeled samples: 600
+Remaining unlabeled: 4600
+
+--- Iteration 11 ---
+Test - F1: 0.6201, Accuracy: 0.8780
+Selected 40 samples using random sampling
+Total labeled samples: 640
+Remaining unlabeled: 4560
+
+--- Iteration 12 ---
+Test - F1: 0.6242, Accuracy: 0.8835
+Selected 40 samples using random sampling
+Total labeled samples: 680
+Remaining unlabeled: 4520
+
+--- Iteration 13 ---
+Test - F1: 0.6129, Accuracy: 0.8825
+Selected 40 samples using random sampling
+Total labeled samples: 720
+Remaining unlabeled: 4480
+
+--- Iteration 14 ---
+Test - F1: 0.6134, Accuracy: 0.8840
+Selected 40 samples using random sampling
+Total labeled samples: 760
+Remaining unlabeled: 4440
+
+--- Iteration 15 ---
+Test - F1: 0.6098, Accuracy: 0.8845
+Selected 40 samples using random sampling
+Total labeled samples: 800
+Remaining unlabeled: 4400
+
+--- Iteration 16 ---
+Test - F1: 0.6082, Accuracy: 0.8850
+Selected 40 samples using random sampling
+Total labeled samples: 840
+Remaining unlabeled: 4360
+
+--- Iteration 17 ---
+Test - F1: 0.6060, Accuracy: 0.8850
+Selected 40 samples using random sampling
+Total labeled samples: 880
+Remaining unlabeled: 4320
+
+--- Iteration 18 ---
+Test - F1: 0.6094, Accuracy: 0.8845
+Selected 40 samples using random sampling
+Total labeled samples: 920
+Remaining unlabeled: 4280
+
+--- Iteration 19 ---
+Test - F1: 0.6068, Accuracy: 0.8855
+Selected 40 samples using random sampling
+Total labeled samples: 960
+Remaining unlabeled: 4240
+
+--- Iteration 20 ---
+Test - F1: 0.6055, Accuracy: 0.8865
+Selected 40 samples using random sampling
+Total labeled samples: 1000
+Remaining unlabeled: 4200
+
+--- Iteration 21 ---
+Test - F1: 0.6064, Accuracy: 0.8880
+Selected 40 samples using random sampling
+Total labeled samples: 1040
+Remaining unlabeled: 4160
+
+--- Iteration 22 ---
+Test - F1: 0.6096, Accuracy: 0.8895
+Selected 40 samples using random sampling
+Total labeled samples: 1080
+Remaining unlabeled: 4120
+
+--- Iteration 23 ---
+Test - F1: 0.6187, Accuracy: 0.8915
+Selected 40 samples using random sampling
+Total labeled samples: 1120
+Remaining unlabeled: 4080
+
+--- Iteration 24 ---
+Test - F1: 0.6247, Accuracy: 0.8915
+Selected 40 samples using random sampling
+Total labeled samples: 1160
+Remaining unlabeled: 4040
+
+--- Iteration 25 ---
+Test - F1: 0.6267, Accuracy: 0.8920
+Selected 40 samples using random sampling
+Total labeled samples: 1200
+Remaining unlabeled: 4000
+
+--- Iteration 26 ---
+Test - F1: 0.6237, Accuracy: 0.8905
+Selected 40 samples using random sampling
+Total labeled samples: 1240
+Remaining unlabeled: 3960
+
+--- Iteration 27 ---
+Test - F1: 0.6214, Accuracy: 0.8900
+Selected 40 samples using random sampling
+Total labeled samples: 1280
+Remaining unlabeled: 3920
+
+--- Iteration 28 ---
+Test - F1: 0.6243, Accuracy: 0.8910
+Selected 40 samples using random sampling
+Total labeled samples: 1320
+Remaining unlabeled: 3880
+
+--- Iteration 29 ---
+Test - F1: 0.6247, Accuracy: 0.8925
+Selected 40 samples using random sampling
+Total labeled samples: 1360
+Remaining unlabeled: 3840
+
+--- Iteration 30 ---
+Test - F1: 0.6219, Accuracy: 0.8910
+Selected 40 samples using random sampling
+Total labeled samples: 1400
+Remaining unlabeled: 3800
+
+--- Iteration 31 ---
+Test - F1: 0.6201, Accuracy: 0.8915
+Selected 40 samples using random sampling
+Total labeled samples: 1440
+Remaining unlabeled: 3760
+
+--- Iteration 32 ---
+Test - F1: 0.6282, Accuracy: 0.8920
+Selected 40 samples using random sampling
+Total labeled samples: 1480
+Remaining unlabeled: 3720
+
+--- Iteration 33 ---
+Test - F1: 0.6231, Accuracy: 0.8900
+Selected 40 samples using random sampling
+Total labeled samples: 1520
+Remaining unlabeled: 3680
+
+--- Iteration 34 ---
+Test - F1: 0.6188, Accuracy: 0.8920
+Selected 40 samples using random sampling
+Total labeled samples: 1560
+Remaining unlabeled: 3640
+
+--- Iteration 35 ---
+Test - F1: 0.6331, Accuracy: 0.8940
+Selected 40 samples using random sampling
+Total labeled samples: 1600
+Remaining unlabeled: 3600
+
+--- Iteration 36 ---
+Test - F1: 0.6338, Accuracy: 0.8945
+Selected 40 samples using random sampling
+Total labeled samples: 1640
+Remaining unlabeled: 3560
+
+--- Iteration 37 ---
+Test - F1: 0.6393, Accuracy: 0.8960
+Selected 40 samples using random sampling
+Total labeled samples: 1680
+Remaining unlabeled: 3520
+
+--- Iteration 38 ---
+Test - F1: 0.6375, Accuracy: 0.8970
+Selected 40 samples using random sampling
+Total labeled samples: 1720
+Remaining unlabeled: 3480
+
+--- Iteration 39 ---
+Test - F1: 0.6393, Accuracy: 0.8980
+Selected 40 samples using random sampling
+Total labeled samples: 1760
+Remaining unlabeled: 3440
+
+--- Iteration 40 ---
+Test - F1: 0.6276, Accuracy: 0.8960
+
+Final Test - F1: 0.6276, Accuracy: 0.8960
+
+============================================================
+ACTIVE LEARNING BASELINE (Warmup + Entropy)
+============================================================
+Initial labeled pool: 200 samples
+Remaining unlabeled: 5000 samples
+
+--- Iteration 1 ---
+Test - F1: 0.6539, Accuracy: 0.8490
+Selected 40 samples using random sampling
+Total labeled samples: 240
+Remaining unlabeled: 4960
+
+--- Iteration 2 ---
+Test - F1: 0.6787, Accuracy: 0.8725
+Selected 40 samples using random sampling
+Total labeled samples: 280
+Remaining unlabeled: 4920
+
+--- Iteration 3 ---
+Test - F1: 0.6780, Accuracy: 0.8725
+Selected 40 samples using entropy sampling
+Total labeled samples: 320
+Remaining unlabeled: 4880
+
+--- Iteration 4 ---
+Test - F1: 0.6982, Accuracy: 0.8825
+Selected 40 samples using entropy sampling
+Total labeled samples: 360
+Remaining unlabeled: 4840
+
+--- Iteration 5 ---
+Test - F1: 0.6873, Accuracy: 0.8845
+Selected 40 samples using entropy sampling
+Total labeled samples: 400
+Remaining unlabeled: 4800
+
+--- Iteration 6 ---
+Test - F1: 0.7016, Accuracy: 0.8920
+Selected 40 samples using entropy sampling
+Total labeled samples: 440
+Remaining unlabeled: 4760
+
+--- Iteration 7 ---
+Test - F1: 0.6825, Accuracy: 0.8900
+Selected 40 samples using entropy sampling
+Total labeled samples: 480
+Remaining unlabeled: 4720
+
+--- Iteration 8 ---
+Test - F1: 0.6915, Accuracy: 0.8935
+Selected 40 samples using entropy sampling
+Total labeled samples: 520
+Remaining unlabeled: 4680
+
+--- Iteration 9 ---
+Test - F1: 0.6946, Accuracy: 0.8915
+Selected 40 samples using entropy sampling
+Total labeled samples: 560
+Remaining unlabeled: 4640
+
+--- Iteration 10 ---
+Test - F1: 0.6978, Accuracy: 0.8935
+Selected 40 samples using entropy sampling
+Total labeled samples: 600
+Remaining unlabeled: 4600
+
+--- Iteration 11 ---
+Test - F1: 0.7176, Accuracy: 0.9020
+Selected 40 samples using entropy sampling
+Total labeled samples: 640
+Remaining unlabeled: 4560
+
+--- Iteration 12 ---
+Test - F1: 0.7134, Accuracy: 0.8995
+Selected 40 samples using entropy sampling
+Total labeled samples: 680
+Remaining unlabeled: 4520
+
+--- Iteration 13 ---
+Test - F1: 0.7149, Accuracy: 0.9005
+Selected 40 samples using entropy sampling
+Total labeled samples: 720
+Remaining unlabeled: 4480
+
+--- Iteration 14 ---
+Test - F1: 0.7170, Accuracy: 0.9045
+Selected 40 samples using entropy sampling
+Total labeled samples: 760
+Remaining unlabeled: 4440
+
+--- Iteration 15 ---
+Test - F1: 0.7107, Accuracy: 0.9000
+Selected 40 samples using entropy sampling
+Total labeled samples: 800
+Remaining unlabeled: 4400
+
+--- Iteration 16 ---
+Test - F1: 0.7088, Accuracy: 0.8985
+Selected 40 samples using entropy sampling
+Total labeled samples: 840
+Remaining unlabeled: 4360
+
+--- Iteration 17 ---
+Test - F1: 0.7093, Accuracy: 0.9010
+Selected 40 samples using entropy sampling
+Total labeled samples: 880
+Remaining unlabeled: 4320
+
+--- Iteration 18 ---
+Test - F1: 0.7148, Accuracy: 0.9045
+Selected 40 samples using entropy sampling
+Total labeled samples: 920
+Remaining unlabeled: 4280
+
+--- Iteration 19 ---
+Test - F1: 0.7122, Accuracy: 0.9030
+Selected 40 samples using entropy sampling
+Total labeled samples: 960
+Remaining unlabeled: 4240
+
+--- Iteration 20 ---
+Test - F1: 0.7132, Accuracy: 0.9055
+Selected 40 samples using entropy sampling
+Total labeled samples: 1000
+Remaining unlabeled: 4200
+
+--- Iteration 21 ---
+Test - F1: 0.7031, Accuracy: 0.9025
+Selected 40 samples using entropy sampling
+Total labeled samples: 1040
+Remaining unlabeled: 4160
+
+--- Iteration 22 ---
+Test - F1: 0.7022, Accuracy: 0.9020
+Selected 40 samples using entropy sampling
+Total labeled samples: 1080
+Remaining unlabeled: 4120
+
+--- Iteration 23 ---
+Test - F1: 0.6990, Accuracy: 0.9015
+Selected 40 samples using entropy sampling
+Total labeled samples: 1120
+Remaining unlabeled: 4080
+
+--- Iteration 24 ---
+Test - F1: 0.7020, Accuracy: 0.9020
+Selected 40 samples using entropy sampling
+Total labeled samples: 1160
+Remaining unlabeled: 4040
+
+--- Iteration 25 ---
+Test - F1: 0.7029, Accuracy: 0.9045
+Selected 40 samples using entropy sampling
+Total labeled samples: 1200
+Remaining unlabeled: 4000
+
+--- Iteration 26 ---
+Test - F1: 0.7113, Accuracy: 0.9080
+Selected 40 samples using entropy sampling
+Total labeled samples: 1240
+Remaining unlabeled: 3960
+
+--- Iteration 27 ---
+Test - F1: 0.7012, Accuracy: 0.9055
+Selected 40 samples using entropy sampling
+Total labeled samples: 1280
+Remaining unlabeled: 3920
+
+--- Iteration 28 ---
+Test - F1: 0.7151, Accuracy: 0.9075
+Selected 40 samples using entropy sampling
+Total labeled samples: 1320
+Remaining unlabeled: 3880
+
+--- Iteration 29 ---
+Test - F1: 0.7170, Accuracy: 0.9090
+Selected 40 samples using entropy sampling
+Total labeled samples: 1360
+Remaining unlabeled: 3840
+
+--- Iteration 30 ---
+Test - F1: 0.7083, Accuracy: 0.9060
+Selected 40 samples using entropy sampling
+Total labeled samples: 1400
+Remaining unlabeled: 3800
+
+--- Iteration 31 ---
+Test - F1: 0.7119, Accuracy: 0.9100
+Selected 40 samples using entropy sampling
+Total labeled samples: 1440
+Remaining unlabeled: 3760
+
+--- Iteration 32 ---
+Test - F1: 0.7166, Accuracy: 0.9120
+Selected 40 samples using entropy sampling
+Total labeled samples: 1480
+Remaining unlabeled: 3720
+
+--- Iteration 33 ---
+Test - F1: 0.7113, Accuracy: 0.9115
+Selected 40 samples using entropy sampling
+Total labeled samples: 1520
+Remaining unlabeled: 3680
+
+--- Iteration 34 ---
+Test - F1: 0.7161, Accuracy: 0.9120
+Selected 40 samples using entropy sampling
+Total labeled samples: 1560
+Remaining unlabeled: 3640
+
+--- Iteration 35 ---
+Test - F1: 0.7155, Accuracy: 0.9115
+Selected 40 samples using entropy sampling
+Total labeled samples: 1600
+Remaining unlabeled: 3600
+
+--- Iteration 36 ---
+Test - F1: 0.7168, Accuracy: 0.9130
+Selected 40 samples using entropy sampling
+Total labeled samples: 1640
+Remaining unlabeled: 3560
+
+--- Iteration 37 ---
+Test - F1: 0.7179, Accuracy: 0.9125
+Selected 40 samples using entropy sampling
+Total labeled samples: 1680
+Remaining unlabeled: 3520
+
+--- Iteration 38 ---
+Test - F1: 0.7192, Accuracy: 0.9160
+Selected 40 samples using entropy sampling
+Total labeled samples: 1720
+Remaining unlabeled: 3480
+
+--- Iteration 39 ---
+Test - F1: 0.7195, Accuracy: 0.9165
+Selected 40 samples using entropy sampling
+Total labeled samples: 1760
+Remaining unlabeled: 3440
+
+--- Iteration 40 ---
+Test - F1: 0.7224, Accuracy: 0.9160
+
+Final Test - F1: 0.7224, Accuracy: 0.9160
+
+============================================================
+PROPOSED FRAMEWORK (Warmup + Entropy + LLM + Qwen)
+============================================================
+Initial labeled pool: 200 samples
+Remaining unlabeled: 5000 samples
+Augmentation logging enabled: /root/paper/LEDGAR/data2/augmentation_seed42.csv
+
+--- Iteration 1 ---
+Test - F1: 0.6539, Accuracy: 0.8490
+Selected 40 samples using entropy sampling
+Loading local generator model: meta-llama/Meta-Llama-3-8B-Instruct
+Sending all 40 augmented samples to Validator...
+Loading local validator model: Qwen/Qwen2.5-7B-Instruct
+Agreement Rate: 0.7500
+Validator accepted: 30/40
+Total labeled samples: 270
+Remaining unlabeled: 4960
+
+--- Iteration 2 ---
+Test - F1: 0.6554, Accuracy: 0.8600
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.8500
+Validator accepted: 34/40
+Total labeled samples: 344
+Remaining unlabeled: 4920
+
+--- Iteration 3 ---
+Test - F1: 0.6714, Accuracy: 0.8725
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7250
+Validator accepted: 29/40
+Total labeled samples: 413
+Remaining unlabeled: 4880
+
+--- Iteration 4 ---
+Test - F1: 0.6734, Accuracy: 0.8760
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7500
+Validator accepted: 30/40
+Total labeled samples: 483
+Remaining unlabeled: 4840
+
+--- Iteration 5 ---
+Test - F1: 0.6750, Accuracy: 0.8755
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.8000
+Validator accepted: 32/40
+Total labeled samples: 555
+Remaining unlabeled: 4800
+
+--- Iteration 6 ---
+Test - F1: 0.6675, Accuracy: 0.8770
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7250
+Validator accepted: 29/40
+Total labeled samples: 624
+Remaining unlabeled: 4760
+
+--- Iteration 7 ---
+Test - F1: 0.6983, Accuracy: 0.8845
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7750
+Validator accepted: 31/40
+Total labeled samples: 695
+Remaining unlabeled: 4720
+
+--- Iteration 8 ---
+Test - F1: 0.7113, Accuracy: 0.8965
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.6750
+Validator accepted: 27/40
+Total labeled samples: 762
+Remaining unlabeled: 4680
+
+--- Iteration 9 ---
+Test - F1: 0.6998, Accuracy: 0.8985
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7000
+Validator accepted: 28/40
+Total labeled samples: 830
+Remaining unlabeled: 4640
+
+--- Iteration 10 ---
+Test - F1: 0.6969, Accuracy: 0.8990
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7250
+Validator accepted: 29/40
+Total labeled samples: 899
+Remaining unlabeled: 4600
+
+--- Iteration 11 ---
+Test - F1: 0.6964, Accuracy: 0.8990
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.8250
+Validator accepted: 33/40
+Total labeled samples: 972
+Remaining unlabeled: 4560
+
+--- Iteration 12 ---
+Test - F1: 0.7059, Accuracy: 0.9040
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.8000
+Validator accepted: 32/40
+Total labeled samples: 1044
+Remaining unlabeled: 4520
+
+--- Iteration 13 ---
+Test - F1: 0.7118, Accuracy: 0.9035
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7000
+Validator accepted: 28/40
+Total labeled samples: 1112
+Remaining unlabeled: 4480
+
+--- Iteration 14 ---
+Test - F1: 0.7055, Accuracy: 0.9035
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.8750
+Validator accepted: 35/40
+Total labeled samples: 1187
+Remaining unlabeled: 4440
+
+--- Iteration 15 ---
+Test - F1: 0.7050, Accuracy: 0.9040
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7750
+Validator accepted: 31/40
+Total labeled samples: 1258
+Remaining unlabeled: 4400
+
+--- Iteration 16 ---
+Test - F1: 0.7161, Accuracy: 0.9050
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.5750
+Validator accepted: 23/40
+Total labeled samples: 1321
+Remaining unlabeled: 4360
+
+--- Iteration 17 ---
+Test - F1: 0.7150, Accuracy: 0.9075
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7500
+Validator accepted: 30/40
+Total labeled samples: 1391
+Remaining unlabeled: 4320
+
+--- Iteration 18 ---
+Test - F1: 0.7152, Accuracy: 0.9055
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7000
+Validator accepted: 28/40
+Total labeled samples: 1459
+Remaining unlabeled: 4280
+
+--- Iteration 19 ---
+Test - F1: 0.7136, Accuracy: 0.9055
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7250
+Validator accepted: 29/40
+Total labeled samples: 1528
+Remaining unlabeled: 4240
+
+--- Iteration 20 ---
+Test - F1: 0.7179, Accuracy: 0.9095
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7000
+Validator accepted: 28/40
+Total labeled samples: 1596
+Remaining unlabeled: 4200
+
+--- Iteration 21 ---
+Test - F1: 0.7248, Accuracy: 0.9105
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7750
+Validator accepted: 31/40
+Total labeled samples: 1667
+Remaining unlabeled: 4160
+
+--- Iteration 22 ---
+Test - F1: 0.7205, Accuracy: 0.9095
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7250
+Validator accepted: 29/40
+Total labeled samples: 1736
+Remaining unlabeled: 4120
+
+--- Iteration 23 ---
+Test - F1: 0.7165, Accuracy: 0.9100
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7000
+Validator accepted: 28/40
+Total labeled samples: 1804
+Remaining unlabeled: 4080
+
+--- Iteration 24 ---
+Test - F1: 0.7218, Accuracy: 0.9115
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7750
+Validator accepted: 31/40
+Total labeled samples: 1875
+Remaining unlabeled: 4040
+
+--- Iteration 25 ---
+Test - F1: 0.7206, Accuracy: 0.9100
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.6500
+Validator accepted: 26/40
+Total labeled samples: 1941
+Remaining unlabeled: 4000
+
+--- Iteration 26 ---
+Test - F1: 0.7331, Accuracy: 0.9140
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7500
+Validator accepted: 30/40
+Total labeled samples: 2011
+Remaining unlabeled: 3960
+
+--- Iteration 27 ---
+Test - F1: 0.7206, Accuracy: 0.9115
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7500
+Validator accepted: 30/40
+Total labeled samples: 2081
+Remaining unlabeled: 3920
+
+--- Iteration 28 ---
+Test - F1: 0.7280, Accuracy: 0.9120
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.8250
+Validator accepted: 33/40
+Total labeled samples: 2154
+Remaining unlabeled: 3880
+
+--- Iteration 29 ---
+Test - F1: 0.7281, Accuracy: 0.9110
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.6500
+Validator accepted: 26/40
+Total labeled samples: 2220
+Remaining unlabeled: 3840
+
+--- Iteration 30 ---
+Test - F1: 0.7294, Accuracy: 0.9170
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7500
+Validator accepted: 30/40
+Total labeled samples: 2290
+Remaining unlabeled: 3800
+
+--- Iteration 31 ---
+Test - F1: 0.7304, Accuracy: 0.9175
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7000
+Validator accepted: 28/40
+Total labeled samples: 2358
+Remaining unlabeled: 3760
+
+--- Iteration 32 ---
+Test - F1: 0.7291, Accuracy: 0.9155
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.5250
+Validator accepted: 21/40
+Total labeled samples: 2419
+Remaining unlabeled: 3720
+
+--- Iteration 33 ---
+Test - F1: 0.7346, Accuracy: 0.9180
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7000
+Validator accepted: 28/40
+Total labeled samples: 2487
+Remaining unlabeled: 3680
+
+--- Iteration 34 ---
+Test - F1: 0.7372, Accuracy: 0.9175
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.5750
+Validator accepted: 23/40
+Total labeled samples: 2550
+Remaining unlabeled: 3640
+
+--- Iteration 35 ---
+Test - F1: 0.7369, Accuracy: 0.9185
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7500
+Validator accepted: 30/40
+Total labeled samples: 2620
+Remaining unlabeled: 3600
+
+--- Iteration 36 ---
+Test - F1: 0.7354, Accuracy: 0.9170
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.7000
+Validator accepted: 28/40
+Total labeled samples: 2688
+Remaining unlabeled: 3560
+
+--- Iteration 37 ---
+Test - F1: 0.7319, Accuracy: 0.9170
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.6250
+Validator accepted: 25/40
+Total labeled samples: 2753
+Remaining unlabeled: 3520
+
+--- Iteration 38 ---
+Test - F1: 0.7351, Accuracy: 0.9170
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.8000
+Validator accepted: 32/40
+Total labeled samples: 2825
+Remaining unlabeled: 3480
+
+--- Iteration 39 ---
+Test - F1: 0.7372, Accuracy: 0.9170
+Selected 40 samples using entropy sampling
+Sending all 40 augmented samples to Validator...
+Agreement Rate: 0.6250
+Validator accepted: 25/40
+Total labeled samples: 2890
+Remaining unlabeled: 3440
+
+--- Iteration 40 ---
+Test - F1: 0.7396, Accuracy: 0.9180
+
+Final Test - F1: 0.7396, Accuracy: 0.9180
+✓ openpyxl not installed; exported CSV instead: /root/paper/LEDGAR/data2/augmentation_seed42.csv
+
+============================================================
+AUGMENTATION LOG STATISTICS
+============================================================
+Total Records: 1560
+Accepted: 1130 (72.44%)
+Rejected: 430 (27.56%)
+
+By Label:
+  ('Agreements', 'Accepted'): 42
+  ('Agreements', 'Rejected'): 8
+  ('Amendments', 'Accepted'): 112
+  ('Amendments', 'Rejected'): 35
+  ('Approvals', 'Accepted'): 30
+  ('Approvals', 'Rejected'): 5
+  ('Assignments', 'Accepted'): 108
+  ('Assignments', 'Rejected'): 39
+  ('Consent To Jurisdiction', 'Accepted'): 19
+  ('Consent To Jurisdiction', 'Rejected'): 24
+  ('Costs', 'Accepted'): 23
+  ('Costs', 'Rejected'): 5
+  ('Counterparts', 'Accepted'): 40
+  ('Counterparts', 'Rejected'): 14
+  ('Effectiveness', 'Accepted'): 33
+  ('Effectiveness', 'Rejected'): 10
+  ('Enforceability', 'Accepted'): 43
+  ('Enforceability', 'Rejected'): 8
+  ('Enforcements', 'Accepted'): 30
+  ('Enforcements', 'Rejected'): 6
+  ('Entire Agreements', 'Accepted'): 111
+  ('Entire Agreements', 'Rejected'): 33
+  ('Expenses', 'Accepted'): 68
+  ('Expenses', 'Rejected'): 30
+  ('Governing Laws', 'Accepted'): 111
+  ('Governing Laws', 'Rejected'): 65
+  ('Jurisdictions', 'Accepted'): 29
+  ('Jurisdictions', 'Rejected'): 8
+  ('Notices', 'Accepted'): 82
+  ('Notices', 'Rejected'): 36
+  ('Positions', 'Accepted'): 14
+  ('Positions', 'Rejected'): 7
+  ('Severability', 'Accepted'): 65
+  ('Severability', 'Rejected'): 16
+  ('Submission To Jurisdiction', 'Accepted'): 26
+  ('Submission To Jurisdiction', 'Rejected'): 16
+  ('Survival', 'Accepted'): 64
+  ('Survival', 'Rejected'): 34
+  ('Terms', 'Accepted'): 80
+  ('Terms', 'Rejected'): 31
+============================================================
+
+
+Augmentation logs saved to: /root/paper/LEDGAR/data2

@@ -1,0 +1,596 @@
+================================================================================
+LLAMA3 GENERATION RESULTS
+================================================================================
+
+Sample 1:
+  Target Intent: atm_support
+  Original Text: Is this card accepted by ATMs?
+  Generated Text: Can I use this card at an ATM?
+  Label: 3
+--------------------------------------------------------------------------------
+Sample 2:
+  Target Intent: balance_not_updated_after_bank_transfer
+  Original Text: Hi. About two hours ago I made a transfer from my bank which is in the UK, but I don't see it yet! Would you check what's going on with it, please?
+  Generated Text: I'm trying to check my account balance, but it's not updating after I made a transfer from my UK-based bank account a couple of hours ago. Can you help me figure out what's causing the delay?
+  Label: 5
+--------------------------------------------------------------------------------
+Sample 3:
+  Target Intent: request_refund
+  Original Text: Are purchases returnable for full refund?
+  Generated Text: Can I get a full refund for my recent purchase?
+  Label: 52
+--------------------------------------------------------------------------------
+Sample 4:
+  Target Intent: cash_withdrawal_not_recognised
+  Original Text: Some cash I didn't get shows in my app
+  Generated Text: I'm showing a cash withdrawal that I didn't make in my account
+  Label: 20
+--------------------------------------------------------------------------------
+Sample 5:
+  Target Intent: fiat_currency_support
+  Original Text: Which fiat currencies are compatible for exchange and holding?
+  Generated Text: We support a wide range of fiat currencies for exchange and holding, including USD, EUR, JPY, GBP, and many more. Please note that the availability of specific currencies may vary depending on your location and account type.
+  Label: 36
+--------------------------------------------------------------------------------
+Sample 6:
+  Target Intent: balance_not_updated_after_bank_transfer
+  Original Text: After transfering some money my balance hasn't changed.
+  Generated Text: I made a recent transfer, but my account balance still shows the same amount.
+  Label: 5
+--------------------------------------------------------------------------------
+Sample 7:
+  Target Intent: card_linking
+  Original Text: Will I need a new card or can I put my old card back into the app?
+  Generated Text: Can I reactivate my existing card or do I need to request a new one for use with the app?
+  Label: 13
+--------------------------------------------------------------------------------
+Sample 8:
+  Target Intent: verify_source_of_funds
+  Original Text: where is this money from
+  Generated Text: Can you please confirm the origin of these funds?
+  Label: 70
+--------------------------------------------------------------------------------
+Sample 9:
+  Target Intent: wrong_exchange_rate_for_cash_withdrawal
+  Original Text: The exchange rate was wrong?
+  Generated Text: The exchange rate was incorrect.
+  Label: 76
+--------------------------------------------------------------------------------
+Sample 10:
+  Target Intent: balance_not_updated_after_bank_transfer
+  Original Text: I was wondering if international transfers take longer than normal because I made a transfer from France a couple of days ago and nothing has happened yet?
+  Generated Text: I'm concerned about the status of my recent international transfer from the UK, as I haven't seen any updates on my account balance since I initiated the transfer a few days ago.
+  Label: 5
+--------------------------------------------------------------------------------
+Sample 11:
+  Target Intent: disposable_card_limits
+  Original Text: What is the limits on the number of disposable cards I can have?
+  Generated Text: How many disposable cards can I have in my account? Can I have a limit on the number of disposable cards I can use?
+  Label: 29
+--------------------------------------------------------------------------------
+Sample 12:
+  Target Intent: why_verify_identity
+  Original Text: Why is there a verification to identity
+  Generated Text: We verify your identity to ensure the security and integrity of your account and to prevent any unauthorized access or transactions.
+  Label: 74
+--------------------------------------------------------------------------------
+Sample 13:
+  Target Intent: direct_debit_payment_not_recognised
+  Original Text: what is the word?
+  Generated Text: I'm not sure what you're referring to, but I'd be happy to help you with your direct debit payment issue. Can you please provide more details about the payment that was not recognized?
+  Label: 28
+--------------------------------------------------------------------------------
+Sample 14:
+  Target Intent: transfer_not_received_by_recipient
+  Original Text: How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.
+  Generated Text: I'm concerned that the transfer I sent to my friend hasn't arrived yet. Can you please look into this and let me know what's causing the delay? I'm worried she's waiting for the funds.
+  Label: 66
+--------------------------------------------------------------------------------
+Sample 15:
+  Target Intent: cash_withdrawal_charge
+  Original Text: Please help!  There was an extra fee when I got cash.
+  Generated Text: Can you assist me with the unexpected charge I was charged for the cash withdrawal?
+  Label: 19
+--------------------------------------------------------------------------------
+Sample 16:
+  Target Intent: wrong_amount_of_cash_received
+  Original Text: The app is showing that I received alot more money than I actually received from the ATM. This occurred earlier today.
+  Generated Text: The app is displaying an incorrect amount, indicating I received a significantly higher amount than what I physically took from the ATM, which happened earlier today.
+  Label: 75
+--------------------------------------------------------------------------------
+Sample 17:
+  Target Intent: change_pin
+  Original Text: Your ATM pin can be changed at any VISA or MasterCard ATM with PIN services. Certain countries don't support ATM pin changes.
+  Generated Text: You can modify your ATM PIN at any VISA or MasterCard ATM with PIN capabilities, but please note that some countries may not offer this service.
+  Label: 21
+--------------------------------------------------------------------------------
+Sample 18:
+  Target Intent: topping_up_by_card
+  Original Text: How do I add money to my card?
+  Generated Text: Can you please guide me on how to top up my card with some funds?
+  Label: 62
+--------------------------------------------------------------------------------
+Sample 19:
+  Target Intent: fiat_currency_support
+  Original Text: I need a list of currencies you accept for exchange.
+  Generated Text: We accept a wide range of fiat currencies for exchange, including but not limited to USD, EUR, JPY, GBP, and many more. Please let me know if you have a specific currency in mind, and I'll be happy to assist you with the exchange process.
+  Label: 36
+--------------------------------------------------------------------------------
+Sample 20:
+  Target Intent: pending_cash_withdrawal
+  Original Text: There is a pending transaction on my account for when I tried to get money from the ATM earlier and it did not work. Can you fix this?
+  Generated Text: I have a pending withdrawal attempt from an ATM that didn't go through earlier. Can you assist me in resolving this issue?
+  Label: 46
+--------------------------------------------------------------------------------
+Sample 21:
+  Target Intent: declined_cash_withdrawal
+  Original Text: Why can I not get cash from the ATM?
+  Generated Text: Why was my cash withdrawal request declined at the ATM?
+  Label: 26
+--------------------------------------------------------------------------------
+Sample 22:
+  Target Intent: getting_spare_card
+  Original Text: Is there a charge for sending out more cards?
+  Generated Text: Can I get a new card without incurring any additional fees?
+  Label: 39
+--------------------------------------------------------------------------------
+Sample 23:
+  Target Intent: balance_not_updated_after_bank_transfer
+  Original Text: Can you tell me why the transfer isn't showing up on my account?
+  Generated Text: I'm trying to figure out why the recent bank transfer isn't reflecting in my account balance.
+  Label: 5
+--------------------------------------------------------------------------------
+Sample 24:
+  Target Intent: card_delivery_estimate
+  Original Text: When are cards shipped?
+  Generated Text: What is the estimated delivery date for my card?
+  Label: 12
+--------------------------------------------------------------------------------
+Sample 25:
+  Target Intent: visa_or_mastercard
+  Original Text: Which type of card will I receive?
+  Generated Text: What kind of payment card will I be issued?
+  Label: 73
+--------------------------------------------------------------------------------
+Sample 26:
+  Target Intent: change_pin
+  Original Text: Can I change my pin through the app?
+  Generated Text: Can I modify my pin using the mobile banking app?
+  Label: 21
+--------------------------------------------------------------------------------
+Sample 27:
+  Target Intent: transfer_timing
+  Original Text: How long do I have to wait for Europe transfers?
+  Generated Text: What is the typical processing time for international transfers to Europe?
+  Label: 67
+--------------------------------------------------------------------------------
+Sample 28:
+  Target Intent: age_limit
+  Original Text: How do I open an account for my children?
+  Generated Text: What is the minimum age requirement to open a child's account?
+  Label: 1
+--------------------------------------------------------------------------------
+Sample 29:
+  Target Intent: top_up_by_card_charge
+  Original Text: If I top up using a European card is there a charge?
+  Generated Text: Are there any charges applicable when topping up using a European-issued card?
+  Label: 57
+--------------------------------------------------------------------------------
+Sample 30:
+  Target Intent: pending_card_payment
+  Original Text: What does a 'pending payment' mean?
+  Generated Text: What does a 'pending payment' mean?
+  Label: 45
+--------------------------------------------------------------------------------
+Sample 31:
+  Target Intent: top_up_by_bank_transfer_charge
+  Original Text: What is the handling fee for transfer?
+  Generated Text: What is the bank transfer charge for topping up my account?
+  Label: 56
+--------------------------------------------------------------------------------
+Sample 32:
+  Target Intent: top_up_reverted
+  Original Text: Is there a reason my top-up has been cancelled?
+  Generated Text: Why was my recent top-up reversed?
+  Label: 61
+--------------------------------------------------------------------------------
+Sample 33:
+  Target Intent: card_payment_not_recognised
+  Original Text: I have an unusual payment in my statement
+  Generated Text: I'm seeing an unfamiliar payment on my statement
+  Label: 16
+--------------------------------------------------------------------------------
+Sample 34:
+  Target Intent: pending_card_payment
+  Original Text: Why is their a charge pending on my card still?
+  Generated Text: I'm still seeing a pending charge on my card, can you help me understand why it's still outstanding?
+  Label: 45
+--------------------------------------------------------------------------------
+Sample 35:
+  Target Intent: top_up_by_bank_transfer_charge
+  Original Text: What are the charges for recieving SEPA transfers?
+  Generated Text: What are the fees for receiving bank transfers via SEPA?
+  Label: 56
+--------------------------------------------------------------------------------
+Sample 36:
+  Target Intent: cash_withdrawal_not_recognised
+  Original Text: What is this cash withdrawal I don't recognize?
+  Generated Text: I'm trying to make sense of this unknown cash withdrawal.
+  Label: 20
+--------------------------------------------------------------------------------
+Sample 37:
+  Target Intent: transfer_into_account
+  Original Text: I would like to transfer money from my checking account to my savings account.
+  Generated Text: I'd like to move funds from my checking account to my savings account.
+  Label: 65
+--------------------------------------------------------------------------------
+Sample 38:
+  Target Intent: transfer_into_account
+  Original Text: Tell me how to top up my account using bank transfer.
+  Generated Text: Can you guide me on how to transfer funds from my bank account to my account with your bank?
+  Label: 65
+--------------------------------------------------------------------------------
+Sample 39:
+  Target Intent: transfer_not_received_by_recipient
+  Original Text: I just transferred my friend money, but she hasn't received it yet, and it's been a few hours. Can you tell me when to expect it to go through?
+  Generated Text: I sent a payment to my acquaintance, but it's been a while and they haven't received it. Can you help me figure out why it's taking so long to process?
+  Label: 66
+--------------------------------------------------------------------------------
+Sample 40:
+  Target Intent: failed_transfer
+  Original Text: Why didn't my transfer complete?
+  Generated Text: What happened to my transfer? It didn't go through.
+  Label: 35
+--------------------------------------------------------------------------------
+
+================================================================================
+QWEN VALIDATION RESULTS
+================================================================================
+Iteration: 1
+Total Samples: 39
+Accepted: 32/39
+Agreement Rate: 0.8205
+--------------------------------------------------------------------------------
+
+Sample 1:
+  Label: 3 (atm_support)
+  Original: Is this card accepted by ATMs?
+  Augmented: Can I use this card at an ATM?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of checking ATM acceptance for a card and is a clean, direct customer query without any conversational fillers.
+
+<decision>YES</decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 2:
+  Label: 5 (balance_not_updated_after_bank_transfer)
+  Original: Hi. About two hours ago I made a transfer from my bank which is in the UK, but I don't see it yet! Would you check what's going on with it, please?
+  Augmented: I'm trying to check my account balance, but it's not updating after I made a transfer from my UK-based bank account a couple of hours ago. Can you help me figure out what's causing the delay?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario where the balance is not updated after a bank transfer and is free of conversational fillers. It captures the essence of the original text without a
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 3:
+  Label: 52 (request_refund)
+  Original: Are purchases returnable for full refund?
+  Augmented: Can I get a full refund for my recent purchase?
+  Qwen Reasoning: The Augmented Text directly asks about the possibility of receiving a full refund for a recent purchase, which aligns with the 'request_refund' intent. It removes any conversational filler present in 
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 4:
+  Label: 20 (cash_withdrawal_not_recognised)
+  Original: Some cash I didn't get shows in my app
+  Augmented: I'm showing a cash withdrawal that I didn't make in my account
+  Qwen Reasoning: The Augmented Text captures the essence of the original text by indicating a cash withdrawal not recognized by the user. It removes conversational fillers and directly addresses the issue.
+
+<decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 5:
+  Label: 36 (fiat_currency_support)
+  Original: Which fiat currencies are compatible for exchange and holding?
+  Augmented: We support a wide range of fiat currencies for exchange and holding, including USD, EUR, JPY, GBP, and many more. Please note that the availability of specific currencies may vary depending on your location and account type.
+  Qwen Reasoning: The Augmented Text accurately reflects the need for information about supported fiat currencies for exchange and holding, which aligns with the 'fiat_currency_support' intent. It removes conversationa
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 6:
+  Label: 5 (balance_not_updated_after_bank_transfer)
+  Original: After transfering some money my balance hasn't changed.
+  Augmented: I made a recent transfer, but my account balance still shows the same amount.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario where a bank transfer has not updated the account balance. It removes any conversational filler, focusing on the core issue.
+
+<decision>YES</decisio
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 7:
+  Label: 13 (card_linking)
+  Original: Will I need a new card or can I put my old card back into the app?
+  Augmented: Can I reactivate my existing card or do I need to request a new one for use with the app?
+  Qwen Reasoning: The Augmented Text reflects the scenario of linking a card to an app, specifically asking about reactivating an existing card versus needing a new one, which aligns with the 'card_linking' intent. The
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 8:
+  Label: 70 (verify_source_of_funds)
+  Original: where is this money from
+  Augmented: Can you please confirm the origin of these funds?
+  Qwen Reasoning: The Augmented Text accurately reflects the need to verify the source of funds as specified in the target intent. It removes any conversational filler and directly addresses the intent.
+
+<decision>YES<
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 9:
+  Label: 76 (wrong_exchange_rate_for_cash_withdrawal)
+  Original: The exchange rate was wrong?
+  Augmented: The exchange rate was incorrect.
+  Qwen Reasoning: Reasoning: The original text indicates an issue with the exchange rate, but it is not specific to a cash withdrawal. The augmented text simplifies this to "The exchange rate was incorrect," which does
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 10:
+  Label: 5 (balance_not_updated_after_bank_transfer)
+  Original: I was wondering if international transfers take longer than normal because I made a transfer from France a couple of days ago and nothing has happened yet?
+  Augmented: I'm concerned about the status of my recent international transfer from the UK, as I haven't seen any updates on my account balance since I initiated the transfer a few days ago.
+  Qwen Reasoning: Reasoning: The augmented text reflects the scenario where a customer's account balance has not been updated after initiating a bank transfer, which aligns with the target intent. However, it includes 
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 11:
+  Label: 29 (disposable_card_limits)
+  Original: What is the limits on the number of disposable cards I can have?
+  Augmented: How many disposable cards can I have in my account? Can I have a limit on the number of disposable cards I can use?
+  Qwen Reasoning: The Augmented Text closely aligns with the original intent of understanding the limits on disposable cards but includes additional phrasing that introduces conversational fillers.
+
+<decision>NO</decis
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 12:
+  Label: 74 (why_verify_identity)
+  Original: Why is there a verification to identity
+  Augmented: We verify your identity to ensure the security and integrity of your account and to prevent any unauthorized access or transactions.
+  Qwen Reasoning: The Augmented Text accurately reflects the need for identity verification as per the 'why_verify_identity' intent and provides a clear reason for the action. It does not include any conversational fil
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 13:
+  Label: 28 (direct_debit_payment_not_recognised)
+  Original: what is the word?
+  Augmented: I'm not sure what you're referring to, but I'd be happy to help you with your direct debit payment issue. Can you please provide more details about the payment that was not recognized?
+  Qwen Reasoning: The Original Text does not match the Target Intent as it is unrelated to direct debit payments. The Augmented Text includes conversational filler and does not directly address the Target Intent.
+
+<dec
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 14:
+  Label: 66 (transfer_not_received_by_recipient)
+  Original: How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.
+  Augmented: I'm concerned that the transfer I sent to my friend hasn't arrived yet. Can you please look into this and let me know what's causing the delay? I'm worried she's waiting for the funds.
+  Qwen Reasoning: The Augmented Text reflects a scenario where a transfer has not been received by the intended recipient, which aligns with the target intent. The text does not include any conversational fillers.
+
+<de
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 15:
+  Label: 19 (cash_withdrawal_charge)
+  Original: Please help!  There was an extra fee when I got cash.
+  Augmented: Can you assist me with the unexpected charge I was charged for the cash withdrawal?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of an unexpected fee for a cash withdrawal as defined by the intent 'cash_withdrawal_charge'. It removes all conversational fillers present in the o
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 16:
+  Label: 75 (wrong_amount_of_cash_received)
+  Original: The app is showing that I received alot more money than I actually received from the ATM. This occurred earlier today.
+  Augmented: The app is displaying an incorrect amount, indicating I received a significantly higher amount than what I physically took from the ATM, which happened earlier today.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of receiving the wrong amount of cash as per the target intent and removes all conversational fillers.
+
+<decision>YES</decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 17:
+  Label: 21 (change_pin)
+  Original: Your ATM pin can be changed at any VISA or MasterCard ATM with PIN services. Certain countries don't support ATM pin changes.
+  Augmented: You can modify your ATM PIN at any VISA or MasterCard ATM with PIN capabilities, but please note that some countries may not offer this service.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of changing a PIN and removes the conversational filler. It directly addresses the ability to change the PIN at certain ATMs while noting restrictio
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 18:
+  Label: 62 (topping_up_by_card)
+  Original: How do I add money to my card?
+  Augmented: Can you please guide me on how to top up my card with some funds?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of topping up a card with funds and directly corresponds to the target intent. It removes any conversational filler, making it a clean customer quer
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 19:
+  Label: 36 (fiat_currency_support)
+  Original: I need a list of currencies you accept for exchange.
+  Augmented: We accept a wide range of fiat currencies for exchange, including but not limited to USD, EUR, JPY, GBP, and many more. Please let me know if you have a specific currency in mind, and I'll be happy to assist you with the exchange process.
+  Qwen Reasoning: The Augmented Text accurately reflects the need for fiat currency support but includes additional information that goes beyond the specific scenario defined by the intent. It also contains conversatio
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 20:
+  Label: 46 (pending_cash_withdrawal)
+  Original: There is a pending transaction on my account for when I tried to get money from the ATM earlier and it did not work. Can you fix this?
+  Augmented: I have a pending withdrawal attempt from an ATM that didn't go through earlier. Can you assist me in resolving this issue?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a pending cash withdrawal that did not go through as intended and requests assistance in resolving the issue. It removes all conversational fille
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 21:
+  Label: 26 (declined_cash_withdrawal)
+  Original: Why can I not get cash from the ATM?
+  Augmented: Why was my cash withdrawal request declined at the ATM?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario where a cash withdrawal was declined and is a clean query without any conversational fillers.
+
+<decision>YES</decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 22:
+  Label: 39 (getting_spare_card)
+  Original: Is there a charge for sending out more cards?
+  Augmented: Can I get a new card without incurring any additional fees?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of requesting a spare card and removes the conversational filler from the Original Text.
+
+<decision>YES</decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 23:
+  Label: 5 (balance_not_updated_after_bank_transfer)
+  Original: Can you tell me why the transfer isn't showing up on my account?
+  Augmented: I'm trying to figure out why the recent bank transfer isn't reflecting in my account balance.
+  Qwen Reasoning: Reasoning: The augmented text accurately reflects the scenario where the transfer is not showing up in the account balance, which aligns with the target intent. It also removes any conversational fill
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 24:
+  Label: 12 (card_delivery_estimate)
+  Original: When are cards shipped?
+  Augmented: What is the estimated delivery date for my card?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of asking for the estimated delivery date of a card, which aligns with the intent 'card_delivery_estimate'. It is a clean query without any conversa
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 25:
+  Label: 73 (visa_or_mastercard)
+  Original: Which type of card will I receive?
+  Augmented: What kind of payment card will I be issued?
+  Qwen Reasoning: The Original Text asks about the type of card, which aligns with the 'visa_or_mastercard' intent. The Augmented Text rephrases this into a similar inquiry but does not specify the type of card.
+
+<deci
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 26:
+  Label: 21 (change_pin)
+  Original: Can I change my pin through the app?
+  Augmented: Can I modify my pin using the mobile banking app?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of changing a pin through a mobile app without any conversational fillers.
+
+<decision>YES</decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 27:
+  Label: 67 (transfer_timing)
+  Original: How long do I have to wait for Europe transfers?
+  Augmented: What is the typical processing time for international transfers to Europe?
+  Qwen Reasoning: The Augmented Text accurately reflects the specific scenario of transfer timing for international transfers to Europe, which aligns with the 'transfer_timing' intent. It removes conversational filler 
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 28:
+  Label: 1 (age_limit)
+  Original: How do I open an account for my children?
+  Augmented: What is the minimum age requirement to open a child's account?
+  Qwen Reasoning: The Augmented Text accurately reflects the need to know the age limit for opening a child's account, which aligns with the 'age_limit' intent. It removes any conversational fillers present in the orig
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 29:
+  Label: 57 (top_up_by_card_charge)
+  Original: If I top up using a European card is there a charge?
+  Augmented: Are there any charges applicable when topping up using a European-issued card?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a charge for topping up with a European card and is free of conversational fillers.
+
+<decision>YES</decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 30:
+  Label: 56 (top_up_by_bank_transfer_charge)
+  Original: What is the handling fee for transfer?
+  Augmented: What is the bank transfer charge for topping up my account?
+  Qwen Reasoning: The Augmented Text accurately reflects the specific scenario of a bank transfer charge for topping up an account, matching the target intent. It removes any conversational filler.
+
+<decision>YES</deci
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 31:
+  Label: 61 (top_up_reverted)
+  Original: Is there a reason my top-up has been cancelled?
+  Augmented: Why was my recent top-up reversed?
+  Qwen Reasoning: Reasoning: The augmented text "Why was my recent top-up reversed?" accurately reflects the scenario of a top-up being cancelled or reverted, which aligns with the target intent 'top_up_reverted'. It a
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 32:
+  Label: 16 (card_payment_not_recognised)
+  Original: I have an unusual payment in my statement
+  Augmented: I'm seeing an unfamiliar payment on my statement
+  Qwen Reasoning: Reasoning: The augmented text "I'm seeing an unfamiliar payment on my statement" accurately reflects the scenario of an unrecognized payment, which aligns with the intent 'card_payment_not_recognised'
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 33:
+  Label: 45 (pending_card_payment)
+  Original: Why is their a charge pending on my card still?
+  Augmented: I'm still seeing a pending charge on my card, can you help me understand why it's still outstanding?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a pending card payment and removes conversational filler, directly addressing the issue in a clear manner.
+
+<decision>YES</decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 34:
+  Label: 56 (top_up_by_bank_transfer_charge)
+  Original: What are the charges for recieving SEPA transfers?
+  Augmented: What are the fees for receiving bank transfers via SEPA?
+  Qwen Reasoning: The Original Text asks about SEPA transfer charges, while the Target Intent is about bank transfer charges through bank transfer. The Augmented Text changes SEPA to just bank transfers, which alters t
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 35:
+  Label: 20 (cash_withdrawal_not_recognised)
+  Original: What is this cash withdrawal I don't recognize?
+  Augmented: I'm trying to make sense of this unknown cash withdrawal.
+  Qwen Reasoning: The Augmented Text captures the essence of the original text but uses different wording that still reflects the scenario of an unrecognized cash withdrawal. However, it includes the conversational fil
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 36:
+  Label: 65 (transfer_into_account)
+  Original: I would like to transfer money from my checking account to my savings account.
+  Augmented: I'd like to move funds from my checking account to my savings account.
+  Qwen Reasoning: The Augmented Text accurately reflects the specific scenario of transferring money between accounts as defined by the intent 'transfer_into_account'. It is a clean customer query without any conversat
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 37:
+  Label: 65 (transfer_into_account)
+  Original: Tell me how to top up my account using bank transfer.
+  Augmented: Can you guide me on how to transfer funds from my bank account to my account with your bank?
+  Qwen Reasoning: Reasoning: The original text asks about topping up an account via bank transfer, while the augmented text specifically asks about transferring funds from one account to another. Although both relate t
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 38:
+  Label: 66 (transfer_not_received_by_recipient)
+  Original: I just transferred my friend money, but she hasn't received it yet, and it's been a few hours. Can you tell me when to expect it to go through?
+  Augmented: I sent a payment to my acquaintance, but it's been a while and they haven't received it. Can you help me figure out why it's taking so long to process?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario where a transfer was made but not received by the intended recipient, aligning with the target intent. It removes conversational fillers and focuses
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 39:
+  Label: 35 (failed_transfer)
+  Original: Why didn't my transfer complete?
+  Augmented: What happened to my transfer? It didn't go through.
+  Qwen Reasoning: Reasoning: The augmented text captures the essence of a failed transfer by indicating that the transfer did not go through, which aligns with the target intent. Additionally, it removes conversational
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------

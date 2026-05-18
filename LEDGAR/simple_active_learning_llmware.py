@@ -58,16 +58,24 @@ EXPERIMENT_NAME = "simple_active_learning_llmware"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "llmware")
-LOG_DIR = os.path.join(DATA_DIR, "logs")
 os.makedirs(DATA_DIR, exist_ok=True)
-os.makedirs(LOG_DIR, exist_ok=True)
+
+RUN_OUTPUT_DIR = DATA_DIR
+RUN_LOG_DIR = DATA_DIR
 
 
-def setup_logging(config_name):
+def _prepare_experiment_run_dirs(config_name, run_tag):
+    """建立單次實驗的輸出資料夾。"""
+    experiment_dir = os.path.join(DATA_DIR, run_tag)
+    os.makedirs(experiment_dir, exist_ok=True)
+    return experiment_dir
+
+
+def setup_logging(config_name, log_dir=DATA_DIR):
     """將輸出同時寫入終端與 log 檔。"""
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    log_filename = os.path.join(LOG_DIR, f"{config_name}_{timestamp}.txt")
+    log_filename = os.path.join(log_dir, f"{config_name}_{timestamp}.txt")
 
     class Logger:
         def __init__(self, filename):
@@ -162,13 +170,11 @@ class LLMwareEmbedder:
             from sklearn.preprocessing import normalize
             result = normalize(result, norm='l2')
             
-        if convert_to_numpy:
-            return result
         return result
 
 
 def _load_local_generator():
-    """Lazy-load 本地 generator，只在需要時載入。"""
+    """本地 generator，只在需要時載入。"""
     global _LOCAL_LLM_TOKENIZER, _LOCAL_LLM_MODEL
 
     if _LOCAL_LLM_TOKENIZER is None or _LOCAL_LLM_MODEL is None:
@@ -196,7 +202,7 @@ def _load_local_generator():
 
 
 def _load_local_validator():
-    """Lazy-load 本地 validator，只在需要時載入。"""
+    """本地 validator，只在需要時載入。"""
     global _LOCAL_VALIDATOR_TOKENIZER, _LOCAL_VALIDATOR_MODEL
 
     if _LOCAL_VALIDATOR_TOKENIZER is None or _LOCAL_VALIDATOR_MODEL is None:
@@ -422,6 +428,19 @@ def generate_variants_llama3(texts, labels, n_variants=1):
     source_texts = []
 
     for text, label in zip(texts, labels):
+
+        # 根據 n_variants 動態調整 Prompt 的格式要求
+        if n_variants == 1:
+            format_instruction = (
+                "Please output exactly 1 variation. "
+                "Do NOT include any titles, numbers, markdown, or introductory text like 'Here is the variation'."
+            )
+        else:
+            format_instruction = (
+                f"Please output exactly {n_variants} variations separated by the delimiter '|||'. "
+                "Do NOT include any titles, numbers, markdown, or introductory text like 'Here are the variations'."
+            )
+
         messages = [
             {
                 "role": "system",
@@ -431,8 +450,7 @@ def generate_variants_llama3(texts, labels, n_variants=1):
                 "role": "user",
                 "content": (
                     "Generate legal text variations while preserving exact legal semantics.\n"
-                    f"Please output exactly {n_variants} variations separated by the delimiter '|||'. "
-                    "Do NOT include any titles, numbers, markdown, or introductory text like 'Here are the variations'.\n\n"
+                    f"{format_instruction}\n\n" 
                     f"Original text:\n{text}"
                 ),
             },
@@ -497,6 +515,45 @@ def _parse_validator_response(text):
     return "YES" in text_upper
 
 
+def _append_llama3_qwen_txt_record(
+    txt_path,
+    iteration,
+    sample_index,
+    label_name,
+    original_text,
+    augmented_text,
+    qwen_reasoning,
+    qwen_decision,
+    status,
+    raw_response=None,
+):
+    """將 llama3 產出與 Qwen 驗證結果追加到單一 txt 檔。"""
+    if not txt_path:
+        return
+
+    file_exists = os.path.exists(txt_path)
+    with open(txt_path, "a", encoding="utf-8") as handle:
+        if not file_exists:
+            handle.write("LLAMA3 + QWEN VALIDATION LOG\n")
+            handle.write("=" * 80 + "\n\n")
+
+        handle.write(f"Iteration: {iteration}\n")
+        handle.write(f"Sample Index: {sample_index}\n")
+        handle.write(f"Label: {label_name}\n")
+        handle.write("Original Text:\n")
+        handle.write(f"{original_text}\n\n")
+        handle.write("Llama3 Generated Text:\n")
+        handle.write(f"{augmented_text}\n\n")
+        handle.write("Qwen Reasoning:\n")
+        handle.write(f"{qwen_reasoning}\n\n")
+        if raw_response:
+            handle.write("Qwen Raw Response:\n")
+            handle.write(f"{raw_response}\n\n")
+        handle.write(f"Qwen Decision: {qwen_decision}\n")
+        handle.write(f"Status: {status}\n")
+        handle.write("-" * 80 + "\n\n")
+
+
 def validate_with_qwen25(
     generated_texts,
     generated_labels,
@@ -504,6 +561,7 @@ def validate_with_qwen25(
     logger=None,
     iteration=0,
     original_texts=None,
+    combined_txt_path=None,
 ):
     """
     使用本地 Qwen2.5 驗證擴增資料並回傳 agreement rate。
@@ -572,6 +630,19 @@ def validate_with_qwen25(
                 status="Accepted" if decision.upper() == "YES" else "Rejected",
             )
 
+        _append_llama3_qwen_txt_record(
+            txt_path=combined_txt_path,
+            iteration=iteration,
+            sample_index=idx,
+            label_name=label_name,
+            original_text=original_text,
+            augmented_text=text,
+            qwen_reasoning=reasoning,
+            qwen_decision=decision,
+            status="Accepted" if decision.upper() == "YES" else "Rejected",
+            raw_response=response_text,
+        )
+
         if _parse_validator_response(response_text):
             valid_texts.append(text)
             valid_labels.append(label)
@@ -638,16 +709,22 @@ def _append_selected(X_labeled, y_labeled, X_pool, y_pool, selected_idx):
     return X_labeled_next, y_labeled_next, X_pool_next, y_pool_next
 
 
-def _get_sampling_indices(model, X_pool, n_samples, iteration, warmup_iters=0, random_seed=42):
+def _get_sampling_indices(model, X_pool, n_samples, iteration, warmup_iters=10, random_seed=42):
     """根據 iteration 決定使用 warmup random 或 entropy active sampling。"""
     if iteration <= warmup_iters:
         return random_sampling(X_pool.shape[0], n_samples, random_seed + iteration)
     return uncertainty_sampling(model, X_pool, n_samples)
 
 
-def _compute_utility(f1_score_value, labeled_samples, lambda_penalty=0.0003):
-    """依論文定義計算效用值。"""
-    return f1_score_value - (lambda_penalty * labeled_samples)
+def _compute_utility(f1_score_value, n_human, n_llm=0, lambda_human=0.0001, lambda_llm=0.000001):
+    """
+    階層式成本效用計算 (Tiered Cost Utility Function)
+    - n_human: 專家標註數量 (成本極高)
+    - n_llm: 本地端 LLM 擴增數量 (僅需微小電費與算力成本)
+    """
+    cost_human = lambda_human * n_human
+    cost_llm = lambda_llm * n_llm
+    return f1_score_value - (cost_human + cost_llm)
 
 
 def _compute_head_tail_f1(y_true, y_pred, n_head=10, n_tail=10):
@@ -666,111 +743,74 @@ def _compute_head_tail_f1(y_true, y_pred, n_head=10, n_tail=10):
     return head_f1, tail_f1
 
 
-def _compute_stopping_iteration(results, patience=3, epsilon=0.003, max_samples=None):
+def _compute_stopping_iteration(results, patience=4):
     """
-    根據 F1 marginal gain 與 budget constraint 決定自動停止迭代點。
-    
-    Hard Constraint: 若達到 max_samples 預算上限，立即停止。
-    Soft Signal: 若 ΔF1 < epsilon 連續 patience 次迭代，建議停止。
+    符合論文理念的停止機制：
+    當連續 patience 輪，Ut (Utility) 都無法超越歷史最高紀錄 (U_best) 時，觸發停止。
     """
-    if not results:
+    if len(results) < patience + 1:
         return None
+
+    # 取得歷史所有的 Utility 數值 
+    utilities = [r["utility"] for r in results]
+    best_utility = max(utilities)
     
-    # Hard Constraint: Check max_samples budget on last item
-    if max_samples is not None and results[-1].get("labeled_samples", 0) >= max_samples:
-        print(f"[Stopping] Reached max_samples budget: {results[-1]['labeled_samples']} >= {max_samples}")
+    # 找到最後一次達到歷史最高效用的索引
+    # list.index 會回傳第一個，我們用 reversed 找最後一個
+    last_best_idx = len(utilities) - 1 - utilities[::-1].index(best_utility)
+    
+    # 計算距離最後一次創新高已經過了幾輪
+    current_wait = (len(utilities) - 1) - last_best_idx
+    
+    if current_wait >= patience:
+        print(f"[Auto-Stopping] 效用已連續 {current_wait} 輪未創新高。最佳效用點：Iteration {results[last_best_idx]['iteration']}")
         return results[-1]["iteration"]
     
-    # Soft Signal: Scan from index 1 for consecutive low ΔF1 gains (skip warmup at index 0)
-    if len(results) >= patience + 1:  # Need at least patience+1 iterations to check patience streaks
-        consecutive_low_gain = 0
-        for i in range(1, len(results)):
-            prev_f1 = results[i - 1]["f1"]
-            curr_f1 = results[i]["f1"]
-            delta_f1 = curr_f1 - prev_f1
-            
-            if delta_f1 < epsilon:
-                consecutive_low_gain += 1
-                if consecutive_low_gain >= patience:
-                    print(f"[Stopping] Low ΔF1 for {patience} consecutive iterations (threshold: {epsilon})")
-                    return results[i]["iteration"]
-            else:
-                consecutive_low_gain = 0  # Reset streak
-    
-    # No stopping condition met
     return None
 
 
-def run_active_learning_experiment(
-    X_seed,
-    y_seed,
-    X_unlabeled,
-    y_unlabeled,
-    X_test,
-    y_test,
-    initial_samples=300,
-    batch_size=40,
-    n_iterations=25,
-    random_seed=42,
-):
-    """固定使用 Entropy 的 Active Learning 實驗。"""
-    print(f"\n{'=' * 60}")
-    print("ACTIVE LEARNING EXPERIMENT (Entropy)")
-    print(f"{'=' * 60}")
-
-    # LEDGAR 已預先切好 seed/pool/test，這裡直接使用 seed 作初始標註集合。
-    if X_seed.shape[0] < initial_samples:
-        raise ValueError("initial_samples is larger than seed size")
-
-    X_labeled = X_seed[:initial_samples]
-    y_labeled = y_seed[:initial_samples]
-
-    # 這裡建立可變 pool，避免更動到外部傳入資料。
-    X_pool = X_unlabeled.copy()
-    y_pool = y_unlabeled.copy()
-
-    print(f"Initial labeled pool: {X_labeled.shape[0]} samples")
-    print(f"Remaining unlabeled: {X_pool.shape[0]} samples")
-
-    results = []
-
-    for iteration in range(1, n_iterations + 1):
-        print(f"\n--- Iteration {iteration} ---")
-
-        model, metrics = train_and_evaluate(X_labeled, y_labeled, X_test, y_test)
-
-        print(f"Test - F1: {metrics['f1']:.4f}, Accuracy: {metrics['accuracy']:.4f}")
-
-        results.append(
-            {
-                "iteration": iteration,
-                "labeled_samples": X_labeled.shape[0],
-                "f1": metrics["f1"],
-                "accuracy": metrics["accuracy"],
-                "precision": metrics["precision"],
-                "recall": metrics["recall"],
-            }
-        )
-
-        if iteration < n_iterations and X_pool.shape[0] > 0:
-            selected_idx = uncertainty_sampling(model, X_pool, batch_size)
-            print(f"Selected {len(selected_idx)} samples using entropy uncertainty sampling")
-
-            X_labeled, y_labeled, X_pool, y_pool = _append_selected(
-                X_labeled,
-                y_labeled,
-                X_pool,
-                y_pool,
-                selected_idx,
-            )
-
-            print(f"Total labeled samples: {X_labeled.shape[0]}")
-            print(f"Remaining unlabeled: {X_pool.shape[0]}")
-
-    _, final_metrics = train_and_evaluate(X_labeled, y_labeled, X_test, y_test)
-    print(f"\nFinal Test - F1: {final_metrics['f1']:.4f}, Accuracy: {final_metrics['accuracy']:.4f}")
-
-    return results, final_metrics
+def _append_iteration_result(results, iteration, metrics, X_labeled, n_human, n_llm=0, 
+                             lambda_human=0.0001, lambda_llm=0.000001, extra_fields=None):
+    """
+    統一的結果記錄函數，減少三個主函數中的重複代碼。
+    
+    Args:
+        results: 結果列表
+        iteration: 當前迭代次數
+        metrics: train_and_evaluate() 回傳的指標字典
+        X_labeled: 當前標註集的特徵矩陣
+        n_human: 人類標註的數量
+        n_llm: LLM 擴增的數量（預設 0）
+        lambda_human, lambda_llm: 成本係數
+        extra_fields: 額外欄位字典（可選）
+    
+    Returns:
+        新增的結果字典
+    """
+    utility = _compute_utility(
+        metrics["f1"],
+        n_human=n_human,
+        n_llm=n_llm,
+        lambda_human=lambda_human,
+        lambda_llm=lambda_llm
+    )
+    
+    result = {
+        "iteration": iteration,
+        "labeled_samples": X_labeled.shape[0],
+        "f1": metrics["f1"],
+        "accuracy": metrics["accuracy"],
+        "precision": metrics["precision"],
+        "recall": metrics["recall"],
+        "utility": utility,
+    }
+    
+    # 加入額外欄位
+    if extra_fields:
+        result.update(extra_fields)
+    
+    results.append(result)
+    return result
 
 
 def run_active_baseline(
@@ -784,8 +824,8 @@ def run_active_baseline(
     batch_size=40,
     n_iterations=25,
     random_seed=42,
-    lambda_penalty=0.0005,
-    max_samples=None,
+    lambda_human=0.0001,
+    lambda_llm=0.000001,
     return_final_predictions=False,
 ):
     """Active baseline：前兩輪 warmup random，之後切換 entropy uncertainty sampling。"""
@@ -813,30 +853,16 @@ def run_active_baseline(
         model, metrics = train_and_evaluate(X_labeled, y_labeled, X_test, y_test)
         print(f"Test - F1: {metrics['f1']:.4f}, Accuracy: {metrics['accuracy']:.4f}")
 
-        utility = _compute_utility(metrics["f1"], X_labeled.shape[0], lambda_penalty)
-
-        results.append(
-            {
-                "iteration": iteration,
-                "labeled_samples": X_labeled.shape[0],
-                "f1": metrics["f1"],
-                "accuracy": metrics["accuracy"],
-                "precision": metrics["precision"],
-                "recall": metrics["recall"],
-                "utility": utility,
-            }
+        _append_iteration_result(
+            results, iteration, metrics, X_labeled, n_human=X_labeled.shape[0],
+            n_llm=0, lambda_human=lambda_human, lambda_llm=lambda_llm
         )
 
         # Immediate stopping check (skip warmup phase)
-        if iteration > 5:
-            suggested_stop = _compute_stopping_iteration(
-                results,
-                patience=10,
-                epsilon=0.0005,
-                max_samples=max_samples,
-            )
+        if iteration > 15:
+            suggested_stop = _compute_stopping_iteration(results[15:], patience=4)
             if suggested_stop is not None:
-                final_stop_iter = iteration
+                final_stop_iter = suggested_stop
                 break
 
         if iteration < n_iterations and X_pool.shape[0] > 0:
@@ -850,7 +876,7 @@ def run_active_baseline(
             )
             print(
                 f"Selected {len(selected_idx)} samples using "
-                f"{'random' if iteration <= 2 else 'entropy'} sampling"
+                f"entropy sampling"
             )
 
             X_labeled, y_labeled, X_pool, y_pool = _append_selected(
@@ -892,10 +918,11 @@ def run_proposed_framework(
     batch_size=40,
     n_iterations=25,
     random_seed=42,
-    lambda_penalty=0.0005,
-    max_samples=None,
+    lambda_human=0.0001,
+    lambda_llm=0.000001,
     label_mapping=None,
     enable_logging=True,
+    combined_txt_path=None,
     return_final_predictions=False,
 ):
     """
@@ -924,7 +951,7 @@ def run_proposed_framework(
     logger = None
     if enable_logging and LOGGING_AVAILABLE:
         logger = DataAugmentationLogger(
-            output_dir=DATA_DIR,
+            output_dir=RUN_OUTPUT_DIR,
             log_name=f"augmentation_seed{random_seed}"
         )
         print(f"Augmentation logging enabled: {logger.csv_path}")
@@ -938,30 +965,21 @@ def run_proposed_framework(
         model, metrics = train_and_evaluate(X_labeled, y_labeled, X_test, y_test)
         print(f"Test - F1: {metrics['f1']:.4f}, Accuracy: {metrics['accuracy']:.4f}")
 
-        utility = _compute_utility(metrics["f1"], X_labeled.shape[0], lambda_penalty)
+        # 計算人類實際標註量：初始種子 + (已執行輪數-1) * 每次抽樣量
+        n_human = initial_samples + ((iteration - 1) * batch_size)
+        n_llm = X_labeled.shape[0] - n_human
 
-        results.append(
-            {
-                "iteration": iteration,
-                "labeled_samples": X_labeled.shape[0],
-                "f1": metrics["f1"],
-                "accuracy": metrics["accuracy"],
-                "precision": metrics["precision"],
-                "recall": metrics["recall"],
-                "utility": utility,
-            }
+        _append_iteration_result(
+            results, iteration, metrics, X_labeled, n_human=n_human, n_llm=n_llm,
+            lambda_human=lambda_human, lambda_llm=lambda_llm,
+            extra_fields={"human_labeled": n_human, "llm_labeled": n_llm}
         )
 
         # Immediate stopping check (skip warmup phase)
-        if iteration > 5:
-            suggested_stop = _compute_stopping_iteration(
-                results,
-                patience=10,
-                epsilon=0.0005,
-                max_samples=max_samples,
-            )
+        if iteration > 15:
+            suggested_stop = _compute_stopping_iteration(results[15:], patience=4)
             if suggested_stop is not None:
-                final_stop_iter = iteration
+                final_stop_iter = suggested_stop
                 break
 
         if iteration < n_iterations and X_pool.shape[0] > 0:
@@ -974,8 +992,7 @@ def run_proposed_framework(
                 random_seed=random_seed,
             )
             print(
-                f"Selected {len(selected_idx)} samples using "
-                f"{'random' if iteration <= 0 else 'entropy'} sampling"
+                f"Selected {len(selected_idx)} samples using entropy sampling"
             )
 
             selected_texts = pool_texts[selected_idx]
@@ -997,6 +1014,7 @@ def run_proposed_framework(
                 logger=logger,
                 iteration=iteration,
                 original_texts=generated_source_texts,
+                combined_txt_path=combined_txt_path,
             )
 
             print(f"Agreement Rate: {agreement_rate:.4f}")
@@ -1046,7 +1064,7 @@ def run_proposed_framework(
     if logger is not None and LOGGING_AVAILABLE:
         logger.export_to_excel()
         logger.print_statistics()
-        print(f"\nAugmentation logs saved to: {DATA_DIR}")
+        print(f"\nAugmentation logs saved to: {RUN_OUTPUT_DIR}")
 
     if return_final_predictions:
         return results, final_metrics, final_stop_iter, final_y_pred
@@ -1064,7 +1082,8 @@ def run_passive_learning_experiment(
     batch_size=40,
     n_iterations=25,
     random_seed=42,
-    lambda_penalty=0.0005
+    lambda_human=0.0001,
+    lambda_llm=0.000001
 ):
     """固定使用隨機抽樣的 Passive Learning 實驗。"""
     print(f"\n{'=' * 60}")
@@ -1090,21 +1109,11 @@ def run_passive_learning_experiment(
         print(f"\n--- Iteration {iteration} ---")
 
         _, metrics = train_and_evaluate(X_labeled, y_labeled, X_test, y_test)
-
         print(f"Test - F1: {metrics['f1']:.4f}, Accuracy: {metrics['accuracy']:.4f}")
 
-        utility = _compute_utility(metrics["f1"], X_labeled.shape[0], lambda_penalty)
-        
-        results.append(
-            {
-                "iteration": iteration,
-                "labeled_samples": X_labeled.shape[0],
-                "f1": metrics["f1"],
-                "accuracy": metrics["accuracy"],
-                "precision": metrics["precision"],
-                "recall": metrics["recall"],
-                "utility": utility,
-            }
+        _append_iteration_result(
+            results, iteration, metrics, X_labeled, n_human=X_labeled.shape[0],
+            n_llm=0, lambda_human=lambda_human, lambda_llm=lambda_llm
         )
 
         if iteration < n_iterations and X_pool.shape[0] > 0:
@@ -1112,13 +1121,8 @@ def run_passive_learning_experiment(
             print(f"Selected {len(selected_idx)} samples using random sampling")
 
             X_labeled, y_labeled, X_pool, y_pool = _append_selected(
-                X_labeled,
-                y_labeled,
-                X_pool,
-                y_pool,
-                selected_idx,
+                X_labeled, y_labeled, X_pool, y_pool, selected_idx
             )
-
             print(f"Total labeled samples: {X_labeled.shape[0]}")
             print(f"Remaining unlabeled: {X_pool.shape[0]}")
 
@@ -1126,45 +1130,6 @@ def run_passive_learning_experiment(
     print(f"\nFinal Test - F1: {final_metrics['f1']:.4f}, Accuracy: {final_metrics['accuracy']:.4f}")
 
     return results, final_metrics, final_stop_iter
-
-
-def plot_comparison(passive_results, active_results, proposed_results=None, config_name="", run_tag="", show_plots=True):
-    """比較 Passive、Active、Proposed 三條學習曲線。"""
-    passive_df = pd.DataFrame(passive_results)
-    active_df = pd.DataFrame(active_results)
-    proposed_df = pd.DataFrame(proposed_results) if proposed_results is not None else None
-
-    plt.figure(figsize=(9, 6))
-
-    plt.plot(passive_df["iteration"], passive_df["f1"], "o--", label="Passive (100% Random)", linewidth=2, markersize=7)
-    plt.plot(active_df["iteration"], active_df["f1"], "s-", label="Active (Warmup + Entropy)", linewidth=2, markersize=7)
-    if proposed_df is not None and len(proposed_df) > 0:
-        plt.plot(
-            proposed_df["iteration"],
-            proposed_df["f1"],
-            "^-",
-            label="Proposed (Warmup + Entropy + LLM + Llama Validator)",
-            linewidth=2,
-            markersize=7,
-        )
-
-    plt.xlabel("Iteration")
-    plt.ylabel("Macro F1")
-    plt.title("Passive vs Active vs Proposed")
-    plt.legend()
-    plt.grid(True, alpha=0.3)
-
-    plt.tight_layout()
-
-    plot_filename = _build_output_filename("comparison_passive_active_proposed", config_name, run_tag, "png")
-    output_path = os.path.join(DATA_DIR, plot_filename)
-    plt.savefig(output_path, dpi=300, bbox_inches="tight")
-
-    if show_plots:
-        plt.show(block=False)
-        plt.pause(0.1)
-    else:
-        plt.close()
 
 
 def plot_macro_f1_curve(passive_results, active_results, proposed_results, config_name="", run_tag="", show_plots=True):
@@ -1188,7 +1153,7 @@ def plot_macro_f1_curve(passive_results, active_results, proposed_results, confi
     plt.tight_layout()
 
     plot_filename = _build_output_filename("macro_f1_curve", config_name, run_tag, "png")
-    output_path = os.path.join(DATA_DIR, plot_filename)
+    output_path = os.path.join(RUN_OUTPUT_DIR, plot_filename)
     plt.savefig(output_path, dpi=300, bbox_inches="tight")
 
     if show_plots:
@@ -1217,13 +1182,13 @@ def plot_utility_curve(passive_results, active_results, proposed_results, stoppi
             color="red",
             linestyle="--",
             linewidth=2,
-            label="Auto-stopping Point (Patience=2)",
+            label="Auto-stopping Point (Patience=4)",
         )
         y_min, y_max = plt.ylim()
         plt.text(
             proposed_stopping_iteration + 0.1,
             y_max - (y_max - y_min) * 0.08,
-            "Auto-stopping Point (Patience=2)",
+            "Auto-stopping Point (Patience=4)",
             color="red",
             fontsize=9,
             rotation=90,
@@ -1238,7 +1203,7 @@ def plot_utility_curve(passive_results, active_results, proposed_results, stoppi
 
     plt.tight_layout()
 
-    output_path = os.path.join(DATA_DIR, "utility_curve_comparison.png")
+    output_path = os.path.join(RUN_OUTPUT_DIR, "utility_curve_comparison.png")
     plt.savefig(output_path, dpi=300, bbox_inches="tight")
     plt.close()
 
@@ -1284,7 +1249,7 @@ def plot_head_tail_comparison(passive_final, active_final, proposed_final, confi
     plt.tight_layout()
 
     plot_filename = _build_output_filename("head_tail_f1_comparison", config_name, run_tag, "png")
-    output_path = os.path.join(DATA_DIR, plot_filename)
+    output_path = os.path.join(RUN_OUTPUT_DIR, plot_filename)
     plt.savefig(output_path, dpi=300, bbox_inches="tight")
 
     if show_plots:
@@ -1294,6 +1259,13 @@ def plot_head_tail_comparison(passive_final, active_final, proposed_final, confi
         plt.close(fig)
 
     return output_path
+
+
+def _normalize_confusion_matrix(true_labels, pred_labels, labels):
+    """計算並正規化混淆矩陣（按行）。"""
+    matrix = confusion_matrix(true_labels, pred_labels, labels=labels)
+    row_sums = matrix.sum(axis=1, keepdims=True)
+    return np.divide(matrix, row_sums, out=np.zeros_like(matrix, dtype=float), where=row_sums != 0)
 
 
 def plot_confusion_matrix_comparison(y_true, active_pred, proposed_pred, config_name="", run_tag="", show_plots=True, label_mapping=None):
@@ -1310,13 +1282,8 @@ def plot_confusion_matrix_comparison(y_true, active_pred, proposed_pred, config_
     else:
         display_labels = [str(label) for label in labels]
 
-    def _normalize_confusion(true_labels, pred_labels):
-        matrix = confusion_matrix(true_labels, pred_labels, labels=labels)
-        row_sums = matrix.sum(axis=1, keepdims=True)
-        return np.divide(matrix, row_sums, out=np.zeros_like(matrix, dtype=float), where=row_sums != 0)
-
-    active_cm = _normalize_confusion(y_true, active_pred)
-    proposed_cm = _normalize_confusion(y_true, proposed_pred)
+    active_cm = _normalize_confusion_matrix(y_true, active_pred, labels)
+    proposed_cm = _normalize_confusion_matrix(y_true, proposed_pred, labels)
 
     fig, axes = plt.subplots(1, 2, figsize=(16, 7), dpi=150, constrained_layout=True)
     cm_data = [
@@ -1339,7 +1306,7 @@ def plot_confusion_matrix_comparison(y_true, active_pred, proposed_pred, config_
     fig.colorbar(last_image, ax=axes.ravel().tolist(), fraction=0.025, pad=0.02, label="Row-normalized rate")
 
     plot_filename = _build_output_filename("confusion_matrix_active_vs_proposed", config_name, run_tag, "png")
-    output_path = os.path.join(DATA_DIR, plot_filename)
+    output_path = os.path.join(RUN_OUTPUT_DIR, plot_filename)
     plt.savefig(output_path, dpi=300, bbox_inches="tight")
 
     if show_plots:
@@ -1350,78 +1317,6 @@ def plot_confusion_matrix_comparison(y_true, active_pred, proposed_pred, config_
 
     return output_path
 
-
-def plot_statistical_comparison(active_finals, passive_finals, config_name="", show_plots=True):
-    """保留統計比較圖架構（分佈、箱型、逐 run 對比）。"""
-    active_f1_scores = [result["f1"] for result in active_finals]
-    passive_f1_scores = [result["f1"] for result in passive_finals]
-
-    plt.figure(figsize=(15, 10))
-
-    plt.subplot(2, 3, 1)
-    plt.hist(active_f1_scores, alpha=0.7, label="Active", bins=8, color="blue")
-    plt.hist(passive_f1_scores, alpha=0.7, label="Passive", bins=8, color="red")
-    plt.xlabel("Macro F1")
-    plt.ylabel("Frequency")
-    plt.title("Distribution of F1 Scores")
-    plt.legend()
-    plt.grid(True, alpha=0.3)
-
-    plt.subplot(2, 3, 2)
-    plt.boxplot([active_f1_scores, passive_f1_scores], labels=["Active", "Passive"])
-    plt.ylabel("Macro F1")
-    plt.title("Box Plot Comparison")
-    plt.grid(True, alpha=0.3)
-
-    plt.subplot(2, 3, 3)
-    runs = range(1, len(active_f1_scores) + 1)
-    plt.plot(runs, active_f1_scores, "s-", label="Active", linewidth=2)
-    plt.plot(runs, passive_f1_scores, "o--", label="Passive", linewidth=2)
-    plt.xlabel("Run")
-    plt.ylabel("Macro F1")
-    plt.title("F1 Score by Run")
-    plt.legend()
-    plt.grid(True, alpha=0.3)
-
-    plt.subplot(2, 3, 4)
-    diffs = np.array(active_f1_scores) - np.array(passive_f1_scores)
-    plt.hist(diffs, alpha=0.75, bins=8, color="green")
-    plt.axvline(0, color="black", linestyle="--")
-    plt.xlabel("F1 Difference (Active - Passive)")
-    plt.ylabel("Frequency")
-    plt.title("Difference Distribution")
-    plt.grid(True, alpha=0.3)
-
-    plt.subplot(2, 3, 5)
-    active_mean, active_std = np.mean(active_f1_scores), np.std(active_f1_scores)
-    passive_mean, passive_std = np.mean(passive_f1_scores), np.std(passive_f1_scores)
-    plt.errorbar(["Active", "Passive"], [active_mean, passive_mean], yerr=[active_std, passive_std], fmt="o", capsize=5)
-    plt.ylabel("Weighted F1")
-    plt.title("Means with Std")
-    plt.grid(True, alpha=0.3)
-
-    plt.subplot(2, 3, 6)
-    pooled_std = np.sqrt((active_std**2 + passive_std**2) / 2) if (active_std > 0 or passive_std > 0) else np.nan
-    cohens_d = (active_mean - passive_mean) / pooled_std if pooled_std and not np.isnan(pooled_std) else 0
-    plt.bar(["Effect Size"], [cohens_d], color="orange", alpha=0.8)
-    plt.axhline(y=0, color="black", linestyle="-")
-    plt.ylabel("Cohen's d")
-    plt.title(f"Effect Size: {cohens_d:.3f}")
-    plt.grid(True, alpha=0.3)
-
-    plt.tight_layout()
-
-    plot_filename = f"statistical_comparison_{config_name}.png" if config_name else "statistical_comparison.png"
-    output_path = os.path.join(DATA_DIR, plot_filename)
-    plt.savefig(output_path, dpi=300, bbox_inches="tight")
-
-    if show_plots:
-        plt.show(block=False)
-        plt.pause(0.1)
-    else:
-        plt.close()
-
-
 def main():
     """主程式：執行 Passive、Active、Proposed 三條框架比較（含日誌系統）。"""
 
@@ -1429,14 +1324,24 @@ def main():
     config_name = EXPERIMENT_NAME
     run_tag = datetime.now().strftime("%Y%m%d_%H%M%S")
 
+    global RUN_OUTPUT_DIR, RUN_LOG_DIR
+    RUN_OUTPUT_DIR = _prepare_experiment_run_dirs(config_name, run_tag)
+    RUN_LOG_DIR = RUN_OUTPUT_DIR
+    combined_txt_path = os.path.join(
+        RUN_OUTPUT_DIR,
+        _build_output_filename("llama3_qwen_validation", config_name, run_tag, "txt"),
+    )
+
     # 依需求更新設定
     experiment_config = {
         "initial_samples": 200,
         "batch_size": 40,
-        "n_iterations": 3,
+        "n_iterations": 40,
+        "lambda_human": 0.0001,
+        "lambda_llm": 0.000001
     }
 
-    logger = setup_logging(config_name)
+    logger = setup_logging(config_name, log_dir=RUN_LOG_DIR)
 
     try:
         (
@@ -1466,6 +1371,8 @@ def main():
             batch_size=experiment_config["batch_size"],
             n_iterations=experiment_config["n_iterations"],
             random_seed=42,
+            lambda_human=experiment_config["lambda_human"],
+            lambda_llm=experiment_config["lambda_llm"]
         )
 
         active_results, active_final, active_stopping_iteration, active_final_pred = run_active_baseline(
@@ -1480,6 +1387,8 @@ def main():
             n_iterations=experiment_config["n_iterations"],
             random_seed=42,
             return_final_predictions=True,
+            lambda_human=experiment_config["lambda_human"],
+            lambda_llm=experiment_config["lambda_llm"]
         )
 
         proposed_results, proposed_final, proposed_stopping_iteration, proposed_final_pred = run_proposed_framework(
@@ -1498,7 +1407,10 @@ def main():
             random_seed=42,
             label_mapping=label_mapping,
             enable_logging=True,
+            combined_txt_path=combined_txt_path,
             return_final_predictions=True,
+            lambda_human=experiment_config["lambda_human"],
+            lambda_llm=experiment_config["lambda_llm"]
         )
 
         plot_macro_f1_curve(
@@ -1550,7 +1462,7 @@ def main():
         )
 
         summary_filename = _build_output_filename("metrics_table", config_name, run_tag, "csv")
-        summary_path = os.path.join(DATA_DIR, summary_filename)
+        summary_path = os.path.join(RUN_OUTPUT_DIR, summary_filename)
         summary_df.to_csv(summary_path, index=False)
 
         print("\n" + "=" * 80)
@@ -1558,6 +1470,7 @@ def main():
         print("=" * 80)
         print(summary_df.to_string(index=False))
         print(f"\nSaved: {summary_path}")
+        print(f"Combined llama3 + Qwen txt saved to: {combined_txt_path}")
 
     finally:
         # 釋放本地大模型顯存，避免反覆執行時累積。

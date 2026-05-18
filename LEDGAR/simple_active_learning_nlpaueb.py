@@ -709,78 +709,6 @@ def _compute_stopping_iteration(results, patience=3, epsilon=0.003, max_samples=
     return None
 
 
-def run_active_learning_experiment(
-    X_seed,
-    y_seed,
-    X_unlabeled,
-    y_unlabeled,
-    X_test,
-    y_test,
-    initial_samples=300,
-    batch_size=40,
-    n_iterations=25,
-    random_seed=42,
-):
-    """固定使用 Entropy 的 Active Learning 實驗。"""
-    print(f"\n{'=' * 60}")
-    print("ACTIVE LEARNING EXPERIMENT (Entropy)")
-    print(f"{'=' * 60}")
-
-    # LEDGAR 已預先切好 seed/pool/test，這裡直接使用 seed 作初始標註集合。
-    if X_seed.shape[0] < initial_samples:
-        raise ValueError("initial_samples is larger than seed size")
-
-    X_labeled = X_seed[:initial_samples]
-    y_labeled = y_seed[:initial_samples]
-
-    # 這裡建立可變 pool，避免更動到外部傳入資料。
-    X_pool = X_unlabeled.copy()
-    y_pool = y_unlabeled.copy()
-
-    print(f"Initial labeled pool: {X_labeled.shape[0]} samples")
-    print(f"Remaining unlabeled: {X_pool.shape[0]} samples")
-
-    results = []
-
-    for iteration in range(1, n_iterations + 1):
-        print(f"\n--- Iteration {iteration} ---")
-
-        model, metrics = train_and_evaluate(X_labeled, y_labeled, X_test, y_test)
-
-        print(f"Test - F1: {metrics['f1']:.4f}, Accuracy: {metrics['accuracy']:.4f}")
-
-        results.append(
-            {
-                "iteration": iteration,
-                "labeled_samples": X_labeled.shape[0],
-                "f1": metrics["f1"],
-                "accuracy": metrics["accuracy"],
-                "precision": metrics["precision"],
-                "recall": metrics["recall"],
-            }
-        )
-
-        if iteration < n_iterations and X_pool.shape[0] > 0:
-            selected_idx = uncertainty_sampling(model, X_pool, batch_size)
-            print(f"Selected {len(selected_idx)} samples using entropy uncertainty sampling")
-
-            X_labeled, y_labeled, X_pool, y_pool = _append_selected(
-                X_labeled,
-                y_labeled,
-                X_pool,
-                y_pool,
-                selected_idx,
-            )
-
-            print(f"Total labeled samples: {X_labeled.shape[0]}")
-            print(f"Remaining unlabeled: {X_pool.shape[0]}")
-
-    _, final_metrics = train_and_evaluate(X_labeled, y_labeled, X_test, y_test)
-    print(f"\nFinal Test - F1: {final_metrics['f1']:.4f}, Accuracy: {final_metrics['accuracy']:.4f}")
-
-    return results, final_metrics
-
-
 def run_active_baseline(
     X_seed,
     y_seed,
@@ -1136,45 +1064,6 @@ def run_passive_learning_experiment(
     return results, final_metrics, final_stop_iter
 
 
-def plot_comparison(passive_results, active_results, proposed_results=None, config_name="", run_tag="", show_plots=True):
-    """比較 Passive、Active、Proposed 三條學習曲線。"""
-    passive_df = pd.DataFrame(passive_results)
-    active_df = pd.DataFrame(active_results)
-    proposed_df = pd.DataFrame(proposed_results) if proposed_results is not None else None
-
-    plt.figure(figsize=(9, 6))
-
-    plt.plot(passive_df["iteration"], passive_df["f1"], "o--", label="Passive (100% Random)", linewidth=2, markersize=7)
-    plt.plot(active_df["iteration"], active_df["f1"], "s-", label="Active (Warmup + Entropy)", linewidth=2, markersize=7)
-    if proposed_df is not None and len(proposed_df) > 0:
-        plt.plot(
-            proposed_df["iteration"],
-            proposed_df["f1"],
-            "^-",
-            label="Proposed (Warmup + Entropy + LLM + Llama Validator)",
-            linewidth=2,
-            markersize=7,
-        )
-
-    plt.xlabel("Iteration")
-    plt.ylabel("Macro F1")
-    plt.title("Passive vs Active vs Proposed")
-    plt.legend()
-    plt.grid(True, alpha=0.3)
-
-    plt.tight_layout()
-
-    plot_filename = _build_output_filename("comparison_passive_active_proposed", config_name, run_tag, "png")
-    output_path = os.path.join(DATA_DIR, plot_filename)
-    plt.savefig(output_path, dpi=300, bbox_inches="tight")
-
-    if show_plots:
-        plt.show(block=False)
-        plt.pause(0.1)
-    else:
-        plt.close()
-
-
 def plot_macro_f1_curve(passive_results, active_results, proposed_results, config_name="", run_tag="", show_plots=True):
     """繪製三種方法的 Macro F1 折線圖。"""
     passive_df = pd.DataFrame(passive_results)
@@ -1357,77 +1246,6 @@ def plot_confusion_matrix_comparison(y_true, active_pred, proposed_pred, config_
         plt.close(fig)
 
     return output_path
-
-
-def plot_statistical_comparison(active_finals, passive_finals, config_name="", show_plots=True):
-    """保留統計比較圖架構（分佈、箱型、逐 run 對比）。"""
-    active_f1_scores = [result["f1"] for result in active_finals]
-    passive_f1_scores = [result["f1"] for result in passive_finals]
-
-    plt.figure(figsize=(15, 10))
-
-    plt.subplot(2, 3, 1)
-    plt.hist(active_f1_scores, alpha=0.7, label="Active", bins=8, color="blue")
-    plt.hist(passive_f1_scores, alpha=0.7, label="Passive", bins=8, color="red")
-    plt.xlabel("Macro F1")
-    plt.ylabel("Frequency")
-    plt.title("Distribution of F1 Scores")
-    plt.legend()
-    plt.grid(True, alpha=0.3)
-
-    plt.subplot(2, 3, 2)
-    plt.boxplot([active_f1_scores, passive_f1_scores], labels=["Active", "Passive"])
-    plt.ylabel("Macro F1")
-    plt.title("Box Plot Comparison")
-    plt.grid(True, alpha=0.3)
-
-    plt.subplot(2, 3, 3)
-    runs = range(1, len(active_f1_scores) + 1)
-    plt.plot(runs, active_f1_scores, "s-", label="Active", linewidth=2)
-    plt.plot(runs, passive_f1_scores, "o--", label="Passive", linewidth=2)
-    plt.xlabel("Run")
-    plt.ylabel("Macro F1")
-    plt.title("F1 Score by Run")
-    plt.legend()
-    plt.grid(True, alpha=0.3)
-
-    plt.subplot(2, 3, 4)
-    diffs = np.array(active_f1_scores) - np.array(passive_f1_scores)
-    plt.hist(diffs, alpha=0.75, bins=8, color="green")
-    plt.axvline(0, color="black", linestyle="--")
-    plt.xlabel("F1 Difference (Active - Passive)")
-    plt.ylabel("Frequency")
-    plt.title("Difference Distribution")
-    plt.grid(True, alpha=0.3)
-
-    plt.subplot(2, 3, 5)
-    active_mean, active_std = np.mean(active_f1_scores), np.std(active_f1_scores)
-    passive_mean, passive_std = np.mean(passive_f1_scores), np.std(passive_f1_scores)
-    plt.errorbar(["Active", "Passive"], [active_mean, passive_mean], yerr=[active_std, passive_std], fmt="o", capsize=5)
-    plt.ylabel("Weighted F1")
-    plt.title("Means with Std")
-    plt.grid(True, alpha=0.3)
-
-    plt.subplot(2, 3, 6)
-    pooled_std = np.sqrt((active_std**2 + passive_std**2) / 2) if (active_std > 0 or passive_std > 0) else np.nan
-    cohens_d = (active_mean - passive_mean) / pooled_std if pooled_std and not np.isnan(pooled_std) else 0
-    plt.bar(["Effect Size"], [cohens_d], color="orange", alpha=0.8)
-    plt.axhline(y=0, color="black", linestyle="-")
-    plt.ylabel("Cohen's d")
-    plt.title(f"Effect Size: {cohens_d:.3f}")
-    plt.grid(True, alpha=0.3)
-
-    plt.tight_layout()
-
-    plot_filename = f"statistical_comparison_{config_name}.png" if config_name else "statistical_comparison.png"
-    output_path = os.path.join(DATA_DIR, plot_filename)
-    plt.savefig(output_path, dpi=300, bbox_inches="tight")
-
-    if show_plots:
-        plt.show(block=False)
-        plt.pause(0.1)
-    else:
-        plt.close()
 
 
 def main():

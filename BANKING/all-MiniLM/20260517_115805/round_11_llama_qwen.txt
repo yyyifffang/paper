@@ -1,0 +1,608 @@
+================================================================================
+LLAMA3 GENERATION RESULTS
+================================================================================
+
+Sample 1:
+  Target Intent: extra_charge_on_statement
+  Original Text: There is an extra small charge on my card! What do I do?
+  Generated Text: I noticed an additional fee on my statement. Can you help me understand why it's there?
+  Label: 34
+--------------------------------------------------------------------------------
+Sample 2:
+  Target Intent: card_swallowed
+  Original Text: What do I do?  The ATM took my card!
+  Generated Text: I accidentally swallowed my card while trying to use the ATM. What should I do?
+  Label: 18
+--------------------------------------------------------------------------------
+Sample 3:
+  Target Intent: card_arrival
+  Original Text: My card never arrived.
+  Generated Text: My credit card has not been delivered.
+  Label: 11
+--------------------------------------------------------------------------------
+Sample 4:
+  Target Intent: card_payment_not_recognised
+  Original Text: I have a charge I did not make.
+  Generated Text: I'm showing a transaction on my account that I didn't authorise.
+  Label: 16
+--------------------------------------------------------------------------------
+Sample 5:
+  Target Intent: getting_spare_card
+  Original Text: I would like to use one of my cards for a family member. Is that allowed?
+  Generated Text: I'd like to know if I can assign a spare card to a family member.
+  Label: 39
+--------------------------------------------------------------------------------
+Sample 6:
+  Target Intent: card_payment_not_recognised
+  Original Text: There is  a charge I don't recognize.
+  Generated Text: I'm showing a payment on my account that I didn't authorise.
+  Label: 16
+--------------------------------------------------------------------------------
+Sample 7:
+  Target Intent: lost_or_stolen_phone
+  Original Text: My phone was left behind.  Can I still use my card?
+  Generated Text: I accidentally left my phone at a location and I'm worried about my card security. Can I still use it?
+  Label: 42
+--------------------------------------------------------------------------------
+Sample 8:
+  Target Intent: passcode_forgotten
+  Original Text: I don't know the code for the app.
+  Generated Text: I've forgotten the passcode for my mobile banking app.
+  Label: 44
+--------------------------------------------------------------------------------
+Sample 9:
+  Target Intent: compromised_card
+  Original Text: I didn't make these transactions. Is someone else using my card?
+  Generated Text: I'm concerned that someone may have stolen my card and is making unauthorized transactions.
+  Label: 22
+--------------------------------------------------------------------------------
+Sample 10:
+  Target Intent: unable_to_verify_identity
+  Original Text: app malfunctioning, does not know its me
+  Generated Text: We're having trouble verifying your identity due to an issue with our system, and it seems like our app is not recognizing you.
+  Label: 68
+--------------------------------------------------------------------------------
+Sample 11:
+  Target Intent: card_payment_not_recognised
+  Original Text: I think there's a purchase at a store that I didn't go to.
+  Generated Text: I'm trying to make a payment for a transaction that I didn't initiate.
+  Label: 16
+--------------------------------------------------------------------------------
+Sample 12:
+  Target Intent: direct_debit_payment_not_recognised
+  Original Text: I don't recognize the direct debit payment from the app.
+  Generated Text: I'm unable to identify the direct debit payment made through the mobile app.
+  Label: 28
+--------------------------------------------------------------------------------
+Sample 13:
+  Target Intent: topping_up_by_card
+  Original Text: What's the process for topping up by card?
+  Generated Text: How do I add funds to my account using my debit/credit card?
+  Label: 62
+--------------------------------------------------------------------------------
+Sample 14:
+  Target Intent: unable_to_verify_identity
+  Original Text: The app doesn't believe its me.
+  Generated Text: The application is unable to confirm my identity.
+  Label: 68
+--------------------------------------------------------------------------------
+Sample 15:
+  Target Intent: declined_cash_withdrawal
+  Original Text: I tried using my ATM card at your Notting Hill location today.  It did not work.  Am I doing something wrong?
+  Generated Text: I attempted to withdraw cash using my ATM card at your Notting Hill branch, but it was declined. Is there an issue with my card or the machine?
+  Label: 26
+--------------------------------------------------------------------------------
+Sample 16:
+  Target Intent: atm_support
+  Original Text: What locations can I get money from?
+  Generated Text: Where can I withdraw cash from an ATM?
+  Label: 3
+--------------------------------------------------------------------------------
+Sample 17:
+  Target Intent: card_linking
+  Original Text: If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?
+  Generated Text: If I locate a lost card, do I need to cancel it or can I reactivate it and continue using it?
+  Label: 13
+--------------------------------------------------------------------------------
+Sample 18:
+  Target Intent: lost_or_stolen_card
+  Original Text: Has there been any activity on my card today?
+  Generated Text: I think I may have misplaced my card, can you check if there have been any transactions on it recently?
+  Label: 41
+--------------------------------------------------------------------------------
+Sample 19:
+  Target Intent: activate_my_card
+  Original Text: I need to actuate my card.
+  Generated Text: I'd like to activate my credit card.
+  Label: 0
+--------------------------------------------------------------------------------
+Sample 20:
+  Target Intent: apple_pay_or_google_pay
+  Original Text: Can an apple watch be used to tup-up?
+  Generated Text: Can I use my Apple Watch to make payments with Apple Pay or Google Pay?
+  Label: 2
+--------------------------------------------------------------------------------
+Sample 21:
+  Target Intent: card_payment_fee_charged
+  Original Text: I have a fee showing from last time I used my card.
+  Generated Text: A fee was deducted from my last transaction using my card.
+  Label: 15
+--------------------------------------------------------------------------------
+Sample 22:
+  Target Intent: declined_cash_withdrawal
+  Original Text: Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM.
+  Generated Text: I'm happy to assist you with your card issue. It seems that your card has been declined at two different ATMs, and we'd like to investigate this further. Can you please provide more details about the decline messages you received, such as the exact error code or any specific error messages displayed on the ATM screen?
+  Label: 26
+--------------------------------------------------------------------------------
+Sample 23:
+  Target Intent: direct_debit_payment_not_recognised
+  Original Text: I am seeing in the App a diret debit that its not mine
+  Generated Text: I'm trying to view my account statement and I see a direct debit payment that doesn't belong to me
+  Label: 28
+--------------------------------------------------------------------------------
+Sample 24:
+  Target Intent: top_up_by_bank_transfer_charge
+  Original Text: Will there be a charge when money is added to my account?
+  Generated Text: Are there any fees associated with topping up my account balance via bank transfer?
+  Label: 56
+--------------------------------------------------------------------------------
+Sample 25:
+  Target Intent: direct_debit_payment_not_recognised
+  Original Text: what is this charge on my card?
+  Generated Text: I'm trying to understand the direct debit payment I see on my account statement.
+  Label: 28
+--------------------------------------------------------------------------------
+Sample 26:
+  Target Intent: cash_withdrawal_not_recognised
+  Original Text: My identity has been stolen. I still have my physical card but there are charges I didn't make on my account. How do I cancel this card or dispute the charges?
+  Generated Text: I'm concerned about unauthorized transactions on my account. Someone has used my physical card to make purchases without my consent. Can I report this incident and dispute the charges? How do I cancel my card to prevent further unauthorized use?
+  Label: 20
+--------------------------------------------------------------------------------
+Sample 27:
+  Target Intent: order_physical_card
+  Original Text: Do I get a card to keep in my wallet?
+  Generated Text: Can I request a physical debit/credit card to carry with me?
+  Label: 43
+--------------------------------------------------------------------------------
+Sample 28:
+  Target Intent: direct_debit_payment_not_recognised
+  Original Text: This debit is not my transcation. How do I get my money out back?
+  Generated Text: This direct debit payment is not mine. Can you help me cancel it and refund my account?
+  Label: 28
+--------------------------------------------------------------------------------
+Sample 29:
+  Target Intent: failed_transfer
+  Original Text: A mortgage payment I'm making is giving me an error message.  This is the first time I'm making this payment and want to know what's wrong.
+  Generated Text: I'm trying to make a mortgage payment for the first time, but I'm getting an error message. Can you help me figure out what's going wrong?
+  Label: 35
+--------------------------------------------------------------------------------
+Sample 30:
+  Target Intent: order_physical_card
+  Original Text: Do I get a real card?
+  Generated Text: Can I receive a physical credit card instead of a digital one?
+  Label: 43
+--------------------------------------------------------------------------------
+Sample 31:
+  Target Intent: compromised_card
+  Original Text: There are transactions that I don't remember making, i think someone might have gotten my card details and is now using it.
+  Generated Text: I'm concerned that someone may have obtained my card information and is making unauthorized transactions.
+  Label: 22
+--------------------------------------------------------------------------------
+Sample 32:
+  Target Intent: card_delivery_estimate
+  Original Text: i need to expedite my card
+  Generated Text: I would like to request an expedited delivery for my card.
+  Label: 12
+--------------------------------------------------------------------------------
+Sample 33:
+  Target Intent: card_delivery_estimate
+  Original Text: I need my card ASAP!
+  Generated Text: I require my card as soon as possible.
+  Label: 12
+--------------------------------------------------------------------------------
+Sample 34:
+  Target Intent: card_payment_not_recognised
+  Original Text: I don't understand where this charge came from.
+  Generated Text: I'm confused about this transaction on my statement.
+  Label: 16
+--------------------------------------------------------------------------------
+Sample 35:
+  Target Intent: order_physical_card
+  Original Text: what steps do i do to get a real card
+  Generated Text: To place an order for a physical credit card, please follow these steps: I'd be happy to guide you through the process. Can you please confirm your account information and the type of card you're interested in ordering?
+  Label: 43
+--------------------------------------------------------------------------------
+Sample 36:
+  Target Intent: card_about_to_expire
+  Original Text: Are there any express fees if i want my new card faster?
+  Generated Text: I'm concerned about my credit card's expiration date and if there are any additional fees for expedited delivery.
+  Label: 9
+--------------------------------------------------------------------------------
+Sample 37:
+  Target Intent: top_up_failed
+  Original Text: I really need to top-up my card today urgently but my card keeps getting declined!! Can you please help me with this problem or let me know if you have any alternatives
+  Generated Text: I'm in a bit of an emergency and I need to top-up my card ASAP, but it's not accepting the payment. Can you assist me with this issue or suggest an alternative solution?
+  Label: 59
+--------------------------------------------------------------------------------
+Sample 38:
+  Target Intent: card_payment_fee_charged
+  Original Text: Why was the price higher when I paid with my card?
+  Generated Text: Why was there an additional fee when I used my credit card to make the payment?
+  Label: 15
+--------------------------------------------------------------------------------
+Sample 39:
+  Target Intent: direct_debit_payment_not_recognised
+  Original Text: There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.
+  Generated Text: I'm concerned about a recent transaction on my account that I don't recognize. Could you look into this for me?
+  Label: 28
+--------------------------------------------------------------------------------
+Sample 40:
+  Target Intent: top_up_failed
+  Original Text: I topped up my account but the app failed to process it.
+  Generated Text: I attempted to add funds to my account, but the transaction was unsuccessful.
+  Label: 59
+--------------------------------------------------------------------------------
+
+================================================================================
+QWEN VALIDATION RESULTS
+================================================================================
+Iteration: 11
+Total Samples: 40
+Accepted: 25/40
+Agreement Rate: 0.6250
+--------------------------------------------------------------------------------
+
+Sample 1:
+  Label: 34 (extra_charge_on_statement)
+  Original: There is an extra small charge on my card! What do I do?
+  Augmented: I noticed an additional fee on my statement. Can you help me understand why it's there?
+  Qwen Reasoning: Reasoning: The augmented text accurately reflects the scenario of an extra charge on the statement and is a clean customer query without any conversational fillers.
+
+<decision>YES</decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 2:
+  Label: 18 (card_swallowed)
+  Original: What do I do?  The ATM took my card!
+  Augmented: I accidentally swallowed my card while trying to use the ATM. What should I do?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a card being swallowed by the ATM but includes conversational filler that is not present in the original text.
+
+<decision>NO</decision>
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 3:
+  Label: 11 (card_arrival)
+  Original: My card never arrived.
+  Augmented: My credit card has not been delivered.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a missing credit card delivery, which aligns with the 'card_arrival' intent. It does not include any conversational fillers.
+
+<decision>YES</deci
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 4:
+  Label: 16 (card_payment_not_recognised)
+  Original: I have a charge I did not make.
+  Augmented: I'm showing a transaction on my account that I didn't authorise.
+  Qwen Reasoning: Reasoning: The original text indicates an unrecognised charge, while the augmented text describes an unauthorised transaction. Both scenarios relate to a payment not recognised by the customer, aligni
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 5:
+  Label: 39 (getting_spare_card)
+  Original: I would like to use one of my cards for a family member. Is that allowed?
+  Augmented: I'd like to know if I can assign a spare card to a family member.
+  Qwen Reasoning: The original intent was to get a spare card, but the augmented text is about assigning a card to a family member, which changes the context. Additionally, the augmented text includes conversational fi
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 6:
+  Label: 16 (card_payment_not_recognised)
+  Original: There is  a charge I don't recognize.
+  Augmented: I'm showing a payment on my account that I didn't authorise.
+  Qwen Reasoning: Reasoning: The original text mentions a charge not recognized, while the augmented text refers to an unauthorized payment. Both scenarios relate to unrecognized payments, aligning with the target inte
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 7:
+  Label: 42 (lost_or_stolen_phone)
+  Original: My phone was left behind.  Can I still use my card?
+  Augmented: I accidentally left my phone at a location and I'm worried about my card security. Can I still use it?
+  Qwen Reasoning: Reasoning: The augmented text mentions leaving the phone behind, which aligns with the 'lost_or_stolen_phone' intent. However, it does not explicitly mention that the phone was stolen, which is part o
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 8:
+  Label: 44 (passcode_forgotten)
+  Original: I don't know the code for the app.
+  Augmented: I've forgotten the passcode for my mobile banking app.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of forgetting a passcode, which aligns with the 'passcode_forgotten' intent. It removes any conversational filler, directly stating the issue.
+
+<dec
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 9:
+  Label: 22 (compromised_card)
+  Original: I didn't make these transactions. Is someone else using my card?
+  Augmented: I'm concerned that someone may have stolen my card and is making unauthorized transactions.
+  Qwen Reasoning: The Augmented Text captures the essence of the original text by indicating concern over unauthorized use of a card, which aligns with the 'compromised_card' intent. It removes any conversational fille
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 10:
+  Label: 68 (unable_to_verify_identity)
+  Original: app malfunctioning, does not know its me
+  Augmented: We're having trouble verifying your identity due to an issue with our system, and it seems like our app is not recognizing you.
+  Qwen Reasoning: The Augmented Text reflects the scenario of an issue with verifying identity but introduces conversational filler which is not ideal for a strict data quality audit.
+
+<decision>NO</decision>
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 11:
+  Label: 16 (card_payment_not_recognised)
+  Original: I think there's a purchase at a store that I didn't go to.
+  Augmented: I'm trying to make a payment for a transaction that I didn't initiate.
+  Qwen Reasoning: The original text describes a situation where the customer suspects an unauthorized purchase, while the augmented text suggests a scenario where the customer wants to make an unrecognized payment. The
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 12:
+  Label: 28 (direct_debit_payment_not_recognised)
+  Original: I don't recognize the direct debit payment from the app.
+  Augmented: I'm unable to identify the direct debit payment made through the mobile app.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of not recognizing a direct debit payment and is free of conversational fillers. It directly addresses the issue without any additional phrases.
+
+<d
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 13:
+  Label: 62 (topping_up_by_card)
+  Original: What's the process for topping up by card?
+  Augmented: How do I add funds to my account using my debit/credit card?
+  Qwen Reasoning: The Augmented Text accurately reflects the process of topping up by card without any conversational fillers. It directly addresses how to add funds to an account using a debit/credit card.
+
+<decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 14:
+  Label: 68 (unable_to_verify_identity)
+  Original: The app doesn't believe its me.
+  Augmented: The application is unable to confirm my identity.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of not being able to verify the user's identity and removes any conversational filler. It directly corresponds to the intent 'unable_to_verify_ident
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 15:
+  Label: 26 (declined_cash_withdrawal)
+  Original: I tried using my ATM card at your Notting Hill location today.  It did not work.  Am I doing something wrong?
+  Augmented: I attempted to withdraw cash using my ATM card at your Notting Hill branch, but it was declined. Is there an issue with my card or the machine?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a declined cash withdrawal and removes all conversational fillers. It directly addresses the issue without any unnecessary words.
+
+<decision>YES<
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 16:
+  Label: 3 (atm_support)
+  Original: What locations can I get money from?
+  Augmented: Where can I withdraw cash from an ATM?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of finding locations to withdraw cash from an ATM, which aligns with the 'atm_support' intent. It removes any conversational filler and directly ask
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 17:
+  Label: 13 (card_linking)
+  Original: If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?
+  Augmented: If I locate a lost card, do I need to cancel it or can I reactivate it and continue using it?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of card linking by discussing the options after locating a lost card, which aligns with the 'card_linking' intent. The text is clean and free of con
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 18:
+  Label: 41 (lost_or_stolen_card)
+  Original: Has there been any activity on my card today?
+  Augmented: I think I may have misplaced my card, can you check if there have been any transactions on it recently?
+  Qwen Reasoning: Reasoning: The original text does not indicate that the card has been lost or stolen, but rather that the user suspects they may have misplaced it. The augmented text, however, explicitly states that 
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 19:
+  Label: 0 (activate_my_card)
+  Original: I need to actuate my card.
+  Augmented: I'd like to activate my credit card.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of activating a card as defined by the intent 'activate_my_card', and it removes any conversational filler, directly stating the request.
+
+<decision
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 20:
+  Label: 2 (apple_pay_or_google_pay)
+  Original: Can an apple watch be used to tup-up?
+  Augmented: Can I use my Apple Watch to make payments with Apple Pay or Google Pay?
+  Qwen Reasoning: The Augmented Text does not accurately reflect the specific scenario defined by the intent 'apple_pay_or_google_pay' as it mentions "tup-up" which is not related to the payment methods. Additionally, 
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 21:
+  Label: 15 (card_payment_fee_charged)
+  Original: I have a fee showing from last time I used my card.
+  Augmented: A fee was deducted from my last transaction using my card.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a fee being charged for a card payment as per the target intent. It removes any conversational filler, focusing directly on the fee and the card 
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 22:
+  Label: 26 (declined_cash_withdrawal)
+  Original: Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM.
+  Augmented: I'm happy to assist you with your card issue. It seems that your card has been declined at two different ATMs, and we'd like to investigate this further. Can you please provide more details about the decline messages you received, such as the exact error code or any specific error messages displayed on the ATM screen?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a declined cash withdrawal and provides a clear customer service response. However, it includes conversational fillers like "I'm happy to assist 
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 23:
+  Label: 28 (direct_debit_payment_not_recognised)
+  Original: I am seeing in the App a diret debit that its not mine
+  Augmented: I'm trying to view my account statement and I see a direct debit payment that doesn't belong to me
+  Qwen Reasoning: The Augmented Text captures the essence of the original text but includes conversational filler which is not aligned with the target intent's requirement for a clean, direct query.
+
+<decision>NO</deci
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 24:
+  Label: 56 (top_up_by_bank_transfer_charge)
+  Original: Will there be a charge when money is added to my account?
+  Augmented: Are there any fees associated with topping up my account balance via bank transfer?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of checking for charges when topping up an account via bank transfer and removes the conversational filler from the original text.
+
+<decision>YES</d
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 25:
+  Label: 28 (direct_debit_payment_not_recognised)
+  Original: what is this charge on my card?
+  Augmented: I'm trying to understand the direct debit payment I see on my account statement.
+  Qwen Reasoning: The original text does not match the target intent as it is a general inquiry about a charge. The augmented text, while related to a direct debit, does not specifically indicate that the payment was n
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 26:
+  Label: 20 (cash_withdrawal_not_recognised)
+  Original: My identity has been stolen. I still have my physical card but there are charges I didn't make on my account. How do I cancel this card or dispute the charges?
+  Augmented: I'm concerned about unauthorized transactions on my account. Someone has used my physical card to make purchases without my consent. Can I report this incident and dispute the charges? How do I cancel my card to prevent further unauthorized use?
+  Qwen Reasoning: The Augmented Text does not accurately reflect the specific scenario defined by the intent 'cash_withdrawal_not_recognised' as it focuses on unauthorized transactions and disputes rather than a withdr
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 27:
+  Label: 43 (order_physical_card)
+  Original: Do I get a card to keep in my wallet?
+  Augmented: Can I request a physical debit/credit card to carry with me?
+  Qwen Reasoning: The Augmented Text accurately reflects the need for a physical card as specified in the 'order_physical_card' intent. It removes any conversational filler and directly addresses the request.
+
+<decisio
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 28:
+  Label: 28 (direct_debit_payment_not_recognised)
+  Original: This debit is not my transcation. How do I get my money out back?
+  Augmented: This direct debit payment is not mine. Can you help me cancel it and refund my account?
+  Qwen Reasoning: Reasoning: The augmented text mentions that the direct debit payment is not theirs and requests help in canceling it and refunding their account, which aligns with the target intent of 'direct_debit_p
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 29:
+  Label: 35 (failed_transfer)
+  Original: A mortgage payment I'm making is giving me an error message.  This is the first time I'm making this payment and want to know what's wrong.
+  Augmented: I'm trying to make a mortgage payment for the first time, but I'm getting an error message. Can you help me figure out what's going wrong?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a failed transfer as the user is attempting to make a payment and encountering an error for the first time. It removes any conversational fillers
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 30:
+  Label: 43 (order_physical_card)
+  Original: Do I get a real card?
+  Augmented: Can I receive a physical credit card instead of a digital one?
+  Qwen Reasoning: The Augmented Text accurately reflects the need for a physical card rather than a digital one, matching the intent 'order_physical_card'. It removes any conversational filler.
+
+<decision>YES</decision
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 31:
+  Label: 22 (compromised_card)
+  Original: There are transactions that I don't remember making, i think someone might have gotten my card details and is now using it.
+  Augmented: I'm concerned that someone may have obtained my card information and is making unauthorized transactions.
+  Qwen Reasoning: The Augmented Text captures the essence of the original text, indicating that the card has been compromised and transactions are unauthorized, which aligns with the 'compromised_card' intent. The text
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 32:
+  Label: 12 (card_delivery_estimate)
+  Original: i need to expedite my card
+  Augmented: I would like to request an expedited delivery for my card.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of requesting expedited delivery for a card, which aligns with the intent 'card_delivery_estimate'. It is also free of any conversational fillers.
+
+
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 33:
+  Label: 12 (card_delivery_estimate)
+  Original: I need my card ASAP!
+  Augmented: I require my card as soon as possible.
+  Qwen Reasoning: The Augmented Text accurately reflects the urgency of needing a card quickly, aligning with the 'card_delivery_estimate' intent. It removes any conversational filler, making it a clean query.
+
+<decisi
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 34:
+  Label: 16 (card_payment_not_recognised)
+  Original: I don't understand where this charge came from.
+  Augmented: I'm confused about this transaction on my statement.
+  Qwen Reasoning: Reasoning: The original text expresses confusion about an unknown charge, while the augmented text indicates confusion about a transaction on the statement. This aligns with the 'card_payment_not_reco
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 35:
+  Label: 43 (order_physical_card)
+  Original: what steps do i do to get a real card
+  Augmented: To place an order for a physical credit card, please follow these steps: I'd be happy to guide you through the process. Can you please confirm your account information and the type of card you're interested in ordering?
+  Qwen Reasoning: The Augmented Text does not accurately reflect the specific scenario defined by the intent 'order_physical_card' as it includes conversational fillers and additional guidance that goes beyond the inte
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 36:
+  Label: 9 (card_about_to_expire)
+  Original: Are there any express fees if i want my new card faster?
+  Augmented: I'm concerned about my credit card's expiration date and if there are any additional fees for expedited delivery.
+  Qwen Reasoning: The Original Text asks about express fees for expedited delivery, while the Augmented Text expresses concern about the card's expiration date and additional fees for expedited delivery. This does not 
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 37:
+  Label: 59 (top_up_failed)
+  Original: I really need to top-up my card today urgently but my card keeps getting declined!! Can you please help me with this problem or let me know if you have any alternatives
+  Augmented: I'm in a bit of an emergency and I need to top-up my card ASAP, but it's not accepting the payment. Can you assist me with this issue or suggest an alternative solution?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a failed top-up attempt and conveys urgency, which aligns with the 'top_up_failed' intent. It removes all conversational fillers.
+
+<decision>YES<
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 38:
+  Label: 15 (card_payment_fee_charged)
+  Original: Why was the price higher when I paid with my card?
+  Augmented: Why was there an additional fee when I used my credit card to make the payment?
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a card payment fee being charged, and it removes any conversational filler.
+
+<decision>YES</decision>
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------
+Sample 39:
+  Label: 28 (direct_debit_payment_not_recognised)
+  Original: There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.
+  Augmented: I'm concerned about a recent transaction on my account that I don't recognize. Could you look into this for me?
+  Qwen Reasoning: The Augmented Text does not accurately reflect the specific scenario of a direct debit payment not being recognized as it lacks the context of a direct debit and the timeframe is vague. Additionally, 
+  Qwen Decision: NO
+  Status: ✗ REJECTED
+--------------------------------------------------------------------------------
+Sample 40:
+  Label: 59 (top_up_failed)
+  Original: I topped up my account but the app failed to process it.
+  Augmented: I attempted to add funds to my account, but the transaction was unsuccessful.
+  Qwen Reasoning: The Augmented Text accurately reflects the scenario of a failed top-up attempt and removes any conversational filler, directly matching the intent 'top_up_failed'. The text is clean and focuses solely
+  Qwen Decision: YES
+  Status: ✓ ACCEPTED
+--------------------------------------------------------------------------------

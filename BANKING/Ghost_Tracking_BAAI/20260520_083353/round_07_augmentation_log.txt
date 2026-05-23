@@ -1,0 +1,68 @@
+GEN | [direct_debit_payment_not_recognised] | Orig: I did not set up a direct debit I have -> Aug: I'm not sure if I set up a direct debit, but I'm trying to make a payment
+GEN | [receiving_money] | Orig: Is it possible for a friend to personally send me a payment? -> Aug: Can a friend directly transfer funds to me?
+GEN | [lost_or_stolen_phone] | Orig: I don't have my cell phone with me so I cannot access the system to complete the transaction. -> Aug: I've misplaced my phone and can't access the system to finish the transaction.
+GEN | [top_up_reverted] | Orig: My top-up was cancelled and I am writing to ask if I need to complete the 3D Secure authentication section before I submit it. -> Aug: I'm trying to re-initiate my cancelled top-up and wanted to confirm if I need to complete the 3D Secure authentication process before resubmitting it.
+GEN | [terminate_account] | Orig: if im not using my account should i close it or just let it sit -> Aug: If I'm not actively using my account, should I cancel it or simply leave it inactive?
+GEN | [visa_or_mastercard] | Orig: I want a Mastercard, instead. -> Aug: I'd prefer a Visa card, if possible.
+GEN | [visa_or_mastercard] | Orig: I'm happy with Mastercard and want to stick with just that credit card. -> Aug: I'm satisfied with my current Mastercard and would like to continue using it exclusively.
+GEN | [visa_or_mastercard] | Orig: I won't be pleased unless I get a Mastercard. -> Aug: I'm only interested in a Mastercard, please.
+GEN | [card_not_working] | Orig: WHAT IS THE REASON FOR THAT -> Aug: WHY IS MY CARD NOT WORKING?
+GEN | [visa_or_mastercard] | Orig: Can I get a Visa from you? -> Aug: Can I obtain a Mastercard from you instead?
+GEN | [wrong_amount_of_cash_received] | Orig: I needed $100 but all it gave me was $20. -> Aug: I was expecting to receive $200, but instead, I only got $50.
+GEN | [supported_cards_and_currencies] | Orig: What are my payment options? -> Aug: We accept various payment methods, including credit cards like Visa, Mastercard, and American Express, as well as digital wallets like Apple Pay and Google Pay. We also support international transactions in multiple currencies, including USD, EUR, JPY, and more.
+GEN | [wrong_amount_of_cash_received] | Orig: When I went to $100, all the machine would give me was $20. -> Aug: When I went to withdraw $200, all the machine would give me was $50.
+GEN | [direct_debit_payment_not_recognised] | Orig: I didn't set up the direct debit I have -> Aug: I'm not seeing the direct debit payment I set up
+GEN | [lost_or_stolen_card] | Orig: Can you provide information for freezing my card immediately? -> Aug: I'd like to report my card as lost or stolen and request that it be frozen or restricted to prevent any unauthorized transactions.
+GEN | [card_linking] | Orig: Is there a way to link cards if I have one of yours? -> Aug: Can I link my existing card to another one I have with your bank?
+GEN | [order_physical_card] | Orig: Can I have a tangible form of my virtual card. -> Aug: I'd like to request a physical version of my digital card.
+GEN | [visa_or_mastercard] | Orig: Please give me a Mastercard instead. -> Aug: Please provide me with a Visa card instead.
+GEN | [topping_up_by_card] | Orig: My money I had was gone and I could not get gas! -> Aug: I'm in a tight spot and I need to add more funds to my card to cover an unexpected expense, like filling up my gas tank.
+GEN | [card_linking] | Orig: I found my card, am I able to put it back into the app? -> Aug: I'd like to reactivate my card in the app, please.
+GEN | [exchange_rate] | Orig: How do you do exchanges? -> Aug: What is the current exchange rate for currency conversion?
+GEN | [top_up_limits] | Orig: What is the daily limit on my card? -> Aug: Can you please inform me about the daily spending limit on my credit/debit card?
+GEN | [cash_withdrawal_charge] | Orig: Is there a charge for getting cash? -> Aug: Are there any fees associated with withdrawing cash from my account?
+GEN | [getting_virtual_card] | Orig: I would love one of the virtual cards! -> Aug: I'm interested in obtaining a virtual card, please.
+GEN | [declined_cash_withdrawal] | Orig: what is my monthly spending limit because i was refused my money at an atm -> Aug: I'm happy to help you with your query. Your monthly spending limit is $X, but unfortunately, your recent cash withdrawal attempt was declined due to exceeding this limit. Would you like to know more about your available balance or discuss possible alternatives for accessing your funds?
+GEN | [visa_or_mastercard] | Orig: This transaction needs both a Visa and a Mastercard. -> Aug: This transaction requires both a Visa and a Mastercard.
+GEN | [card_linking] | Orig: Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket. -> Aug: Could you please reactivate my card, I misplaced it initially but I've since found it in my jacket pocket.
+GEN | [wrong_amount_of_cash_received] | Orig: I was only given $20 when I tried to get $100 -> Aug: I was shortchanged $80 when I was supposed to receive $100.
+GEN | [country_support] | Orig: i live in portugal. do you operate here? -> Aug: I'm a resident of Portugal. Can you confirm if your services are available in this country?
+GEN | [declined_cash_withdrawal] | Orig: When I tried to access my cash, I wasn't allowed! -> Aug: Unfortunately, your cash withdrawal request was declined due to insufficient funds or other reasons.
+GEN | [pending_transfer] | Orig: I have a trasnger that is pending and wondered about it. -> Aug: I have a transfer that is pending and I'd like to know the status.
+GEN | [pending_card_payment] | Orig: What's the pending length for credit transactions? I've had one in my pending category now for days and it won't move to processed. -> Aug: Can you please provide an update on the status of my pending credit card payment? I've had a transaction stuck in the pending category for an extended period, and I'm concerned it's not being processed as expected.
+GEN | [top_up_reverted] | Orig: I need some help, I thought you guys accepted crypto top ups?? It won't seem to let me do it. I put money in my account and now it's gone and I didn't spend it. Where did it go?? -> Aug: I'm having an issue with a recent top-up attempt. I tried to add funds to my account using cryptocurrency, but it seems to have been rejected. I'm concerned because I'm missing the amount I transferred, and I'm not sure where it went. Can you help me resolve this?
+GEN | [automatic_top_up] | Orig: How do I get refills to my card when I'm traveling? -> Aug: Can I set up automatic top-ups for my card when I'm abroad, so I can receive refills easily while traveling?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: I'm not sure if I set up a direct debit, but I'm trying to make a payment
+VAL | [receiving_money] | YES | Text: Can a friend directly transfer funds to me?
+VAL | [lost_or_stolen_phone] | YES | Text: I've misplaced my phone and can't access the system to finish the transaction.
+VAL | [top_up_reverted] | YES | Text: I'm trying to re-initiate my cancelled top-up and wanted to confirm if I need to complete the 3D Secure authentication process before resubmitting it.
+VAL | [terminate_account] | YES | Text: If I'm not actively using my account, should I cancel it or simply leave it inactive?
+VAL | [visa_or_mastercard] | NO | Text: I'd prefer a Visa card, if possible.
+VAL | [visa_or_mastercard] | YES | Text: I'm satisfied with my current Mastercard and would like to continue using it exclusively.
+VAL | [visa_or_mastercard] | YES | Text: I'm only interested in a Mastercard, please.
+VAL | [card_not_working] | YES | Text: WHY IS MY CARD NOT WORKING?
+VAL | [visa_or_mastercard] | NO | Text: Can I obtain a Mastercard from you instead?
+VAL | [wrong_amount_of_cash_received] | NO | Text: I was expecting to receive $200, but instead, I only got $50.
+VAL | [supported_cards_and_currencies] | YES | Text: We accept various payment methods, including credit cards like Visa, Mastercard, and American Express, as well as digital wallets like Apple Pay and Google Pay. We also support international transactions in multiple currencies, including USD, EUR, JPY, and more.
+VAL | [wrong_amount_of_cash_received] | YES | Text: When I went to withdraw $200, all the machine would give me was $50.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm not seeing the direct debit payment I set up
+VAL | [lost_or_stolen_card] | YES | Text: I'd like to report my card as lost or stolen and request that it be frozen or restricted to prevent any unauthorized transactions.
+VAL | [card_linking] | YES | Text: Can I link my existing card to another one I have with your bank?
+VAL | [order_physical_card] | YES | Text: I'd like to request a physical version of my digital card.
+VAL | [visa_or_mastercard] | NO | Text: Please provide me with a Visa card instead.
+VAL | [topping_up_by_card] | NO | Text: I'm in a tight spot and I need to add more funds to my card to cover an unexpected expense, like filling up my gas tank.
+VAL | [card_linking] | NO | Text: I'd like to reactivate my card in the app, please.
+VAL | [exchange_rate] | NO | Text: What is the current exchange rate for currency conversion?
+VAL | [top_up_limits] | YES | Text: Can you please inform me about the daily spending limit on my credit/debit card?
+VAL | [cash_withdrawal_charge] | NO | Text: Are there any fees associated with withdrawing cash from my account?
+VAL | [getting_virtual_card] | YES | Text: I'm interested in obtaining a virtual card, please.
+VAL | [declined_cash_withdrawal] | NO | Text: I'm happy to help you with your query. Your monthly spending limit is $X, but unfortunately, your recent cash withdrawal attempt was declined due to exceeding this limit. Would you like to know more about your available balance or discuss possible alternatives for accessing your funds?
+VAL | [visa_or_mastercard] | YES | Text: This transaction requires both a Visa and a Mastercard.
+VAL | [card_linking] | NO | Text: Could you please reactivate my card, I misplaced it initially but I've since found it in my jacket pocket.
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was shortchanged $80 when I was supposed to receive $100.
+VAL | [country_support] | YES | Text: I'm a resident of Portugal. Can you confirm if your services are available in this country?
+VAL | [declined_cash_withdrawal] | YES | Text: Unfortunately, your cash withdrawal request was declined due to insufficient funds or other reasons.
+VAL | [pending_transfer] | YES | Text: I have a transfer that is pending and I'd like to know the status.
+VAL | [pending_card_payment] | YES | Text: Can you please provide an update on the status of my pending credit card payment? I've had a transaction stuck in the pending category for an extended period, and I'm concerned it's not being processed as expected.
+VAL | [top_up_reverted] | YES | Text: I'm having an issue with a recent top-up attempt. I tried to add funds to my account using cryptocurrency, but it seems to have been rejected. I'm concerned because I'm missing the amount I transferred, and I'm not sure where it went. Can you help me resolve this?
+VAL | [automatic_top_up] | NO | Text: Can I set up automatic top-ups for my card when I'm abroad, so I can receive refills easily while traveling?

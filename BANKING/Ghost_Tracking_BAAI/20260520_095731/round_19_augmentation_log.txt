@@ -1,0 +1,78 @@
+GEN | [cash_withdrawal_not_recognised] | Orig: A WD was just made on my account, but it was not me and I still have my card.  What to do? -> Aug: A withdrawal was processed on my account, but I didn't authorize it and I still have my card with me. What should I do?
+GEN | [failed_transfer] | Orig: I think youre system may be broken because I have tried transfer money 5x and it isnt working!  I'm not doing anything complicated it is what I usually do. -> Aug: I've attempted to transfer funds multiple times, but it's not going through. I'm not doing anything out of the ordinary, it's my usual process.
+GEN | [transfer_not_received_by_recipient] | Orig: Where is my last money transaction -> Aug: I haven't received the funds from my recent transfer. Can you help me locate it?
+GEN | [compromised_card] | Orig: It looks like someone besides me ordered something with my card, what should I do? -> Aug: It appears that an unauthorized transaction has been made using my card, what steps can I take to resolve this issue?
+GEN | [card_swallowed] | Orig: Will you please help me get my card back? -> Aug: Can you assist me in retrieving my swallowed card?
+GEN | [virtual_card_not_working] | Orig: Can I use my virtual card for recurring monthly payments? -> Aug: I'm trying to set up a recurring payment using my virtual card, but it's not working. Can you help me troubleshoot the issue?
+GEN | [card_swallowed] | Orig: I was removing a dollar amount from my account and now don't have access to my card. -> Aug: I accidentally swallowed my card while trying to remove a transaction from my account and now I'm unable to access it.
+GEN | [card_payment_not_recognised] | Orig: Is there any way to know how the transaction got on my account? -> Aug: I'm trying to figure out why a recent payment didn't show up on my account statement.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I going to be charged for receiving  money? -> Aug: Will there be any fees associated with receiving a bank transfer to top up my account?
+GEN | [compromised_card] | Orig: Should I order a new card before I freeze my original one? -> Aug: Should I request a replacement card before reporting my original card as lost or stolen?
+GEN | [change_pin] | Orig: How can I change my Rowlock ? -> Aug: How do I modify my PIN code?
+GEN | [order_physical_card] | Orig: I want a real card -> Aug: I'd like to order a physical credit card
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow. -> Aug: I need to cancel the transfer I initiated yesterday. Can you please reverse the transaction and make the necessary corrections? I require it to be completed by tomorrow.
+GEN | [transfer_timing] | Orig: How do i transfer something faster than normal? -> Aug: Can you tell me if there's a way to expedite the transfer process or make it happen sooner than the usual timeframe?
+GEN | [card_about_to_expire] | Orig: Are there any express fees if i want my new card faster? -> Aug: I'm planning to get a new card, but I'm worried about the expiration date. Can I expedite the delivery to avoid any late fees?
+GEN | [lost_or_stolen_card] | Orig: I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this? -> Aug: I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it. I'm getting anxious that it might have been stolen and used fraudulently. Can you help me investigate this situation?
+GEN | [order_physical_card] | Orig: I need an actual card that I can hold in my hand, how do I do that? -> Aug: I'd like to place an order for a physical credit card, can you guide me through the process?
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction yesterday. Would  you please make it correct?I need it by tomorrow Please. -> Aug: I need to cancel the transfer I initiated yesterday. It was an error on my part. Can you please cancel it and correct the transaction as soon as possible?
+GEN | [transfer_not_received_by_recipient] | Orig: How can I the person see my money transaction? -> Aug: Why hasn't the recipient received the money from my recent transaction?
+GEN | [lost_or_stolen_phone] | Orig: I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user? -> Aug: I'm a victim of theft and I'd like to know if I need access to the app to use your services and how I can set up your services on a new device that was previously linked to my account.
+GEN | [top_up_failed] | Orig: It does not appear that my message went through. -> Aug: It seems that my top-up request was not processed successfully.
+GEN | [transfer_not_received_by_recipient] | Orig: The app isn't showing my transactions -> Aug: I'm trying to check my recent transfers, but the app isn't displaying the transaction I sent to the recipient.
+GEN | [receiving_money] | Orig: Will my GPB update my salary -> Aug: Will my direct deposit reflect my new salary?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are you going to charge me to collect the money? -> Aug: Will there be a fee for processing the bank transfer for my top-up?
+GEN | [card_payment_not_recognised] | Orig: I do not recognise the card payment. -> Aug: I'm not familiar with the card payment that was made.
+GEN | [cancel_transfer] | Orig: I stupidly initiated a rent payment from the wrong account yesterday. It can't be paid from that account, but it really needs to get paid on time. Am I able to move the payment to the right account? -> Aug: I accidentally set up a transfer from the wrong account for my rent payment yesterday. Since it can't be processed from that account, I'd like to move it to the correct one to avoid any delays.
+GEN | [direct_debit_payment_not_recognised] | Orig: People are using my debit card - help! -> Aug: We've received a payment attempt from your debit card, but it's not being recognized as a direct debit payment. Can you please check your account and confirm the payment details?
+GEN | [card_delivery_estimate] | Orig: I need my card immediately. -> Aug: I require an urgent estimate for my card delivery.
+GEN | [cancel_transfer] | Orig: I paid my rent into the wrong account, could you please pay it into the right account, it needs to be done by tomorrow. -> Aug: I mistakenly transferred my rent payment to the wrong account. Can you please cancel the transfer and redirect it to the correct account, as it needs to be processed by tomorrow?
+GEN | [top_up_by_cash_or_cheque] | Orig: Do you accept cash? -> Aug: Can I make a cash deposit to top up my account?
+GEN | [cash_withdrawal_not_recognised] | Orig: i didnt put that money in my account -> Aug: I didn't deposit that amount into my account
+GEN | [compromised_card] | Orig: There's a possibility that my card was compromised. -> Aug: I'm concerned that my credit card might have been compromised.
+GEN | [getting_virtual_card] | Orig: I need to make a purchase online, where is my virtual card? -> Aug: I'm trying to buy something online and I need to know where I can find my virtual card.
+GEN | [getting_spare_card] | Orig: Can I have a spare card for this account please? -> Aug: Might I request a replacement card for this account?
+GEN | [fiat_currency_support] | Orig: Do you have EUR currency available for me? -> Aug: Can I exchange my money for Euros or is the EUR currency available for withdrawal?
+GEN | [visa_or_mastercard] | Orig: Why can I not choose the card i want? -> Aug: Why can I not select the Visa or Mastercard I prefer?
+GEN | [declined_cash_withdrawal] | Orig: When I tried to access my cash, I wasn't allowed! -> Aug: Unfortunately, your cash withdrawal request was declined due to insufficient funds or other reasons.
+GEN | [card_linking] | Orig: What do I do if I already had a card with you guys? -> Aug: I already have a card with your bank, what's the next step?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do I get charged if I get money? -> Aug: Will I be charged a fee when I receive a bank transfer top-up?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: A withdrawal was processed on my account, but I didn't authorize it and I still have my card with me. What should I do?
+VAL | [failed_transfer] | YES | Text: I've attempted to transfer funds multiple times, but it's not going through. I'm not doing anything out of the ordinary, it's my usual process.
+VAL | [transfer_not_received_by_recipient] | YES | Text: I haven't received the funds from my recent transfer. Can you help me locate it?
+VAL | [compromised_card] | YES | Text: It appears that an unauthorized transaction has been made using my card, what steps can I take to resolve this issue?
+VAL | [card_swallowed] | YES | Text: Can you assist me in retrieving my swallowed card?
+VAL | [virtual_card_not_working] | YES | Text: I'm trying to set up a recurring payment using my virtual card, but it's not working. Can you help me troubleshoot the issue?
+VAL | [card_swallowed] | NO | Text: I accidentally swallowed my card while trying to remove a transaction from my account and now I'm unable to access it.
+VAL | [card_payment_not_recognised] | YES | Text: I'm trying to figure out why a recent payment didn't show up on my account statement.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Will there be any fees associated with receiving a bank transfer to top up my account?
+VAL | [compromised_card] | YES | Text: Should I request a replacement card before reporting my original card as lost or stolen?
+VAL | [change_pin] | NO | Text: How do I modify my PIN code?
+VAL | [order_physical_card] | YES | Text: I'd like to order a physical credit card
+VAL | [cancel_transfer] | YES | Text: I need to cancel the transfer I initiated yesterday. Can you please reverse the transaction and make the necessary corrections? I require it to be completed by tomorrow.
+VAL | [transfer_timing] | YES | Text: Can you tell me if there's a way to expedite the transfer process or make it happen sooner than the usual timeframe?
+VAL | [card_about_to_expire] | NO | Text: I'm planning to get a new card, but I'm worried about the expiration date. Can I expedite the delivery to avoid any late fees?
+VAL | [lost_or_stolen_card] | YES | Text: I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it. I'm getting anxious that it might have been stolen and used fraudulently. Can you help me investigate this situation?
+VAL | [order_physical_card] | YES | Text: I'd like to place an order for a physical credit card, can you guide me through the process?
+VAL | [cancel_transfer] | YES | Text: I need to cancel the transfer I initiated yesterday. It was an error on my part. Can you please cancel it and correct the transaction as soon as possible?
+VAL | [transfer_not_received_by_recipient] | YES | Text: Why hasn't the recipient received the money from my recent transaction?
+VAL | [lost_or_stolen_phone] | NO | Text: I'm a victim of theft and I'd like to know if I need access to the app to use your services and how I can set up your services on a new device that was previously linked to my account.
+VAL | [top_up_failed] | YES | Text: It seems that my top-up request was not processed successfully.
+VAL | [transfer_not_received_by_recipient] | NO | Text: I'm trying to check my recent transfers, but the app isn't displaying the transaction I sent to the recipient.
+VAL | [receiving_money] | YES | Text: Will my direct deposit reflect my new salary?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Will there be a fee for processing the bank transfer for my top-up?
+VAL | [card_payment_not_recognised] | YES | Text: I'm not familiar with the card payment that was made.
+VAL | [cancel_transfer] | NO | Text: I accidentally set up a transfer from the wrong account for my rent payment yesterday. Since it can't be processed from that account, I'd like to move it to the correct one to avoid any delays.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: We've received a payment attempt from your debit card, but it's not being recognized as a direct debit payment. Can you please check your account and confirm the payment details?
+VAL | [card_delivery_estimate] | YES | Text: I require an urgent estimate for my card delivery.
+VAL | [cancel_transfer] | NO | Text: I mistakenly transferred my rent payment to the wrong account. Can you please cancel the transfer and redirect it to the correct account, as it needs to be processed by tomorrow?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I make a cash deposit to top up my account?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I didn't deposit that amount into my account
+VAL | [compromised_card] | YES | Text: I'm concerned that my credit card might have been compromised.
+VAL | [getting_virtual_card] | YES | Text: I'm trying to buy something online and I need to know where I can find my virtual card.
+VAL | [getting_spare_card] | YES | Text: Might I request a replacement card for this account?
+VAL | [fiat_currency_support] | NO | Text: Can I exchange my money for Euros or is the EUR currency available for withdrawal?
+VAL | [visa_or_mastercard] | NO | Text: Why can I not select the Visa or Mastercard I prefer?
+VAL | [declined_cash_withdrawal] | YES | Text: Unfortunately, your cash withdrawal request was declined due to insufficient funds or other reasons.
+VAL | [card_linking] | YES | Text: I already have a card with your bank, what's the next step?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Will I be charged a fee when I receive a bank transfer top-up?

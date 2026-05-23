@@ -1,0 +1,695 @@
+Logging started: /root/paper/BANKING/all-MiniLM/20260520_041317/experiment_log_Banking77_Refactored_20260520_041317.txt
+Loading dataset: PolyAI/banking77 (Simulated Long-Tail)
+
+=== Encoding with BAAI/bge-large-en-v1.5 ===
+
+=== Dataset Partition Summary ===
+Head classes (0-9): 10 classes x 15 seed samples
+Tail classes (10-76): 67 classes x 2 seed samples
+Seed set size: 284
+Unlabeled pool size: 8179
+Test set size: 1540
+=================================
+
+
+============================================================
+PASSIVE LEARNING EXPERIMENT (Random)
+============================================================
+Initial labeled pool: 284 samples
+Remaining unlabeled: 8179 samples
+
+--- Iteration 1 ---
+Test - F1: 0.7193, Accuracy: 0.7305
+Selected 40 samples using random sampling
+Total labeled samples: 324
+Remaining unlabeled: 8139
+
+--- Iteration 2 ---
+Test - F1: 0.7568, Accuracy: 0.7649
+Selected 40 samples using random sampling
+Total labeled samples: 364
+Remaining unlabeled: 8099
+
+--- Iteration 3 ---
+Test - F1: 0.7754, Accuracy: 0.7838
+Selected 40 samples using random sampling
+Total labeled samples: 404
+Remaining unlabeled: 8059
+
+--- Iteration 4 ---
+Test - F1: 0.7939, Accuracy: 0.7994
+Selected 40 samples using random sampling
+Total labeled samples: 444
+Remaining unlabeled: 8019
+
+--- Iteration 5 ---
+Test - F1: 0.7972, Accuracy: 0.8045
+Selected 40 samples using random sampling
+Total labeled samples: 484
+Remaining unlabeled: 7979
+
+--- Iteration 6 ---
+Test - F1: 0.8169, Accuracy: 0.8234
+Selected 40 samples using random sampling
+Total labeled samples: 524
+Remaining unlabeled: 7939
+
+--- Iteration 7 ---
+Test - F1: 0.8279, Accuracy: 0.8338
+Selected 40 samples using random sampling
+Total labeled samples: 564
+Remaining unlabeled: 7899
+
+--- Iteration 8 ---
+Test - F1: 0.8333, Accuracy: 0.8377
+Selected 40 samples using random sampling
+Total labeled samples: 604
+Remaining unlabeled: 7859
+
+--- Iteration 9 ---
+Test - F1: 0.8409, Accuracy: 0.8455
+Selected 40 samples using random sampling
+Total labeled samples: 644
+Remaining unlabeled: 7819
+
+--- Iteration 10 ---
+Test - F1: 0.8402, Accuracy: 0.8442
+Selected 40 samples using random sampling
+Total labeled samples: 684
+Remaining unlabeled: 7779
+
+--- Iteration 11 ---
+Test - F1: 0.8524, Accuracy: 0.8552
+Selected 40 samples using random sampling
+Total labeled samples: 724
+Remaining unlabeled: 7739
+
+--- Iteration 12 ---
+Test - F1: 0.8578, Accuracy: 0.8597
+Selected 40 samples using random sampling
+Total labeled samples: 764
+Remaining unlabeled: 7699
+
+--- Iteration 13 ---
+Test - F1: 0.8631, Accuracy: 0.8643
+Selected 40 samples using random sampling
+Total labeled samples: 804
+Remaining unlabeled: 7659
+
+--- Iteration 14 ---
+Test - F1: 0.8657, Accuracy: 0.8669
+Selected 40 samples using random sampling
+Total labeled samples: 844
+Remaining unlabeled: 7619
+
+--- Iteration 15 ---
+Test - F1: 0.8664, Accuracy: 0.8675
+Selected 40 samples using random sampling
+Total labeled samples: 884
+Remaining unlabeled: 7579
+
+--- Iteration 16 ---
+Test - F1: 0.8738, Accuracy: 0.8753
+Selected 40 samples using random sampling
+Total labeled samples: 924
+Remaining unlabeled: 7539
+
+--- Iteration 17 ---
+Test - F1: 0.8766, Accuracy: 0.8779
+Selected 40 samples using random sampling
+Total labeled samples: 964
+Remaining unlabeled: 7499
+
+--- Iteration 18 ---
+Test - F1: 0.8806, Accuracy: 0.8825
+Selected 40 samples using random sampling
+Total labeled samples: 1004
+Remaining unlabeled: 7459
+
+--- Iteration 19 ---
+Test - F1: 0.8824, Accuracy: 0.8838
+Selected 40 samples using random sampling
+Total labeled samples: 1044
+Remaining unlabeled: 7419
+
+--- Iteration 20 ---
+Test - F1: 0.8791, Accuracy: 0.8805
+Selected 40 samples using random sampling
+Total labeled samples: 1084
+Remaining unlabeled: 7379
+
+--- Iteration 21 ---
+Test - F1: 0.8844, Accuracy: 0.8864
+Selected 40 samples using random sampling
+Total labeled samples: 1124
+Remaining unlabeled: 7339
+
+--- Iteration 22 ---
+Test - F1: 0.8840, Accuracy: 0.8857
+Selected 40 samples using random sampling
+Total labeled samples: 1164
+Remaining unlabeled: 7299
+
+--- Iteration 23 ---
+Test - F1: 0.8878, Accuracy: 0.8896
+Selected 40 samples using random sampling
+Total labeled samples: 1204
+Remaining unlabeled: 7259
+
+--- Iteration 24 ---
+Test - F1: 0.8858, Accuracy: 0.8877
+Selected 40 samples using random sampling
+Total labeled samples: 1244
+Remaining unlabeled: 7219
+
+--- Iteration 25 ---
+Test - F1: 0.8848, Accuracy: 0.8864
+Selected 40 samples using random sampling
+Total labeled samples: 1284
+Remaining unlabeled: 7179
+
+--- Iteration 26 ---
+Test - F1: 0.8895, Accuracy: 0.8909
+Selected 40 samples using random sampling
+Total labeled samples: 1324
+Remaining unlabeled: 7139
+
+--- Iteration 27 ---
+Test - F1: 0.8900, Accuracy: 0.8916
+Selected 40 samples using random sampling
+Total labeled samples: 1364
+Remaining unlabeled: 7099
+
+--- Iteration 28 ---
+Test - F1: 0.8925, Accuracy: 0.8942
+Selected 40 samples using random sampling
+Total labeled samples: 1404
+Remaining unlabeled: 7059
+
+--- Iteration 29 ---
+Test - F1: 0.8914, Accuracy: 0.8929
+Selected 40 samples using random sampling
+Total labeled samples: 1444
+Remaining unlabeled: 7019
+
+--- Iteration 30 ---
+Test - F1: 0.8943, Accuracy: 0.8955
+Selected 40 samples using random sampling
+Total labeled samples: 1484
+Remaining unlabeled: 6979
+
+--- Iteration 31 ---
+Test - F1: 0.8934, Accuracy: 0.8948
+Selected 40 samples using random sampling
+Total labeled samples: 1524
+Remaining unlabeled: 6939
+
+--- Iteration 32 ---
+Test - F1: 0.8967, Accuracy: 0.8981
+Selected 40 samples using random sampling
+Total labeled samples: 1564
+Remaining unlabeled: 6899
+
+--- Iteration 33 ---
+Test - F1: 0.8960, Accuracy: 0.8974
+Selected 40 samples using random sampling
+Total labeled samples: 1604
+Remaining unlabeled: 6859
+
+--- Iteration 34 ---
+Test - F1: 0.8998, Accuracy: 0.9013
+Selected 40 samples using random sampling
+Total labeled samples: 1644
+Remaining unlabeled: 6819
+
+--- Iteration 35 ---
+Test - F1: 0.8999, Accuracy: 0.9013
+Selected 40 samples using random sampling
+Total labeled samples: 1684
+Remaining unlabeled: 6779
+
+--- Iteration 36 ---
+Test - F1: 0.9033, Accuracy: 0.9045
+Selected 40 samples using random sampling
+Total labeled samples: 1724
+Remaining unlabeled: 6739
+
+--- Iteration 37 ---
+Test - F1: 0.9024, Accuracy: 0.9032
+Selected 40 samples using random sampling
+Total labeled samples: 1764
+Remaining unlabeled: 6699
+
+--- Iteration 38 ---
+Test - F1: 0.9036, Accuracy: 0.9045
+Selected 40 samples using random sampling
+Total labeled samples: 1804
+Remaining unlabeled: 6659
+
+--- Iteration 39 ---
+Test - F1: 0.9042, Accuracy: 0.9052
+Selected 40 samples using random sampling
+Total labeled samples: 1844
+Remaining unlabeled: 6619
+
+--- Iteration 40 ---
+Test - F1: 0.9053, Accuracy: 0.9065
+
+Final Test - F1: 0.9053, Accuracy: 0.9065
+
+============================================================
+ACTIVE LEARNING BASELINE (Warmup + Entropy)
+============================================================
+Initial labeled pool: 284 samples
+Remaining unlabeled: 8179 samples
+
+--- Iteration 1 ---
+Test - F1: 0.7193, Accuracy: 0.7305
+Selected 40 samples using random sampling
+Total labeled samples: 324
+Remaining unlabeled: 8139
+
+--- Iteration 2 ---
+Test - F1: 0.7568, Accuracy: 0.7649
+Selected 40 samples using random sampling
+Total labeled samples: 364
+Remaining unlabeled: 8099
+
+--- Iteration 3 ---
+Test - F1: 0.7754, Accuracy: 0.7838
+Selected 40 samples using entropy sampling
+Total labeled samples: 404
+Remaining unlabeled: 8059
+
+--- Iteration 4 ---
+Test - F1: 0.7469, Accuracy: 0.7604
+Selected 40 samples using entropy sampling
+Total labeled samples: 444
+Remaining unlabeled: 8019
+
+--- Iteration 5 ---
+Test - F1: 0.7382, Accuracy: 0.7539
+Selected 40 samples using entropy sampling
+Total labeled samples: 484
+Remaining unlabeled: 7979
+
+--- Iteration 6 ---
+Test - F1: 0.7441, Accuracy: 0.7604
+Selected 40 samples using entropy sampling
+Total labeled samples: 524
+Remaining unlabeled: 7939
+
+--- Iteration 7 ---
+Test - F1: 0.7503, Accuracy: 0.7695
+Selected 40 samples using entropy sampling
+Total labeled samples: 564
+Remaining unlabeled: 7899
+
+--- Iteration 8 ---
+Test - F1: 0.7553, Accuracy: 0.7734
+Selected 40 samples using entropy sampling
+Total labeled samples: 604
+Remaining unlabeled: 7859
+
+--- Iteration 9 ---
+Test - F1: 0.7588, Accuracy: 0.7792
+Selected 40 samples using entropy sampling
+Total labeled samples: 644
+Remaining unlabeled: 7819
+
+--- Iteration 10 ---
+Test - F1: 0.7639, Accuracy: 0.7838
+Selected 40 samples using entropy sampling
+Total labeled samples: 684
+Remaining unlabeled: 7779
+
+--- Iteration 11 ---
+Test - F1: 0.7616, Accuracy: 0.7786
+Selected 40 samples using entropy sampling
+Total labeled samples: 724
+Remaining unlabeled: 7739
+
+--- Iteration 12 ---
+Test - F1: 0.7697, Accuracy: 0.7870
+Selected 40 samples using entropy sampling
+Total labeled samples: 764
+Remaining unlabeled: 7699
+
+--- Iteration 13 ---
+Test - F1: 0.7775, Accuracy: 0.7929
+Selected 40 samples using entropy sampling
+Total labeled samples: 804
+Remaining unlabeled: 7659
+
+--- Iteration 14 ---
+Test - F1: 0.7921, Accuracy: 0.8065
+Selected 40 samples using entropy sampling
+Total labeled samples: 844
+Remaining unlabeled: 7619
+
+--- Iteration 15 ---
+Test - F1: 0.7967, Accuracy: 0.8104
+Selected 40 samples using entropy sampling
+Total labeled samples: 884
+Remaining unlabeled: 7579
+
+--- Iteration 16 ---
+Test - F1: 0.8022, Accuracy: 0.8149
+Selected 40 samples using entropy sampling
+Total labeled samples: 924
+Remaining unlabeled: 7539
+
+--- Iteration 17 ---
+Test - F1: 0.8070, Accuracy: 0.8195
+Selected 40 samples using entropy sampling
+Total labeled samples: 964
+Remaining unlabeled: 7499
+
+--- Iteration 18 ---
+Test - F1: 0.8177, Accuracy: 0.8292
+Selected 40 samples using entropy sampling
+Total labeled samples: 1004
+Remaining unlabeled: 7459
+
+--- Iteration 19 ---
+Test - F1: 0.8255, Accuracy: 0.8364
+Selected 40 samples using entropy sampling
+Total labeled samples: 1044
+Remaining unlabeled: 7419
+
+--- Iteration 20 ---
+Test - F1: 0.8314, Accuracy: 0.8435
+Selected 40 samples using entropy sampling
+Total labeled samples: 1084
+Remaining unlabeled: 7379
+
+--- Iteration 21 ---
+Test - F1: 0.8342, Accuracy: 0.8461
+Selected 40 samples using entropy sampling
+Total labeled samples: 1124
+Remaining unlabeled: 7339
+
+--- Iteration 22 ---
+Test - F1: 0.8370, Accuracy: 0.8487
+Selected 40 samples using entropy sampling
+Total labeled samples: 1164
+Remaining unlabeled: 7299
+
+--- Iteration 23 ---
+Test - F1: 0.8454, Accuracy: 0.8539
+Selected 40 samples using entropy sampling
+Total labeled samples: 1204
+Remaining unlabeled: 7259
+
+--- Iteration 24 ---
+Test - F1: 0.8506, Accuracy: 0.8578
+Selected 40 samples using entropy sampling
+Total labeled samples: 1244
+Remaining unlabeled: 7219
+
+--- Iteration 25 ---
+Test - F1: 0.8574, Accuracy: 0.8636
+Selected 40 samples using entropy sampling
+Total labeled samples: 1284
+Remaining unlabeled: 7179
+
+--- Iteration 26 ---
+Test - F1: 0.8605, Accuracy: 0.8662
+Selected 40 samples using entropy sampling
+Total labeled samples: 1324
+Remaining unlabeled: 7139
+
+--- Iteration 27 ---
+Test - F1: 0.8602, Accuracy: 0.8662
+Selected 40 samples using entropy sampling
+Total labeled samples: 1364
+Remaining unlabeled: 7099
+
+--- Iteration 28 ---
+Test - F1: 0.8599, Accuracy: 0.8662
+Selected 40 samples using entropy sampling
+Total labeled samples: 1404
+Remaining unlabeled: 7059
+
+--- Iteration 29 ---
+Test - F1: 0.8563, Accuracy: 0.8630
+Selected 40 samples using entropy sampling
+Total labeled samples: 1444
+Remaining unlabeled: 7019
+
+--- Iteration 30 ---
+Test - F1: 0.8661, Accuracy: 0.8714
+Selected 40 samples using entropy sampling
+Total labeled samples: 1484
+Remaining unlabeled: 6979
+
+--- Iteration 31 ---
+Test - F1: 0.8623, Accuracy: 0.8688
+Selected 40 samples using entropy sampling
+Total labeled samples: 1524
+Remaining unlabeled: 6939
+
+--- Iteration 32 ---
+Test - F1: 0.8688, Accuracy: 0.8747
+Selected 40 samples using entropy sampling
+Total labeled samples: 1564
+Remaining unlabeled: 6899
+
+--- Iteration 33 ---
+Test - F1: 0.8720, Accuracy: 0.8766
+Selected 40 samples using entropy sampling
+Total labeled samples: 1604
+Remaining unlabeled: 6859
+
+--- Iteration 34 ---
+Test - F1: 0.8669, Accuracy: 0.8714
+Selected 40 samples using entropy sampling
+Total labeled samples: 1644
+Remaining unlabeled: 6819
+
+--- Iteration 35 ---
+Test - F1: 0.8673, Accuracy: 0.8721
+Selected 40 samples using entropy sampling
+Total labeled samples: 1684
+Remaining unlabeled: 6779
+
+--- Iteration 36 ---
+Test - F1: 0.8678, Accuracy: 0.8727
+Selected 40 samples using entropy sampling
+Total labeled samples: 1724
+Remaining unlabeled: 6739
+
+--- Iteration 37 ---
+Test - F1: 0.8712, Accuracy: 0.8760
+Selected 40 samples using entropy sampling
+Total labeled samples: 1764
+Remaining unlabeled: 6699
+
+--- Iteration 38 ---
+Test - F1: 0.8739, Accuracy: 0.8786
+Selected 40 samples using entropy sampling
+Total labeled samples: 1804
+Remaining unlabeled: 6659
+
+--- Iteration 39 ---
+Test - F1: 0.8684, Accuracy: 0.8734
+Selected 40 samples using entropy sampling
+Total labeled samples: 1844
+Remaining unlabeled: 6619
+
+--- Iteration 40 ---
+Test - F1: 0.8695, Accuracy: 0.8747
+
+Final Test - F1: 0.8695, Accuracy: 0.8747
+
+============================================================
+PROPOSED FRAMEWORK (Active + LLM + Qwen)
+============================================================
+
+--- Iteration 1 ---
+Performance Summary | Macro F1: 0.7193 | Head Macro F1 (0-9): 0.8694 | Tail Macro F1 (10-76): 0.6969
+
+Loading generator model: meta-llama/Meta-Llama-3-8B-Instruct
+
+Loading validator model: Qwen/Qwen2.5-7B-Instruct
+Accepted: 29/38 (Rate: 0.76)
+
+--- Iteration 2 ---
+Performance Summary | Macro F1: 0.7367 | Head Macro F1 (0-9): 0.8879 | Tail Macro F1 (10-76): 0.7141
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 26/37 (Rate: 0.70)
+
+--- Iteration 3 ---
+Performance Summary | Macro F1: 0.7584 | Head Macro F1 (0-9): 0.8725 | Tail Macro F1 (10-76): 0.7414
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 21/34 (Rate: 0.62)
+
+--- Iteration 4 ---
+Performance Summary | Macro F1: 0.7603 | Head Macro F1 (0-9): 0.8801 | Tail Macro F1 (10-76): 0.7425
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 24/33 (Rate: 0.73)
+
+--- Iteration 5 ---
+Performance Summary | Macro F1: 0.7629 | Head Macro F1 (0-9): 0.8695 | Tail Macro F1 (10-76): 0.7469
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 24/37 (Rate: 0.65)
+
+--- Iteration 6 ---
+Performance Summary | Macro F1: 0.7677 | Head Macro F1 (0-9): 0.8676 | Tail Macro F1 (10-76): 0.7528
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 20/38 (Rate: 0.53)
+
+--- Iteration 7 ---
+Performance Summary | Macro F1: 0.7716 | Head Macro F1 (0-9): 0.8780 | Tail Macro F1 (10-76): 0.7557
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 19/33 (Rate: 0.58)
+
+--- Iteration 8 ---
+Performance Summary | Macro F1: 0.7747 | Head Macro F1 (0-9): 0.8738 | Tail Macro F1 (10-76): 0.7599
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 28/36 (Rate: 0.78)
+
+--- Iteration 9 ---
+Performance Summary | Macro F1: 0.7911 | Head Macro F1 (0-9): 0.8817 | Tail Macro F1 (10-76): 0.7776
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 25/35 (Rate: 0.71)
+
+--- Iteration 10 ---
+Performance Summary | Macro F1: 0.8014 | Head Macro F1 (0-9): 0.8818 | Tail Macro F1 (10-76): 0.7893
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 26/36 (Rate: 0.72)
+
+--- Iteration 11 ---
+Performance Summary | Macro F1: 0.8219 | Head Macro F1 (0-9): 0.8985 | Tail Macro F1 (10-76): 0.8104
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 22/32 (Rate: 0.69)
+
+--- Iteration 12 ---
+Performance Summary | Macro F1: 0.8318 | Head Macro F1 (0-9): 0.9104 | Tail Macro F1 (10-76): 0.8201
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 25/31 (Rate: 0.81)
+
+--- Iteration 13 ---
+Performance Summary | Macro F1: 0.8293 | Head Macro F1 (0-9): 0.9018 | Tail Macro F1 (10-76): 0.8184
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 19/30 (Rate: 0.63)
+
+--- Iteration 14 ---
+Performance Summary | Macro F1: 0.8321 | Head Macro F1 (0-9): 0.9018 | Tail Macro F1 (10-76): 0.8217
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 22/29 (Rate: 0.76)
+
+--- Iteration 15 ---
+Performance Summary | Macro F1: 0.8468 | Head Macro F1 (0-9): 0.9102 | Tail Macro F1 (10-76): 0.8373
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 24/32 (Rate: 0.75)
+
+--- Iteration 16 ---
+Performance Summary | Macro F1: 0.8510 | Head Macro F1 (0-9): 0.9254 | Tail Macro F1 (10-76): 0.8399
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 19/31 (Rate: 0.61)
+
+--- Iteration 17 ---
+Performance Summary | Macro F1: 0.8597 | Head Macro F1 (0-9): 0.9219 | Tail Macro F1 (10-76): 0.8504
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 21/40 (Rate: 0.53)
+
+--- Iteration 18 ---
+Performance Summary | Macro F1: 0.8640 | Head Macro F1 (0-9): 0.9193 | Tail Macro F1 (10-76): 0.8558
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 24/36 (Rate: 0.67)
+
+--- Iteration 19 ---
+Performance Summary | Macro F1: 0.8708 | Head Macro F1 (0-9): 0.9311 | Tail Macro F1 (10-76): 0.8618
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 21/32 (Rate: 0.66)
+
+--- Iteration 20 ---
+Performance Summary | Macro F1: 0.8744 | Head Macro F1 (0-9): 0.9418 | Tail Macro F1 (10-76): 0.8643
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 25/35 (Rate: 0.71)
+
+--- Iteration 21 ---
+Performance Summary | Macro F1: 0.8753 | Head Macro F1 (0-9): 0.9394 | Tail Macro F1 (10-76): 0.8657
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 22/31 (Rate: 0.71)
+
+--- Iteration 22 ---
+Performance Summary | Macro F1: 0.8786 | Head Macro F1 (0-9): 0.9394 | Tail Macro F1 (10-76): 0.8695
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 24/33 (Rate: 0.73)
+
+--- Iteration 23 ---
+Performance Summary | Macro F1: 0.8823 | Head Macro F1 (0-9): 0.9389 | Tail Macro F1 (10-76): 0.8739
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 22/32 (Rate: 0.69)
+
+--- Iteration 24 ---
+Performance Summary | Macro F1: 0.8818 | Head Macro F1 (0-9): 0.9389 | Tail Macro F1 (10-76): 0.8733
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 23/34 (Rate: 0.68)
+
+--- Iteration 25 ---
+Performance Summary | Macro F1: 0.8820 | Head Macro F1 (0-9): 0.9414 | Tail Macro F1 (10-76): 0.8731
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 22/36 (Rate: 0.61)
+
+--- Iteration 26 ---
+Performance Summary | Macro F1: 0.8798 | Head Macro F1 (0-9): 0.9389 | Tail Macro F1 (10-76): 0.8710
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 22/32 (Rate: 0.69)
+
+--- Iteration 27 ---
+Performance Summary | Macro F1: 0.8824 | Head Macro F1 (0-9): 0.9437 | Tail Macro F1 (10-76): 0.8732
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 20/32 (Rate: 0.62)
+
+--- Iteration 28 ---
+Performance Summary | Macro F1: 0.8823 | Head Macro F1 (0-9): 0.9461 | Tail Macro F1 (10-76): 0.8727
+
+[Stopping Auto-Triggered by T-Test]
+  Reason: No statistically significant improvement.
+  P-value: 0.1333 >= 0.05
+Saved T-Test F1 Curve: /root/paper/BANKING/all-MiniLM/20260520_041317/f1_curve_ttest_20260520_041317.png
+Saved Utility ROI Curve: /root/paper/BANKING/all-MiniLM/20260520_041317/utility_roi_curve_20260520_041317.png
+
+================================================================================
+FRAMEWORK COMPARISON SUMMARY
+================================================================================
+Framework  Macro_F1  Weighted_F1  Accuracy  Head_F1  Tail_F1
+  Passive  0.905293     0.905293  0.906494 0.946050 0.899210
+   Active  0.869454     0.869454  0.874675 0.947505 0.857804
+ Proposed  0.882267     0.882267  0.885065 0.946129 0.872736
+
+Saved: /root/paper/BANKING/all-MiniLM/20260520_041317/metrics_table_Banking77_Refactored_20260520_041317.csv
+
+=== Experimental Run Completed ===
+Final Macro F1: 0.8823
+Final Head Macro F1 (0-9): 0.9461
+Final Tail Macro F1 (10-76): 0.8727

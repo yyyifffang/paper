@@ -1,0 +1,72 @@
+GEN | [pending_cash_withdrawal] | Orig: I have a withdrawal waiting to go through. -> Aug: I'm still waiting for my cash withdrawal to be processed.
+GEN | [cancel_transfer] | Orig: I used the wrong account number! -> Aug: I accidentally entered the wrong account information.
+GEN | [country_support] | Orig: I am in the EU. Can I get one of your cards? -> Aug: I am a resident in the European Union. Can I apply for a card from your bank?
+GEN | [visa_or_mastercard] | Orig: Please give me a Mastercard instead. -> Aug: Please provide me with a Visa card instead.
+GEN | [top_up_by_card_charge] | Orig: I topped off my card is that something you will charge me for? -> Aug: I'm wondering if there's a fee associated with topping up my card using a charge?
+GEN | [pending_transfer] | Orig: I have a trasnger that is pending and wondered about it. -> Aug: I have a transfer that is pending and I'd like to know the status.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I have cash deposit to my account but it is experiencing a problem -> Aug: I made a cash deposit to my account, but my account balance hasn't been updated yet.
+GEN | [country_support] | Orig: I'm in the EU. Can I get one of your cards? -> Aug: I'm a resident in the European Union. Can I apply for a credit card from your bank?
+GEN | [cancel_transfer] | Orig: Can I stop a transaction? -> Aug: Can I cancel a transfer?
+GEN | [pending_card_payment] | Orig: How long does it take for a purchase to go from pending to authorised? -> Aug: When can I expect a pending payment to be processed and authorized for a recent purchase?
+GEN | [card_payment_fee_charged] | Orig: I had to pay money for paying with my card. -> Aug: I was charged a fee for using my credit card for the transaction.
+GEN | [transfer_not_received_by_recipient] | Orig: My cash transaction isn't showing on my receipt -> Aug: The funds from my recent transfer haven't been credited to the recipient's account.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Why hasn't my account updated to reflect my current balance? -> Aug: I'm trying to check my account balance, but it's not showing the correct amount after I made a recent transfer. Can you help me resolve this issue?
+GEN | [beneficiary_not_allowed] | Orig: I wasn't allowed to transfer to my account -> Aug: I was informed that the beneficiary is not authorized to receive funds from my account.
+GEN | [card_arrival] | Orig: Is there a way I can check on the card on route to me? -> Aug: Can I track the status of my card as it's being delivered to me?
+GEN | [cash_withdrawal_charge] | Orig: I just had a look at my statement. Why have I been changed for using the ATM? -> Aug: I'd like to know why I'm being charged for withdrawing cash from an ATM.
+GEN | [cash_withdrawal_not_recognised] | Orig: i didnt put that money in my account -> Aug: I didn't deposit that amount into my account
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Where is my cash deposit in my balance? -> Aug: Why hasn't my balance been updated to reflect the cash deposit I made recently?
+GEN | [topping_up_by_card] | Orig: I wasn't able to use my top up card because the money I put on there wasn't there anymore -> Aug: I'm having trouble using my card to add funds because the balance I loaded onto it seems to have disappeared
+GEN | [transfer_into_account] | Orig: show me how to transfer to my account -> Aug: can you guide me through the process of transferring funds into my account?
+GEN | [cash_withdrawal_not_recognised] | Orig: Hello, Just now i got to know withdrawal of money from of my account. As someone used my card to withdraw amount in any odd remote area. Since i have not been in that area, please freeze my card immediately. -> Aug: Hi, I just found out that someone used my card to withdraw cash from my account in a remote area where I've never been. I'd like to request that my card be frozen immediately to prevent any further unauthorized transactions.
+GEN | [card_arrival] | Orig: Is my new bank card on the way and is there a way to track it? -> Aug: Can I expect my new bank card to arrive soon and is there a tracking option available to monitor its delivery?
+GEN | [top_up_by_bank_transfer_charge] | Orig: I want to do a swift transfer -> Aug: I'd like to make a bank transfer to top up my account
+GEN | [verify_my_identity] | Orig: im worried about fraud how do you protect my account -> Aug: I'm concerned about potential security risks, can you confirm my identity to ensure my account is secure?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I can still see money in my account after making a payment -> Aug: I'm still seeing the transferred amount in my account, but my balance isn't reflecting the update
+GEN | [top_up_by_card_charge] | Orig: I am wanting to refill my card, is there a charge? -> Aug: I'd like to add funds to my card, will there be a charge for this transaction?
+GEN | [top_up_limits] | Orig: What is the daily limit on my card? -> Aug: Can you please inform me about the daily spending limit on my credit/debit card?
+GEN | [card_payment_not_recognised] | Orig: I did not charge my account for that transaction.  That's an error. -> Aug: I'm not seeing the payment reflected in my account. Can you look into this discrepancy?
+GEN | [card_payment_not_recognised] | Orig: Help! In the app there is a payment that I don't remember. -> Aug: I'm trying to make a payment in the app, but I'm not sure which one I made previously.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Why is  my balance not updated? -> Aug: I haven't seen any changes to my account balance after a recent transfer. Can you help me figure out why it's not reflecting the new amount?
+GEN | [cash_withdrawal_not_recognised] | Orig: How can I verify if a cash withdrawal was made from my account? I still have my card with me but I did not authorize the withdrawal that just occurred. -> Aug: I'm trying to figure out if someone has made an unauthorized cash withdrawal from my account. I have my card with me, but I didn't approve the transaction that just happened.
+GEN | [card_payment_not_recognised] | Orig: I didn't make a payment at this business. -> Aug: I attempted to make a payment at this merchant, but it was not successfully processed.
+GEN | [pending_card_payment] | Orig: Why aren't my payment funds available to me? -> Aug: I'm trying to access my available balance, but it shows that my recent payment is still pending. Can you help me understand why it's not reflecting in my account yet?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are SWIFT Transfers available at this bank? -> Aug: Can I use a SWIFT transfer to top up my account from another bank, and what are the associated charges for this service?
+GEN | [apple_pay_or_google_pay] | Orig: my google pay seems to be acting up. -> Aug: my apple pay is malfunctioning
+GEN | [cancel_transfer] | Orig: I made a transaction, but I made it to an account I didn't mean to make it to. -> Aug: I accidentally sent a transfer to the wrong account and would like to cancel it.
+VAL | [pending_cash_withdrawal] | YES | Text: I'm still waiting for my cash withdrawal to be processed.
+VAL | [cancel_transfer] | NO | Text: I accidentally entered the wrong account information.
+VAL | [country_support] | YES | Text: I am a resident in the European Union. Can I apply for a card from your bank?
+VAL | [visa_or_mastercard] | NO | Text: Please provide me with a Visa card instead.
+VAL | [top_up_by_card_charge] | YES | Text: I'm wondering if there's a fee associated with topping up my card using a charge?
+VAL | [pending_transfer] | YES | Text: I have a transfer that is pending and I'd like to know the status.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I made a cash deposit to my account, but my account balance hasn't been updated yet.
+VAL | [country_support] | NO | Text: I'm a resident in the European Union. Can I apply for a credit card from your bank?
+VAL | [cancel_transfer] | YES | Text: Can I cancel a transfer?
+VAL | [pending_card_payment] | NO | Text: When can I expect a pending payment to be processed and authorized for a recent purchase?
+VAL | [card_payment_fee_charged] | YES | Text: I was charged a fee for using my credit card for the transaction.
+VAL | [transfer_not_received_by_recipient] | YES | Text: The funds from my recent transfer haven't been credited to the recipient's account.
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm trying to check my account balance, but it's not showing the correct amount after I made a recent transfer. Can you help me resolve this issue?
+VAL | [beneficiary_not_allowed] | YES | Text: I was informed that the beneficiary is not authorized to receive funds from my account.
+VAL | [card_arrival] | YES | Text: Can I track the status of my card as it's being delivered to me?
+VAL | [cash_withdrawal_charge] | YES | Text: I'd like to know why I'm being charged for withdrawing cash from an ATM.
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I didn't deposit that amount into my account
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: Why hasn't my balance been updated to reflect the cash deposit I made recently?
+VAL | [topping_up_by_card] | NO | Text: I'm having trouble using my card to add funds because the balance I loaded onto it seems to have disappeared
+VAL | [transfer_into_account] | YES | Text: can you guide me through the process of transferring funds into my account?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: Hi, I just found out that someone used my card to withdraw cash from my account in a remote area where I've never been. I'd like to request that my card be frozen immediately to prevent any further unauthorized transactions.
+VAL | [card_arrival] | YES | Text: Can I expect my new bank card to arrive soon and is there a tracking option available to monitor its delivery?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: I'd like to make a bank transfer to top up my account
+VAL | [verify_my_identity] | NO | Text: I'm concerned about potential security risks, can you confirm my identity to ensure my account is secure?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm still seeing the transferred amount in my account, but my balance isn't reflecting the update
+VAL | [top_up_by_card_charge] | YES | Text: I'd like to add funds to my card, will there be a charge for this transaction?
+VAL | [top_up_limits] | YES | Text: Can you please inform me about the daily spending limit on my credit/debit card?
+VAL | [card_payment_not_recognised] | YES | Text: I'm not seeing the payment reflected in my account. Can you look into this discrepancy?
+VAL | [card_payment_not_recognised] | NO | Text: I'm trying to make a payment in the app, but I'm not sure which one I made previously.
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I haven't seen any changes to my account balance after a recent transfer. Can you help me figure out why it's not reflecting the new amount?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm trying to figure out if someone has made an unauthorized cash withdrawal from my account. I have my card with me, but I didn't approve the transaction that just happened.
+VAL | [card_payment_not_recognised] | YES | Text: I attempted to make a payment at this merchant, but it was not successfully processed.
+VAL | [pending_card_payment] | YES | Text: I'm trying to access my available balance, but it shows that my recent payment is still pending. Can you help me understand why it's not reflecting in my account yet?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I use a SWIFT transfer to top up my account from another bank, and what are the associated charges for this service?
+VAL | [apple_pay_or_google_pay] | NO | Text: my apple pay is malfunctioning
+VAL | [cancel_transfer] | YES | Text: I accidentally sent a transfer to the wrong account and would like to cancel it.

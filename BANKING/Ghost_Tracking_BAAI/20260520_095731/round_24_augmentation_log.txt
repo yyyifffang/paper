@@ -1,0 +1,73 @@
+GEN | [request_refund] | Orig: I received the wrong color and size, can I return it? -> Aug: I'd like to initiate a return for the incorrect item, as it's not the correct color and size I ordered.
+GEN | [declined_transfer] | Orig: Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined . I tried couple of times already  but same thing is happening . -> Aug: I've been using your service for a while now, and I've never had any issues with transfers until today. I tried to make a purchase, but the payment was declined. I've tried a few times, but the result is the same. Can you please help me figure out what's going on?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Does this program take SWIFT transfers? -> Aug: Can I use a bank transfer with a SWIFT code to top up my account?
+GEN | [change_pin] | Orig: I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country? -> Aug: I'm currently traveling in the UK, but I urgently need to modify my PIN. Can I still make the change even though I'm abroad?
+GEN | [card_about_to_expire] | Orig: How do I get a new expiration date? -> Aug: What can I do to extend the validity of my card or get a new expiration date?
+GEN | [declined_card_payment] | Orig: Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident. -> Aug: I'm sorry to hear that your new card was declined repeatedly, preventing you from making a payment. I'd be happy to assist you in resolving this issue and finding a solution to get your payment processed successfully.
+GEN | [getting_spare_card] | Orig: How much is it to buy another card? I was hoping to buy another one. -> Aug: I'd like to purchase a replacement card, could you please let me know the cost?
+GEN | [transfer_not_received_by_recipient] | Orig: My cash transaction isn't showing on my receipt -> Aug: The funds from my recent transfer haven't been credited to the recipient's account.
+GEN | [Refund_not_showing_up] | Orig: I requested a refund from Next because the dress I purchased had three arm holes. They said they sent the refund last Wednesday which is nearly a week ago and I still don't have it.  Why not? -> Aug: I ordered a dress from Next and it had an unusual design feature - three arm holes. They assured me they would process the refund last Thursday, but it's now been over a week and I haven't received it. Can you explain the delay?
+GEN | [cancel_transfer] | Orig: I used the wrong account number! -> Aug: I accidentally entered the wrong account information.
+GEN | [top_up_failed] | Orig: Can I tell if my top off didn't work?  It doesn't seem to have. -> Aug: Can you help me figure out why my top-up didn't go through? It appears to have failed.
+GEN | [cancel_transfer] | Orig: I goofed up and used the wrong account.  Please help. -> Aug: I accidentally selected the wrong account for the transfer. Can you assist me in canceling the transaction?
+GEN | [direct_debit_payment_not_recognised] | Orig: I have not used my card all day, however, there is an unusual payment showing in my app.  I would like to have that amount reimbursed. -> Aug: I'm showing an unexpected payment in my account, and I didn't make the transaction. Can you help me reverse the charge?
+GEN | [request_refund] | Orig: Is there a way you can have money from a purchase I made refunded to my account. -> Aug: Can you assist me with a refund for a recent purchase I made, and have the amount credited back to my account?
+GEN | [declined_card_payment] | Orig: I have enough money in my account, so why is my card being declined? -> Aug: I'm confused, I have sufficient funds in my account, yet my card payment is being declined. Can you help me understand why this is happening?
+GEN | [order_physical_card] | Orig: Do I get a card to keep in my wallet? -> Aug: Can I request a physical card to carry with me?
+GEN | [top_up_by_bank_transfer_charge] | Orig: I want to do a swift transfer -> Aug: I'd like to make a bank transfer to top up my account
+GEN | [declined_transfer] | Orig: Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening. -> Aug: I've noticed that my recent transfer attempts have been declined, despite my previous successful transactions. I've tried to make a purchase just now, but the card was declined again. This is the second time it's happened, and I'm concerned about the issue.
+GEN | [order_physical_card] | Orig: Can I revive a physical card. -> Aug: Can I reorder a physical credit card?
+GEN | [direct_debit_payment_not_recognised] | Orig: Could I raise a dispute for a large payment that i found out was not done by me in my couple of last statements? I am aware its delayed now. Please help me out. -> Aug: I'd like to dispute a significant payment that appears to have been made by someone else in my recent statements. It's already been delayed, and I'd appreciate your assistance in resolving this issue.
+GEN | [transfer_fee_charged] | Orig: who charged my card -> Aug: who is responsible for the fee charged to my card
+GEN | [failed_transfer] | Orig: A mortgage payment I'm making is giving me an error message.  This is the first time I'm making this payment and want to know what's wrong. -> Aug: I'm trying to make a mortgage payment for the first time, but I'm getting an error message. Can you help me figure out what's going wrong?
+GEN | [atm_support] | Orig: How do I know it is a Mastercard ATM? -> Aug: What are the ways to identify a Mastercard ATM?
+GEN | [failed_transfer] | Orig: I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand. -> Aug: I'm having trouble sending a payment to a recipient and it keeps getting declined. Can you help me figure out what's going on?
+GEN | [getting_spare_card] | Orig: Can my daughter also have a card issued in her name, but linked to my account? -> Aug: Can I request a spare card in my daughter's name, which will be linked to my existing account?
+GEN | [failed_transfer] | Orig: Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times! -> Aug: I'm having trouble transferring funds to another bank account. Despite having sufficient funds, I've been denied the transfer multiple times. I've tried initiating the transfer five times already, but it keeps getting rejected. Is there an issue with the receiving bank or is there something else I'm missing?
+GEN | [order_physical_card] | Orig: I would like a card please. -> Aug: I'd like to order a physical credit card.
+GEN | [reverted_card_payment?] | Orig: I have cancelled payments to this card. -> Aug: I recently reversed a payment made to this card.
+GEN | [declined_card_payment] | Orig: My card did not go through in a shop -> Aug: Your payment was declined at the merchant's location.
+GEN | [verify_my_identity] | Orig: What type of ID do you accept? -> Aug: What forms of identification do you accept for verification purposes?
+GEN | [topping_up_by_card] | Orig: Can I let other people have access to my account in order to top up? -> Aug: Can I authorize someone else to make a card payment to top up my account?
+GEN | [top_up_limits] | Orig: I need someone to assist me with explaining how much I can top-up. -> Aug: I'd like to know the maximum amount I can top up my account.
+GEN | [change_pin] | Orig: Do I need to go to a physical bank to change my PIN? -> Aug: Can I change my PIN at a physical bank branch or is there another way to do it?
+GEN | [change_pin] | Orig: 
+Do I need to go to a physical bank to change my PIN? -> Aug: Can I change my PIN at a bank branch or do I need to use an online service?
+GEN | [reverted_card_payment?] | Orig: My card payments have stopped. -> Aug: Why did my recent card payments get reversed?
+GEN | [change_pin] | Orig: I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here? -> Aug: I'm currently abroad and need to update my PIN urgently. Can I make the change remotely from my current location?
+VAL | [request_refund] | YES | Text: I'd like to initiate a return for the incorrect item, as it's not the correct color and size I ordered.
+VAL | [declined_transfer] | NO | Text: I've been using your service for a while now, and I've never had any issues with transfers until today. I tried to make a purchase, but the payment was declined. I've tried a few times, but the result is the same. Can you please help me figure out what's going on?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Can I use a bank transfer with a SWIFT code to top up my account?
+VAL | [change_pin] | YES | Text: I'm currently traveling in the UK, but I urgently need to modify my PIN. Can I still make the change even though I'm abroad?
+VAL | [card_about_to_expire] | YES | Text: What can I do to extend the validity of my card or get a new expiration date?
+VAL | [declined_card_payment] | NO | Text: I'm sorry to hear that your new card was declined repeatedly, preventing you from making a payment. I'd be happy to assist you in resolving this issue and finding a solution to get your payment processed successfully.
+VAL | [getting_spare_card] | YES | Text: I'd like to purchase a replacement card, could you please let me know the cost?
+VAL | [transfer_not_received_by_recipient] | YES | Text: The funds from my recent transfer haven't been credited to the recipient's account.
+VAL | [Refund_not_showing_up] | YES | Text: I ordered a dress from Next and it had an unusual design feature - three arm holes. They assured me they would process the refund last Thursday, but it's now been over a week and I haven't received it. Can you explain the delay?
+VAL | [cancel_transfer] | NO | Text: I accidentally entered the wrong account information.
+VAL | [top_up_failed] | YES | Text: Can you help me figure out why my top-up didn't go through? It appears to have failed.
+VAL | [cancel_transfer] | YES | Text: I accidentally selected the wrong account for the transfer. Can you assist me in canceling the transaction?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm showing an unexpected payment in my account, and I didn't make the transaction. Can you help me reverse the charge?
+VAL | [request_refund] | YES | Text: Can you assist me with a refund for a recent purchase I made, and have the amount credited back to my account?
+VAL | [declined_card_payment] | NO | Text: I'm confused, I have sufficient funds in my account, yet my card payment is being declined. Can you help me understand why this is happening?
+VAL | [order_physical_card] | YES | Text: Can I request a physical card to carry with me?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: I'd like to make a bank transfer to top up my account
+VAL | [declined_transfer] | YES | Text: I've noticed that my recent transfer attempts have been declined, despite my previous successful transactions. I've tried to make a purchase just now, but the card was declined again. This is the second time it's happened, and I'm concerned about the issue.
+VAL | [order_physical_card] | NO | Text: Can I reorder a physical credit card?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'd like to dispute a significant payment that appears to have been made by someone else in my recent statements. It's already been delayed, and I'd appreciate your assistance in resolving this issue.
+VAL | [transfer_fee_charged] | YES | Text: who is responsible for the fee charged to my card
+VAL | [failed_transfer] | YES | Text: I'm trying to make a mortgage payment for the first time, but I'm getting an error message. Can you help me figure out what's going wrong?
+VAL | [atm_support] | NO | Text: What are the ways to identify a Mastercard ATM?
+VAL | [failed_transfer] | YES | Text: I'm having trouble sending a payment to a recipient and it keeps getting declined. Can you help me figure out what's going on?
+VAL | [getting_spare_card] | YES | Text: Can I request a spare card in my daughter's name, which will be linked to my existing account?
+VAL | [failed_transfer] | YES | Text: I'm having trouble transferring funds to another bank account. Despite having sufficient funds, I've been denied the transfer multiple times. I've tried initiating the transfer five times already, but it keeps getting rejected. Is there an issue with the receiving bank or is there something else I'm missing?
+VAL | [order_physical_card] | YES | Text: I'd like to order a physical credit card.
+VAL | [reverted_card_payment?] | YES | Text: I recently reversed a payment made to this card.
+VAL | [declined_card_payment] | YES | Text: Your payment was declined at the merchant's location.
+VAL | [verify_my_identity] | NO | Text: What forms of identification do you accept for verification purposes?
+VAL | [topping_up_by_card] | YES | Text: Can I authorize someone else to make a card payment to top up my account?
+VAL | [top_up_limits] | YES | Text: I'd like to know the maximum amount I can top up my account.
+VAL | [change_pin] | NO | Text: Can I change my PIN at a physical bank branch or is there another way to do it?
+VAL | [change_pin] | NO | Text: Can I change my PIN at a bank branch or do I need to use an online service?
+VAL | [reverted_card_payment?] | YES | Text: Why did my recent card payments get reversed?
+VAL | [change_pin] | YES | Text: I'm currently abroad and need to update my PIN urgently. Can I make the change remotely from my current location?

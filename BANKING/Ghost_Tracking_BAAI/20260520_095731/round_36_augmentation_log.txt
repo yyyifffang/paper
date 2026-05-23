@@ -1,0 +1,70 @@
+GEN | [card_linking] | Orig: I would like to re-activate my card, it was previously reported  lost but I found it this morning. -> Aug: I'd like to reactivate my card, as I previously reported it lost, but I've since found it.
+GEN | [top_up_by_card_charge] | Orig: What are the fees for using a European bank card? -> Aug: Can I know the charges associated with making a card payment from a European bank account?
+GEN | [card_payment_fee_charged] | Orig: I have a fee showing from last time I used my card. -> Aug: A fee was deducted from my recent card transaction.
+GEN | [transaction_charged_twice] | Orig: Transaction showing up many times. -> Aug: I've noticed that the transaction appears to have been duplicated on my account.
+GEN | [order_physical_card] | Orig: What fees do you charge for the standard card? -> Aug: Can you please provide information on the fees associated with ordering a standard physical credit card?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you accept SWIFT transfers? -> Aug: Can I use a bank transfer to top up my account, and what are the associated charges?
+GEN | [lost_or_stolen_phone] | Orig: How can I stop someone from using my card after I lost it yesterday. -> Aug: I need to report my phone lost and prevent any unauthorized transactions on my account.
+GEN | [topping_up_by_card] | Orig: my top up isnt there yet where do i find it -> Aug: my card top-up is still pending, where can I locate it?
+GEN | [transfer_not_received_by_recipient] | Orig: What happens when I money transaction doesn't show up on the receiving side? -> Aug: If the recipient hasn't received the transferred amount, what's the next step to resolve the issue?
+GEN | [extra_charge_on_statement] | Orig: My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about. -> Aug: My statement has a pending charge for £1 that I don't recognize. Can you please explain what this transaction is for?
+GEN | [card_payment_not_recognised] | Orig: i didnt do this charge -> Aug: I didn't authorize this transaction
+GEN | [card_linking] | Orig: I want to reactivate my card, I thought I had lost it but found it again in my jacket this morning. -> Aug: I'd like to reactivate my card, I previously thought it was lost, but I've since found it in my jacket.
+GEN | [card_linking] | Orig: I want to reactivate my card, I thought I had lost it but found it again this morning. -> Aug: I'd like to reactivate my card, I previously thought it was lost but I've since found it this morning.
+GEN | [top_up_by_card_charge] | Orig: how much does it cost to add money to my card -> Aug: what is the fee for charging my card to add funds?
+GEN | [top_up_by_card_charge] | Orig: how should i add money to my card -> Aug: how can i charge my card to add funds?
+GEN | [edit_personal_details] | Orig: my identity hasn't been verified and i can't edit my details, what's next -> Aug: I'm having trouble verifying my identity and need to update my personal information, but the system won't let me make changes, what's the next step?
+GEN | [verify_top_up] | Orig: I'm being asked for a verification code. Where do I find it? -> Aug: I need to verify my top-up request. Can you please provide me with the verification code?
+GEN | [transfer_fee_charged] | Orig: I shouldn't be charged any fee for transferring . -> Aug: I'm surprised to see a fee applied to my transfer.
+GEN | [transfer_fee_charged] | Orig: There is a fee from a transfer that is not supposed to be here! -> Aug: I'm showing a transfer fee that shouldn't be there, can you help me understand why it's being charged?
+GEN | [card_linking] | Orig: I would like to link my card to my account. -> Aug: I'd like to connect my card to my account.
+GEN | [reverted_card_payment?] | Orig: I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here? -> Aug: I'm trying to understand why the payment I made didn't show up in the seller's account, even though I'm certain it was deducted from my account. Can you help me resolve this issue?
+GEN | [card_payment_not_recognised] | Orig: There is a card payment I'm not familiar with. -> Aug: I'm showing a card payment that I'm not recognizing.
+GEN | [direct_debit_payment_not_recognised] | Orig: Someone else charged my card! -> Aug: I'm not sure why, but it looks like an unauthorized payment was made from my account.
+GEN | [card_linking] | Orig: I have found my lost or stolen card, would I still have to activate the new card that was sent to me through the mail in order to access my account? -> Aug: I've located my missing or stolen card, do I need to activate the replacement card that was mailed to me in order to access my account?
+GEN | [change_pin] | Orig: I must change my PIN as soon as possible. -> Aug: I need to update my PIN immediately.
+GEN | [card_swallowed] | Orig: I need a new card because the ATM took mine. -> Aug: I swallowed my card while trying to use the ATM and now I need a replacement.
+GEN | [pending_transfer] | Orig: Why is the transaction not posting? -> Aug: Why is the transfer still pending and not showing up in my account?
+GEN | [exchange_via_app] | Orig: Do you support changing the currency I use? -> Aug: Can I switch the currency I'm using in the app?
+GEN | [pending_transfer] | Orig: I recently purchased something and the seller says my money has not arrived yet. It was in EU's. How long does this take? -> Aug: I made a purchase and the vendor informed me that the payment is still pending. The transaction was in Euros. Can you please provide an estimated timeframe for the transfer to be completed?
+GEN | [transfer_fee_charged] | Orig: A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on? -> Aug: A sender informed me that the recipient didn't receive the full transfer amount, and I need to make an additional transfer to cover the shortfall. Can you investigate this discrepancy and let me know what's happening?
+GEN | [cash_withdrawal_charge] | Orig: Why is there a charge when I took out money? -> Aug: Can you explain why I'm being charged a fee for withdrawing cash from my account?
+GEN | [atm_support] | Orig: I need to withdraw money. Where can I do that? -> Aug: I'm looking to make a withdrawal. Can I use an ATM to get some cash?
+GEN | [country_support] | Orig: I just moved to the US how do I get a card? -> Aug: I recently relocated to the United States and would like to know how to obtain a bank card.
+GEN | [get_disposable_virtual_card] | Orig: How do I use the disposable cards? -> Aug: Can you guide me on how to utilize the virtual disposable card for transactions?
+GEN | [direct_debit_payment_not_recognised] | Orig: what is this charge i didnt do it what can i do -> Aug: I'm showing a direct debit payment on my account that I didn't authorise, can you help me investigate and cancel it?
+VAL | [card_linking] | NO | Text: I'd like to reactivate my card, as I previously reported it lost, but I've since found it.
+VAL | [top_up_by_card_charge] | NO | Text: Can I know the charges associated with making a card payment from a European bank account?
+VAL | [card_payment_fee_charged] | YES | Text: A fee was deducted from my recent card transaction.
+VAL | [transaction_charged_twice] | YES | Text: I've noticed that the transaction appears to have been duplicated on my account.
+VAL | [order_physical_card] | NO | Text: Can you please provide information on the fees associated with ordering a standard physical credit card?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I use a bank transfer to top up my account, and what are the associated charges?
+VAL | [lost_or_stolen_phone] | YES | Text: I need to report my phone lost and prevent any unauthorized transactions on my account.
+VAL | [topping_up_by_card] | NO | Text: my card top-up is still pending, where can I locate it?
+VAL | [transfer_not_received_by_recipient] | YES | Text: If the recipient hasn't received the transferred amount, what's the next step to resolve the issue?
+VAL | [extra_charge_on_statement] | YES | Text: My statement has a pending charge for £1 that I don't recognize. Can you please explain what this transaction is for?
+VAL | [card_payment_not_recognised] | YES | Text: I didn't authorize this transaction
+VAL | [card_linking] | NO | Text: I'd like to reactivate my card, I previously thought it was lost, but I've since found it in my jacket.
+VAL | [card_linking] | NO | Text: I'd like to reactivate my card, I previously thought it was lost but I've since found it this morning.
+VAL | [top_up_by_card_charge] | YES | Text: what is the fee for charging my card to add funds?
+VAL | [top_up_by_card_charge] | YES | Text: how can i charge my card to add funds?
+VAL | [edit_personal_details] | NO | Text: I'm having trouble verifying my identity and need to update my personal information, but the system won't let me make changes, what's the next step?
+VAL | [verify_top_up] | NO | Text: I need to verify my top-up request. Can you please provide me with the verification code?
+VAL | [transfer_fee_charged] | NO | Text: I'm surprised to see a fee applied to my transfer.
+VAL | [transfer_fee_charged] | YES | Text: I'm showing a transfer fee that shouldn't be there, can you help me understand why it's being charged?
+VAL | [card_linking] | YES | Text: I'd like to connect my card to my account.
+VAL | [reverted_card_payment?] | YES | Text: I'm trying to understand why the payment I made didn't show up in the seller's account, even though I'm certain it was deducted from my account. Can you help me resolve this issue?
+VAL | [card_payment_not_recognised] | YES | Text: I'm showing a card payment that I'm not recognizing.
+VAL | [direct_debit_payment_not_recognised] | NO | Text: I'm not sure why, but it looks like an unauthorized payment was made from my account.
+VAL | [card_linking] | YES | Text: I've located my missing or stolen card, do I need to activate the replacement card that was mailed to me in order to access my account?
+VAL | [change_pin] | YES | Text: I need to update my PIN immediately.
+VAL | [card_swallowed] | NO | Text: I swallowed my card while trying to use the ATM and now I need a replacement.
+VAL | [pending_transfer] | YES | Text: Why is the transfer still pending and not showing up in my account?
+VAL | [exchange_via_app] | NO | Text: Can I switch the currency I'm using in the app?
+VAL | [pending_transfer] | NO | Text: I made a purchase and the vendor informed me that the payment is still pending. The transaction was in Euros. Can you please provide an estimated timeframe for the transfer to be completed?
+VAL | [transfer_fee_charged] | NO | Text: A sender informed me that the recipient didn't receive the full transfer amount, and I need to make an additional transfer to cover the shortfall. Can you investigate this discrepancy and let me know what's happening?
+VAL | [cash_withdrawal_charge] | YES | Text: Can you explain why I'm being charged a fee for withdrawing cash from my account?
+VAL | [atm_support] | YES | Text: I'm looking to make a withdrawal. Can I use an ATM to get some cash?
+VAL | [country_support] | YES | Text: I recently relocated to the United States and would like to know how to obtain a bank card.
+VAL | [get_disposable_virtual_card] | NO | Text: Can you guide me on how to utilize the virtual disposable card for transactions?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm showing a direct debit payment on my account that I didn't authorise, can you help me investigate and cancel it?

@@ -1,0 +1,68 @@
+GEN | [wrong_amount_of_cash_received] | Orig: I was only given $20 when I tried to get $100 -> Aug: I was shortchanged $80 when I was supposed to receive $100.
+GEN | [card_not_working] | Orig: HOW LONG TO TAKE THE TIME TO SOLVE -> Aug: HOW LONG WILL IT TAKE TO RESOLVE THE ISSUE WITH MY DEBIT CARD?
+GEN | [terminate_account] | Orig: if im not using my account should i close it or just let it sit -> Aug: If I'm not actively using my account, should I cancel it or simply leave it inactive?
+GEN | [pending_cash_withdrawal] | Orig: I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got. -> Aug: I attempted to withdraw cash earlier, but the ATM appears to be malfunctioning. Upon checking, I noticed that the transaction is still pending. Can you investigate this issue and ensure I'm not charged for the amount I didn't receive?
+GEN | [visa_or_mastercard] | Orig: This transaction needs both a Visa and a Mastercard. -> Aug: This transaction requires both a Visa and a Mastercard.
+GEN | [contactless_not_working] | Orig: The contactless payments are not working. -> Aug: The contactless payment method is currently unavailable.
+GEN | [contactless_not_working] | Orig: Why wasn't my contactless accepted at the metro? -> Aug: Why did my contactless payment fail to work at the metro station?
+GEN | [verify_top_up] | Orig: I don't see the verification code for my card transfer. -> Aug: I'm having trouble finding the verification code for my recent top-up.
+GEN | [wrong_amount_of_cash_received] | Orig: how come when i asked for 100 it only gave me 20.00 in the app -> Aug: I was expecting to receive the full amount of $100, but instead, I only got $20.00 when I requested it through the app.
+GEN | [transfer_not_received_by_recipient] | Orig: What is the length of a transaction completion? -> Aug: Why hasn't the recipient received the transferred funds yet?
+GEN | [terminate_account] | Orig: What are the steps to finishing up with this account? -> Aug: How do I go about closing this account and ending my banking relationship?
+GEN | [card_not_working] | Orig: WHAT IS THE MAIN REASON OF THIS PROBLEM -> Aug: WHY IS MY CARD NOT FUNCTIONING PROPERLY?
+GEN | [card_linking] | Orig: I have one of your cards, but I don't know how to link it. -> Aug: I'm trying to connect my card to your system, but I'm having trouble figuring out how to link it.
+GEN | [card_delivery_estimate] | Orig: i need to add express delivery if that's an option -> Aug: I'd like to upgrade to expedited shipping if it's available for my card delivery.
+GEN | [pending_cash_withdrawal] | Orig: I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money! -> Aug: I attempted to withdraw cash from an ATM in the city centre earlier, but the machine rejected my card. The transaction still appears as pending in my account. Could you please cancel this pending withdrawal as I'm certain I didn't receive the funds?
+GEN | [card_linking] | Orig: Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket. -> Aug: Could you please reactivate my card, I misplaced it initially but I've since found it in my jacket pocket.
+GEN | [contactless_not_working] | Orig: I am having issues using contactless payments, could my card be damaged? -> Aug: I'm having trouble making contactless transactions, is it possible that my card is faulty?
+GEN | [card_delivery_estimate] | Orig: i need to expedite my card -> Aug: I'd be happy to assist you with estimating the delivery time for your card. Can you please provide me with your card's tracking number or the order number so I can look into it for you?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I able to do a SWIFT transfer with you? -> Aug: Can I initiate a bank transfer to top up my account with a charge, using the SWIFT network?
+GEN | [wrong_amount_of_cash_received] | Orig: It kept my cash -> Aug: You gave me less cash than I deposited
+GEN | [compromised_card] | Orig: card is being used by someone else -> Aug: Someone else is using my card without my permission.
+GEN | [direct_debit_payment_not_recognised] | Orig: what is the matter? -> Aug: We've noticed that a direct debit payment from your account hasn't been recognized. Can you please help us investigate this issue?
+GEN | [transfer_into_account] | Orig: My account is devoid of funds. Am I permitted to submit additional money via bank transfer? -> Aug: I'm running low on funds in my account. Can I make a bank transfer to replenish my balance?
+GEN | [visa_or_mastercard] | Orig: Please give me a Mastercard instead. -> Aug: Please provide me with a Visa card instead.
+GEN | [top_up_failed] | Orig: My money I added isn't on my card. -> Aug: The funds I attempted to add are not showing up on my card.
+GEN | [declined_cash_withdrawal] | Orig: Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing. -> Aug: I apologize for the inconvenience. It seems that your card was declined for a cash withdrawal attempt. Our system indicates that there might be an issue with your account balance or available funds. Please check your account activity or contact our customer support team to resolve this issue.
+GEN | [wrong_amount_of_cash_received] | Orig: Why did I not get all the money that I asked for? I asked for all the cash in my my account, but I only got about half. Why is that?? -> Aug: I was expecting a full withdrawal, but I only received a portion of the cash I requested. Can you explain why I didn't get the full amount?
+GEN | [getting_spare_card] | Orig: Can another family member hold a card for this account in addition to mine? -> Aug: Can I have a spare card issued for this account, in addition to the one I already have?
+GEN | [card_linking] | Orig: Can I add a card that I just found (again) to the app? -> Aug: Can I link a card that I've recently discovered again to the app?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you see my new balance yet? -> Aug: Why hasn't my account balance been updated after the recent transfer I made?
+GEN | [wrong_amount_of_cash_received] | Orig: The machine only paid me a hundred when I wanted 20 -> Aug: The ATM dispensed a smaller amount than I expected, I was supposed to receive 20 but got only 100.
+GEN | [declined_cash_withdrawal] | Orig: I tried to get money out of the Notting Hill ATM earlier, but wasn't able to. Is my card working okay? It's the first time I tried using it. -> Aug: I attempted to withdraw cash from the ATM at Notting Hill, but it was declined. Is there an issue with my card? This is the first time I've tried using it.
+GEN | [wrong_amount_of_cash_received] | Orig: I only received $20, but I requested $100. -> Aug: I was given $15, but I asked for $50.
+GEN | [transfer_not_received_by_recipient] | Orig: I am just waiting on the completion of the transaction. -> Aug: I'm still waiting for the transfer to be received by the recipient.
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was shortchanged $80 when I was supposed to receive $100.
+VAL | [card_not_working] | NO | Text: HOW LONG WILL IT TAKE TO RESOLVE THE ISSUE WITH MY DEBIT CARD?
+VAL | [terminate_account] | YES | Text: If I'm not actively using my account, should I cancel it or simply leave it inactive?
+VAL | [pending_cash_withdrawal] | YES | Text: I attempted to withdraw cash earlier, but the ATM appears to be malfunctioning. Upon checking, I noticed that the transaction is still pending. Can you investigate this issue and ensure I'm not charged for the amount I didn't receive?
+VAL | [visa_or_mastercard] | YES | Text: This transaction requires both a Visa and a Mastercard.
+VAL | [contactless_not_working] | YES | Text: The contactless payment method is currently unavailable.
+VAL | [contactless_not_working] | YES | Text: Why did my contactless payment fail to work at the metro station?
+VAL | [verify_top_up] | NO | Text: I'm having trouble finding the verification code for my recent top-up.
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was expecting to receive the full amount of $100, but instead, I only got $20.00 when I requested it through the app.
+VAL | [transfer_not_received_by_recipient] | NO | Text: Why hasn't the recipient received the transferred funds yet?
+VAL | [terminate_account] | YES | Text: How do I go about closing this account and ending my banking relationship?
+VAL | [card_not_working] | NO | Text: WHY IS MY CARD NOT FUNCTIONING PROPERLY?
+VAL | [card_linking] | YES | Text: I'm trying to connect my card to your system, but I'm having trouble figuring out how to link it.
+VAL | [card_delivery_estimate] | NO | Text: I'd like to upgrade to expedited shipping if it's available for my card delivery.
+VAL | [pending_cash_withdrawal] | YES | Text: I attempted to withdraw cash from an ATM in the city centre earlier, but the machine rejected my card. The transaction still appears as pending in my account. Could you please cancel this pending withdrawal as I'm certain I didn't receive the funds?
+VAL | [card_linking] | NO | Text: Could you please reactivate my card, I misplaced it initially but I've since found it in my jacket pocket.
+VAL | [contactless_not_working] | YES | Text: I'm having trouble making contactless transactions, is it possible that my card is faulty?
+VAL | [card_delivery_estimate] | NO | Text: I'd be happy to assist you with estimating the delivery time for your card. Can you please provide me with your card's tracking number or the order number so I can look into it for you?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I initiate a bank transfer to top up my account with a charge, using the SWIFT network?
+VAL | [wrong_amount_of_cash_received] | NO | Text: You gave me less cash than I deposited
+VAL | [compromised_card] | YES | Text: Someone else is using my card without my permission.
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've noticed that a direct debit payment from your account hasn't been recognized. Can you please help us investigate this issue?
+VAL | [transfer_into_account] | NO | Text: I'm running low on funds in my account. Can I make a bank transfer to replenish my balance?
+VAL | [visa_or_mastercard] | NO | Text: Please provide me with a Visa card instead.
+VAL | [top_up_failed] | YES | Text: The funds I attempted to add are not showing up on my card.
+VAL | [declined_cash_withdrawal] | NO | Text: I apologize for the inconvenience. It seems that your card was declined for a cash withdrawal attempt. Our system indicates that there might be an issue with your account balance or available funds. Please check your account activity or contact our customer support team to resolve this issue.
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was expecting a full withdrawal, but I only received a portion of the cash I requested. Can you explain why I didn't get the full amount?
+VAL | [getting_spare_card] | YES | Text: Can I have a spare card issued for this account, in addition to the one I already have?
+VAL | [card_linking] | YES | Text: Can I link a card that I've recently discovered again to the app?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: Why hasn't my account balance been updated after the recent transfer I made?
+VAL | [wrong_amount_of_cash_received] | YES | Text: The ATM dispensed a smaller amount than I expected, I was supposed to receive 20 but got only 100.
+VAL | [declined_cash_withdrawal] | YES | Text: I attempted to withdraw cash from the ATM at Notting Hill, but it was declined. Is there an issue with my card? This is the first time I've tried using it.
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was given $15, but I asked for $50.
+VAL | [transfer_not_received_by_recipient] | YES | Text: I'm still waiting for the transfer to be received by the recipient.

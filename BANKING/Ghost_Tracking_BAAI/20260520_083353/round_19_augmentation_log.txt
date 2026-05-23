@@ -1,0 +1,70 @@
+GEN | [terminate_account] | Orig: Can you please disable my current account. -> Aug: Can you assist me in closing my account?
+GEN | [pin_blocked] | Orig: I used my pin too many times. -> Aug: I've entered my pin incorrectly multiple times.
+GEN | [card_delivery_estimate] | Orig: I need my card immediately. -> Aug: I require an urgent estimate for my card delivery.
+GEN | [beneficiary_not_allowed] | Orig: I wasn't allowed to transfer to my account -> Aug: I was informed that the beneficiary is not authorized to receive funds from my account.
+GEN | [Refund_not_showing_up] | Orig: i need a refund right away but the funds aren't available in my account -> Aug: I'm expecting to see the refund in my account, but it's not showing up. Can you please look into this and expedite the refund process?
+GEN | [age_limit] | Orig: My daughter needs to open account. -> Aug: My child is under the age of 18 and needs to open a minor account.
+GEN | [edit_personal_details] | Orig: My address is incorrect on my file. -> Aug: My personal address is outdated and needs to be updated.
+GEN | [pending_top_up] | Orig: Why is  my  top  up for  my  new account  not  instant -> Aug: Why is my pending top-up for my new account not processing immediately?
+GEN | [declined_card_payment] | Orig: I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why. -> Aug: I'm having trouble with my card, it keeps getting declined when I try to make a purchase. I've tried a few times and it's been rejected every time. Can you help me figure out why this is happening?
+GEN | [edit_personal_details] | Orig: details need to be modified -> Aug: information needs to be updated
+GEN | [topping_up_by_card] | Orig: I cannot tell what my top up currently is. -> Aug: I'd like to check my current card balance and confirm the amount available for topping up.
+GEN | [automatic_top_up] | Orig: When the time is right will this automatically replenish my balance? -> Aug: Will my account balance be automatically replenished when the time is suitable?
+GEN | [get_physical_card] | Orig: Is the PIN sent in another message? -> Aug: I didn't receive my physical card, can I request a new one?
+GEN | [pending_top_up] | Orig: how long does it take to reflect in my balance a top up -> Aug: when will the top-up amount be credited to my account balance?
+GEN | [verify_source_of_funds] | Orig: Who is giving me my money? -> Aug: Can you confirm the source of the funds being used for this transaction?
+GEN | [card_acceptance] | Orig: Is my card denied anywhere? -> Aug: Have I been declined anywhere with my card?
+GEN | [declined_cash_withdrawal] | Orig: My card didn't work at the ATM in Notting Hill.  Is my card working? -> Aug: We're sorry to inform you that your cash withdrawal request was declined due to an issue with your card. Please check your account balance or contact our customer service team to resolve the issue.
+GEN | [declined_cash_withdrawal] | Orig: I can't get any money from my account. -> Aug: I'm unable to access my available funds for a cash withdrawal.
+GEN | [transfer_fee_charged] | Orig: Hi! I'm a university student studying abroad and I noticed that when I was trying to cross-reference my budget for this month that there were extra fees I was not expecting. Why is that? I've had this account for years and I haven't had any trouble so far, it might not even be on your all's end since I'm still new to international travel and finance, but I wanted to double check in case a mistake was made! -> Aug: Hi! I'm a university student studying abroad and I noticed that when I was reviewing my budget for this month, I saw some unexpected fees. Could you please explain why these charges were added? I've had this account for years and haven't had any issues before, but I'm new to international travel and finance, so I wanted to confirm if it's a mistake or if there's something I'm missing.
+GEN | [card_arrival] | Orig: Is my new bank card on the way and is there a way to track it? -> Aug: Can I expect my new bank card to arrive soon and is there a tracking option available to monitor its delivery?
+GEN | [declined_transfer] | Orig: Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined . I tried couple of times already  but same thing is happening . -> Aug: I've been using your service for a while now, and I've never had any issues with transfers until today. I tried to make a purchase, but the payment was declined. I've tried a few times, but the result is the same. Can you please help me figure out what's going on?
+GEN | [transfer_fee_charged] | Orig: I make payments for my place abroad using this account and since i use it so frequently I was wondering why did the fees increase suddenly rather than decreasing? I would think customers like me should receive incentives for using your service -> Aug: I've been using this account to make regular payments for my international property and I'm puzzled as to why the transfer fees have increased instead of decreasing. As a frequent user, I'd expect some benefits or rewards for my loyalty, not additional charges.
+GEN | [card_arrival] | Orig: I don't have my card in 1 week.  Should I be worried? -> Aug: I haven't received my card after a week. Should I be concerned?
+GEN | [top_up_reverted] | Orig: Please explain why the funds I added were returned to my account. -> Aug: I'd be happy to help you understand why the top-up amount was reversed back to your account.
+GEN | [getting_spare_card] | Orig: I would like open a second card for my daughter, how can you assist me? -> Aug: I'd like to request a new card for my child, could you guide me through the process?
+GEN | [top_up_by_cash_or_cheque] | Orig: Do you take checks? -> Aug: Can I deposit a cheque to top up my account?
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow. -> Aug: I need to cancel the transfer I initiated yesterday. Can you please reverse the transaction and make the necessary corrections? I require it to be completed by tomorrow.
+GEN | [cash_withdrawal_charge] | Orig: I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud? -> Aug: I'm reviewing my account activity and noticed a cash withdrawal charge that doesn't seem to match my recent transactions. I made a withdrawal at a cash machine near Nandos in Leeds, but the charge is showing up as a different location. Can you help me understand what this is and if it's a legitimate transaction?
+GEN | [transfer_timing] | Orig: When will the money be made available in my account? -> Aug: When can I expect the funds to be deposited into my account?
+GEN | [pending_top_up] | Orig: I added money to the card but the transaction didn't go through -> Aug: I attempted to top up my card, but the transaction is still pending and hasn't been processed
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction yesterday. Would  you please make it correct?I need it by tomorrow Please. -> Aug: I need to cancel the transfer I initiated yesterday. It was an error on my part. Can you please cancel it and correct the transaction as soon as possible?
+GEN | [cash_withdrawal_not_recognised] | Orig: i didnt put that money in my account -> Aug: I didn't deposit that amount into my account
+GEN | [pending_top_up] | Orig: Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour. -> Aug: Can you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for an hour already.
+GEN | [Refund_not_showing_up] | Orig: I requested a refund from Next because the dress I purchased had three arm holes. They said they sent the refund last Wednesday which is nearly a week ago and I still don't have it.  Why not? -> Aug: I ordered a dress from Next and it had an unusual design feature - three arm holes. They assured me they would process the refund last Thursday, but it's now been over a week and I haven't received it. Can you explain the delay?
+GEN | [cash_withdrawal_not_recognised] | Orig: THere is some cash that is showing up on my app. -> Aug: I'm seeing an unexpected cash amount on my account.
+VAL | [terminate_account] | NO | Text: Can you assist me in closing my account?
+VAL | [pin_blocked] | NO | Text: I've entered my pin incorrectly multiple times.
+VAL | [card_delivery_estimate] | YES | Text: I require an urgent estimate for my card delivery.
+VAL | [beneficiary_not_allowed] | YES | Text: I was informed that the beneficiary is not authorized to receive funds from my account.
+VAL | [Refund_not_showing_up] | YES | Text: I'm expecting to see the refund in my account, but it's not showing up. Can you please look into this and expedite the refund process?
+VAL | [age_limit] | YES | Text: My child is under the age of 18 and needs to open a minor account.
+VAL | [edit_personal_details] | YES | Text: My personal address is outdated and needs to be updated.
+VAL | [pending_top_up] | YES | Text: Why is my pending top-up for my new account not processing immediately?
+VAL | [declined_card_payment] | YES | Text: I'm having trouble with my card, it keeps getting declined when I try to make a purchase. I've tried a few times and it's been rejected every time. Can you help me figure out why this is happening?
+VAL | [edit_personal_details] | YES | Text: information needs to be updated
+VAL | [topping_up_by_card] | NO | Text: I'd like to check my current card balance and confirm the amount available for topping up.
+VAL | [automatic_top_up] | YES | Text: Will my account balance be automatically replenished when the time is suitable?
+VAL | [get_physical_card] | NO | Text: I didn't receive my physical card, can I request a new one?
+VAL | [pending_top_up] | NO | Text: when will the top-up amount be credited to my account balance?
+VAL | [verify_source_of_funds] | YES | Text: Can you confirm the source of the funds being used for this transaction?
+VAL | [card_acceptance] | YES | Text: Have I been declined anywhere with my card?
+VAL | [declined_cash_withdrawal] | NO | Text: We're sorry to inform you that your cash withdrawal request was declined due to an issue with your card. Please check your account balance or contact our customer service team to resolve the issue.
+VAL | [declined_cash_withdrawal] | YES | Text: I'm unable to access my available funds for a cash withdrawal.
+VAL | [transfer_fee_charged] | YES | Text: Hi! I'm a university student studying abroad and I noticed that when I was reviewing my budget for this month, I saw some unexpected fees. Could you please explain why these charges were added? I've had this account for years and haven't had any issues before, but I'm new to international travel and finance, so I wanted to confirm if it's a mistake or if there's something I'm missing.
+VAL | [card_arrival] | YES | Text: Can I expect my new bank card to arrive soon and is there a tracking option available to monitor its delivery?
+VAL | [declined_transfer] | NO | Text: I've been using your service for a while now, and I've never had any issues with transfers until today. I tried to make a purchase, but the payment was declined. I've tried a few times, but the result is the same. Can you please help me figure out what's going on?
+VAL | [transfer_fee_charged] | NO | Text: I've been using this account to make regular payments for my international property and I'm puzzled as to why the transfer fees have increased instead of decreasing. As a frequent user, I'd expect some benefits or rewards for my loyalty, not additional charges.
+VAL | [card_arrival] | YES | Text: I haven't received my card after a week. Should I be concerned?
+VAL | [top_up_reverted] | YES | Text: I'd be happy to help you understand why the top-up amount was reversed back to your account.
+VAL | [getting_spare_card] | NO | Text: I'd like to request a new card for my child, could you guide me through the process?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I deposit a cheque to top up my account?
+VAL | [cancel_transfer] | YES | Text: I need to cancel the transfer I initiated yesterday. Can you please reverse the transaction and make the necessary corrections? I require it to be completed by tomorrow.
+VAL | [cash_withdrawal_charge] | YES | Text: I'm reviewing my account activity and noticed a cash withdrawal charge that doesn't seem to match my recent transactions. I made a withdrawal at a cash machine near Nandos in Leeds, but the charge is showing up as a different location. Can you help me understand what this is and if it's a legitimate transaction?
+VAL | [transfer_timing] | YES | Text: When can I expect the funds to be deposited into my account?
+VAL | [pending_top_up] | YES | Text: I attempted to top up my card, but the transaction is still pending and hasn't been processed
+VAL | [cancel_transfer] | YES | Text: I need to cancel the transfer I initiated yesterday. It was an error on my part. Can you please cancel it and correct the transaction as soon as possible?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I didn't deposit that amount into my account
+VAL | [pending_top_up] | YES | Text: Can you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for an hour already.
+VAL | [Refund_not_showing_up] | YES | Text: I ordered a dress from Next and it had an unusual design feature - three arm holes. They assured me they would process the refund last Thursday, but it's now been over a week and I haven't received it. Can you explain the delay?
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I'm seeing an unexpected cash amount on my account.

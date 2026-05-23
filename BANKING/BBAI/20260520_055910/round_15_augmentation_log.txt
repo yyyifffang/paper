@@ -1,0 +1,70 @@
+GEN | [lost_or_stolen_phone] | Orig: Can I use your services without access to the app? -> Aug: I'm worried about accessing my account since I've misplaced my phone. Can I still use your services without the app?
+GEN | [country_support] | Orig: Who gets support? -> Aug: Who is eligible for support?
+GEN | [topping_up_by_card] | Orig: can other people use the app to add money to my account -> Aug: Can I use someone else's card to add funds to my account through the app?
+GEN | [card_acceptance] | Orig: Where do I pay with my debit or credit card? -> Aug: How can I use my debit or credit card to make a payment?
+GEN | [exchange_via_app] | Orig: I'm having difficulties changing AUD for GBP. How do I do this? -> Aug: I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process using the app?
+GEN | [exchange_rate] | Orig: Does this app have the same exchange rate as third parties? -> Aug: Is the exchange rate offered by this app identical to what I would find on other platforms?
+GEN | [transfer_timing] | Orig: How fast can I transfer something from China? -> Aug: What is the estimated timeframe for transferring funds from China?
+GEN | [get_physical_card] | Orig: still need to get card pin -> Aug: I would like to obtain my physical debit/credit card.
+GEN | [lost_or_stolen_card] | Orig: I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card? -> Aug: I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card and tell me the location where it was used?
+GEN | [pin_blocked] | Orig: I must have entered my PIN wrong. -> Aug: I think I may have typed my PIN incorrectly.
+GEN | [card_payment_wrong_exchange_rate] | Orig: The exchange rate used on your app is really bad. I'm considering closing my account because of it. -> Aug: The exchange rate applied to my recent transaction is inaccurate, and I'm extremely dissatisfied. I'm thinking of switching banks due to this issue.
+GEN | [transfer_into_account] | Orig: show me how to transfer to my account -> Aug: can you guide me through the process of transferring funds into my account?
+GEN | [cash_withdrawal_charge] | Orig: How come I got to pay to get my money from the ATM? -> Aug: Why do I have to pay a fee to withdraw cash from the ATM?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Does this program take SWIFT transfers? -> Aug: Can I use a bank transfer with a SWIFT code to top up my account?
+GEN | [reverted_card_payment?] | Orig: Was my transaction reverted with my card? -> Aug: Did my recent payment made with my card get reversed?
+GEN | [beneficiary_not_allowed] | Orig: What are then rules on beneficiaries? -> Aug: Who is eligible to be a beneficiary for our services?
+GEN | [failed_transfer] | Orig: Your system is broken. My transfers keep failing, 5 times now. -> Aug: My transactions are not going through. I've had three failed transfers in a row.
+GEN | [activate_my_card] | Orig: If you to to account, hit activate, and follow the instructions, you can activate it in just a few seconds. -> Aug: Just log in to your account, tap on "Activate" and follow the prompts to activate your card in a few easy steps.
+GEN | [pending_card_payment] | Orig: My card has been pending for a while, what should I do? -> Aug: My payment is still pending, can you help me resolve the issue?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are you going to charge me to collect the money? -> Aug: Will there be a fee for processing the bank transfer for my top-up?
+GEN | [top_up_by_bank_transfer_charge] | Orig: I want to do a swift transfer -> Aug: I'd like to make a bank transfer to top up my account
+GEN | [top_up_failed] | Orig: I really need to top-up my card today urgently but my card keeps getting declined!! Can you please help me with this problem or let me know if you have any alternatives -> Aug: I'm in a bit of an emergency and I need to top-up my card ASAP, but it's not accepting the payment. Can you assist me with this issue or suggest an alternative solution?
+GEN | [top_up_by_card_charge] | Orig: Are there any charges for topping up a US-issued card? -> Aug: Is there a fee associated with recharging a US-issued card using a card charge?
+GEN | [declined_cash_withdrawal] | Orig: I tried to use my card to withdrawal money from the ATM in Notting Hill but it didn't work. This is the first time I've tried using it. Is my card working? -> Aug: I attempted to withdraw cash from an ATM in Notting Hill using my card, but it was declined. This is my first time trying to use it. Is there an issue with my card?
+GEN | [wrong_amount_of_cash_received] | Orig: If the ATM only gave me 10 pounds instead of the 30 I requested, what do I do? -> Aug: I was expecting to receive 25 dollars, but the ATM dispensed only 15, what should I do?
+GEN | [transaction_charged_twice] | Orig: Can you explain the various transaction times shown on my statement? -> Aug: Why are there multiple transaction dates listed on my statement, and what does it mean when I've been charged twice for the same transaction?
+GEN | [card_payment_not_recognised] | Orig: I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card. -> Aug: I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can you help me reverse these charges? Additionally, I'd like to temporarily suspend my card to prevent any further transactions.
+GEN | [get_physical_card] | Orig: Explain the card PIN to me. -> Aug: I'd be happy to help you with that. However, I'd like to clarify that you're referring to the physical card, correct? If so, I can provide you with information on how to use the PIN on your physical card.
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I fill up my gas tank using a check? -> Aug: Can I use a cheque to top up my account and then use the funds to fill up my gas tank?
+GEN | [topping_up_by_card] | Orig: Why was my card charged when topping off my balance but it's not showing up in my wallet balance? -> Aug: I'm trying to add funds to my account using my card, but the transaction is being processed, but the updated balance isn't reflecting in my account.
+GEN | [transfer_timing] | Orig: How do i transfer something faster than normal? -> Aug: Can you tell me if there's a way to expedite the transfer process or make it happen sooner than the usual timeframe?
+GEN | [card_acceptance] | Orig: Is there restrictions on where I can use my card? -> Aug: Are there any limitations on the locations where I can use my card for transactions?
+GEN | [transfer_timing] | Orig: How quickly can I transfer something to China? -> Aug: What is the estimated timeframe for transferring funds to China?
+GEN | [declined_transfer] | Orig: I'm trying to move money from my account to elsewhere, but it's giving me an error message. -> Aug: I'm attempting to initiate a transfer from my account to another account, but I'm receiving an error message.
+GEN | [apple_pay_or_google_pay] | Orig: Can an apple watch be used to tup-up? -> Aug: Can I use my Apple Watch to make payments with Apple Pay or Google Pay?
+VAL | [lost_or_stolen_phone] | NO | Text: I'm worried about accessing my account since I've misplaced my phone. Can I still use your services without the app?
+VAL | [country_support] | NO | Text: Who is eligible for support?
+VAL | [topping_up_by_card] | NO | Text: Can I use someone else's card to add funds to my account through the app?
+VAL | [card_acceptance] | YES | Text: How can I use my debit or credit card to make a payment?
+VAL | [exchange_via_app] | YES | Text: I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process using the app?
+VAL | [exchange_rate] | YES | Text: Is the exchange rate offered by this app identical to what I would find on other platforms?
+VAL | [transfer_timing] | YES | Text: What is the estimated timeframe for transferring funds from China?
+VAL | [get_physical_card] | NO | Text: I would like to obtain my physical debit/credit card.
+VAL | [lost_or_stolen_card] | YES | Text: I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card and tell me the location where it was used?
+VAL | [pin_blocked] | NO | Text: I think I may have typed my PIN incorrectly.
+VAL | [card_payment_wrong_exchange_rate] | NO | Text: The exchange rate applied to my recent transaction is inaccurate, and I'm extremely dissatisfied. I'm thinking of switching banks due to this issue.
+VAL | [transfer_into_account] | YES | Text: can you guide me through the process of transferring funds into my account?
+VAL | [cash_withdrawal_charge] | YES | Text: Why do I have to pay a fee to withdraw cash from the ATM?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Can I use a bank transfer with a SWIFT code to top up my account?
+VAL | [reverted_card_payment?] | YES | Text: Did my recent payment made with my card get reversed?
+VAL | [beneficiary_not_allowed] | NO | Text: Who is eligible to be a beneficiary for our services?
+VAL | [failed_transfer] | YES | Text: My transactions are not going through. I've had three failed transfers in a row.
+VAL | [activate_my_card] | YES | Text: Just log in to your account, tap on "Activate" and follow the prompts to activate your card in a few easy steps.
+VAL | [pending_card_payment] | YES | Text: My payment is still pending, can you help me resolve the issue?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Will there be a fee for processing the bank transfer for my top-up?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: I'd like to make a bank transfer to top up my account
+VAL | [top_up_failed] | NO | Text: I'm in a bit of an emergency and I need to top-up my card ASAP, but it's not accepting the payment. Can you assist me with this issue or suggest an alternative solution?
+VAL | [top_up_by_card_charge] | YES | Text: Is there a fee associated with recharging a US-issued card using a card charge?
+VAL | [declined_cash_withdrawal] | YES | Text: I attempted to withdraw cash from an ATM in Notting Hill using my card, but it was declined. This is my first time trying to use it. Is there an issue with my card?
+VAL | [wrong_amount_of_cash_received] | NO | Text: I was expecting to receive 25 dollars, but the ATM dispensed only 15, what should I do?
+VAL | [transaction_charged_twice] | NO | Text: Why are there multiple transaction dates listed on my statement, and what does it mean when I've been charged twice for the same transaction?
+VAL | [card_payment_not_recognised] | NO | Text: I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can you help me reverse these charges? Additionally, I'd like to temporarily suspend my card to prevent any further transactions.
+VAL | [get_physical_card] | NO | Text: I'd be happy to help you with that. However, I'd like to clarify that you're referring to the physical card, correct? If so, I can provide you with information on how to use the PIN on your physical card.
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I use a cheque to top up my account and then use the funds to fill up my gas tank?
+VAL | [topping_up_by_card] | NO | Text: I'm trying to add funds to my account using my card, but the transaction is being processed, but the updated balance isn't reflecting in my account.
+VAL | [transfer_timing] | YES | Text: Can you tell me if there's a way to expedite the transfer process or make it happen sooner than the usual timeframe?
+VAL | [card_acceptance] | YES | Text: Are there any limitations on the locations where I can use my card for transactions?
+VAL | [transfer_timing] | YES | Text: What is the estimated timeframe for transferring funds to China?
+VAL | [declined_transfer] | NO | Text: I'm attempting to initiate a transfer from my account to another account, but I'm receiving an error message.
+VAL | [apple_pay_or_google_pay] | NO | Text: Can I use my Apple Watch to make payments with Apple Pay or Google Pay?

@@ -1,0 +1,72 @@
+GEN | [verify_top_up] | Orig: What is the verification process for my card? -> Aug: Can you walk me through the steps to verify my card for a top-up transaction?
+GEN | [transfer_fee_charged] | Orig: I make payments for my place abroad using this account and since i use it so frequently I was wondering why did the fees increase suddenly rather than decreasing? I would think customers like me should receive incentives for using your service -> Aug: I've been using this account to make regular payments for my international property and I'm puzzled as to why the transfer fees have increased instead of decreasing. As a frequent user, I'd expect some benefits or rewards for my loyalty, not additional charges.
+GEN | [unable_to_verify_identity] | Orig: The app is telling me that I am not me. -> Aug: We're having trouble verifying your identity through our system, and it's possible that there's an issue with your account information.
+GEN | [transfer_not_received_by_recipient] | Orig: My money transaction can't be seen by the person I sent it to -> Aug: The recipient is unable to access the funds I transferred to them.
+GEN | [declined_cash_withdrawal] | Orig: Why am I unable to withdraw money even though in the past I've done it just fine? -> Aug: I'm sorry to inform you that your recent cash withdrawal request has been declined due to insufficient funds or account restrictions. Please check your account balance and transaction history to understand the reason behind this decline.
+GEN | [top_up_by_card_charge] | Orig: should i add money via bank transfer instead -> Aug: can i top up my account using a card charge instead of a bank transfer?
+GEN | [topping_up_by_card] | Orig: I need to transfer some money, can I use my credit card? -> Aug: I'd like to add some funds to my account using my credit card.
+GEN | [lost_or_stolen_card] | Orig: I lost my card n need a new one. -> Aug: I misplaced my credit card and would like to report it lost and request a replacement.
+GEN | [exchange_charge] | Orig: If someone in a different country sends me money, do I have to pay a fee? -> Aug: Can I expect to be charged a fee if someone from another country sends me a payment?
+GEN | [declined_cash_withdrawal] | Orig: I tried to withdraw some funds from my card, but was declined. How can I get my money? -> Aug: I attempted to withdraw cash from my account, but the transaction was declined. What are my options for retrieving my funds?
+GEN | [cash_withdrawal_not_recognised] | Orig: I believe my card has been compromised as there are funds showing that I did not receive. -> Aug: I'm concerned that my card has been hacked because I'm seeing transactions that I didn't authorize, and I didn't receive the corresponding cash.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks. -> Aug: I'm trying to make a transfer from a UK account, but my account balance isn't updating after the transfer was initiated. Can you please expedite the process or provide an estimated timeframe for when the balance will be updated?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: When will my cheque be processed? -> Aug: Why hasn't my account balance been updated after I deposited a cheque?
+GEN | [top_up_by_bank_transfer_charge] | Orig: How much is it to receive money? -> Aug: What is the fee for receiving a bank transfer top-up?
+GEN | [top_up_reverted] | Orig: What should I do?  I topped off but the app reversed  it. -> Aug: I made a mistake and accidentally topped up my account, but the transaction was reversed. What can I do now?
+GEN | [edit_personal_details] | Orig: how do i get into my account and edit my details -> Aug: Can you please guide me on how to access my account and update my personal information?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I am still awaiting the money I put into my account this morning. -> Aug: I haven't seen the deposit from this morning's cash deposit reflected in my account balance yet.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will there be a charge when money is added to my account? -> Aug: Are there any fees associated with transferring funds from my bank account to top up my account balance?
+GEN | [verify_source_of_funds] | Orig: My source of funds require verification. -> Aug: We need to confirm the origin of your funds.
+GEN | [card_payment_fee_charged] | Orig: I was charged and shouldn't have been charged when using my card! -> Aug: I'm surprised to see a fee on my recent card transaction, as I didn't expect to be charged.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: When will my balance reflect a deposit? -> Aug: Why hasn't my account balance been updated to reflect the recent cash deposit I made?
+GEN | [top_up_failed] | Orig: Hi I've been trying to top up my card for the past day but it gets declined, I need it topped up urgently! Can somebody get back to me to resolve this or explain any different ways I can top up my card? -> Aug: I've been attempting to add funds to my card for the past 24 hours, but the transaction keeps getting declined. I'm in a bit of a rush and would appreciate it if someone could look into this and help me resolve the issue or suggest alternative methods for topping up my card.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do I get charged if I am receiving money? -> Aug: Are there any bank transfer charges when I receive a top-up?
+GEN | [card_delivery_estimate] | Orig: Are the delivery days flexible?  My schedule only allows me to be a available on specific dates. -> Aug: Can you provide an estimate of the delivery dates, as I have a limited availability and need to plan accordingly?
+GEN | [card_linking] | Orig: Will I need a new card or can I put my old card back into the app? -> Aug: Can I reactivate my old card or do I need to request a new one to link to the app?
+GEN | [cash_withdrawal_not_recognised] | Orig: I got a message saying I made a withdrawal from the bank machine, but I did not. -> Aug: I'm confused because I didn't make a withdrawal, but I received a notification saying I did.
+GEN | [transfer_not_received_by_recipient] | Orig: The recipient doesn't see the money transaction I made -> Aug: The recipient hasn't received the funds from the transfer I initiated
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you check if my money has reached my account since it is not showing up yet? -> Aug: I'm still waiting to see the funds from my recent transfer appear in my account, could you please verify if it's been processed and updated my balance?
+GEN | [transfer_fee_charged] | Orig: I have used this account overseas recently. Has there been an increase in fees that I am unaware of? -> Aug: I'm planning to make an international transfer, but I'm concerned about potential fee changes. Are there any new charges I should be aware of?
+GEN | [getting_spare_card] | Orig: How much is it to buy another card? I was hoping to buy another one. -> Aug: I'd like to purchase a replacement card, could you please let me know the cost?
+GEN | [cash_withdrawal_not_recognised] | Orig: There are funds showing in my app that I did not receive. -> Aug: I'm showing a cash withdrawal in my account history that I didn't actually receive.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: The balance does not appear to have updated. -> Aug: The account balance seems to be stuck and hasn't reflected the recent transfer.
+GEN | [fiat_currency_support] | Orig: What kind of money can I hold? -> Aug: What types of fiat currencies can I store in my account?
+GEN | [card_not_working] | Orig: The card that I have isn't working. This is the physical card. -> Aug: The physical card I'm holding isn't functioning properly.
+GEN | [cash_withdrawal_not_recognised] | Orig: My app is showing a cash balance that I did not receive. -> Aug: I'm trying to access my account, but the app is displaying a cash balance that I never received.
+GEN | [reverted_card_payment?] | Orig: How come I can't find my payment? -> Aug: I'm trying to locate a payment that was made on my account, but it's not showing up. Can you help me figure out what's going on?
+VAL | [verify_top_up] | NO | Text: Can you walk me through the steps to verify my card for a top-up transaction?
+VAL | [transfer_fee_charged] | NO | Text: I've been using this account to make regular payments for my international property and I'm puzzled as to why the transfer fees have increased instead of decreasing. As a frequent user, I'd expect some benefits or rewards for my loyalty, not additional charges.
+VAL | [unable_to_verify_identity] | NO | Text: We're having trouble verifying your identity through our system, and it's possible that there's an issue with your account information.
+VAL | [transfer_not_received_by_recipient] | YES | Text: The recipient is unable to access the funds I transferred to them.
+VAL | [declined_cash_withdrawal] | NO | Text: I'm sorry to inform you that your recent cash withdrawal request has been declined due to insufficient funds or account restrictions. Please check your account balance and transaction history to understand the reason behind this decline.
+VAL | [top_up_by_card_charge] | NO | Text: can i top up my account using a card charge instead of a bank transfer?
+VAL | [topping_up_by_card] | YES | Text: I'd like to add some funds to my account using my credit card.
+VAL | [lost_or_stolen_card] | YES | Text: I misplaced my credit card and would like to report it lost and request a replacement.
+VAL | [exchange_charge] | NO | Text: Can I expect to be charged a fee if someone from another country sends me a payment?
+VAL | [declined_cash_withdrawal] | YES | Text: I attempted to withdraw cash from my account, but the transaction was declined. What are my options for retrieving my funds?
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I'm concerned that my card has been hacked because I'm seeing transactions that I didn't authorize, and I didn't receive the corresponding cash.
+VAL | [balance_not_updated_after_bank_transfer] | NO | Text: I'm trying to make a transfer from a UK account, but my account balance isn't updating after the transfer was initiated. Can you please expedite the process or provide an estimated timeframe for when the balance will be updated?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: Why hasn't my account balance been updated after I deposited a cheque?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: What is the fee for receiving a bank transfer top-up?
+VAL | [top_up_reverted] | YES | Text: I made a mistake and accidentally topped up my account, but the transaction was reversed. What can I do now?
+VAL | [edit_personal_details] | YES | Text: Can you please guide me on how to access my account and update my personal information?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I haven't seen the deposit from this morning's cash deposit reflected in my account balance yet.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Are there any fees associated with transferring funds from my bank account to top up my account balance?
+VAL | [verify_source_of_funds] | YES | Text: We need to confirm the origin of your funds.
+VAL | [card_payment_fee_charged] | NO | Text: I'm surprised to see a fee on my recent card transaction, as I didn't expect to be charged.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: Why hasn't my account balance been updated to reflect the recent cash deposit I made?
+VAL | [top_up_failed] | YES | Text: I've been attempting to add funds to my card for the past 24 hours, but the transaction keeps getting declined. I'm in a bit of a rush and would appreciate it if someone could look into this and help me resolve the issue or suggest alternative methods for topping up my card.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Are there any bank transfer charges when I receive a top-up?
+VAL | [card_delivery_estimate] | YES | Text: Can you provide an estimate of the delivery dates, as I have a limited availability and need to plan accordingly?
+VAL | [card_linking] | YES | Text: Can I reactivate my old card or do I need to request a new one to link to the app?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm confused because I didn't make a withdrawal, but I received a notification saying I did.
+VAL | [transfer_not_received_by_recipient] | YES | Text: The recipient hasn't received the funds from the transfer I initiated
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm still waiting to see the funds from my recent transfer appear in my account, could you please verify if it's been processed and updated my balance?
+VAL | [transfer_fee_charged] | NO | Text: I'm planning to make an international transfer, but I'm concerned about potential fee changes. Are there any new charges I should be aware of?
+VAL | [getting_spare_card] | YES | Text: I'd like to purchase a replacement card, could you please let me know the cost?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm showing a cash withdrawal in my account history that I didn't actually receive.
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: The account balance seems to be stuck and hasn't reflected the recent transfer.
+VAL | [fiat_currency_support] | YES | Text: What types of fiat currencies can I store in my account?
+VAL | [card_not_working] | YES | Text: The physical card I'm holding isn't functioning properly.
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I'm trying to access my account, but the app is displaying a cash balance that I never received.
+VAL | [reverted_card_payment?] | NO | Text: I'm trying to locate a payment that was made on my account, but it's not showing up. Can you help me figure out what's going on?

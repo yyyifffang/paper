@@ -1,0 +1,78 @@
+GEN | [transaction_charged_twice] | Orig: Why does my statement show various transaction times? -> Aug: I'm showing multiple transaction dates on my statement, what's going on?
+GEN | [card_payment_wrong_exchange_rate] | Orig: The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate. -> Aug: The exchange rate you're showing is inaccurate. I'm not sure how you're calculating it, but it's definitely not the correct interbank rate.
+GEN | [card_payment_wrong_exchange_rate] | Orig: The exchange rate you are using is really bad.This can't be the official interbank exchange rate. -> Aug: The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and I'm not sure how you're getting it.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I thought I was going to receive more currency? -> Aug: I was expecting a better exchange rate for the cash withdrawal.
+GEN | [extra_charge_on_statement] | Orig: I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as "pending", it never changes, and now I'm thinking someone's hacked my account! -> Aug: I'm concerned about a recurring charge of £1 that's been appearing on my statement, labeled as "pending" in the app, and it's not updating or changing, making me worry that someone has unauthorized access to my account.
+GEN | [transfer_into_account] | Orig: I need to move money from one of my other accounts to this one. -> Aug: I'd like to transfer funds from another account to this account.
+GEN | [card_payment_wrong_exchange_rate] | Orig: The exchange rate you're using is terrible - this can't be the official interbank exchange rate, can it? -> Aug: The exchange rate you're using is way off - I'm pretty sure it's not the current interbank rate, is it?
+GEN | [change_pin] | Orig: Can I change my PIN at a nearby ATM when in Spain? I think someone saw my PIN and I need to change it but am on vacation. -> Aug: I'd like to know if I can change my PIN at a nearby ATM while I'm in Spain. I'm concerned that someone might have seen my current PIN and I'd like to update it while I'm on vacation.
+GEN | [topping_up_by_card] | Orig: How do i set up my credit card to send transfers? -> Aug: Can you guide me on how to configure my credit card for automatic payments?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Tell me why my balance did not change when I tranferred cash. -> Aug: I'm trying to figure out why my account balance didn't update after I made a cash transfer.
+GEN | [change_pin] | Orig: I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM? -> Aug: I'm currently traveling in Italy and I'm worried someone might have seen my PIN. Can I change it at a nearby ATM or bank branch?
+GEN | [change_pin] | Orig: Can I change my in at all ATM's? -> Aug: Can I modify my PIN at any ATM location?
+GEN | [transfer_not_received_by_recipient] | Orig: Where is my last money transaction -> Aug: I haven't received the funds from my recent transfer. Can you help me locate it?
+GEN | [order_physical_card] | Orig: I need an actual card that I can hold in my hand, how do I do that? -> Aug: I'd like to place an order for a physical credit card, can you guide me through the process?
+GEN | [extra_charge_on_statement] | Orig: I wanted to know about a pending dollar that is on my statement. -> Aug: I'm trying to understand why I was charged an unexpected fee on my recent statement.
+GEN | [transaction_charged_twice] | Orig: I've got a repeated tranasaction on my card. -> Aug: I've been double-charged for a transaction on my credit card.
+GEN | [card_payment_not_recognised] | Orig: i disagree with a charge -> Aug: I'm disputing a transaction on my account
+GEN | [card_not_working] | Orig: What should I do if I can't use my card? -> Aug: Why is my card not functioning properly and what steps can I take to resolve the issue?
+GEN | [order_physical_card] | Orig: what steps do i do to get a real card -> Aug: To place an order for a physical credit/debit card, please follow these steps: I'd be happy to guide you through the process. Can you please confirm your account information and card details, and I'll assist you in placing the order?
+GEN | [supported_cards_and_currencies] | Orig: I have one other credit card from the US. Do you take that? -> Aug: I have another credit card from the US. Do you accept it?
+GEN | [card_linking] | Orig: If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it? -> Aug: If I locate a lost card, do I need to cancel it or can I reactivate it and continue using it?
+GEN | [passcode_forgotten] | Orig: Please help me.  I don't know my code to get into the app. -> Aug: I've forgotten my passcode and need assistance retrieving it to access the app.
+GEN | [getting_virtual_card] | Orig: Is there an alternative to a physical card? -> Aug: Can I get a digital card instead of a physical one?
+GEN | [card_payment_wrong_exchange_rate] | Orig: The exchange rate you are using is bad.This can't be the official interbank exchange rate. -> Aug: The exchange rate you're using is incorrect. It's not the correct interbank rate.
+GEN | [activate_my_card] | Orig: I tried activating my plug-in and it didn't piece of work -> Aug: I attempted to activate my debit card, but it's not functioning properly
+GEN | [supported_cards_and_currencies] | Orig: Why doesn't it work when I use American Express to try to add money to my account? -> Aug: We do not currently support American Express as a payment method for adding funds to your account. However, we do accept a variety of other cards, including Visa, Mastercard, and Discover. Additionally, you can also use various digital wallets like Apple Pay, Google Pay, and Samsung Pay. If you have any further questions or concerns, please feel free to ask.
+GEN | [supported_cards_and_currencies] | Orig: I have one other credit card from the US. Do you take it? -> Aug: I have another credit card from the US. What types of credit cards do you accept?
+GEN | [receiving_money] | Orig: My friend wants to send me money, can she? -> Aug: Can my friend transfer funds to me?
+GEN | [apple_pay_or_google_pay] | Orig: Apple pay is not accepting my American Express card, can you assist me with this problem? -> Aug: Google Pay is not recognizing my Discover card, can you help me resolve this issue?
+GEN | [transaction_charged_twice] | Orig: My card is showing the same transaction over and over again. -> Aug: I've noticed that I've been charged multiple times for the same transaction.
+GEN | [receiving_money] | Orig: Please show me how my friend can send me money. -> Aug: Can you guide me through the process of receiving a payment from my friend?
+GEN | [card_swallowed] | Orig: Will you please help me get my card back? -> Aug: Can you assist me in retrieving my swallowed card?
+GEN | [exchange_rate] | Orig: If I need to cash foreign transfers, how does that work? -> Aug: Can you explain the process for exchanging foreign currencies for cash transfers?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: An overseas cash transfer did not work correctly -> Aug: I made a mistake with the exchange rate when withdrawing cash from my account.
+GEN | [transfer_not_received_by_recipient] | Orig: When will I get my money? It's been too long. -> Aug: I'm concerned about the status of my recent transfer. The recipient hasn't received it yet, and I'm worried it's taking too long.
+GEN | [pending_cash_withdrawal] | Orig: Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged? -> Aug: I'm experiencing a pending cash withdrawal issue, as the ATM was not functioning, and I'm concerned about being charged for the transaction. Can you assist me in resolving this matter?
+GEN | [order_physical_card] | Orig: What do I owe for a new card? -> Aug: How much does a new physical credit card cost?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: help my money isnt showing up -> Aug: my account balance isn't reflecting the recent transfer I made
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Can you check the exchange rate on a cash transaction I did overseas -> Aug: I'm trying to understand the exchange rate used for a cash withdrawal I made during my recent trip abroad
+VAL | [transaction_charged_twice] | YES | Text: I'm showing multiple transaction dates on my statement, what's going on?
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: The exchange rate you're showing is inaccurate. I'm not sure how you're calculating it, but it's definitely not the correct interbank rate.
+VAL | [card_payment_wrong_exchange_rate] | NO | Text: The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and I'm not sure how you're getting it.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I was expecting a better exchange rate for the cash withdrawal.
+VAL | [extra_charge_on_statement] | NO | Text: I'm concerned about a recurring charge of £1 that's been appearing on my statement, labeled as "pending" in the app, and it's not updating or changing, making me worry that someone has unauthorized access to my account.
+VAL | [transfer_into_account] | YES | Text: I'd like to transfer funds from another account to this account.
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: The exchange rate you're using is way off - I'm pretty sure it's not the current interbank rate, is it?
+VAL | [change_pin] | NO | Text: I'd like to know if I can change my PIN at a nearby ATM while I'm in Spain. I'm concerned that someone might have seen my current PIN and I'd like to update it while I'm on vacation.
+VAL | [topping_up_by_card] | NO | Text: Can you guide me on how to configure my credit card for automatic payments?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm trying to figure out why my account balance didn't update after I made a cash transfer.
+VAL | [change_pin] | YES | Text: I'm currently traveling in Italy and I'm worried someone might have seen my PIN. Can I change it at a nearby ATM or bank branch?
+VAL | [change_pin] | YES | Text: Can I modify my PIN at any ATM location?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I haven't received the funds from my recent transfer. Can you help me locate it?
+VAL | [order_physical_card] | YES | Text: I'd like to place an order for a physical credit card, can you guide me through the process?
+VAL | [extra_charge_on_statement] | YES | Text: I'm trying to understand why I was charged an unexpected fee on my recent statement.
+VAL | [transaction_charged_twice] | YES | Text: I've been double-charged for a transaction on my credit card.
+VAL | [card_payment_not_recognised] | NO | Text: I'm disputing a transaction on my account
+VAL | [card_not_working] | YES | Text: Why is my card not functioning properly and what steps can I take to resolve the issue?
+VAL | [order_physical_card] | NO | Text: To place an order for a physical credit/debit card, please follow these steps: I'd be happy to guide you through the process. Can you please confirm your account information and card details, and I'll assist you in placing the order?
+VAL | [supported_cards_and_currencies] | YES | Text: I have another credit card from the US. Do you accept it?
+VAL | [card_linking] | NO | Text: If I locate a lost card, do I need to cancel it or can I reactivate it and continue using it?
+VAL | [passcode_forgotten] | YES | Text: I've forgotten my passcode and need assistance retrieving it to access the app.
+VAL | [getting_virtual_card] | NO | Text: Can I get a digital card instead of a physical one?
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: The exchange rate you're using is incorrect. It's not the correct interbank rate.
+VAL | [activate_my_card] | NO | Text: I attempted to activate my debit card, but it's not functioning properly
+VAL | [supported_cards_and_currencies] | NO | Text: We do not currently support American Express as a payment method for adding funds to your account. However, we do accept a variety of other cards, including Visa, Mastercard, and Discover. Additionally, you can also use various digital wallets like Apple Pay, Google Pay, and Samsung Pay. If you have any further questions or concerns, please feel free to ask.
+VAL | [supported_cards_and_currencies] | YES | Text: I have another credit card from the US. What types of credit cards do you accept?
+VAL | [receiving_money] | YES | Text: Can my friend transfer funds to me?
+VAL | [apple_pay_or_google_pay] | NO | Text: Google Pay is not recognizing my Discover card, can you help me resolve this issue?
+VAL | [transaction_charged_twice] | YES | Text: I've noticed that I've been charged multiple times for the same transaction.
+VAL | [receiving_money] | YES | Text: Can you guide me through the process of receiving a payment from my friend?
+VAL | [card_swallowed] | YES | Text: Can you assist me in retrieving my swallowed card?
+VAL | [exchange_rate] | NO | Text: Can you explain the process for exchanging foreign currencies for cash transfers?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I made a mistake with the exchange rate when withdrawing cash from my account.
+VAL | [transfer_not_received_by_recipient] | NO | Text: I'm concerned about the status of my recent transfer. The recipient hasn't received it yet, and I'm worried it's taking too long.
+VAL | [pending_cash_withdrawal] | YES | Text: I'm experiencing a pending cash withdrawal issue, as the ATM was not functioning, and I'm concerned about being charged for the transaction. Can you assist me in resolving this matter?
+VAL | [order_physical_card] | YES | Text: How much does a new physical credit card cost?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: my account balance isn't reflecting the recent transfer I made
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I'm trying to understand the exchange rate used for a cash withdrawal I made during my recent trip abroad

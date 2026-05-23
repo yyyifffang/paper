@@ -1,0 +1,62 @@
+GEN | [reverted_card_payment?] | Orig: Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later. -> Aug: I'm having trouble with my card payments being declined when I try to make an online purchase. The payment is initially accepted, but then it's reversed or cancelled later on. Can you help me figure out what's going on?
+GEN | [exchange_via_app] | Orig: Can you  tell me how to get AUD not GBP? -> Aug: Can you guide me on how to exchange currency from AUD to GBP using the app?
+GEN | [pending_card_payment] | Orig: What is the cause of the delay in applying my card payment to my account? -> Aug: Why is my card payment still pending and not yet reflected in my account balance?
+GEN | [card_arrival] | Orig: Is there a way I can get my card expedited? -> Aug: Can I request express shipping for my card delivery?
+GEN | [age_limit] | Orig: Can I get an account for my son? -> Aug: Can I open an account for my minor child?
+GEN | [receiving_money] | Orig: My salary is in GBP, do I need to exchange it before putting it into my account? -> Aug: Can I deposit my GBP salary directly into my account, or do I need to convert it to a different currency first?
+GEN | [pending_transfer] | Orig: I have a pending transaction -> Aug: I'm still waiting for a transfer to be processed
+GEN | [card_arrival] | Orig: I'm still waiting for my new card. -> Aug: I haven't received my new credit card yet.
+GEN | [receiving_money] | Orig: My salary is in GBP - what should I do? -> Aug: I'm expecting a payment in GBP, what are the next steps?
+GEN | [card_arrival] | Orig: I haven't gotten my credit card in the mail. -> Aug: I'm still waiting for my credit card to arrive in the mail.
+GEN | [top_up_failed] | Orig: Fix my top up -> Aug: Resolve the issue with my recent top-up attempt
+GEN | [verify_top_up] | Orig: Where's my top up code? -> Aug: I need my top-up confirmation code.
+GEN | [card_arrival] | Orig: Have you sent out my card yet? -> Aug: Has my new card been dispatched to me yet?
+GEN | [exchange_via_app] | Orig: Can i add a new currency to my account? -> Aug: Can I add a new currency to my account through the app?
+GEN | [pending_card_payment] | Orig: Hi, status of one of my card payment is still pending from a while. Please let e know how much time it will take to complete. -> Aug: Hi, I'm still waiting for the status of a pending card payment. Could you please inform me about the expected completion time?
+GEN | [pin_blocked] | Orig: I enetered the wrong information, I need my account unblocked How do I do that? -> Aug: I accidentally entered incorrect details, please help me unblock my account. Can you guide me through the process?
+GEN | [visa_or_mastercard] | Orig: What type of card will I receive? -> Aug: You will receive a Visa or Mastercard.
+GEN | [pending_cash_withdrawal] | Orig: When I used one of the ATMs in the city centre today, I tried to take out some money, but for whatever reason, the machine declined my card. Just checked it out in my account and that amount is still showing as pending! Is there any way that you can cancel this transaction, because I did not receive any money whatsoever from the ATM -> Aug: I attempted to withdraw cash from an ATM in the city centre earlier today, but it was declined. I've checked my account and the transaction is still pending. Can you please cancel this transaction as I didn't receive the cash and it's still showing as pending in my account?
+GEN | [card_payment_fee_charged] | Orig: Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances. -> Aug: I'd like to clarify if there are any extra charges or fees associated with using my credit/debit card for transactions. I noticed a mention of fee-free transactions in the app, but I want to confirm if there are any exceptions or limitations.
+GEN | [unable_to_verify_identity] | Orig: How long will it take to verify my account? -> Aug: We're having trouble verifying your account information, and we need to clarify a few details before we can proceed. Can you please provide additional identification documents to help us confirm your identity?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will there be a charge when money is added to my account? -> Aug: Are there any fees associated with transferring funds from my bank account to top up my account balance?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Dude I put money in the ATM last week but it ain't there! I need the money now figure this out! -> Aug: I made a cash deposit at an ATM last week, but my account balance hasn't been updated yet. Can you please look into this and resolve the issue as soon as possible?
+GEN | [verify_top_up] | Orig: this verifying the top up is annoying -> Aug: This top-up verification process is really frustrating
+GEN | [lost_or_stolen_card] | Orig: Can you tell me the status of my new card? -> Aug: I think I may have misplaced my new card, can you check if it's been reported as lost or stolen?
+GEN | [card_payment_not_recognised] | Orig: I need to freeze my card as soon as possible. I just checked my account and saw that there have been several payments that I don't recognize over the course of a few days. Can we investigate and get my money back? -> Aug: I'm concerned about unauthorized transactions on my account. I've noticed some payments that I didn't make, and I'd like to report them and get my money refunded as soon as possible.
+GEN | [fiat_currency_support] | Orig: What kind of money can I hold? -> Aug: What types of fiat currencies can I store in my account?
+GEN | [receiving_money] | Orig: How can my boss pay me directly to the card? -> Aug: Can I receive a direct deposit from my boss to my debit card?
+GEN | [pending_card_payment] | Orig: There is a payment that has not processed. -> Aug: A payment made using my card has not been successfully processed.
+GEN | [extra_charge_on_statement] | Orig: I had a dollar charged to my account that's still pending and wanted to know what the charge is for? -> Aug: I'm reviewing my recent statement and noticed an extra charge of $1.00 that's still pending. Can you please help me identify what this charge is for?
+GEN | [pending_card_payment] | Orig: There is a pending transaction on my account, what does this mean? -> Aug: I have a pending payment on my card, what's the status of this transaction?
+GEN | [receiving_money] | Orig: Is it ok for a friend to send me money? -> Aug: Can I receive a payment from a friend?
+VAL | [reverted_card_payment?] | NO | Text: I'm having trouble with my card payments being declined when I try to make an online purchase. The payment is initially accepted, but then it's reversed or cancelled later on. Can you help me figure out what's going on?
+VAL | [exchange_via_app] | NO | Text: Can you guide me on how to exchange currency from AUD to GBP using the app?
+VAL | [pending_card_payment] | YES | Text: Why is my card payment still pending and not yet reflected in my account balance?
+VAL | [card_arrival] | YES | Text: Can I request express shipping for my card delivery?
+VAL | [age_limit] | YES | Text: Can I open an account for my minor child?
+VAL | [receiving_money] | NO | Text: Can I deposit my GBP salary directly into my account, or do I need to convert it to a different currency first?
+VAL | [pending_transfer] | YES | Text: I'm still waiting for a transfer to be processed
+VAL | [card_arrival] | YES | Text: I haven't received my new credit card yet.
+VAL | [receiving_money] | NO | Text: I'm expecting a payment in GBP, what are the next steps?
+VAL | [card_arrival] | YES | Text: I'm still waiting for my credit card to arrive in the mail.
+VAL | [top_up_failed] | YES | Text: Resolve the issue with my recent top-up attempt
+VAL | [verify_top_up] | NO | Text: I need my top-up confirmation code.
+VAL | [card_arrival] | YES | Text: Has my new card been dispatched to me yet?
+VAL | [exchange_via_app] | NO | Text: Can I add a new currency to my account through the app?
+VAL | [pending_card_payment] | YES | Text: Hi, I'm still waiting for the status of a pending card payment. Could you please inform me about the expected completion time?
+VAL | [pin_blocked] | YES | Text: I accidentally entered incorrect details, please help me unblock my account. Can you guide me through the process?
+VAL | [visa_or_mastercard] | YES | Text: You will receive a Visa or Mastercard.
+VAL | [pending_cash_withdrawal] | YES | Text: I attempted to withdraw cash from an ATM in the city centre earlier today, but it was declined. I've checked my account and the transaction is still pending. Can you please cancel this transaction as I didn't receive the cash and it's still showing as pending in my account?
+VAL | [card_payment_fee_charged] | NO | Text: I'd like to clarify if there are any extra charges or fees associated with using my credit/debit card for transactions. I noticed a mention of fee-free transactions in the app, but I want to confirm if there are any exceptions or limitations.
+VAL | [unable_to_verify_identity] | NO | Text: We're having trouble verifying your account information, and we need to clarify a few details before we can proceed. Can you please provide additional identification documents to help us confirm your identity?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Are there any fees associated with transferring funds from my bank account to top up my account balance?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I made a cash deposit at an ATM last week, but my account balance hasn't been updated yet. Can you please look into this and resolve the issue as soon as possible?
+VAL | [verify_top_up] | NO | Text: This top-up verification process is really frustrating
+VAL | [lost_or_stolen_card] | NO | Text: I think I may have misplaced my new card, can you check if it's been reported as lost or stolen?
+VAL | [card_payment_not_recognised] | YES | Text: I'm concerned about unauthorized transactions on my account. I've noticed some payments that I didn't make, and I'd like to report them and get my money refunded as soon as possible.
+VAL | [fiat_currency_support] | YES | Text: What types of fiat currencies can I store in my account?
+VAL | [receiving_money] | YES | Text: Can I receive a direct deposit from my boss to my debit card?
+VAL | [pending_card_payment] | YES | Text: A payment made using my card has not been successfully processed.
+VAL | [extra_charge_on_statement] | YES | Text: I'm reviewing my recent statement and noticed an extra charge of $1.00 that's still pending. Can you please help me identify what this charge is for?
+VAL | [pending_card_payment] | YES | Text: I have a pending payment on my card, what's the status of this transaction?
+VAL | [receiving_money] | YES | Text: Can I receive a payment from a friend?

@@ -1,0 +1,76 @@
+GEN | [get_physical_card] | Orig: I don't have a PIN at this point. -> Aug: I'd like to request a physical card to be mailed to me, as I don't have a PIN to access my digital card.
+GEN | [get_physical_card] | Orig: I dont have a pin -> Aug: I need a physical card to access my account.
+GEN | [get_physical_card] | Orig: I can't find the PIN. -> Aug: I need a physical copy of my card to retrieve the PIN.
+GEN | [pin_blocked] | Orig: I have used all of my PIN tries. What should I do now? -> Aug: I've reached the maximum number of PIN attempts. What are my next steps to access my account?
+GEN | [get_physical_card] | Orig: How is the PIN delivered? -> Aug: Can you please provide information on how to obtain my physical credit card?
+GEN | [pin_blocked] | Orig: My PIN has been blocked. -> Aug: I'm unable to access my account because my PIN has been blocked.
+GEN | [pin_blocked] | Orig: My PIN was blocked. -> Aug: My personal identification number has been blocked.
+GEN | [unable_to_verify_identity] | Orig: I have no way to prove my identity. -> Aug: I'm unable to provide the necessary identification documents to verify my identity.
+GEN | [pin_blocked] | Orig: What do I have to do to get my PIN unblocked? -> Aug: How can I resolve the issue with my PIN being blocked?
+GEN | [pin_blocked] | Orig: I forgot what my pin number is and now am blocked can you help me get in? -> Aug: I'm having trouble remembering my PIN and I've been locked out, can you assist me in gaining access?
+GEN | [unable_to_verify_identity] | Orig: There is no way for me to prove my identity. -> Aug: We're having trouble verifying your identity due to insufficient information.
+GEN | [get_physical_card] | Orig: Is my PIN sent separably? -> Aug: Can I request a physical copy of my card, including the PIN, to be mailed to me?
+GEN | [get_physical_card] | Orig: I cannot find my PIN. -> Aug: I'd like to request a replacement physical card with a new PIN.
+GEN | [passcode_forgotten] | Orig: passcode retrieval -> Aug: I forgot my passcode and need help retrieving it.
+GEN | [unable_to_verify_identity] | Orig: I don't have a way to prove my identity. -> Aug: I'm unable to provide the necessary identification documents to verify my identity.
+GEN | [get_physical_card] | Orig: Where is my PIN? -> Aug: I'd be happy to help you with that. Can you please provide me with your card details so I can assist you in retrieving your PIN or sending a new one to your physical address?
+GEN | [lost_or_stolen_phone] | Orig: Can my account me accessed by a thief?  I was mugged. -> Aug: I'm worried that someone might have accessed my account after my phone was stolen during a mugging. Can I take steps to secure my account?
+GEN | [change_pin] | Orig: I think my pin has been compromised, what do I do? -> Aug: I'm concerned that someone may have accessed my account using my current pin, can I change it to a new one?
+GEN | [get_physical_card] | Orig: wheres my pin -> Aug: Can you please provide me with my physical debit/credit card?
+GEN | [get_physical_card] | Orig: Can you deliver the PIN separately? -> Aug: Can you send me the physical card separately?
+GEN | [lost_or_stolen_phone] | Orig: My things were stolen and I need to know if I can still use this app. -> Aug: My phone was stolen and I'm worried about accessing my account through this app. Can I still use it?
+GEN | [pin_blocked] | Orig: Why was my PIN blocked? -> Aug: I'm trying to access my account, but it's saying my PIN is blocked. Can you tell me why?
+GEN | [pin_blocked] | Orig: What do I do if my PIN was blocked? -> Aug: What should I do if my PIN is blocked?
+GEN | [pin_blocked] | Orig: I have exceeded all my PIN tries -> Aug: I've reached the maximum number of PIN attempts
+GEN | [get_physical_card] | Orig: I do not have my pin yet -> Aug: I need to receive my physical card with the PIN.
+GEN | [get_physical_card] | Orig: How do I find the PIN? -> Aug: I'd like to request a physical copy of my card, including the PIN, to be mailed to my address.
+GEN | [get_physical_card] | Orig: I haven't received my PIN yet. Do I need to get it from you? -> Aug: I'm still waiting for my physical card. Can I obtain it from your end?
+GEN | [pin_blocked] | Orig: What should I do if I exceed my PIN tries? -> Aug: If I enter my PIN incorrectly multiple times, what are the next steps I should take?
+GEN | [get_physical_card] | Orig: I can't find my PIN anywhere. -> Aug: I need a replacement physical card with a new PIN.
+GEN | [direct_debit_payment_not_recognised] | Orig: hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent. -> Aug: Hey, I'm concerned about a suspicious transaction on my account. I see a payment from a store that's not near my location, and I'm worried someone might have accessed my card details. Can you help me reverse the charge and refund the amount so I can settle my rent on time?
+GEN | [pin_blocked] | Orig: How can I get my PIN unblocked? -> Aug: What steps can I take to resolve the issue with my blocked PIN?
+GEN | [lost_or_stolen_card] | Orig: I lost my wallet and all my cards were in it. -> Aug: I misplaced my wallet and all my credit cards were inside.
+GEN | [unable_to_verify_identity] | Orig: I need help proving that this is really me and to verify my identity. -> Aug: I'm having trouble confirming my identity and need assistance verifying that I'm the account holder.
+GEN | [get_physical_card] | Orig: Show me where I can see the PIN? -> Aug: I'd be happy to help you locate your physical card to check the PIN. Can you please confirm your account number or card details so I can assist you further?
+GEN | [get_physical_card] | Orig: Is the PIN separately delivered? -> Aug: Can I get my physical card and PIN separately?
+GEN | [why_verify_identity] | Orig: What if I don't verify my identity? -> Aug: What are the consequences if I don't provide the necessary identification documents?
+GEN | [pin_blocked] | Orig: My PIN seems to be blocked, help me access it? -> Aug: I'm having trouble accessing my account because my PIN is blocked, can you assist me in resolving this issue?
+GEN | [unable_to_verify_identity] | Orig: I don't have the means to prove my identity. -> Aug: I'm unable to provide the necessary identification documents to verify my identity.
+VAL | [get_physical_card] | NO | Text: I'd like to request a physical card to be mailed to me, as I don't have a PIN to access my digital card.
+VAL | [get_physical_card] | NO | Text: I need a physical card to access my account.
+VAL | [get_physical_card] | NO | Text: I need a physical copy of my card to retrieve the PIN.
+VAL | [pin_blocked] | YES | Text: I've reached the maximum number of PIN attempts. What are my next steps to access my account?
+VAL | [get_physical_card] | NO | Text: Can you please provide information on how to obtain my physical credit card?
+VAL | [pin_blocked] | YES | Text: I'm unable to access my account because my PIN has been blocked.
+VAL | [pin_blocked] | YES | Text: My personal identification number has been blocked.
+VAL | [unable_to_verify_identity] | YES | Text: I'm unable to provide the necessary identification documents to verify my identity.
+VAL | [pin_blocked] | YES | Text: How can I resolve the issue with my PIN being blocked?
+VAL | [pin_blocked] | YES | Text: I'm having trouble remembering my PIN and I've been locked out, can you assist me in gaining access?
+VAL | [unable_to_verify_identity] | YES | Text: We're having trouble verifying your identity due to insufficient information.
+VAL | [get_physical_card] | NO | Text: Can I request a physical copy of my card, including the PIN, to be mailed to me?
+VAL | [get_physical_card] | NO | Text: I'd like to request a replacement physical card with a new PIN.
+VAL | [passcode_forgotten] | YES | Text: I forgot my passcode and need help retrieving it.
+VAL | [unable_to_verify_identity] | YES | Text: I'm unable to provide the necessary identification documents to verify my identity.
+VAL | [get_physical_card] | NO | Text: I'd be happy to help you with that. Can you please provide me with your card details so I can assist you in retrieving your PIN or sending a new one to your physical address?
+VAL | [lost_or_stolen_phone] | NO | Text: I'm worried that someone might have accessed my account after my phone was stolen during a mugging. Can I take steps to secure my account?
+VAL | [change_pin] | YES | Text: I'm concerned that someone may have accessed my account using my current pin, can I change it to a new one?
+VAL | [get_physical_card] | NO | Text: Can you please provide me with my physical debit/credit card?
+VAL | [get_physical_card] | NO | Text: Can you send me the physical card separately?
+VAL | [lost_or_stolen_phone] | YES | Text: My phone was stolen and I'm worried about accessing my account through this app. Can I still use it?
+VAL | [pin_blocked] | NO | Text: I'm trying to access my account, but it's saying my PIN is blocked. Can you tell me why?
+VAL | [pin_blocked] | YES | Text: What should I do if my PIN is blocked?
+VAL | [pin_blocked] | YES | Text: I've reached the maximum number of PIN attempts
+VAL | [get_physical_card] | NO | Text: I need to receive my physical card with the PIN.
+VAL | [get_physical_card] | NO | Text: I'd like to request a physical copy of my card, including the PIN, to be mailed to my address.
+VAL | [get_physical_card] | YES | Text: I'm still waiting for my physical card. Can I obtain it from your end?
+VAL | [pin_blocked] | NO | Text: If I enter my PIN incorrectly multiple times, what are the next steps I should take?
+VAL | [get_physical_card] | NO | Text: I need a replacement physical card with a new PIN.
+VAL | [direct_debit_payment_not_recognised] | NO | Text: Hey, I'm concerned about a suspicious transaction on my account. I see a payment from a store that's not near my location, and I'm worried someone might have accessed my card details. Can you help me reverse the charge and refund the amount so I can settle my rent on time?
+VAL | [pin_blocked] | YES | Text: What steps can I take to resolve the issue with my blocked PIN?
+VAL | [lost_or_stolen_card] | NO | Text: I misplaced my wallet and all my credit cards were inside.
+VAL | [unable_to_verify_identity] | YES | Text: I'm having trouble confirming my identity and need assistance verifying that I'm the account holder.
+VAL | [get_physical_card] | NO | Text: I'd be happy to help you locate your physical card to check the PIN. Can you please confirm your account number or card details so I can assist you further?
+VAL | [get_physical_card] | NO | Text: Can I get my physical card and PIN separately?
+VAL | [why_verify_identity] | YES | Text: What are the consequences if I don't provide the necessary identification documents?
+VAL | [pin_blocked] | YES | Text: I'm having trouble accessing my account because my PIN is blocked, can you assist me in resolving this issue?
+VAL | [unable_to_verify_identity] | YES | Text: I'm unable to provide the necessary identification documents to verify my identity.

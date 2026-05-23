@@ -1,0 +1,70 @@
+GEN | [order_physical_card] | Orig: How to receive the actual card -> Aug: How can I get my physical credit card delivered to my address?
+GEN | [exchange_via_app] | Orig: Can I use this app for both USD and GBP? -> Aug: Can I use the app to exchange currencies, including USD and GBP?
+GEN | [getting_spare_card] | Orig: I lost my card and need a new one, will it cost me? -> Aug: I misplaced my card and require a replacement, what's the fee for a new one?
+GEN | [cancel_transfer] | Orig: I stupidly initiated a rent payment from the wrong account yesterday. It can't be paid from that account, but it really needs to get paid on time. Am I able to move the payment to the right account? -> Aug: I accidentally set up a transfer from the wrong account for my rent payment yesterday. Since it can't be processed from that account, I'd like to move it to the correct one to avoid any delays.
+GEN | [lost_or_stolen_phone] | Orig: hello I have lost my phone and I'm worried someone's going to steal money from me -> Aug: I've misplaced my phone and I'm concerned that someone might access my account and steal my money.
+GEN | [card_linking] | Orig: How do I link a new payment card? -> Aug: How can I connect a new payment card to my account?
+GEN | [card_not_working] | Orig: How do I re-order a damaged card? -> Aug: I'm having trouble using my card due to a physical issue, can I request a replacement or re-order a new one?
+GEN | [transfer_fee_charged] | Orig: There is a fee from a transfer that is not supposed to be here! -> Aug: I'm showing a transfer fee that shouldn't be there, can you help me understand why it's being charged?
+GEN | [order_physical_card] | Orig: Card delivery services? Where? -> Aug: Can you please provide me with information on your physical card delivery options and estimated delivery times?
+GEN | [order_physical_card] | Orig: Do you ship your cards anywhere? -> Aug: Can you deliver your physical cards to my address?
+GEN | [declined_card_payment] | Orig: My card was not accepted in a shop -> Aug: Your payment was declined at the merchant's location
+GEN | [card_payment_not_recognised] | Orig: Why is there an unknown card payment? -> Aug: We're having trouble recognizing a payment made with a card. Can you please help us identify the issue?
+GEN | [request_refund] | Orig: I'm cancelling this charge. I still have not received what I bought from these people a while ago. -> Aug: I'm requesting a refund for the recent charge as I never received the item I paid for, which was supposed to be delivered a while back.
+GEN | [reverted_card_payment?] | Orig: I tried to use my debit card, but the payment did not work. -> Aug: I attempted to make a payment using my debit card, but the transaction was unsuccessful.
+GEN | [pending_cash_withdrawal] | Orig: How do I get my cash withdrawal to show? -> Aug: Why is my pending cash withdrawal not showing up in my account?
+GEN | [activate_my_card] | Orig: Would you be so kind as to activate my card? Thanks -> Aug: Could you please activate my card for me? I'd greatly appreciate it.
+GEN | [card_arrival] | Orig: I haven't gotten my credit card in the mail. -> Aug: I'm still waiting for my credit card to arrive in the mail.
+GEN | [activate_my_card] | Orig: How long does it take to activate the card, as it does not look like its working? -> Aug: Can you please let me know how long it usually takes to activate a card, as I'm having trouble getting it to work?
+GEN | [verify_my_identity] | Orig: Can I use my social security card as a form of identity? -> Aug: Can I use my social security card as a valid form of identification for verification purposes?
+GEN | [reverted_card_payment?] | Orig: What should I do if my card payment was cancelled? -> Aug: What happens if my card payment was reversed or cancelled?
+GEN | [exchange_via_app] | Orig: Do you support changing the currency I use? -> Aug: Can I switch the currency I'm using in the app?
+GEN | [request_refund] | Orig: I want this fee reversed from my account. -> Aug: I'd like to request a refund of this charge from my account.
+GEN | [getting_spare_card] | Orig: I want a new card -> Aug: I need a replacement card
+GEN | [transfer_fee_charged] | Orig: I got an unexpected charge on my transfers. How can I correct this? -> Aug: I'm concerned about the extra fee I was charged for my recent transfer. Can you help me resolve this issue?
+GEN | [card_payment_wrong_exchange_rate] | Orig: my exchange rate looks wrong for my last payment -> Aug: The exchange rate used for my recent transaction seems incorrect.
+GEN | [transfer_into_account] | Orig: Please provide details on how to top up my account using transfer option -> Aug: Please provide instructions on how to initiate a transfer into my account using the transfer feature
+GEN | [card_linking] | Orig: I don't see my card anywhere in the app. -> Aug: I'm unable to locate my card in the app.
+GEN | [direct_debit_payment_not_recognised] | Orig: I have an unknown charge. -> Aug: I'm showing an unfamiliar debit on my account.
+GEN | [transfer_timing] | Orig: When will the money reach my  account? -> Aug: When can I expect the funds to be deposited into my account?
+GEN | [verify_my_identity] | Orig: What form of identification is accepted? -> Aug: What types of identification documents are accepted for verification purposes?
+GEN | [reverted_card_payment?] | Orig: I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here? -> Aug: I'm trying to understand why the payment I made didn't show up in the seller's account, even though I'm certain it was deducted from my account. Can you help me resolve this issue?
+GEN | [lost_or_stolen_card] | Orig: My card has been stolen. I reported it with the police, but I need to report it with you as well. -> Aug: My credit card has been stolen and I've already filed a report with the authorities. I'd like to report it to your bank as well, please.
+GEN | [lost_or_stolen_card] | Orig: I need to order a new card as my other one was stolen. -> Aug: I'd like to report my card as stolen and request a replacement.
+GEN | [fiat_currency_support] | Orig: Can I have money of different country of origin. -> Aug: Can I obtain currency from various countries?
+GEN | [topping_up_by_card] | Orig: I can't see my top up in my wallet! -> Aug: I'm having trouble finding my recent card top-up in my digital wallet.
+VAL | [order_physical_card] | YES | Text: How can I get my physical credit card delivered to my address?
+VAL | [exchange_via_app] | YES | Text: Can I use the app to exchange currencies, including USD and GBP?
+VAL | [getting_spare_card] | YES | Text: I misplaced my card and require a replacement, what's the fee for a new one?
+VAL | [cancel_transfer] | NO | Text: I accidentally set up a transfer from the wrong account for my rent payment yesterday. Since it can't be processed from that account, I'd like to move it to the correct one to avoid any delays.
+VAL | [lost_or_stolen_phone] | YES | Text: I've misplaced my phone and I'm concerned that someone might access my account and steal my money.
+VAL | [card_linking] | YES | Text: How can I connect a new payment card to my account?
+VAL | [card_not_working] | YES | Text: I'm having trouble using my card due to a physical issue, can I request a replacement or re-order a new one?
+VAL | [transfer_fee_charged] | YES | Text: I'm showing a transfer fee that shouldn't be there, can you help me understand why it's being charged?
+VAL | [order_physical_card] | NO | Text: Can you please provide me with information on your physical card delivery options and estimated delivery times?
+VAL | [order_physical_card] | NO | Text: Can you deliver your physical cards to my address?
+VAL | [declined_card_payment] | YES | Text: Your payment was declined at the merchant's location
+VAL | [card_payment_not_recognised] | NO | Text: We're having trouble recognizing a payment made with a card. Can you please help us identify the issue?
+VAL | [request_refund] | YES | Text: I'm requesting a refund for the recent charge as I never received the item I paid for, which was supposed to be delivered a while back.
+VAL | [reverted_card_payment?] | NO | Text: I attempted to make a payment using my debit card, but the transaction was unsuccessful.
+VAL | [pending_cash_withdrawal] | YES | Text: Why is my pending cash withdrawal not showing up in my account?
+VAL | [activate_my_card] | YES | Text: Could you please activate my card for me? I'd greatly appreciate it.
+VAL | [card_arrival] | YES | Text: I'm still waiting for my credit card to arrive in the mail.
+VAL | [activate_my_card] | YES | Text: Can you please let me know how long it usually takes to activate a card, as I'm having trouble getting it to work?
+VAL | [verify_my_identity] | NO | Text: Can I use my social security card as a valid form of identification for verification purposes?
+VAL | [reverted_card_payment?] | YES | Text: What happens if my card payment was reversed or cancelled?
+VAL | [exchange_via_app] | NO | Text: Can I switch the currency I'm using in the app?
+VAL | [request_refund] | YES | Text: I'd like to request a refund of this charge from my account.
+VAL | [getting_spare_card] | YES | Text: I need a replacement card
+VAL | [transfer_fee_charged] | YES | Text: I'm concerned about the extra fee I was charged for my recent transfer. Can you help me resolve this issue?
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: The exchange rate used for my recent transaction seems incorrect.
+VAL | [transfer_into_account] | YES | Text: Please provide instructions on how to initiate a transfer into my account using the transfer feature
+VAL | [card_linking] | NO | Text: I'm unable to locate my card in the app.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm showing an unfamiliar debit on my account.
+VAL | [transfer_timing] | YES | Text: When can I expect the funds to be deposited into my account?
+VAL | [verify_my_identity] | NO | Text: What types of identification documents are accepted for verification purposes?
+VAL | [reverted_card_payment?] | YES | Text: I'm trying to understand why the payment I made didn't show up in the seller's account, even though I'm certain it was deducted from my account. Can you help me resolve this issue?
+VAL | [lost_or_stolen_card] | YES | Text: My credit card has been stolen and I've already filed a report with the authorities. I'd like to report it to your bank as well, please.
+VAL | [lost_or_stolen_card] | YES | Text: I'd like to report my card as stolen and request a replacement.
+VAL | [fiat_currency_support] | YES | Text: Can I obtain currency from various countries?
+VAL | [topping_up_by_card] | YES | Text: I'm having trouble finding my recent card top-up in my digital wallet.

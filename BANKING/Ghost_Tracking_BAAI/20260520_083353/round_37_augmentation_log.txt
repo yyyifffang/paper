@@ -1,0 +1,72 @@
+GEN | [activate_my_card] | Orig: Tell me how to renew my new card? -> Aug: Can you guide me on how to activate my new credit card?
+GEN | [wrong_amount_of_cash_received] | Orig: Yikes!  I didn't get the amount of money that I requested.  What do I do now? -> Aug: I'm shortchanged! I received less cash than I was supposed to get. Can you help me resolve this issue?
+GEN | [get_physical_card] | Orig: The card PIN is not visible anywhere? -> Aug: I'd be happy to help you with that. Can you please request a physical card replacement or a new card with a new PIN?
+GEN | [automatic_top_up] | Orig: I know there's an auto-top option but I can not locate it when I look? -> Aug: I'm having trouble finding the automatic top-up feature, can you help me locate it?
+GEN | [topping_up_by_card] | Orig: I don't see me 'top up' in my wallet -> Aug: I'm trying to add funds to my account using my card, but I don't see the option
+GEN | [top_up_by_card_charge] | Orig: how should i add money to my card -> Aug: how can i charge my card to add funds?
+GEN | [card_arrival] | Orig: How long should it take for my new card to arrive in them mail? What should I do if I never receive it? -> Aug: When can I expect my new card to arrive by mail? If it doesn't show up, what steps can I take to resolve the issue?
+GEN | [top_up_failed] | Orig: How can correct Top up with the app to work correctly? -> Aug: Why is the top-up process not working properly when I try to use the app?
+GEN | [card_arrival] | Orig: Do you have info about the card on delivery? -> Aug: Can you provide details about the card's delivery status?
+GEN | [pending_cash_withdrawal] | Orig: Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money. -> Aug: I'm reviewing my account and noticed a pending transaction that I didn't complete. I was trying to withdraw cash at an ATM, but the machine declined my card. Can you cancel this pending transaction as I didn't receive the funds and don't want it to go through?
+GEN | [activate_my_card] | Orig: How do I active this card? -> Aug: How do I activate this card?
+GEN | [direct_debit_payment_not_recognised] | Orig: Why is there a direct debit set up in my name? -> Aug: We've received a direct debit instruction that doesn't match any payment plan in your account. Can you please confirm if you've set up a direct debit recently or if you're aware of any unknown transactions?
+GEN | [exchange_rate] | Orig: Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from? -> Aug: Can you please confirm the source of the exchange rate used for the transfer I'm planning to make?
+GEN | [order_physical_card] | Orig: I still don't have a card. How do I get one? -> Aug: I'd like to place an order for a physical credit card. Can you guide me through the process?
+GEN | [contactless_not_working] | Orig: I am having issues using contactless payments, could my card be damaged? -> Aug: I'm having trouble making contactless transactions, is it possible that my card is faulty?
+GEN | [supported_cards_and_currencies] | Orig: I have another card from the U.S. Will you be able to accept that one? -> Aug: I'd like to know if you accept cards from the United States.
+GEN | [getting_spare_card] | Orig: How many different cards can I have for my account? -> Aug: I'd like to know if I can have multiple cards linked to my account.
+GEN | [pending_cash_withdrawal] | Orig: I have the cash already, my account still shows up as pending.  How can my account be still pending? -> Aug: I'm still waiting for the cash withdrawal to be processed, but my account balance still shows it as pending. Can you help me understand why it's taking so long?
+GEN | [passcode_forgotten] | Orig: Can my password be reset if I do not have it? -> Aug: Can I reset my passcode if I've forgotten it?
+GEN | [top_up_by_card_charge] | Orig: What do I need to know about topping up? -> Aug: How can I charge my card to top up my account?
+GEN | [top_up_reverted] | Orig: Do you support top ups? -> Aug: Can I make a top-up payment?
+GEN | [declined_cash_withdrawal] | Orig: I tried to get money out of the Notting Hill ATM earlier, but wasn't able to. Is my card working okay? It's the first time I tried using it. -> Aug: I attempted to withdraw cash from the ATM at Notting Hill, but it was declined. Is there an issue with my card? This is the first time I've tried using it.
+GEN | [supported_cards_and_currencies] | Orig: How can I top up my account and which currency can I use? -> Aug: What payment methods are available for topping up my account, and what currencies are accepted?
+GEN | [passcode_forgotten] | Orig: I can't remember my app code, can you reset it? -> Aug: I forgot my passcode, can you help me reset it?
+GEN | [top_up_failed] | Orig: is there a way to fix my top up -> Aug: can you help me resolve the issue with my recent top-up attempt?
+GEN | [automatic_top_up] | Orig: Can I schedule future top ups? -> Aug: Is it possible to set up recurring automatic top-ups for my account?
+GEN | [country_support] | Orig: Can I use this all over the world? -> Aug: Is this service available globally, or are there any restrictions on its use in different countries?
+GEN | [lost_or_stolen_card] | Orig: I cant find my card. -> Aug: I've misplaced my credit card and I'm worried it might be lost.
+GEN | [card_arrival] | Orig: I want to find out what happened to my new card? -> Aug: I'm trying to locate my recently issued card, could you please help me track its status?
+GEN | [topping_up_by_card] | Orig: My wallet doesn't show my recent top up. -> Aug: I'm unable to see my latest card top-up transaction.
+GEN | [exchange_charge] | Orig: If someone in a different country sends me money, do I have to pay a fee? -> Aug: Can I expect to be charged a fee if someone from another country sends me a payment?
+GEN | [topping_up_by_card] | Orig: I don't see my top up in my wallet. -> Aug: I'm unable to locate the recent card top-up in my digital wallet.
+GEN | [passcode_forgotten] | Orig: I can't log in with this passocde -> Aug: I forgot my passcode and I'm unable to access my account
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Whats wrong with my currency exchange? -> Aug: I'm getting a different exchange rate for my cash withdrawal than I expected.
+GEN | [transfer_not_received_by_recipient] | Orig: I've been waiting since Friday, where is my money? -> Aug: I haven't received the funds I transferred since Friday, can you help me locate the issue?
+GEN | [card_not_working] | Orig: Why won't my card accept any transactions? -> Aug: Why is my card not processing any payments?
+VAL | [activate_my_card] | NO | Text: Can you guide me on how to activate my new credit card?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I'm shortchanged! I received less cash than I was supposed to get. Can you help me resolve this issue?
+VAL | [get_physical_card] | NO | Text: I'd be happy to help you with that. Can you please request a physical card replacement or a new card with a new PIN?
+VAL | [automatic_top_up] | YES | Text: I'm having trouble finding the automatic top-up feature, can you help me locate it?
+VAL | [topping_up_by_card] | NO | Text: I'm trying to add funds to my account using my card, but I don't see the option
+VAL | [top_up_by_card_charge] | YES | Text: how can i charge my card to add funds?
+VAL | [card_arrival] | YES | Text: When can I expect my new card to arrive by mail? If it doesn't show up, what steps can I take to resolve the issue?
+VAL | [top_up_failed] | NO | Text: Why is the top-up process not working properly when I try to use the app?
+VAL | [card_arrival] | NO | Text: Can you provide details about the card's delivery status?
+VAL | [pending_cash_withdrawal] | YES | Text: I'm reviewing my account and noticed a pending transaction that I didn't complete. I was trying to withdraw cash at an ATM, but the machine declined my card. Can you cancel this pending transaction as I didn't receive the funds and don't want it to go through?
+VAL | [activate_my_card] | YES | Text: How do I activate this card?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've received a direct debit instruction that doesn't match any payment plan in your account. Can you please confirm if you've set up a direct debit recently or if you're aware of any unknown transactions?
+VAL | [exchange_rate] | YES | Text: Can you please confirm the source of the exchange rate used for the transfer I'm planning to make?
+VAL | [order_physical_card] | YES | Text: I'd like to place an order for a physical credit card. Can you guide me through the process?
+VAL | [contactless_not_working] | YES | Text: I'm having trouble making contactless transactions, is it possible that my card is faulty?
+VAL | [supported_cards_and_currencies] | NO | Text: I'd like to know if you accept cards from the United States.
+VAL | [getting_spare_card] | NO | Text: I'd like to know if I can have multiple cards linked to my account.
+VAL | [pending_cash_withdrawal] | YES | Text: I'm still waiting for the cash withdrawal to be processed, but my account balance still shows it as pending. Can you help me understand why it's taking so long?
+VAL | [passcode_forgotten] | NO | Text: Can I reset my passcode if I've forgotten it?
+VAL | [top_up_by_card_charge] | YES | Text: How can I charge my card to top up my account?
+VAL | [top_up_reverted] | NO | Text: Can I make a top-up payment?
+VAL | [declined_cash_withdrawal] | YES | Text: I attempted to withdraw cash from the ATM at Notting Hill, but it was declined. Is there an issue with my card? This is the first time I've tried using it.
+VAL | [supported_cards_and_currencies] | YES | Text: What payment methods are available for topping up my account, and what currencies are accepted?
+VAL | [passcode_forgotten] | YES | Text: I forgot my passcode, can you help me reset it?
+VAL | [top_up_failed] | YES | Text: can you help me resolve the issue with my recent top-up attempt?
+VAL | [automatic_top_up] | YES | Text: Is it possible to set up recurring automatic top-ups for my account?
+VAL | [country_support] | YES | Text: Is this service available globally, or are there any restrictions on its use in different countries?
+VAL | [lost_or_stolen_card] | YES | Text: I've misplaced my credit card and I'm worried it might be lost.
+VAL | [card_arrival] | YES | Text: I'm trying to locate my recently issued card, could you please help me track its status?
+VAL | [topping_up_by_card] | YES | Text: I'm unable to see my latest card top-up transaction.
+VAL | [exchange_charge] | NO | Text: Can I expect to be charged a fee if someone from another country sends me a payment?
+VAL | [topping_up_by_card] | YES | Text: I'm unable to locate the recent card top-up in my digital wallet.
+VAL | [passcode_forgotten] | YES | Text: I forgot my passcode and I'm unable to access my account
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I'm getting a different exchange rate for my cash withdrawal than I expected.
+VAL | [transfer_not_received_by_recipient] | YES | Text: I haven't received the funds I transferred since Friday, can you help me locate the issue?
+VAL | [card_not_working] | YES | Text: Why is my card not processing any payments?

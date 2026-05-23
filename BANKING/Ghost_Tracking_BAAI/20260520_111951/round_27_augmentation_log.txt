@@ -1,0 +1,60 @@
+GEN | [verify_top_up] | Orig: What can I do to verify my card? -> Aug: How can I confirm my card details for a successful top-up?
+GEN | [reverted_card_payment?] | Orig: I bought something and already paid for it but now I don't see it. -> Aug: I made a purchase and paid for it, but the item is missing from my account.
+GEN | [card_acceptance] | Orig: Is my card denied anywhere? -> Aug: Have I been declined anywhere with my card?
+GEN | [lost_or_stolen_phone] | Orig: What do I do if I cannot access the app? -> Aug: I've misplaced my phone and can't access the app. What should I do?
+GEN | [pending_card_payment] | Orig: I am waiting for a payment to be processed -> Aug: I'm still waiting for a payment to be cleared
+GEN | [card_payment_fee_charged] | Orig: Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances. -> Aug: I'd like to clarify if there are any extra charges or fees associated with using my credit/debit card for transactions. I noticed a mention of fee-free transactions in the app, but I want to confirm if there are any exceptions or limitations.
+GEN | [exchange_via_app] | Orig: Can I use this app for both USD and GBP? -> Aug: Can I use the app to exchange currencies, including USD and GBP?
+GEN | [exchange_via_app] | Orig: Can i add a new currency to my account? -> Aug: Can I add a new currency to my account through the app?
+GEN | [get_physical_card] | Orig: still need to get card pin -> Aug: I would like to obtain my physical debit/credit card.
+GEN | [beneficiary_not_allowed] | Orig: I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here? -> Aug: I'm having trouble finalizing a transaction because the app won't let me select a beneficiary. Can you help me figure out why I'm being prevented from completing the crypto purchase?
+GEN | [direct_debit_payment_not_recognised] | Orig: Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money. -> Aug: Can I review a past transaction to see who made a withdrawal from my account? I'm not sure if I authorized it, but I'd like to verify who took the money a few weeks ago.
+GEN | [cash_withdrawal_not_recognised] | Orig: A WD was just made on my account, but it was not me and I still have my card.  What to do? -> Aug: A withdrawal was processed on my account, but I didn't authorize it and I still have my card with me. What should I do?
+GEN | [transfer_into_account] | Orig: What transfer methods do you accept? -> Aug: How can I transfer funds into my account?
+GEN | [card_payment_wrong_exchange_rate] | Orig: Does the fee for exchange change? -> Aug: Is the exchange rate fee the same every time I make a payment?
+GEN | [supported_cards_and_currencies] | Orig: I only have a card from the US is that okay? -> Aug: I'm wondering if you accept cards from the United States, please?
+GEN | [extra_charge_on_statement] | Orig: Why is there a pending hold on one pound on my statement? -> Aug: We noticed a small extra charge on your recent statement, and we'd like to clarify the reason behind it. Can you please review your statement and let us know if you have any questions or concerns about the additional fee?
+GEN | [receiving_money] | Orig: My salary is in GBP, do I need to exchange it before putting it into my account? -> Aug: Can I deposit my GBP salary directly into my account, or do I need to convert it to a different currency first?
+GEN | [card_payment_fee_charged] | Orig: Let me know when you charge for payments. I just checked the app and saw a fee that I wasn't warned about. -> Aug: Can you inform me when you'll be charging a fee for the payment? I just checked the app and noticed a fee that I wasn't expecting, and I'd like to know more about it.
+GEN | [lost_or_stolen_phone] | Orig: I misplaced my phone so I can't use the app! Does this mean I can't use my card? -> Aug: I accidentally left my phone at home and now I'm unable to access the app. Can I still use my card for transactions?
+GEN | [top_up_reverted] | Orig: For some reason, the money I added was returned. -> Aug: The funds I attempted to top up were unexpectedly reversed.
+GEN | [exchange_rate] | Orig: How do you do exchanges? -> Aug: What is the current exchange rate for currency conversion?
+GEN | [country_support] | Orig: Can I use my card in Austria? -> Aug: Can I use my card in Austria, or are there any specific restrictions I should be aware of?
+GEN | [fiat_currency_support] | Orig: What kind of money can I hold? -> Aug: What types of fiat currencies can I store in my account?
+GEN | [Refund_not_showing_up] | Orig: When will my returned transaction show up on my account? -> Aug: Why hasn't my refund been credited to my account yet?
+GEN | [card_linking] | Orig: I found my card that I thought I had lost, I need to reactive it, please help. -> Aug: I've located my card that I previously thought was lost, can you assist me in reactivating it?
+GEN | [top_up_by_card_charge] | Orig: should i add money via bank transfer instead -> Aug: can i top up my account using a card charge instead of a bank transfer?
+GEN | [top_up_failed] | Orig: I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please? -> Aug: I attempted to make a payment using my card, but it was declined. I had successfully made a payment a few days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?
+GEN | [age_limit] | Orig: Can I get an account for my son? -> Aug: Can I open an account for my minor child?
+GEN | [declined_card_payment] | Orig: May monthly payment to Apple has been declined but I don't know why, they are going to re-try the payment and it must go through, can you tell me what is going on please? -> Aug: My monthly payment to Apple has been declined, and I'm not sure why. They're going to retry the payment, but I'm concerned it won't go through. Can you help me understand what's happening and ensure the payment is processed successfully?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will there be a charge when money is added to my account? -> Aug: Are there any fees associated with transferring funds from my bank account to top up my account balance?
+VAL | [verify_top_up] | NO | Text: How can I confirm my card details for a successful top-up?
+VAL | [reverted_card_payment?] | YES | Text: I made a purchase and paid for it, but the item is missing from my account.
+VAL | [card_acceptance] | YES | Text: Have I been declined anywhere with my card?
+VAL | [lost_or_stolen_phone] | YES | Text: I've misplaced my phone and can't access the app. What should I do?
+VAL | [pending_card_payment] | YES | Text: I'm still waiting for a payment to be cleared
+VAL | [card_payment_fee_charged] | NO | Text: I'd like to clarify if there are any extra charges or fees associated with using my credit/debit card for transactions. I noticed a mention of fee-free transactions in the app, but I want to confirm if there are any exceptions or limitations.
+VAL | [exchange_via_app] | YES | Text: Can I use the app to exchange currencies, including USD and GBP?
+VAL | [exchange_via_app] | NO | Text: Can I add a new currency to my account through the app?
+VAL | [get_physical_card] | NO | Text: I would like to obtain my physical debit/credit card.
+VAL | [beneficiary_not_allowed] | NO | Text: I'm having trouble finalizing a transaction because the app won't let me select a beneficiary. Can you help me figure out why I'm being prevented from completing the crypto purchase?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: Can I review a past transaction to see who made a withdrawal from my account? I'm not sure if I authorized it, but I'd like to verify who took the money a few weeks ago.
+VAL | [cash_withdrawal_not_recognised] | YES | Text: A withdrawal was processed on my account, but I didn't authorize it and I still have my card with me. What should I do?
+VAL | [transfer_into_account] | YES | Text: How can I transfer funds into my account?
+VAL | [card_payment_wrong_exchange_rate] | NO | Text: Is the exchange rate fee the same every time I make a payment?
+VAL | [supported_cards_and_currencies] | NO | Text: I'm wondering if you accept cards from the United States, please?
+VAL | [extra_charge_on_statement] | NO | Text: We noticed a small extra charge on your recent statement, and we'd like to clarify the reason behind it. Can you please review your statement and let us know if you have any questions or concerns about the additional fee?
+VAL | [receiving_money] | NO | Text: Can I deposit my GBP salary directly into my account, or do I need to convert it to a different currency first?
+VAL | [card_payment_fee_charged] | NO | Text: Can you inform me when you'll be charging a fee for the payment? I just checked the app and noticed a fee that I wasn't expecting, and I'd like to know more about it.
+VAL | [lost_or_stolen_phone] | NO | Text: I accidentally left my phone at home and now I'm unable to access the app. Can I still use my card for transactions?
+VAL | [top_up_reverted] | YES | Text: The funds I attempted to top up were unexpectedly reversed.
+VAL | [exchange_rate] | NO | Text: What is the current exchange rate for currency conversion?
+VAL | [country_support] | NO | Text: Can I use my card in Austria, or are there any specific restrictions I should be aware of?
+VAL | [fiat_currency_support] | YES | Text: What types of fiat currencies can I store in my account?
+VAL | [Refund_not_showing_up] | YES | Text: Why hasn't my refund been credited to my account yet?
+VAL | [card_linking] | NO | Text: I've located my card that I previously thought was lost, can you assist me in reactivating it?
+VAL | [top_up_by_card_charge] | NO | Text: can i top up my account using a card charge instead of a bank transfer?
+VAL | [top_up_failed] | YES | Text: I attempted to make a payment using my card, but it was declined. I had successfully made a payment a few days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?
+VAL | [age_limit] | YES | Text: Can I open an account for my minor child?
+VAL | [declined_card_payment] | YES | Text: My monthly payment to Apple has been declined, and I'm not sure why. They're going to retry the payment, but I'm concerned it won't go through. Can you help me understand what's happening and ensure the payment is processed successfully?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Are there any fees associated with transferring funds from my bank account to top up my account balance?

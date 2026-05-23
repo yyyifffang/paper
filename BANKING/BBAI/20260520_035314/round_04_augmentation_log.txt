@@ -1,0 +1,66 @@
+GEN | [direct_debit_payment_not_recognised] | Orig: I did not set up a direct debit I have -> Aug: I'm not sure if I set up a direct debit, but I'm trying to make a payment
+GEN | [direct_debit_payment_not_recognised] | Orig: I didn't set up the direct debit I have -> Aug: I'm not seeing the direct debit payment I set up
+GEN | [card_payment_not_recognised] | Orig: I didn't do a payment and I have it now. -> Aug: I've made a payment, but it's not showing up in my account.
+GEN | [receiving_money] | Orig: How do I know what my account is set to, I am paid in GBP? -> Aug: How can I confirm my account's currency setting, as I receive payments in GBP?
+GEN | [card_payment_fee_charged] | Orig: how do i avoid charges in the future -> Aug: what can i do to prevent being charged a fee on my next transaction?
+GEN | [automatic_top_up] | Orig: How can I Use thereto-top option? -> Aug: How do I activate the automatic top-up feature?
+GEN | [direct_debit_payment_not_recognised] | Orig: I don't recognise a Direct Debit payment -> Aug: I'm not familiar with a Direct Debit payment that was made
+GEN | [verify_source_of_funds] | Orig: Who is giving me my money? -> Aug: Can you confirm the source of the funds being used for this transaction?
+GEN | [country_support] | Orig: Can I get support? -> Aug: Do you need assistance with a specific country-related inquiry or issue?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you see my new balance yet? -> Aug: Why hasn't my account balance been updated after the recent transfer I made?
+GEN | [supported_cards_and_currencies] | Orig: My card wants to be topped what do you guys support? -> Aug: What payment methods and currencies do you accept for card reloads or top-ups?
+GEN | [contactless_not_working] | Orig: Help me to set up contactless payments. -> Aug: I'm having trouble using contactless payments and need assistance with setting it up.
+GEN | [cash_withdrawal_not_recognised] | Orig: THere is some cash that is showing up on my app. -> Aug: I'm seeing an unexpected cash amount on my account.
+GEN | [receiving_money] | Orig: Please show me how my friend can send me money. -> Aug: Can you guide me through the process of receiving a payment from my friend?
+GEN | [cash_withdrawal_not_recognised] | Orig: Some cash shows up on my app. -> Aug: I'm seeing an unexpected cash withdrawal on my account.
+GEN | [transfer_not_received_by_recipient] | Orig: What is the length of a transaction completion? -> Aug: Why hasn't the recipient received the transferred funds yet?
+GEN | [verify_source_of_funds] | Orig: My funds must be verified -> Aug: We need to confirm the origin of your funds
+GEN | [wrong_amount_of_cash_received] | Orig: Why can't I take $100 out -> Aug: I was expecting to receive $100 but I only got $50.
+GEN | [beneficiary_not_allowed] | Orig: Why can't I buy cryptocurrency on the app? -> Aug: Unfortunately, the beneficiary for this specific transaction is not allowed, which is why you're unable to purchase cryptocurrency on our app.
+GEN | [wrong_amount_of_cash_received] | Orig: It kept my cash -> Aug: You gave me less cash than I deposited
+GEN | [activate_my_card] | Orig: If you to to account, hit activate, and follow the instructions, you can activate it in just a few seconds. -> Aug: Just log in to your account, tap on "Activate" and follow the prompts to activate your card in a few easy steps.
+GEN | [pending_top_up] | Orig: i put money on my card and i dont see it on the balance -> Aug: I added funds to my card, but the amount is not reflecting on my account balance.
+GEN | [top_up_failed] | Orig: I need to add more funds to my card today because it keeps being declined, and I need to use it immediately. Can you fix this or tell me alternatives? -> Aug: I'm having trouble topping up my card, as it's been declined repeatedly, and I urgently need to make a transaction. Can you assist me in resolving this issue or suggest alternative solutions?
+GEN | [direct_debit_payment_not_recognised] | Orig: What do I do if there is an electronic debit that is not correct? -> Aug: I'm having trouble with an electronic direct debit that's not being recognized. What should I do?
+GEN | [top_up_by_cash_or_cheque] | Orig: What is your check-cashing policy? -> Aug: Can I deposit a cheque to top up my account?
+GEN | [lost_or_stolen_card] | Orig: Has there been any activity on my card today? -> Aug: I think I may have misplaced my card, can you check if it's been used recently?
+GEN | [direct_debit_payment_not_recognised] | Orig: I would like to dispute a direct debit transaction -> Aug: I'm trying to resolve an issue with a direct debit payment that was not recognized by my account.
+GEN | [direct_debit_payment_not_recognised] | Orig: I need to dispute a direct debit. -> Aug: I'm trying to resolve an issue with a direct debit payment that wasn't recognized by my account.
+GEN | [receiving_money] | Orig: Do I need to do anything special for my friend to send money to my account? -> Aug: Can I provide my friend with any specific information or instructions to transfer funds to my account?
+GEN | [direct_debit_payment_not_recognised] | Orig: I do not recognize a direct debit payment that I see on my app -> Aug: I'm unable to locate a direct debit payment in my records that I'm seeing on my mobile app.
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow. -> Aug: I need to cancel the transfer I initiated yesterday. Can you please reverse the transaction and make the necessary corrections? I require it to be completed by tomorrow.
+GEN | [receiving_money] | Orig: My friend wants to send me money, can she? -> Aug: Can my friend transfer funds to me?
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction yesterday. Would  you please make it correct?I need it by tomorrow Please. -> Aug: I need to cancel the transfer I initiated yesterday. It was an error on my part. Can you please cancel it and correct the transaction as soon as possible?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: I'm not sure if I set up a direct debit, but I'm trying to make a payment
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm not seeing the direct debit payment I set up
+VAL | [card_payment_not_recognised] | YES | Text: I've made a payment, but it's not showing up in my account.
+VAL | [receiving_money] | YES | Text: How can I confirm my account's currency setting, as I receive payments in GBP?
+VAL | [card_payment_fee_charged] | YES | Text: what can i do to prevent being charged a fee on my next transaction?
+VAL | [automatic_top_up] | YES | Text: How do I activate the automatic top-up feature?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm not familiar with a Direct Debit payment that was made
+VAL | [verify_source_of_funds] | YES | Text: Can you confirm the source of the funds being used for this transaction?
+VAL | [country_support] | NO | Text: Do you need assistance with a specific country-related inquiry or issue?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: Why hasn't my account balance been updated after the recent transfer I made?
+VAL | [supported_cards_and_currencies] | YES | Text: What payment methods and currencies do you accept for card reloads or top-ups?
+VAL | [contactless_not_working] | NO | Text: I'm having trouble using contactless payments and need assistance with setting it up.
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I'm seeing an unexpected cash amount on my account.
+VAL | [receiving_money] | YES | Text: Can you guide me through the process of receiving a payment from my friend?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm seeing an unexpected cash withdrawal on my account.
+VAL | [transfer_not_received_by_recipient] | NO | Text: Why hasn't the recipient received the transferred funds yet?
+VAL | [verify_source_of_funds] | YES | Text: We need to confirm the origin of your funds
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was expecting to receive $100 but I only got $50.
+VAL | [beneficiary_not_allowed] | NO | Text: Unfortunately, the beneficiary for this specific transaction is not allowed, which is why you're unable to purchase cryptocurrency on our app.
+VAL | [wrong_amount_of_cash_received] | NO | Text: You gave me less cash than I deposited
+VAL | [activate_my_card] | YES | Text: Just log in to your account, tap on "Activate" and follow the prompts to activate your card in a few easy steps.
+VAL | [pending_top_up] | YES | Text: I added funds to my card, but the amount is not reflecting on my account balance.
+VAL | [top_up_failed] | YES | Text: I'm having trouble topping up my card, as it's been declined repeatedly, and I urgently need to make a transaction. Can you assist me in resolving this issue or suggest alternative solutions?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm having trouble with an electronic direct debit that's not being recognized. What should I do?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I deposit a cheque to top up my account?
+VAL | [lost_or_stolen_card] | NO | Text: I think I may have misplaced my card, can you check if it's been used recently?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm trying to resolve an issue with a direct debit payment that was not recognized by my account.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm trying to resolve an issue with a direct debit payment that wasn't recognized by my account.
+VAL | [receiving_money] | YES | Text: Can I provide my friend with any specific information or instructions to transfer funds to my account?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm unable to locate a direct debit payment in my records that I'm seeing on my mobile app.
+VAL | [cancel_transfer] | YES | Text: I need to cancel the transfer I initiated yesterday. Can you please reverse the transaction and make the necessary corrections? I require it to be completed by tomorrow.
+VAL | [receiving_money] | YES | Text: Can my friend transfer funds to me?
+VAL | [cancel_transfer] | YES | Text: I need to cancel the transfer I initiated yesterday. It was an error on my part. Can you please cancel it and correct the transaction as soon as possible?

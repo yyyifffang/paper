@@ -1,0 +1,62 @@
+GEN | [card_linking] | Orig: I have one of your cards, but I don't know how to link it. -> Aug: I'm trying to connect my card to your system, but I'm having trouble figuring out how to link it.
+GEN | [transaction_charged_twice] | Orig: Why does my statement show various transaction times? -> Aug: I'm showing multiple transaction dates on my statement, what's going on?
+GEN | [card_payment_not_recognised] | Orig: I do not recognise the card payment. -> Aug: I'm not familiar with the card payment that was made.
+GEN | [wrong_amount_of_cash_received] | Orig: The machine only paid me a hundred when I wanted 20 -> Aug: The ATM dispensed a smaller amount than I expected, I was supposed to receive 20 but got only 100.
+GEN | [pending_transfer] | Orig: Hey I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It's not that difficult to transfer money to another country in 2018 is it? -> Aug: I've rechecked my account information, and everything is accurate. The transfer has been pending for an eternity. Can you please expedite the international transfer process? It's surprising that it's taking so long in this day and age.
+GEN | [card_payment_not_recognised] | Orig: my statement contains an unknown payment -> Aug: I'm trying to reconcile my statement, but there's a payment listed that I don't recognize.
+GEN | [card_payment_not_recognised] | Orig: where is my unknown payment from? -> Aug: I'm trying to locate a payment that was made using an unrecognized card.
+GEN | [card_delivery_estimate] | Orig: Can I have it by a certain date? -> Aug: Can you provide an estimated delivery date for my card?
+GEN | [card_arrival] | Orig: can you share card tracking number? -> Aug: can you provide the tracking number for my card delivery?
+GEN | [extra_charge_on_statement] | Orig: I still have not received an answer as to why I was charged $1.00 in a transaction? -> Aug: I'm still waiting to understand why I was unexpectedly charged $1.00 on my recent statement.
+GEN | [transfer_timing] | Orig: How do i transfer something faster than normal? -> Aug: Can you tell me if there's a way to expedite the transfer process or make it happen sooner than the usual timeframe?
+GEN | [reverted_card_payment?] | Orig: Why have I received a rebate for my payment after a week? -> Aug: I'm showing a reversed payment on my account, can you explain why I got a refund for a transaction I made last week?
+GEN | [transaction_charged_twice] | Orig: My card is showing the same transaction over and over again. -> Aug: I've noticed that I've been charged multiple times for the same transaction.
+GEN | [transfer_fee_charged] | Orig: Next time maybe let people know that buying things from another country costs extra. I used my card to purchase an item from another country and I was charged for the item and also an extra fee it looks like. I wasnt aware of this and I think I should get a refund. -> Aug: I recently made an international purchase using my card, but I wasn't informed about the additional fee. I was charged for the item and the fee, which I think is unfair. Can I get a refund for the extra charge?
+GEN | [declined_transfer] | Orig: I'm having issues with my card. You guys keep declining it for some reason. I haven't had any issues up until this point. What is going on? I've tried a handful of times with the same, unfortunate, result! -> Aug: I'm having trouble with my card transaction. It keeps getting declined, and I'm not sure why. I've never had any issues with it before, but now it's consistently being rejected. Can you help me figure out what's going on?
+GEN | [declined_card_payment] | Orig: I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why. -> Aug: I'm having trouble with my card, it keeps getting declined when I try to make a purchase. I've tried a few times and it's been rejected every time. Can you help me figure out why this is happening?
+GEN | [card_payment_not_recognised] | Orig: I do not recognise this card payment. -> Aug: I'm not familiar with this card payment.
+GEN | [cash_withdrawal_not_recognised] | Orig: Help!  The app says I took out cash but I didn't! -> Aug: I'm confused, my account shows a cash withdrawal, but I'm certain I didn't make one.
+GEN | [declined_transfer] | Orig: I'm trying to move money from my account to elsewhere, but it's giving me an error message. -> Aug: I'm attempting to initiate a transfer from my account to another account, but I'm receiving an error message.
+GEN | [extra_charge_on_statement] | Orig: There is a  €1 fee on my account I didn't authorize -> Aug: I noticed an unexpected €1 charge on my statement that I didn't approve
+GEN | [visa_or_mastercard] | Orig: Why did I get a different card then requested? -> Aug: I was expecting a specific type of card, but I received a different one. Can you help me understand why?
+GEN | [transfer_fee_charged] | Orig: who charged my card -> Aug: who is responsible for the fee charged to my card
+GEN | [pending_cash_withdrawal] | Orig: Hello, I'm having trouble with my card, I don't understand what's happening, I tried using the ATM machine earlier but it wasn't working but seems like the transactions is still in progress, can you cancel it for me? -> Aug: I'm having issues with my card, I'm not sure what's going on, I attempted to use the ATM earlier but it didn't work, and it appears that the transaction is still pending, could you please cancel it for me?
+GEN | [transfer_not_received_by_recipient] | Orig: I sent money to my family last Friday but they don't have it. -> Aug: I transferred funds to my relative on Friday, but they're still waiting to receive it.
+GEN | [transfer_not_received_by_recipient] | Orig: I am just waiting on the completion of the transaction. -> Aug: I'm still waiting for the transfer to be received by the recipient.
+GEN | [reverted_card_payment?] | Orig: Please help me with my card payments which keeps getting reverted whenever i do online shopping. I am having this problem since last two weeks. -> Aug: I'm experiencing an issue with my card payments being reverted every time I make an online purchase. This has been happening for the past two weeks, and I'm not sure why it's happening. Can you please assist me in resolving this issue?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Help me find the transfer that I did. -> Aug: I'm trying to locate the recent bank transfer that I made, but my account balance isn't reflecting the updated amount.
+GEN | [getting_spare_card] | Orig: My daughter would like a card from my account?  Can I do this? -> Aug: I'd like to request a replacement card for my account, is that possible?
+GEN | [declined_cash_withdrawal] | Orig: I can't get any money from my account. -> Aug: I'm unable to access my available funds for a cash withdrawal.
+GEN | [card_payment_not_recognised] | Orig: Is there any way to know how the transaction got on my account? -> Aug: I'm trying to figure out why a recent payment didn't show up on my account statement.
+GEN | [card_linking] | Orig: What do I do if I already had a card with you guys? -> Aug: I already have a card with your bank, what's the next step?
+VAL | [card_linking] | YES | Text: I'm trying to connect my card to your system, but I'm having trouble figuring out how to link it.
+VAL | [transaction_charged_twice] | YES | Text: I'm showing multiple transaction dates on my statement, what's going on?
+VAL | [card_payment_not_recognised] | YES | Text: I'm not familiar with the card payment that was made.
+VAL | [wrong_amount_of_cash_received] | YES | Text: The ATM dispensed a smaller amount than I expected, I was supposed to receive 20 but got only 100.
+VAL | [pending_transfer] | YES | Text: I've rechecked my account information, and everything is accurate. The transfer has been pending for an eternity. Can you please expedite the international transfer process? It's surprising that it's taking so long in this day and age.
+VAL | [card_payment_not_recognised] | YES | Text: I'm trying to reconcile my statement, but there's a payment listed that I don't recognize.
+VAL | [card_payment_not_recognised] | NO | Text: I'm trying to locate a payment that was made using an unrecognized card.
+VAL | [card_delivery_estimate] | YES | Text: Can you provide an estimated delivery date for my card?
+VAL | [card_arrival] | YES | Text: can you provide the tracking number for my card delivery?
+VAL | [extra_charge_on_statement] | YES | Text: I'm still waiting to understand why I was unexpectedly charged $1.00 on my recent statement.
+VAL | [transfer_timing] | YES | Text: Can you tell me if there's a way to expedite the transfer process or make it happen sooner than the usual timeframe?
+VAL | [reverted_card_payment?] | YES | Text: I'm showing a reversed payment on my account, can you explain why I got a refund for a transaction I made last week?
+VAL | [transaction_charged_twice] | YES | Text: I've noticed that I've been charged multiple times for the same transaction.
+VAL | [transfer_fee_charged] | YES | Text: I recently made an international purchase using my card, but I wasn't informed about the additional fee. I was charged for the item and the fee, which I think is unfair. Can I get a refund for the extra charge?
+VAL | [declined_transfer] | YES | Text: I'm having trouble with my card transaction. It keeps getting declined, and I'm not sure why. I've never had any issues with it before, but now it's consistently being rejected. Can you help me figure out what's going on?
+VAL | [declined_card_payment] | YES | Text: I'm having trouble with my card, it keeps getting declined when I try to make a purchase. I've tried a few times and it's been rejected every time. Can you help me figure out why this is happening?
+VAL | [card_payment_not_recognised] | YES | Text: I'm not familiar with this card payment.
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm confused, my account shows a cash withdrawal, but I'm certain I didn't make one.
+VAL | [declined_transfer] | NO | Text: I'm attempting to initiate a transfer from my account to another account, but I'm receiving an error message.
+VAL | [extra_charge_on_statement] | YES | Text: I noticed an unexpected €1 charge on my statement that I didn't approve
+VAL | [visa_or_mastercard] | NO | Text: I was expecting a specific type of card, but I received a different one. Can you help me understand why?
+VAL | [transfer_fee_charged] | YES | Text: who is responsible for the fee charged to my card
+VAL | [pending_cash_withdrawal] | YES | Text: I'm having issues with my card, I'm not sure what's going on, I attempted to use the ATM earlier but it didn't work, and it appears that the transaction is still pending, could you please cancel it for me?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I transferred funds to my relative on Friday, but they're still waiting to receive it.
+VAL | [transfer_not_received_by_recipient] | YES | Text: I'm still waiting for the transfer to be received by the recipient.
+VAL | [reverted_card_payment?] | NO | Text: I'm experiencing an issue with my card payments being reverted every time I make an online purchase. This has been happening for the past two weeks, and I'm not sure why it's happening. Can you please assist me in resolving this issue?
+VAL | [balance_not_updated_after_bank_transfer] | NO | Text: I'm trying to locate the recent bank transfer that I made, but my account balance isn't reflecting the updated amount.
+VAL | [getting_spare_card] | NO | Text: I'd like to request a replacement card for my account, is that possible?
+VAL | [declined_cash_withdrawal] | YES | Text: I'm unable to access my available funds for a cash withdrawal.
+VAL | [card_payment_not_recognised] | YES | Text: I'm trying to figure out why a recent payment didn't show up on my account statement.
+VAL | [card_linking] | YES | Text: I already have a card with your bank, what's the next step?

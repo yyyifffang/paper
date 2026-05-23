@@ -1,0 +1,70 @@
+GEN | [transfer_fee_charged] | Orig: I have a fee listed for a transfer. -> Aug: I'm showing a fee associated with the transfer.
+GEN | [card_payment_fee_charged] | Orig: What can i pay with out  fees -> Aug: Can I make a payment without incurring any charges or fees on my card?
+GEN | [wrong_amount_of_cash_received] | Orig: I couldn't get the money I needed. -> Aug: I was shortchanged on the cash I received.
+GEN | [top_up_failed] | Orig: I added funds to my account but the app didn't process it. -> Aug: I attempted to make a deposit into my account, but the transaction was not successfully processed.
+GEN | [order_physical_card] | Orig: I would like a card please. -> Aug: I'd like to order a physical credit card.
+GEN | [card_linking] | Orig: What do I do if I already had a card with you guys? -> Aug: I already have a card with your bank, what's the next step?
+GEN | [transfer_fee_charged] | Orig: Should I be seeing a fee applied for my money transfer? -> Aug: Can I expect to be charged a fee for the transfer of funds I initiated?
+GEN | [transfer_fee_charged] | Orig: Transfers are supposed to be free.  I just got a fee tacked on  to something I bought abroad.  Not cool.  Figure out how to remove it. -> Aug: I'm surprised to see a fee added to my international transfer. Can you help me understand why this charge was applied and how to have it reversed?
+GEN | [cancel_transfer] | Orig: I goofed up and used the wrong account.  Please help. -> Aug: I accidentally selected the wrong account for the transfer. Can you assist me in canceling the transaction?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can third party fees affect a transfer? -> Aug: Are there any bank transfer charges or fees associated with topping up my account via bank transfer?
+GEN | [card_payment_fee_charged] | Orig: Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances. -> Aug: I'd like to clarify if there are any extra charges or fees associated with using my credit/debit card for transactions. I noticed a mention of fee-free transactions in the app, but I want to confirm if there are any exceptions or limitations.
+GEN | [transfer_fee_charged] | Orig: Why was money taken for a transfer? -> Aug: I was charged a fee for the transfer, can you explain why?
+GEN | [declined_cash_withdrawal] | Orig: How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this? -> Aug: I'm sorry to hear that you're having trouble withdrawing cash from an ATM using your card. It's possible that your card has been declined due to insufficient funds or a technical issue. Can you please check your account balance and ensure that you have sufficient funds available for the withdrawal? If the issue persists, you may want to try contacting our customer service team to report the issue and we can assist you further.
+GEN | [card_payment_fee_charged] | Orig: Let me know when you charge for payments. I just checked the app and saw a fee that I wasn't warned about. -> Aug: Can you inform me when you'll be charging a fee for the payment? I just checked the app and noticed a fee that I wasn't expecting, and I'd like to know more about it.
+GEN | [declined_cash_withdrawal] | Orig: Why can I not take out cash? -> Aug: Why was my cash withdrawal request declined?
+GEN | [request_refund] | Orig: Is there a way you can have money from a purchase I made refunded to my account. -> Aug: Can you assist me with a refund for a recent purchase I made, and have the amount credited back to my account?
+GEN | [Refund_not_showing_up] | Orig: Can I check my recent refund in my statement? -> Aug: I'm trying to locate my recent refund in my account statement, but it's not showing up. Can you help me investigate?
+GEN | [beneficiary_not_allowed] | Orig: Are there restrictions to transfers to certain accounts? -> Aug: Can I transfer funds to a specific account, or are there limitations on the recipient's account type or institution?
+GEN | [automatic_top_up] | Orig: Can I add money in intervals to my account?  I will be traveling. -> Aug: Can I set up recurring automatic transfers to my account to ensure I have a steady balance while I'm away on my trip?
+GEN | [transfer_timing] | Orig: How long will I have to wait for my money to be in my account? -> Aug: When can I expect the funds to be available in my account after the transfer is initiated?
+GEN | [verify_top_up] | Orig: For what reason must I authenticate the top up? -> Aug: Why do I need to confirm the top-up details?
+GEN | [exchange_via_app] | Orig: Is there a way to make my money usable in another country? -> Aug: Can I use your app to exchange my money for a different currency when traveling abroad?
+GEN | [pending_card_payment] | Orig: I don't know what pending transaction means. -> Aug: I'm not sure what the pending payment on my card is for.
+GEN | [topping_up_by_card] | Orig: My top up isn't in my wallet. -> Aug: My card balance isn't showing the recent top-up.
+GEN | [card_payment_fee_charged] | Orig: I am angry that I got charged for using my card. -> Aug: I'm frustrated because I was unexpectedly charged a fee for making a transaction with my credit card.
+GEN | [request_refund] | Orig: I received the wrong color and size, can I return it? -> Aug: I'd like to initiate a return for the incorrect item, as it's not the correct color and size I ordered.
+GEN | [cancel_transfer] | Orig: I made a transaction, but I made it to an account I didn't mean to make it to. -> Aug: I accidentally sent a transfer to the wrong account and would like to cancel it.
+GEN | [declined_cash_withdrawal] | Orig: Why can't I get cash out? -> Aug: Can you tell me why my cash withdrawal was declined?
+GEN | [order_physical_card] | Orig: Can I revive a physical card. -> Aug: Can I reorder a physical credit card?
+GEN | [top_up_by_cash_or_cheque] | Orig: Do you accept cash? -> Aug: Can I make a cash deposit to top up my account?
+GEN | [country_support] | Orig: where do you have locations at -> Aug: which countries do you operate in?
+GEN | [cancel_transfer] | Orig: Can I stop a transaction? -> Aug: Can I cancel a transfer?
+GEN | [get_physical_card] | Orig: I signed up, but don't have a PIN. Where can I find it? -> Aug: I'd like to retrieve my physical card, as I don't have the PIN. Can you guide me on how to obtain it?
+GEN | [pending_transfer] | Orig: When will the transaction post to my account? -> Aug: When will the transfer be processed and reflected in my account balance?
+GEN | [get_physical_card] | Orig: my pin hasn't arrived in the post! How do I cancel it or get a new one? -> Aug: I've lost my physical card and need a replacement. Can I request a new one or cancel the original one that was sent to me?
+VAL | [transfer_fee_charged] | YES | Text: I'm showing a fee associated with the transfer.
+VAL | [card_payment_fee_charged] | NO | Text: Can I make a payment without incurring any charges or fees on my card?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was shortchanged on the cash I received.
+VAL | [top_up_failed] | YES | Text: I attempted to make a deposit into my account, but the transaction was not successfully processed.
+VAL | [order_physical_card] | YES | Text: I'd like to order a physical credit card.
+VAL | [card_linking] | YES | Text: I already have a card with your bank, what's the next step?
+VAL | [transfer_fee_charged] | YES | Text: Can I expect to be charged a fee for the transfer of funds I initiated?
+VAL | [transfer_fee_charged] | NO | Text: I'm surprised to see a fee added to my international transfer. Can you help me understand why this charge was applied and how to have it reversed?
+VAL | [cancel_transfer] | YES | Text: I accidentally selected the wrong account for the transfer. Can you assist me in canceling the transaction?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Are there any bank transfer charges or fees associated with topping up my account via bank transfer?
+VAL | [card_payment_fee_charged] | NO | Text: I'd like to clarify if there are any extra charges or fees associated with using my credit/debit card for transactions. I noticed a mention of fee-free transactions in the app, but I want to confirm if there are any exceptions or limitations.
+VAL | [transfer_fee_charged] | NO | Text: I was charged a fee for the transfer, can you explain why?
+VAL | [declined_cash_withdrawal] | NO | Text: I'm sorry to hear that you're having trouble withdrawing cash from an ATM using your card. It's possible that your card has been declined due to insufficient funds or a technical issue. Can you please check your account balance and ensure that you have sufficient funds available for the withdrawal? If the issue persists, you may want to try contacting our customer service team to report the issue and we can assist you further.
+VAL | [card_payment_fee_charged] | NO | Text: Can you inform me when you'll be charging a fee for the payment? I just checked the app and noticed a fee that I wasn't expecting, and I'd like to know more about it.
+VAL | [declined_cash_withdrawal] | YES | Text: Why was my cash withdrawal request declined?
+VAL | [request_refund] | YES | Text: Can you assist me with a refund for a recent purchase I made, and have the amount credited back to my account?
+VAL | [Refund_not_showing_up] | YES | Text: I'm trying to locate my recent refund in my account statement, but it's not showing up. Can you help me investigate?
+VAL | [beneficiary_not_allowed] | NO | Text: Can I transfer funds to a specific account, or are there limitations on the recipient's account type or institution?
+VAL | [automatic_top_up] | YES | Text: Can I set up recurring automatic transfers to my account to ensure I have a steady balance while I'm away on my trip?
+VAL | [transfer_timing] | NO | Text: When can I expect the funds to be available in my account after the transfer is initiated?
+VAL | [verify_top_up] | YES | Text: Why do I need to confirm the top-up details?
+VAL | [exchange_via_app] | NO | Text: Can I use your app to exchange my money for a different currency when traveling abroad?
+VAL | [pending_card_payment] | YES | Text: I'm not sure what the pending payment on my card is for.
+VAL | [topping_up_by_card] | YES | Text: My card balance isn't showing the recent top-up.
+VAL | [card_payment_fee_charged] | YES | Text: I'm frustrated because I was unexpectedly charged a fee for making a transaction with my credit card.
+VAL | [request_refund] | YES | Text: I'd like to initiate a return for the incorrect item, as it's not the correct color and size I ordered.
+VAL | [cancel_transfer] | YES | Text: I accidentally sent a transfer to the wrong account and would like to cancel it.
+VAL | [declined_cash_withdrawal] | YES | Text: Can you tell me why my cash withdrawal was declined?
+VAL | [order_physical_card] | NO | Text: Can I reorder a physical credit card?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I make a cash deposit to top up my account?
+VAL | [country_support] | YES | Text: which countries do you operate in?
+VAL | [cancel_transfer] | YES | Text: Can I cancel a transfer?
+VAL | [get_physical_card] | NO | Text: I'd like to retrieve my physical card, as I don't have the PIN. Can you guide me on how to obtain it?
+VAL | [pending_transfer] | NO | Text: When will the transfer be processed and reflected in my account balance?
+VAL | [get_physical_card] | NO | Text: I've lost my physical card and need a replacement. Can I request a new one or cancel the original one that was sent to me?

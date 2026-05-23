@@ -1,0 +1,60 @@
+GEN | [cash_withdrawal_charge] | Orig: How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month. -> Aug: What are the fees associated with cash withdrawals, and is there a daily or monthly limit on the amount I can withdraw before incurring charges?
+GEN | [wrong_amount_of_cash_received] | Orig: i did not get any money but still was charged -> Aug: i was expecting to receive a certain amount of cash, but instead, I didn't receive any and was still charged
+GEN | [reverted_card_payment?] | Orig: Why have I received a rebate for my payment after a week? -> Aug: I'm showing a reversed payment on my account, can you explain why I got a refund for a transaction I made last week?
+GEN | [extra_charge_on_statement] | Orig: The $1.00 has still not been reverted as indicated in the previous email. -> Aug: We have not yet reversed the $1.00 charge as previously discussed.
+GEN | [exchange_charge] | Orig: Do I have to pay more for exchanges? -> Aug: Can I expect an additional fee for exchanging my item?
+GEN | [pending_card_payment] | Orig: My card has been pending for a while, what should I do? -> Aug: My payment is still pending, can you help me resolve the issue?
+GEN | [exchange_via_app] | Orig: Can I use this app to change money? -> Aug: Can I make an exchange using this mobile app?
+GEN | [top_up_by_cash_or_cheque] | Orig: Do you take checks? -> Aug: Can I deposit a cheque to top up my account?
+GEN | [top_up_by_card_charge] | Orig: I am wanting to refill my card, is there a charge? -> Aug: I'd like to add funds to my card, will there be a charge for this transaction?
+GEN | [get_disposable_virtual_card] | Orig: how do the cards work? -> Aug: Can you explain how disposable virtual cards work and how I can obtain one?
+GEN | [direct_debit_payment_not_recognised] | Orig: I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain? -> Aug: I'm reviewing my account activity and noticed a transaction from a few weeks ago that I don't recognize. The merchant's name is unfamiliar to me, and I'm not sure if I authorized the charge. Can you help me investigate this transaction and verify if it was a legitimate payment or not?
+GEN | [direct_debit_payment_not_recognised] | Orig: I was checking the app for my account and I noticed there is an authorized charge on it.  I haven't used my card today, so I know I didn't do it.  I would like the transaction reversed and the money replaced. -> Aug: I'm reviewing my account activity and I've found an unexpected direct debit payment. I'm certain I didn't initiate the transaction, so I'd appreciate it if you could investigate and reverse the charge, returning the funds to my account.
+GEN | [card_payment_not_recognised] | Orig: There are charges on my card from the past few day I am pretty sure I didnt make, can you please freeze it for me? How do I get my money returned since it wasnt me? -> Aug: I'm showing an unusual transaction on my card from the recent past, and I'm certain I didn't authorize it. Can you please put a hold on it? How do I get my money back since it's not my transaction?
+GEN | [transfer_fee_charged] | Orig: I shouldn't be charged any fee for transferring . -> Aug: I'm surprised to see a fee applied to my transfer.
+GEN | [top_up_by_cash_or_cheque] | Orig: Do you accept cash? -> Aug: Can I make a cash deposit to top up my account?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are you going to charge me to collect the money? -> Aug: Will there be a fee for processing the bank transfer for my top-up?
+GEN | [terminate_account] | Orig: i'm not satisfied with the services and no longer want to be a customer -> Aug: I'm unhappy with the services and would like to cancel my account.
+GEN | [reverted_card_payment?] | Orig: I tried to buy something online but my funds were transferred back to my account. What is happening? -> Aug: I made an online purchase, but the payment was reversed and the amount was credited back to my account. Can you help me understand why this happened?
+GEN | [card_arrival] | Orig: I don't have my card after 1 week. What are my next steps? -> Aug: I haven't received my card yet, and it's been a week. What should I do next?
+GEN | [card_payment_not_recognised] | Orig: I didn't make a payment at this business. -> Aug: I attempted to make a payment at this merchant, but it was not successfully processed.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Is there a charge for getting my money? -> Aug: Are there any fees associated with transferring funds to top up my account?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I going to be charged for receiving  money? -> Aug: Will there be any fees associated with receiving a bank transfer to top up my account?
+GEN | [compromised_card] | Orig: Should I order a new card before I freeze my original one? -> Aug: Should I request a replacement card before reporting my original card as lost or stolen?
+GEN | [card_payment_fee_charged] | Orig: Is there an allowance on cards? -> Aug: Are there any exceptions or waivers for card payment fees?
+GEN | [pending_top_up] | Orig: Can you tell me why my pop-up is still pending? -> Aug: Why is my pending top-up still not processed?
+GEN | [card_arrival] | Orig: Was there a way for me to get tracking for that? -> Aug: Can I get an update on the status of my card delivery?
+GEN | [declined_card_payment] | Orig: I could not use my card in a store. -> Aug: Your card was declined during the transaction at the store.
+GEN | [transaction_charged_twice] | Orig: Why does my statement show various transaction times? -> Aug: I'm showing multiple transaction dates on my statement, what's going on?
+GEN | [card_payment_not_recognised] | Orig: I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card. -> Aug: I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can you help me reverse these charges? Additionally, I'd like to temporarily suspend my card to prevent any further transactions.
+GEN | [transaction_charged_twice] | Orig: Can you explain the various transaction times shown on my statement? -> Aug: Why are there multiple transaction dates listed on my statement, and what does it mean when I've been charged twice for the same transaction?
+VAL | [cash_withdrawal_charge] | NO | Text: What are the fees associated with cash withdrawals, and is there a daily or monthly limit on the amount I can withdraw before incurring charges?
+VAL | [wrong_amount_of_cash_received] | YES | Text: i was expecting to receive a certain amount of cash, but instead, I didn't receive any and was still charged
+VAL | [reverted_card_payment?] | YES | Text: I'm showing a reversed payment on my account, can you explain why I got a refund for a transaction I made last week?
+VAL | [extra_charge_on_statement] | NO | Text: We have not yet reversed the $1.00 charge as previously discussed.
+VAL | [exchange_charge] | YES | Text: Can I expect an additional fee for exchanging my item?
+VAL | [pending_card_payment] | YES | Text: My payment is still pending, can you help me resolve the issue?
+VAL | [exchange_via_app] | YES | Text: Can I make an exchange using this mobile app?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I deposit a cheque to top up my account?
+VAL | [top_up_by_card_charge] | YES | Text: I'd like to add funds to my card, will there be a charge for this transaction?
+VAL | [get_disposable_virtual_card] | NO | Text: Can you explain how disposable virtual cards work and how I can obtain one?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm reviewing my account activity and noticed a transaction from a few weeks ago that I don't recognize. The merchant's name is unfamiliar to me, and I'm not sure if I authorized the charge. Can you help me investigate this transaction and verify if it was a legitimate payment or not?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm reviewing my account activity and I've found an unexpected direct debit payment. I'm certain I didn't initiate the transaction, so I'd appreciate it if you could investigate and reverse the charge, returning the funds to my account.
+VAL | [card_payment_not_recognised] | YES | Text: I'm showing an unusual transaction on my card from the recent past, and I'm certain I didn't authorize it. Can you please put a hold on it? How do I get my money back since it's not my transaction?
+VAL | [transfer_fee_charged] | NO | Text: I'm surprised to see a fee applied to my transfer.
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I make a cash deposit to top up my account?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Will there be a fee for processing the bank transfer for my top-up?
+VAL | [terminate_account] | YES | Text: I'm unhappy with the services and would like to cancel my account.
+VAL | [reverted_card_payment?] | YES | Text: I made an online purchase, but the payment was reversed and the amount was credited back to my account. Can you help me understand why this happened?
+VAL | [card_arrival] | YES | Text: I haven't received my card yet, and it's been a week. What should I do next?
+VAL | [card_payment_not_recognised] | YES | Text: I attempted to make a payment at this merchant, but it was not successfully processed.
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Are there any fees associated with transferring funds to top up my account?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Will there be any fees associated with receiving a bank transfer to top up my account?
+VAL | [compromised_card] | YES | Text: Should I request a replacement card before reporting my original card as lost or stolen?
+VAL | [card_payment_fee_charged] | NO | Text: Are there any exceptions or waivers for card payment fees?
+VAL | [pending_top_up] | YES | Text: Why is my pending top-up still not processed?
+VAL | [card_arrival] | NO | Text: Can I get an update on the status of my card delivery?
+VAL | [declined_card_payment] | YES | Text: Your card was declined during the transaction at the store.
+VAL | [transaction_charged_twice] | YES | Text: I'm showing multiple transaction dates on my statement, what's going on?
+VAL | [card_payment_not_recognised] | NO | Text: I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can you help me reverse these charges? Additionally, I'd like to temporarily suspend my card to prevent any further transactions.
+VAL | [transaction_charged_twice] | NO | Text: Why are there multiple transaction dates listed on my statement, and what does it mean when I've been charged twice for the same transaction?

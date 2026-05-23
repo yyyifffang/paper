@@ -1,0 +1,64 @@
+GEN | [exchange_via_app] | Orig: I'm having difficulties changing AUD for GBP. How do I do this? -> Aug: I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process using the app?
+GEN | [passcode_forgotten] | Orig: I don't know the code for the app. -> Aug: I've forgotten my app passcode.
+GEN | [exchange_via_app] | Orig: Can you  tell me how to get AUD not GBP? -> Aug: Can you guide me on how to exchange currency from AUD to GBP using the app?
+GEN | [top_up_reverted] | Orig: I have a canceled top-up and wanted to know about it. -> Aug: I recently had a failed top-up transaction and would like to inquire about the status.
+GEN | [order_physical_card] | Orig: What do I owe for a new card? -> Aug: How much does a new physical credit card cost?
+GEN | [topping_up_by_card] | Orig: Transferring money using credit card -> Aug: Adding funds to your account using your credit card
+GEN | [top_up_reverted] | Orig: top up cancellation -> Aug: reversal of top-up transaction
+GEN | [transfer_not_received_by_recipient] | Orig: I don't see the transaction I made to a friend on my account. -> Aug: I'm unable to locate the transfer I sent to a family member in my transaction history.
+GEN | [exchange_rate] | Orig: If I need to cash foreign transfers, how does that work? -> Aug: Can you explain the process for exchanging foreign currencies for cash transfers?
+GEN | [card_not_working] | Orig: How do I check security settings using the app? -> Aug: I'm having trouble accessing my account using the app, and I'm worried someone might be trying to hack into it. Can you help me check my security settings?
+GEN | [transaction_charged_twice] | Orig: Why is there are there two of the same transaction? -> Aug: Why did I get charged twice for the same transaction?
+GEN | [reverted_card_payment?] | Orig: I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here? -> Aug: I'm trying to understand why the payment I made didn't show up in the seller's account, even though I'm certain it was deducted from my account. Can you help me resolve this issue?
+GEN | [direct_debit_payment_not_recognised] | Orig: Hi, i found a large amount payment in my old statements which i am sure was not made by me. I am aware that the time has passed but is there a way to raise a dispute for this payment now? -> Aug: I've noticed an unexpected payment in my previous statements that I'm certain I didn't authorize. Although the time has passed, is there a way to dispute this payment now?
+GEN | [pending_top_up] | Orig: My top is still pending. -> Aug: My top-up request is still pending.
+GEN | [top_up_reverted] | Orig: I got an cancellation error when I was topping up. -> Aug: I experienced an issue with my top-up transaction and received an error message indicating that it was cancelled.
+GEN | [transfer_not_received_by_recipient] | Orig: why has a transaction to a friend been delayed? -> Aug: why hasn't my friend received the money I transferred to them yet?
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're planning to establish a college savings plan for my child.
+GEN | [wrong_amount_of_cash_received] | Orig: Yikes!  I didn't get the amount of money that I requested.  What do I do now? -> Aug: I'm shortchanged! I received less cash than I was supposed to get. Can you help me resolve this issue?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I was overcharged at an ATM while on vacation. I needed cash so I had to use it, but your charges are outregous and I wish I would have known beforehand. -> Aug: I was surprised to find that the exchange rate was incorrect when I withdrew cash from an ATM while traveling abroad. I had to use the service, but I'm disappointed that I wasn't informed about the rate beforehand.
+GEN | [transfer_not_received_by_recipient] | Orig: I've been waiting since Friday, where is my money? -> Aug: I haven't received the funds I transferred since Friday, can you help me locate the issue?
+GEN | [card_not_working] | Orig: Can you help me with my card, I think it's broke. -> Aug: I'm having trouble with my card, it seems to be malfunctioning.
+GEN | [cancel_transfer] | Orig: The wrong account was used during a transaction. -> Aug: The transaction was processed to the wrong account and I would like to cancel it.
+GEN | [beneficiary_not_allowed] | Orig: I cant transfer money into my account -> Aug: I'm trying to add a new payee, but it's not allowing me to do so.
+GEN | [reverted_card_payment?] | Orig: I received a message from a seller stating they hadn't received my money even though it definitely came out of my account. The money has now been deposited back into my account. Please get this resolved as soon as possible. -> Aug: I'm concerned about a payment I made to a seller, as I received a notification saying they didn't receive the funds, but the amount has since been reversed back to my account. Can you help me resolve this issue promptly?
+GEN | [getting_spare_card] | Orig: Can my daughter also have a card issued in her name, but linked to my account? -> Aug: Can I request a spare card in my daughter's name, which will be linked to my existing account?
+GEN | [fiat_currency_support] | Orig: Do you have EUR currency available for me? -> Aug: Can I exchange my money for Euros or is the EUR currency available for withdrawal?
+GEN | [top_up_reverted] | Orig: I put some money in my account the other day but now its gone? Why is this? -> Aug: I made a recent deposit, but it seems to have been reversed. Can you help me understand why this happened?
+GEN | [extra_charge_on_statement] | Orig: I had a dollar charged to my account that's still pending and wanted to know what the charge is for? -> Aug: I'm reviewing my recent statement and noticed an extra charge of $1.00 that's still pending. Can you please help me identify what this charge is for?
+GEN | [visa_or_mastercard] | Orig: What credit cards do you carry -> Aug: We accept Visa and Mastercard credit cards.
+GEN | [top_up_reverted] | Orig: Explain top-up cancellation -> Aug: What happens when I cancel a top-up transaction?
+GEN | [declined_card_payment] | Orig: Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident. -> Aug: I'm sorry to hear that your new card was declined repeatedly, preventing you from making a payment. I'd be happy to assist you in resolving this issue and finding a solution to get your payment processed successfully.
+GEN | [card_payment_not_recognised] | Orig: Why is this payment on my app -> Aug: I'm trying to make a payment, but it's not being recognized on my app
+VAL | [exchange_via_app] | YES | Text: I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process using the app?
+VAL | [passcode_forgotten] | YES | Text: I've forgotten my app passcode.
+VAL | [exchange_via_app] | NO | Text: Can you guide me on how to exchange currency from AUD to GBP using the app?
+VAL | [top_up_reverted] | YES | Text: I recently had a failed top-up transaction and would like to inquire about the status.
+VAL | [order_physical_card] | YES | Text: How much does a new physical credit card cost?
+VAL | [topping_up_by_card] | YES | Text: Adding funds to your account using your credit card
+VAL | [top_up_reverted] | YES | Text: reversal of top-up transaction
+VAL | [transfer_not_received_by_recipient] | YES | Text: I'm unable to locate the transfer I sent to a family member in my transaction history.
+VAL | [exchange_rate] | NO | Text: Can you explain the process for exchanging foreign currencies for cash transfers?
+VAL | [card_not_working] | NO | Text: I'm having trouble accessing my account using the app, and I'm worried someone might be trying to hack into it. Can you help me check my security settings?
+VAL | [transaction_charged_twice] | YES | Text: Why did I get charged twice for the same transaction?
+VAL | [reverted_card_payment?] | YES | Text: I'm trying to understand why the payment I made didn't show up in the seller's account, even though I'm certain it was deducted from my account. Can you help me resolve this issue?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: I've noticed an unexpected payment in my previous statements that I'm certain I didn't authorize. Although the time has passed, is there a way to dispute this payment now?
+VAL | [pending_top_up] | YES | Text: My top-up request is still pending.
+VAL | [top_up_reverted] | YES | Text: I experienced an issue with my top-up transaction and received an error message indicating that it was cancelled.
+VAL | [transfer_not_received_by_recipient] | YES | Text: why hasn't my friend received the money I transferred to them yet?
+VAL | [age_limit] | NO | Text: We're planning to establish a college savings plan for my child.
+VAL | [wrong_amount_of_cash_received] | YES | Text: I'm shortchanged! I received less cash than I was supposed to get. Can you help me resolve this issue?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I was surprised to find that the exchange rate was incorrect when I withdrew cash from an ATM while traveling abroad. I had to use the service, but I'm disappointed that I wasn't informed about the rate beforehand.
+VAL | [transfer_not_received_by_recipient] | YES | Text: I haven't received the funds I transferred since Friday, can you help me locate the issue?
+VAL | [card_not_working] | YES | Text: I'm having trouble with my card, it seems to be malfunctioning.
+VAL | [cancel_transfer] | NO | Text: The transaction was processed to the wrong account and I would like to cancel it.
+VAL | [beneficiary_not_allowed] | NO | Text: I'm trying to add a new payee, but it's not allowing me to do so.
+VAL | [reverted_card_payment?] | YES | Text: I'm concerned about a payment I made to a seller, as I received a notification saying they didn't receive the funds, but the amount has since been reversed back to my account. Can you help me resolve this issue promptly?
+VAL | [getting_spare_card] | YES | Text: Can I request a spare card in my daughter's name, which will be linked to my existing account?
+VAL | [fiat_currency_support] | NO | Text: Can I exchange my money for Euros or is the EUR currency available for withdrawal?
+VAL | [top_up_reverted] | YES | Text: I made a recent deposit, but it seems to have been reversed. Can you help me understand why this happened?
+VAL | [extra_charge_on_statement] | YES | Text: I'm reviewing my recent statement and noticed an extra charge of $1.00 that's still pending. Can you please help me identify what this charge is for?
+VAL | [visa_or_mastercard] | YES | Text: We accept Visa and Mastercard credit cards.
+VAL | [top_up_reverted] | NO | Text: What happens when I cancel a top-up transaction?
+VAL | [declined_card_payment] | NO | Text: I'm sorry to hear that your new card was declined repeatedly, preventing you from making a payment. I'd be happy to assist you in resolving this issue and finding a solution to get your payment processed successfully.
+VAL | [card_payment_not_recognised] | YES | Text: I'm trying to make a payment, but it's not being recognized on my app

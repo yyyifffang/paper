@@ -1,0 +1,74 @@
+GEN | [get_physical_card] | Orig: How is the PIN delivered? -> Aug: Can you please provide information on how to obtain my physical credit card?
+GEN | [pin_blocked] | Orig: I have used all of my PIN tries. What should I do now? -> Aug: I've reached the maximum number of PIN attempts. What are my next steps to access my account?
+GEN | [get_physical_card] | Orig: I dont have a pin -> Aug: I need a physical card to access my account.
+GEN | [get_physical_card] | Orig: Is my PIN sent separably? -> Aug: Can I request a physical copy of my card, including the PIN, to be mailed to me?
+GEN | [pin_blocked] | Orig: I have exceeded the number of PIN attempts -> Aug: I've reached the maximum number of PIN attempts allowed
+GEN | [pin_blocked] | Orig: I have exceeded all my PIN tries -> Aug: I've reached the maximum number of PIN attempts
+GEN | [get_physical_card] | Orig: I can't find the PIN. -> Aug: I need a physical copy of my card to retrieve the PIN.
+GEN | [pin_blocked] | Orig: What should I do if I exceed my PIN tries? -> Aug: If I enter my PIN incorrectly multiple times, what are the next steps I should take?
+GEN | [get_physical_card] | Orig: Is the PIN sent in another message? -> Aug: I didn't receive my physical card, can I request a new one?
+GEN | [country_support] | Orig: Where are you present globally? -> Aug: We have a strong presence in many countries around the world. Can you please specify which country you are inquiring about?
+GEN | [getting_virtual_card] | Orig: what is a virtual and how do i get one -> Aug: Can you please tell me more about virtual cards and how I can obtain one?
+GEN | [get_physical_card] | Orig: How do I find the PIN? -> Aug: I'd like to request a physical copy of my card, including the PIN, to be mailed to my address.
+GEN | [direct_debit_payment_not_recognised] | Orig: hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent. -> Aug: Hey, I'm concerned about a suspicious transaction on my account. I see a payment from a store that's not near my location, and I'm worried someone might have accessed my card details. Can you help me reverse the charge and refund the amount so I can settle my rent on time?
+GEN | [get_physical_card] | Orig: I don't have a PIN at this point. -> Aug: I'd like to request a physical card to be mailed to me, as I don't have a PIN to access my digital card.
+GEN | [card_arrival] | Orig: Was there a way for me to get tracking for that? -> Aug: Can I get an update on the status of my card delivery?
+GEN | [pin_blocked] | Orig: What do I have to do to get my PIN unblocked? -> Aug: How can I resolve the issue with my PIN being blocked?
+GEN | [pin_blocked] | Orig: Can you unblock my blocked pin? -> Aug: Can you please lift the block on my PIN so I can use it again?
+GEN | [exchange_rate] | Orig: What is the exchange looking like? -> Aug: How do the current exchange rates compare to each other?
+GEN | [country_support] | Orig: What countries are getting support? -> Aug: We provide support to customers from various countries. Can you please specify which country you are referring to, so I can better assist you?
+GEN | [pin_blocked] | Orig: How can I get my PIN unblocked? -> Aug: What steps can I take to resolve the issue with my blocked PIN?
+GEN | [pin_blocked] | Orig: Can someone assist me with explaining how I can unblock my pin? -> Aug: Could you please help me understand the steps to unblock my PIN so I can access my account again?
+GEN | [pin_blocked] | Orig: I can't figure out how to unblock my pin number. Can you help me? -> Aug: I'm having trouble accessing my account because my PIN is blocked. Can you assist me in resolving this issue?
+GEN | [get_physical_card] | Orig: Show me where I can see the PIN? -> Aug: I'd be happy to help you locate your physical card to check the PIN. Can you please confirm your account number or card details so I can assist you further?
+GEN | [pin_blocked] | Orig: I forgot what my pin number is and now am blocked can you help me get in? -> Aug: I'm having trouble remembering my PIN and I've been locked out, can you assist me in gaining access?
+GEN | [card_arrival] | Orig: WHAT IS THE SOLUTION OF THIS PROBLEM -> Aug: When will I receive my new credit card?
+GEN | [receiving_money] | Orig: What do I need to do to get my salary through this? -> Aug: How can I receive my salary payment through this service?
+GEN | [pin_blocked] | Orig: What is the procedure of unblocking my PIN? -> Aug: How do I resolve the issue with my PIN being blocked?
+GEN | [get_physical_card] | Orig: Can you deliver the PIN separately? -> Aug: Can you send me the physical card separately?
+GEN | [passcode_forgotten] | Orig: passcode retrieval -> Aug: I forgot my passcode and need help retrieving it.
+GEN | [pin_blocked] | Orig: What steps do I take to unblock my PIN? -> Aug: How can I resolve the issue with my PIN being blocked?
+GEN | [receiving_money] | Orig: Can my salary be received here? -> Aug: Can I receive my paycheck at this location?
+GEN | [pin_blocked] | Orig: My PIN has been blocked. -> Aug: I'm unable to access my account because my PIN has been blocked.
+GEN | [pin_blocked] | Orig: Why is my PIN blocked? -> Aug: I'm trying to access my account, but it's saying my PIN is blocked. Can you help me figure out why?
+GEN | [pin_blocked] | Orig: I tried my PIN too many times -> Aug: I've entered my PIN incorrectly multiple times
+GEN | [pin_blocked] | Orig: How many times can I enter a wrong PIN before it is blocked? -> Aug: What is the maximum number of incorrect PIN attempts allowed before my account is blocked?
+GEN | [pin_blocked] | Orig: My PIN was blocked. -> Aug: My personal identification number has been blocked.
+GEN | [pin_blocked] | Orig: Why was my PIN blocked? -> Aug: I'm trying to access my account, but it's saying my PIN is blocked. Can you tell me why?
+VAL | [get_physical_card] | NO | Text: Can you please provide information on how to obtain my physical credit card?
+VAL | [pin_blocked] | YES | Text: I've reached the maximum number of PIN attempts. What are my next steps to access my account?
+VAL | [get_physical_card] | NO | Text: I need a physical card to access my account.
+VAL | [get_physical_card] | NO | Text: Can I request a physical copy of my card, including the PIN, to be mailed to me?
+VAL | [pin_blocked] | YES | Text: I've reached the maximum number of PIN attempts allowed
+VAL | [pin_blocked] | YES | Text: I've reached the maximum number of PIN attempts
+VAL | [get_physical_card] | NO | Text: I need a physical copy of my card to retrieve the PIN.
+VAL | [pin_blocked] | NO | Text: If I enter my PIN incorrectly multiple times, what are the next steps I should take?
+VAL | [get_physical_card] | NO | Text: I didn't receive my physical card, can I request a new one?
+VAL | [country_support] | NO | Text: We have a strong presence in many countries around the world. Can you please specify which country you are inquiring about?
+VAL | [getting_virtual_card] | YES | Text: Can you please tell me more about virtual cards and how I can obtain one?
+VAL | [get_physical_card] | NO | Text: I'd like to request a physical copy of my card, including the PIN, to be mailed to my address.
+VAL | [direct_debit_payment_not_recognised] | NO | Text: Hey, I'm concerned about a suspicious transaction on my account. I see a payment from a store that's not near my location, and I'm worried someone might have accessed my card details. Can you help me reverse the charge and refund the amount so I can settle my rent on time?
+VAL | [get_physical_card] | NO | Text: I'd like to request a physical card to be mailed to me, as I don't have a PIN to access my digital card.
+VAL | [card_arrival] | NO | Text: Can I get an update on the status of my card delivery?
+VAL | [pin_blocked] | YES | Text: How can I resolve the issue with my PIN being blocked?
+VAL | [pin_blocked] | YES | Text: Can you please lift the block on my PIN so I can use it again?
+VAL | [exchange_rate] | NO | Text: How do the current exchange rates compare to each other?
+VAL | [country_support] | NO | Text: We provide support to customers from various countries. Can you please specify which country you are referring to, so I can better assist you?
+VAL | [pin_blocked] | YES | Text: What steps can I take to resolve the issue with my blocked PIN?
+VAL | [pin_blocked] | YES | Text: Could you please help me understand the steps to unblock my PIN so I can access my account again?
+VAL | [pin_blocked] | YES | Text: I'm having trouble accessing my account because my PIN is blocked. Can you assist me in resolving this issue?
+VAL | [get_physical_card] | NO | Text: I'd be happy to help you locate your physical card to check the PIN. Can you please confirm your account number or card details so I can assist you further?
+VAL | [pin_blocked] | YES | Text: I'm having trouble remembering my PIN and I've been locked out, can you assist me in gaining access?
+VAL | [card_arrival] | NO | Text: When will I receive my new credit card?
+VAL | [receiving_money] | YES | Text: How can I receive my salary payment through this service?
+VAL | [pin_blocked] | NO | Text: How do I resolve the issue with my PIN being blocked?
+VAL | [get_physical_card] | NO | Text: Can you send me the physical card separately?
+VAL | [passcode_forgotten] | YES | Text: I forgot my passcode and need help retrieving it.
+VAL | [pin_blocked] | YES | Text: How can I resolve the issue with my PIN being blocked?
+VAL | [receiving_money] | YES | Text: Can I receive my paycheck at this location?
+VAL | [pin_blocked] | YES | Text: I'm unable to access my account because my PIN has been blocked.
+VAL | [pin_blocked] | NO | Text: I'm trying to access my account, but it's saying my PIN is blocked. Can you help me figure out why?
+VAL | [pin_blocked] | YES | Text: I've entered my PIN incorrectly multiple times
+VAL | [pin_blocked] | YES | Text: What is the maximum number of incorrect PIN attempts allowed before my account is blocked?
+VAL | [pin_blocked] | YES | Text: My personal identification number has been blocked.
+VAL | [pin_blocked] | NO | Text: I'm trying to access my account, but it's saying my PIN is blocked. Can you tell me why?

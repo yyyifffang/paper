@@ -1,0 +1,62 @@
+GEN | [card_payment_not_recognised] | Orig: I need to freeze my card as soon as possible. I just checked my account and saw that there have been several payments that I don't recognize over the course of a few days. Can we investigate and get my money back? -> Aug: I'm concerned about unauthorized transactions on my account. I've noticed some payments that I didn't make, and I'd like to report them and get my money refunded as soon as possible.
+GEN | [Refund_not_showing_up] | Orig: why cant you just refund me instead of a merchant -> Aug: I'm still waiting for my refund, can you please expedite the process instead of sending me a credit note from the merchant?
+GEN | [direct_debit_payment_not_recognised] | Orig: I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money? -> Aug: I'm concerned about a suspicious transaction on my account. I didn't authorise a payment, and I'm not sure what happened. Can you investigate and cancel the direct debit payment that was made without my consent?
+GEN | [why_verify_identity] | Orig: I am not comfortable verifying my indentity. -> Aug: I'm hesitant to confirm my identity.
+GEN | [declined_cash_withdrawal] | Orig: Why can I not take out cash? -> Aug: Why was my cash withdrawal request declined?
+GEN | [direct_debit_payment_not_recognised] | Orig: Is there a way for you to find out why my account was deducted from a seller when I didn't approve of it? -> Aug: We're investigating an unusual direct debit payment that was made from your account without your consent. Can you please provide more details about the transaction, such as the date, amount, and the merchant's name, so we can look into this further?
+GEN | [transaction_charged_twice] | Orig: I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back? -> Aug: I accidentally used my old card and made a purchase, but it was charged twice. I've since canceled the card, can I get a refund for the extra charge?
+GEN | [card_arrival] | Orig: Can you help me track my card? -> Aug: Can you assist me in locating my card?
+GEN | [transfer_into_account] | Orig: How does your app transfer the money -> Aug: To initiate a transfer into an account, can you please guide me through the process of moving funds from one account to another using your mobile app?
+GEN | [reverted_card_payment?] | Orig: I tried to use my debit card, but the payment did not work. -> Aug: I attempted to make a payment using my debit card, but the transaction was unsuccessful.
+GEN | [visa_or_mastercard] | Orig: What credit cards do you carry -> Aug: We accept Visa and Mastercard credit cards.
+GEN | [topping_up_by_card] | Orig: How do i set up my credit card to send transfers? -> Aug: Can you guide me on how to configure my credit card for automatic payments?
+GEN | [why_verify_identity] | Orig: Do you think you're asking for too much information about me? -> Aug: We're asking for this information to ensure we're verifying your identity accurately and securely. Can you understand why this is necessary for our security protocols?
+GEN | [topping_up_by_card] | Orig: Am I the only one who can top-up my account? -> Aug: Can I perform a card-based account top-up myself?
+GEN | [compromised_card] | Orig: I have some transactions on my account I did not make. Can you cancel my card and prevent further use. -> Aug: I'm concerned about unauthorized transactions on my account. Can you suspend my card and prevent any further activity?
+GEN | [cash_withdrawal_not_recognised] | Orig: I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out? -> Aug: I'm trying to use my card, but it's been declined. I've checked my account and noticed a cash withdrawal of $400 that I didn't authorize. Can you assist me in resolving this issue?
+GEN | [card_payment_fee_charged] | Orig: I am angry that I got charged for using my card. -> Aug: I'm frustrated because I was unexpectedly charged a fee for making a transaction with my credit card.
+GEN | [exchange_charge] | Orig: Do exchanges cost more? -> Aug: Are there any additional fees associated with exchanging currency?
+GEN | [visa_or_mastercard] | Orig: What type of card will I receive? -> Aug: You will receive a Visa or Mastercard.
+GEN | [country_support] | Orig: Is this card available to Americans? -> Aug: Is this card accessible to US citizens?
+GEN | [transaction_charged_twice] | Orig: I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back. -> Aug: I've found that I've been mistakenly charged twice for a few transactions this week. Could you please investigate and reverse the duplicate charges?
+GEN | [cash_withdrawal_charge] | Orig: Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this. -> Aug: Can you confirm if there's a fee for withdrawing cash from my account? I recently made a withdrawal and noticed a charge on my statement.
+GEN | [card_payment_not_recognised] | Orig: Why is there an unknown card payment? -> Aug: We're having trouble recognizing a payment made with a card. Can you please help us identify the issue?
+GEN | [top_up_by_bank_transfer_charge] | Orig: I want to do a swift transfer -> Aug: I'd like to make a bank transfer to top up my account
+GEN | [reverted_card_payment?] | Orig: Why wasn't my payment accepted by the app -> Aug: Why was my payment reversed or declined by the app?
+GEN | [card_payment_fee_charged] | Orig: Do you have charges now when you pay with a card? -> Aug: Are there any fees associated with using a credit or debit card for payment?
+GEN | [exchange_charge] | Orig: What is the fee for accepting money from a foreign country? -> Aug: Can you please inform me about the exchange charge for receiving an international payment?
+GEN | [receiving_money] | Orig: Can I use a transfer to receive my transfer? -> Aug: Can I use a transfer to receive a transfer payment?
+GEN | [extra_charge_on_statement] | Orig: I had a dollar charged to my account that's still pending and wanted to know what the charge is for? -> Aug: I'm reviewing my recent statement and noticed an extra charge of $1.00 that's still pending. Can you please help me identify what this charge is for?
+GEN | [unable_to_verify_identity] | Orig: My identity isn't being accepted, what should I do? -> Aug: We're having trouble verifying your identity, could you please provide additional information to help us confirm your identity?
+GEN | [card_payment_wrong_exchange_rate] | Orig: I was charged the wing amount for an item. -> Aug: I was overcharged the wrong exchange rate for a transaction.
+VAL | [card_payment_not_recognised] | YES | Text: I'm concerned about unauthorized transactions on my account. I've noticed some payments that I didn't make, and I'd like to report them and get my money refunded as soon as possible.
+VAL | [Refund_not_showing_up] | YES | Text: I'm still waiting for my refund, can you please expedite the process instead of sending me a credit note from the merchant?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: I'm concerned about a suspicious transaction on my account. I didn't authorise a payment, and I'm not sure what happened. Can you investigate and cancel the direct debit payment that was made without my consent?
+VAL | [why_verify_identity] | YES | Text: I'm hesitant to confirm my identity.
+VAL | [declined_cash_withdrawal] | YES | Text: Why was my cash withdrawal request declined?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: We're investigating an unusual direct debit payment that was made from your account without your consent. Can you please provide more details about the transaction, such as the date, amount, and the merchant's name, so we can look into this further?
+VAL | [transaction_charged_twice] | YES | Text: I accidentally used my old card and made a purchase, but it was charged twice. I've since canceled the card, can I get a refund for the extra charge?
+VAL | [card_arrival] | NO | Text: Can you assist me in locating my card?
+VAL | [transfer_into_account] | NO | Text: To initiate a transfer into an account, can you please guide me through the process of moving funds from one account to another using your mobile app?
+VAL | [reverted_card_payment?] | NO | Text: I attempted to make a payment using my debit card, but the transaction was unsuccessful.
+VAL | [visa_or_mastercard] | YES | Text: We accept Visa and Mastercard credit cards.
+VAL | [topping_up_by_card] | NO | Text: Can you guide me on how to configure my credit card for automatic payments?
+VAL | [why_verify_identity] | NO | Text: We're asking for this information to ensure we're verifying your identity accurately and securely. Can you understand why this is necessary for our security protocols?
+VAL | [topping_up_by_card] | YES | Text: Can I perform a card-based account top-up myself?
+VAL | [compromised_card] | YES | Text: I'm concerned about unauthorized transactions on my account. Can you suspend my card and prevent any further activity?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm trying to use my card, but it's been declined. I've checked my account and noticed a cash withdrawal of $400 that I didn't authorize. Can you assist me in resolving this issue?
+VAL | [card_payment_fee_charged] | YES | Text: I'm frustrated because I was unexpectedly charged a fee for making a transaction with my credit card.
+VAL | [exchange_charge] | YES | Text: Are there any additional fees associated with exchanging currency?
+VAL | [visa_or_mastercard] | YES | Text: You will receive a Visa or Mastercard.
+VAL | [country_support] | YES | Text: Is this card accessible to US citizens?
+VAL | [transaction_charged_twice] | YES | Text: I've found that I've been mistakenly charged twice for a few transactions this week. Could you please investigate and reverse the duplicate charges?
+VAL | [cash_withdrawal_charge] | YES | Text: Can you confirm if there's a fee for withdrawing cash from my account? I recently made a withdrawal and noticed a charge on my statement.
+VAL | [card_payment_not_recognised] | NO | Text: We're having trouble recognizing a payment made with a card. Can you please help us identify the issue?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: I'd like to make a bank transfer to top up my account
+VAL | [reverted_card_payment?] | NO | Text: Why was my payment reversed or declined by the app?
+VAL | [card_payment_fee_charged] | NO | Text: Are there any fees associated with using a credit or debit card for payment?
+VAL | [exchange_charge] | YES | Text: Can you please inform me about the exchange charge for receiving an international payment?
+VAL | [receiving_money] | YES | Text: Can I use a transfer to receive a transfer payment?
+VAL | [extra_charge_on_statement] | YES | Text: I'm reviewing my recent statement and noticed an extra charge of $1.00 that's still pending. Can you please help me identify what this charge is for?
+VAL | [unable_to_verify_identity] | YES | Text: We're having trouble verifying your identity, could you please provide additional information to help us confirm your identity?
+VAL | [card_payment_wrong_exchange_rate] | NO | Text: I was overcharged the wrong exchange rate for a transaction.

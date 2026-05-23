@@ -1,0 +1,64 @@
+GEN | [request_refund] | Orig: I bought a product a week ago, but may need to return it. -> Aug: I recently purchased an item, but I'm considering returning it due to a change of heart.
+GEN | [failed_transfer] | Orig: A mortgage payment I'm making is giving me an error message.  This is the first time I'm making this payment and want to know what's wrong. -> Aug: I'm trying to make a mortgage payment for the first time, but I'm getting an error message. Can you help me figure out what's going wrong?
+GEN | [transfer_fee_charged] | Orig: Transfers are supposed to be free.  I just got a fee tacked on  to something I bought abroad.  Not cool.  Figure out how to remove it. -> Aug: I'm surprised to see a fee added to my international transfer. Can you help me understand why this charge was applied and how to have it reversed?
+GEN | [cash_withdrawal_not_recognised] | Orig: Why is my app showing me taking money that I did not take out? -> Aug: I'm showing a withdrawal transaction on my account that I didn't make, what's going on?
+GEN | [cash_withdrawal_not_recognised] | Orig: I am seeing in the app, some cash witdhrawals that I did not authorize. -> Aug: I'm concerned about the cash withdrawals I see in the app that I didn't initiate.
+GEN | [card_payment_fee_charged] | Orig: How did the extra charge on my card come in effect? -> Aug: I'd be happy to help you understand the card payment fee that was charged to your account. Can you please provide me with your account number so I can look into this further?
+GEN | [declined_transfer] | Orig: Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined . I tried couple of times already  but same thing is happening . -> Aug: I've been using your service for a while now, and I've never had any issues with transfers until today. I tried to make a purchase, but the payment was declined. I've tried a few times, but the result is the same. Can you please help me figure out what's going on?
+GEN | [reverted_card_payment?] | Orig: I tried to use my debit card, but the payment did not work. -> Aug: I attempted to make a payment using my debit card, but the transaction was unsuccessful.
+GEN | [transaction_charged_twice] | Orig: My card was declined but it shows as multiple charges? -> Aug: I was charged twice for the same transaction, but my card was declined.
+GEN | [getting_spare_card] | Orig: Please tell me if I'm going to be charged for sending out more cards? -> Aug: Can I request a spare card without incurring any additional fees?
+GEN | [topping_up_by_card] | Orig: How does someone else top up my account -> Aug: Can I use another person's card to add funds to my account?
+GEN | [pending_transfer] | Orig: Why is the transaction not posting? -> Aug: Why is the transfer still pending and not showing up in my account?
+GEN | [card_payment_fee_charged] | Orig: Why did I have to pay an additional amount when using my card to pay? -> Aug: I was charged an unexpected fee when I used my card to make a payment. Can you explain why this fee was applied?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I've transferred money into my account but the balance is the same -> Aug: I made a deposit, but my account balance hasn't been updated
+GEN | [transfer_fee_charged] | Orig: There is a fee from a transfer that is not supposed to be here! -> Aug: I'm showing a transfer fee that shouldn't be there, can you help me understand why it's being charged?
+GEN | [cash_withdrawal_not_recognised] | Orig: What is this withdrawal as I do not remember making it. -> Aug: I'm not sure about this cash withdrawal, I don't recall initiating it.
+GEN | [topping_up_by_card] | Orig: Am I the only one who can top-up my account? -> Aug: Can I perform a card-based account top-up myself?
+GEN | [top_up_by_card_charge] | Orig: What options do I have when topping up a US card? -> Aug: How can I charge my US card for a top-up transaction?
+GEN | [top_up_reverted] | Orig: I went to top up my card and it was cancelled. -> Aug: I attempted to add funds to my card, but the transaction was reversed.
+GEN | [transfer_fee_charged] | Orig: So I've been using my account frequently to manage payments for my vacation house in a different country, and now I'm getting hit with ridiculously high fees! What's with that? Ought not I be rewarded as a frequent user? -> Aug: I've been making regular transactions from my account to cover expenses for my vacation property abroad, but I'm surprised to see excessive fees being deducted. Can you explain why I'm being charged so much? I'd expect some loyalty benefits as a frequent user.
+GEN | [transfer_fee_charged] | Orig: I got an unexpected charge on my transfers. How can I correct this? -> Aug: I'm concerned about the extra fee I was charged for my recent transfer. Can you help me resolve this issue?
+GEN | [top_up_by_cash_or_cheque] | Orig: how can i add money to my account if you don't accept cash -> Aug: Can I deposit funds into my account if you don't accept cash deposits?
+GEN | [supported_cards_and_currencies] | Orig: Top up my card please, which y'all support? -> Aug: What payment methods do you accept for card top-ups?
+GEN | [topping_up_by_card] | Orig: Can other people top up my account? -> Aug: Can I allow someone else to add funds to my account using their card?
+GEN | [contactless_not_working] | Orig: I am having issues using contactless payments, could my card be damaged? -> Aug: I'm having trouble making contactless transactions, is it possible that my card is faulty?
+GEN | [topping_up_by_card] | Orig: I used my card top-up but all of the money is missing. -> Aug: I attempted to add funds to my account using my card, but the transaction was unsuccessful and the amount is still pending.
+GEN | [transfer_not_received_by_recipient] | Orig: My transaction has not been received. When are you going to process it? -> Aug: I haven't received the funds from my recent transfer. Can you please let me know when it will be processed?
+GEN | [receiving_money] | Orig: I use GBP for my salary deposits. Must I set this up somewhere? -> Aug: I'm expecting a direct deposit of my paycheck in GBP. Do I need to configure something for this to happen?
+GEN | [card_acceptance] | Orig: Where do I pay with my card? -> Aug: How can I use my card to make a payment?
+GEN | [extra_charge_on_statement] | Orig: Hello, there seems to be a billing mistake associated with my account.  My app was charged $1 more than it should have.  Could you please explain why this may have happened? -> Aug: I've noticed an unexpected charge on my statement, and I'd like to understand why I was billed an extra $1 for my app subscription. Can you help me resolve this discrepancy?
+GEN | [card_linking] | Orig: I found my card that I thought I had lost, I need to reactive it, please help. -> Aug: I've located my card that I previously thought was lost, can you assist me in reactivating it?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: How long do deposits take to appear? I've been waiting for more than a week and need the money! -> Aug: I made a deposit using a cheque/cash last week, but my account balance hasn't been updated yet. Can you please let me know when I can expect the funds to reflect in my account?
+VAL | [request_refund] | YES | Text: I recently purchased an item, but I'm considering returning it due to a change of heart.
+VAL | [failed_transfer] | YES | Text: I'm trying to make a mortgage payment for the first time, but I'm getting an error message. Can you help me figure out what's going wrong?
+VAL | [transfer_fee_charged] | NO | Text: I'm surprised to see a fee added to my international transfer. Can you help me understand why this charge was applied and how to have it reversed?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm showing a withdrawal transaction on my account that I didn't make, what's going on?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm concerned about the cash withdrawals I see in the app that I didn't initiate.
+VAL | [card_payment_fee_charged] | NO | Text: I'd be happy to help you understand the card payment fee that was charged to your account. Can you please provide me with your account number so I can look into this further?
+VAL | [declined_transfer] | NO | Text: I've been using your service for a while now, and I've never had any issues with transfers until today. I tried to make a purchase, but the payment was declined. I've tried a few times, but the result is the same. Can you please help me figure out what's going on?
+VAL | [reverted_card_payment?] | NO | Text: I attempted to make a payment using my debit card, but the transaction was unsuccessful.
+VAL | [transaction_charged_twice] | YES | Text: I was charged twice for the same transaction, but my card was declined.
+VAL | [getting_spare_card] | YES | Text: Can I request a spare card without incurring any additional fees?
+VAL | [topping_up_by_card] | YES | Text: Can I use another person's card to add funds to my account?
+VAL | [pending_transfer] | YES | Text: Why is the transfer still pending and not showing up in my account?
+VAL | [card_payment_fee_charged] | YES | Text: I was charged an unexpected fee when I used my card to make a payment. Can you explain why this fee was applied?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I made a deposit, but my account balance hasn't been updated
+VAL | [transfer_fee_charged] | YES | Text: I'm showing a transfer fee that shouldn't be there, can you help me understand why it's being charged?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm not sure about this cash withdrawal, I don't recall initiating it.
+VAL | [topping_up_by_card] | YES | Text: Can I perform a card-based account top-up myself?
+VAL | [top_up_by_card_charge] | NO | Text: How can I charge my US card for a top-up transaction?
+VAL | [top_up_reverted] | YES | Text: I attempted to add funds to my card, but the transaction was reversed.
+VAL | [transfer_fee_charged] | NO | Text: I've been making regular transactions from my account to cover expenses for my vacation property abroad, but I'm surprised to see excessive fees being deducted. Can you explain why I'm being charged so much? I'd expect some loyalty benefits as a frequent user.
+VAL | [transfer_fee_charged] | YES | Text: I'm concerned about the extra fee I was charged for my recent transfer. Can you help me resolve this issue?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Can I deposit funds into my account if you don't accept cash deposits?
+VAL | [supported_cards_and_currencies] | YES | Text: What payment methods do you accept for card top-ups?
+VAL | [topping_up_by_card] | NO | Text: Can I allow someone else to add funds to my account using their card?
+VAL | [contactless_not_working] | YES | Text: I'm having trouble making contactless transactions, is it possible that my card is faulty?
+VAL | [topping_up_by_card] | NO | Text: I attempted to add funds to my account using my card, but the transaction was unsuccessful and the amount is still pending.
+VAL | [transfer_not_received_by_recipient] | NO | Text: I haven't received the funds from my recent transfer. Can you please let me know when it will be processed?
+VAL | [receiving_money] | YES | Text: I'm expecting a direct deposit of my paycheck in GBP. Do I need to configure something for this to happen?
+VAL | [card_acceptance] | NO | Text: How can I use my card to make a payment?
+VAL | [extra_charge_on_statement] | YES | Text: I've noticed an unexpected charge on my statement, and I'd like to understand why I was billed an extra $1 for my app subscription. Can you help me resolve this discrepancy?
+VAL | [card_linking] | NO | Text: I've located my card that I previously thought was lost, can you assist me in reactivating it?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | NO | Text: I made a deposit using a cheque/cash last week, but my account balance hasn't been updated yet. Can you please let me know when I can expect the funds to reflect in my account?

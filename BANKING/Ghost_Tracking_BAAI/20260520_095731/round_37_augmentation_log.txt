@@ -1,0 +1,72 @@
+GEN | [declined_cash_withdrawal] | Orig: I tried to withdraw some funds from my card, but was declined. How can I get my money? -> Aug: I attempted to withdraw cash from my account, but the transaction was declined. What are my options for retrieving my funds?
+GEN | [cash_withdrawal_not_recognised] | Orig: I did not get the cash that is showing up in my app. -> Aug: I'm confused because my app shows a cash withdrawal, but I didn't receive the cash.
+GEN | [why_verify_identity] | Orig: Can I use my account now, even though my identity verification has not gone through yet? -> Aug: Can I access my account services if my identity verification process is still pending?
+GEN | [edit_personal_details] | Orig: I am here to change my adress. -> Aug: I'd like to update my address.
+GEN | [card_payment_wrong_exchange_rate] | Orig: Can you change the rate for the item I bought in a different currency as it is wrong? -> Aug: The exchange rate for the item I purchased in a different currency is incorrect, can you adjust it for me?
+GEN | [top_up_reverted] | Orig: How come I can't put money in my top up account? -> Aug: I'm having trouble adding funds to my top-up account, can you help me resolve this issue?
+GEN | [transfer_not_received_by_recipient] | Orig: I've been waiting since Friday, where is my money? -> Aug: I haven't received the funds I transferred since Friday, can you help me locate the issue?
+GEN | [receiving_money] | Orig: How does one send me money? -> Aug: Can you please guide me on how to receive a payment from someone?
+GEN | [receiving_money] | Orig: Do I need to add my salary? -> Aug: Can I include my income in the application?
+GEN | [verify_my_identity] | Orig: What form of identification is accepted? -> Aug: What types of identification documents are accepted for verification purposes?
+GEN | [failed_transfer] | Orig: Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there. -> Aug: I'm trying to send a transfer to another account, but it's not going through. I've double-checked my info and the funds are available, so I'm not sure why it's being rejected. Can you help me figure out what's going on?
+GEN | [cash_withdrawal_not_recognised] | Orig: My app says I withdraw funds from my account through an ATM. -> Aug: I'm trying to recall a recent cash withdrawal from my account, but the transaction isn't showing up on my app.
+GEN | [card_delivery_estimate] | Orig: how much to get my card in 2 days? -> Aug: Can you please provide an estimate of the delivery time for my card, specifically within a 2-day timeframe?
+GEN | [failed_transfer] | Orig: I am trying to transfer money and something is going wrong. -> Aug: I'm having trouble completing a transfer and need assistance resolving the issue.
+GEN | [exchange_rate] | Orig: Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from? -> Aug: Can you please confirm the source of the exchange rate used for the transfer I'm planning to make?
+GEN | [transaction_charged_twice] | Orig: My card was declined but it shows as multiple charges? -> Aug: I was charged twice for the same transaction, but my card was declined.
+GEN | [pending_cash_withdrawal] | Orig: Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money. -> Aug: I'm reviewing my account and noticed a pending transaction that I didn't complete. I was trying to withdraw cash at an ATM, but the machine declined my card. Can you cancel this pending transaction as I didn't receive the funds and don't want it to go through?
+GEN | [top_up_by_card_charge] | Orig: Is topping up free? -> Aug: Can I charge my card to top up my account without incurring any additional fees?
+GEN | [topping_up_by_card] | Orig: I don't see me 'top up' in my wallet -> Aug: I'm trying to add funds to my account using my card, but I don't see the option
+GEN | [order_physical_card] | Orig: Show me where to order my card. -> Aug: Can you guide me through the process of ordering a physical credit card?
+GEN | [verify_source_of_funds] | Orig: Can you tell me where my readily available cash has come from? -> Aug: Can you confirm the origin of the funds in my account that are readily available for use?
+GEN | [transfer_timing] | Orig: How long does it take to get money from Europe? -> Aug: What is the typical processing time for international wire transfers from Europe to my account?
+GEN | [topping_up_by_card] | Orig: My wallet doesn't show my recent top up. -> Aug: I'm unable to see my latest card top-up transaction.
+GEN | [pending_cash_withdrawal] | Orig: There is a pending transaction on my account for when I tried to get money from the ATM earlier and it did not work. Can you fix this? -> Aug: I'm experiencing an issue with a pending cash withdrawal attempt from an ATM earlier. The transaction didn't go through, and I'd appreciate it if you could assist me in resolving this matter.
+GEN | [declined_cash_withdrawal] | Orig: Why am I unable to withdraw money even though in the past I've done it just fine? -> Aug: I'm sorry to inform you that your recent cash withdrawal request has been declined due to insufficient funds or account restrictions. Please check your account balance and transaction history to understand the reason behind this decline.
+GEN | [passcode_forgotten] | Orig: I can't log in with this passocde -> Aug: I forgot my passcode and I'm unable to access my account
+GEN | [automatic_top_up] | Orig: Can I schedule future top ups? -> Aug: Is it possible to set up recurring automatic top-ups for my account?
+GEN | [age_limit] | Orig: What is the process for setting up and account for my child? -> Aug: How do I establish an account for my minor child, and what are the requirements for opening a youth account?
+GEN | [top_up_failed] | Orig: is there a way to fix my top up -> Aug: can you help me resolve the issue with my recent top-up attempt?
+GEN | [exchange_rate] | Orig: What factors determine your exchange rate? -> Aug: What influences your exchange rate calculation?
+GEN | [order_physical_card] | Orig: I still don't have a card. How do I get one? -> Aug: I'd like to place an order for a physical credit card. Can you guide me through the process?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you check if my money has reached my account since it is not showing up yet? -> Aug: I'm still waiting to see the funds from my recent transfer appear in my account, could you please verify if it's been processed and updated my balance?
+GEN | [top_up_failed] | Orig: How can correct Top up with the app to work correctly? -> Aug: Why is the top-up process not working properly when I try to use the app?
+GEN | [top_up_by_cash_or_cheque] | Orig: How long before a check I send clears? -> Aug: Can you please let me know how long it takes for a cheque to clear before I can use it to top up my account?
+GEN | [transfer_timing] | Orig: How fast are transfers from Europe? -> Aug: What is the typical processing time for international transfers from Europe?
+GEN | [pending_cash_withdrawal] | Orig: The transaction for the cash I pulled out of the ATM earlier is pending in the app, but how if I already have the cash? -> Aug: The cash withdrawal I made at the ATM is showing as pending in the app, but I've already received the cash, what's the status?
+VAL | [declined_cash_withdrawal] | YES | Text: I attempted to withdraw cash from my account, but the transaction was declined. What are my options for retrieving my funds?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm confused because my app shows a cash withdrawal, but I didn't receive the cash.
+VAL | [why_verify_identity] | YES | Text: Can I access my account services if my identity verification process is still pending?
+VAL | [edit_personal_details] | YES | Text: I'd like to update my address.
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: The exchange rate for the item I purchased in a different currency is incorrect, can you adjust it for me?
+VAL | [top_up_reverted] | NO | Text: I'm having trouble adding funds to my top-up account, can you help me resolve this issue?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I haven't received the funds I transferred since Friday, can you help me locate the issue?
+VAL | [receiving_money] | YES | Text: Can you please guide me on how to receive a payment from someone?
+VAL | [receiving_money] | NO | Text: Can I include my income in the application?
+VAL | [verify_my_identity] | NO | Text: What types of identification documents are accepted for verification purposes?
+VAL | [failed_transfer] | YES | Text: I'm trying to send a transfer to another account, but it's not going through. I've double-checked my info and the funds are available, so I'm not sure why it's being rejected. Can you help me figure out what's going on?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm trying to recall a recent cash withdrawal from my account, but the transaction isn't showing up on my app.
+VAL | [card_delivery_estimate] | YES | Text: Can you please provide an estimate of the delivery time for my card, specifically within a 2-day timeframe?
+VAL | [failed_transfer] | YES | Text: I'm having trouble completing a transfer and need assistance resolving the issue.
+VAL | [exchange_rate] | YES | Text: Can you please confirm the source of the exchange rate used for the transfer I'm planning to make?
+VAL | [transaction_charged_twice] | YES | Text: I was charged twice for the same transaction, but my card was declined.
+VAL | [pending_cash_withdrawal] | YES | Text: I'm reviewing my account and noticed a pending transaction that I didn't complete. I was trying to withdraw cash at an ATM, but the machine declined my card. Can you cancel this pending transaction as I didn't receive the funds and don't want it to go through?
+VAL | [top_up_by_card_charge] | NO | Text: Can I charge my card to top up my account without incurring any additional fees?
+VAL | [topping_up_by_card] | NO | Text: I'm trying to add funds to my account using my card, but I don't see the option
+VAL | [order_physical_card] | YES | Text: Can you guide me through the process of ordering a physical credit card?
+VAL | [verify_source_of_funds] | YES | Text: Can you confirm the origin of the funds in my account that are readily available for use?
+VAL | [transfer_timing] | YES | Text: What is the typical processing time for international wire transfers from Europe to my account?
+VAL | [topping_up_by_card] | YES | Text: I'm unable to see my latest card top-up transaction.
+VAL | [pending_cash_withdrawal] | YES | Text: I'm experiencing an issue with a pending cash withdrawal attempt from an ATM earlier. The transaction didn't go through, and I'd appreciate it if you could assist me in resolving this matter.
+VAL | [declined_cash_withdrawal] | NO | Text: I'm sorry to inform you that your recent cash withdrawal request has been declined due to insufficient funds or account restrictions. Please check your account balance and transaction history to understand the reason behind this decline.
+VAL | [passcode_forgotten] | YES | Text: I forgot my passcode and I'm unable to access my account
+VAL | [automatic_top_up] | YES | Text: Is it possible to set up recurring automatic top-ups for my account?
+VAL | [age_limit] | NO | Text: How do I establish an account for my minor child, and what are the requirements for opening a youth account?
+VAL | [top_up_failed] | YES | Text: can you help me resolve the issue with my recent top-up attempt?
+VAL | [exchange_rate] | YES | Text: What influences your exchange rate calculation?
+VAL | [order_physical_card] | YES | Text: I'd like to place an order for a physical credit card. Can you guide me through the process?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm still waiting to see the funds from my recent transfer appear in my account, could you please verify if it's been processed and updated my balance?
+VAL | [top_up_failed] | NO | Text: Why is the top-up process not working properly when I try to use the app?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can you please let me know how long it takes for a cheque to clear before I can use it to top up my account?
+VAL | [transfer_timing] | YES | Text: What is the typical processing time for international transfers from Europe?
+VAL | [pending_cash_withdrawal] | YES | Text: The cash withdrawal I made at the ATM is showing as pending in the app, but I've already received the cash, what's the status?

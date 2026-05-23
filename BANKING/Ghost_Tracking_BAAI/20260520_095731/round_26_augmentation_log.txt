@@ -1,0 +1,66 @@
+GEN | [cancel_transfer] | Orig: Can I stop a transaction? -> Aug: Can I cancel a transfer?
+GEN | [lost_or_stolen_phone] | Orig: What do I do if I cannot access the app? -> Aug: I've misplaced my phone and can't access the app. What should I do?
+GEN | [receiving_money] | Orig: can my husband open an account and transfer money -> Aug: Can my spouse create an account and deposit funds?
+GEN | [cash_withdrawal_not_recognised] | Orig: I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me? -> Aug: I'm concerned that my card may have been compromised. I haven't misplaced it, but I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?
+GEN | [card_not_working] | Orig: Why won't the machine accept my card anymore? -> Aug: Why is my card not being recognized by the payment terminal?
+GEN | [cancel_transfer] | Orig: I need to change a transfer. -> Aug: I'd like to cancel a transfer I previously initiated.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I was overcharged at an ATM while on vacation. I needed cash so I had to use it, but your charges are outregous and I wish I would have known beforehand. -> Aug: I was surprised to find that the exchange rate was incorrect when I withdrew cash from an ATM while traveling abroad. I had to use the service, but I'm disappointed that I wasn't informed about the rate beforehand.
+GEN | [verify_top_up] | Orig: What can I do to verify my card? -> Aug: How can I confirm my card details for a successful top-up?
+GEN | [edit_personal_details] | Orig: Need to report a change of address. -> Aug: Update my personal information to reflect a new address.
+GEN | [activate_my_card] | Orig: I want to start using my card. -> Aug: I'd like to activate my credit/debit card for the first time.
+GEN | [declined_cash_withdrawal] | Orig: My card didn't work at the ATM in Notting Hill.  Is my card working? -> Aug: We're sorry to inform you that your cash withdrawal request was declined due to an issue with your card. Please check your account balance or contact our customer service team to resolve the issue.
+GEN | [card_delivery_estimate] | Orig: I need my card ASAP! -> Aug: I require an estimated delivery date for my card as soon as possible.
+GEN | [top_up_by_bank_transfer_charge] | Orig: How much is it to receive money? -> Aug: What is the fee for receiving a bank transfer top-up?
+GEN | [card_payment_fee_charged] | Orig: I am angry that I got charged for using my card. -> Aug: I'm frustrated because I was unexpectedly charged a fee for making a transaction with my credit card.
+GEN | [passcode_forgotten] | Orig: I can't log in -> Aug: I forgot my passcode and I'm unable to access my account
+GEN | [visa_or_mastercard] | Orig: Which type of card will I receive? -> Aug: What kind of payment card will I be issued, Visa or Mastercard?
+GEN | [cash_withdrawal_not_recognised] | Orig: Help!  The app says I took out cash but I didn't! -> Aug: I'm confused, my account shows a cash withdrawal, but I'm certain I didn't make one.
+GEN | [pending_top_up] | Orig: Help, I don't see my money i just added. -> Aug: I'm having trouble finding the funds I just deposited.
+GEN | [transfer_into_account] | Orig: What are my bank details so I can do a transfer? -> Aug: I'd like to know my account information to initiate a transfer to another account.
+GEN | [why_verify_identity] | Orig: what I need to verify my account -> Aug: Can you please explain why I need to verify my account?
+GEN | [direct_debit_payment_not_recognised] | Orig: Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money. -> Aug: Can I review a past transaction to see who made a withdrawal from my account? I'm not sure if I authorized it, but I'd like to verify who took the money a few weeks ago.
+GEN | [receiving_money] | Orig: how do i find out about transfers -> Aug: how can I check my incoming transactions?
+GEN | [transfer_into_account] | Orig: What transfer methods do you accept? -> Aug: How can I transfer funds into my account?
+GEN | [cash_withdrawal_not_recognised] | Orig: I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP -> Aug: I'M UNABLE TO FIND THE CASH WITHDRAWAL TRANSACTION IN MY ONLINE STATEMENT.
+GEN | [card_not_working] | Orig: Did you deactivate my card it's not working anymore -> Aug: My card stopped working after I think I accidentally deactivated it
+GEN | [top_up_reverted] | Orig: For some reason, the money I added was returned. -> Aug: The funds I attempted to top up were unexpectedly reversed.
+GEN | [reverted_card_payment?] | Orig: I bought something and already paid for it but now I don't see it. -> Aug: I made a purchase and paid for it, but the item is missing from my account.
+GEN | [automatic_top_up] | Orig: Will the system automatically update once there is no more money left? -> Aug: Will the automatic top-up feature trigger a refill when my account balance reaches zero?
+GEN | [transfer_fee_charged] | Orig: I usually don't get charged for transfers, why was I this month? -> Aug: I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?
+GEN | [wrong_amount_of_cash_received] | Orig: My cash received does not match what has been requested -> Aug: The amount of cash I received is not what I was expecting.
+GEN | [passcode_forgotten] | Orig: I forgot my code -> Aug: I've misplaced my passcode
+GEN | [pending_cash_withdrawal] | Orig: There is a withdrawal waiting. -> Aug: A pending cash withdrawal is awaiting processing.
+GEN | [request_refund] | Orig: Canceling my order is what I need to do right now. -> Aug: I'd like to initiate a cancellation and request a refund for my recent order.
+VAL | [cancel_transfer] | YES | Text: Can I cancel a transfer?
+VAL | [lost_or_stolen_phone] | YES | Text: I've misplaced my phone and can't access the app. What should I do?
+VAL | [receiving_money] | NO | Text: Can my spouse create an account and deposit funds?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm concerned that my card may have been compromised. I haven't misplaced it, but I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?
+VAL | [card_not_working] | YES | Text: Why is my card not being recognized by the payment terminal?
+VAL | [cancel_transfer] | YES | Text: I'd like to cancel a transfer I previously initiated.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I was surprised to find that the exchange rate was incorrect when I withdrew cash from an ATM while traveling abroad. I had to use the service, but I'm disappointed that I wasn't informed about the rate beforehand.
+VAL | [verify_top_up] | NO | Text: How can I confirm my card details for a successful top-up?
+VAL | [edit_personal_details] | YES | Text: Update my personal information to reflect a new address.
+VAL | [activate_my_card] | YES | Text: I'd like to activate my credit/debit card for the first time.
+VAL | [declined_cash_withdrawal] | NO | Text: We're sorry to inform you that your cash withdrawal request was declined due to an issue with your card. Please check your account balance or contact our customer service team to resolve the issue.
+VAL | [card_delivery_estimate] | YES | Text: I require an estimated delivery date for my card as soon as possible.
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: What is the fee for receiving a bank transfer top-up?
+VAL | [card_payment_fee_charged] | YES | Text: I'm frustrated because I was unexpectedly charged a fee for making a transaction with my credit card.
+VAL | [passcode_forgotten] | YES | Text: I forgot my passcode and I'm unable to access my account
+VAL | [visa_or_mastercard] | YES | Text: What kind of payment card will I be issued, Visa or Mastercard?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm confused, my account shows a cash withdrawal, but I'm certain I didn't make one.
+VAL | [pending_top_up] | NO | Text: I'm having trouble finding the funds I just deposited.
+VAL | [transfer_into_account] | YES | Text: I'd like to know my account information to initiate a transfer to another account.
+VAL | [why_verify_identity] | NO | Text: Can you please explain why I need to verify my account?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: Can I review a past transaction to see who made a withdrawal from my account? I'm not sure if I authorized it, but I'd like to verify who took the money a few weeks ago.
+VAL | [receiving_money] | YES | Text: how can I check my incoming transactions?
+VAL | [transfer_into_account] | YES | Text: How can I transfer funds into my account?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'M UNABLE TO FIND THE CASH WITHDRAWAL TRANSACTION IN MY ONLINE STATEMENT.
+VAL | [card_not_working] | YES | Text: My card stopped working after I think I accidentally deactivated it
+VAL | [top_up_reverted] | YES | Text: The funds I attempted to top up were unexpectedly reversed.
+VAL | [reverted_card_payment?] | YES | Text: I made a purchase and paid for it, but the item is missing from my account.
+VAL | [automatic_top_up] | YES | Text: Will the automatic top-up feature trigger a refill when my account balance reaches zero?
+VAL | [transfer_fee_charged] | YES | Text: I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?
+VAL | [wrong_amount_of_cash_received] | YES | Text: The amount of cash I received is not what I was expecting.
+VAL | [passcode_forgotten] | YES | Text: I've misplaced my passcode
+VAL | [pending_cash_withdrawal] | YES | Text: A pending cash withdrawal is awaiting processing.
+VAL | [request_refund] | NO | Text: I'd like to initiate a cancellation and request a refund for my recent order.

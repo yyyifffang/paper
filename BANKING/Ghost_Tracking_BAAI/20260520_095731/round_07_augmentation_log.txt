@@ -1,0 +1,76 @@
+GEN | [supported_cards_and_currencies] | Orig: I need to know if you will accept my credit card. -> Aug: I'd like to confirm if you support my Visa card.
+GEN | [getting_spare_card] | Orig: Do you send more than one card? -> Aug: Can I request an additional card or a replacement card if I've lost or damaged my current one?
+GEN | [country_support] | Orig: i live in portugal. do you operate here? -> Aug: I'm a resident of Portugal. Can you confirm if your services are available in this country?
+GEN | [card_delivery_estimate] | Orig: can you express my card to me? -> Aug: Can you provide an estimated delivery date for my card?
+GEN | [visa_or_mastercard] | Orig: I would like to know if you use Visa or Mastercard. -> Aug: I'd like to confirm if you accept Visa or Mastercard as a payment method.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you see my new balance yet? -> Aug: Why hasn't my account balance been updated after the recent transfer I made?
+GEN | [automatic_top_up] | Orig: How low does the balance have to be before the system updates? -> Aug: What minimum balance is required to trigger an automatic top-up?
+GEN | [top_up_failed] | Orig: I'm not sure if my pop-up went through. -> Aug: I'm concerned that my top-up didn't process successfully.
+GEN | [visa_or_mastercard] | Orig: I'm happy with Mastercard and want to stick with just that credit card. -> Aug: I'm satisfied with my current Mastercard and would like to continue using it exclusively.
+GEN | [visa_or_mastercard] | Orig: Can both a Visa and Mastercard be received from you? -> Aug: Can you accept both Visa and Mastercard payments?
+GEN | [top_up_reverted] | Orig: I need some help, I thought you guys accepted crypto top ups?? It won't seem to let me do it. I put money in my account and now it's gone and I didn't spend it. Where did it go?? -> Aug: I'm having an issue with a recent top-up attempt. I tried to add funds to my account using cryptocurrency, but it seems to have been rejected. I'm concerned because I'm missing the amount I transferred, and I'm not sure where it went. Can you help me resolve this?
+GEN | [top_up_reverted] | Orig: My top-up was cancelled and I am writing to ask if I need to complete the 3D Secure authentication section before I submit it. -> Aug: I'm trying to re-initiate my cancelled top-up and wanted to confirm if I need to complete the 3D Secure authentication process before resubmitting it.
+GEN | [supported_cards_and_currencies] | Orig: I only have one other credit card from the US. Do you accept that? -> Aug: I'd like to know if you support the credit card I have from the US, besides the one I'm using now.
+GEN | [country_support] | Orig: Do you work in Greece? -> Aug: Are you based in Greece?
+GEN | [card_arrival] | Orig: can you share card tracking number? -> Aug: can you provide the tracking number for my card delivery?
+GEN | [supported_cards_and_currencies] | Orig: I have one other credit card from the US. Do you take it? -> Aug: I have another credit card from the US. What types of credit cards do you accept?
+GEN | [supported_cards_and_currencies] | Orig: I have one other credit card from the US. Do you take that? -> Aug: I have another credit card from the US. Do you accept it?
+GEN | [exchange_charge] | Orig: I've been to several different countries, can I exchange the cash with a discount for a large transaction? -> Aug: I'm planning a trip abroad and I'd like to know if I can exchange a large amount of cash for a discounted rate.
+GEN | [country_support] | Orig: Can I get support? -> Aug: Do you need assistance with a specific country-related inquiry or issue?
+GEN | [visa_or_mastercard] | Orig: I need a Visa and a Mastercard from you. -> Aug: I require both a Visa and a Mastercard from your institution.
+GEN | [why_verify_identity] | Orig: Can i make transactions before identity verification? -> Aug: Can I initiate transactions or access my account before completing the identity verification process?
+GEN | [country_support] | Orig: Do you provide cards to people not in the UK? -> Aug: We offer international debit and credit cards to customers residing outside the UK, but please note that some features and benefits may vary depending on your location.
+GEN | [pending_card_payment] | Orig: I am waiting for a payment to be processed -> Aug: I'm still waiting for a payment to be cleared
+GEN | [visa_or_mastercard] | Orig: Can I get a Visa from you? -> Aug: Can I obtain a Mastercard from you instead?
+GEN | [direct_debit_payment_not_recognised] | Orig: what is the matter? -> Aug: We've noticed that a direct debit payment from your account hasn't been recognized. Can you please help us investigate this issue?
+GEN | [topping_up_by_card] | Orig: I wasn't able to use my top up card because the money I put on there wasn't there anymore -> Aug: I'm having trouble using my card to add funds because the balance I loaded onto it seems to have disappeared
+GEN | [declined_card_payment] | Orig: I couldn't pay with card in a shop -> Aug: Your payment was declined due to an issue with your card, please try a different payment method or contact your bank for assistance.
+GEN | [getting_spare_card] | Orig: Do you send duplicate cards? -> Aug: Can I get a replacement card or a spare card?
+GEN | [why_verify_identity] | Orig: I still want to use my account but haven't verified is that OK? -> Aug: I'd like to continue using my account, but I haven't completed the verification process yet. Is that acceptable?
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I add physical money to my card? -> Aug: You can top up your card using cash or cheque. Can I assist you with the process?
+GEN | [visa_or_mastercard] | Orig: If I can, I would like to get both Mastercard and Visa from you. -> Aug: I'd appreciate it if you could provide me with both Mastercard and Visa options.
+GEN | [why_verify_identity] | Orig: I am still waiting for verification.  Can I use my account before I am verified? -> Aug: I'm trying to access my account, but I haven't received the verification email yet. Can I still use my account until I'm verified?
+GEN | [card_not_working] | Orig: WHAT IS THE MAIN REASON OF THIS PROBLEM -> Aug: WHY IS MY CARD NOT FUNCTIONING PROPERLY?
+GEN | [card_linking] | Orig: Is there a way to link cards if I have one of yours? -> Aug: Can I link my existing card to another one I have with your bank?
+GEN | [verify_top_up] | Orig: I am having trouble finding the top-up card verification code. -> Aug: I'm having issues locating the verification code for my top-up card.
+GEN | [contactless_not_working] | Orig: Help me to set up contactless payments. -> Aug: I'm having trouble using contactless payments and need assistance with setting it up.
+GEN | [lost_or_stolen_card] | Orig: I think my wallet fell out on the Tube today! I realized as soon as I got to my desk. How do I cut off the card? -> Aug: I'm pretty sure I left my wallet on the bus and I just got to the office. I'm worried someone might use my card. Can I report it lost or stolen?
+GEN | [visa_or_mastercard] | Orig: is it ok if i use both visa and mastercard -> Aug: can i use both visa and mastercard for the transaction?
+VAL | [supported_cards_and_currencies] | YES | Text: I'd like to confirm if you support my Visa card.
+VAL | [getting_spare_card] | NO | Text: Can I request an additional card or a replacement card if I've lost or damaged my current one?
+VAL | [country_support] | YES | Text: I'm a resident of Portugal. Can you confirm if your services are available in this country?
+VAL | [card_delivery_estimate] | YES | Text: Can you provide an estimated delivery date for my card?
+VAL | [visa_or_mastercard] | YES | Text: I'd like to confirm if you accept Visa or Mastercard as a payment method.
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: Why hasn't my account balance been updated after the recent transfer I made?
+VAL | [automatic_top_up] | NO | Text: What minimum balance is required to trigger an automatic top-up?
+VAL | [top_up_failed] | YES | Text: I'm concerned that my top-up didn't process successfully.
+VAL | [visa_or_mastercard] | YES | Text: I'm satisfied with my current Mastercard and would like to continue using it exclusively.
+VAL | [visa_or_mastercard] | NO | Text: Can you accept both Visa and Mastercard payments?
+VAL | [top_up_reverted] | YES | Text: I'm having an issue with a recent top-up attempt. I tried to add funds to my account using cryptocurrency, but it seems to have been rejected. I'm concerned because I'm missing the amount I transferred, and I'm not sure where it went. Can you help me resolve this?
+VAL | [top_up_reverted] | YES | Text: I'm trying to re-initiate my cancelled top-up and wanted to confirm if I need to complete the 3D Secure authentication process before resubmitting it.
+VAL | [supported_cards_and_currencies] | YES | Text: I'd like to know if you support the credit card I have from the US, besides the one I'm using now.
+VAL | [country_support] | YES | Text: Are you based in Greece?
+VAL | [card_arrival] | YES | Text: can you provide the tracking number for my card delivery?
+VAL | [supported_cards_and_currencies] | YES | Text: I have another credit card from the US. What types of credit cards do you accept?
+VAL | [supported_cards_and_currencies] | YES | Text: I have another credit card from the US. Do you accept it?
+VAL | [exchange_charge] | NO | Text: I'm planning a trip abroad and I'd like to know if I can exchange a large amount of cash for a discounted rate.
+VAL | [country_support] | NO | Text: Do you need assistance with a specific country-related inquiry or issue?
+VAL | [visa_or_mastercard] | YES | Text: I require both a Visa and a Mastercard from your institution.
+VAL | [why_verify_identity] | NO | Text: Can I initiate transactions or access my account before completing the identity verification process?
+VAL | [country_support] | NO | Text: We offer international debit and credit cards to customers residing outside the UK, but please note that some features and benefits may vary depending on your location.
+VAL | [pending_card_payment] | YES | Text: I'm still waiting for a payment to be cleared
+VAL | [visa_or_mastercard] | NO | Text: Can I obtain a Mastercard from you instead?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've noticed that a direct debit payment from your account hasn't been recognized. Can you please help us investigate this issue?
+VAL | [topping_up_by_card] | NO | Text: I'm having trouble using my card to add funds because the balance I loaded onto it seems to have disappeared
+VAL | [declined_card_payment] | NO | Text: Your payment was declined due to an issue with your card, please try a different payment method or contact your bank for assistance.
+VAL | [getting_spare_card] | NO | Text: Can I get a replacement card or a spare card?
+VAL | [why_verify_identity] | YES | Text: I'd like to continue using my account, but I haven't completed the verification process yet. Is that acceptable?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: You can top up your card using cash or cheque. Can I assist you with the process?
+VAL | [visa_or_mastercard] | YES | Text: I'd appreciate it if you could provide me with both Mastercard and Visa options.
+VAL | [why_verify_identity] | NO | Text: I'm trying to access my account, but I haven't received the verification email yet. Can I still use my account until I'm verified?
+VAL | [card_not_working] | NO | Text: WHY IS MY CARD NOT FUNCTIONING PROPERLY?
+VAL | [card_linking] | YES | Text: Can I link my existing card to another one I have with your bank?
+VAL | [verify_top_up] | YES | Text: I'm having issues locating the verification code for my top-up card.
+VAL | [contactless_not_working] | NO | Text: I'm having trouble using contactless payments and need assistance with setting it up.
+VAL | [lost_or_stolen_card] | YES | Text: I'm pretty sure I left my wallet on the bus and I just got to the office. I'm worried someone might use my card. Can I report it lost or stolen?
+VAL | [visa_or_mastercard] | YES | Text: can i use both visa and mastercard for the transaction?

@@ -1,0 +1,68 @@
+GEN | [automatic_top_up] | Orig: How low does the balance have to be before the system updates? -> Aug: What minimum balance is required to trigger an automatic top-up?
+GEN | [receiving_money] | Orig: Can i get payed through this system? -> Aug: Can I receive payment through this system?
+GEN | [verify_source_of_funds] | Orig: Is there a way for me to check my balance? -> Aug: Can you confirm the source of the funds used to deposit into my account recently?
+GEN | [card_delivery_estimate] | Orig: i need to add express delivery if that's an option -> Aug: I'd like to upgrade to expedited shipping if it's available for my card delivery.
+GEN | [card_arrival] | Orig: WHAT IS THE SOLUTION OF THIS PROBLEM -> Aug: When will I receive my new credit card?
+GEN | [card_payment_not_recognised] | Orig: I need help with some transactions in my account that I dont recognize or remember purchasing. Im not sure if the name is just different or what. Should my card be put on hold while the issue gets figured out to be safe or is it ok? -> Aug: I'm concerned about some transactions on my account that I don't recall making. The merchant names seem unfamiliar, and I'm worried about potential fraud. Should I have my card temporarily suspended while you investigate to ensure my account's security?
+GEN | [transaction_charged_twice] | Orig: I have multiple of the same transaction -> Aug: I've noticed duplicate charges for the same transaction
+GEN | [lost_or_stolen_phone] | Orig: I don't have my cell phone with me so I cannot access the system to complete the transaction. -> Aug: I've misplaced my phone and can't access the system to finish the transaction.
+GEN | [receiving_money] | Orig: Will my GPB update my salary -> Aug: Will my direct deposit reflect my new salary?
+GEN | [receiving_money] | Orig: Is it possible for a friend to personally send me a payment? -> Aug: Can a friend directly transfer funds to me?
+GEN | [cash_withdrawal_not_recognised] | Orig: It is urgency. Please freeze my card now. As someone in some odd remote town has withdrawn some money by using my card. As i did not withdraw any money. -> Aug: I'm in a state of emergency. Please cancel my card immediately. Someone in a distant town has made an unauthorized withdrawal using my card, and I didn't make the transaction myself.
+GEN | [cash_withdrawal_not_recognised] | Orig: What is this witdrawal -> Aug: What's this cash withdrawal I'm trying to make not being recognized?
+GEN | [receiving_money] | Orig: What do I need to do to receive my payroll in the account? -> Aug: How can I get my payroll deposited into my account?
+GEN | [supported_cards_and_currencies] | Orig: why don't you accept american express for adding money to my account -> Aug: We do not currently support American Express as a payment method for adding funds to your account, but we do accept a variety of other cards and currencies, including Visa, Mastercard, and USD/EUR/GBP transfers.
+GEN | [card_arrival] | Orig: Was there a way for me to get tracking for that? -> Aug: Can I get an update on the status of my card delivery?
+GEN | [cancel_transfer] | Orig: Help please!  My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account? -> Aug: My rent payment is scheduled to go out tomorrow, but I made an error with the payment yesterday. Can you please cancel the incorrect transfer and redirect it to the correct account?
+GEN | [supported_cards_and_currencies] | Orig: What are my payment options? -> Aug: We accept various payment methods, including credit cards like Visa, Mastercard, and American Express, as well as digital wallets like Apple Pay and Google Pay. We also support international transactions in multiple currencies, including USD, EUR, JPY, and more.
+GEN | [direct_debit_payment_not_recognised] | Orig: Unusual direct deposit -> Aug: Unidentified direct debit payment
+GEN | [card_not_working] | Orig: WHAT IS THE REASON FOR THAT -> Aug: WHY IS MY CARD NOT WORKING?
+GEN | [lost_or_stolen_card] | Orig: Could you please freeze my card immediately? -> Aug: Can you put a temporary hold on my card due to concerns it may have been lost or stolen?
+GEN | [pending_transfer] | Orig: I have an outgoing transaction -> Aug: I'm waiting for an outgoing transfer to be processed
+GEN | [transfer_not_received_by_recipient] | Orig: |I moved out of my old house two weeks ago and cancelled my direct debit to my old landlord, this direct debit was working fine.  Now I've moved in to a new place and set up a transfer to a new landlord but it's not reached her yet, can you check it please? -> Aug: I recently changed my address and cancelled my direct debit with my previous landlord, which was working correctly. I've since set up a new direct debit with my new landlord, but the transfer hasn't arrived yet. Could you please investigate this issue for me?
+GEN | [card_delivery_estimate] | Orig: can you express my card to me? -> Aug: Can you provide an estimated delivery date for my card?
+GEN | [card_payment_not_recognised] | Orig: Could you please put a freeze on my card?  There are some payments on it that I don't know where they came from. -> Aug: I'm concerned about some unauthorized transactions on my card. Can you temporarily suspend my account to prevent any further activity?
+GEN | [declined_transfer] | Orig: How can I check for an unsupported merchant for my transfer request? -> Aug: We're unable to process your transfer request due to the merchant being unsupported. Can you please check the list of supported merchants on our website to see if the merchant you're trying to transfer to is listed?
+GEN | [direct_debit_payment_not_recognised] | Orig: what is the matter? -> Aug: We've noticed that a direct debit payment from your account hasn't been recognized. Can you please help us investigate this issue?
+GEN | [transaction_charged_twice] | Orig: I only made one transaction at this place, but it's appearing multiple times. -> Aug: I made a single payment, but I'm seeing duplicate charges on my statement.
+GEN | [receiving_money] | Orig: Can my salary be received here? -> Aug: Can I receive my paycheck at this location?
+GEN | [transfer_not_received_by_recipient] | Orig: Where is my last money transaction -> Aug: I haven't received the funds from my recent transfer. Can you help me locate it?
+GEN | [declined_card_payment] | Orig: Hi, is everything in good standing with my card? I am receiving multiple "decline" messages. -> Aug: We've noticed that your recent transactions have been declined. Can you please check your account balance and ensure you have sufficient funds to cover the payments?
+GEN | [compromised_card] | Orig: I don't recognize some transactions.  Is someone else using it? -> Aug: I'm concerned about unauthorized activity on my account. Can you help me investigate?
+GEN | [card_delivery_estimate] | Orig: If I need delivery on a certain day, is that something that could be accommodated? -> Aug: Can you specify a specific delivery date, and I'll check if it's possible to accommodate it?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Balance is not up to date. -> Aug: My account balance is not reflecting the recent transfer I made.
+GEN | [card_about_to_expire] | Orig: Am I able to get this shipped to China? -> Aug: I'm trying to renew my credit card, which is about to expire, and I'd like to know if I can have it delivered to China.
+VAL | [automatic_top_up] | NO | Text: What minimum balance is required to trigger an automatic top-up?
+VAL | [receiving_money] | YES | Text: Can I receive payment through this system?
+VAL | [verify_source_of_funds] | NO | Text: Can you confirm the source of the funds used to deposit into my account recently?
+VAL | [card_delivery_estimate] | NO | Text: I'd like to upgrade to expedited shipping if it's available for my card delivery.
+VAL | [card_arrival] | NO | Text: When will I receive my new credit card?
+VAL | [card_payment_not_recognised] | YES | Text: I'm concerned about some transactions on my account that I don't recall making. The merchant names seem unfamiliar, and I'm worried about potential fraud. Should I have my card temporarily suspended while you investigate to ensure my account's security?
+VAL | [transaction_charged_twice] | YES | Text: I've noticed duplicate charges for the same transaction
+VAL | [lost_or_stolen_phone] | YES | Text: I've misplaced my phone and can't access the system to finish the transaction.
+VAL | [receiving_money] | YES | Text: Will my direct deposit reflect my new salary?
+VAL | [receiving_money] | YES | Text: Can a friend directly transfer funds to me?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm in a state of emergency. Please cancel my card immediately. Someone in a distant town has made an unauthorized withdrawal using my card, and I didn't make the transaction myself.
+VAL | [cash_withdrawal_not_recognised] | NO | Text: What's this cash withdrawal I'm trying to make not being recognized?
+VAL | [receiving_money] | YES | Text: How can I get my payroll deposited into my account?
+VAL | [supported_cards_and_currencies] | NO | Text: We do not currently support American Express as a payment method for adding funds to your account, but we do accept a variety of other cards and currencies, including Visa, Mastercard, and USD/EUR/GBP transfers.
+VAL | [card_arrival] | NO | Text: Can I get an update on the status of my card delivery?
+VAL | [cancel_transfer] | YES | Text: My rent payment is scheduled to go out tomorrow, but I made an error with the payment yesterday. Can you please cancel the incorrect transfer and redirect it to the correct account?
+VAL | [supported_cards_and_currencies] | YES | Text: We accept various payment methods, including credit cards like Visa, Mastercard, and American Express, as well as digital wallets like Apple Pay and Google Pay. We also support international transactions in multiple currencies, including USD, EUR, JPY, and more.
+VAL | [direct_debit_payment_not_recognised] | NO | Text: Unidentified direct debit payment
+VAL | [card_not_working] | YES | Text: WHY IS MY CARD NOT WORKING?
+VAL | [lost_or_stolen_card] | YES | Text: Can you put a temporary hold on my card due to concerns it may have been lost or stolen?
+VAL | [pending_transfer] | YES | Text: I'm waiting for an outgoing transfer to be processed
+VAL | [transfer_not_received_by_recipient] | YES | Text: I recently changed my address and cancelled my direct debit with my previous landlord, which was working correctly. I've since set up a new direct debit with my new landlord, but the transfer hasn't arrived yet. Could you please investigate this issue for me?
+VAL | [card_delivery_estimate] | YES | Text: Can you provide an estimated delivery date for my card?
+VAL | [card_payment_not_recognised] | NO | Text: I'm concerned about some unauthorized transactions on my card. Can you temporarily suspend my account to prevent any further activity?
+VAL | [declined_transfer] | NO | Text: We're unable to process your transfer request due to the merchant being unsupported. Can you please check the list of supported merchants on our website to see if the merchant you're trying to transfer to is listed?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've noticed that a direct debit payment from your account hasn't been recognized. Can you please help us investigate this issue?
+VAL | [transaction_charged_twice] | YES | Text: I made a single payment, but I'm seeing duplicate charges on my statement.
+VAL | [receiving_money] | YES | Text: Can I receive my paycheck at this location?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I haven't received the funds from my recent transfer. Can you help me locate it?
+VAL | [declined_card_payment] | NO | Text: We've noticed that your recent transactions have been declined. Can you please check your account balance and ensure you have sufficient funds to cover the payments?
+VAL | [compromised_card] | YES | Text: I'm concerned about unauthorized activity on my account. Can you help me investigate?
+VAL | [card_delivery_estimate] | YES | Text: Can you specify a specific delivery date, and I'll check if it's possible to accommodate it?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: My account balance is not reflecting the recent transfer I made.
+VAL | [card_about_to_expire] | NO | Text: I'm trying to renew my credit card, which is about to expire, and I'd like to know if I can have it delivered to China.

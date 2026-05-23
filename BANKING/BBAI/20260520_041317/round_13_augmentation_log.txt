@@ -1,0 +1,60 @@
+GEN | [declined_card_payment] | Orig: A shop I go to didn't let me pay. -> Aug: Your recent payment attempt at the mentioned shop was declined due to an issue with your card.
+GEN | [edit_personal_details] | Orig: I have a new email. -> Aug: I would like to update my email address.
+GEN | [order_physical_card] | Orig: What does the bank charge for lost or stolen card replacements? -> Aug: Can I get a new physical card if my current one is lost or stolen, and what's the fee for that service?
+GEN | [pending_top_up] | Orig: I added money to the card but the transaction didn't go through -> Aug: I attempted to top up my card, but the transaction is still pending and hasn't been processed
+GEN | [compromised_card] | Orig: Should I order a new card before I freeze my original one? -> Aug: Should I request a replacement card before reporting my original card as lost or stolen?
+GEN | [top_up_by_cash_or_cheque] | Orig: Do you accept cash? -> Aug: Can I make a cash deposit to top up my account?
+GEN | [top_up_failed] | Orig: I didn't see the money I added to my card. -> Aug: I attempted to top up my card, but the funds didn't appear.
+GEN | [pending_cash_withdrawal] | Orig: Explain pending transactions. -> Aug: What is the status of my pending cash withdrawal request?
+GEN | [transfer_not_received_by_recipient] | Orig: When will I get my money? It's been too long. -> Aug: I'm concerned about the status of my recent transfer. The recipient hasn't received it yet, and I'm worried it's taking too long.
+GEN | [topping_up_by_card] | Orig: I need my card topped up, -> Aug: I would like to add funds to my card using my card details.
+GEN | [topping_up_by_card] | Orig: Why was my card charged when topping off my balance but it's not showing up in my wallet balance? -> Aug: I'm trying to add funds to my account using my card, but the transaction is being processed, but the updated balance isn't reflecting in my account.
+GEN | [card_about_to_expire] | Orig: How do I go about ordering a new bank card? -> Aug: Before I do that, I'd like to confirm if my current bank card is still active or if it's about to expire soon, and if so, what are the next steps to replace it?
+GEN | [extra_charge_on_statement] | Orig: Why is there a pending hold on one pound on my statement? -> Aug: We noticed a small extra charge on your recent statement, and we'd like to clarify the reason behind it. Can you please review your statement and let us know if you have any questions or concerns about the additional fee?
+GEN | [direct_debit_payment_not_recognised] | Orig: How can I dispute a debit transaction? -> Aug: I'm trying to resolve an issue with a direct debit payment that was not recognized by my account.
+GEN | [disposable_card_limits] | Orig: Help me create several temp cards every day. -> Aug: Can you assist me in generating multiple disposable cards daily?
+GEN | [card_linking] | Orig: In the app, how can I make it show the new card that arrived? -> Aug: In the app, how can I link my new card to my account so I can see it listed?
+GEN | [getting_spare_card] | Orig: I need more physical cards than I have right now! -> Aug: I require additional physical debit/credit cards to replace the ones I've lost or misplaced.
+GEN | [top_up_reverted] | Orig: It's only been a few weeks my my top-up got cancelled -> Aug: My recent top-up was reversed, and I'm wondering why it was cancelled so soon after processing.
+GEN | [card_arrival] | Orig: I don't have my card after 1 week. What are my next steps? -> Aug: I haven't received my card yet, and it's been a week. What should I do next?
+GEN | [transaction_charged_twice] | Orig: What happens with the duplicate charge in my account? -> Aug: I was mistakenly charged twice for the same transaction. Can you help me resolve this issue and correct the error?
+GEN | [compromised_card] | Orig: How do I stop fraud to my card? -> Aug: What can I do to prevent unauthorized transactions on my compromised card?
+GEN | [pending_card_payment] | Orig: How long does it actually take my card payment to make it to the account? I've made a payment a couple of days ago but it hasn't moved since. -> Aug: I'd be happy to help you with that! Can you please confirm the payment amount and the date you made the payment? Additionally, could you please check if the payment was made using a credit or debit card? This information will help me better assist you in tracking the status of your pending card payment.
+GEN | [cash_withdrawal_not_recognised] | Orig: There has a recent suspicious withdrawal on my bank account. Is it possible to freeze my card? -> Aug: I'm concerned about a recent unauthorized cash withdrawal from my account. Can I request that my card be temporarily suspended?
+GEN | [compromised_card] | Orig: It looks like someone besides me ordered something with my card, what should I do? -> Aug: It appears that an unauthorized transaction has been made using my card, what steps can I take to resolve this issue?
+GEN | [getting_spare_card] | Orig: I have left my card at my parents house. Can you send me a spare one please to use in the meantime? -> Aug: I accidentally left my card at my friend's place and need a replacement to use temporarily, could you please send me a spare one?
+GEN | [transfer_timing] | Orig: How long does it take to get my money -> Aug: When can I expect to receive the funds after initiating a transfer?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this. -> Aug: I'm having trouble seeing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me in resolving this issue?
+GEN | [declined_card_payment] | Orig: I couldn't pay with my card -> Aug: Your payment was declined due to an issue with your card.
+GEN | [cancel_transfer] | Orig: I have a transaction and would like to know if I it's cancelable? -> Aug: I'd like to inquire about the possibility of canceling a recent transaction.
+GEN | [card_payment_fee_charged] | Orig: Let me know when you charge for payments. I just checked the app and saw a fee that I wasn't warned about. -> Aug: Can you inform me when you'll be charging a fee for the payment? I just checked the app and noticed a fee that I wasn't expecting, and I'd like to know more about it.
+VAL | [declined_card_payment] | NO | Text: Your recent payment attempt at the mentioned shop was declined due to an issue with your card.
+VAL | [edit_personal_details] | YES | Text: I would like to update my email address.
+VAL | [order_physical_card] | NO | Text: Can I get a new physical card if my current one is lost or stolen, and what's the fee for that service?
+VAL | [pending_top_up] | YES | Text: I attempted to top up my card, but the transaction is still pending and hasn't been processed
+VAL | [compromised_card] | YES | Text: Should I request a replacement card before reporting my original card as lost or stolen?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I make a cash deposit to top up my account?
+VAL | [top_up_failed] | YES | Text: I attempted to top up my card, but the funds didn't appear.
+VAL | [pending_cash_withdrawal] | YES | Text: What is the status of my pending cash withdrawal request?
+VAL | [transfer_not_received_by_recipient] | NO | Text: I'm concerned about the status of my recent transfer. The recipient hasn't received it yet, and I'm worried it's taking too long.
+VAL | [topping_up_by_card] | YES | Text: I would like to add funds to my card using my card details.
+VAL | [topping_up_by_card] | NO | Text: I'm trying to add funds to my account using my card, but the transaction is being processed, but the updated balance isn't reflecting in my account.
+VAL | [card_about_to_expire] | NO | Text: Before I do that, I'd like to confirm if my current bank card is still active or if it's about to expire soon, and if so, what are the next steps to replace it?
+VAL | [extra_charge_on_statement] | NO | Text: We noticed a small extra charge on your recent statement, and we'd like to clarify the reason behind it. Can you please review your statement and let us know if you have any questions or concerns about the additional fee?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm trying to resolve an issue with a direct debit payment that was not recognized by my account.
+VAL | [disposable_card_limits] | YES | Text: Can you assist me in generating multiple disposable cards daily?
+VAL | [card_linking] | YES | Text: In the app, how can I link my new card to my account so I can see it listed?
+VAL | [getting_spare_card] | YES | Text: I require additional physical debit/credit cards to replace the ones I've lost or misplaced.
+VAL | [top_up_reverted] | YES | Text: My recent top-up was reversed, and I'm wondering why it was cancelled so soon after processing.
+VAL | [card_arrival] | YES | Text: I haven't received my card yet, and it's been a week. What should I do next?
+VAL | [transaction_charged_twice] | YES | Text: I was mistakenly charged twice for the same transaction. Can you help me resolve this issue and correct the error?
+VAL | [compromised_card] | YES | Text: What can I do to prevent unauthorized transactions on my compromised card?
+VAL | [pending_card_payment] | NO | Text: I'd be happy to help you with that! Can you please confirm the payment amount and the date you made the payment? Additionally, could you please check if the payment was made using a credit or debit card? This information will help me better assist you in tracking the status of your pending card payment.
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I'm concerned about a recent unauthorized cash withdrawal from my account. Can I request that my card be temporarily suspended?
+VAL | [compromised_card] | YES | Text: It appears that an unauthorized transaction has been made using my card, what steps can I take to resolve this issue?
+VAL | [getting_spare_card] | NO | Text: I accidentally left my card at my friend's place and need a replacement to use temporarily, could you please send me a spare one?
+VAL | [transfer_timing] | YES | Text: When can I expect to receive the funds after initiating a transfer?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm having trouble seeing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me in resolving this issue?
+VAL | [declined_card_payment] | YES | Text: Your payment was declined due to an issue with your card.
+VAL | [cancel_transfer] | YES | Text: I'd like to inquire about the possibility of canceling a recent transaction.
+VAL | [card_payment_fee_charged] | NO | Text: Can you inform me when you'll be charging a fee for the payment? I just checked the app and noticed a fee that I wasn't expecting, and I'd like to know more about it.

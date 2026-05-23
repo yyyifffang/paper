@@ -1,0 +1,66 @@
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I thought I was going to receive more currency? -> Aug: I was expecting a better exchange rate for the cash withdrawal.
+GEN | [exchange_via_app] | Orig: Can this convert money? -> Aug: Can I exchange currency using the app?
+GEN | [pending_top_up] | Orig: Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour. -> Aug: Can you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for an hour already.
+GEN | [why_verify_identity] | Orig: Can I make transfers before my identity verification? -> Aug: Before we proceed with any transactions, including transfers, we need to verify your identity to ensure the security and integrity of your account. This is a standard security measure to prevent unauthorized access and protect your personal and financial information.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are SWIFT Transfers available at this bank? -> Aug: Can I use a SWIFT transfer to top up my account from another bank, and what are the associated charges for this service?
+GEN | [card_acceptance] | Orig: What kind of businesses will take my card? -> Aug: What types of merchants accept my credit/debit card?
+GEN | [top_up_reverted] | Orig: It's only been a few weeks my my top-up got cancelled -> Aug: My recent top-up was reversed, and I'm wondering why it was cancelled so soon after processing.
+GEN | [card_acceptance] | Orig: Can I tell what business will take this card? -> Aug: Is there a specific merchant or business that accepts this card?
+GEN | [order_physical_card] | Orig: What do I owe for a new card? -> Aug: How much does a new physical credit card cost?
+GEN | [getting_spare_card] | Orig: Can my daughter also have a card issued in her name, but linked to my account? -> Aug: Can I request a spare card in my daughter's name, which will be linked to my existing account?
+GEN | [country_support] | Orig: where do you have locations at -> Aug: which countries do you operate in?
+GEN | [transaction_charged_twice] | Orig: My card is showing the same transaction over and over again. -> Aug: I've noticed that I've been charged multiple times for the same transaction.
+GEN | [visa_or_mastercard] | Orig: Which type of card will I receive? -> Aug: What kind of payment card will I be issued, Visa or Mastercard?
+GEN | [top_up_reverted] | Orig: I didn't cancel my top-up. -> Aug: I mistakenly didn't cancel my top-up.
+GEN | [card_linking] | Orig: If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it? -> Aug: If I locate a lost card, do I need to cancel it or can I reactivate it and continue using it?
+GEN | [top_up_failed] | Orig: Can I tell if my top off didn't work?  It doesn't seem to have. -> Aug: Can you help me figure out why my top-up didn't go through? It appears to have failed.
+GEN | [compromised_card] | Orig: My card must have used my card as there are some transactions that I haven't done myself.. -> Aug: I'm concerned that someone has accessed my account because I've noticed transactions on my statement that I didn't authorize.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Does this program take SWIFT transfers? -> Aug: Can I use a bank transfer with a SWIFT code to top up my account?
+GEN | [top_up_failed] | Orig: I didn't see the money I added to my card. -> Aug: I attempted to top up my card, but the funds didn't appear.
+GEN | [compromised_card] | Orig: It looks like someone besides me ordered something with my card, what should I do? -> Aug: It appears that an unauthorized transaction has been made using my card, what steps can I take to resolve this issue?
+GEN | [compromised_card] | Orig: am suspicious of my card's security -> Aug: I'm concerned that my card's security has been compromised.
+GEN | [card_about_to_expire] | Orig: How can I get a card sent to China? -> Aug: I'm trying to send a card to China, but I'm worried it might expire before I can use it. Can I get a new one or extend the validity period?
+GEN | [reverted_card_payment?] | Orig: I have cancelled payments to this card. -> Aug: I recently reversed a payment made to this card.
+GEN | [get_disposable_virtual_card] | Orig: I need a single use card for shopping online -> Aug: I'm looking for a temporary virtual card for a one-time purchase online.
+GEN | [beneficiary_not_allowed] | Orig: Why can't I buy cryptocurrency on the app? -> Aug: Unfortunately, the beneficiary for this specific transaction is not allowed, which is why you're unable to purchase cryptocurrency on our app.
+GEN | [pending_card_payment] | Orig: When is a payment I made with my card going to clear> -> Aug: When will the payment I made using my credit/debit card be processed and reflected in my account balance?
+GEN | [card_payment_not_recognised] | Orig: I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back? -> Aug: I'm concerned about some unfamiliar transactions on my card statement from recent days. Can I temporarily suspend my card to prevent further unauthorized activity? If so, will I still be able to recover the disputed amounts?
+GEN | [card_payment_not_recognised] | Orig: I think my card is being used by someone else to make purchases that I didn't authorize! I checked my account and see that there have been quite a few purchases over the last two days that I have no idea where they came from. We need to freeze my card now! And I need to find a way to get my money back. -> Aug: I'm concerned that someone is using my card to make unauthorized transactions. I've reviewed my account activity and noticed several unexplained charges over the past two days. I'd like to report this incident and request that my card be temporarily suspended. Additionally, I'd like assistance with reversing the unauthorized transactions and recovering my lost funds.
+GEN | [card_swallowed] | Orig: Will you please help me get my card back? -> Aug: Can you assist me in retrieving my swallowed card?
+GEN | [failed_transfer] | Orig: A mortgage payment I'm making is giving me an error message.  This is the first time I'm making this payment and want to know what's wrong. -> Aug: I'm trying to make a mortgage payment for the first time, but I'm getting an error message. Can you help me figure out what's going wrong?
+GEN | [country_support] | Orig: What countries do your accounts send and receive to? -> Aug: Which countries do your bank accounts support international transactions for sending and receiving funds?
+GEN | [getting_spare_card] | Orig: Please tell me if I'm going to be charged for sending out more cards? -> Aug: Can I request a spare card without incurring any additional fees?
+GEN | [beneficiary_not_allowed] | Orig: Are there restrictions to transfers to certain accounts? -> Aug: Can I transfer funds to a specific account, or are there limitations on the recipient's account type or institution?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I was expecting a better exchange rate for the cash withdrawal.
+VAL | [exchange_via_app] | YES | Text: Can I exchange currency using the app?
+VAL | [pending_top_up] | YES | Text: Can you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for an hour already.
+VAL | [why_verify_identity] | NO | Text: Before we proceed with any transactions, including transfers, we need to verify your identity to ensure the security and integrity of your account. This is a standard security measure to prevent unauthorized access and protect your personal and financial information.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I use a SWIFT transfer to top up my account from another bank, and what are the associated charges for this service?
+VAL | [card_acceptance] | YES | Text: What types of merchants accept my credit/debit card?
+VAL | [top_up_reverted] | YES | Text: My recent top-up was reversed, and I'm wondering why it was cancelled so soon after processing.
+VAL | [card_acceptance] | YES | Text: Is there a specific merchant or business that accepts this card?
+VAL | [order_physical_card] | YES | Text: How much does a new physical credit card cost?
+VAL | [getting_spare_card] | YES | Text: Can I request a spare card in my daughter's name, which will be linked to my existing account?
+VAL | [country_support] | YES | Text: which countries do you operate in?
+VAL | [transaction_charged_twice] | YES | Text: I've noticed that I've been charged multiple times for the same transaction.
+VAL | [visa_or_mastercard] | YES | Text: What kind of payment card will I be issued, Visa or Mastercard?
+VAL | [top_up_reverted] | NO | Text: I mistakenly didn't cancel my top-up.
+VAL | [card_linking] | NO | Text: If I locate a lost card, do I need to cancel it or can I reactivate it and continue using it?
+VAL | [top_up_failed] | YES | Text: Can you help me figure out why my top-up didn't go through? It appears to have failed.
+VAL | [compromised_card] | YES | Text: I'm concerned that someone has accessed my account because I've noticed transactions on my statement that I didn't authorize.
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Can I use a bank transfer with a SWIFT code to top up my account?
+VAL | [top_up_failed] | YES | Text: I attempted to top up my card, but the funds didn't appear.
+VAL | [compromised_card] | YES | Text: It appears that an unauthorized transaction has been made using my card, what steps can I take to resolve this issue?
+VAL | [compromised_card] | YES | Text: I'm concerned that my card's security has been compromised.
+VAL | [card_about_to_expire] | NO | Text: I'm trying to send a card to China, but I'm worried it might expire before I can use it. Can I get a new one or extend the validity period?
+VAL | [reverted_card_payment?] | YES | Text: I recently reversed a payment made to this card.
+VAL | [get_disposable_virtual_card] | YES | Text: I'm looking for a temporary virtual card for a one-time purchase online.
+VAL | [beneficiary_not_allowed] | NO | Text: Unfortunately, the beneficiary for this specific transaction is not allowed, which is why you're unable to purchase cryptocurrency on our app.
+VAL | [pending_card_payment] | YES | Text: When will the payment I made using my credit/debit card be processed and reflected in my account balance?
+VAL | [card_payment_not_recognised] | NO | Text: I'm concerned about some unfamiliar transactions on my card statement from recent days. Can I temporarily suspend my card to prevent further unauthorized activity? If so, will I still be able to recover the disputed amounts?
+VAL | [card_payment_not_recognised] | YES | Text: I'm concerned that someone is using my card to make unauthorized transactions. I've reviewed my account activity and noticed several unexplained charges over the past two days. I'd like to report this incident and request that my card be temporarily suspended. Additionally, I'd like assistance with reversing the unauthorized transactions and recovering my lost funds.
+VAL | [card_swallowed] | YES | Text: Can you assist me in retrieving my swallowed card?
+VAL | [failed_transfer] | YES | Text: I'm trying to make a mortgage payment for the first time, but I'm getting an error message. Can you help me figure out what's going wrong?
+VAL | [country_support] | YES | Text: Which countries do your bank accounts support international transactions for sending and receiving funds?
+VAL | [getting_spare_card] | YES | Text: Can I request a spare card without incurring any additional fees?
+VAL | [beneficiary_not_allowed] | NO | Text: Can I transfer funds to a specific account, or are there limitations on the recipient's account type or institution?

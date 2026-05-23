@@ -1,0 +1,80 @@
+GEN | [order_physical_card] | Orig: do i need to add money before i order a card -> Aug: Can I fund my account before placing an order for a physical card?
+GEN | [topping_up_by_card] | Orig: How do i set up my credit card to send transfers? -> Aug: Can you guide me on how to configure my credit card for automatic payments?
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I add physical money to my card? -> Aug: You can top up your card using cash or cheque. Can I assist you with the process?
+GEN | [supported_cards_and_currencies] | Orig: how can i transfer money from american express card -> Aug: What payment methods do you accept for international money transfers, specifically for American Express cardholders?
+GEN | [topping_up_by_card] | Orig: I tried topping off my account with a card, but the money is not in my account despite the charge going through -> Aug: I attempted to add funds to my account using my card, but the transaction was successful, yet the funds are still not showing up in my account.
+GEN | [topping_up_by_card] | Orig: My card needs to be topped up. -> Aug: I'd like to add some funds to my card.
+GEN | [verify_source_of_funds] | Orig: where are the transfers originating -> Aug: Can you please confirm the source of the funds for the recent transactions?
+GEN | [verify_my_identity] | Orig: why do I need to show ID -> Aug: We require identification verification to ensure the security and integrity of your account, as well as to comply with regulatory requirements.
+GEN | [transfer_fee_charged] | Orig: I used this account a lot during the last month to manage my payments for my new place abroad. Seems that suddenly fees have increased? Shouldn't you instead reward your frequent customers instead of putting an additional fee suddenly?! -> Aug: I've been using this account regularly to manage my international transactions, but I'm surprised to see a sudden fee increase. Wouldn't it be more customer-friendly to offer incentives for frequent users like me instead of imposing additional charges?
+GEN | [card_payment_wrong_exchange_rate] | Orig: The exchange rate used on your app is really bad. I'm considering closing my account because of it. -> Aug: The exchange rate applied to my recent transaction is inaccurate, and I'm extremely dissatisfied. I'm thinking of switching banks due to this issue.
+GEN | [card_payment_not_recognised] | Orig: Why is there an unknown card payment? -> Aug: We're having trouble recognizing a payment made with a card. Can you please help us identify the issue?
+GEN | [topping_up_by_card] | Orig: Can I get my friends to add money to my account? -> Aug: Can I have my friends use their cards to top up my account?
+GEN | [declined_cash_withdrawal] | Orig: Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing. -> Aug: I apologize for the inconvenience. It seems that your card was declined for a cash withdrawal attempt. Our system indicates that there might be an issue with your account balance or available funds. Please check your account activity or contact our customer support team to resolve this issue.
+GEN | [topping_up_by_card] | Orig: Hoe do i use my credit card to transfer money? -> Aug: I'd like to know how to use my credit card to add funds to my account.
+GEN | [cash_withdrawal_not_recognised] | Orig: I want my card frozen right away. Money was taken out in an odd location I have never heard of. -> Aug: I need my account frozen immediately. I'm concerned about an unauthorized cash withdrawal from a location I've never visited.
+GEN | [pending_cash_withdrawal] | Orig: Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged? -> Aug: I'm experiencing a pending cash withdrawal issue, as the ATM was not functioning, and I'm concerned about being charged for the transaction. Can you assist me in resolving this matter?
+GEN | [card_not_working] | Orig: What should I do if I can't use my card? -> Aug: Why is my card not functioning properly and what steps can I take to resolve the issue?
+GEN | [country_support] | Orig: Is there anywhere  In the  Eu  this card can not be delivered in -> Aug: Can this card be delivered to all areas within the European Union, or are there any specific countries or regions where it may not be possible?
+GEN | [cash_withdrawal_not_recognised] | Orig: There is random cash in my account. -> Aug: I have an unexpected cash deposit in my account.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: My rate is not right when I used my card in a different country's money. -> Aug: The exchange rate I got when I withdrew cash with my card in a foreign country is incorrect.
+GEN | [supported_cards_and_currencies] | Orig: I have another card from the U.S. Will you be able to accept that one? -> Aug: I'd like to know if you accept cards from the United States.
+GEN | [pending_cash_withdrawal] | Orig: Why is the app showing a still pending message on a withdraw that has already been done? -> Aug: I'm trying to check the status of a withdrawal I made earlier, but the app is still showing it as pending. Can you help me resolve this issue?
+GEN | [transaction_charged_twice] | Orig: Who do I talk to for transactions debited twice? -> Aug: Who should I contact regarding a duplicate transaction charge?
+GEN | [card_linking] | Orig: My card arrived but I need to make it work in the app, how do I do that? -> Aug: I received my new card, but I'm having trouble linking it to the app. Can you guide me through the process?
+GEN | [get_disposable_virtual_card] | Orig: how do the cards work? -> Aug: Can you explain how disposable virtual cards work and how I can obtain one?
+GEN | [card_arrival] | Orig: I don't have my card in 1 week.  Should I be worried? -> Aug: I haven't received my card after a week. Should I be concerned?
+GEN | [supported_cards_and_currencies] | Orig: Can you accept my other card from the U.S.?  It is the only other one I have. -> Aug: Do you support other credit cards from the United States, besides the one I'm currently using?
+GEN | [pending_cash_withdrawal] | Orig: My last ATM request did not go through due to a declined card. Please cancel the request on my account. -> Aug: I'm still waiting for the outcome of my previous cash withdrawal request, but it seems it was declined due to a card issue. Could you please cancel the pending request and let me know the status of my account?
+GEN | [pending_cash_withdrawal] | Orig: There is a withdrawal waiting. -> Aug: A pending cash withdrawal is awaiting processing.
+GEN | [pending_transfer] | Orig: As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far. -> Aug: I've reconfirmed my account information, and it's accurate. The transfer remains pending at this time.
+GEN | [reverted_card_payment?] | Orig: Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later. -> Aug: I'm having trouble with my card payments being declined when I try to make an online purchase. The payment is initially accepted, but then it's reversed or cancelled later on. Can you help me figure out what's going on?
+GEN | [cash_withdrawal_not_recognised] | Orig: I hope you can help me. Someone has stolen my wallet and now I have noticed that they have been taking money from my account. -> Aug: I'm concerned about a suspicious transaction on my account. I think someone has stolen my wallet and is using it to withdraw cash from my account without my permission.
+GEN | [cancel_transfer] | Orig: I'm really upset because I made a typo during a transfer and now I've sent money to the wrong account.  I can't fix this with the app.  Please help me immediately! -> Aug: I accidentally initiated a transfer to the wrong account and I need to cancel it as soon as possible. Can you assist me in reversing the transaction?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can I Transfer from SWIFT? -> Aug: Can I make a bank transfer to top up my account, and what are the charges associated with it?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Please, tell me why I can't have the funds I deposited a week ago? I need the money now. -> Aug: I made a cash deposit last week, but my account balance hasn't been updated. Can you please explain why I'm still waiting for the funds to reflect in my account?
+GEN | [apple_pay_or_google_pay] | Orig: Apple pay is not accepting my American Express card, can you assist me with this problem? -> Aug: Google Pay is not recognizing my Discover card, can you help me resolve this issue?
+GEN | [lost_or_stolen_phone] | Orig: Can I use your services without access to the app? -> Aug: I'm worried about accessing my account since I've misplaced my phone. Can I still use your services without the app?
+GEN | [card_not_working] | Orig: How do I check security settings on my card? -> Aug: I'm having trouble using my card, and I'm worried it might be compromised. Can you help me check the security settings on my card?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are SWIFT transfers supported? -> Aug: Can I use a SWIFT transfer to top up my account and what are the associated charges?
+GEN | [reverted_card_payment?] | Orig: I bought something and already paid for it but now I don't see it. -> Aug: I made a purchase and paid for it, but the item is missing from my account.
+VAL | [order_physical_card] | NO | Text: Can I fund my account before placing an order for a physical card?
+VAL | [topping_up_by_card] | NO | Text: Can you guide me on how to configure my credit card for automatic payments?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: You can top up your card using cash or cheque. Can I assist you with the process?
+VAL | [supported_cards_and_currencies] | YES | Text: What payment methods do you accept for international money transfers, specifically for American Express cardholders?
+VAL | [topping_up_by_card] | YES | Text: I attempted to add funds to my account using my card, but the transaction was successful, yet the funds are still not showing up in my account.
+VAL | [topping_up_by_card] | YES | Text: I'd like to add some funds to my card.
+VAL | [verify_source_of_funds] | YES | Text: Can you please confirm the source of the funds for the recent transactions?
+VAL | [verify_my_identity] | YES | Text: We require identification verification to ensure the security and integrity of your account, as well as to comply with regulatory requirements.
+VAL | [transfer_fee_charged] | NO | Text: I've been using this account regularly to manage my international transactions, but I'm surprised to see a sudden fee increase. Wouldn't it be more customer-friendly to offer incentives for frequent users like me instead of imposing additional charges?
+VAL | [card_payment_wrong_exchange_rate] | NO | Text: The exchange rate applied to my recent transaction is inaccurate, and I'm extremely dissatisfied. I'm thinking of switching banks due to this issue.
+VAL | [card_payment_not_recognised] | NO | Text: We're having trouble recognizing a payment made with a card. Can you please help us identify the issue?
+VAL | [topping_up_by_card] | YES | Text: Can I have my friends use their cards to top up my account?
+VAL | [declined_cash_withdrawal] | NO | Text: I apologize for the inconvenience. It seems that your card was declined for a cash withdrawal attempt. Our system indicates that there might be an issue with your account balance or available funds. Please check your account activity or contact our customer support team to resolve this issue.
+VAL | [topping_up_by_card] | NO | Text: I'd like to know how to use my credit card to add funds to my account.
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I need my account frozen immediately. I'm concerned about an unauthorized cash withdrawal from a location I've never visited.
+VAL | [pending_cash_withdrawal] | YES | Text: I'm experiencing a pending cash withdrawal issue, as the ATM was not functioning, and I'm concerned about being charged for the transaction. Can you assist me in resolving this matter?
+VAL | [card_not_working] | YES | Text: Why is my card not functioning properly and what steps can I take to resolve the issue?
+VAL | [country_support] | YES | Text: Can this card be delivered to all areas within the European Union, or are there any specific countries or regions where it may not be possible?
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I have an unexpected cash deposit in my account.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: The exchange rate I got when I withdrew cash with my card in a foreign country is incorrect.
+VAL | [supported_cards_and_currencies] | NO | Text: I'd like to know if you accept cards from the United States.
+VAL | [pending_cash_withdrawal] | YES | Text: I'm trying to check the status of a withdrawal I made earlier, but the app is still showing it as pending. Can you help me resolve this issue?
+VAL | [transaction_charged_twice] | YES | Text: Who should I contact regarding a duplicate transaction charge?
+VAL | [card_linking] | YES | Text: I received my new card, but I'm having trouble linking it to the app. Can you guide me through the process?
+VAL | [get_disposable_virtual_card] | NO | Text: Can you explain how disposable virtual cards work and how I can obtain one?
+VAL | [card_arrival] | YES | Text: I haven't received my card after a week. Should I be concerned?
+VAL | [supported_cards_and_currencies] | NO | Text: Do you support other credit cards from the United States, besides the one I'm currently using?
+VAL | [pending_cash_withdrawal] | NO | Text: I'm still waiting for the outcome of my previous cash withdrawal request, but it seems it was declined due to a card issue. Could you please cancel the pending request and let me know the status of my account?
+VAL | [pending_cash_withdrawal] | YES | Text: A pending cash withdrawal is awaiting processing.
+VAL | [pending_transfer] | YES | Text: I've reconfirmed my account information, and it's accurate. The transfer remains pending at this time.
+VAL | [reverted_card_payment?] | NO | Text: I'm having trouble with my card payments being declined when I try to make an online purchase. The payment is initially accepted, but then it's reversed or cancelled later on. Can you help me figure out what's going on?
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I'm concerned about a suspicious transaction on my account. I think someone has stolen my wallet and is using it to withdraw cash from my account without my permission.
+VAL | [cancel_transfer] | YES | Text: I accidentally initiated a transfer to the wrong account and I need to cancel it as soon as possible. Can you assist me in reversing the transaction?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Can I make a bank transfer to top up my account, and what are the charges associated with it?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I made a cash deposit last week, but my account balance hasn't been updated. Can you please explain why I'm still waiting for the funds to reflect in my account?
+VAL | [apple_pay_or_google_pay] | NO | Text: Google Pay is not recognizing my Discover card, can you help me resolve this issue?
+VAL | [lost_or_stolen_phone] | NO | Text: I'm worried about accessing my account since I've misplaced my phone. Can I still use your services without the app?
+VAL | [card_not_working] | NO | Text: I'm having trouble using my card, and I'm worried it might be compromised. Can you help me check the security settings on my card?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I use a SWIFT transfer to top up my account and what are the associated charges?
+VAL | [reverted_card_payment?] | YES | Text: I made a purchase and paid for it, but the item is missing from my account.

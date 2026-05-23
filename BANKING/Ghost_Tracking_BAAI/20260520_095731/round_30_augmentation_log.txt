@@ -1,0 +1,66 @@
+GEN | [reverted_card_payment?] | Orig: Why wasn't my payment accepted by the app -> Aug: Why was my payment reversed or declined by the app?
+GEN | [edit_personal_details] | Orig: details need to be modified -> Aug: information needs to be updated
+GEN | [card_not_working] | Orig: I am unable to use my card. -> Aug: I'm having trouble using my credit card.
+GEN | [top_up_by_cash_or_cheque] | Orig: how do i find top up for cash deposit -> Aug: where can i make a cash deposit to top up my account?
+GEN | [getting_spare_card] | Orig: How many active cards can I have? -> Aug: I'd like to know how many spare cards I can have in my account.
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I only top-up digitally? Or could I use cash? -> Aug: Can I top-up my account using cash or cheque, or is digital transfer the only option available?
+GEN | [disposable_card_limits] | Orig: Where can I find a list of descriptions the disposable cards have? -> Aug: What are the limits and descriptions for the disposable cards I can use with my account?
+GEN | [declined_card_payment] | Orig: May monthly payment to Apple has been declined but I don't know why, they are going to re-try the payment and it must go through, can you tell me what is going on please? -> Aug: My monthly payment to Apple has been declined, and I'm not sure why. They're going to retry the payment, but I'm concerned it won't go through. Can you help me understand what's happening and ensure the payment is processed successfully?
+GEN | [card_linking] | Orig: How do I link a new payment card? -> Aug: How can I connect a new payment card to my account?
+GEN | [card_not_working] | Orig: Why won't my card accept any transactions? -> Aug: Why is my card not processing any payments?
+GEN | [exchange_charge] | Orig: What is the fee for accepting money from a foreign country? -> Aug: Can you please inform me about the exchange charge for receiving an international payment?
+GEN | [transfer_into_account] | Orig: How does your app transfer the money -> Aug: To initiate a transfer into an account, can you please guide me through the process of moving funds from one account to another using your mobile app?
+GEN | [supported_cards_and_currencies] | Orig: how can i transfer money from american express card -> Aug: What payment methods do you accept for international money transfers, specifically for American Express cardholders?
+GEN | [transfer_fee_charged] | Orig: Should I be seeing a fee applied for my money transfer? -> Aug: Can I expect to be charged a fee for the transfer of funds I initiated?
+GEN | [declined_card_payment] | Orig: I was just needing to know why my card got declined -> Aug: I'm trying to understand why my payment was declined using my card
+GEN | [disposable_card_limits] | Orig: What limits are there on the virtual cards? -> Aug: What are the spending limits for my disposable virtual card?
+GEN | [top_up_by_card_charge] | Orig: should i add money via bank transfer instead -> Aug: can i top up my account using a card charge instead of a bank transfer?
+GEN | [card_payment_not_recognised] | Orig: Why is there an unknown card payment? -> Aug: We're having trouble recognizing a payment made with a card. Can you please help us identify the issue?
+GEN | [card_about_to_expire] | Orig: want a new card what are the fees -> Aug: I'm looking to replace my existing card, can you tell me about the fees associated with getting a new one?
+GEN | [failed_transfer] | Orig: Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere. -> Aug: I've been trying to initiate a standard transfer for hours, but it keeps failing. Is there an issue with your system or is it a problem on my end?
+GEN | [apple_pay_or_google_pay] | Orig: Can I add funds directly from my Apple Watch? -> Aug: Can I use Apple Pay to add funds to my account from my Apple Watch?
+GEN | [top_up_by_cash_or_cheque] | Orig: Where do I look for cash top up? -> Aug: You can top up your account using cash at any of our bank branches or by depositing a cheque at a nearby post office.
+GEN | [top_up_by_cash_or_cheque] | Orig: Can you tell me where to find top up by cash deposit? -> Aug: You can top up your account by depositing cash at any of our bank branches or through our deposit machines located at various locations. Would you like me to provide you with the nearest branch or machine details?
+GEN | [topping_up_by_card] | Orig: Am I the only one who can top-up my account? -> Aug: Can I perform a card-based account top-up myself?
+GEN | [top_up_by_card_charge] | Orig: How much does it cost to us US cards? -> Aug: What is the charge for topping up my US-issued card?
+GEN | [getting_virtual_card] | Orig: how many virtual cards can i have, i want 8 -> Aug: Can I have multiple virtual cards? I'd like to request 8 virtual cards, please.
+GEN | [request_refund] | Orig: I'm cancelling this charge. I still have not received what I bought from these people a while ago. -> Aug: I'm requesting a refund for the recent charge as I never received the item I paid for, which was supposed to be delivered a while back.
+GEN | [get_disposable_virtual_card] | Orig: Will you tell me how I am supposed to use the disposable cards? -> Aug: Can you explain the process for using the virtual disposable card I was issued?
+GEN | [get_physical_card] | Orig: I do not see the card PIN anywhere? -> Aug: I need to find the physical card PIN.
+GEN | [card_not_working] | Orig: I can't use my card for anything -> Aug: I'm having trouble making any transactions with my card
+GEN | [extra_charge_on_statement] | Orig: Why is there a pending hold on one pound on my statement? -> Aug: We noticed a small extra charge on your recent statement, and we'd like to clarify the reason behind it. Can you please review your statement and let us know if you have any questions or concerns about the additional fee?
+GEN | [pending_top_up] | Orig: When will my top up be approved? -> Aug: When can I expect my pending top-up to be processed?
+GEN | [compromised_card] | Orig: I have some transactions on my account I did not make. Can you cancel my card and prevent further use. -> Aug: I'm concerned about unauthorized transactions on my account. Can you suspend my card and prevent any further activity?
+VAL | [reverted_card_payment?] | NO | Text: Why was my payment reversed or declined by the app?
+VAL | [edit_personal_details] | YES | Text: information needs to be updated
+VAL | [card_not_working] | YES | Text: I'm having trouble using my credit card.
+VAL | [top_up_by_cash_or_cheque] | NO | Text: where can i make a cash deposit to top up my account?
+VAL | [getting_spare_card] | NO | Text: I'd like to know how many spare cards I can have in my account.
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Can I top-up my account using cash or cheque, or is digital transfer the only option available?
+VAL | [disposable_card_limits] | NO | Text: What are the limits and descriptions for the disposable cards I can use with my account?
+VAL | [declined_card_payment] | YES | Text: My monthly payment to Apple has been declined, and I'm not sure why. They're going to retry the payment, but I'm concerned it won't go through. Can you help me understand what's happening and ensure the payment is processed successfully?
+VAL | [card_linking] | YES | Text: How can I connect a new payment card to my account?
+VAL | [card_not_working] | YES | Text: Why is my card not processing any payments?
+VAL | [exchange_charge] | YES | Text: Can you please inform me about the exchange charge for receiving an international payment?
+VAL | [transfer_into_account] | NO | Text: To initiate a transfer into an account, can you please guide me through the process of moving funds from one account to another using your mobile app?
+VAL | [supported_cards_and_currencies] | YES | Text: What payment methods do you accept for international money transfers, specifically for American Express cardholders?
+VAL | [transfer_fee_charged] | YES | Text: Can I expect to be charged a fee for the transfer of funds I initiated?
+VAL | [declined_card_payment] | YES | Text: I'm trying to understand why my payment was declined using my card
+VAL | [disposable_card_limits] | YES | Text: What are the spending limits for my disposable virtual card?
+VAL | [top_up_by_card_charge] | NO | Text: can i top up my account using a card charge instead of a bank transfer?
+VAL | [card_payment_not_recognised] | NO | Text: We're having trouble recognizing a payment made with a card. Can you please help us identify the issue?
+VAL | [card_about_to_expire] | NO | Text: I'm looking to replace my existing card, can you tell me about the fees associated with getting a new one?
+VAL | [failed_transfer] | YES | Text: I've been trying to initiate a standard transfer for hours, but it keeps failing. Is there an issue with your system or is it a problem on my end?
+VAL | [apple_pay_or_google_pay] | NO | Text: Can I use Apple Pay to add funds to my account from my Apple Watch?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: You can top up your account using cash at any of our bank branches or by depositing a cheque at a nearby post office.
+VAL | [top_up_by_cash_or_cheque] | NO | Text: You can top up your account by depositing cash at any of our bank branches or through our deposit machines located at various locations. Would you like me to provide you with the nearest branch or machine details?
+VAL | [topping_up_by_card] | YES | Text: Can I perform a card-based account top-up myself?
+VAL | [top_up_by_card_charge] | YES | Text: What is the charge for topping up my US-issued card?
+VAL | [getting_virtual_card] | NO | Text: Can I have multiple virtual cards? I'd like to request 8 virtual cards, please.
+VAL | [request_refund] | YES | Text: I'm requesting a refund for the recent charge as I never received the item I paid for, which was supposed to be delivered a while back.
+VAL | [get_disposable_virtual_card] | NO | Text: Can you explain the process for using the virtual disposable card I was issued?
+VAL | [get_physical_card] | NO | Text: I need to find the physical card PIN.
+VAL | [card_not_working] | YES | Text: I'm having trouble making any transactions with my card
+VAL | [extra_charge_on_statement] | NO | Text: We noticed a small extra charge on your recent statement, and we'd like to clarify the reason behind it. Can you please review your statement and let us know if you have any questions or concerns about the additional fee?
+VAL | [pending_top_up] | YES | Text: When can I expect my pending top-up to be processed?
+VAL | [compromised_card] | YES | Text: I'm concerned about unauthorized transactions on my account. Can you suspend my card and prevent any further activity?

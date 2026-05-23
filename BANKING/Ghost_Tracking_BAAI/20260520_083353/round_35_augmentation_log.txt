@@ -1,0 +1,64 @@
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: My friend deposited $100 into my account, but it is not showing up! -> Aug: My account balance hasn't been updated after my friend deposited $100 in cash, and I'm unable to see the new amount.
+GEN | [card_delivery_estimate] | Orig: can I choose delivery times to suite me? -> Aug: Are there any available delivery time slots that I can select to accommodate my schedule?
+GEN | [compromised_card] | Orig: How can I tell if someone else is using my card? -> Aug: Is there a way to detect if someone has stolen my credit card information?
+GEN | [unable_to_verify_identity] | Orig: The app isn't letting me log in, but my info is correct. -> Aug: We're having trouble verifying your identity, and it seems that our system is unable to recognize your login credentials, despite your information being accurate.
+GEN | [extra_charge_on_statement] | Orig: Why is it showing that my account has been charged a dollar that is showing as pending? -> Aug: We noticed that a pending charge of $1 has been applied to your account. Can you please confirm if you are aware of this extra charge on your statement?
+GEN | [extra_charge_on_statement] | Orig: My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about. -> Aug: My statement has a pending charge for £1 that I don't recognize. Can you please explain what this transaction is for?
+GEN | [card_swallowed] | Orig: A Bank ATM did not give my card back. What do I do now? -> Aug: I accidentally swallowed my bank card while using an ATM and it's not dispensing it back. What should I do next?
+GEN | [top_up_by_card_charge] | Orig: How much does it cost to us US cards? -> Aug: What is the charge for topping up my US-issued card?
+GEN | [order_physical_card] | Orig: Show me where to order my card. -> Aug: Can you guide me through the process of ordering a physical credit card?
+GEN | [getting_spare_card] | Orig: daughter needs card, how do i add her -> Aug: I'd like to request a replacement card for my daughter, as she needs a new one.
+GEN | [receiving_money] | Orig: Can my friend send me money if it is not in US dollars? -> Aug: Can my friend transfer funds to me in a currency other than US dollars?
+GEN | [transfer_fee_charged] | Orig: I have used this account overseas recently. Has there been an increase in fees that I am unaware of? -> Aug: I'm planning to make an international transfer, but I'm concerned about potential fee changes. Are there any new charges I should be aware of?
+GEN | [verify_top_up] | Orig: I just tried to top-up and now I'm getting an additional verification message, why? -> Aug: I'm trying to add funds to my account, but I'm being asked to verify my top-up again, can you help me understand why?
+GEN | [topping_up_by_card] | Orig: Can somebody else top up my account? -> Aug: Can I have someone else add funds to my account using their card?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I am still awaiting the money I put into my account this morning. -> Aug: I haven't seen the deposit from this morning's cash deposit reflected in my account balance yet.
+GEN | [declined_card_payment] | Orig: why couldn't I use my card at a store? -> Aug: Your card was declined due to insufficient funds or a problem with your account. Please check your account balance or contact your bank to resolve the issue.
+GEN | [card_swallowed] | Orig: I need a new card because the ATM took mine. -> Aug: I swallowed my card while trying to use the ATM and now I need a replacement.
+GEN | [wrong_amount_of_cash_received] | Orig: my atm transaction was wrong -> Aug: I received the wrong amount of cash from the ATM transaction.
+GEN | [virtual_card_not_working] | Orig: Why is my disposable card not working? -> Aug: Why is my virtual card not functioning properly?
+GEN | [virtual_card_not_working] | Orig: My virtual card is just not going through. -> Aug: My virtual card is not functioning properly.
+GEN | [transfer_fee_charged] | Orig: I made a transfer and the receiver said an amount was received, but less than the right amount. I now have to transfer more to get the remainder to the receiver. Can you tell me about this. What's been going on? -> Aug: I initiated a transfer, but the recipient claims to have received a smaller amount than expected. I need to make an additional transfer to cover the remaining balance. Can you explain what's happening with the transfer fee charged?
+GEN | [card_payment_fee_charged] | Orig: I was charged and shouldn't have been charged when using my card! -> Aug: I'm surprised to see a fee on my recent card transaction, as I didn't expect to be charged.
+GEN | [card_payment_not_recognised] | Orig: Why is this payment on my app -> Aug: I'm trying to make a payment, but it's not being recognized on my app
+GEN | [extra_charge_on_statement] | Orig: I still have not received an answer as to why I was charged $1.00 in a transaction? -> Aug: I'm still waiting to understand why I was unexpectedly charged $1.00 on my recent statement.
+GEN | [get_physical_card] | Orig: I have a question regarding the PIN of the card? -> Aug: I'd like to request a physical copy of my card, including the PIN details.
+GEN | [country_support] | Orig: I just moved to the US how do I get a card? -> Aug: I recently relocated to the United States and would like to know how to obtain a bank card.
+GEN | [topping_up_by_card] | Orig: Can my account be topped-up by friends of mine. -> Aug: Can I add funds to my account using my friend's credit/debit card?
+GEN | [pending_transfer] | Orig: Why is the transaction not posting? -> Aug: Why is the transfer still pending and not showing up in my account?
+GEN | [top_up_failed] | Orig: I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong? -> Aug: I attempted to add funds to my card using the transfer option, but the transaction keeps getting declined. Can you help me identify the issue?
+GEN | [order_physical_card] | Orig: Where do you deliver cards to? -> Aug: Can you please provide me with the delivery information for my physical card order?
+GEN | [top_up_reverted] | Orig: I went to top up my card and it was cancelled. -> Aug: I attempted to add funds to my card, but the transaction was reversed.
+GEN | [transaction_charged_twice] | Orig: I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back? -> Aug: I accidentally used my old card and made a purchase, but it was charged twice. I've since canceled the card, can I get a refund for the extra charge?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: My account balance hasn't been updated after my friend deposited $100 in cash, and I'm unable to see the new amount.
+VAL | [card_delivery_estimate] | NO | Text: Are there any available delivery time slots that I can select to accommodate my schedule?
+VAL | [compromised_card] | YES | Text: Is there a way to detect if someone has stolen my credit card information?
+VAL | [unable_to_verify_identity] | NO | Text: We're having trouble verifying your identity, and it seems that our system is unable to recognize your login credentials, despite your information being accurate.
+VAL | [extra_charge_on_statement] | NO | Text: We noticed that a pending charge of $1 has been applied to your account. Can you please confirm if you are aware of this extra charge on your statement?
+VAL | [extra_charge_on_statement] | YES | Text: My statement has a pending charge for £1 that I don't recognize. Can you please explain what this transaction is for?
+VAL | [card_swallowed] | NO | Text: I accidentally swallowed my bank card while using an ATM and it's not dispensing it back. What should I do next?
+VAL | [top_up_by_card_charge] | YES | Text: What is the charge for topping up my US-issued card?
+VAL | [order_physical_card] | YES | Text: Can you guide me through the process of ordering a physical credit card?
+VAL | [getting_spare_card] | YES | Text: I'd like to request a replacement card for my daughter, as she needs a new one.
+VAL | [receiving_money] | YES | Text: Can my friend transfer funds to me in a currency other than US dollars?
+VAL | [transfer_fee_charged] | NO | Text: I'm planning to make an international transfer, but I'm concerned about potential fee changes. Are there any new charges I should be aware of?
+VAL | [verify_top_up] | YES | Text: I'm trying to add funds to my account, but I'm being asked to verify my top-up again, can you help me understand why?
+VAL | [topping_up_by_card] | YES | Text: Can I have someone else add funds to my account using their card?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I haven't seen the deposit from this morning's cash deposit reflected in my account balance yet.
+VAL | [declined_card_payment] | YES | Text: Your card was declined due to insufficient funds or a problem with your account. Please check your account balance or contact your bank to resolve the issue.
+VAL | [card_swallowed] | NO | Text: I swallowed my card while trying to use the ATM and now I need a replacement.
+VAL | [wrong_amount_of_cash_received] | YES | Text: I received the wrong amount of cash from the ATM transaction.
+VAL | [virtual_card_not_working] | YES | Text: Why is my virtual card not functioning properly?
+VAL | [virtual_card_not_working] | YES | Text: My virtual card is not functioning properly.
+VAL | [transfer_fee_charged] | YES | Text: I initiated a transfer, but the recipient claims to have received a smaller amount than expected. I need to make an additional transfer to cover the remaining balance. Can you explain what's happening with the transfer fee charged?
+VAL | [card_payment_fee_charged] | NO | Text: I'm surprised to see a fee on my recent card transaction, as I didn't expect to be charged.
+VAL | [card_payment_not_recognised] | YES | Text: I'm trying to make a payment, but it's not being recognized on my app
+VAL | [extra_charge_on_statement] | YES | Text: I'm still waiting to understand why I was unexpectedly charged $1.00 on my recent statement.
+VAL | [get_physical_card] | NO | Text: I'd like to request a physical copy of my card, including the PIN details.
+VAL | [country_support] | YES | Text: I recently relocated to the United States and would like to know how to obtain a bank card.
+VAL | [topping_up_by_card] | YES | Text: Can I add funds to my account using my friend's credit/debit card?
+VAL | [pending_transfer] | YES | Text: Why is the transfer still pending and not showing up in my account?
+VAL | [top_up_failed] | YES | Text: I attempted to add funds to my card using the transfer option, but the transaction keeps getting declined. Can you help me identify the issue?
+VAL | [order_physical_card] | NO | Text: Can you please provide me with the delivery information for my physical card order?
+VAL | [top_up_reverted] | YES | Text: I attempted to add funds to my card, but the transaction was reversed.
+VAL | [transaction_charged_twice] | YES | Text: I accidentally used my old card and made a purchase, but it was charged twice. I've since canceled the card, can I get a refund for the extra charge?

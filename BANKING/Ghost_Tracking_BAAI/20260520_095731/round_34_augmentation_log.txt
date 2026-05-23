@@ -1,0 +1,70 @@
+GEN | [verify_my_identity] | Orig: Can I use my social security card as a form of identity? -> Aug: Can I use my social security card as a valid form of identification for verification purposes?
+GEN | [declined_card_payment] | Orig: My card was not accepted in a shop -> Aug: Your payment was declined at the merchant's location
+GEN | [card_acceptance] | Orig: What kind of businesses will take my card? -> Aug: What types of merchants accept my credit/debit card?
+GEN | [beneficiary_not_allowed] | Orig: Why wasn't my payment to beneficiary X approved? -> Aug: Why was my payment to beneficiary X rejected, and what are the reasons for not allowing the transaction to proceed?
+GEN | [reverted_card_payment?] | Orig: I cancelled my card payment -> Aug: I reversed my card payment
+GEN | [activate_my_card] | Orig: I couldn't complete card activation. -> Aug: I'm having trouble activating my card.
+GEN | [visa_or_mastercard] | Orig: Can I select my card scheme or do you choose it for me? -> Aug: Do you automatically assign the payment method or do I have the option to choose between Visa or Mastercard?
+GEN | [reverted_card_payment?] | Orig: What should I do if my card payment was cancelled? -> Aug: What happens if my card payment was reversed or cancelled?
+GEN | [visa_or_mastercard] | Orig: Please help me get a Visa card. -> Aug: Please assist me in obtaining a Mastercard.
+GEN | [verify_source_of_funds] | Orig: Why do I need to verify my funds? -> Aug: We'd like to confirm the origin of the funds in your account to ensure they are legitimate and comply with our banking regulations.
+GEN | [receiving_money] | Orig: Can my friend send me money if it is not in US dollars? -> Aug: Can my friend transfer funds to me in a currency other than US dollars?
+GEN | [failed_transfer] | Orig: please help my transfer go through -> Aug: can you assist me in completing my transfer?
+GEN | [country_support] | Orig: Will my new card work outside of the EU? -> Aug: Will my new card be accepted in countries outside of the European Union?
+GEN | [order_physical_card] | Orig: How to receive the actual card -> Aug: How can I get my physical credit card delivered to my address?
+GEN | [supported_cards_and_currencies] | Orig: Do I have to top up in euros if I use a card, or can I use a different currency? -> Aug: Can I use a different currency when making a payment with my card, or do I need to top up in euros?
+GEN | [request_refund] | Orig: My order hasn't shown up yet, what can I do? -> Aug: I placed an order a week ago, but it still hasn't arrived. Can I get a refund or a replacement, please?
+GEN | [why_verify_identity] | Orig: Do you think you're asking for too much information about me? -> Aug: We're asking for this information to ensure we're verifying your identity accurately and securely. Can you understand why this is necessary for our security protocols?
+GEN | [order_physical_card] | Orig: Do you ship your cards anywhere? -> Aug: Can you deliver your physical cards to my address?
+GEN | [contactless_not_working] | Orig: I'm confused ass to why my contactless is not working. -> Aug: I'm having trouble with my contactless payment method and it's not functioning as expected.
+GEN | [failed_transfer] | Orig: My card couldn't complete a transfer, why? -> Aug: The transfer I initiated with my card was unsuccessful, what went wrong?
+GEN | [reverted_card_payment?] | Orig: My card payment has not been withdrawn from my account -> Aug: Why was my card payment reversed from my account?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will I receive all the money sent to my account by SEPA transfer? -> Aug: Will I be charged a fee for topping up my account using a bank transfer, and will the full amount be credited to my account?
+GEN | [direct_debit_payment_not_recognised] | Orig: There was some money taken from my account that I don't remember paying for. Am I able to look up this transaction which was a few weeks ago to see who took out the money? Im not sure I need a refund just want to check to make sure it's legit. -> Aug: I'm concerned about a recent transaction that was deducted from my account, but I don't recall making the payment. Could you help me investigate this transaction from a few weeks ago to verify its legitimacy? I'm not seeking a refund, just want to confirm whether it's a genuine payment or not.
+GEN | [transfer_timing] | Orig: When will the money reach my  account? -> Aug: When can I expect the funds to be deposited into my account?
+GEN | [supported_cards_and_currencies] | Orig: Top up my card please, which y'all support? -> Aug: What payment methods do you accept for card top-ups?
+GEN | [cash_withdrawal_not_recognised] | Orig: I just lost my wallet and I think someone is using my card to withdraw my money. Can you please cancel or freeze my card?!! -> Aug: I'm worried that someone has stolen my wallet and is using my card to make unauthorized cash withdrawals. Can you please suspend my card or limit its usage to prevent any further transactions?
+GEN | [request_refund] | Orig: I want this fee reversed from my account. -> Aug: I'd like to request a refund of this charge from my account.
+GEN | [cash_withdrawal_not_recognised] | Orig: Hello, Just now i got to know withdrawal of money from of my account. As someone used my card to withdraw amount in any odd remote area. Since i have not been in that area, please freeze my card immediately. -> Aug: Hi, I just found out that someone used my card to withdraw cash from my account in a remote area where I've never been. I'd like to request that my card be frozen immediately to prevent any further unauthorized transactions.
+GEN | [card_acceptance] | Orig: How do I know where I can use my card? -> Aug: What are the places where I can use my card for transactions?
+GEN | [declined_transfer] | Orig: How do I make my transfer go through -> Aug: Why was my transfer declined and how can I resolve the issue?
+GEN | [country_support] | Orig: Can I get a card that works in other countries like Africa and Indonesia? -> Aug: Are there any credit cards that can be used internationally, specifically in countries like South Africa and Indonesia?
+GEN | [visa_or_mastercard] | Orig: Can I get the Mastercard? -> Aug: Can I obtain the Visa or Mastercard?
+GEN | [beneficiary_not_allowed] | Orig: Why is my beneficiary not working? -> Aug: Why can't I add a new beneficiary to my account?
+GEN | [declined_cash_withdrawal] | Orig: Why did the ATM cancel my transaction -> Aug: Your cash withdrawal was declined due to insufficient funds in your account.
+GEN | [declined_card_payment] | Orig: why couldn't I use my card at a store? -> Aug: Your card was declined due to insufficient funds or a problem with your account. Please check your account balance or contact your bank to resolve the issue.
+VAL | [verify_my_identity] | NO | Text: Can I use my social security card as a valid form of identification for verification purposes?
+VAL | [declined_card_payment] | YES | Text: Your payment was declined at the merchant's location
+VAL | [card_acceptance] | YES | Text: What types of merchants accept my credit/debit card?
+VAL | [beneficiary_not_allowed] | YES | Text: Why was my payment to beneficiary X rejected, and what are the reasons for not allowing the transaction to proceed?
+VAL | [reverted_card_payment?] | YES | Text: I reversed my card payment
+VAL | [activate_my_card] | NO | Text: I'm having trouble activating my card.
+VAL | [visa_or_mastercard] | NO | Text: Do you automatically assign the payment method or do I have the option to choose between Visa or Mastercard?
+VAL | [reverted_card_payment?] | YES | Text: What happens if my card payment was reversed or cancelled?
+VAL | [visa_or_mastercard] | NO | Text: Please assist me in obtaining a Mastercard.
+VAL | [verify_source_of_funds] | YES | Text: We'd like to confirm the origin of the funds in your account to ensure they are legitimate and comply with our banking regulations.
+VAL | [receiving_money] | YES | Text: Can my friend transfer funds to me in a currency other than US dollars?
+VAL | [failed_transfer] | YES | Text: can you assist me in completing my transfer?
+VAL | [country_support] | YES | Text: Will my new card be accepted in countries outside of the European Union?
+VAL | [order_physical_card] | YES | Text: How can I get my physical credit card delivered to my address?
+VAL | [supported_cards_and_currencies] | NO | Text: Can I use a different currency when making a payment with my card, or do I need to top up in euros?
+VAL | [request_refund] | NO | Text: I placed an order a week ago, but it still hasn't arrived. Can I get a refund or a replacement, please?
+VAL | [why_verify_identity] | NO | Text: We're asking for this information to ensure we're verifying your identity accurately and securely. Can you understand why this is necessary for our security protocols?
+VAL | [order_physical_card] | NO | Text: Can you deliver your physical cards to my address?
+VAL | [contactless_not_working] | YES | Text: I'm having trouble with my contactless payment method and it's not functioning as expected.
+VAL | [failed_transfer] | YES | Text: The transfer I initiated with my card was unsuccessful, what went wrong?
+VAL | [reverted_card_payment?] | NO | Text: Why was my card payment reversed from my account?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Will I be charged a fee for topping up my account using a bank transfer, and will the full amount be credited to my account?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm concerned about a recent transaction that was deducted from my account, but I don't recall making the payment. Could you help me investigate this transaction from a few weeks ago to verify its legitimacy? I'm not seeking a refund, just want to confirm whether it's a genuine payment or not.
+VAL | [transfer_timing] | YES | Text: When can I expect the funds to be deposited into my account?
+VAL | [supported_cards_and_currencies] | YES | Text: What payment methods do you accept for card top-ups?
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I'm worried that someone has stolen my wallet and is using my card to make unauthorized cash withdrawals. Can you please suspend my card or limit its usage to prevent any further transactions?
+VAL | [request_refund] | YES | Text: I'd like to request a refund of this charge from my account.
+VAL | [cash_withdrawal_not_recognised] | YES | Text: Hi, I just found out that someone used my card to withdraw cash from my account in a remote area where I've never been. I'd like to request that my card be frozen immediately to prevent any further unauthorized transactions.
+VAL | [card_acceptance] | YES | Text: What are the places where I can use my card for transactions?
+VAL | [declined_transfer] | NO | Text: Why was my transfer declined and how can I resolve the issue?
+VAL | [country_support] | YES | Text: Are there any credit cards that can be used internationally, specifically in countries like South Africa and Indonesia?
+VAL | [visa_or_mastercard] | YES | Text: Can I obtain the Visa or Mastercard?
+VAL | [beneficiary_not_allowed] | NO | Text: Why can't I add a new beneficiary to my account?
+VAL | [declined_cash_withdrawal] | YES | Text: Your cash withdrawal was declined due to insufficient funds in your account.
+VAL | [declined_card_payment] | YES | Text: Your card was declined due to insufficient funds or a problem with your account. Please check your account balance or contact your bank to resolve the issue.

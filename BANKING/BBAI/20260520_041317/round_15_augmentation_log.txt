@@ -1,0 +1,64 @@
+GEN | [reverted_card_payment?] | Orig: My card payments have stopped. -> Aug: Why did my recent card payments get reversed?
+GEN | [wrong_amount_of_cash_received] | Orig: I couldn't get the money I needed. -> Aug: I was shortchanged on the cash I received.
+GEN | [transfer_into_account] | Orig: I need to deposit money to my account -> Aug: I would like to transfer funds into my account
+GEN | [pending_card_payment] | Orig: When is a payment I made with my card going to clear> -> Aug: When will the payment I made using my credit/debit card be processed and reflected in my account balance?
+GEN | [top_up_by_bank_transfer_charge] | Orig: For SEPA transfers, what kind of charge will be applied? -> Aug: What is the fee for topping up my account via bank transfer using the Single Euro Payments Area (SEPA) method?
+GEN | [pending_top_up] | Orig: how long does it take to reflect in my balance a top up -> Aug: when will the top-up amount be credited to my account balance?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you tell me how long it would take, to make a transfer from France? I made one 2 days ago and its not there yet. -> Aug: I'm trying to check on a transfer I initiated 2 days ago from France, but my account balance still shows the same amount. Can you please let me know what's causing the delay?
+GEN | [pending_top_up] | Orig: Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour. -> Aug: Can you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for an hour already.
+GEN | [top_up_by_bank_transfer_charge] | Orig: What does it cost to receive a SEPA transfer? -> Aug: What are the fees associated with receiving a bank transfer via SEPA?
+GEN | [top_up_failed] | Orig: I added funds to my account but the app didn't process it. -> Aug: I attempted to make a deposit into my account, but the transaction was not successfully processed.
+GEN | [top_up_reverted] | Orig: Please explain why the funds I added were returned to my account. -> Aug: I'd be happy to help you understand why the top-up amount was reversed back to your account.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: where is my money from this morning -> Aug: why hasn't my account balance been updated after the cash deposit I made this morning?
+GEN | [reverted_card_payment?] | Orig: I was just contacted by a seller that let me know they didn't get my money even though I'm very sure it was removed from my account. Now it's back in my account. Get this resolved quickly. -> Aug: I'm concerned that a payment I made to a seller was reversed, and I've been informed that the funds have been returned to my account. Can you look into this and resolve the issue as soon as possible?
+GEN | [top_up_failed] | Orig: Can I tell if my top off didn't work?  It doesn't seem to have. -> Aug: Can you help me figure out why my top-up didn't go through? It appears to have failed.
+GEN | [card_about_to_expire] | Orig: How do I get a new expiration date? -> Aug: What can I do to extend the validity of my card or get a new expiration date?
+GEN | [request_refund] | Orig: It's been some time ago that I placed an order and it just isn't coming. At this point just give me back my money because I'm not paying them. -> Aug: I've been waiting for a while now and my order still hasn't arrived. Can I get a refund for the amount I paid, as I'm no longer interested in pursuing the purchase.
+GEN | [failed_transfer] | Orig: I think youre system may be broken because I have tried transfer money 5x and it isnt working!  I'm not doing anything complicated it is what I usually do. -> Aug: I've attempted to transfer funds multiple times, but it's not going through. I'm not doing anything out of the ordinary, it's my usual process.
+GEN | [top_up_reverted] | Orig: I didn't cancel my top-up. -> Aug: I mistakenly didn't cancel my top-up.
+GEN | [reverted_card_payment?] | Orig: Hello, I was contacted by a seller who let me know my money didn't come through on their side. It most certainly came out of my account so I need this looked at immediately because now it has been returned to me! -> Aug: I'm concerned about a payment that was deducted from my account but didn't reach the seller's end. They've informed me that the transaction was unsuccessful, and the funds have been reversed back to my account. Can you please investigate this issue as soon as possible?
+GEN | [cash_withdrawal_charge] | Orig: I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now? -> Aug: I'm concerned about being charged a fee for a recent cash withdrawal. Is this a new policy or was there an error on my part?
+GEN | [automatic_top_up] | Orig: Can I add money in intervals to my account?  I will be traveling. -> Aug: Can I set up recurring automatic transfers to my account to ensure I have a steady balance while I'm away on my trip?
+GEN | [pending_transfer] | Orig: I have an outgoing transfer -> Aug: I'm waiting for an outgoing transfer to be processed
+GEN | [direct_debit_payment_not_recognised] | Orig: This debit is not my transcation. How do I get my money out back? -> Aug: This direct debit payment is not mine. Can you help me reverse it and refund my account?
+GEN | [supported_cards_and_currencies] | Orig: use my credit to add money -> Aug: Utilize my credit card to make a deposit
+GEN | [transfer_not_received_by_recipient] | Orig: Could you please help me?  I made my rent payment and have double checked that I sent it to the right account.  The person receiving it says he has not received it but it shows complete on my side. -> Aug: I'm having an issue with a transfer I made to a recipient, and they're saying they haven't received it. I've double-checked the details, and it shows as complete on my end, but the recipient is claiming they haven't received the funds.
+GEN | [direct_debit_payment_not_recognised] | Orig: Is there a way for you to find out why my account was deducted from a seller when I didn't approve of it? -> Aug: We're investigating an unusual direct debit payment that was made from your account without your consent. Can you please provide more details about the transaction, such as the date, amount, and the merchant's name, so we can look into this further?
+GEN | [top_up_failed] | Orig: It does not appear that my message went through. -> Aug: It seems that my top-up request was not processed successfully.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I am worried about the amount of my cheque, which should be credited to my account few days before. As i have already sent you the cheque. -> Aug: I'm concerned that the deposit from my recent cheque hasn't been reflected in my account balance yet, as I mailed it to you a few days ago.
+GEN | [pending_top_up] | Orig: Help, I don't see my money i just added. -> Aug: I'm having trouble finding the funds I just deposited.
+GEN | [card_acceptance] | Orig: Can I use my card for online payments? -> Aug: Is my credit card accepted for online transactions?
+GEN | [card_not_working] | Orig: Did you deactivate my card it's not working anymore -> Aug: My card stopped working after I think I accidentally deactivated it
+GEN | [compromised_card] | Orig: am suspicious of my card's security -> Aug: I'm concerned that my card's security has been compromised.
+VAL | [reverted_card_payment?] | YES | Text: Why did my recent card payments get reversed?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was shortchanged on the cash I received.
+VAL | [transfer_into_account] | YES | Text: I would like to transfer funds into my account
+VAL | [pending_card_payment] | YES | Text: When will the payment I made using my credit/debit card be processed and reflected in my account balance?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: What is the fee for topping up my account via bank transfer using the Single Euro Payments Area (SEPA) method?
+VAL | [pending_top_up] | NO | Text: when will the top-up amount be credited to my account balance?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm trying to check on a transfer I initiated 2 days ago from France, but my account balance still shows the same amount. Can you please let me know what's causing the delay?
+VAL | [pending_top_up] | YES | Text: Can you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for an hour already.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: What are the fees associated with receiving a bank transfer via SEPA?
+VAL | [top_up_failed] | YES | Text: I attempted to make a deposit into my account, but the transaction was not successfully processed.
+VAL | [top_up_reverted] | YES | Text: I'd be happy to help you understand why the top-up amount was reversed back to your account.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | NO | Text: why hasn't my account balance been updated after the cash deposit I made this morning?
+VAL | [reverted_card_payment?] | YES | Text: I'm concerned that a payment I made to a seller was reversed, and I've been informed that the funds have been returned to my account. Can you look into this and resolve the issue as soon as possible?
+VAL | [top_up_failed] | YES | Text: Can you help me figure out why my top-up didn't go through? It appears to have failed.
+VAL | [card_about_to_expire] | YES | Text: What can I do to extend the validity of my card or get a new expiration date?
+VAL | [request_refund] | YES | Text: I've been waiting for a while now and my order still hasn't arrived. Can I get a refund for the amount I paid, as I'm no longer interested in pursuing the purchase.
+VAL | [failed_transfer] | YES | Text: I've attempted to transfer funds multiple times, but it's not going through. I'm not doing anything out of the ordinary, it's my usual process.
+VAL | [top_up_reverted] | NO | Text: I mistakenly didn't cancel my top-up.
+VAL | [reverted_card_payment?] | YES | Text: I'm concerned about a payment that was deducted from my account but didn't reach the seller's end. They've informed me that the transaction was unsuccessful, and the funds have been reversed back to my account. Can you please investigate this issue as soon as possible?
+VAL | [cash_withdrawal_charge] | YES | Text: I'm concerned about being charged a fee for a recent cash withdrawal. Is this a new policy or was there an error on my part?
+VAL | [automatic_top_up] | YES | Text: Can I set up recurring automatic transfers to my account to ensure I have a steady balance while I'm away on my trip?
+VAL | [pending_transfer] | YES | Text: I'm waiting for an outgoing transfer to be processed
+VAL | [direct_debit_payment_not_recognised] | YES | Text: This direct debit payment is not mine. Can you help me reverse it and refund my account?
+VAL | [supported_cards_and_currencies] | NO | Text: Utilize my credit card to make a deposit
+VAL | [transfer_not_received_by_recipient] | YES | Text: I'm having an issue with a transfer I made to a recipient, and they're saying they haven't received it. I've double-checked the details, and it shows as complete on my end, but the recipient is claiming they haven't received the funds.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: We're investigating an unusual direct debit payment that was made from your account without your consent. Can you please provide more details about the transaction, such as the date, amount, and the merchant's name, so we can look into this further?
+VAL | [top_up_failed] | YES | Text: It seems that my top-up request was not processed successfully.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | NO | Text: I'm concerned that the deposit from my recent cheque hasn't been reflected in my account balance yet, as I mailed it to you a few days ago.
+VAL | [pending_top_up] | NO | Text: I'm having trouble finding the funds I just deposited.
+VAL | [card_acceptance] | YES | Text: Is my credit card accepted for online transactions?
+VAL | [card_not_working] | YES | Text: My card stopped working after I think I accidentally deactivated it
+VAL | [compromised_card] | YES | Text: I'm concerned that my card's security has been compromised.

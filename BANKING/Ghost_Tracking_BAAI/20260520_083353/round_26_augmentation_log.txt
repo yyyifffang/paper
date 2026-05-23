@@ -1,0 +1,70 @@
+GEN | [card_swallowed] | Orig: how to get new card after atm eats it -> Aug: what happens if my card gets swallowed by an ATM and I need a replacement?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I have a question about ATM transactions. Can I take money out of an ATM when I'm traveling abroad? And, can I get the money in my home currancy? -> Aug: I'm planning to withdraw some cash from an ATM while I'm abroad, but I'm worried about getting the correct exchange rate. Can I get the money in my home currency, or will I be charged an incorrect rate?
+GEN | [atm_support] | Orig: Can I use a different bank ATM than my own? -> Aug: Can I use an ATM from a different bank or institution than my own?
+GEN | [declined_card_payment] | Orig: I was so embarrassed. Why didn't my payment clear? -> Aug: I'm really frustrated. My payment was declined, and I don't know why.
+GEN | [topping_up_by_card] | Orig: Can I get my friends to add money to my account? -> Aug: Can I have my friends use their cards to top up my account?
+GEN | [get_physical_card] | Orig: In regards to the PIN of the card? -> Aug: I'd like to request a physical copy of my card.
+GEN | [direct_debit_payment_not_recognised] | Orig: Could I raise a dispute for a large payment that i found out was not done by me in my couple of last statements? I am aware its delayed now. Please help me out. -> Aug: I'd like to dispute a significant payment that appears to have been made by someone else in my recent statements. It's already been delayed, and I'd appreciate your assistance in resolving this issue.
+GEN | [get_physical_card] | Orig: How long do I wait for my PIN -> Aug: Can you tell me when I can expect to receive my physical debit card?
+GEN | [verify_top_up] | Orig: Where's my top up code? -> Aug: I need my top-up confirmation code.
+GEN | [reverted_card_payment?] | Orig: I bought something and already paid for it but now I don't see it. -> Aug: I made a purchase and paid for it, but the item is missing from my account.
+GEN | [failed_transfer] | Orig: Why was my transaction not approved? -> Aug: I'm trying to understand why my recent transfer was declined.
+GEN | [pending_card_payment] | Orig: I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through? -> Aug: I'm concerned that a payment I made using my card a few days ago hasn't been processed yet. Can you please let me know the usual timeframe for pending card payments to be cleared?
+GEN | [atm_support] | Orig: What locations can I get money from? -> Aug: Where can I withdraw cash from an ATM?
+GEN | [declined_transfer] | Orig: How do I contact customer support about my declined transfer? -> Aug: I'd like to speak with a representative about the transfer that was declined and get more information on why it was rejected.
+GEN | [apple_pay_or_google_pay] | Orig: I seem to be having trouble with my Google Pay Top. Can you please help? -> Aug: I'm having issues with Apple Pay on my iPhone. Can you assist me with that?
+GEN | [get_physical_card] | Orig: I have my card, when whill my PIN be available? -> Aug: I'd like to know when I can receive my physical card and get my PIN.
+GEN | [apple_pay_or_google_pay] | Orig: Can I add funds directly from my Apple Watch? -> Aug: Can I use Apple Pay to add funds to my account from my Apple Watch?
+GEN | [top_up_by_card_charge] | Orig: should i add money via bank transfer instead -> Aug: can i top up my account using a card charge instead of a bank transfer?
+GEN | [declined_transfer] | Orig: I wanted to know why my transaction didn't go through. -> Aug: I'm trying to understand why my transfer was declined.
+GEN | [transfer_into_account] | Orig: How does your app transfer the money -> Aug: To initiate a transfer into an account, can you please guide me through the process of moving funds from one account to another using your mobile app?
+GEN | [transfer_into_account] | Orig: What transfer methods do you accept? -> Aug: How can I transfer funds into my account?
+GEN | [pending_cash_withdrawal] | Orig: The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why? -> Aug: I attempted to withdraw cash earlier, but the ATM wasn't functioning properly. Now, my account shows a pending transaction. Can you help me understand why it's still processing?
+GEN | [transfer_into_account] | Orig: I am out of money in my account and I was wondering if I could do a bank transfer is put more in it? -> Aug: I'm running low on funds in my account and I'd like to know if I can initiate a transfer to add more money to it.
+GEN | [declined_transfer] | Orig: Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening. -> Aug: I've noticed that my recent transfer attempts have been declined, despite my previous successful transactions. I've tried to make a purchase just now, but the card was declined again. This is the second time it's happened, and I'm concerned about the issue.
+GEN | [exchange_via_app] | Orig: Can i add a new currency to my account? -> Aug: Can I add a new currency to my account through the app?
+GEN | [failed_transfer] | Orig: I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand. -> Aug: I'm having trouble sending a payment to a recipient and it keeps getting declined. Can you help me figure out what's going on?
+GEN | [verify_top_up] | Orig: this verifying the top up is annoying -> Aug: This top-up verification process is really frustrating
+GEN | [top_up_by_cash_or_cheque] | Orig: What are my payment options for topping off my account? -> Aug: How can I add funds to my account, and what methods are available for doing so?
+GEN | [transfer_fee_charged] | Orig: I usually don't get charged for transfers, why was I this month? -> Aug: I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?
+GEN | [get_physical_card] | Orig: I've been waiting ages and my PIN hasn't gotten here. -> Aug: I still haven't received my physical debit card, and I'm getting worried.
+GEN | [supported_cards_and_currencies] | Orig: Will you accept my credit card, it my only one. -> Aug: Do you support credit cards as a payment method, as it's the only one I have?
+GEN | [card_acceptance] | Orig: You accepts my card? -> Aug: Does your system accept my credit card?
+GEN | [transfer_timing] | Orig: How long do I have to wait for Europe transfers? -> Aug: What is the typical processing time for international transfers to Europe?
+GEN | [activate_my_card] | Orig: What do I need to do in order to use my card I just got? -> Aug: To activate my new card, what steps do I need to take to start using it?
+GEN | [visa_or_mastercard] | Orig: I prefer using Mastercard, can I substitute? -> Aug: I'd like to use a different payment method, is Mastercard an option to replace my original choice?
+VAL | [card_swallowed] | YES | Text: what happens if my card gets swallowed by an ATM and I need a replacement?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I'm planning to withdraw some cash from an ATM while I'm abroad, but I'm worried about getting the correct exchange rate. Can I get the money in my home currency, or will I be charged an incorrect rate?
+VAL | [atm_support] | NO | Text: Can I use an ATM from a different bank or institution than my own?
+VAL | [declined_card_payment] | NO | Text: I'm really frustrated. My payment was declined, and I don't know why.
+VAL | [topping_up_by_card] | YES | Text: Can I have my friends use their cards to top up my account?
+VAL | [get_physical_card] | YES | Text: I'd like to request a physical copy of my card.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'd like to dispute a significant payment that appears to have been made by someone else in my recent statements. It's already been delayed, and I'd appreciate your assistance in resolving this issue.
+VAL | [get_physical_card] | NO | Text: Can you tell me when I can expect to receive my physical debit card?
+VAL | [verify_top_up] | NO | Text: I need my top-up confirmation code.
+VAL | [reverted_card_payment?] | YES | Text: I made a purchase and paid for it, but the item is missing from my account.
+VAL | [failed_transfer] | YES | Text: I'm trying to understand why my recent transfer was declined.
+VAL | [pending_card_payment] | YES | Text: I'm concerned that a payment I made using my card a few days ago hasn't been processed yet. Can you please let me know the usual timeframe for pending card payments to be cleared?
+VAL | [atm_support] | YES | Text: Where can I withdraw cash from an ATM?
+VAL | [declined_transfer] | NO | Text: I'd like to speak with a representative about the transfer that was declined and get more information on why it was rejected.
+VAL | [apple_pay_or_google_pay] | NO | Text: I'm having issues with Apple Pay on my iPhone. Can you assist me with that?
+VAL | [get_physical_card] | NO | Text: I'd like to know when I can receive my physical card and get my PIN.
+VAL | [apple_pay_or_google_pay] | NO | Text: Can I use Apple Pay to add funds to my account from my Apple Watch?
+VAL | [top_up_by_card_charge] | NO | Text: can i top up my account using a card charge instead of a bank transfer?
+VAL | [declined_transfer] | YES | Text: I'm trying to understand why my transfer was declined.
+VAL | [transfer_into_account] | NO | Text: To initiate a transfer into an account, can you please guide me through the process of moving funds from one account to another using your mobile app?
+VAL | [transfer_into_account] | YES | Text: How can I transfer funds into my account?
+VAL | [pending_cash_withdrawal] | YES | Text: I attempted to withdraw cash earlier, but the ATM wasn't functioning properly. Now, my account shows a pending transaction. Can you help me understand why it's still processing?
+VAL | [transfer_into_account] | YES | Text: I'm running low on funds in my account and I'd like to know if I can initiate a transfer to add more money to it.
+VAL | [declined_transfer] | YES | Text: I've noticed that my recent transfer attempts have been declined, despite my previous successful transactions. I've tried to make a purchase just now, but the card was declined again. This is the second time it's happened, and I'm concerned about the issue.
+VAL | [exchange_via_app] | NO | Text: Can I add a new currency to my account through the app?
+VAL | [failed_transfer] | YES | Text: I'm having trouble sending a payment to a recipient and it keeps getting declined. Can you help me figure out what's going on?
+VAL | [verify_top_up] | NO | Text: This top-up verification process is really frustrating
+VAL | [top_up_by_cash_or_cheque] | YES | Text: How can I add funds to my account, and what methods are available for doing so?
+VAL | [transfer_fee_charged] | YES | Text: I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?
+VAL | [get_physical_card] | YES | Text: I still haven't received my physical debit card, and I'm getting worried.
+VAL | [supported_cards_and_currencies] | YES | Text: Do you support credit cards as a payment method, as it's the only one I have?
+VAL | [card_acceptance] | YES | Text: Does your system accept my credit card?
+VAL | [transfer_timing] | YES | Text: What is the typical processing time for international transfers to Europe?
+VAL | [activate_my_card] | YES | Text: To activate my new card, what steps do I need to take to start using it?
+VAL | [visa_or_mastercard] | NO | Text: I'd like to use a different payment method, is Mastercard an option to replace my original choice?

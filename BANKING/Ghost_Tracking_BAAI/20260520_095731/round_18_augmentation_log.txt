@@ -1,0 +1,76 @@
+GEN | [terminate_account] | Orig: I need to close my account as soon as possible. -> Aug: I'd like to cancel my account immediately.
+GEN | [terminate_account] | Orig: This place has been too much work so I'd just like to close out my account & be done. -> Aug: I'm no longer satisfied with the services, so I'd like to terminate my account and move on.
+GEN | [change_pin] | Orig: I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM? -> Aug: I'm currently traveling in Italy and I'm worried someone might have seen my PIN. Can I change it at a nearby ATM or bank branch?
+GEN | [visa_or_mastercard] | Orig: Does it matter which card I use -> Aug: Is it important which credit card I use, specifically Visa or Mastercard?
+GEN | [change_pin] | Orig: While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain? -> Aug: I'm planning to travel to Spain and I'm concerned that someone might have seen my PIN, so I'd like to change it before I go, is it possible to do so at an ATM in Spain?
+GEN | [Refund_not_showing_up] | Orig: why cant you just refund me instead of a merchant -> Aug: I'm still waiting for my refund, can you please expedite the process instead of sending me a credit note from the merchant?
+GEN | [wrong_amount_of_cash_received] | Orig: i did not get any money but still was charged -> Aug: i was expecting to receive a certain amount of cash, but instead, I didn't receive any and was still charged
+GEN | [passcode_forgotten] | Orig: Please help me.  I don't know my code to get into the app. -> Aug: I've forgotten my passcode and need assistance retrieving it to access the app.
+GEN | [Refund_not_showing_up] | Orig: i need a refund right away but the funds aren't available in my account -> Aug: I'm expecting to see the refund in my account, but it's not showing up. Can you please look into this and expedite the refund process?
+GEN | [terminate_account] | Orig: The service here is horrible, I want to delete my account. -> Aug: I'm extremely dissatisfied with the service, and I'd like to cancel my account.
+GEN | [terminate_account] | Orig: I am not happy with your service and request that my account be terminated! -> Aug: I'm extremely dissatisfied with your service and would like to cancel my account immediately.
+GEN | [topping_up_by_card] | Orig: My card needs to be topped up. -> Aug: I'd like to add some funds to my card.
+GEN | [verify_top_up] | Orig: I can't see a verification code anywhere -> Aug: I'm having trouble finding the verification code for my top-up
+GEN | [card_swallowed] | Orig: What should I do with my stuck ATM? -> Aug: If I swallowed my bank card, what should I do?
+GEN | [pending_card_payment] | Orig: How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move -> Aug: I'd be happy to help you with that! Can you please provide me with the transaction reference number or the last four digits of the card used for the pending payment? This will help me look into the status of your payment and provide you with an estimated timeframe for when it will be processed.
+GEN | [country_support] | Orig: As far as courtries go which ones are supported? -> Aug: We currently support a wide range of countries, including but not limited to, the United States, Canada, Mexico, and many more. Please let me know if you have a specific country in mind and I'll be happy to assist you with your inquiry.
+GEN | [terminate_account] | Orig: I want to close my account due to poor customer service. -> Aug: I'm requesting to cancel my account because of the unsatisfactory customer service experience.
+GEN | [change_pin] | Orig: I think someone saw my PIN and I am on vacation in Spain, can I change it locally at an ATM? -> Aug: I'm concerned someone may have discovered my PIN and I'm currently in Spain on vacation, can I modify it at a local ATM or is there another way to do it remotely?
+GEN | [transaction_charged_twice] | Orig: Why does my statement show various transaction times? -> Aug: I'm showing multiple transaction dates on my statement, what's going on?
+GEN | [topping_up_by_card] | Orig: I cannot tell what my top up currently is. -> Aug: I'd like to check my current card balance and confirm the amount available for topping up.
+GEN | [activate_my_card] | Orig: I need to actuate my card. -> Aug: I'd like to activate my credit card.
+GEN | [age_limit] | Orig: My daughter needs to open account. -> Aug: My child is under the age of 18 and needs to open a minor account.
+GEN | [terminate_account] | Orig: I want to close my account. The service you provide is unsatisfactory to me. -> Aug: I'm not satisfied with your service and would like to cancel my account.
+GEN | [terminate_account] | Orig: I am asking to end my account. -> Aug: I would like to cancel my account.
+GEN | [atm_support] | Orig: I need an ATM right now! -> Aug: I urgently require an ATM location.
+GEN | [Refund_not_showing_up] | Orig: I did all that was asked of me and I am rather frustrated. I don't understand why you just won't credit me my money back. I have contacted the seller and nothing has been done. It's been a week! -> Aug: I'm extremely disappointed and frustrated because I've fulfilled all the requirements, yet I haven't received my refund. I've reached out to the seller, but they haven't taken any action. It's been a week now, and I'm still waiting for my money back.
+GEN | [top_up_failed] | Orig: I really need to top-up my card today urgently but my card keeps getting declined!! Can you please help me with this problem or let me know if you have any alternatives -> Aug: I'm in a bit of an emergency and I need to top-up my card ASAP, but it's not accepting the payment. Can you assist me with this issue or suggest an alternative solution?
+GEN | [pending_top_up] | Orig: Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour. -> Aug: Can you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for an hour already.
+GEN | [top_up_by_card_charge] | Orig: Can I get information on topping up? -> Aug: How do I add funds to my account using my card?
+GEN | [top_up_by_card_charge] | Orig: Are there any charges for topping up a US-issued card? -> Aug: Is there a fee associated with recharging a US-issued card using a card charge?
+GEN | [Refund_not_showing_up] | Orig: It's been more than a week since I had a return charged to my card, why hasn't it showed up? -> Aug: I've been waiting for over a week for the refund to be processed and credited to my account, but it's still not showing up. Can you please look into this?
+GEN | [top_up_limits] | Orig: How can I information on my limit for top-ups? -> Aug: Inquire about the current limit for making top-up transactions?
+GEN | [transfer_into_account] | Orig: My account is depleted. Can I transfer funds from another bank? -> Aug: I'm running low on funds in my account. Can I transfer money from another bank account to my current account?
+GEN | [pending_cash_withdrawal] | Orig: Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged? -> Aug: I'm experiencing a pending cash withdrawal issue, as the ATM was not functioning, and I'm concerned about being charged for the transaction. Can you assist me in resolving this matter?
+GEN | [verify_top_up] | Orig: How do i secure a top-up card? -> Aug: How can I confirm the details of my top-up card?
+GEN | [extra_charge_on_statement] | Orig: I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as "pending", it never changes, and now I'm thinking someone's hacked my account! -> Aug: I'm concerned about a recurring charge of £1 that's been appearing on my statement, labeled as "pending" in the app, and it's not updating or changing, making me worry that someone has unauthorized access to my account.
+GEN | [reverted_card_payment?] | Orig: I purchased something and already received it, why hasn't the money taken out? -> Aug: I made a payment for an item I've already received, but the amount hasn't been deducted from my account. Can you help me understand why?
+GEN | [declined_card_payment] | Orig: A shop I go to didn't let me pay. -> Aug: Your recent payment attempt at the mentioned shop was declined due to an issue with your card.
+VAL | [terminate_account] | YES | Text: I'd like to cancel my account immediately.
+VAL | [terminate_account] | YES | Text: I'm no longer satisfied with the services, so I'd like to terminate my account and move on.
+VAL | [change_pin] | YES | Text: I'm currently traveling in Italy and I'm worried someone might have seen my PIN. Can I change it at a nearby ATM or bank branch?
+VAL | [visa_or_mastercard] | YES | Text: Is it important which credit card I use, specifically Visa or Mastercard?
+VAL | [change_pin] | YES | Text: I'm planning to travel to Spain and I'm concerned that someone might have seen my PIN, so I'd like to change it before I go, is it possible to do so at an ATM in Spain?
+VAL | [Refund_not_showing_up] | YES | Text: I'm still waiting for my refund, can you please expedite the process instead of sending me a credit note from the merchant?
+VAL | [wrong_amount_of_cash_received] | YES | Text: i was expecting to receive a certain amount of cash, but instead, I didn't receive any and was still charged
+VAL | [passcode_forgotten] | YES | Text: I've forgotten my passcode and need assistance retrieving it to access the app.
+VAL | [Refund_not_showing_up] | YES | Text: I'm expecting to see the refund in my account, but it's not showing up. Can you please look into this and expedite the refund process?
+VAL | [terminate_account] | YES | Text: I'm extremely dissatisfied with the service, and I'd like to cancel my account.
+VAL | [terminate_account] | YES | Text: I'm extremely dissatisfied with your service and would like to cancel my account immediately.
+VAL | [topping_up_by_card] | YES | Text: I'd like to add some funds to my card.
+VAL | [verify_top_up] | YES | Text: I'm having trouble finding the verification code for my top-up
+VAL | [card_swallowed] | NO | Text: If I swallowed my bank card, what should I do?
+VAL | [pending_card_payment] | NO | Text: I'd be happy to help you with that! Can you please provide me with the transaction reference number or the last four digits of the card used for the pending payment? This will help me look into the status of your payment and provide you with an estimated timeframe for when it will be processed.
+VAL | [country_support] | NO | Text: We currently support a wide range of countries, including but not limited to, the United States, Canada, Mexico, and many more. Please let me know if you have a specific country in mind and I'll be happy to assist you with your inquiry.
+VAL | [terminate_account] | YES | Text: I'm requesting to cancel my account because of the unsatisfactory customer service experience.
+VAL | [change_pin] | NO | Text: I'm concerned someone may have discovered my PIN and I'm currently in Spain on vacation, can I modify it at a local ATM or is there another way to do it remotely?
+VAL | [transaction_charged_twice] | YES | Text: I'm showing multiple transaction dates on my statement, what's going on?
+VAL | [topping_up_by_card] | NO | Text: I'd like to check my current card balance and confirm the amount available for topping up.
+VAL | [activate_my_card] | YES | Text: I'd like to activate my credit card.
+VAL | [age_limit] | YES | Text: My child is under the age of 18 and needs to open a minor account.
+VAL | [terminate_account] | YES | Text: I'm not satisfied with your service and would like to cancel my account.
+VAL | [terminate_account] | YES | Text: I would like to cancel my account.
+VAL | [atm_support] | YES | Text: I urgently require an ATM location.
+VAL | [Refund_not_showing_up] | YES | Text: I'm extremely disappointed and frustrated because I've fulfilled all the requirements, yet I haven't received my refund. I've reached out to the seller, but they haven't taken any action. It's been a week now, and I'm still waiting for my money back.
+VAL | [top_up_failed] | NO | Text: I'm in a bit of an emergency and I need to top-up my card ASAP, but it's not accepting the payment. Can you assist me with this issue or suggest an alternative solution?
+VAL | [pending_top_up] | YES | Text: Can you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for an hour already.
+VAL | [top_up_by_card_charge] | YES | Text: How do I add funds to my account using my card?
+VAL | [top_up_by_card_charge] | YES | Text: Is there a fee associated with recharging a US-issued card using a card charge?
+VAL | [Refund_not_showing_up] | YES | Text: I've been waiting for over a week for the refund to be processed and credited to my account, but it's still not showing up. Can you please look into this?
+VAL | [top_up_limits] | YES | Text: Inquire about the current limit for making top-up transactions?
+VAL | [transfer_into_account] | YES | Text: I'm running low on funds in my account. Can I transfer money from another bank account to my current account?
+VAL | [pending_cash_withdrawal] | YES | Text: I'm experiencing a pending cash withdrawal issue, as the ATM was not functioning, and I'm concerned about being charged for the transaction. Can you assist me in resolving this matter?
+VAL | [verify_top_up] | NO | Text: How can I confirm the details of my top-up card?
+VAL | [extra_charge_on_statement] | NO | Text: I'm concerned about a recurring charge of £1 that's been appearing on my statement, labeled as "pending" in the app, and it's not updating or changing, making me worry that someone has unauthorized access to my account.
+VAL | [reverted_card_payment?] | NO | Text: I made a payment for an item I've already received, but the amount hasn't been deducted from my account. Can you help me understand why?
+VAL | [declined_card_payment] | NO | Text: Your recent payment attempt at the mentioned shop was declined due to an issue with your card.

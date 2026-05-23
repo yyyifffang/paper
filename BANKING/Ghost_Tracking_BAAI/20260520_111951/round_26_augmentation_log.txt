@@ -1,0 +1,70 @@
+GEN | [edit_personal_details] | Orig: Am I able to modify my account details? -> Aug: Can I update my personal information?
+GEN | [pending_top_up] | Orig: Help, I don't see my money i just added. -> Aug: I'm having trouble finding the funds I just deposited.
+GEN | [top_up_failed] | Orig: Fix my top up -> Aug: Resolve the issue with my recent top-up attempt
+GEN | [card_swallowed] | Orig: how to get new card after atm eats it -> Aug: what happens if my card gets swallowed by an ATM and I need a replacement?
+GEN | [verify_my_identity] | Orig: Tell me what the steps for the identity checks are -> Aug: Can you walk me through the process of verifying my identity?
+GEN | [change_pin] | Orig: I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country? -> Aug: I'm currently traveling in the UK, but I urgently need to modify my PIN. Can I still make the change even though I'm abroad?
+GEN | [terminate_account] | Orig: I am not happy with your service and request that my account be terminated! -> Aug: I'm extremely dissatisfied with your service and would like to cancel my account immediately.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I have a question about ATM transactions. Can I take money out of an ATM when I'm traveling abroad? And, can I get the money in my home currancy? -> Aug: I'm planning to withdraw some cash from an ATM while I'm abroad, but I'm worried about getting the correct exchange rate. Can I get the money in my home currency, or will I be charged an incorrect rate?
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow. -> Aug: I need to cancel the transfer I initiated yesterday. Can you please reverse the transaction and make the necessary corrections? I require it to be completed by tomorrow.
+GEN | [cancel_transfer] | Orig: I need to change a transfer. -> Aug: I'd like to cancel a transfer I previously initiated.
+GEN | [cash_withdrawal_not_recognised] | Orig: I want my card frozen right away. Money was taken out in an odd location I have never heard of. -> Aug: I need my account frozen immediately. I'm concerned about an unauthorized cash withdrawal from a location I've never visited.
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction yesterday. Would  you please make it correct?I need it by tomorrow Please. -> Aug: I need to cancel the transfer I initiated yesterday. It was an error on my part. Can you please cancel it and correct the transaction as soon as possible?
+GEN | [order_physical_card] | Orig: Can I revive a physical card. -> Aug: Can I reorder a physical credit card?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I was overcharged at an ATM while on vacation. I needed cash so I had to use it, but your charges are outregous and I wish I would have known beforehand. -> Aug: I was surprised to find that the exchange rate was incorrect when I withdrew cash from an ATM while traveling abroad. I had to use the service, but I'm disappointed that I wasn't informed about the rate beforehand.
+GEN | [verify_my_identity] | Orig: what steps do you take to check identity -> Aug: To confirm your identity, what information do you need from me to verify my account?
+GEN | [change_pin] | Orig: I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here? -> Aug: I'm currently abroad and need to update my PIN urgently. Can I make the change remotely from my current location?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: where is my money from this morning -> Aug: why hasn't my account balance been updated after the cash deposit I made this morning?
+GEN | [direct_debit_payment_not_recognised] | Orig: Why is there a direct debit set up in my name? -> Aug: We've received a direct debit instruction that doesn't match any payment plan in your account. Can you please confirm if you've set up a direct debit recently or if you're aware of any unknown transactions?
+GEN | [topping_up_by_card] | Orig: I tried topping off my account with a card, but the money is not in my account despite the charge going through -> Aug: I attempted to add funds to my account using my card, but the transaction was successful, yet the funds are still not showing up in my account.
+GEN | [topping_up_by_card] | Orig: my top up isnt there yet where do i find it -> Aug: my card top-up is still pending, where can I locate it?
+GEN | [request_refund] | Orig: It's been some time ago that I placed an order and it just isn't coming. At this point just give me back my money because I'm not paying them. -> Aug: I've been waiting for a while now and my order still hasn't arrived. Can I get a refund for the amount I paid, as I'm no longer interested in pursuing the purchase.
+GEN | [disposable_card_limits] | Orig: Are there any limits if I use these virtual cards? -> Aug: What are the spending limits for disposable cards, and can I use them for online transactions?
+GEN | [edit_personal_details] | Orig: went somewhere else, need to change details -> Aug: need to update my personal information
+GEN | [cancel_transfer] | Orig: I goofed up and used the wrong account.  Please help. -> Aug: I accidentally selected the wrong account for the transfer. Can you assist me in canceling the transaction?
+GEN | [pending_cash_withdrawal] | Orig: The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why? -> Aug: I attempted to withdraw cash earlier, but the ATM wasn't functioning properly. Now, my account shows a pending transaction. Can you help me understand why it's still processing?
+GEN | [supported_cards_and_currencies] | Orig: I'd prefer to use my American Express when putting funds into my account. -> Aug: I'd like to use my American Express card to deposit funds into my account.
+GEN | [verify_my_identity] | Orig: How recent do my documents need to be for verification? -> Aug: What is the age requirement for the documents I need to provide for identity verification?
+GEN | [why_verify_identity] | Orig: what I need to verify my account -> Aug: Can you please explain why I need to verify my account?
+GEN | [getting_virtual_card] | Orig: I want one of the virtual cards! -> Aug: I'd like to request a virtual card, please.
+GEN | [declined_transfer] | Orig: I wanted to know why my transaction didn't go through. -> Aug: I'm trying to understand why my transfer was declined.
+GEN | [why_verify_identity] | Orig: I don't want to use this method to identify myself. -> Aug: I'm not comfortable providing this information to verify my identity.
+GEN | [declined_card_payment] | Orig: I was so embarrassed. Why didn't my payment clear? -> Aug: I'm really frustrated. My payment was declined, and I don't know why.
+GEN | [pending_top_up] | Orig: When will my top up be approved? -> Aug: When can I expect my pending top-up to be processed?
+GEN | [top_up_by_cash_or_cheque] | Orig: I'll send a check to top up my account -> Aug: I'll deposit a cheque to add funds to my account
+GEN | [declined_cash_withdrawal] | Orig: My ATM transaction was cancelled. -> Aug: Your recent cash withdrawal attempt was declined.
+VAL | [edit_personal_details] | YES | Text: Can I update my personal information?
+VAL | [pending_top_up] | NO | Text: I'm having trouble finding the funds I just deposited.
+VAL | [top_up_failed] | YES | Text: Resolve the issue with my recent top-up attempt
+VAL | [card_swallowed] | YES | Text: what happens if my card gets swallowed by an ATM and I need a replacement?
+VAL | [verify_my_identity] | NO | Text: Can you walk me through the process of verifying my identity?
+VAL | [change_pin] | YES | Text: I'm currently traveling in the UK, but I urgently need to modify my PIN. Can I still make the change even though I'm abroad?
+VAL | [terminate_account] | YES | Text: I'm extremely dissatisfied with your service and would like to cancel my account immediately.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I'm planning to withdraw some cash from an ATM while I'm abroad, but I'm worried about getting the correct exchange rate. Can I get the money in my home currency, or will I be charged an incorrect rate?
+VAL | [cancel_transfer] | YES | Text: I need to cancel the transfer I initiated yesterday. Can you please reverse the transaction and make the necessary corrections? I require it to be completed by tomorrow.
+VAL | [cancel_transfer] | YES | Text: I'd like to cancel a transfer I previously initiated.
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I need my account frozen immediately. I'm concerned about an unauthorized cash withdrawal from a location I've never visited.
+VAL | [cancel_transfer] | YES | Text: I need to cancel the transfer I initiated yesterday. It was an error on my part. Can you please cancel it and correct the transaction as soon as possible?
+VAL | [order_physical_card] | NO | Text: Can I reorder a physical credit card?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I was surprised to find that the exchange rate was incorrect when I withdrew cash from an ATM while traveling abroad. I had to use the service, but I'm disappointed that I wasn't informed about the rate beforehand.
+VAL | [verify_my_identity] | YES | Text: To confirm your identity, what information do you need from me to verify my account?
+VAL | [change_pin] | YES | Text: I'm currently abroad and need to update my PIN urgently. Can I make the change remotely from my current location?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | NO | Text: why hasn't my account balance been updated after the cash deposit I made this morning?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've received a direct debit instruction that doesn't match any payment plan in your account. Can you please confirm if you've set up a direct debit recently or if you're aware of any unknown transactions?
+VAL | [topping_up_by_card] | YES | Text: I attempted to add funds to my account using my card, but the transaction was successful, yet the funds are still not showing up in my account.
+VAL | [topping_up_by_card] | NO | Text: my card top-up is still pending, where can I locate it?
+VAL | [request_refund] | YES | Text: I've been waiting for a while now and my order still hasn't arrived. Can I get a refund for the amount I paid, as I'm no longer interested in pursuing the purchase.
+VAL | [disposable_card_limits] | NO | Text: What are the spending limits for disposable cards, and can I use them for online transactions?
+VAL | [edit_personal_details] | YES | Text: need to update my personal information
+VAL | [cancel_transfer] | YES | Text: I accidentally selected the wrong account for the transfer. Can you assist me in canceling the transaction?
+VAL | [pending_cash_withdrawal] | YES | Text: I attempted to withdraw cash earlier, but the ATM wasn't functioning properly. Now, my account shows a pending transaction. Can you help me understand why it's still processing?
+VAL | [supported_cards_and_currencies] | YES | Text: I'd like to use my American Express card to deposit funds into my account.
+VAL | [verify_my_identity] | NO | Text: What is the age requirement for the documents I need to provide for identity verification?
+VAL | [why_verify_identity] | NO | Text: Can you please explain why I need to verify my account?
+VAL | [getting_virtual_card] | YES | Text: I'd like to request a virtual card, please.
+VAL | [declined_transfer] | YES | Text: I'm trying to understand why my transfer was declined.
+VAL | [why_verify_identity] | NO | Text: I'm not comfortable providing this information to verify my identity.
+VAL | [declined_card_payment] | NO | Text: I'm really frustrated. My payment was declined, and I don't know why.
+VAL | [pending_top_up] | YES | Text: When can I expect my pending top-up to be processed?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: I'll deposit a cheque to add funds to my account
+VAL | [declined_cash_withdrawal] | YES | Text: Your recent cash withdrawal attempt was declined.

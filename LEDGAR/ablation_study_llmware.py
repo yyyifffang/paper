@@ -57,7 +57,7 @@ EXPERIMENT_NAME = "simple_active_learning_llmware"
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(BASE_DIR, "llmware")
+DATA_DIR = os.path.join(BASE_DIR, "ablation")
 os.makedirs(DATA_DIR, exist_ok=True)
 
 RUN_OUTPUT_DIR = DATA_DIR
@@ -231,7 +231,7 @@ def _load_local_validator():
         )
 
 
-def _generate_chat_response(tokenizer, model, messages, max_new_tokens=256, do_sample=True):
+def _generate_chat_response(tokenizer, model, messages, max_new_tokens=256, do_sample=False):
     """通用 chat generate helper，回傳新生成的純文字。"""
     prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
     inputs = tokenizer(prompt, return_tensors="pt")
@@ -418,7 +418,7 @@ def load_ledgar_sentence_transformer(random_seed=42, return_texts=False, n_head=
     return X_seed, y_seed, X_unlabeled, y_unlabeled, X_test, y_test
 
 
-def generate_variants_llama3(texts, labels, n_variants=1):
+def generate_variants_llama3(texts, labels, label_mapping=None, n_variants=1, output_txt_path=None):
     """使用本地 Llama 3 產生擴增資料。模型常駐 VRAM，無需釋放。"""
     texts = _to_text_array(texts)
     labels = np.asarray(labels)
@@ -431,17 +431,14 @@ def generate_variants_llama3(texts, labels, n_variants=1):
 
     for text, label in zip(texts, labels):
 
-        # 根據 n_variants 動態調整 Prompt 的格式要求
-        if n_variants == 1:
-            format_instruction = (
-                "Please output exactly 1 variation. "
-                "Do NOT include any titles, numbers, markdown, or introductory text like 'Here is the variation'."
-            )
-        else:
-            format_instruction = (
-                f"Please output exactly {n_variants} variations separated by the delimiter '|||'. "
-                "Do NOT include any titles, numbers, markdown, or introductory text like 'Here are the variations'."
-            )
+        format_instruction = (
+            "CRITICAL CONSTRAINTS:\n"
+            "1. Output exactly 1 valid variation.\n"
+            "2. DO NOT modify, add, or remove any numbers, dates, or years.\n"
+            "3. DO NOT alter any capitalized proper nouns, entities, or document references (e.g., Schedule A).\n"
+            "4. STRICTLY PRESERVE the original legal boundaries, jurisdictions, and governing laws.\n"
+            "5. DIRECT OUTPUT ONLY. NO conversational fillers (e.g., 'Here is...'), NO markdown, NO tags."
+        )
 
         messages = [
             {
@@ -463,7 +460,7 @@ def generate_variants_llama3(texts, labels, n_variants=1):
             _LOCAL_LLM_MODEL,
             messages,
             max_new_tokens=384,
-            do_sample=True,
+            do_sample=False,
         )
 
         # 解析 LLM 輸出
@@ -524,6 +521,7 @@ def validate_with_qwen25(
     logger=None,
     iteration=0,
     original_texts=None,
+    output_txt_path=None,
 ):
     """
     使用本地 Qwen2.5 驗證擴增資料並回傳 agreement rate。
@@ -592,6 +590,20 @@ def validate_with_qwen25(
                 status="Accepted" if decision.upper() == "YES" else "Rejected",
             )
 
+        # 記錄到 txt 檔
+        if output_txt_path:
+            is_accepted = (decision.upper() == "YES")
+            with open(output_txt_path, "a", encoding="utf-8") as f:
+                f.write("-----\n")
+                f.write(f"Label: {label_name}\n")
+                f.write(f"Original Text: {original_text}\n")
+                f.write(f"Llama Generate Text: {text}\n")
+                f.write("Qwen Response:\n")
+                f.write(response_text.strip() + "\n")
+                f.write(f"Qwen Decision: {decision}\n")
+                f.write(f"Status: {'Accepted' if is_accepted else 'Rejected'}\n")
+                f.write("-----\n\n")
+
         if _parse_validator_response(response_text):
             valid_texts.append(text)
             valid_labels.append(label)
@@ -599,6 +611,30 @@ def validate_with_qwen25(
 
     agreement_rate = accepted / max(len(generated_texts), 1)
     return np.asarray(valid_texts, dtype=str), np.asarray(valid_labels), agreement_rate
+
+
+def _write_unfiltered_records(generated_texts, generated_labels, label_mapping=None, original_texts=None, output_txt_path=None):
+    """When validator is skipped, write multi-line augmentation records to file.
+
+    Fields written:
+    Label, Original Text, Llama Generate Text, Qwen Response (empty), Qwen Decision (N/A), Status (Accepted)
+    """
+    if not output_txt_path:
+        return
+
+    generated_texts = _to_text_array(generated_texts)
+    generated_labels = np.asarray(generated_labels)
+
+    with open(output_txt_path, "a", encoding="utf-8") as f:
+        for idx, (text, label) in enumerate(zip(generated_texts, generated_labels)):
+            label_name = label_mapping.get(int(label), f"Label_{label}") if label_mapping else f"Label_{label}"
+            original_text = str(original_texts[idx]) if (original_texts is not None and idx < len(original_texts)) else "[N/A]"
+            f.write("-----\n")
+            f.write(f"Label: {label_name}\n")
+            f.write(f"Original Text: {original_text}\n")
+            f.write(f"Llama Generate Text: {text}\n")
+            f.write(f"Status: Accepted\n")
+            f.write("-----\n\n")
 
 
 def random_sampling(pool_size, n_samples, random_seed=42):
@@ -692,29 +728,38 @@ def _compute_head_tail_f1(y_true, y_pred, n_head=10, n_tail=10):
     return head_f1, tail_f1
 
 
-def _compute_stopping_iteration(results, patience=4):
+def _compute_stopping_iteration_ttest(results, window_size=4, p_value_threshold=0.05, max_samples=None):
     """
-    符合論文理念的停止機制：
-    當連續 patience 輪，Ut (Utility) 都無法超越歷史最高紀錄 (U_best) 時，觸發停止。
+    基於 T 檢定的自適應提早停止機制
     """
-    if len(results) < patience + 1:
+    if not results:
         return None
 
-    # 取得歷史所有的 Utility 數值 
-    utilities = [r["utility"] for r in results]
-    best_utility = max(utilities)
-    
-    # 找到最後一次達到歷史最高效用的索引
-    # list.index 會回傳第一個，我們用 reversed 找最後一個
-    last_best_idx = len(utilities) - 1 - utilities[::-1].index(best_utility)
-    
-    # 計算距離最後一次創新高已經過了幾輪
-    current_wait = (len(utilities) - 1) - last_best_idx
-    
-    if current_wait >= patience:
-        print(f"[Auto-Stopping] 效用已連續 {current_wait} 輪未創新高。最佳效用點：Iteration {results[last_best_idx]['iteration']}")
+    if max_samples and results[-1].get("labeled_samples", 0) >= max_samples:
         return results[-1]["iteration"]
-    
+
+    # 至少需要 2 個 window_size 的歷史資料才能進行檢定
+    if len(results) >= window_size * 2:
+        # 取出最近一組 (Current Window) 與前一組 (Previous Window) 的 F1 分數
+        current_window = [res["f1"] for res in results[-window_size:]]
+        previous_window = [res["f1"] for res in results[-(window_size * 2):-window_size]]
+
+        # 執行單尾獨立樣本 T 檢定 (測試 current 是否「顯著大於」 previous)
+        t_stat, p_value = stats.ttest_ind(current_window, previous_window, alternative='greater')
+        
+        # 邊界條件攔截：若變異數為 0，p_value 會回傳 NaN。這代表效能已呈現絕對的水平停滯 (Perfect Flatline)
+        if np.isnan(p_value):
+            print(f"\n[Stopping Auto-Triggered by T-Test]")
+            print(f"  Reason: Zero variance detected. Performance has perfectly flatlined.")
+            return results[-1]["iteration"]
+        
+        # 統計顯著性檢驗
+        if p_value >= p_value_threshold:
+            print(f"\n[Stopping Auto-Triggered by T-Test]")
+            print(f"  Reason: No statistically significant improvement.")
+            print(f"  P-value: {p_value:.4f} >= {p_value_threshold}")
+            return results[-1]["iteration"]
+
     return None
 
 
@@ -807,12 +852,12 @@ def run_active_baseline(
             n_llm=0, lambda_human=lambda_human, lambda_llm=lambda_llm
         )
 
-        # Immediate stopping check (skip warmup phase)
-        #if iteration > 15:
-        #    suggested_stop = _compute_stopping_iteration(results[15:], patience=4)
-        #    if suggested_stop is not None:
-        #        final_stop_iter = suggested_stop
-        #       break
+        # 尋找 T 檢定停止點，但不中斷迴圈
+        if iteration > 5 and final_stop_iter == n_iterations:  # 確保只記錄第一次觸發的點
+            stop_iter = _compute_stopping_iteration_ttest(results, window_size=4, p_value_threshold=0.05)
+            if stop_iter:
+                final_stop_iter = stop_iter
+                print(f"*** [Ghost Tracking] T-Test triggered at Iteration {stop_iter}. Continuing to max iterations to observe plateau. ***)")
 
         if iteration < n_iterations and X_pool.shape[0] > 0:
             selected_idx = _get_sampling_indices(
@@ -909,6 +954,7 @@ def run_proposed_framework(
 
     for iteration in range(1, n_iterations + 1):
         print(f"\n--- Iteration {iteration} ---")
+        log_file = os.path.join(RUN_OUTPUT_DIR, f"round_{iteration:02d}_augmentation_log.txt")
 
         model, metrics = train_and_evaluate(X_labeled, y_labeled, X_test, y_test)
         print(f"Test - F1: {metrics['f1']:.4f}, Accuracy: {metrics['accuracy']:.4f}")
@@ -923,12 +969,12 @@ def run_proposed_framework(
             extra_fields={"human_labeled": n_human, "llm_labeled": n_llm}
         )
 
-        # Immediate stopping check (skip warmup phase)
-        # if iteration > 15:
-        #    suggested_stop = _compute_stopping_iteration(results[15:], patience=4)
-        #    if suggested_stop is not None:
-        #        final_stop_iter = suggested_stop
-        #        break
+        # 尋找 T 檢定停止點，但不中斷迴圈
+        if iteration > 5 and final_stop_iter == n_iterations:  # 確保只記錄第一次觸發的點
+            stop_iter = _compute_stopping_iteration_ttest(results, window_size=4, p_value_threshold=0.05)
+            if stop_iter:
+                final_stop_iter = stop_iter
+                print(f"*** [Ghost Tracking] T-Test triggered at Iteration {stop_iter}. Continuing to max iterations to observe plateau. ***)")
 
         if iteration < n_iterations and X_pool.shape[0] > 0:
             selected_idx = _get_sampling_indices(
@@ -950,7 +996,9 @@ def run_proposed_framework(
             generated_texts, generated_labels, generated_source_texts = generate_variants_llama3(
                 selected_texts,
                 selected_labels,
+                label_mapping=label_mapping,
                 n_variants=1,
+                output_txt_path=log_file,
             )
 
             # 2. 100% 嚴格驗證：最多 40 筆，讓 Qwen 全數驗證
@@ -962,6 +1010,7 @@ def run_proposed_framework(
                 logger=logger,
                 iteration=iteration,
                 original_texts=generated_source_texts,
+                output_txt_path=log_file,
             )
 
             print(f"Agreement Rate: {agreement_rate:.4f}")
@@ -1033,6 +1082,7 @@ def run_unfiltered_framework(
     random_seed=42,
     lambda_human=0.0001,
     lambda_llm=0.000001,
+    label_mapping=None,
     return_final_predictions=False,
 ):
     """
@@ -1068,13 +1118,15 @@ def run_unfiltered_framework(
             extra_fields={"human_labeled": n_human, "llm_labeled": n_llm}
         )
 
-        # if iteration > 15:
-        #    suggested_stop = _compute_stopping_iteration(results[15:], patience=4)
-        #    if suggested_stop is not None:
-        #        final_stop_iter = suggested_stop
-        #        break
+        # 尋找 T 檢定停止點，但不中斷迴圈
+        if iteration > 5 and final_stop_iter == n_iterations:  # 確保只記錄第一次觸發的點
+            stop_iter = _compute_stopping_iteration_ttest(results, window_size=4, p_value_threshold=0.05)
+            if stop_iter:
+                final_stop_iter = stop_iter
+                print(f"*** [Ghost Tracking] T-Test triggered at Iteration {stop_iter}. Continuing to max iterations to observe plateau. ***)")
 
         if iteration < n_iterations and X_pool.shape[0] > 0:
+            log_file = os.path.join(RUN_OUTPUT_DIR, f"unfiltered_round_{iteration:02d}_log.txt")
             selected_idx = _get_sampling_indices(
                 model, X_pool, batch_size, iteration, warmup_iters=0, random_seed=random_seed
             )
@@ -1084,12 +1136,18 @@ def run_unfiltered_framework(
             selected_labels = y_pool[selected_idx]
 
             # 產生變體
-            generated_texts, generated_labels, _ = generate_variants_llama3(
-                selected_texts, selected_labels, n_variants=1
+            generated_texts, generated_labels, generated_source_texts = generate_variants_llama3(
+                selected_texts,
+                selected_labels,
+                label_mapping=label_mapping,
+                n_variants=1,
+                output_txt_path=log_file,
             )
 
             # 跳過 Qwen 驗證，直接全部接收
             print(f"Skipping Validator. Directly accepting all {len(generated_texts)} augmented samples...")
+            # 將多行完整記錄寫入 output 檔案
+            _write_unfiltered_records(generated_texts, generated_labels, label_mapping=label_mapping, original_texts=generated_source_texts, output_txt_path=log_file)
             trusted_texts = generated_texts
             trusted_labels = generated_labels
 
@@ -1263,13 +1321,13 @@ def _normalize_confusion_matrix(true_labels, pred_labels, labels):
     return np.divide(matrix, row_sums, out=np.zeros_like(matrix, dtype=float), where=row_sums != 0)
 
 
-def plot_confusion_matrix_comparison(y_true, active_pred, proposed_pred, config_name="", run_tag="", show_plots=True, label_mapping=None):
-    """比較 Active Learning 與 Proposed 的 confusion matrix。"""
+def plot_confusion_matrix_comparison(y_true, unfiltered_pred, proposed_pred, config_name="", run_tag="", show_plots=True, label_mapping=None):
+    """比較 Unfiltered 和 Proposed 的 confusion matrix。"""
     y_true = np.asarray(y_true)
-    active_pred = np.asarray(active_pred)
+    unfiltered_pred = np.asarray(unfiltered_pred)
     proposed_pred = np.asarray(proposed_pred)
 
-    n_classes = int(np.max(np.concatenate([y_true, active_pred, proposed_pred]))) + 1
+    n_classes = int(np.max(np.concatenate([y_true, unfiltered_pred, proposed_pred]))) + 1
     labels = np.arange(n_classes)
     
     if label_mapping is not None:
@@ -1277,12 +1335,12 @@ def plot_confusion_matrix_comparison(y_true, active_pred, proposed_pred, config_
     else:
         display_labels = [str(label) for label in labels]
 
-    active_cm = _normalize_confusion_matrix(y_true, active_pred, labels)
+    unfiltered_cm = _normalize_confusion_matrix(y_true, unfiltered_pred, labels)
     proposed_cm = _normalize_confusion_matrix(y_true, proposed_pred, labels)
 
     fig, axes = plt.subplots(1, 2, figsize=(16, 7), dpi=150, constrained_layout=True)
     cm_data = [
-        (axes[0], active_cm, "Unfiltered Ablation (LLM)", "Blues"),
+        (axes[0], unfiltered_cm, "Unfiltered Ablation (LLM)", "Blues"),
         (axes[1], proposed_cm, "Proposed Framework (LLM+Qwen)", "Greens"),
     ]
 
@@ -1366,6 +1424,7 @@ def main():
             batch_size=experiment_config["batch_size"],
             n_iterations=experiment_config["n_iterations"],
             random_seed=42,
+            label_mapping=label_mapping,
             return_final_predictions=True,
             lambda_human=experiment_config["lambda_human"],
             lambda_llm=experiment_config["lambda_llm"],

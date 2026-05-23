@@ -1,0 +1,68 @@
+GEN | [transaction_charged_twice] | Orig: I have multiple of the same transaction -> Aug: I've noticed duplicate charges for the same transaction
+GEN | [receiving_money] | Orig: My salary is in GBP - what should I do? -> Aug: I'm expecting a payment in GBP, what are the next steps?
+GEN | [getting_spare_card] | Orig: daughter needs card, how do i add her -> Aug: I'd like to request a replacement card for my daughter, as she needs a new one.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will I be fined for topping up by transfer? -> Aug: Are there any fees associated with topping up my account via bank transfer?
+GEN | [card_about_to_expire] | Orig: What is the cost and time frame of getting a new card? -> Aug: How much does it cost to replace my card, and how long does it take to receive a new one?
+GEN | [extra_charge_on_statement] | Orig: How long will the $1 charge show as pending? -> Aug: When will the extra charge appear on my statement?
+GEN | [pending_cash_withdrawal] | Orig: I have the cash already, my account still shows up as pending.  How can my account be still pending? -> Aug: I'm still waiting for the cash withdrawal to be processed, but my account balance still shows it as pending. Can you help me understand why it's taking so long?
+GEN | [getting_spare_card] | Orig: I lost my card and need a new one, will it cost me? -> Aug: I misplaced my card and require a replacement, what's the fee for a new one?
+GEN | [verify_my_identity] | Orig: Can I use my social security card as a form of identity? -> Aug: Can I use my social security card as a valid form of identification for verification purposes?
+GEN | [fiat_currency_support] | Orig: Can I have money of different country of origin. -> Aug: Can I obtain currency from various countries?
+GEN | [card_payment_fee_charged] | Orig: What can i pay with out  fees -> Aug: Can I make a payment without incurring any charges or fees on my card?
+GEN | [top_up_failed] | Orig: I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives -> Aug: I'm trying to urgently top-up my card, but it's being declined repeatedly. Can you help me resolve this issue or suggest an alternative solution?
+GEN | [failed_transfer] | Orig: I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand. -> Aug: I'm having trouble sending a payment to a recipient and it keeps getting declined. Can you help me figure out what's going on?
+GEN | [lost_or_stolen_card] | Orig: I need to order a new card as my other one was stolen. -> Aug: I'd like to report my card as stolen and request a replacement.
+GEN | [receiving_money] | Orig: Do I need to add my salary? -> Aug: Can I include my income in the application?
+GEN | [verify_source_of_funds] | Orig: My source of funds require verification. -> Aug: We need to confirm the origin of your funds.
+GEN | [age_limit] | Orig: Do you have a limit for someone's age? -> Aug: Is there an age restriction for opening an account?
+GEN | [lost_or_stolen_card] | Orig: My card has been stolen. I reported it with the police, but I need to report it with you as well. -> Aug: My credit card has been stolen and I've already filed a report with the authorities. I'd like to report it to your bank as well, please.
+GEN | [failed_transfer] | Orig: I am trying to transfer money and something is going wrong. -> Aug: I'm having trouble completing a transfer and need assistance resolving the issue.
+GEN | [exchange_charge] | Orig: Is there any cost to change foreign money to local? -> Aug: Are there any fees associated with exchanging foreign currency for local currency?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Where is my cash deposit in my balance? -> Aug: Why hasn't my balance been updated to reflect the cash deposit I made recently?
+GEN | [activate_my_card] | Orig: Tell me how to renew my new card? -> Aug: Can you guide me on how to activate my new credit card?
+GEN | [extra_charge_on_statement] | Orig: Why is it showing that my account has been charged a dollar that is showing as pending? -> Aug: We noticed that a pending charge of $1 has been applied to your account. Can you please confirm if you are aware of this extra charge on your statement?
+GEN | [country_support] | Orig: Although I am not located in the UK area, may i still receive a card? -> Aug: Can I still receive a card even though I'm not based in the UK?
+GEN | [top_up_limits] | Orig: How many times can I make a top-up? -> Aug: What is the limit on the number of top-ups I can make?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I am still awaiting the money I put into my account this morning. -> Aug: I haven't seen the deposit from this morning's cash deposit reflected in my account balance yet.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will I receive all the money sent to my account by SEPA transfer? -> Aug: Will I be charged a fee for topping up my account using a bank transfer, and will the full amount be credited to my account?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Why did I only receive this much currency? -> Aug: I was expecting a different amount of currency for my cash withdrawal, as the exchange rate was not what I was told.
+GEN | [top_up_reverted] | Orig: I put some money in my account the other day but now its gone? Why is this? -> Aug: I made a recent deposit, but it seems to have been reversed. Can you help me understand why this happened?
+GEN | [wrong_amount_of_cash_received] | Orig: Did a WD earlier at an ATM.  The amount showing in the App is more than I got though. -> Aug: I made a withdrawal at an ATM, but the amount reflected in the app is different from what I actually received.
+GEN | [extra_charge_on_statement] | Orig: My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about. -> Aug: My statement has a pending charge for £1 that I don't recognize. Can you please explain what this transaction is for?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: My friend deposited $100 into my account, but it is not showing up! -> Aug: My account balance hasn't been updated after my friend deposited $100 in cash, and I'm unable to see the new amount.
+GEN | [order_physical_card] | Orig: Card delivery services? Where? -> Aug: Can you please provide me with information on your physical card delivery options and estimated delivery times?
+GEN | [getting_spare_card] | Orig: How many different cards can I have for my account? -> Aug: I'd like to know if I can have multiple cards linked to my account.
+VAL | [transaction_charged_twice] | YES | Text: I've noticed duplicate charges for the same transaction
+VAL | [receiving_money] | NO | Text: I'm expecting a payment in GBP, what are the next steps?
+VAL | [getting_spare_card] | YES | Text: I'd like to request a replacement card for my daughter, as she needs a new one.
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Are there any fees associated with topping up my account via bank transfer?
+VAL | [card_about_to_expire] | NO | Text: How much does it cost to replace my card, and how long does it take to receive a new one?
+VAL | [extra_charge_on_statement] | NO | Text: When will the extra charge appear on my statement?
+VAL | [pending_cash_withdrawal] | YES | Text: I'm still waiting for the cash withdrawal to be processed, but my account balance still shows it as pending. Can you help me understand why it's taking so long?
+VAL | [getting_spare_card] | YES | Text: I misplaced my card and require a replacement, what's the fee for a new one?
+VAL | [verify_my_identity] | NO | Text: Can I use my social security card as a valid form of identification for verification purposes?
+VAL | [fiat_currency_support] | YES | Text: Can I obtain currency from various countries?
+VAL | [card_payment_fee_charged] | NO | Text: Can I make a payment without incurring any charges or fees on my card?
+VAL | [top_up_failed] | YES | Text: I'm trying to urgently top-up my card, but it's being declined repeatedly. Can you help me resolve this issue or suggest an alternative solution?
+VAL | [failed_transfer] | YES | Text: I'm having trouble sending a payment to a recipient and it keeps getting declined. Can you help me figure out what's going on?
+VAL | [lost_or_stolen_card] | YES | Text: I'd like to report my card as stolen and request a replacement.
+VAL | [receiving_money] | NO | Text: Can I include my income in the application?
+VAL | [verify_source_of_funds] | YES | Text: We need to confirm the origin of your funds.
+VAL | [age_limit] | YES | Text: Is there an age restriction for opening an account?
+VAL | [lost_or_stolen_card] | YES | Text: My credit card has been stolen and I've already filed a report with the authorities. I'd like to report it to your bank as well, please.
+VAL | [failed_transfer] | YES | Text: I'm having trouble completing a transfer and need assistance resolving the issue.
+VAL | [exchange_charge] | YES | Text: Are there any fees associated with exchanging foreign currency for local currency?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: Why hasn't my balance been updated to reflect the cash deposit I made recently?
+VAL | [activate_my_card] | NO | Text: Can you guide me on how to activate my new credit card?
+VAL | [extra_charge_on_statement] | NO | Text: We noticed that a pending charge of $1 has been applied to your account. Can you please confirm if you are aware of this extra charge on your statement?
+VAL | [country_support] | NO | Text: Can I still receive a card even though I'm not based in the UK?
+VAL | [top_up_limits] | YES | Text: What is the limit on the number of top-ups I can make?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I haven't seen the deposit from this morning's cash deposit reflected in my account balance yet.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Will I be charged a fee for topping up my account using a bank transfer, and will the full amount be credited to my account?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I was expecting a different amount of currency for my cash withdrawal, as the exchange rate was not what I was told.
+VAL | [top_up_reverted] | YES | Text: I made a recent deposit, but it seems to have been reversed. Can you help me understand why this happened?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I made a withdrawal at an ATM, but the amount reflected in the app is different from what I actually received.
+VAL | [extra_charge_on_statement] | YES | Text: My statement has a pending charge for £1 that I don't recognize. Can you please explain what this transaction is for?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: My account balance hasn't been updated after my friend deposited $100 in cash, and I'm unable to see the new amount.
+VAL | [order_physical_card] | NO | Text: Can you please provide me with information on your physical card delivery options and estimated delivery times?
+VAL | [getting_spare_card] | NO | Text: I'd like to know if I can have multiple cards linked to my account.

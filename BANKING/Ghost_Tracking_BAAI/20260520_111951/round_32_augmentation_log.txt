@@ -1,0 +1,64 @@
+GEN | [reverted_card_payment?] | Orig: I received a message from a seller stating they hadn't received my money even though it definitely came out of my account. The money has now been deposited back into my account. Please get this resolved as soon as possible. -> Aug: I'm concerned about a payment I made to a seller, as I received a notification saying they didn't receive the funds, but the amount has since been reversed back to my account. Can you help me resolve this issue promptly?
+GEN | [order_physical_card] | Orig: Is a physical charge extra -> Aug: Are there any additional fees for ordering a physical credit card?
+GEN | [supported_cards_and_currencies] | Orig: What cards do you support -> Aug: We accept a wide range of cards, including Visa, Mastercard, American Express, Discover, and Diners Club, as well as various digital wallets like Apple Pay and Google Pay.
+GEN | [disposable_card_limits] | Orig: Where can I find a list of descriptions the disposable cards have? -> Aug: What are the limits and descriptions for the disposable cards I can use with my account?
+GEN | [request_refund] | Orig: My order hasn't shown up yet, what can I do? -> Aug: I placed an order a week ago, but it still hasn't arrived. Can I get a refund or a replacement, please?
+GEN | [reverted_card_payment?] | Orig: I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here? -> Aug: I'm trying to understand why the payment I made didn't show up in the seller's account, even though I'm certain it was deducted from my account. Can you help me resolve this issue?
+GEN | [visa_or_mastercard] | Orig: I prefer using Mastercard, can I substitute? -> Aug: I'd like to use a different payment method, is Mastercard an option to replace my original choice?
+GEN | [transfer_into_account] | Orig: I was wondering about transferring money into my account and how it works.  Can you tell me about that? -> Aug: I'd like to know more about the process of transferring funds into my account. Can you provide me with information on how it works?
+GEN | [reverted_card_payment?] | Orig: What should I do if my card payment was cancelled? -> Aug: What happens if my card payment was reversed or cancelled?
+GEN | [card_payment_fee_charged] | Orig: i have used my card online before and wasn't charged, why am i charged now -> Aug: I've made online transactions with my card previously without being charged a fee, so I'm confused as to why I'm being charged a fee this time.
+GEN | [card_arrival] | Orig: I haven't gotten my credit card in the mail. -> Aug: I'm still waiting for my credit card to arrive in the mail.
+GEN | [card_not_working] | Orig: Need help to get my card to work. -> Aug: Having trouble getting my card to function properly.
+GEN | [request_refund] | Orig: I'm cancelling this charge. I still have not received what I bought from these people a while ago. -> Aug: I'm requesting a refund for the recent charge as I never received the item I paid for, which was supposed to be delivered a while back.
+GEN | [card_not_working] | Orig: I am having problems with my physical card. -> Aug: I'm experiencing issues with my physical credit card.
+GEN | [pending_card_payment] | Orig: There is a payment that has not processed. -> Aug: A payment made using my card has not been successfully processed.
+GEN | [transfer_timing] | Orig: How quickly can I transfer something to China? -> Aug: What is the estimated timeframe for transferring funds to China?
+GEN | [disposable_card_limits] | Orig: What limits are there on the virtual cards? -> Aug: What are the spending limits for my disposable virtual card?
+GEN | [transfer_into_account] | Orig: I am out of money in my account and I was wondering if I could do a bank transfer is put more in it? -> Aug: I'm running low on funds in my account and I'd like to know if I can initiate a transfer to add more money to it.
+GEN | [getting_virtual_card] | Orig: how many virtual cards can i have, i want 8 -> Aug: Can I have multiple virtual cards? I'd like to request 8 virtual cards, please.
+GEN | [supported_cards_and_currencies] | Orig: can i use my mastercard to add money to my account -> Aug: We accept Mastercard as a supported payment method for adding funds to your account.
+GEN | [transfer_into_account] | Orig: I'd like to know how transferring my money into my account works. -> Aug: I'd like to understand the process of moving funds into my account.
+GEN | [cash_withdrawal_charge] | Orig: I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction? -> Aug: I noticed a charge on my receipt for a cash withdrawal I made at a store. Is it normal to be charged a fee for this type of transaction?
+GEN | [passcode_forgotten] | Orig: Can you lookup my password? -> Aug: I forgot my passcode and need help retrieving it.
+GEN | [card_not_working] | Orig: The card that I have isn't working. This is the physical card. -> Aug: The physical card I'm holding isn't functioning properly.
+GEN | [card_not_working] | Orig: Why won't my card accept any transactions? -> Aug: Why is my card not processing any payments?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it. -> Aug: I'm frustrated because I was surprised to be charged an unexpected fee when I withdrew cash from an ATM on a public holiday, without being informed in advance.
+GEN | [get_disposable_virtual_card] | Orig: Will you tell me how I am supposed to use the disposable cards? -> Aug: Can you explain the process for using the virtual disposable card I was issued?
+GEN | [getting_virtual_card] | Orig: I need to order a new card, can you please direct me to the virtual cards? -> Aug: I'd like to request a new virtual card, could you guide me through the process of ordering one?
+GEN | [top_up_reverted] | Orig: I thought crypto top up with something you offer. This is not working. The money has been deducted from my account. Can you find out what's going on? -> Aug: I attempted to make a crypto top-up using your service, but it didn't go through. The transaction was reversed, and the amount was taken from my account. Can you investigate this issue and let me know what's happening?
+GEN | [direct_debit_payment_not_recognised] | Orig: I have an unknown charge. -> Aug: I'm showing an unfamiliar debit on my account.
+GEN | [direct_debit_payment_not_recognised] | Orig: I haven't used my card all day but there is a payment showing in the app. Please cancel it! -> Aug: I'm trying to check my account and I see a direct debit payment that I didn't authorise. Can you please investigate and cancel it for me?
+GEN | [transfer_into_account] | Orig: Whats the process of tranfering money into an account? -> Aug: How do I initiate a transfer of funds into an existing account?
+VAL | [reverted_card_payment?] | YES | Text: I'm concerned about a payment I made to a seller, as I received a notification saying they didn't receive the funds, but the amount has since been reversed back to my account. Can you help me resolve this issue promptly?
+VAL | [order_physical_card] | NO | Text: Are there any additional fees for ordering a physical credit card?
+VAL | [supported_cards_and_currencies] | NO | Text: We accept a wide range of cards, including Visa, Mastercard, American Express, Discover, and Diners Club, as well as various digital wallets like Apple Pay and Google Pay.
+VAL | [disposable_card_limits] | NO | Text: What are the limits and descriptions for the disposable cards I can use with my account?
+VAL | [request_refund] | NO | Text: I placed an order a week ago, but it still hasn't arrived. Can I get a refund or a replacement, please?
+VAL | [reverted_card_payment?] | YES | Text: I'm trying to understand why the payment I made didn't show up in the seller's account, even though I'm certain it was deducted from my account. Can you help me resolve this issue?
+VAL | [visa_or_mastercard] | NO | Text: I'd like to use a different payment method, is Mastercard an option to replace my original choice?
+VAL | [transfer_into_account] | YES | Text: I'd like to know more about the process of transferring funds into my account. Can you provide me with information on how it works?
+VAL | [reverted_card_payment?] | YES | Text: What happens if my card payment was reversed or cancelled?
+VAL | [card_payment_fee_charged] | NO | Text: I've made online transactions with my card previously without being charged a fee, so I'm confused as to why I'm being charged a fee this time.
+VAL | [card_arrival] | YES | Text: I'm still waiting for my credit card to arrive in the mail.
+VAL | [card_not_working] | YES | Text: Having trouble getting my card to function properly.
+VAL | [request_refund] | YES | Text: I'm requesting a refund for the recent charge as I never received the item I paid for, which was supposed to be delivered a while back.
+VAL | [card_not_working] | YES | Text: I'm experiencing issues with my physical credit card.
+VAL | [pending_card_payment] | YES | Text: A payment made using my card has not been successfully processed.
+VAL | [transfer_timing] | YES | Text: What is the estimated timeframe for transferring funds to China?
+VAL | [disposable_card_limits] | YES | Text: What are the spending limits for my disposable virtual card?
+VAL | [transfer_into_account] | YES | Text: I'm running low on funds in my account and I'd like to know if I can initiate a transfer to add more money to it.
+VAL | [getting_virtual_card] | NO | Text: Can I have multiple virtual cards? I'd like to request 8 virtual cards, please.
+VAL | [supported_cards_and_currencies] | YES | Text: We accept Mastercard as a supported payment method for adding funds to your account.
+VAL | [transfer_into_account] | YES | Text: I'd like to understand the process of moving funds into my account.
+VAL | [cash_withdrawal_charge] | YES | Text: I noticed a charge on my receipt for a cash withdrawal I made at a store. Is it normal to be charged a fee for this type of transaction?
+VAL | [passcode_forgotten] | NO | Text: I forgot my passcode and need help retrieving it.
+VAL | [card_not_working] | YES | Text: The physical card I'm holding isn't functioning properly.
+VAL | [card_not_working] | YES | Text: Why is my card not processing any payments?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | NO | Text: I'm frustrated because I was surprised to be charged an unexpected fee when I withdrew cash from an ATM on a public holiday, without being informed in advance.
+VAL | [get_disposable_virtual_card] | NO | Text: Can you explain the process for using the virtual disposable card I was issued?
+VAL | [getting_virtual_card] | YES | Text: I'd like to request a new virtual card, could you guide me through the process of ordering one?
+VAL | [top_up_reverted] | YES | Text: I attempted to make a crypto top-up using your service, but it didn't go through. The transaction was reversed, and the amount was taken from my account. Can you investigate this issue and let me know what's happening?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm showing an unfamiliar debit on my account.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm trying to check my account and I see a direct debit payment that I didn't authorise. Can you please investigate and cancel it for me?
+VAL | [transfer_into_account] | YES | Text: How do I initiate a transfer of funds into an existing account?

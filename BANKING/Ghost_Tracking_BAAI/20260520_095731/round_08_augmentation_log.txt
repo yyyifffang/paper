@@ -1,0 +1,64 @@
+GEN | [contactless_not_working] | Orig: What is the reason when I tried to pay contactless at the bus, it didnt work? -> Aug: I'm having trouble using contactless payment at the bus stop, and it's not accepting my payment. Can you please help me understand why this is happening?
+GEN | [terminate_account] | Orig: if im not using my account should i close it or just let it sit -> Aug: If I'm not actively using my account, should I cancel it or simply leave it inactive?
+GEN | [contactless_not_working] | Orig: The contactless payments are not working. -> Aug: The contactless payment method is currently unavailable.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Why did you give me so little currency? -> Aug: I was expecting a better exchange rate for my cash withdrawal, but I only received a small amount of currency.
+GEN | [terminate_account] | Orig: What are the steps to finishing up with this account? -> Aug: How do I go about closing this account and ending my banking relationship?
+GEN | [reverted_card_payment?] | Orig: Why has my money been returned back to my card. -> Aug: Why was my payment reversed and credited back to my card?
+GEN | [card_payment_not_recognised] | Orig: I didn't make a payment at this business. -> Aug: I attempted to make a payment at this merchant, but it was not successfully processed.
+GEN | [terminate_account] | Orig: i'm not satisfied with the services and no longer want to be a customer -> Aug: I'm unhappy with the services and would like to cancel my account.
+GEN | [compromised_card] | Orig: card is being used by someone else -> Aug: Someone else is using my card without my permission.
+GEN | [card_payment_not_recognised] | Orig: I didn't do a payment and I have it now. -> Aug: I've made a payment, but it's not showing up in my account.
+GEN | [pending_top_up] | Orig: new customer and filling gas for the first time today, not working, -> Aug: I'm a new customer and I'm trying to top up my account for the first time today, but it's not working.
+GEN | [edit_personal_details] | Orig: should i contact customer support if i can't edit details -> Aug: should I reach out to customer support if I'm having trouble updating my personal information?
+GEN | [wrong_amount_of_cash_received] | Orig: I couldn't get the money I needed. -> Aug: I was shortchanged on the cash I received.
+GEN | [request_refund] | Orig: It's been some time ago that I placed an order and it just isn't coming. At this point just give me back my money because I'm not paying them. -> Aug: I've been waiting for a while now and my order still hasn't arrived. Can I get a refund for the amount I paid, as I'm no longer interested in pursuing the purchase.
+GEN | [cash_withdrawal_not_recognised] | Orig: My wallet was just stolen, and they've already used my card! Please help, I can't afford to lose more money! -> Aug: My purse was snatched, and the thief has already made a withdrawal using my card. I'm in a tight spot and need your assistance to prevent further unauthorized transactions.
+GEN | [card_not_working] | Orig: I wasn't able to use my card today when I went out for lunch. Wondering why that is? -> Aug: I tried to make a purchase with my card this morning, but it didn't work. Can you help me figure out what's going on?
+GEN | [top_up_reverted] | Orig: It's only been a few weeks my my top-up got cancelled -> Aug: My recent top-up was reversed, and I'm wondering why it was cancelled so soon after processing.
+GEN | [automatic_top_up] | Orig: How do I get refills to my card when I'm traveling? -> Aug: Can I set up automatic top-ups for my card when I'm abroad, so I can receive refills easily while traveling?
+GEN | [reverted_card_payment?] | Orig: Hi, I am facing issue with my card payment while shopping online as payment is getting reverted. I am struggling with this issue around two weeks. Please advise. -> Aug: I'm having trouble with an online purchase, as the payment is being reversed. This has been happening for about two weeks now, and I'd appreciate any guidance on how to resolve this issue.
+GEN | [top_up_failed] | Orig: I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on? -> Aug: I recently received my new card, but I'm having trouble topping up my account. I'm getting frustrated and considering canceling my account due to this issue. Can you help me resolve this problem?
+GEN | [card_payment_not_recognised] | Orig: Could you please put a freeze on my card?  There are some payments on it that I don't know where they came from. -> Aug: I'm concerned about some unauthorized transactions on my card. Can you temporarily suspend my account to prevent any further activity?
+GEN | [terminate_account] | Orig: Your company is lame. Shut down all my account services right now. -> Aug: I'm extremely dissatisfied with your services. Please cancel my account immediately.
+GEN | [passcode_forgotten] | Orig: I don't know the code for the app. -> Aug: I've forgotten my app passcode.
+GEN | [card_linking] | Orig: I have one of your cards, but I don't know how to link it. -> Aug: I'm trying to connect my card to your system, but I'm having trouble figuring out how to link it.
+GEN | [disposable_card_limits] | Orig: On my disposable card, is there a transaction limit? -> Aug: Can you please tell me the daily spending limit on my disposable card?
+GEN | [get_disposable_virtual_card] | Orig: I have heard about these disposable virtual cards but don't understand how they work. -> Aug: I'm interested in learning more about the process of obtaining a disposable virtual card. Can you explain how it works and how I can get one?
+GEN | [pending_card_payment] | Orig: What's the pending length for credit transactions? I've had one in my pending category now for days and it won't move to processed. -> Aug: Can you please provide an update on the status of my pending credit card payment? I've had a transaction stuck in the pending category for an extended period, and I'm concerned it's not being processed as expected.
+GEN | [card_arrival] | Orig: Was there a number to track that I could get? -> Aug: Can I get a tracking number to monitor the status of my card delivery?
+GEN | [wrong_amount_of_cash_received] | Orig: I did not get enough cash -> Aug: I received less cash than I was supposed to get
+GEN | [wrong_amount_of_cash_received] | Orig: It kept my cash -> Aug: You gave me less cash than I deposited
+GEN | [passcode_forgotten] | Orig: I can't find my code -> Aug: I've misplaced my passcode and need help retrieving it
+GEN | [card_linking] | Orig: I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat. -> Aug: I'd like to reactivate my card, I initially thought it was misplaced, but I just found it in my coat when I woke up.
+VAL | [contactless_not_working] | YES | Text: I'm having trouble using contactless payment at the bus stop, and it's not accepting my payment. Can you please help me understand why this is happening?
+VAL | [terminate_account] | YES | Text: If I'm not actively using my account, should I cancel it or simply leave it inactive?
+VAL | [contactless_not_working] | YES | Text: The contactless payment method is currently unavailable.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I was expecting a better exchange rate for my cash withdrawal, but I only received a small amount of currency.
+VAL | [terminate_account] | YES | Text: How do I go about closing this account and ending my banking relationship?
+VAL | [reverted_card_payment?] | YES | Text: Why was my payment reversed and credited back to my card?
+VAL | [card_payment_not_recognised] | YES | Text: I attempted to make a payment at this merchant, but it was not successfully processed.
+VAL | [terminate_account] | YES | Text: I'm unhappy with the services and would like to cancel my account.
+VAL | [compromised_card] | YES | Text: Someone else is using my card without my permission.
+VAL | [card_payment_not_recognised] | YES | Text: I've made a payment, but it's not showing up in my account.
+VAL | [pending_top_up] | YES | Text: I'm a new customer and I'm trying to top up my account for the first time today, but it's not working.
+VAL | [edit_personal_details] | YES | Text: should I reach out to customer support if I'm having trouble updating my personal information?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was shortchanged on the cash I received.
+VAL | [request_refund] | YES | Text: I've been waiting for a while now and my order still hasn't arrived. Can I get a refund for the amount I paid, as I'm no longer interested in pursuing the purchase.
+VAL | [cash_withdrawal_not_recognised] | NO | Text: My purse was snatched, and the thief has already made a withdrawal using my card. I'm in a tight spot and need your assistance to prevent further unauthorized transactions.
+VAL | [card_not_working] | YES | Text: I tried to make a purchase with my card this morning, but it didn't work. Can you help me figure out what's going on?
+VAL | [top_up_reverted] | YES | Text: My recent top-up was reversed, and I'm wondering why it was cancelled so soon after processing.
+VAL | [automatic_top_up] | NO | Text: Can I set up automatic top-ups for my card when I'm abroad, so I can receive refills easily while traveling?
+VAL | [reverted_card_payment?] | NO | Text: I'm having trouble with an online purchase, as the payment is being reversed. This has been happening for about two weeks now, and I'd appreciate any guidance on how to resolve this issue.
+VAL | [top_up_failed] | NO | Text: I recently received my new card, but I'm having trouble topping up my account. I'm getting frustrated and considering canceling my account due to this issue. Can you help me resolve this problem?
+VAL | [card_payment_not_recognised] | NO | Text: I'm concerned about some unauthorized transactions on my card. Can you temporarily suspend my account to prevent any further activity?
+VAL | [terminate_account] | YES | Text: I'm extremely dissatisfied with your services. Please cancel my account immediately.
+VAL | [passcode_forgotten] | YES | Text: I've forgotten my app passcode.
+VAL | [card_linking] | YES | Text: I'm trying to connect my card to your system, but I'm having trouble figuring out how to link it.
+VAL | [disposable_card_limits] | YES | Text: Can you please tell me the daily spending limit on my disposable card?
+VAL | [get_disposable_virtual_card] | YES | Text: I'm interested in learning more about the process of obtaining a disposable virtual card. Can you explain how it works and how I can get one?
+VAL | [pending_card_payment] | YES | Text: Can you please provide an update on the status of my pending credit card payment? I've had a transaction stuck in the pending category for an extended period, and I'm concerned it's not being processed as expected.
+VAL | [card_arrival] | NO | Text: Can I get a tracking number to monitor the status of my card delivery?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I received less cash than I was supposed to get
+VAL | [wrong_amount_of_cash_received] | NO | Text: You gave me less cash than I deposited
+VAL | [passcode_forgotten] | YES | Text: I've misplaced my passcode and need help retrieving it
+VAL | [card_linking] | YES | Text: I'd like to reactivate my card, I initially thought it was misplaced, but I just found it in my coat when I woke up.

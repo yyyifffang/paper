@@ -1,0 +1,62 @@
+GEN | [card_about_to_expire] | Orig: Where can I have a new bank card sent to China? -> Aug: I'm concerned about my credit card's expiration date, which is approaching soon. Can I request a replacement card to be sent to my address in China?
+GEN | [virtual_card_not_working] | Orig: Can I use my virtual card for recurring monthly payments? -> Aug: I'm trying to set up a recurring payment using my virtual card, but it's not working. Can you help me troubleshoot the issue?
+GEN | [top_up_reverted] | Orig: Tell me how a top up would be reverted. -> Aug: If a top-up transaction is cancelled or reversed, how would the amount be restored to my account?
+GEN | [visa_or_mastercard] | Orig: I do not want a VISA card. -> Aug: I prefer not to use a Mastercard.
+GEN | [getting_virtual_card] | Orig: I need to make a purchase online, where is my virtual card? -> Aug: I'm trying to buy something online and I need to know where I can find my virtual card.
+GEN | [card_about_to_expire] | Orig: Are there restrictions on new cards in China? -> Aug: I'm concerned about my credit card's expiration date. Will I be able to get a new one if it's about to expire while I'm in China?
+GEN | [card_delivery_estimate] | Orig: My card is needed soon -> Aug: When can I expect my card to arrive?
+GEN | [visa_or_mastercard] | Orig: Why did I get a different card then requested? -> Aug: I was expecting a specific type of card, but I received a different one. Can you help me understand why?
+GEN | [exchange_charge] | Orig: Do I have to pay more for exchanges? -> Aug: Can I expect an additional fee for exchanging my item?
+GEN | [topping_up_by_card] | Orig: My card needs to be topped up. -> Aug: I'd like to add some funds to my card.
+GEN | [fiat_currency_support] | Orig: What currencies can I not hold many in, if so what are they? -> Aug: What are the limitations on the number of fiat currencies I can hold in my account, and which ones are restricted?
+GEN | [edit_personal_details] | Orig: Need to report a change of address. -> Aug: Update my personal information to reflect a new address.
+GEN | [getting_virtual_card] | Orig: Which part of the app do I order virtual cards from? -> Aug: Where can I find the option to order virtual cards within the app?
+GEN | [visa_or_mastercard] | Orig: Does it matter which card I use -> Aug: Is it important which credit card I use, specifically Visa or Mastercard?
+GEN | [card_payment_fee_charged] | Orig: Is there an allowance on cards? -> Aug: Are there any exceptions or waivers for card payment fees?
+GEN | [card_swallowed] | Orig: An ATM swallowed my credit card! -> Aug: The ATM seems to have eaten my credit card.
+GEN | [card_swallowed] | Orig: My card was eaten by the cash machine what do I do? -> Aug: My card seems to have been swallowed by the ATM, what should I do now?
+GEN | [top_up_reverted] | Orig: The app reversed a top off I had.  What should I do? -> Aug: The top-up I made was reversed in the app. What can I do to rectify the situation?
+GEN | [disposable_card_limits] | Orig: How many payments can I make using a virtual card? -> Aug: What is the maximum number of transactions allowed on a disposable card?
+GEN | [order_physical_card] | Orig: I want a real card -> Aug: I'd like to order a physical credit card
+GEN | [cash_withdrawal_not_recognised] | Orig: Some cash shows up on my app. -> Aug: I'm seeing an unexpected cash withdrawal on my account.
+GEN | [order_physical_card] | Orig: do i need to add money before i order a card -> Aug: Can I fund my account before placing an order for a physical card?
+GEN | [card_arrival] | Orig: I don't have my card after 1 week. What are my next steps? -> Aug: I haven't received my card yet, and it's been a week. What should I do next?
+GEN | [fiat_currency_support] | Orig: Is my fiat currency supported for both hold and exchange? -> Aug: Can I use my fiat currency for both holding and exchanging funds?
+GEN | [transfer_not_received_by_recipient] | Orig: I do not know where the transaction is. -> Aug: I'm not sure where the transfer went, as the recipient hasn't received it.
+GEN | [transfer_not_received_by_recipient] | Orig: I dont see my reciept -> Aug: I haven't received my transfer receipt.
+GEN | [verify_top_up] | Orig: How do i secure a top-up card? -> Aug: How can I confirm the details of my top-up card?
+GEN | [get_disposable_virtual_card] | Orig: I'm not sure how disposable virtual cards work. Please help. -> Aug: Can you explain how to obtain a disposable virtual card? I'm a bit unclear on the process.
+GEN | [top_up_reverted] | Orig: Reasons for top up cancellation. -> Aug: Why was my top-up reversed?
+GEN | [getting_spare_card] | Orig: My daughter would like a card from my account?  Can I do this? -> Aug: I'd like to request a replacement card for my account, is that possible?
+GEN | [top_up_reverted] | Orig: Hello there, I tried using crypto top up today but it's not working for me, might it be due to the kind of bank I'm using or the country that I'm from?Money is also missing from my account -> Aug: Hi, I attempted to make a crypto top-up earlier today, but it didn't go through. Could it be related to the type of bank I'm using or my location? Additionally, I'm concerned that some funds have been deducted from my account without my consent.
+VAL | [card_about_to_expire] | NO | Text: I'm concerned about my credit card's expiration date, which is approaching soon. Can I request a replacement card to be sent to my address in China?
+VAL | [virtual_card_not_working] | YES | Text: I'm trying to set up a recurring payment using my virtual card, but it's not working. Can you help me troubleshoot the issue?
+VAL | [top_up_reverted] | NO | Text: If a top-up transaction is cancelled or reversed, how would the amount be restored to my account?
+VAL | [visa_or_mastercard] | NO | Text: I prefer not to use a Mastercard.
+VAL | [getting_virtual_card] | YES | Text: I'm trying to buy something online and I need to know where I can find my virtual card.
+VAL | [card_about_to_expire] | NO | Text: I'm concerned about my credit card's expiration date. Will I be able to get a new one if it's about to expire while I'm in China?
+VAL | [card_delivery_estimate] | YES | Text: When can I expect my card to arrive?
+VAL | [visa_or_mastercard] | NO | Text: I was expecting a specific type of card, but I received a different one. Can you help me understand why?
+VAL | [exchange_charge] | YES | Text: Can I expect an additional fee for exchanging my item?
+VAL | [topping_up_by_card] | YES | Text: I'd like to add some funds to my card.
+VAL | [fiat_currency_support] | NO | Text: What are the limitations on the number of fiat currencies I can hold in my account, and which ones are restricted?
+VAL | [edit_personal_details] | YES | Text: Update my personal information to reflect a new address.
+VAL | [getting_virtual_card] | YES | Text: Where can I find the option to order virtual cards within the app?
+VAL | [visa_or_mastercard] | YES | Text: Is it important which credit card I use, specifically Visa or Mastercard?
+VAL | [card_payment_fee_charged] | NO | Text: Are there any exceptions or waivers for card payment fees?
+VAL | [card_swallowed] | YES | Text: The ATM seems to have eaten my credit card.
+VAL | [card_swallowed] | YES | Text: My card seems to have been swallowed by the ATM, what should I do now?
+VAL | [top_up_reverted] | YES | Text: The top-up I made was reversed in the app. What can I do to rectify the situation?
+VAL | [disposable_card_limits] | YES | Text: What is the maximum number of transactions allowed on a disposable card?
+VAL | [order_physical_card] | YES | Text: I'd like to order a physical credit card
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm seeing an unexpected cash withdrawal on my account.
+VAL | [order_physical_card] | NO | Text: Can I fund my account before placing an order for a physical card?
+VAL | [card_arrival] | YES | Text: I haven't received my card yet, and it's been a week. What should I do next?
+VAL | [fiat_currency_support] | YES | Text: Can I use my fiat currency for both holding and exchanging funds?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I'm not sure where the transfer went, as the recipient hasn't received it.
+VAL | [transfer_not_received_by_recipient] | YES | Text: I haven't received my transfer receipt.
+VAL | [verify_top_up] | NO | Text: How can I confirm the details of my top-up card?
+VAL | [get_disposable_virtual_card] | NO | Text: Can you explain how to obtain a disposable virtual card? I'm a bit unclear on the process.
+VAL | [top_up_reverted] | YES | Text: Why was my top-up reversed?
+VAL | [getting_spare_card] | NO | Text: I'd like to request a replacement card for my account, is that possible?
+VAL | [top_up_reverted] | YES | Text: Hi, I attempted to make a crypto top-up earlier today, but it didn't go through. Could it be related to the type of bank I'm using or my location? Additionally, I'm concerned that some funds have been deducted from my account without my consent.

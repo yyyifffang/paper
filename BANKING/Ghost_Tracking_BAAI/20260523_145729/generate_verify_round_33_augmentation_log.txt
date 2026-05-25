@@ -1,0 +1,76 @@
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Where is the transfer that I did? -> Aug: I'm still waiting to see the transfer I initiated.
+GEN | [activate_my_card] | Orig: How can I switch on my new card? -> Aug: How do I turn on my new credit card?
+GEN | [lost_or_stolen_phone] | Orig: I just replaced my phone but how do I use my card information? -> Aug: I recently misplaced my phone and I'm having trouble accessing my account to update my card information.
+GEN | [declined_card_payment] | Orig: Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem? -> Aug: Why is my payment being declined? Is there an issue with my account or card information that's causing the payment to be rejected? Can you help me resolve this issue and get my payment processed successfully?
+GEN | [pending_card_payment] | Orig: There is a pending transaction on my account, what does this mean? -> Aug: We have a pending card payment on your account, what does this mean?
+GEN | [card_not_working] | Orig: Why won't my card accept any transactions? -> Aug: Why is my card unable to process any payments?
+GEN | [transaction_charged_twice] | Orig: I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back. -> Aug: I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're looking to establish a savings plan for my child's future education expenses.
+GEN | [lost_or_stolen_phone] | Orig: I misplaced my phone so I can't use the app! Does this mean I can't use my card? -> Aug: I accidentally left my phone at home and now I'm unable to access the app. Can I still use my card?
+GEN | [reverted_card_payment?] | Orig: I tried to use my debit card, but the payment did not work. -> Aug: Why was my debit card payment declined?
+GEN | [country_support] | Orig: I just moved to the US how do I get a card? -> Aug: I recently relocated to the United States and would like to apply for a credit card. Can you guide me through the process?
+GEN | [card_swallowed] | Orig: What are the steps I should take to recover my swallowed card? -> Aug: What should I do if I've accidentally swallowed my credit card?
+GEN | [extra_charge_on_statement] | Orig: How long will the $1 charge show as pending? -> Aug: How long will the additional charge appear as pending on my statement?
+GEN | [card_payment_not_recognised] | Orig: my statement contains an unknown payment -> Aug: my recent statement shows an unrecognised payment
+GEN | [declined_card_payment] | Orig: I have enough money in my account, so why is my card being declined? -> Aug: I'm confused, I have sufficient funds in my account, yet my card payment is being declined. Can you help me understand why this is happening?
+GEN | [reverted_card_payment?] | Orig: Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening? -> Aug: Can you help me understand why the payment for my recent purchase was reversed and credited back to my account?
+GEN | [card_acceptance] | Orig: Are there businesses that don't accept this card? -> Aug: Can you tell me if there are any merchants that don't accept this particular card?
+GEN | [failed_transfer] | Orig: Can you tell my why my funds transfer did not work properly? -> Aug: Could you please explain why my recent transfer was unsuccessful?
+GEN | [visa_or_mastercard] | Orig: I need a Visa card -> Aug: I require a Mastercard
+GEN | [pending_cash_withdrawal] | Orig: Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash. -> Aug: I'd like to cancel the pending cash withdrawal transaction that was attempted on my card earlier today, as it was declined and I did not receive the cash.
+GEN | [request_refund] | Orig: I just bought an item and would like to stop payment can you tell me if the item has been sent yet? -> Aug: I recently purchased an item and would like to initiate a refund, could you please let me know if the item has been dispatched yet?
+GEN | [top_up_failed] | Orig: I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any. -> Aug: I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative options if available?
+GEN | [activate_my_card] | Orig: How long does it take to activate the card, as it does not look like its working? -> Aug: Can you please let me know how long it usually takes to activate a card, as I'm having trouble getting it to work?
+GEN | [transfer_not_received_by_recipient] | Orig: What happens when I money transaction doesn't show up on the receiving side? -> Aug: Why hasn't the money transfer been credited to the recipient's account?
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I only top-up digitally? Or could I use cash? -> Aug: Can I make a top-up using cash or cheque instead of digital payment?
+GEN | [transfer_fee_charged] | Orig: There is a fee from a transfer that is not supposed to be here! -> Aug: A charge was unexpectedly added to a transfer that shouldn't have had one.
+GEN | [card_payment_not_recognised] | Orig: Why is there a random payment in my statement? -> Aug: We've noticed an unusual payment on your account, and we're unable to verify the transaction.
+GEN | [failed_transfer] | Orig: please help my transfer go through -> Aug: can you assist me in completing my transfer?
+GEN | [transfer_not_received_by_recipient] | Orig: I've been waiting since Friday, where is my money? -> Aug: I've been waiting for a few days, but the transfer hasn't arrived at the recipient's end.
+GEN | [cash_withdrawal_charge] | Orig: I hate this ATM, it charged me an extra fee, Why did it charge? -> Aug: I'm frustrated with this ATM, it added an unexpected charge to my cash withdrawal, Can you explain why it did that?
+GEN | [card_linking] | Orig: Can you please reactivate my card? -> Aug: Can you assist me in reactivating my card?
+GEN | [compromised_card] | Orig: My card must have used my card as there are some transactions that I haven't done myself.. -> Aug: I'm concerned that someone has accessed my card and made unauthorized transactions, as I didn't make those purchases myself.
+GEN | [transfer_not_received_by_recipient] | Orig: How long does it take for transfers to be approved?  I sent funds to my girlfriend, and she says that she has not seen any approved funds in her account. -> Aug: I'm concerned about a transfer I initiated to my partner, but they haven't received the funds yet. Can you please help me understand the processing time for approved transfers?
+GEN | [card_payment_not_recognised] | Orig: There is a card payment I'm not familiar with. -> Aug: We've received a payment from an unknown card.
+GEN | [transaction_charged_twice] | Orig: I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back? -> Aug: I accidentally used my duplicate card to make a purchase, and it was charged twice. I've since canceled the card, but I'd like to know how to recover the extra amount.
+GEN | [transfer_fee_charged] | Orig: I made a transfer and the receiver said they haven't actually received the right amount, but it's a bit less. Now I have to transfer more money to make up for the missing bit. Can you please alert me about this, what has been going on? -> Aug: I initiated a transfer, but the recipient claims they didn't receive the full amount, and I need to make an additional transfer to cover the shortfall. Can you help me understand what's happening with the transfer fee charged?
+GEN | [top_up_failed] | Orig: I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please? -> Aug: I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a few days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Why hasn't my account updated to reflect my current balance? -> Aug: I'm trying to check my account balance, but it's not showing the correct amount after I made a recent transfer.
+VAL | [balance_not_updated_after_bank_transfer] | NO | Text: I'm still waiting to see the transfer I initiated.
+VAL | [activate_my_card] | NO | Text: How do I turn on my new credit card?
+VAL | [lost_or_stolen_phone] | NO | Text: I recently misplaced my phone and I'm having trouble accessing my account to update my card information.
+VAL | [declined_card_payment] | YES | Text: Why is my payment being declined? Is there an issue with my account or card information that's causing the payment to be rejected? Can you help me resolve this issue and get my payment processed successfully?
+VAL | [pending_card_payment] | YES | Text: We have a pending card payment on your account, what does this mean?
+VAL | [card_not_working] | YES | Text: Why is my card unable to process any payments?
+VAL | [transaction_charged_twice] | YES | Text: I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?
+VAL | [age_limit] | YES | Text: We're looking to establish a savings plan for my child's future education expenses.
+VAL | [lost_or_stolen_phone] | YES | Text: I accidentally left my phone at home and now I'm unable to access the app. Can I still use my card?
+VAL | [reverted_card_payment?] | NO | Text: Why was my debit card payment declined?
+VAL | [country_support] | YES | Text: I recently relocated to the United States and would like to apply for a credit card. Can you guide me through the process?
+VAL | [card_swallowed] | NO | Text: What should I do if I've accidentally swallowed my credit card?
+VAL | [extra_charge_on_statement] | YES | Text: How long will the additional charge appear as pending on my statement?
+VAL | [card_payment_not_recognised] | YES | Text: my recent statement shows an unrecognised payment
+VAL | [declined_card_payment] | YES | Text: I'm confused, I have sufficient funds in my account, yet my card payment is being declined. Can you help me understand why this is happening?
+VAL | [reverted_card_payment?] | YES | Text: Can you help me understand why the payment for my recent purchase was reversed and credited back to my account?
+VAL | [card_acceptance] | YES | Text: Can you tell me if there are any merchants that don't accept this particular card?
+VAL | [failed_transfer] | YES | Text: Could you please explain why my recent transfer was unsuccessful?
+VAL | [visa_or_mastercard] | NO | Text: I require a Mastercard
+VAL | [pending_cash_withdrawal] | YES | Text: I'd like to cancel the pending cash withdrawal transaction that was attempted on my card earlier today, as it was declined and I did not receive the cash.
+VAL | [request_refund] | NO | Text: I recently purchased an item and would like to initiate a refund, could you please let me know if the item has been dispatched yet?
+VAL | [top_up_failed] | YES | Text: I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative options if available?
+VAL | [activate_my_card] | NO | Text: Can you please let me know how long it usually takes to activate a card, as I'm having trouble getting it to work?
+VAL | [transfer_not_received_by_recipient] | YES | Text: Why hasn't the money transfer been credited to the recipient's account?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Can I make a top-up using cash or cheque instead of digital payment?
+VAL | [transfer_fee_charged] | YES | Text: A charge was unexpectedly added to a transfer that shouldn't have had one.
+VAL | [card_payment_not_recognised] | NO | Text: We've noticed an unusual payment on your account, and we're unable to verify the transaction.
+VAL | [failed_transfer] | YES | Text: can you assist me in completing my transfer?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I've been waiting for a few days, but the transfer hasn't arrived at the recipient's end.
+VAL | [cash_withdrawal_charge] | YES | Text: I'm frustrated with this ATM, it added an unexpected charge to my cash withdrawal, Can you explain why it did that?
+VAL | [card_linking] | YES | Text: Can you assist me in reactivating my card?
+VAL | [compromised_card] | YES | Text: I'm concerned that someone has accessed my card and made unauthorized transactions, as I didn't make those purchases myself.
+VAL | [transfer_not_received_by_recipient] | NO | Text: I'm concerned about a transfer I initiated to my partner, but they haven't received the funds yet. Can you please help me understand the processing time for approved transfers?
+VAL | [card_payment_not_recognised] | YES | Text: We've received a payment from an unknown card.
+VAL | [transaction_charged_twice] | YES | Text: I accidentally used my duplicate card to make a purchase, and it was charged twice. I've since canceled the card, but I'd like to know how to recover the extra amount.
+VAL | [transfer_fee_charged] | YES | Text: I initiated a transfer, but the recipient claims they didn't receive the full amount, and I need to make an additional transfer to cover the shortfall. Can you help me understand what's happening with the transfer fee charged?
+VAL | [top_up_failed] | NO | Text: I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a few days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm trying to check my account balance, but it's not showing the correct amount after I made a recent transfer.

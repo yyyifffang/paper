@@ -1,0 +1,80 @@
+GEN | [country_support] | Orig: Is there anywhere  In the  Eu  this card can not be delivered in -> Aug: Can this card be delivered in any country where the EU has no jurisdiction?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I able to do a SWIFT transfer with you? -> Aug: Can I initiate a bank transfer to top up my account with a charge applied?
+GEN | [card_linking] | Orig: In the app, how can I make it show the new card that arrived? -> Aug: In the app, how can I link my new card to my account?
+GEN | [country_support] | Orig: May I get one of your cards?  I live in the EU. -> Aug: Can I assist you with a card application? I'd be happy to help you with the process, considering you're a resident of the European Union.
+GEN | [country_support] | Orig: I'm in the EU. Can I get one of your cards? -> Aug: I'm a resident in the European Union. Can I apply for a card?
+GEN | [country_support] | Orig: I am in the EU. Can I get one of your cards? -> Aug: I am a resident in the European Union. Can I apply for a card from your bank?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can I Transfer from SWIFT? -> Aug: Can I top up my account by bank transfer and what's the charge for it?
+GEN | [transfer_not_received_by_recipient] | Orig: I'm waiting for my transaction to complete. -> Aug: I'm still waiting for the funds to reach the recipient's account.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Would I be able to use SWIFT transfers? -> Aug: Can I use a bank transfer to top up my account, and what are the associated charges?
+GEN | [verify_my_identity] | Orig: why do I need to show ID -> Aug: Can you please confirm your identity by providing a valid government-issued ID?
+GEN | [card_delivery_estimate] | Orig: how much to get my card in 2 days? -> Aug: Can you please provide an estimate for the delivery of my card within a 2-day timeframe?
+GEN | [pending_card_payment] | Orig: When is a payment I made with my card going to clear> -> Aug: When will the payment I made using my card be processed and cleared?
+GEN | [card_arrival] | Orig: Was there a number to track that I could get? -> Aug: Can I get a tracking number for my card arrival?
+GEN | [exchange_via_app] | Orig: My plans may change so I may need to change from GBP to AUD. -> Aug: My travel plans are subject to change, and I might need to convert my currency from GBP to AUD.
+GEN | [card_linking] | Orig: I want my card I just received to show up in the app. How do I do that? -> Aug: I'd like to link my new card to the app. Can you guide me on how to do that?
+GEN | [card_delivery_estimate] | Orig: i need to expedite my card -> Aug: I would be happy to assist you with estimating the expedited delivery of your card.
+GEN | [top_up_by_card_charge] | Orig: Where can i top my card for free? -> Aug: How can I top up my card without incurring any charges?
+GEN | [exchange_via_app] | Orig: I'm having difficulties changing AUD for GBP. How do I do this? -> Aug: Can you please guide me on how to exchange Australian dollars (AUD) for British pounds (GBP) using the app?
+GEN | [card_linking] | Orig: How do I add the card I just received to show up in the app? -> Aug: How do I link the new card to my account so it appears in the app?
+GEN | [pending_card_payment] | Orig: I am waiting for a payment to be processed -> Aug: We are still awaiting the processing of a payment
+GEN | [card_payment_not_recognised] | Orig: This card payment isn't is recognition. -> Aug: This card payment is not recognized.
+GEN | [supported_cards_and_currencies] | Orig: My card wants to be topped what do you guys support? -> Aug: What payment methods and currencies do you accept for card reloads?
+GEN | [transfer_fee_charged] | Orig: Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees? -> Aug: Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?
+GEN | [card_linking] | Orig: Is there any way to see my card in the app? -> Aug: Can I access my card information within the mobile app?
+GEN | [country_support] | Orig: I would like to get your card in EU. Is that possible? -> Aug: I would like to obtain a card for use in the European Union. Is this feasible?
+GEN | [verify_top_up] | Orig: Help me verify the card used on a top-up. -> Aug: Can you confirm the card details used for the recent top-up transaction?
+GEN | [card_payment_not_recognised] | Orig: I need to freeze my card. There are charges on there that i did not authorize. They've been coming out for a couple of days. Can i get this money back? -> Aug: I'm experiencing an issue with an unauthorized payment on my card. The charges started a few days ago and I'd like to dispute them. Can I get a refund for these unauthorized transactions?
+GEN | [top_up_by_bank_transfer_charge] | Orig: are SWIFT transfers an option? -> Aug: Can I use a SWIFT transfer to pay the top-up by bank transfer charge?
+GEN | [why_verify_identity] | Orig: Why do I have to give you my drivers license -> Aug: We verify your identity to ensure the security and integrity of your account and transactions.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you process SWIFT transfers? -> Aug: Can you facilitate bank transfers with a charge applied?
+GEN | [card_arrival] | Orig: Is there a way I can check on the card on route to me? -> Aug: Can I track the status of my card as it's being shipped to me?
+GEN | [pending_transfer] | Orig: I have an outgoing transaction -> Aug: I have a pending outgoing transfer
+GEN | [verify_top_up] | Orig: Verifying the top-up seems like a hassle. -> Aug: Confirming the top-up details appears to be a tedious process.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you accept SWIFT transfers? -> Aug: Can you facilitate bank transfers with a charge applied?
+GEN | [supported_cards_and_currencies] | Orig: How can I get funds into my account from my American Express? -> Aug: What payment methods and currencies are accepted for depositing funds into my account using my American Express card?
+GEN | [exchange_via_app] | Orig: Can I use this app to change money? -> Aug: Can I make an exchange using this mobile app?
+GEN | [top_up_by_bank_transfer_charge] | Orig: I want to do a swift transfer -> Aug: I'd like to make a bank transfer to top up my account
+GEN | [supported_cards_and_currencies] | Orig: Can I electronically transfer funds into my account from my American Express? -> Aug: Can I make an electronic transfer into my account using my American Express card?
+GEN | [card_delivery_estimate] | Orig: How long will it take to get to the US? -> Aug: When can I expect to receive my new credit card in the United States?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I able to do a SWIFT transfer? -> Aug: Can I make a bank transfer to top up my account, and what are the associated charges?
+VAL | [country_support] | NO | Text: Can this card be delivered in any country where the EU has no jurisdiction?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I initiate a bank transfer to top up my account with a charge applied?
+VAL | [card_linking] | YES | Text: In the app, how can I link my new card to my account?
+VAL | [country_support] | NO | Text: Can I assist you with a card application? I'd be happy to help you with the process, considering you're a resident of the European Union.
+VAL | [country_support] | YES | Text: I'm a resident in the European Union. Can I apply for a card?
+VAL | [country_support] | YES | Text: I am a resident in the European Union. Can I apply for a card from your bank?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I top up my account by bank transfer and what's the charge for it?
+VAL | [transfer_not_received_by_recipient] | NO | Text: I'm still waiting for the funds to reach the recipient's account.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I use a bank transfer to top up my account, and what are the associated charges?
+VAL | [verify_my_identity] | YES | Text: Can you please confirm your identity by providing a valid government-issued ID?
+VAL | [card_delivery_estimate] | YES | Text: Can you please provide an estimate for the delivery of my card within a 2-day timeframe?
+VAL | [pending_card_payment] | YES | Text: When will the payment I made using my card be processed and cleared?
+VAL | [card_arrival] | NO | Text: Can I get a tracking number for my card arrival?
+VAL | [exchange_via_app] | NO | Text: My travel plans are subject to change, and I might need to convert my currency from GBP to AUD.
+VAL | [card_linking] | YES | Text: I'd like to link my new card to the app. Can you guide me on how to do that?
+VAL | [card_delivery_estimate] | NO | Text: I would be happy to assist you with estimating the expedited delivery of your card.
+VAL | [top_up_by_card_charge] | NO | Text: How can I top up my card without incurring any charges?
+VAL | [exchange_via_app] | YES | Text: Can you please guide me on how to exchange Australian dollars (AUD) for British pounds (GBP) using the app?
+VAL | [card_linking] | YES | Text: How do I link the new card to my account so it appears in the app?
+VAL | [pending_card_payment] | NO | Text: We are still awaiting the processing of a payment
+VAL | [card_payment_not_recognised] | YES | Text: This card payment is not recognized.
+VAL | [supported_cards_and_currencies] | YES | Text: What payment methods and currencies do you accept for card reloads?
+VAL | [transfer_fee_charged] | YES | Text: Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?
+VAL | [card_linking] | NO | Text: Can I access my card information within the mobile app?
+VAL | [country_support] | YES | Text: I would like to obtain a card for use in the European Union. Is this feasible?
+VAL | [verify_top_up] | YES | Text: Can you confirm the card details used for the recent top-up transaction?
+VAL | [card_payment_not_recognised] | NO | Text: I'm experiencing an issue with an unauthorized payment on my card. The charges started a few days ago and I'd like to dispute them. Can I get a refund for these unauthorized transactions?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I use a SWIFT transfer to pay the top-up by bank transfer charge?
+VAL | [why_verify_identity] | NO | Text: We verify your identity to ensure the security and integrity of your account and transactions.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can you facilitate bank transfers with a charge applied?
+VAL | [card_arrival] | YES | Text: Can I track the status of my card as it's being shipped to me?
+VAL | [pending_transfer] | YES | Text: I have a pending outgoing transfer
+VAL | [verify_top_up] | YES | Text: Confirming the top-up details appears to be a tedious process.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can you facilitate bank transfers with a charge applied?
+VAL | [supported_cards_and_currencies] | NO | Text: What payment methods and currencies are accepted for depositing funds into my account using my American Express card?
+VAL | [exchange_via_app] | YES | Text: Can I make an exchange using this mobile app?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: I'd like to make a bank transfer to top up my account
+VAL | [supported_cards_and_currencies] | NO | Text: Can I make an electronic transfer into my account using my American Express card?
+VAL | [card_delivery_estimate] | YES | Text: When can I expect to receive my new credit card in the United States?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Can I make a bank transfer to top up my account, and what are the associated charges?

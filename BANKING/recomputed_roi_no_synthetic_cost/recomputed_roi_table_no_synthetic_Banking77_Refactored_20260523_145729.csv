@@ -1,0 +1,5 @@
+Run_Log,Random_Seed,Framework,Max_Utility,Max_Utility_Iteration,Final_Utility,Final_Performance_Score,Final_Normalized_Cost,Final_Total_Cost,Final_Human_Labels,Final_LLM_Generation_Requests,Final_LLM_Valid_Generated,Final_LLM_Verification_Requests,Final_Synthetic_Accepted,New_ROI_Stop_Iteration
+experiment_log_Banking77_Refactored_20260523_145729.txt,43,Passive,0.3419804772234273,21,0.13779999999999992,0.7378,1.0,1844.0,1844,0,0,0,0,26
+experiment_log_Banking77_Refactored_20260523_145729.txt,43,Active,0.42623579175704984,20,0.19689999999999996,0.7969,1.0,1844.0,1844,0,0,0,0,23
+experiment_log_Banking77_Refactored_20260523_145729.txt,43,Generate-only,0.5318489370932755,19,0.2613772342733188,0.876605,1.0253796095444685,1890.8,1844,1560,1524,0,1524,24
+experiment_log_Banking77_Refactored_20260523_145729.txt,43,Generate-and-Verify,0.5591614316702821,21,0.24156516268980477,0.87164,1.0501247288503253,1936.4299999999998,1844,1560,1521,1521,1016,26

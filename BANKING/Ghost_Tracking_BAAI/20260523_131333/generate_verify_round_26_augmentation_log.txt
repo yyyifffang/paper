@@ -1,0 +1,78 @@
+GEN | [declined_card_payment] | Orig: I couldn't pay with my card -> Aug: Your payment was declined due to an issue with your card.
+GEN | [cash_withdrawal_not_recognised] | Orig: I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP -> Aug: I AM UNABLE TO LOCATE A RECENT CASH WITHDRAWAL FROM MY ACCOUNT AS RECORDED IN MY ONLINE STATEMENT.
+GEN | [transfer_not_received_by_recipient] | Orig: My cash transaction isn't showing on my account -> Aug: The funds from my recent transfer haven't been credited to the recipient's account.
+GEN | [card_swallowed] | Orig: Your machine took my card. How do I get it back? -> Aug: My card was swallowed by the ATM. How do I retrieve it?
+GEN | [request_refund] | Orig: Is there a way you can have money from a purchase I made refunded to my account. -> Aug: Can you assist me with getting a refund for a recent purchase credited back to my account?
+GEN | [cancel_transfer] | Orig: I goofed up and used the wrong account.  Please help. -> Aug: I accidentally selected the wrong account. Can you assist me in canceling the transfer?
+GEN | [lost_or_stolen_phone] | Orig: Do I need my phone to use the app? -> Aug: Can I still access the app without my phone, or is it linked to the device?
+GEN | [top_up_failed] | Orig: I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives -> Aug: I'm trying to urgently top-up my card, but it's been declined repeatedly. Can you help me resolve this issue or suggest an alternative solution?
+GEN | [top_up_by_card_charge] | Orig: how much does it cost to add money -> Aug: what is the charge for adding funds using my card?
+GEN | [lost_or_stolen_phone] | Orig: I misplaced my phone so I can't use the app! Does this mean I can't use my card? -> Aug: I accidentally left my phone at home and now I'm unable to access the app. Can I still use my card?
+GEN | [failed_transfer] | Orig: Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere. -> Aug: We've experienced some technical issues, and it seems that our system is having trouble processing your transfer request. I've tried initiating the transfer five times, but it keeps failing. Can you please help me troubleshoot the issue?
+GEN | [pending_cash_withdrawal] | Orig: The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why? -> Aug: The ATM was malfunctioning when I tried to withdraw cash, and now my account shows a pending cash withdrawal. Can you help me understand why it's still processing?
+GEN | [lost_or_stolen_phone] | Orig: My things were stolen and I need to know if I can still use this app. -> Aug: My phone was stolen and I'm worried about accessing my account through this app.
+GEN | [pending_cash_withdrawal] | Orig: How long does it take to verify a cash withdraw? -> Aug: How long does it typically take to process a pending cash withdrawal request?
+GEN | [supported_cards_and_currencies] | Orig: Can you accept my other card from the U.S.?  It is the only other one I have. -> Aug: Can you accept my other credit card from the United States? It is the only other one I have.
+GEN | [topping_up_by_card] | Orig: My card needs to be topped up. -> Aug: My card requires a recharge via card.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Dude I put money in the ATM last week but it ain't there! I need the money now figure this out! -> Aug: I made a cash deposit at the ATM last week, but my account balance still shows the old amount. Can you please update it ASAP?
+GEN | [cash_withdrawal_not_recognised] | Orig: I want my card frozen right away. Money was taken out in an odd location I have never heard of. -> Aug: I need immediate assistance with my account. I'm concerned about an unauthorized cash withdrawal that was made at an unfamiliar location.
+GEN | [failed_transfer] | Orig: Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times! -> Aug: We've tried to process the transfer multiple times, but it keeps getting declined. Is there an issue with the receiving bank or the transfer amount?
+GEN | [card_payment_not_recognised] | Orig: I need to freeze my card as soon as possible. I just checked my account and saw that there have been several payments that I don't recognize over the course of a few days. Can we investigate and get my money back? -> Aug: I'm concerned about unauthorized transactions on my account. I've noticed some payments that I didn't make, and I'd like to report them and get my funds restored.
+GEN | [disposable_card_limits] | Orig: How many payments can I make using a virtual card? -> Aug: What is the maximum number of transactions allowed on a disposable card?
+GEN | [lost_or_stolen_card] | Orig: My card is lost!  Please help me! -> Aug: I've misplaced my card and need assistance.
+GEN | [transfer_timing] | Orig: When will my money be in my account? -> Aug: When can I expect the funds to be deposited into my account?
+GEN | [declined_transfer] | Orig: I wanted to know why my transaction didn't go through. -> Aug: I'm trying to understand why my transfer was declined.
+GEN | [getting_spare_card] | Orig: Can my daughter also have a card issued in her name, but linked to my account? -> Aug: Can I request a spare card in my daughter's name, which will be linked to my existing account?
+GEN | [declined_cash_withdrawal] | Orig: Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined. -> Aug: Hello, I'd like to verify my card details. I've never had any issues with cash withdrawals before, but this morning, my card was declined unexpectedly while I was on my way to work.
+GEN | [card_linking] | Orig: I found my card that I thought I had lost, I need to reactive it, please help. -> Aug: I've located my card that I believed was misplaced, and I'd like to reactivate it. Can you assist me with the process?
+GEN | [order_physical_card] | Orig: Can I revive a physical card. -> Aug: Can I reorder a physical credit card?
+GEN | [top_up_limits] | Orig: How can I information on my limit for top-ups? -> Aug: What are the current limits for topping up my account?
+GEN | [card_linking] | Orig: I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card. -> Aug: I recently found my card, which I had previously thought was lost, and I would like to reactivate the card.
+GEN | [top_up_reverted] | Orig: I didn't cancel my top-up. -> Aug: I didn't reverse my top-up.
+GEN | [top_up_failed] | Orig: I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any. -> Aug: I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative options if available?
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're looking to establish a savings plan for my child's future education expenses.
+GEN | [lost_or_stolen_card] | Orig: My card was lost on vacation, I don't know where it is. Can you help me take care of this immediately? -> Aug: My credit card was misplaced during my trip, and I'm not sure where it's located. Could you assist me in resolving this matter as soon as possible?
+GEN | [declined_transfer] | Orig: I can't make any transfers, they won't go through, the details are correct as I checked them.  Can you look in to this please? -> Aug: I've tried to initiate a transfer, but it's been declined. The transfer details are accurate, but the transaction won't process. Could you investigate this issue for me?
+GEN | [card_linking] | Orig: Can I reactivate my card? I reported it lost and found it this morning in my jacket. -> Aug: Can I reissue my card? I previously reported it lost, but I've since found it in my jacket.
+GEN | [failed_transfer] | Orig: Hey, I'm buying a flat and I need my mortgage to go though. However, every time I check I get an error message. Is there any way you can help me with this transfer. -> Aug: Hi, I'm in the process of purchasing a property and my mortgage transfer has failed. I keep getting an error message when I try to check the status. Could you please assist me with resolving this issue?
+GEN | [failed_transfer] | Orig: My card couldn't complete a transfer, why? -> Aug: The transfer I initiated with my card was unsuccessful, what went wrong?
+GEN | [contactless_not_working] | Orig: Any charges applicable for new card? -> Aug: Are there any outstanding charges on my new card?
+VAL | [declined_card_payment] | YES | Text: Your payment was declined due to an issue with your card.
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I AM UNABLE TO LOCATE A RECENT CASH WITHDRAWAL FROM MY ACCOUNT AS RECORDED IN MY ONLINE STATEMENT.
+VAL | [transfer_not_received_by_recipient] | YES | Text: The funds from my recent transfer haven't been credited to the recipient's account.
+VAL | [card_swallowed] | YES | Text: My card was swallowed by the ATM. How do I retrieve it?
+VAL | [request_refund] | YES | Text: Can you assist me with getting a refund for a recent purchase credited back to my account?
+VAL | [cancel_transfer] | YES | Text: I accidentally selected the wrong account. Can you assist me in canceling the transfer?
+VAL | [lost_or_stolen_phone] | NO | Text: Can I still access the app without my phone, or is it linked to the device?
+VAL | [top_up_failed] | YES | Text: I'm trying to urgently top-up my card, but it's been declined repeatedly. Can you help me resolve this issue or suggest an alternative solution?
+VAL | [top_up_by_card_charge] | YES | Text: what is the charge for adding funds using my card?
+VAL | [lost_or_stolen_phone] | YES | Text: I accidentally left my phone at home and now I'm unable to access the app. Can I still use my card?
+VAL | [failed_transfer] | NO | Text: We've experienced some technical issues, and it seems that our system is having trouble processing your transfer request. I've tried initiating the transfer five times, but it keeps failing. Can you please help me troubleshoot the issue?
+VAL | [pending_cash_withdrawal] | YES | Text: The ATM was malfunctioning when I tried to withdraw cash, and now my account shows a pending cash withdrawal. Can you help me understand why it's still processing?
+VAL | [lost_or_stolen_phone] | YES | Text: My phone was stolen and I'm worried about accessing my account through this app.
+VAL | [pending_cash_withdrawal] | YES | Text: How long does it typically take to process a pending cash withdrawal request?
+VAL | [supported_cards_and_currencies] | NO | Text: Can you accept my other credit card from the United States? It is the only other one I have.
+VAL | [topping_up_by_card] | YES | Text: My card requires a recharge via card.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I made a cash deposit at the ATM last week, but my account balance still shows the old amount. Can you please update it ASAP?
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I need immediate assistance with my account. I'm concerned about an unauthorized cash withdrawal that was made at an unfamiliar location.
+VAL | [failed_transfer] | NO | Text: We've tried to process the transfer multiple times, but it keeps getting declined. Is there an issue with the receiving bank or the transfer amount?
+VAL | [card_payment_not_recognised] | NO | Text: I'm concerned about unauthorized transactions on my account. I've noticed some payments that I didn't make, and I'd like to report them and get my funds restored.
+VAL | [disposable_card_limits] | YES | Text: What is the maximum number of transactions allowed on a disposable card?
+VAL | [lost_or_stolen_card] | YES | Text: I've misplaced my card and need assistance.
+VAL | [transfer_timing] | YES | Text: When can I expect the funds to be deposited into my account?
+VAL | [declined_transfer] | YES | Text: I'm trying to understand why my transfer was declined.
+VAL | [getting_spare_card] | YES | Text: Can I request a spare card in my daughter's name, which will be linked to my existing account?
+VAL | [declined_cash_withdrawal] | YES | Text: Hello, I'd like to verify my card details. I've never had any issues with cash withdrawals before, but this morning, my card was declined unexpectedly while I was on my way to work.
+VAL | [card_linking] | YES | Text: I've located my card that I believed was misplaced, and I'd like to reactivate it. Can you assist me with the process?
+VAL | [order_physical_card] | YES | Text: Can I reorder a physical credit card?
+VAL | [top_up_limits] | YES | Text: What are the current limits for topping up my account?
+VAL | [card_linking] | NO | Text: I recently found my card, which I had previously thought was lost, and I would like to reactivate the card.
+VAL | [top_up_reverted] | NO | Text: I didn't reverse my top-up.
+VAL | [top_up_failed] | YES | Text: I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative options if available?
+VAL | [age_limit] | YES | Text: We're looking to establish a savings plan for my child's future education expenses.
+VAL | [lost_or_stolen_card] | YES | Text: My credit card was misplaced during my trip, and I'm not sure where it's located. Could you assist me in resolving this matter as soon as possible?
+VAL | [declined_transfer] | YES | Text: I've tried to initiate a transfer, but it's been declined. The transfer details are accurate, but the transaction won't process. Could you investigate this issue for me?
+VAL | [card_linking] | NO | Text: Can I reissue my card? I previously reported it lost, but I've since found it in my jacket.
+VAL | [failed_transfer] | YES | Text: Hi, I'm in the process of purchasing a property and my mortgage transfer has failed. I keep getting an error message when I try to check the status. Could you please assist me with resolving this issue?
+VAL | [failed_transfer] | YES | Text: The transfer I initiated with my card was unsuccessful, what went wrong?
+VAL | [contactless_not_working] | NO | Text: Are there any outstanding charges on my new card?

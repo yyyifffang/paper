@@ -1,0 +1,78 @@
+GEN | [exchange_rate] | Orig: What value can I get for my currency? -> Aug: What is the current exchange rate for my currency?
+GEN | [card_arrival] | Orig: Was there a way for me to get tracking for that? -> Aug: Could you please provide me with the tracking information for my card arrival?
+GEN | [fiat_currency_support] | Orig: Do you have EUR currency available for me? -> Aug: Can you confirm if you have the Euro (EUR) available for my transaction?
+GEN | [exchange_charge] | Orig: I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently. -> Aug: I'd like to inquire about the available discounts for frequent exchange transactions.
+GEN | [supported_cards_and_currencies] | Orig: Which currencies do you work with? -> Aug: We accept a wide range of currencies, including USD, EUR, JPY, and more. What type of card do you have?
+GEN | [country_support] | Orig: Where are you present globally? -> Aug: What countries do you operate in?
+GEN | [fiat_currency_support] | Orig: are multiple currencies acceptable? -> Aug: Can I use multiple fiat currencies for a single transaction?
+GEN | [fiat_currency_support] | Orig: I need assistance with understanding which fiat currencies that you support. -> Aug: I require information on the fiat currencies that your bank accepts and facilitates transactions with.
+GEN | [cash_withdrawal_charge] | Orig: How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month. -> Aug: Can you tell me about the cash withdrawal charge? I'm trying to understand when I'll be charged a fee for taking out cash from my account.
+GEN | [supported_cards_and_currencies] | Orig: Which currencies do you handle? -> Aug: We accept a wide range of currencies, including USD, EUR, JPY, and more. What type of card do you have?
+GEN | [lost_or_stolen_phone] | Orig: my phone was lost -> Aug: I misplaced my phone
+GEN | [wrong_amount_of_cash_received] | Orig: why did i only get 20.00 -> Aug: I was expecting to receive a larger amount, but I only got 20.00.
+GEN | [fiat_currency_support] | Orig: what currencies do you accept? -> Aug: What types of fiat currencies do you support for transactions?
+GEN | [lost_or_stolen_phone] | Orig: phone is gone -> Aug: my phone has vanished
+GEN | [verify_my_identity] | Orig: why do I need to show ID -> Aug: Can you please confirm your identity by providing a valid government-issued ID?
+GEN | [receiving_money] | Orig: What do I need to do to get my salary through this? -> Aug: How can I receive my paycheck through this service?
+GEN | [card_not_working] | Orig: WHAT IS THE REASON FOR THAT -> Aug: WHY IS MY CARD NOT FUNCTIONING PROPERLY?
+GEN | [fiat_currency_support] | Orig: What currencies do you offer? -> Aug: We currently support a wide range of fiat currencies, including but not limited to USD, EUR, JPY, and GBP. Can I assist you with a specific currency conversion or transaction?
+GEN | [card_not_working] | Orig: I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account? -> Aug: I attempted to book a flight online this morning, but my credit card details aren't being accepted. Is there an issue with my account or is there a technical problem with the payment processing?
+GEN | [fiat_currency_support] | Orig: I would like to know which fiat currencies are recognized by your organization. -> Aug: I'd like to inquire about the list of supported fiat currencies accepted by your institution.
+GEN | [getting_virtual_card] | Orig: what is a virtual and how do i get one -> Aug: How do I obtain a virtual card, and what is its purpose?
+GEN | [verify_top_up] | Orig: What's a verification code? -> Aug: What's the verification code for my top-up?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Why did you give me so little currency? -> Aug: The exchange rate you provided for the cash withdrawal was incorrect, resulting in an insufficient amount of currency.
+GEN | [receiving_money] | Orig: Can i get payed through this system? -> Aug: Can I receive payment through this system?
+GEN | [verify_top_up] | Orig: I'm being asked for a verification code. Where do I find it? -> Aug: I'm trying to complete a top-up process, but I need a verification code. Can you please guide me on how to obtain it?
+GEN | [exchange_charge] | Orig: What commission do you take for currency exchage? -> Aug: What is the exchange charge for converting currencies?
+GEN | [card_arrival] | Orig: Was there a number to track that I could get? -> Aug: Can I get a tracking number for my card arrival?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I'm looking for a machine of yours that will provide me cash from my home country. I went on holiday and don't have any cash on me. Will your machine charge me extra to do this? -> Aug: I'm trying to withdraw some cash from my account, but I'm concerned that the exchange rate might be incorrect. I'm on a trip and don't have any local currency with me. Will I be charged an additional fee for the exchange rate discrepancy?
+GEN | [why_verify_identity] | Orig: Why are you asking so many questions about who I am -> Aug: We're verifying your identity to ensure the security and integrity of your account.
+GEN | [card_payment_fee_charged] | Orig: I'm going on holiday to France for 6 weeks with my family and the cat, Fluffy.  I just purchased €10,000 from a currency exchange to ensure we don't run short but there appears to be a fee.  What is this for? -> Aug: I'm planning a 6-week trip to France with my family, including our cat Fluffy. I recently exchanged €10,000 from a currency exchange, but I noticed a fee was applied. Can you please explain what this fee is for?
+GEN | [why_verify_identity] | Orig: Why do I have to give you my drivers license -> Aug: We verify your identity to ensure the security and integrity of your account and transactions.
+GEN | [declined_cash_withdrawal] | Orig: i needed money for a night out with the girls but i was declined, why? -> Aug: I was looking forward to a night out with friends, but my cash withdrawal was declined, can you help me understand why?
+GEN | [top_up_failed] | Orig: I'm not sure if my pop-up went through. -> Aug: I'm unsure if my top-up transaction was successful.
+GEN | [card_delivery_estimate] | Orig: Are the delivery days flexible?  My schedule only allows me to be a available on specific dates. -> Aug: Can you provide an estimate of the delivery dates, as I have a limited availability and need to plan accordingly?
+GEN | [card_delivery_estimate] | Orig: If I need delivery on a certain day, is that something that could be accommodated? -> Aug: Can you specify a specific delivery date, and I'll check if it's possible to accommodate it?
+GEN | [fiat_currency_support] | Orig: Do you deal with EUR? -> Aug: Do you support the Euro (EUR) as a fiat currency?
+GEN | [supported_cards_and_currencies] | Orig: Do you have a list of cards and currencies you support? -> Aug: We accept a range of cards and currencies, including Visa, Mastercard, American Express, and more. Can I provide you with a comprehensive list of our supported cards and currencies?
+GEN | [exchange_charge] | Orig: What kind of costs are involved for exchanging currency? -> Aug: What are the fees associated with exchanging currency?
+GEN | [fiat_currency_support] | Orig: I need to know which flat currencies are supported by you. -> Aug: I'm looking for information on the fiat currencies your bank accepts.
+VAL | [exchange_rate] | YES | Text: What is the current exchange rate for my currency?
+VAL | [card_arrival] | YES | Text: Could you please provide me with the tracking information for my card arrival?
+VAL | [fiat_currency_support] | YES | Text: Can you confirm if you have the Euro (EUR) available for my transaction?
+VAL | [exchange_charge] | NO | Text: I'd like to inquire about the available discounts for frequent exchange transactions.
+VAL | [supported_cards_and_currencies] | NO | Text: We accept a wide range of currencies, including USD, EUR, JPY, and more. What type of card do you have?
+VAL | [country_support] | NO | Text: What countries do you operate in?
+VAL | [fiat_currency_support] | YES | Text: Can I use multiple fiat currencies for a single transaction?
+VAL | [fiat_currency_support] | YES | Text: I require information on the fiat currencies that your bank accepts and facilitates transactions with.
+VAL | [cash_withdrawal_charge] | YES | Text: Can you tell me about the cash withdrawal charge? I'm trying to understand when I'll be charged a fee for taking out cash from my account.
+VAL | [supported_cards_and_currencies] | NO | Text: We accept a wide range of currencies, including USD, EUR, JPY, and more. What type of card do you have?
+VAL | [lost_or_stolen_phone] | NO | Text: I misplaced my phone
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was expecting to receive a larger amount, but I only got 20.00.
+VAL | [fiat_currency_support] | YES | Text: What types of fiat currencies do you support for transactions?
+VAL | [lost_or_stolen_phone] | YES | Text: my phone has vanished
+VAL | [verify_my_identity] | YES | Text: Can you please confirm your identity by providing a valid government-issued ID?
+VAL | [receiving_money] | YES | Text: How can I receive my paycheck through this service?
+VAL | [card_not_working] | YES | Text: WHY IS MY CARD NOT FUNCTIONING PROPERLY?
+VAL | [fiat_currency_support] | NO | Text: We currently support a wide range of fiat currencies, including but not limited to USD, EUR, JPY, and GBP. Can I assist you with a specific currency conversion or transaction?
+VAL | [card_not_working] | YES | Text: I attempted to book a flight online this morning, but my credit card details aren't being accepted. Is there an issue with my account or is there a technical problem with the payment processing?
+VAL | [fiat_currency_support] | YES | Text: I'd like to inquire about the list of supported fiat currencies accepted by your institution.
+VAL | [getting_virtual_card] | NO | Text: How do I obtain a virtual card, and what is its purpose?
+VAL | [verify_top_up] | NO | Text: What's the verification code for my top-up?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: The exchange rate you provided for the cash withdrawal was incorrect, resulting in an insufficient amount of currency.
+VAL | [receiving_money] | YES | Text: Can I receive payment through this system?
+VAL | [verify_top_up] | NO | Text: I'm trying to complete a top-up process, but I need a verification code. Can you please guide me on how to obtain it?
+VAL | [exchange_charge] | YES | Text: What is the exchange charge for converting currencies?
+VAL | [card_arrival] | NO | Text: Can I get a tracking number for my card arrival?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I'm trying to withdraw some cash from my account, but I'm concerned that the exchange rate might be incorrect. I'm on a trip and don't have any local currency with me. Will I be charged an additional fee for the exchange rate discrepancy?
+VAL | [why_verify_identity] | NO | Text: We're verifying your identity to ensure the security and integrity of your account.
+VAL | [card_payment_fee_charged] | YES | Text: I'm planning a 6-week trip to France with my family, including our cat Fluffy. I recently exchanged €10,000 from a currency exchange, but I noticed a fee was applied. Can you please explain what this fee is for?
+VAL | [why_verify_identity] | NO | Text: We verify your identity to ensure the security and integrity of your account and transactions.
+VAL | [declined_cash_withdrawal] | YES | Text: I was looking forward to a night out with friends, but my cash withdrawal was declined, can you help me understand why?
+VAL | [top_up_failed] | NO | Text: I'm unsure if my top-up transaction was successful.
+VAL | [card_delivery_estimate] | YES | Text: Can you provide an estimate of the delivery dates, as I have a limited availability and need to plan accordingly?
+VAL | [card_delivery_estimate] | YES | Text: Can you specify a specific delivery date, and I'll check if it's possible to accommodate it?
+VAL | [fiat_currency_support] | YES | Text: Do you support the Euro (EUR) as a fiat currency?
+VAL | [supported_cards_and_currencies] | NO | Text: We accept a range of cards and currencies, including Visa, Mastercard, American Express, and more. Can I provide you with a comprehensive list of our supported cards and currencies?
+VAL | [exchange_charge] | YES | Text: What are the fees associated with exchanging currency?
+VAL | [fiat_currency_support] | YES | Text: I'm looking for information on the fiat currencies your bank accepts.

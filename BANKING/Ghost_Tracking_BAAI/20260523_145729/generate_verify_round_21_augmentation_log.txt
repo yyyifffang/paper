@@ -1,0 +1,80 @@
+GEN | [age_limit] | Orig: I am 16 and just started working at McDonalds can I deposit my checks at your bank? -> Aug: I am 17 and just started working at McDonalds can I deposit my checks at your bank?
+GEN | [edit_personal_details] | Orig: how do i get into my account and edit my details -> Aug: how can I access my account and modify my personal information?
+GEN | [pending_transfer] | Orig: As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far. -> Aug: I've reconfirmed my account information, and it's accurate. The transfer remains pending at this time.
+GEN | [extra_charge_on_statement] | Orig: I was made to pay an additional pound! -> Aug: I was unexpectedly charged an extra fee!
+GEN | [order_physical_card] | Orig: I need an actual card that I can hold in my hand, how do I do that? -> Aug: I'd like to place an order for a physical credit card, can you guide me through the process?
+GEN | [transfer_into_account] | Orig: What are my bank details so I can do a transfer? -> Aug: Can you please provide me with your account information so I can facilitate a transfer into your account?
+GEN | [terminate_account] | Orig: Remove my account immediately. -> Aug: Cancel my account right away.
+GEN | [order_physical_card] | Orig: Do I get a card to keep in my wallet? -> Aug: Can I request a physical card to carry with me?
+GEN | [top_up_reverted] | Orig: Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help. -> Aug: I'm having an issue with a top-up that was reversed. I tried to add funds using a specific method, but the transaction was cancelled and the amount was taken back. Can you assist me in understanding what went wrong and how to resolve this issue?
+GEN | [verify_top_up] | Orig: What is the top up code for? -> Aug: Can you please confirm the purpose of the top-up code?
+GEN | [wrong_amount_of_cash_received] | Orig: My cash received does not match what has been requested -> Aug: The amount of cash I received is not what I was expecting.
+GEN | [transfer_not_received_by_recipient] | Orig: i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer. -> Aug: I've been waiting for 2 days for a transfer to reach a recipient's account, will it take longer to arrive?
+GEN | [getting_spare_card] | Orig: What is the procedure for me to get more cards on my account? -> Aug: How do I obtain additional cards for my account?
+GEN | [card_payment_not_recognised] | Orig: I need some help now please! There are some transactions on my account that I do not remember purchasing. Can they be reversed? Can you please cancel or freeze my card so I don't keep getting charged?! -> Aug: I'm experiencing some issues with my account and I'm concerned about unauthorized transactions. Can you assist me in reversing or suspending my card activity to prevent further charges?
+GEN | [pending_cash_withdrawal] | Orig: I tried to get some money but the machine was not working .The transaction still seems in progress! Can you please check what's going on.I don't want to be charged for money that I did not received. -> Aug: I attempted to withdraw cash, but the ATM was malfunctioning. The transaction appears to be pending. Could you investigate the issue and ensure I'm not charged for the unprocessed withdrawal?
+GEN | [extra_charge_on_statement] | Orig: There is a  €1 fee on my account I didn't authorize -> Aug: We have noted an additional charge of €1 on your statement that was not previously approved by you.
+GEN | [fiat_currency_support] | Orig: What kind of money can I hold? -> Aug: What types of fiat currencies can I store in my account?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: where is my money from this morning -> Aug: why hasn't my account balance been updated after a cash deposit or cheque deposit this morning?
+GEN | [fiat_currency_support] | Orig: What currencies can I not hold many in, if so what are they? -> Aug: Which fiat currencies are not eligible for large balances or have specific restrictions, and what are the limitations I should be aware of?
+GEN | [transfer_into_account] | Orig: I need to deposit money to my account -> Aug: I would like to transfer funds into my account.
+GEN | [extra_charge_on_statement] | Orig: Why has my card been charged an extra pound? -> Aug: I've noticed an unexpected extra charge on my statement. Can you explain why?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I am worried about the amount of my cheque, which should be credited to my account few days before. As i have already sent you the cheque. -> Aug: I'm concerned that my account balance hasn't been updated after I deposited a cheque, which I mailed a few days ago.
+GEN | [why_verify_identity] | Orig: Can I make transfers before my identity verification? -> Aug: Can I initiate transactions or make transfers before completing the identity verification process?
+GEN | [card_payment_not_recognised] | Orig: There are charges on my card from the past few day I am pretty sure I didnt make, can you please freeze it for me? How do I get my money returned since it wasnt me? -> Aug: I've noticed some transactions on my card from the recent past that I'm certain I didn't authorize. Can you please put a hold on the charges? How do I get my funds back since I didn't make these purchases?
+GEN | [supported_cards_and_currencies] | Orig: I want to deposit funds, what payments are accepted? -> Aug: We accept a wide range of payment methods, including Visa, Mastercard, American Express, Discover, and Diners Club credit cards, as well as wire transfers in USD, EUR, JPY, and GBP.
+GEN | [card_payment_fee_charged] | Orig: I am angry that I got charged for using my card. -> Aug: I'm frustrated because I was unexpectedly charged a fee for making a payment with my credit card.
+GEN | [wrong_amount_of_cash_received] | Orig: my cash balance less than what I thought -> Aug: I was expecting a higher balance, but it's lower than I anticipated
+GEN | [verify_my_identity] | Orig: How recent do my documents need to be for verification? -> Aug: What is the age requirement for the documents I need to provide for identity verification?
+GEN | [verify_top_up] | Orig: Where's my top up code? -> Aug: Can you please provide me with my top-up code?
+GEN | [topping_up_by_card] | Orig: My top up isn't in my wallet. -> Aug: My card top-up is missing from my digital wallet.
+GEN | [failed_transfer] | Orig: I think youre system may be broken because I have tried transfer money 5x and it isnt working!  I'm not doing anything complicated it is what I usually do. -> Aug: I'm having trouble transferring funds as it seems to be failing repeatedly, I've tried it multiple times and it's not working, I'm not doing anything out of the ordinary, it's my usual process.
+GEN | [pin_blocked] | Orig: I enetered the wrong information, I need my account unblocked How do I do that? -> Aug: I accidentally entered incorrect details, please help me unblock my account. Can you guide me through the process?
+GEN | [terminate_account] | Orig: I would like to invalidate my account.  I am very disappointed with your services. -> Aug: I would like to cancel my account. I am extremely dissatisfied with your services.
+GEN | [cash_withdrawal_not_recognised] | Orig: There is unexpected money in my account. -> Aug: We've detected an unusual cash withdrawal attempt on your account.
+GEN | [top_up_reverted] | Orig: It's only been a few weeks my my top-up got cancelled -> Aug: My recent top-up reversal was processed just a few weeks ago
+GEN | [card_linking] | Orig: Will I need a new card or can I put my old card back into the app? -> Aug: Can I reactivate my existing card or do I need to request a new one for the app?
+GEN | [getting_spare_card] | Orig: How much is it to buy another card? I was hoping to buy another one. -> Aug: I'd like to purchase a replacement card, could you please tell me the cost?
+GEN | [transaction_charged_twice] | Orig: My statement shows different transaction times. -> Aug: My account statement displays conflicting transaction dates.
+GEN | [top_up_by_cash_or_cheque] | Orig: What is not accepted in order for me to top up my account? -> Aug: What methods are not accepted for topping up my account, either by cash or cheque?
+GEN | [getting_spare_card] | Orig: I would like to use one of my cards for a family member. Is that allowed? -> Aug: I'd like to assign a spare card to a family member. Can I do that?
+VAL | [age_limit] | NO | Text: I am 17 and just started working at McDonalds can I deposit my checks at your bank?
+VAL | [edit_personal_details] | YES | Text: how can I access my account and modify my personal information?
+VAL | [pending_transfer] | YES | Text: I've reconfirmed my account information, and it's accurate. The transfer remains pending at this time.
+VAL | [extra_charge_on_statement] | YES | Text: I was unexpectedly charged an extra fee!
+VAL | [order_physical_card] | YES | Text: I'd like to place an order for a physical credit card, can you guide me through the process?
+VAL | [transfer_into_account] | YES | Text: Can you please provide me with your account information so I can facilitate a transfer into your account?
+VAL | [terminate_account] | YES | Text: Cancel my account right away.
+VAL | [order_physical_card] | YES | Text: Can I request a physical card to carry with me?
+VAL | [top_up_reverted] | YES | Text: I'm having an issue with a top-up that was reversed. I tried to add funds using a specific method, but the transaction was cancelled and the amount was taken back. Can you assist me in understanding what went wrong and how to resolve this issue?
+VAL | [verify_top_up] | NO | Text: Can you please confirm the purpose of the top-up code?
+VAL | [wrong_amount_of_cash_received] | YES | Text: The amount of cash I received is not what I was expecting.
+VAL | [transfer_not_received_by_recipient] | NO | Text: I've been waiting for 2 days for a transfer to reach a recipient's account, will it take longer to arrive?
+VAL | [getting_spare_card] | YES | Text: How do I obtain additional cards for my account?
+VAL | [card_payment_not_recognised] | NO | Text: I'm experiencing some issues with my account and I'm concerned about unauthorized transactions. Can you assist me in reversing or suspending my card activity to prevent further charges?
+VAL | [pending_cash_withdrawal] | YES | Text: I attempted to withdraw cash, but the ATM was malfunctioning. The transaction appears to be pending. Could you investigate the issue and ensure I'm not charged for the unprocessed withdrawal?
+VAL | [extra_charge_on_statement] | YES | Text: We have noted an additional charge of €1 on your statement that was not previously approved by you.
+VAL | [fiat_currency_support] | NO | Text: What types of fiat currencies can I store in my account?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: why hasn't my account balance been updated after a cash deposit or cheque deposit this morning?
+VAL | [fiat_currency_support] | YES | Text: Which fiat currencies are not eligible for large balances or have specific restrictions, and what are the limitations I should be aware of?
+VAL | [transfer_into_account] | NO | Text: I would like to transfer funds into my account.
+VAL | [extra_charge_on_statement] | YES | Text: I've noticed an unexpected extra charge on my statement. Can you explain why?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I'm concerned that my account balance hasn't been updated after I deposited a cheque, which I mailed a few days ago.
+VAL | [why_verify_identity] | YES | Text: Can I initiate transactions or make transfers before completing the identity verification process?
+VAL | [card_payment_not_recognised] | YES | Text: I've noticed some transactions on my card from the recent past that I'm certain I didn't authorize. Can you please put a hold on the charges? How do I get my funds back since I didn't make these purchases?
+VAL | [supported_cards_and_currencies] | YES | Text: We accept a wide range of payment methods, including Visa, Mastercard, American Express, Discover, and Diners Club credit cards, as well as wire transfers in USD, EUR, JPY, and GBP.
+VAL | [card_payment_fee_charged] | YES | Text: I'm frustrated because I was unexpectedly charged a fee for making a payment with my credit card.
+VAL | [wrong_amount_of_cash_received] | NO | Text: I was expecting a higher balance, but it's lower than I anticipated
+VAL | [verify_my_identity] | NO | Text: What is the age requirement for the documents I need to provide for identity verification?
+VAL | [verify_top_up] | NO | Text: Can you please provide me with my top-up code?
+VAL | [topping_up_by_card] | YES | Text: My card top-up is missing from my digital wallet.
+VAL | [failed_transfer] | YES | Text: I'm having trouble transferring funds as it seems to be failing repeatedly, I've tried it multiple times and it's not working, I'm not doing anything out of the ordinary, it's my usual process.
+VAL | [pin_blocked] | NO | Text: I accidentally entered incorrect details, please help me unblock my account. Can you guide me through the process?
+VAL | [terminate_account] | YES | Text: I would like to cancel my account. I am extremely dissatisfied with your services.
+VAL | [cash_withdrawal_not_recognised] | NO | Text: We've detected an unusual cash withdrawal attempt on your account.
+VAL | [top_up_reverted] | YES | Text: My recent top-up reversal was processed just a few weeks ago
+VAL | [card_linking] | YES | Text: Can I reactivate my existing card or do I need to request a new one for the app?
+VAL | [getting_spare_card] | YES | Text: I'd like to purchase a replacement card, could you please tell me the cost?
+VAL | [transaction_charged_twice] | NO | Text: My account statement displays conflicting transaction dates.
+VAL | [top_up_by_cash_or_cheque] | NO | Text: What methods are not accepted for topping up my account, either by cash or cheque?
+VAL | [getting_spare_card] | NO | Text: I'd like to assign a spare card to a family member. Can I do that?

@@ -1,0 +1,78 @@
+GEN | [top_up_failed] | Orig: I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please? -> Aug: I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a few days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?
+GEN | [declined_card_payment] | Orig: My card was not accepted in a shop -> Aug: Your payment was declined at the merchant's location
+GEN | [card_linking] | Orig: Can you please reactivate my card? -> Aug: Can you assist me in reactivating my card?
+GEN | [beneficiary_not_allowed] | Orig: I got a message that I cannot name X as a beneficiary. -> Aug: You are not authorized to add X as a beneficiary.
+GEN | [cancel_transfer] | Orig: I used the wrong account number! -> Aug: I accidentally entered the wrong account information.
+GEN | [visa_or_mastercard] | Orig: Can I get the Mastercard? -> Aug: Can I get the Visa or Mastercard?
+GEN | [visa_or_mastercard] | Orig: I won't be pleased unless I get a Mastercard. -> Aug: I won't be satisfied unless I get a Visa or Mastercard.
+GEN | [top_up_reverted] | Orig: top up cancellation -> Aug: reversal of top-up transaction
+GEN | [contactless_not_working] | Orig: I am having issues using contactless payments, could my card be damaged? -> Aug: I'm experiencing difficulties with contactless transactions, is it possible that my card is malfunctioning?
+GEN | [apple_pay_or_google_pay] | Orig: Can I use my Apple Watch to pay for gas? -> Aug: Can I use my Apple Watch to make a payment, or do I need to use Google Pay instead?
+GEN | [transfer_fee_charged] | Orig: Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this. -> Aug: Hi, I've made a transfer, but the beneficiary's account was credited with a lower amount. I've since re-transferred the remaining difference. I believe there's an issue, could you please investigate this?
+GEN | [supported_cards_and_currencies] | Orig: can i use my mastercard to add money to my account -> Aug: Can I use my Visa card to fund my account?
+GEN | [card_payment_not_recognised] | Orig: Help! In the app there is a payment that I don't remember. -> Aug: I'm having trouble finding a recent payment in the app that I don't recognize.
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I only top-up digitally? Or could I use cash? -> Aug: Can I make a top-up using cash or cheque instead of digital payment?
+GEN | [supported_cards_and_currencies] | Orig: I'd like to use my American Express to place money into my account. -> Aug: I'd like to use my American Express card to fund my account.
+GEN | [declined_card_payment] | Orig: Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem? -> Aug: Why is my payment being declined? Is there an issue with my account or card information that's causing the payment to be rejected? Can you help me resolve this issue and get my payment processed successfully?
+GEN | [pending_cash_withdrawal] | Orig: How do I get my cash withdrawal to show? -> Aug: Why is my cash withdrawal still pending?
+GEN | [card_payment_not_recognised] | Orig: my statement contains an unknown payment -> Aug: my recent statement shows an unrecognised payment
+GEN | [cash_withdrawal_not_recognised] | Orig: Somebody is taking money out of my account without my approval in another town separate from me. Please place a freeze on my account until I can make it to the bank. -> Aug: I'm concerned that an unauthorized cash withdrawal is being made from my account in a different location, not where I am currently located. Can you please put a hold on my account until I can visit the bank in person?
+GEN | [transfer_fee_charged] | Orig: A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened? -> Aug: A transfer I initiated was short by a certain amount, and I need to send more funds to complete the transaction. What's the reason for the discrepancy?
+GEN | [change_pin] | Orig: I must change my PIN as soon as possible. -> Aug: I need to update my PIN immediately.
+GEN | [transfer_not_received_by_recipient] | Orig: How long does it take for transfers to be approved?  I sent funds to my girlfriend, and she says that she has not seen any approved funds in her account. -> Aug: I'm concerned about a transfer I initiated to my partner, but they haven't received the funds yet. Can you please help me understand the processing time for approved transfers?
+GEN | [supported_cards_and_currencies] | Orig: I wish to use my American Express to put funds into my account. -> Aug: We accept various payment methods, including American Express, to deposit funds into your account.
+GEN | [visa_or_mastercard] | Orig: I prefer Visa, can I get that instead? -> Aug: I'd rather use Mastercard, is that an option?
+GEN | [atm_support] | Orig: how do I know where I can get money withdrawn? -> Aug: Where can I find an ATM near me to withdraw cash?
+GEN | [lost_or_stolen_card] | Orig: My card has been stolen. I reported it with the police, but I need to report it with you as well. -> Aug: My credit card has been stolen and I've already filed a report with the authorities, but I'd like to inform you of the incident as well.
+GEN | [cancel_transfer] | Orig: I submitted a transaction but it was for the incorrect account. -> Aug: I mistakenly initiated a transfer to the wrong account and would like to cancel it.
+GEN | [declined_card_payment] | Orig: Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident. -> Aug: I'm sorry to hear that your recent payment attempt with your new card was declined. Can you please provide more details about the issue, such as the exact error message or the date and time of the declined transaction? This will help me assist you in resolving the issue and getting your payment processed successfully.
+GEN | [wrong_amount_of_cash_received] | Orig: I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now! -> Aug: I'm having an issue with the ATM and I'm not sure what to do. I requested 50 dollars, but it only dispensed 20. The screen showed I got 50, but I know that's not correct. I need help resolving this mistake and getting the correct amount.
+GEN | [age_limit] | Orig: Can I get an account for my son? -> Aug: Can I open an account for my minor child?
+GEN | [lost_or_stolen_card] | Orig: I need to order a new card as my other one was stolen. -> Aug: I need to report my card as stolen and request a replacement.
+GEN | [visa_or_mastercard] | Orig: I need a Visa card -> Aug: I require a Mastercard
+GEN | [card_not_working] | Orig: What's going on with my card? I've tried multiple times and it never goes through. -> Aug: My card isn't working, and I've tried swiping it multiple times, but it keeps getting declined.
+GEN | [top_up_limits] | Orig: Is there a top-up limit that I have to stay under during a given period of time? -> Aug: Is there a maximum amount I can increase my credit limit by within a specific timeframe?
+GEN | [top_up_reverted] | Orig: Do you support top ups? -> Aug: Can you perform a top-up reversal or reversal of a top-up transaction?
+GEN | [cash_withdrawal_charge] | Orig: Why is there a charge when I took out money? -> Aug: Why do I have to pay a fee for withdrawing cash from my account?
+GEN | [cash_withdrawal_charge] | Orig: I have been charged a fee for getting cash -> Aug: I was surprised to see a charge for the cash withdrawal
+GEN | [cash_withdrawal_charge] | Orig: I received a fee for obtaining cash, is this correct? -> Aug: I was charged a fee for withdrawing cash, is this a standard practice?
+GEN | [verify_source_of_funds] | Orig: Why do I need to verify my funds? -> Aug: We need to confirm the origin of your funds to ensure the transaction is legitimate and compliant with our banking regulations.
+VAL | [top_up_failed] | NO | Text: I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a few days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?
+VAL | [declined_card_payment] | YES | Text: Your payment was declined at the merchant's location
+VAL | [card_linking] | YES | Text: Can you assist me in reactivating my card?
+VAL | [beneficiary_not_allowed] | YES | Text: You are not authorized to add X as a beneficiary.
+VAL | [cancel_transfer] | NO | Text: I accidentally entered the wrong account information.
+VAL | [visa_or_mastercard] | YES | Text: Can I get the Visa or Mastercard?
+VAL | [visa_or_mastercard] | NO | Text: I won't be satisfied unless I get a Visa or Mastercard.
+VAL | [top_up_reverted] | YES | Text: reversal of top-up transaction
+VAL | [contactless_not_working] | YES | Text: I'm experiencing difficulties with contactless transactions, is it possible that my card is malfunctioning?
+VAL | [apple_pay_or_google_pay] | NO | Text: Can I use my Apple Watch to make a payment, or do I need to use Google Pay instead?
+VAL | [transfer_fee_charged] | NO | Text: Hi, I've made a transfer, but the beneficiary's account was credited with a lower amount. I've since re-transferred the remaining difference. I believe there's an issue, could you please investigate this?
+VAL | [supported_cards_and_currencies] | NO | Text: Can I use my Visa card to fund my account?
+VAL | [card_payment_not_recognised] | YES | Text: I'm having trouble finding a recent payment in the app that I don't recognize.
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Can I make a top-up using cash or cheque instead of digital payment?
+VAL | [supported_cards_and_currencies] | NO | Text: I'd like to use my American Express card to fund my account.
+VAL | [declined_card_payment] | YES | Text: Why is my payment being declined? Is there an issue with my account or card information that's causing the payment to be rejected? Can you help me resolve this issue and get my payment processed successfully?
+VAL | [pending_cash_withdrawal] | YES | Text: Why is my cash withdrawal still pending?
+VAL | [card_payment_not_recognised] | YES | Text: my recent statement shows an unrecognised payment
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I'm concerned that an unauthorized cash withdrawal is being made from my account in a different location, not where I am currently located. Can you please put a hold on my account until I can visit the bank in person?
+VAL | [transfer_fee_charged] | NO | Text: A transfer I initiated was short by a certain amount, and I need to send more funds to complete the transaction. What's the reason for the discrepancy?
+VAL | [change_pin] | YES | Text: I need to update my PIN immediately.
+VAL | [transfer_not_received_by_recipient] | NO | Text: I'm concerned about a transfer I initiated to my partner, but they haven't received the funds yet. Can you please help me understand the processing time for approved transfers?
+VAL | [supported_cards_and_currencies] | NO | Text: We accept various payment methods, including American Express, to deposit funds into your account.
+VAL | [visa_or_mastercard] | NO | Text: I'd rather use Mastercard, is that an option?
+VAL | [atm_support] | NO | Text: Where can I find an ATM near me to withdraw cash?
+VAL | [lost_or_stolen_card] | YES | Text: My credit card has been stolen and I've already filed a report with the authorities, but I'd like to inform you of the incident as well.
+VAL | [cancel_transfer] | YES | Text: I mistakenly initiated a transfer to the wrong account and would like to cancel it.
+VAL | [declined_card_payment] | NO | Text: I'm sorry to hear that your recent payment attempt with your new card was declined. Can you please provide more details about the issue, such as the exact error message or the date and time of the declined transaction? This will help me assist you in resolving the issue and getting your payment processed successfully.
+VAL | [wrong_amount_of_cash_received] | NO | Text: I'm having an issue with the ATM and I'm not sure what to do. I requested 50 dollars, but it only dispensed 20. The screen showed I got 50, but I know that's not correct. I need help resolving this mistake and getting the correct amount.
+VAL | [age_limit] | YES | Text: Can I open an account for my minor child?
+VAL | [lost_or_stolen_card] | YES | Text: I need to report my card as stolen and request a replacement.
+VAL | [visa_or_mastercard] | NO | Text: I require a Mastercard
+VAL | [card_not_working] | YES | Text: My card isn't working, and I've tried swiping it multiple times, but it keeps getting declined.
+VAL | [top_up_limits] | NO | Text: Is there a maximum amount I can increase my credit limit by within a specific timeframe?
+VAL | [top_up_reverted] | NO | Text: Can you perform a top-up reversal or reversal of a top-up transaction?
+VAL | [cash_withdrawal_charge] | YES | Text: Why do I have to pay a fee for withdrawing cash from my account?
+VAL | [cash_withdrawal_charge] | YES | Text: I was surprised to see a charge for the cash withdrawal
+VAL | [cash_withdrawal_charge] | YES | Text: I was charged a fee for withdrawing cash, is this a standard practice?
+VAL | [verify_source_of_funds] | YES | Text: We need to confirm the origin of your funds to ensure the transaction is legitimate and compliant with our banking regulations.

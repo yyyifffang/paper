@@ -1,0 +1,80 @@
+GEN | [card_arrival] | Orig: Is there a way I can get my card expedited? -> Aug: Can I request express shipping for my card delivery?
+GEN | [cash_withdrawal_not_recognised] | Orig: There are incorrect charges on my account, there was a WD that was made by someone else.  I still have my card though. -> Aug: We've noticed an unusual cash withdrawal on your account that doesn't match your card's activity. It seems someone else may have made a transaction using your card, and we'd like to investigate further.
+GEN | [declined_cash_withdrawal] | Orig: My ATM transaction was cancelled. -> Aug: Your recent cash withdrawal attempt was declined.
+GEN | [card_swallowed] | Orig: The ATM didnt return my card! -> Aug: The ATM swallowed my card!
+GEN | [order_physical_card] | Orig: Where are the cards transported to? -> Aug: How are physical cards shipped or delivered?
+GEN | [reverted_card_payment?] | Orig: Was my transaction reverted with my card? -> Aug: Did my card payment get reversed?
+GEN | [top_up_failed] | Orig: Fix my top up -> Aug: Resolve the failed top-up issue
+GEN | [lost_or_stolen_phone] | Orig: My phone was taken yesterday, is there something that I need to do? -> Aug: My phone was stolen yesterday, what steps can I take?
+GEN | [activate_my_card] | Orig: Can I use my new card? -> Aug: Can I activate my new card?
+GEN | [card_payment_wrong_exchange_rate] | Orig: I was charged the wing amount for an item. -> Aug: I was incorrectly charged the wrong exchange rate for an international transaction.
+GEN | [reverted_card_payment?] | Orig: I have cancelled payments to this card. -> Aug: I've reversed the payment made to this card.
+GEN | [beneficiary_not_allowed] | Orig: I need to transfer to my account and cant. -> Aug: I'm trying to transfer funds to my account, but the beneficiary is not allowed.
+GEN | [order_physical_card] | Orig: what steps do i do to get a real card -> Aug: How can I place an order for a physical credit/debit card?
+GEN | [card_not_working] | Orig: What can I do to make my physical card work? -> Aug: How can I get my physical card to function properly?
+GEN | [reverted_card_payment?] | Orig: Can you tell me why my card isn't letting me make purchases online? It's been 2 weeks I've been trying. -> Aug: Can you help me understand why my card payment was reversed or cancelled? I've been trying to make online purchases for the past two weeks, but it's not working.
+GEN | [top_up_reverted] | Orig: I didn't cancel my top-up. -> Aug: I didn't reverse my top-up.
+GEN | [pending_cash_withdrawal] | Orig: Why is the app showing a still pending message on a withdraw that has already been done? -> Aug: Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?
+GEN | [direct_debit_payment_not_recognised] | Orig: Is there a strict timeline regarding disputing transactions made on my account? I just noticed a fraudulent charge on a statement from a couple months ago. -> Aug: We've received a notification that a direct debit payment was not recognized on your account. Can you please clarify the details of the disputed transaction and provide any relevant documentation to facilitate an investigation?
+GEN | [extra_charge_on_statement] | Orig: I had a dollar charged to my account that's still pending and wanted to know what the charge is for? -> Aug: I recently noticed an additional charge on my statement and I'd like to know what it's for?
+GEN | [get_physical_card] | Orig: In regards to the PIN of the card? -> Aug: Regarding the physical card, can I assist you with obtaining a physical copy of the card?
+GEN | [pin_blocked] | Orig: My card got blocked, how do I reset? -> Aug: My PIN is blocked, how do I unblock it?
+GEN | [top_up_failed] | Orig: Hello, there was an error while attempting top-up with my card this morning. I was able to use the card two days ago with no issues. Could you please assist? -> Aug: Hello, I'm experiencing an issue with topping up my account using my card. I successfully used the same card two days ago, but today's attempt was unsuccessful. Could you help me resolve this issue?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will there be a charge when money is added to my account? -> Aug: Is there a fee associated with topping up my account balance via bank transfer?
+GEN | [pending_cash_withdrawal] | Orig: There is a withdrawal waiting. -> Aug: A pending cash withdrawal is awaiting processing.
+GEN | [order_physical_card] | Orig: Can I revive a physical card. -> Aug: Can I reorder a physical credit card?
+GEN | [order_physical_card] | Orig: can i order cards on the app -> Aug: can i place an order for a physical card through the app?
+GEN | [card_not_working] | Orig: Please help me!  My physical card isn't working right. -> Aug: Can you assist me? My physical credit card is not functioning properly.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I draw out money from your ATM during holidays, and was charged insanely. I wouldn't have done it, if i had a little sense about the shocking charges. -> Aug: I withdrew cash from your ATM during a holiday weekend and was surprised to see an incorrect exchange rate applied, resulting in an unexpected and excessive charge. If I had been aware of the rate beforehand, I would have reconsidered the transaction.
+GEN | [pending_cash_withdrawal] | Orig: Do you know when the withdrawal will show? -> Aug: Can you tell me when the pending cash withdrawal will be processed?
+GEN | [get_physical_card] | Orig: my pin hasn't arrived in the post! How do I cancel it or get a new one? -> Aug: My physical card has not been delivered. Can I request a new one or cancel the existing one?
+GEN | [extra_charge_on_statement] | Orig: Why is it showing that my account has been charged a dollar that is showing as pending? -> Aug: We noticed that there's an additional charge on your statement that's still pending. Can you please clarify what this extra charge is for?
+GEN | [wrong_amount_of_cash_received] | Orig: How can I get my money that I didn't get from the ATM? -> Aug: I was given the wrong amount of cash when I withdrew money from the ATM, can you help me resolve this issue?
+GEN | [card_about_to_expire] | Orig: Can I keep using my card after it expires? -> Aug: What happens if I continue to use my card after its expiration date?
+GEN | [card_acceptance] | Orig: Is my card denied anywhere? -> Aug: Is my credit card being declined anywhere?
+GEN | [get_physical_card] | Orig: What can you tell me about the card PIN? -> Aug: Can you provide me with information about the physical card's PIN?
+GEN | [direct_debit_payment_not_recognised] | Orig: I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain? -> Aug: I'm reviewing my account activity and noticed a transaction from a few weeks ago that I don't recognize. The merchant's name is unfamiliar to me, and I'm unsure if I authorized the payment. Could you please investigate and verify the transaction to confirm whether it was a legitimate charge?
+GEN | [failed_transfer] | Orig: My card couldn't complete a transfer, why? -> Aug: The transfer I initiated with my card was unsuccessful, what went wrong?
+GEN | [top_up_reverted] | Orig: i noticed that the funds were returned to my bank account. What happened? -> Aug: I see that the top-up was reverted back to my account. Can you please explain why this occurred?
+GEN | [wrong_amount_of_cash_received] | Orig: I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now! -> Aug: I'm having an issue with the ATM and I'm not sure what to do. I requested 50 dollars, but it only dispensed 20. The screen showed I got 50, but I know that's not correct. I need help resolving this mistake and getting the correct amount.
+GEN | [unable_to_verify_identity] | Orig: app malfunctioning, does not know its me -> Aug: We're experiencing technical difficulties with our system, and we're unable to confirm your identity.
+VAL | [card_arrival] | YES | Text: Can I request express shipping for my card delivery?
+VAL | [cash_withdrawal_not_recognised] | NO | Text: We've noticed an unusual cash withdrawal on your account that doesn't match your card's activity. It seems someone else may have made a transaction using your card, and we'd like to investigate further.
+VAL | [declined_cash_withdrawal] | YES | Text: Your recent cash withdrawal attempt was declined.
+VAL | [card_swallowed] | YES | Text: The ATM swallowed my card!
+VAL | [order_physical_card] | NO | Text: How are physical cards shipped or delivered?
+VAL | [reverted_card_payment?] | YES | Text: Did my card payment get reversed?
+VAL | [top_up_failed] | NO | Text: Resolve the failed top-up issue
+VAL | [lost_or_stolen_phone] | YES | Text: My phone was stolen yesterday, what steps can I take?
+VAL | [activate_my_card] | NO | Text: Can I activate my new card?
+VAL | [card_payment_wrong_exchange_rate] | NO | Text: I was incorrectly charged the wrong exchange rate for an international transaction.
+VAL | [reverted_card_payment?] | NO | Text: I've reversed the payment made to this card.
+VAL | [beneficiary_not_allowed] | YES | Text: I'm trying to transfer funds to my account, but the beneficiary is not allowed.
+VAL | [order_physical_card] | YES | Text: How can I place an order for a physical credit/debit card?
+VAL | [card_not_working] | NO | Text: How can I get my physical card to function properly?
+VAL | [reverted_card_payment?] | NO | Text: Can you help me understand why my card payment was reversed or cancelled? I've been trying to make online purchases for the past two weeks, but it's not working.
+VAL | [top_up_reverted] | NO | Text: I didn't reverse my top-up.
+VAL | [pending_cash_withdrawal] | YES | Text: Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've received a notification that a direct debit payment was not recognized on your account. Can you please clarify the details of the disputed transaction and provide any relevant documentation to facilitate an investigation?
+VAL | [extra_charge_on_statement] | YES | Text: I recently noticed an additional charge on my statement and I'd like to know what it's for?
+VAL | [get_physical_card] | NO | Text: Regarding the physical card, can I assist you with obtaining a physical copy of the card?
+VAL | [pin_blocked] | YES | Text: My PIN is blocked, how do I unblock it?
+VAL | [top_up_failed] | YES | Text: Hello, I'm experiencing an issue with topping up my account using my card. I successfully used the same card two days ago, but today's attempt was unsuccessful. Could you help me resolve this issue?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Is there a fee associated with topping up my account balance via bank transfer?
+VAL | [pending_cash_withdrawal] | YES | Text: A pending cash withdrawal is awaiting processing.
+VAL | [order_physical_card] | YES | Text: Can I reorder a physical credit card?
+VAL | [order_physical_card] | YES | Text: can i place an order for a physical card through the app?
+VAL | [card_not_working] | YES | Text: Can you assist me? My physical credit card is not functioning properly.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I withdrew cash from your ATM during a holiday weekend and was surprised to see an incorrect exchange rate applied, resulting in an unexpected and excessive charge. If I had been aware of the rate beforehand, I would have reconsidered the transaction.
+VAL | [pending_cash_withdrawal] | YES | Text: Can you tell me when the pending cash withdrawal will be processed?
+VAL | [get_physical_card] | NO | Text: My physical card has not been delivered. Can I request a new one or cancel the existing one?
+VAL | [extra_charge_on_statement] | NO | Text: We noticed that there's an additional charge on your statement that's still pending. Can you please clarify what this extra charge is for?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was given the wrong amount of cash when I withdrew money from the ATM, can you help me resolve this issue?
+VAL | [card_about_to_expire] | NO | Text: What happens if I continue to use my card after its expiration date?
+VAL | [card_acceptance] | NO | Text: Is my credit card being declined anywhere?
+VAL | [get_physical_card] | NO | Text: Can you provide me with information about the physical card's PIN?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: I'm reviewing my account activity and noticed a transaction from a few weeks ago that I don't recognize. The merchant's name is unfamiliar to me, and I'm unsure if I authorized the payment. Could you please investigate and verify the transaction to confirm whether it was a legitimate charge?
+VAL | [failed_transfer] | YES | Text: The transfer I initiated with my card was unsuccessful, what went wrong?
+VAL | [top_up_reverted] | YES | Text: I see that the top-up was reverted back to my account. Can you please explain why this occurred?
+VAL | [wrong_amount_of_cash_received] | NO | Text: I'm having an issue with the ATM and I'm not sure what to do. I requested 50 dollars, but it only dispensed 20. The screen showed I got 50, but I know that's not correct. I need help resolving this mistake and getting the correct amount.
+VAL | [unable_to_verify_identity] | YES | Text: We're experiencing technical difficulties with our system, and we're unable to confirm your identity.

@@ -1,0 +1,80 @@
+GEN | [getting_spare_card] | Orig: Can another family member hold a card for this account in addition to mine? -> Aug: Can I have a spare card issued for this account, in addition to the one I already have?
+GEN | [age_limit] | Orig: What about my children? -> Aug: What about my minors?
+GEN | [card_payment_fee_charged] | Orig: I had to pay money for paying with my card. -> Aug: I was charged a fee for using my credit card.
+GEN | [why_verify_identity] | Orig: Is it possible to go ahead and log in, although I have not been confirmed yet? -> Aug: Can I still access my account or complete the login process even though my identity has not been verified yet?
+GEN | [Refund_not_showing_up] | Orig: Why hasn't my return cleared my account? -> Aug: I'm still waiting to see the refund credited to my account.
+GEN | [failed_transfer] | Orig: The transger I tried to make failed. -> Aug: The transfer I attempted did not go through.
+GEN | [contactless_not_working] | Orig: Contactless payments need to be enabled for my card. -> Aug: Contactless payment functionality is currently unavailable for my card.
+GEN | [declined_transfer] | Orig: How do I make sure my transfer isn't goin to an unsupported merchant? -> Aug: To avoid a declined transfer, can you please ensure the merchant you're trying to transfer funds to is supported by our bank?
+GEN | [lost_or_stolen_card] | Orig: A fee shouldn't apply to me if my card was stolen. -> Aug: I don't think I should be charged a fee since my card was taken from me without my consent.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Balance is not up to date. -> Aug: Your account balance has not been updated after the recent bank transfer.
+GEN | [verify_top_up] | Orig: What is the verification process for my card? -> Aug: How do I verify my card for a top-up transaction?
+GEN | [topping_up_by_card] | Orig: How do I to up by card? -> Aug: How can I top up my account using my card?
+GEN | [card_payment_not_recognised] | Orig: I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card. -> Aug: I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card activity.
+GEN | [direct_debit_payment_not_recognised] | Orig: I would like to dispute a direct debit transaction -> Aug: I'm trying to resolve an issue with a direct debit payment that wasn't recognized by your system.
+GEN | [beneficiary_not_allowed] | Orig: what are the reasons why you would not be able to process a payment -> Aug: The reasons why we cannot process a payment may be due to the beneficiary not being allowed to receive funds.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: what are weekend rates for getting cash -> Aug: what is the exchange rate for a cash withdrawal on a weekend?
+GEN | [reverted_card_payment?] | Orig: Hello,  I noticed the money for an item I purchased online and have already received has been returned to my checking account. Was there an issue with the merchant accepting my payment? Or, possibly, with the bank sending it? -> Aug: Hello, I'm wondering if the payment for an item I bought online and already received has been reversed back to my checking account. Was there a problem with the merchant accepting my payment or the bank processing it?
+GEN | [card_about_to_expire] | Orig: Are there any express fees if i want my new card faster? -> Aug: Can I get my new card sooner, and are there any expedited shipping fees associated with it?
+GEN | [transfer_fee_charged] | Orig: I have used this account overseas recently. Has there been an increase in fees that I am unaware of? -> Aug: I've been making international transactions and I'm concerned about any potential fee changes I might have missed.
+GEN | [passcode_forgotten] | Orig: Please help me.  I don't know my code to get into the app. -> Aug: I've forgotten my passcode and need assistance to regain access to the app.
+GEN | [card_payment_not_recognised] | Orig: I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges? -> Aug: I'm trying to dispute a recent charge on my card. I didn't make the transaction, and I'd like to reverse the charges.
+GEN | [topping_up_by_card] | Orig: How do I transfer funds directly from my credit card? -> Aug: How can I add funds to my account using my credit card?
+GEN | [order_physical_card] | Orig: Do physical cards cost money? -> Aug: Are physical card orders subject to a fee?
+GEN | [getting_spare_card] | Orig: I would like to get additional physical cards at this time -> Aug: I would like to obtain extra physical cards now
+GEN | [verify_top_up] | Orig: Where do I find the verification code for the card I'm topping up? -> Aug: Can you please provide me with the verification code for the card I'm using to top up my account?
+GEN | [top_up_by_card_charge] | Orig: I am worried about fees for top up cards? -> Aug: I'm concerned about the charges associated with topping up my card.
+GEN | [card_payment_not_recognised] | Orig: I need to freeze my card. There are charges on there that i did not authorize. They've been coming out for a couple of days. Can i get this money back? -> Aug: I'm experiencing an issue with an unauthorized payment on my card. The charges started a few days ago and I'd like to dispute them. Can I get a refund for these unauthorized transactions?
+GEN | [card_payment_wrong_exchange_rate] | Orig: What is your exchange rate between UK pounds and Russian rubles for my last transaction -> Aug: What is the exchange rate used for my recent transaction between UK pounds and Russian rubles?
+GEN | [card_acceptance] | Orig: Is there anywhere I can't use my card? -> Aug: Are there any specific locations or merchants where my card is not accepted?
+GEN | [wrong_amount_of_cash_received] | Orig: I did not receive all of my cash back -> Aug: I was shortchanged on my cash withdrawal
+GEN | [direct_debit_payment_not_recognised] | Orig: There is a direct debit patentp that I haven't authorized. -> Aug: We have detected an unrecognised direct debit payment that was not initiated by you.
+GEN | [direct_debit_payment_not_recognised] | Orig: How long after I receive my statement can I dispute payments on it? -> Aug: We've noticed that a direct debit payment from your account hasn't been recognised. Can you please clarify the payment details and the date it was made, so we can assist you further?
+GEN | [transaction_charged_twice] | Orig: Can you explain the various transaction times shown on my statement? -> Aug: Can you clarify the reason behind the duplicate charges on my recent transaction?
+GEN | [reverted_card_payment?] | Orig: I just found out from the seller that my money didn't go through. I checked my account and it was deducted at first but now it's back in my account. Can you  please fix this for me quickly? -> Aug: I recently discovered that the payment I made didn't process successfully. Although it was initially debited from my account, it has since been reversed. Can you assist me in resolving this issue promptly?
+GEN | [reverted_card_payment?] | Orig: How come the money from the merchant appeared back into my account? -> Aug: Why did the payment from the merchant get reversed and credited back to my account?
+GEN | [pending_card_payment] | Orig: Why aren't my payment funds available to me? -> Aug: We've received your pending card payment, but it's still being processed. Can you please check with your bank to confirm the payment has been successfully authorized and cleared?
+GEN | [why_verify_identity] | Orig: Can we skip verifying? -> Aug: Can we waive the identity verification process?
+GEN | [transfer_not_received_by_recipient] | Orig: Where is my last money transaction -> Aug: I haven't received the funds from my recent transfer.
+GEN | [beneficiary_not_allowed] | Orig: I have been trying to exchange this for crypto but the app won't work could you please help me? -> Aug: I'm having trouble sending funds to a beneficiary who is not authorized to receive them, and I'm getting an error message. Can you assist me with this issue?
+GEN | [card_not_working] | Orig: My Netflix subscription says that there is an issue with my card information, but I thought everything was fine. Why would it be declined? -> Aug: I'm trying to make a purchase online, but my card is being declined, and the error message says it's due to an issue with my card information. Can you help me figure out what's going on?
+VAL | [getting_spare_card] | YES | Text: Can I have a spare card issued for this account, in addition to the one I already have?
+VAL | [age_limit] | YES | Text: What about my minors?
+VAL | [card_payment_fee_charged] | YES | Text: I was charged a fee for using my credit card.
+VAL | [why_verify_identity] | NO | Text: Can I still access my account or complete the login process even though my identity has not been verified yet?
+VAL | [Refund_not_showing_up] | YES | Text: I'm still waiting to see the refund credited to my account.
+VAL | [failed_transfer] | YES | Text: The transfer I attempted did not go through.
+VAL | [contactless_not_working] | NO | Text: Contactless payment functionality is currently unavailable for my card.
+VAL | [declined_transfer] | YES | Text: To avoid a declined transfer, can you please ensure the merchant you're trying to transfer funds to is supported by our bank?
+VAL | [lost_or_stolen_card] | YES | Text: I don't think I should be charged a fee since my card was taken from me without my consent.
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: Your account balance has not been updated after the recent bank transfer.
+VAL | [verify_top_up] | NO | Text: How do I verify my card for a top-up transaction?
+VAL | [topping_up_by_card] | YES | Text: How can I top up my account using my card?
+VAL | [card_payment_not_recognised] | NO | Text: I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card activity.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm trying to resolve an issue with a direct debit payment that wasn't recognized by your system.
+VAL | [beneficiary_not_allowed] | YES | Text: The reasons why we cannot process a payment may be due to the beneficiary not being allowed to receive funds.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | NO | Text: what is the exchange rate for a cash withdrawal on a weekend?
+VAL | [reverted_card_payment?] | YES | Text: Hello, I'm wondering if the payment for an item I bought online and already received has been reversed back to my checking account. Was there a problem with the merchant accepting my payment or the bank processing it?
+VAL | [card_about_to_expire] | NO | Text: Can I get my new card sooner, and are there any expedited shipping fees associated with it?
+VAL | [transfer_fee_charged] | NO | Text: I've been making international transactions and I'm concerned about any potential fee changes I might have missed.
+VAL | [passcode_forgotten] | YES | Text: I've forgotten my passcode and need assistance to regain access to the app.
+VAL | [card_payment_not_recognised] | NO | Text: I'm trying to dispute a recent charge on my card. I didn't make the transaction, and I'd like to reverse the charges.
+VAL | [topping_up_by_card] | YES | Text: How can I add funds to my account using my credit card?
+VAL | [order_physical_card] | YES | Text: Are physical card orders subject to a fee?
+VAL | [getting_spare_card] | YES | Text: I would like to obtain extra physical cards now
+VAL | [verify_top_up] | YES | Text: Can you please provide me with the verification code for the card I'm using to top up my account?
+VAL | [top_up_by_card_charge] | YES | Text: I'm concerned about the charges associated with topping up my card.
+VAL | [card_payment_not_recognised] | NO | Text: I'm experiencing an issue with an unauthorized payment on my card. The charges started a few days ago and I'd like to dispute them. Can I get a refund for these unauthorized transactions?
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: What is the exchange rate used for my recent transaction between UK pounds and Russian rubles?
+VAL | [card_acceptance] | YES | Text: Are there any specific locations or merchants where my card is not accepted?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was shortchanged on my cash withdrawal
+VAL | [direct_debit_payment_not_recognised] | YES | Text: We have detected an unrecognised direct debit payment that was not initiated by you.
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've noticed that a direct debit payment from your account hasn't been recognised. Can you please clarify the payment details and the date it was made, so we can assist you further?
+VAL | [transaction_charged_twice] | YES | Text: Can you clarify the reason behind the duplicate charges on my recent transaction?
+VAL | [reverted_card_payment?] | YES | Text: I recently discovered that the payment I made didn't process successfully. Although it was initially debited from my account, it has since been reversed. Can you assist me in resolving this issue promptly?
+VAL | [reverted_card_payment?] | YES | Text: Why did the payment from the merchant get reversed and credited back to my account?
+VAL | [pending_card_payment] | YES | Text: We've received your pending card payment, but it's still being processed. Can you please check with your bank to confirm the payment has been successfully authorized and cleared?
+VAL | [why_verify_identity] | NO | Text: Can we waive the identity verification process?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I haven't received the funds from my recent transfer.
+VAL | [beneficiary_not_allowed] | YES | Text: I'm having trouble sending funds to a beneficiary who is not authorized to receive them, and I'm getting an error message. Can you assist me with this issue?
+VAL | [card_not_working] | YES | Text: I'm trying to make a purchase online, but my card is being declined, and the error message says it's due to an issue with my card information. Can you help me figure out what's going on?

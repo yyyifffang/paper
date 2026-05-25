@@ -1,0 +1,78 @@
+GEN | [transfer_into_account] | Orig: Can I use my bank account to send me more money? -> Aug: Can I transfer funds from my bank account to add more money to it?
+GEN | [cash_withdrawal_charge] | Orig: Please help!  There was an extra fee when I got cash. -> Aug: Please assist me, I was charged an unexpected fee for the cash withdrawal.
+GEN | [cash_withdrawal_not_recognised] | Orig: i didnt put that money in my account -> Aug: i didn't make that deposit
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do I get charged if I get money? -> Aug: Will I be charged a fee for topping up my account via bank transfer?
+GEN | [top_up_by_cash_or_cheque] | Orig: Do you take checks? -> Aug: Can I make a payment by cheque?
+GEN | [transfer_timing] | Orig: When will the money be made available in my account? -> Aug: When can I expect the funds to be credited to my account?
+GEN | [top_up_by_cash_or_cheque] | Orig: I need a hand here, I need to top up cash. -> Aug: I'd like to replenish my account using cash.
+GEN | [topping_up_by_card] | Orig: How do i set up my credit card to send transfers? -> Aug: How can I link my credit card to make a payment or transfer funds?
+GEN | [wrong_amount_of_cash_received] | Orig: i did not get any money but still was charged -> Aug: i was shortchanged and still got billed
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Do you guys accept cash? Because i deposited some this morning and I can't see it in my account. -> Aug: I made a cash deposit this morning, but my account balance hasn't been updated yet. Can you help me with that?
+GEN | [automatic_top_up] | Orig: When the time is right will this automatically replenish my balance? -> Aug: Will this automatically top up my account balance when the time is suitable?
+GEN | [topping_up_by_card] | Orig: If I want a friend to top off my account, can they? -> Aug: If a friend wants to add funds to my account, can they do so using my debit/credit card?
+GEN | [pending_transfer] | Orig: I have an outgoing transfer -> Aug: I have a pending outgoing transfer
+GEN | [activate_my_card] | Orig: I tried activating my plug-in and it didn't piece of work -> Aug: I attempted to activate my card, but it didn't function properly
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Tell me why my balance did not change when I tranferred cash. -> Aug: I'd be happy to help you understand why your account balance wasn't updated after you made a recent transfer.
+GEN | [card_payment_not_recognised] | Orig: I did not charge my account for that transaction.  That's an error. -> Aug: The payment made with my card was not successfully processed. This is an unexpected issue.
+GEN | [reverted_card_payment?] | Orig: I tried to buy something online but my funds were transferred back to my account. What is happening? -> Aug: Why did the payment I made online get reversed and credited back to my account?
+GEN | [top_up_failed] | Orig: Why are you keeping my money from me by declining my card? What is going on? -> Aug: I'm trying to understand why my card was declined for the top-up, and I'm getting frustrated because I'm not getting the funds I need. Can you please help me resolve this issue?
+GEN | [transfer_into_account] | Orig: I need to deposit money to my account -> Aug: I would like to transfer funds into my account.
+GEN | [extra_charge_on_statement] | Orig: I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as "pending", it never changes, and now I'm thinking someone's hacked my account! -> Aug: I'm concerned about an unexpected charge that's been appearing on my statement. It's labeled as "pending" in the app, but the amount remains the same, and I'm worried that someone may have unauthorized access to my account.
+GEN | [top_up_by_card_charge] | Orig: Can I get information on topping up? -> Aug: How do I charge my card to top up my account?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: help my money isnt showing up -> Aug: my account balance isn't reflecting the recent bank transfer
+GEN | [cash_withdrawal_charge] | Orig: How come I got to pay to get my money from the ATM? -> Aug: Why do I have to pay a fee to withdraw cash from the ATM?
+GEN | [card_arrival] | Orig: Is my new bank card on the way and is there a way to track it? -> Aug: When can I expect my new bank card to arrive, and is there a tracking option available?
+GEN | [top_up_limits] | Orig: Is there any amount in which I would get cut off from topping up? -> Aug: Are there any specific limits or thresholds beyond which I would be restricted from increasing my account balance?
+GEN | [top_up_limits] | Orig: I need someone to assist me with explaining how much I can top-up. -> Aug: I require guidance on the maximum amount I can top up my limits.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Is there a cost to receive money? -> Aug: Are there any fees associated with receiving a bank transfer to top up my account?
+GEN | [topping_up_by_card] | Orig: Can I get my friends to add money to my account? -> Aug: Can I have someone else top up my account using their card?
+GEN | [card_swallowed] | Orig: I was removing a dollar amount from my account and now don't have access to my card. -> Aug: I accidentally swallowed my card while trying to remove a transaction from my account and now I'm unable to access it.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can third party fees affect a transfer? -> Aug: Are there any bank transfer fees associated with topping up my account?
+GEN | [top_up_by_cash_or_cheque] | Orig: Is there somewhere I can send a check to add to my account? -> Aug: Can I deposit a check to increase my account balance?
+GEN | [topping_up_by_card] | Orig: I cannot tell what my top up currently is. -> Aug: I'm not sure what my card balance is after the recent top-up.
+GEN | [cash_withdrawal_charge] | Orig: How much can I withdrawal in one month without incurring fees? -> Aug: What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?
+GEN | [pending_cash_withdrawal] | Orig: Hello, I'm having trouble with my card, I don't understand what's happening, I tried using the ATM machine earlier but it wasn't working but seems like the transactions is still in progress, can you cancel it for me? -> Aug: Hello, I'm having trouble with my card, I'm confused about the status of my withdrawal, I attempted to use the ATM earlier but it didn't go through, but it seems like the transaction is still pending, can you assist me in canceling it?
+GEN | [transfer_fee_charged] | Orig: Should I be seeing a fee applied for my money transfer? -> Aug: Why was a fee deducted from my transfer amount?
+GEN | [top_up_by_card_charge] | Orig: is it free to add money to my card -> Aug: is there a charge for topping up my card balance using my card?
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I fill up my gas tank using a check? -> Aug: How can I replenish my account balance using a cheque or cash?
+GEN | [transfer_fee_charged] | Orig: I make payments for my place abroad using this account and since i use it so frequently I was wondering why did the fees increase suddenly rather than decreasing? I would think customers like me should receive incentives for using your service -> Aug: I've been a regular user of this account for international transactions and I'm puzzled as to why the transfer fee was unexpectedly raised instead of being reduced, considering my loyalty and frequent usage. I'd expect some benefits for being a long-time customer like myself.
+GEN | [transfer_timing] | Orig: How long will I have to wait for my money to be in my account? -> Aug: When can I expect the funds to be available in my account?
+VAL | [transfer_into_account] | YES | Text: Can I transfer funds from my bank account to add more money to it?
+VAL | [cash_withdrawal_charge] | YES | Text: Please assist me, I was charged an unexpected fee for the cash withdrawal.
+VAL | [cash_withdrawal_not_recognised] | NO | Text: i didn't make that deposit
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Will I be charged a fee for topping up my account via bank transfer?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Can I make a payment by cheque?
+VAL | [transfer_timing] | YES | Text: When can I expect the funds to be credited to my account?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: I'd like to replenish my account using cash.
+VAL | [topping_up_by_card] | NO | Text: How can I link my credit card to make a payment or transfer funds?
+VAL | [wrong_amount_of_cash_received] | YES | Text: i was shortchanged and still got billed
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I made a cash deposit this morning, but my account balance hasn't been updated yet. Can you help me with that?
+VAL | [automatic_top_up] | YES | Text: Will this automatically top up my account balance when the time is suitable?
+VAL | [topping_up_by_card] | NO | Text: If a friend wants to add funds to my account, can they do so using my debit/credit card?
+VAL | [pending_transfer] | YES | Text: I have a pending outgoing transfer
+VAL | [activate_my_card] | YES | Text: I attempted to activate my card, but it didn't function properly
+VAL | [balance_not_updated_after_bank_transfer] | NO | Text: I'd be happy to help you understand why your account balance wasn't updated after you made a recent transfer.
+VAL | [card_payment_not_recognised] | YES | Text: The payment made with my card was not successfully processed. This is an unexpected issue.
+VAL | [reverted_card_payment?] | YES | Text: Why did the payment I made online get reversed and credited back to my account?
+VAL | [top_up_failed] | YES | Text: I'm trying to understand why my card was declined for the top-up, and I'm getting frustrated because I'm not getting the funds I need. Can you please help me resolve this issue?
+VAL | [transfer_into_account] | NO | Text: I would like to transfer funds into my account.
+VAL | [extra_charge_on_statement] | YES | Text: I'm concerned about an unexpected charge that's been appearing on my statement. It's labeled as "pending" in the app, but the amount remains the same, and I'm worried that someone may have unauthorized access to my account.
+VAL | [top_up_by_card_charge] | YES | Text: How do I charge my card to top up my account?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: my account balance isn't reflecting the recent bank transfer
+VAL | [cash_withdrawal_charge] | YES | Text: Why do I have to pay a fee to withdraw cash from the ATM?
+VAL | [card_arrival] | YES | Text: When can I expect my new bank card to arrive, and is there a tracking option available?
+VAL | [top_up_limits] | YES | Text: Are there any specific limits or thresholds beyond which I would be restricted from increasing my account balance?
+VAL | [top_up_limits] | YES | Text: I require guidance on the maximum amount I can top up my limits.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Are there any fees associated with receiving a bank transfer to top up my account?
+VAL | [topping_up_by_card] | YES | Text: Can I have someone else top up my account using their card?
+VAL | [card_swallowed] | NO | Text: I accidentally swallowed my card while trying to remove a transaction from my account and now I'm unable to access it.
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Are there any bank transfer fees associated with topping up my account?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Can I deposit a check to increase my account balance?
+VAL | [topping_up_by_card] | NO | Text: I'm not sure what my card balance is after the recent top-up.
+VAL | [cash_withdrawal_charge] | YES | Text: What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?
+VAL | [pending_cash_withdrawal] | YES | Text: Hello, I'm having trouble with my card, I'm confused about the status of my withdrawal, I attempted to use the ATM earlier but it didn't go through, but it seems like the transaction is still pending, can you assist me in canceling it?
+VAL | [transfer_fee_charged] | NO | Text: Why was a fee deducted from my transfer amount?
+VAL | [top_up_by_card_charge] | YES | Text: is there a charge for topping up my card balance using my card?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: How can I replenish my account balance using a cheque or cash?
+VAL | [transfer_fee_charged] | NO | Text: I've been a regular user of this account for international transactions and I'm puzzled as to why the transfer fee was unexpectedly raised instead of being reduced, considering my loyalty and frequent usage. I'd expect some benefits for being a long-time customer like myself.
+VAL | [transfer_timing] | YES | Text: When can I expect the funds to be available in my account?

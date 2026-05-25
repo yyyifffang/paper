@@ -1,0 +1,776 @@
+Logging started: /root/paper/BANKING/Ghost_Tracking_BAAI/20260523_131333/experiment_log_Banking77_Refactored_20260523_131333.txt
+Loading dataset: PolyAI/banking77 (Simulated Long-Tail)
+
+=== Encoding with BAAI/bge-large-en-v1.5 ===
+
+=== Dataset Partition Summary ===
+Random seed: 42
+Head classes (0-9): 10 classes x 15 seed samples
+Tail classes (10-76): 67 classes x 2 seed samples
+Seed set size: 284
+Unlabeled pool size: 8179
+Test set size: 1540
+=================================
+
+
+=== Cost Configuration ===
+CostConfig(human_label_unit_cost=1.0, llm_generate_unit_cost=0.03, llm_verify_unit_cost=0.03, synthetic_processing_unit_cost=0.005, tail_weight_beta=0.35, lambda_base=0.2, lambda_growth_alpha=2.0, cost_budget=1844)
+==========================
+
+
+============================================================
+PASSIVE LEARNING EXPERIMENT (Random)
+============================================================
+
+--- Iteration 1 ---
+Test - F1: 0.0310, Accuracy: 0.1286
+
+--- Iteration 2 ---
+Test - F1: 0.0316, Accuracy: 0.1286
+
+--- Iteration 3 ---
+Test - F1: 0.0326, Accuracy: 0.1286
+
+--- Iteration 4 ---
+Test - F1: 0.0563, Accuracy: 0.1487
+
+--- Iteration 5 ---
+Test - F1: 0.0807, Accuracy: 0.1740
+
+--- Iteration 6 ---
+Test - F1: 0.1185, Accuracy: 0.2065
+
+--- Iteration 7 ---
+Test - F1: 0.1690, Accuracy: 0.2519
+
+--- Iteration 8 ---
+Test - F1: 0.1924, Accuracy: 0.2779
+
+--- Iteration 9 ---
+Test - F1: 0.2255, Accuracy: 0.3078
+
+--- Iteration 10 ---
+Test - F1: 0.2860, Accuracy: 0.3565
+
+--- Iteration 11 ---
+Test - F1: 0.3242, Accuracy: 0.4000
+
+--- Iteration 12 ---
+Test - F1: 0.3607, Accuracy: 0.4390
+
+--- Iteration 13 ---
+Test - F1: 0.4162, Accuracy: 0.4838
+
+--- Iteration 14 ---
+Test - F1: 0.4366, Accuracy: 0.5013
+
+--- Iteration 15 ---
+Test - F1: 0.4480, Accuracy: 0.5104
+
+--- Iteration 16 ---
+Test - F1: 0.4746, Accuracy: 0.5383
+
+--- Iteration 17 ---
+Test - F1: 0.5008, Accuracy: 0.5649
+
+--- Iteration 18 ---
+Test - F1: 0.5169, Accuracy: 0.5844
+
+--- Iteration 19 ---
+Test - F1: 0.5372, Accuracy: 0.6058
+
+--- Iteration 20 ---
+Test - F1: 0.5450, Accuracy: 0.6123
+
+--- Iteration 21 ---
+Test - F1: 0.5519, Accuracy: 0.6195
+
+--- Iteration 22 ---
+Test - F1: 0.5488, Accuracy: 0.6188
+
+--- Iteration 23 ---
+Test - F1: 0.5812, Accuracy: 0.6461
+
+--- Iteration 24 ---
+Test - F1: 0.5816, Accuracy: 0.6494
+
+[Stopping Auto-Triggered by ROI]
+  Reason: No meaningful utility improvement in the last 5 iterations.
+  Best previous utility: 0.322777
+  Recent utility: [0.315856, 0.307789, 0.289477, 0.306379, 0.290221]
+  min_delta: 0.002
+*** [Ghost Tracking] ROI stopping triggered at Iteration 24. Continuing to max iterations. ***
+
+--- Iteration 25 ---
+Test - F1: 0.5948, Accuracy: 0.6610
+
+--- Iteration 26 ---
+Test - F1: 0.6023, Accuracy: 0.6662
+
+--- Iteration 27 ---
+Test - F1: 0.6224, Accuracy: 0.6812
+
+--- Iteration 28 ---
+Test - F1: 0.6538, Accuracy: 0.7078
+
+--- Iteration 29 ---
+Test - F1: 0.6730, Accuracy: 0.7234
+
+--- Iteration 30 ---
+Test - F1: 0.6806, Accuracy: 0.7331
+
+--- Iteration 31 ---
+Test - F1: 0.6938, Accuracy: 0.7448
+
+--- Iteration 32 ---
+Test - F1: 0.6953, Accuracy: 0.7468
+
+--- Iteration 33 ---
+Test - F1: 0.7001, Accuracy: 0.7506
+
+--- Iteration 34 ---
+Test - F1: 0.6989, Accuracy: 0.7500
+
+--- Iteration 35 ---
+Test - F1: 0.7059, Accuracy: 0.7539
+
+--- Iteration 36 ---
+Test - F1: 0.7096, Accuracy: 0.7584
+
+--- Iteration 37 ---
+Test - F1: 0.7225, Accuracy: 0.7656
+
+--- Iteration 38 ---
+Test - F1: 0.7245, Accuracy: 0.7675
+
+--- Iteration 39 ---
+Test - F1: 0.7354, Accuracy: 0.7760
+
+--- Iteration 40 ---
+Test - F1: 0.7345, Accuracy: 0.7740
+
+============================================================
+ACTIVE LEARNING BASELINE (Warmup + Entropy)
+============================================================
+
+--- Iteration 1 ---
+Test - F1: 0.0310, Accuracy: 0.1286
+
+--- Iteration 2 ---
+Test - F1: 0.0316, Accuracy: 0.1286
+
+--- Iteration 3 ---
+Test - F1: 0.0326, Accuracy: 0.1286
+
+--- Iteration 4 ---
+Test - F1: 0.0557, Accuracy: 0.1623
+
+--- Iteration 5 ---
+Test - F1: 0.1132, Accuracy: 0.2201
+
+--- Iteration 6 ---
+Test - F1: 0.1317, Accuracy: 0.2377
+
+--- Iteration 7 ---
+Test - F1: 0.1787, Accuracy: 0.2799
+
+--- Iteration 8 ---
+Test - F1: 0.2383, Accuracy: 0.3312
+
+--- Iteration 9 ---
+Test - F1: 0.2825, Accuracy: 0.3727
+
+--- Iteration 10 ---
+Test - F1: 0.3086, Accuracy: 0.3942
+
+--- Iteration 11 ---
+Test - F1: 0.3572, Accuracy: 0.4403
+
+--- Iteration 12 ---
+Test - F1: 0.4070, Accuracy: 0.4838
+
+--- Iteration 13 ---
+Test - F1: 0.4469, Accuracy: 0.5195
+
+--- Iteration 14 ---
+Test - F1: 0.4750, Accuracy: 0.5435
+
+--- Iteration 15 ---
+Test - F1: 0.5086, Accuracy: 0.5682
+
+--- Iteration 16 ---
+Test - F1: 0.5117, Accuracy: 0.5747
+
+--- Iteration 17 ---
+Test - F1: 0.5313, Accuracy: 0.5929
+
+--- Iteration 18 ---
+Test - F1: 0.5579, Accuracy: 0.6214
+
+--- Iteration 19 ---
+Test - F1: 0.6002, Accuracy: 0.6532
+
+--- Iteration 20 ---
+Test - F1: 0.6306, Accuracy: 0.6773
+
+--- Iteration 21 ---
+Test - F1: 0.6381, Accuracy: 0.6812
+
+--- Iteration 22 ---
+Test - F1: 0.6831, Accuracy: 0.7175
+
+--- Iteration 23 ---
+Test - F1: 0.6998, Accuracy: 0.7312
+
+--- Iteration 24 ---
+Test - F1: 0.7375, Accuracy: 0.7643
+
+--- Iteration 25 ---
+Test - F1: 0.7332, Accuracy: 0.7591
+
+--- Iteration 26 ---
+Test - F1: 0.7346, Accuracy: 0.7591
+
+--- Iteration 27 ---
+Test - F1: 0.7503, Accuracy: 0.7734
+
+--- Iteration 28 ---
+Test - F1: 0.7570, Accuracy: 0.7779
+
+--- Iteration 29 ---
+Test - F1: 0.7534, Accuracy: 0.7753
+
+[Stopping Auto-Triggered by ROI]
+  Reason: No meaningful utility improvement in the last 5 iterations.
+  Best previous utility: 0.447196
+  Recent utility: [0.426558, 0.411054, 0.409394, 0.39832, 0.375825]
+  min_delta: 0.002
+*** [Ghost Tracking] ROI stopping triggered at Iteration 29. Continuing to max iterations. ***
+
+--- Iteration 30 ---
+Test - F1: 0.7587, Accuracy: 0.7812
+
+--- Iteration 31 ---
+Test - F1: 0.7704, Accuracy: 0.7909
+
+--- Iteration 32 ---
+Test - F1: 0.7848, Accuracy: 0.8019
+
+--- Iteration 33 ---
+Test - F1: 0.7894, Accuracy: 0.8058
+
+--- Iteration 34 ---
+Test - F1: 0.8114, Accuracy: 0.8266
+
+--- Iteration 35 ---
+Test - F1: 0.8159, Accuracy: 0.8312
+
+--- Iteration 36 ---
+Test - F1: 0.8236, Accuracy: 0.8377
+
+--- Iteration 37 ---
+Test - F1: 0.8227, Accuracy: 0.8364
+
+--- Iteration 38 ---
+Test - F1: 0.8276, Accuracy: 0.8403
+
+--- Iteration 39 ---
+Test - F1: 0.8372, Accuracy: 0.8494
+
+--- Iteration 40 ---
+Test - F1: 0.8371, Accuracy: 0.8506
+
+============================================================
+PROPOSED FRAMEWORK (Generate-only)
+============================================================
+
+--- Iteration 1 ---
+Performance Summary | Macro F1: 0.0310 | Head Macro F1 (0-9): 0.2389 | Tail Macro F1 (10-76): 0.0000
+
+Loading generator model: meta-llama/Meta-Llama-3-8B-Instruct
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 2 ---
+Performance Summary | Macro F1: 0.0686 | Head Macro F1 (0-9): 0.2615 | Tail Macro F1 (10-76): 0.0398
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 3 ---
+Performance Summary | Macro F1: 0.1402 | Head Macro F1 (0-9): 0.2795 | Tail Macro F1 (10-76): 0.1195
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 4 ---
+Performance Summary | Macro F1: 0.1215 | Head Macro F1 (0-9): 0.3227 | Tail Macro F1 (10-76): 0.0915
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 5 ---
+Performance Summary | Macro F1: 0.1689 | Head Macro F1 (0-9): 0.4076 | Tail Macro F1 (10-76): 0.1333
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 6 ---
+Performance Summary | Macro F1: 0.2417 | Head Macro F1 (0-9): 0.4591 | Tail Macro F1 (10-76): 0.2092
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 7 ---
+Performance Summary | Macro F1: 0.2967 | Head Macro F1 (0-9): 0.5431 | Tail Macro F1 (10-76): 0.2599
+Moving generator back to GPU
+Accepted without validator: 37/37 (Rate: 1.00)
+
+--- Iteration 8 ---
+Performance Summary | Macro F1: 0.3698 | Head Macro F1 (0-9): 0.5914 | Tail Macro F1 (10-76): 0.3368
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 9 ---
+Performance Summary | Macro F1: 0.4734 | Head Macro F1 (0-9): 0.6306 | Tail Macro F1 (10-76): 0.4499
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 10 ---
+Performance Summary | Macro F1: 0.5129 | Head Macro F1 (0-9): 0.6990 | Tail Macro F1 (10-76): 0.4851
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 11 ---
+Performance Summary | Macro F1: 0.5409 | Head Macro F1 (0-9): 0.7324 | Tail Macro F1 (10-76): 0.5124
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 12 ---
+Performance Summary | Macro F1: 0.5689 | Head Macro F1 (0-9): 0.7715 | Tail Macro F1 (10-76): 0.5386
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 13 ---
+Performance Summary | Macro F1: 0.6093 | Head Macro F1 (0-9): 0.8175 | Tail Macro F1 (10-76): 0.5782
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 14 ---
+Performance Summary | Macro F1: 0.5915 | Head Macro F1 (0-9): 0.8212 | Tail Macro F1 (10-76): 0.5572
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 15 ---
+Performance Summary | Macro F1: 0.6418 | Head Macro F1 (0-9): 0.8523 | Tail Macro F1 (10-76): 0.6104
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 16 ---
+Performance Summary | Macro F1: 0.6905 | Head Macro F1 (0-9): 0.8690 | Tail Macro F1 (10-76): 0.6638
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 17 ---
+Performance Summary | Macro F1: 0.7083 | Head Macro F1 (0-9): 0.8599 | Tail Macro F1 (10-76): 0.6856
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 18 ---
+Performance Summary | Macro F1: 0.7320 | Head Macro F1 (0-9): 0.8856 | Tail Macro F1 (10-76): 0.7091
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 19 ---
+Performance Summary | Macro F1: 0.7379 | Head Macro F1 (0-9): 0.8810 | Tail Macro F1 (10-76): 0.7165
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 20 ---
+Performance Summary | Macro F1: 0.7394 | Head Macro F1 (0-9): 0.8790 | Tail Macro F1 (10-76): 0.7186
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 21 ---
+Performance Summary | Macro F1: 0.7544 | Head Macro F1 (0-9): 0.8888 | Tail Macro F1 (10-76): 0.7343
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 22 ---
+Performance Summary | Macro F1: 0.7709 | Head Macro F1 (0-9): 0.9033 | Tail Macro F1 (10-76): 0.7511
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 23 ---
+Performance Summary | Macro F1: 0.7856 | Head Macro F1 (0-9): 0.9075 | Tail Macro F1 (10-76): 0.7674
+
+[Stopping Auto-Triggered by ROI]
+  Reason: No meaningful utility improvement in the last 5 iterations.
+  Best previous utility: 0.520427
+  Recent utility: [0.512745, 0.499931, 0.500166, 0.501279, 0.500678]
+  min_delta: 0.002
+*** [Ghost Tracking] ROI stopping triggered at Iteration 23. Continuing to max iterations. ***
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 24 ---
+Performance Summary | Macro F1: 0.8182 | Head Macro F1 (0-9): 0.9174 | Tail Macro F1 (10-76): 0.8034
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 25 ---
+Performance Summary | Macro F1: 0.8142 | Head Macro F1 (0-9): 0.9208 | Tail Macro F1 (10-76): 0.7982
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 26 ---
+Performance Summary | Macro F1: 0.8196 | Head Macro F1 (0-9): 0.9181 | Tail Macro F1 (10-76): 0.8049
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 27 ---
+Performance Summary | Macro F1: 0.8229 | Head Macro F1 (0-9): 0.9179 | Tail Macro F1 (10-76): 0.8087
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 28 ---
+Performance Summary | Macro F1: 0.8379 | Head Macro F1 (0-9): 0.9160 | Tail Macro F1 (10-76): 0.8263
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 29 ---
+Performance Summary | Macro F1: 0.8454 | Head Macro F1 (0-9): 0.9230 | Tail Macro F1 (10-76): 0.8338
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 30 ---
+Performance Summary | Macro F1: 0.8587 | Head Macro F1 (0-9): 0.9289 | Tail Macro F1 (10-76): 0.8482
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 31 ---
+Performance Summary | Macro F1: 0.8532 | Head Macro F1 (0-9): 0.9355 | Tail Macro F1 (10-76): 0.8409
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 32 ---
+Performance Summary | Macro F1: 0.8647 | Head Macro F1 (0-9): 0.9455 | Tail Macro F1 (10-76): 0.8526
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 33 ---
+Performance Summary | Macro F1: 0.8784 | Head Macro F1 (0-9): 0.9448 | Tail Macro F1 (10-76): 0.8685
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 34 ---
+Performance Summary | Macro F1: 0.8779 | Head Macro F1 (0-9): 0.9429 | Tail Macro F1 (10-76): 0.8681
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 35 ---
+Performance Summary | Macro F1: 0.8741 | Head Macro F1 (0-9): 0.9444 | Tail Macro F1 (10-76): 0.8637
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 36 ---
+Performance Summary | Macro F1: 0.8742 | Head Macro F1 (0-9): 0.9399 | Tail Macro F1 (10-76): 0.8644
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 37 ---
+Performance Summary | Macro F1: 0.8805 | Head Macro F1 (0-9): 0.9425 | Tail Macro F1 (10-76): 0.8712
+Moving generator back to GPU
+Accepted without validator: 39/39 (Rate: 1.00)
+
+--- Iteration 38 ---
+Performance Summary | Macro F1: 0.8758 | Head Macro F1 (0-9): 0.9448 | Tail Macro F1 (10-76): 0.8655
+
+[Stopping Auto-Triggered by T-Test]
+  Reason: No statistically significant improvement.
+  P-value: 0.1325 >= 0.05
+*** [Ghost Tracking] Statistical stopping triggered at Iteration 38. Continuing to max iterations. ***
+Moving generator back to GPU
+Accepted without validator: 40/40 (Rate: 1.00)
+
+--- Iteration 39 ---
+Performance Summary | Macro F1: 0.8859 | Head Macro F1 (0-9): 0.9529 | Tail Macro F1 (10-76): 0.8759
+Moving generator back to GPU
+Accepted without validator: 38/38 (Rate: 1.00)
+
+--- Iteration 40 ---
+Performance Summary | Macro F1: 0.8879 | Head Macro F1 (0-9): 0.9453 | Tail Macro F1 (10-76): 0.8793
+
+============================================================
+PROPOSED FRAMEWORK (Generate-and-Verify)
+============================================================
+
+--- Iteration 1 ---
+Performance Summary | Macro F1: 0.0310 | Head Macro F1 (0-9): 0.2389 | Tail Macro F1 (10-76): 0.0000
+Moving generator back to GPU
+
+Loading validator model: Qwen/Qwen2.5-7B-Instruct
+Accepted: 29/38 (Rate: 0.76)
+
+--- Iteration 2 ---
+Performance Summary | Macro F1: 0.0608 | Head Macro F1 (0-9): 0.2524 | Tail Macro F1 (10-76): 0.0322
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 29/39 (Rate: 0.74)
+
+--- Iteration 3 ---
+Performance Summary | Macro F1: 0.1063 | Head Macro F1 (0-9): 0.2590 | Tail Macro F1 (10-76): 0.0835
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 30/40 (Rate: 0.75)
+
+--- Iteration 4 ---
+Performance Summary | Macro F1: 0.1019 | Head Macro F1 (0-9): 0.3042 | Tail Macro F1 (10-76): 0.0717
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 19/38 (Rate: 0.50)
+
+--- Iteration 5 ---
+Performance Summary | Macro F1: 0.1518 | Head Macro F1 (0-9): 0.3494 | Tail Macro F1 (10-76): 0.1223
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 28/40 (Rate: 0.70)
+
+--- Iteration 6 ---
+Performance Summary | Macro F1: 0.1992 | Head Macro F1 (0-9): 0.3956 | Tail Macro F1 (10-76): 0.1699
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 24/38 (Rate: 0.63)
+
+--- Iteration 7 ---
+Performance Summary | Macro F1: 0.2382 | Head Macro F1 (0-9): 0.4657 | Tail Macro F1 (10-76): 0.2043
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 25/38 (Rate: 0.66)
+
+--- Iteration 8 ---
+Performance Summary | Macro F1: 0.3042 | Head Macro F1 (0-9): 0.5215 | Tail Macro F1 (10-76): 0.2717
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 29/39 (Rate: 0.74)
+
+--- Iteration 9 ---
+Performance Summary | Macro F1: 0.3572 | Head Macro F1 (0-9): 0.5438 | Tail Macro F1 (10-76): 0.3294
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 33/39 (Rate: 0.85)
+
+--- Iteration 10 ---
+Performance Summary | Macro F1: 0.4137 | Head Macro F1 (0-9): 0.6216 | Tail Macro F1 (10-76): 0.3827
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 20/40 (Rate: 0.50)
+
+--- Iteration 11 ---
+Performance Summary | Macro F1: 0.4592 | Head Macro F1 (0-9): 0.6779 | Tail Macro F1 (10-76): 0.4266
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 25/37 (Rate: 0.68)
+
+--- Iteration 12 ---
+Performance Summary | Macro F1: 0.5145 | Head Macro F1 (0-9): 0.7122 | Tail Macro F1 (10-76): 0.4850
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 29/40 (Rate: 0.72)
+
+--- Iteration 13 ---
+Performance Summary | Macro F1: 0.5504 | Head Macro F1 (0-9): 0.7247 | Tail Macro F1 (10-76): 0.5243
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 25/39 (Rate: 0.64)
+
+--- Iteration 14 ---
+Performance Summary | Macro F1: 0.5727 | Head Macro F1 (0-9): 0.7502 | Tail Macro F1 (10-76): 0.5462
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 21/39 (Rate: 0.54)
+
+--- Iteration 15 ---
+Performance Summary | Macro F1: 0.6342 | Head Macro F1 (0-9): 0.7680 | Tail Macro F1 (10-76): 0.6143
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 26/39 (Rate: 0.67)
+
+--- Iteration 16 ---
+Performance Summary | Macro F1: 0.6834 | Head Macro F1 (0-9): 0.7950 | Tail Macro F1 (10-76): 0.6667
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 27/39 (Rate: 0.69)
+
+--- Iteration 17 ---
+Performance Summary | Macro F1: 0.6928 | Head Macro F1 (0-9): 0.8333 | Tail Macro F1 (10-76): 0.6719
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 22/40 (Rate: 0.55)
+
+--- Iteration 18 ---
+Performance Summary | Macro F1: 0.7053 | Head Macro F1 (0-9): 0.8220 | Tail Macro F1 (10-76): 0.6878
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 27/38 (Rate: 0.71)
+
+--- Iteration 19 ---
+Performance Summary | Macro F1: 0.7223 | Head Macro F1 (0-9): 0.8421 | Tail Macro F1 (10-76): 0.7044
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 28/39 (Rate: 0.72)
+
+--- Iteration 20 ---
+Performance Summary | Macro F1: 0.7494 | Head Macro F1 (0-9): 0.8730 | Tail Macro F1 (10-76): 0.7309
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 28/38 (Rate: 0.74)
+
+--- Iteration 21 ---
+Performance Summary | Macro F1: 0.7377 | Head Macro F1 (0-9): 0.8754 | Tail Macro F1 (10-76): 0.7172
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 30/36 (Rate: 0.83)
+
+--- Iteration 22 ---
+Performance Summary | Macro F1: 0.7540 | Head Macro F1 (0-9): 0.8802 | Tail Macro F1 (10-76): 0.7352
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 24/38 (Rate: 0.63)
+
+--- Iteration 23 ---
+Performance Summary | Macro F1: 0.7714 | Head Macro F1 (0-9): 0.8923 | Tail Macro F1 (10-76): 0.7534
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 19/39 (Rate: 0.49)
+
+--- Iteration 24 ---
+Performance Summary | Macro F1: 0.7846 | Head Macro F1 (0-9): 0.8992 | Tail Macro F1 (10-76): 0.7675
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 25/39 (Rate: 0.64)
+
+--- Iteration 25 ---
+Performance Summary | Macro F1: 0.7902 | Head Macro F1 (0-9): 0.8949 | Tail Macro F1 (10-76): 0.7746
+
+[Stopping Auto-Triggered by ROI]
+  Reason: No meaningful utility improvement in the last 5 iterations.
+  Best previous utility: 0.506184
+  Recent utility: [0.478398, 0.47951, 0.480896, 0.477657, 0.466613]
+  min_delta: 0.002
+*** [Ghost Tracking] ROI stopping triggered at Iteration 25. Continuing to max iterations. ***
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 28/39 (Rate: 0.72)
+
+--- Iteration 26 ---
+Performance Summary | Macro F1: 0.8019 | Head Macro F1 (0-9): 0.8962 | Tail Macro F1 (10-76): 0.7879
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 29/39 (Rate: 0.74)
+
+--- Iteration 27 ---
+Performance Summary | Macro F1: 0.8176 | Head Macro F1 (0-9): 0.9204 | Tail Macro F1 (10-76): 0.8023
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 26/39 (Rate: 0.67)
+
+--- Iteration 28 ---
+Performance Summary | Macro F1: 0.8240 | Head Macro F1 (0-9): 0.9138 | Tail Macro F1 (10-76): 0.8106
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 20/40 (Rate: 0.50)
+
+--- Iteration 29 ---
+Performance Summary | Macro F1: 0.8324 | Head Macro F1 (0-9): 0.9201 | Tail Macro F1 (10-76): 0.8192
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 30/39 (Rate: 0.77)
+
+--- Iteration 30 ---
+Performance Summary | Macro F1: 0.8393 | Head Macro F1 (0-9): 0.9224 | Tail Macro F1 (10-76): 0.8269
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 26/39 (Rate: 0.67)
+
+--- Iteration 31 ---
+Performance Summary | Macro F1: 0.8382 | Head Macro F1 (0-9): 0.9245 | Tail Macro F1 (10-76): 0.8253
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 25/37 (Rate: 0.68)
+
+--- Iteration 32 ---
+Performance Summary | Macro F1: 0.8403 | Head Macro F1 (0-9): 0.9353 | Tail Macro F1 (10-76): 0.8261
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 29/40 (Rate: 0.72)
+
+--- Iteration 33 ---
+Performance Summary | Macro F1: 0.8586 | Head Macro F1 (0-9): 0.9370 | Tail Macro F1 (10-76): 0.8469
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 21/39 (Rate: 0.54)
+
+--- Iteration 34 ---
+Performance Summary | Macro F1: 0.8618 | Head Macro F1 (0-9): 0.9389 | Tail Macro F1 (10-76): 0.8502
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 24/40 (Rate: 0.60)
+
+--- Iteration 35 ---
+Performance Summary | Macro F1: 0.8706 | Head Macro F1 (0-9): 0.9422 | Tail Macro F1 (10-76): 0.8599
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 30/40 (Rate: 0.75)
+
+--- Iteration 36 ---
+Performance Summary | Macro F1: 0.8831 | Head Macro F1 (0-9): 0.9444 | Tail Macro F1 (10-76): 0.8740
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 27/39 (Rate: 0.69)
+
+--- Iteration 37 ---
+Performance Summary | Macro F1: 0.8815 | Head Macro F1 (0-9): 0.9475 | Tail Macro F1 (10-76): 0.8717
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 24/39 (Rate: 0.62)
+
+--- Iteration 38 ---
+Performance Summary | Macro F1: 0.8827 | Head Macro F1 (0-9): 0.9427 | Tail Macro F1 (10-76): 0.8737
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 24/38 (Rate: 0.63)
+
+--- Iteration 39 ---
+Performance Summary | Macro F1: 0.8848 | Head Macro F1 (0-9): 0.9422 | Tail Macro F1 (10-76): 0.8762
+Moving generator back to GPU
+Moving validator back to GPU
+Accepted: 26/40 (Rate: 0.65)
+
+--- Iteration 40 ---
+Performance Summary | Macro F1: 0.8885 | Head Macro F1 (0-9): 0.9476 | Tail Macro F1 (10-76): 0.8797
+Saved f1 curve: /root/paper/BANKING/Ghost_Tracking_BAAI/20260523_131333/f1_curve_20260523_131333.png
+Saved utility curve: /root/paper/BANKING/Ghost_Tracking_BAAI/20260523_131333/utility_curve_20260523_131333.png
+Saved Head/Tail comparison: /root/paper/BANKING/Ghost_Tracking_BAAI/20260523_131333/head_tail_f1_comparison_20260523_131333.png
+Saved confusion matrix comparison: /root/paper/BANKING/Ghost_Tracking_BAAI/20260523_131333/confusion_matrix_comparison_20260523_131333.png
+
+================================================================================
+ROI SUMMARY
+================================================================================
+          Framework  Max_Utility  Max_Utility_Iteration  Final_Utility  Final_Performance_Score  Final_Normalized_Cost  Final_Total_Cost  Final_Human_Labels  Final_LLM_Generation_Requests  Final_LLM_Valid_Generated  Final_LLM_Verification_Requests  Final_Synthetic_Accepted
+            Passive     0.322777                     19       0.129224                 0.729224               1.000000          1844.000                1844                              0                          0                                0                         0
+             Active     0.447196                     24       0.233224                 0.833224               1.000000          1844.000                1844                              0                          0                                0                         0
+      Generate-only     0.520427                     18       0.267155                 0.884852               1.029496          1898.390                1844                           1560                       1518                                0                      1518
+Generate-and-Verify     0.506184                     20       0.253777                 0.885448               1.052785          1941.335                1844                           1560                       1516                             1516                      1011
+
+Saved ROI table: /root/paper/BANKING/Ghost_Tracking_BAAI/20260523_131333/roi_table_20260523_131333.csv
+
+================================================================================
+FRAMEWORK COMPARISON SUMMARY
+================================================================================
+          Framework  Macro_F1  Weighted_F1  Accuracy  Head_F1  Tail_F1  Stat_Stop_Iteration  ROI_Stop_Iteration
+            Passive  0.734490     0.734490  0.774026 0.835297 0.719445                   40                  24
+             Active  0.837056     0.837056  0.850649 0.910408 0.826108                   40                  29
+      Generate-only  0.887853     0.887853  0.890909 0.945298 0.879279                   38                  23
+Generate-and-Verify  0.888534     0.888534  0.890909 0.947605 0.879717                   40                  25
+
+Saved: /root/paper/BANKING/Ghost_Tracking_BAAI/20260523_131333/metrics_table_Banking77_Refactored_20260523_131333.csv
+
+=== Experimental Run Completed ===
+Final Generate-and-Verify Macro F1: 0.8885
+Final Generate-and-Verify Head Macro F1: 0.9476
+Final Generate-and-Verify Tail Macro F1: 0.8797

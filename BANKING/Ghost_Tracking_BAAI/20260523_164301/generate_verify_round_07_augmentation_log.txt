@@ -1,0 +1,78 @@
+GEN | [receiving_money] | Orig: Will my employer be able to pay me with this service -> Aug: Will my employer be able to transfer funds to my account using this service?
+GEN | [card_delivery_estimate] | Orig: Can I pay more to get it deliver quicker? -> Aug: Would you like to upgrade your shipping option to expedite the delivery of your card?
+GEN | [contactless_not_working] | Orig: I am having issues using contactless payments, could my card be damaged? -> Aug: I'm experiencing difficulties with contactless transactions, is it possible that my card is malfunctioning?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I'm looking for a machine of yours that will provide me cash from my home country. I went on holiday and don't have any cash on me. Will your machine charge me extra to do this? -> Aug: I'm trying to withdraw some cash from my account, but I'm concerned that the exchange rate might be incorrect. I'm on a trip and don't have any local currency with me. Will I be charged an additional fee for the exchange rate discrepancy?
+GEN | [contactless_not_working] | Orig: My contactless payments don't work. -> Aug: My contactless payment method is currently not functioning.
+GEN | [receiving_money] | Orig: How can my boss pay me directly to the card? -> Aug: What is the best way for my employer to deposit funds directly into my account?
+GEN | [get_disposable_virtual_card] | Orig: What systems do you have in place for my security when using my card for everyday purchases? -> Aug: How do you ensure the security of my virtual disposable card for online transactions?
+GEN | [wrong_amount_of_cash_received] | Orig: i asked for 100 only got 80 -> Aug: i requested 200 but was given 150
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I add physical money to my card? -> Aug: You can top up your card using cash or cheque.
+GEN | [exchange_charge] | Orig: Would you be able to offer me a discount, since I need to exchange currencies frequently? -> Aug: Could you provide a discount for me, as I regularly need to exchange currencies?
+GEN | [top_up_failed] | Orig: I'm not sure if my pop-up went through. -> Aug: I'm unsure if my top-up transaction was successful.
+GEN | [card_delivery_estimate] | Orig: If I need delivery on a certain day, is that something that could be accommodated? -> Aug: Can you specify a specific delivery date, and I'll check if it's possible to accommodate it?
+GEN | [direct_debit_payment_not_recognised] | Orig: I did not set up a direct debit I have -> Aug: We have not detected a direct debit payment from your account.
+GEN | [card_not_working] | Orig: Is my card frozen? -> Aug: Is my credit card not functioning properly?
+GEN | [pin_blocked] | Orig: How many incorrect attempts cause card to be blocked? -> Aug: What is the maximum number of incorrect PIN attempts allowed before my card is blocked?
+GEN | [pending_top_up] | Orig: I do not think the pop up went through yet. -> Aug: I'm not sure if the top-up request has been processed.
+GEN | [pending_top_up] | Orig: Im trying to top up my card but it's still pending and it's been an hour. Is there any way to make it go through faster? Do I not have enough? -> Aug: I'm attempting to make a top-up transaction, but it's still pending and has been pending for an hour. Is there a way to expedite the process or is there an issue with my account balance?
+GEN | [pending_card_payment] | Orig: I am waiting for a payment to be processed -> Aug: We are still awaiting the processing of a payment
+GEN | [disposable_card_limits] | Orig: i tried using a virtual card for a hotel but it didn't work, why not -> Aug: Can you please clarify why your virtual card was declined for the hotel transaction? Are you aware of the disposable card limits for virtual cards, and if so, have you checked if you've reached the daily or transaction limit?
+GEN | [card_arrival] | Orig: maximum how many days get the courier? -> Aug: How long does it take for the courier to deliver the card?
+GEN | [supported_cards_and_currencies] | Orig: My card wants to be topped what do you guys support? -> Aug: What payment methods and currencies do you accept for card reloads?
+GEN | [pending_cash_withdrawal] | Orig: I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make. -> Aug: I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction remains pending, and it appears that the process is stuck. I'm concerned that I might be charged for a transaction I didn't authorize.
+GEN | [transfer_not_received_by_recipient] | Orig: What is the length of a transaction completion? -> Aug: Why hasn't the recipient received the transferred funds yet?
+GEN | [card_delivery_estimate] | Orig: i need to add express delivery if that's an option -> Aug: can you provide an estimate for expedited shipping options?
+GEN | [direct_debit_payment_not_recognised] | Orig: I didn't set up the direct debit I have -> Aug: We couldn't find a direct debit payment setup in your account.
+GEN | [exchange_charge] | Orig: My currencies needed to be exchanged often and I was wondering if there were any discounts available for this? -> Aug: I'm looking to exchange currencies frequently and was hoping to find any available discounts for this service.
+GEN | [getting_spare_card] | Orig: Do you send duplicate cards? -> Aug: Can I get a replacement card?
+GEN | [contactless_not_working] | Orig: I can't get a contactless payment to work. -> Aug: I'm having trouble making a contactless payment.
+GEN | [card_not_working] | Orig: WHAT IS THE REASON FOR THAT -> Aug: WHY IS MY CARD NOT FUNCTIONING PROPERLY?
+GEN | [exchange_charge] | Orig: Since I need to exchange currencies frequently, would you be able to offer me a discount? -> Aug: As I'm a regular customer who frequently exchanges currencies, would you consider providing a discount on the exchange charge?
+GEN | [pending_top_up] | Orig: Can you tell me why my pop-up is still pending? -> Aug: Can you explain why my top-up request is still pending?
+GEN | [exchange_charge] | Orig: Do you offer a discount for those who perform frequent currency exchanges? -> Aug: Are there any promotions or discounts available for customers who regularly exchange currencies with us?
+GEN | [card_delivery_estimate] | Orig: How many days to deliver to a US customer? -> Aug: What is the estimated delivery timeframe for a card to a customer in the United States?
+GEN | [exchange_charge] | Orig: My job requires me to do a lot of exchanging currency, and I was wondering about any possible discounts or lower prices. -> Aug: As I frequently exchange currency for work purposes, I'd like to inquire about any available discounts or more competitive rates.
+GEN | [reverted_card_payment?] | Orig: Can you tell me why my card isn't letting me make purchases online? It's been 2 weeks I've been trying. -> Aug: Can you help me understand why my card payment was reversed or cancelled? I've been trying to make online purchases for the past two weeks, but it's not working.
+GEN | [automatic_top_up] | Orig: How do I get refills to my card when I'm traveling? -> Aug: How can I set up automatic top-ups for my card when I'm abroad?
+GEN | [exchange_charge] | Orig: I've been to several different countries, can I exchange the cash with a discount for a large transaction? -> Aug: Can I exchange a large amount of cash for a discounted rate, considering I've traveled to multiple countries?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you see my new balance yet? -> Aug: I'm still waiting for my account balance to reflect the recent bank transfer.
+GEN | [getting_spare_card] | Orig: I would like to get additional physical cards at this time -> Aug: I would like to obtain extra physical cards now
+VAL | [receiving_money] | YES | Text: Will my employer be able to transfer funds to my account using this service?
+VAL | [card_delivery_estimate] | YES | Text: Would you like to upgrade your shipping option to expedite the delivery of your card?
+VAL | [contactless_not_working] | YES | Text: I'm experiencing difficulties with contactless transactions, is it possible that my card is malfunctioning?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I'm trying to withdraw some cash from my account, but I'm concerned that the exchange rate might be incorrect. I'm on a trip and don't have any local currency with me. Will I be charged an additional fee for the exchange rate discrepancy?
+VAL | [contactless_not_working] | YES | Text: My contactless payment method is currently not functioning.
+VAL | [receiving_money] | YES | Text: What is the best way for my employer to deposit funds directly into my account?
+VAL | [get_disposable_virtual_card] | NO | Text: How do you ensure the security of my virtual disposable card for online transactions?
+VAL | [wrong_amount_of_cash_received] | NO | Text: i requested 200 but was given 150
+VAL | [top_up_by_cash_or_cheque] | YES | Text: You can top up your card using cash or cheque.
+VAL | [exchange_charge] | NO | Text: Could you provide a discount for me, as I regularly need to exchange currencies?
+VAL | [top_up_failed] | NO | Text: I'm unsure if my top-up transaction was successful.
+VAL | [card_delivery_estimate] | YES | Text: Can you specify a specific delivery date, and I'll check if it's possible to accommodate it?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: We have not detected a direct debit payment from your account.
+VAL | [card_not_working] | YES | Text: Is my credit card not functioning properly?
+VAL | [pin_blocked] | YES | Text: What is the maximum number of incorrect PIN attempts allowed before my card is blocked?
+VAL | [pending_top_up] | YES | Text: I'm not sure if the top-up request has been processed.
+VAL | [pending_top_up] | YES | Text: I'm attempting to make a top-up transaction, but it's still pending and has been pending for an hour. Is there a way to expedite the process or is there an issue with my account balance?
+VAL | [pending_card_payment] | NO | Text: We are still awaiting the processing of a payment
+VAL | [disposable_card_limits] | NO | Text: Can you please clarify why your virtual card was declined for the hotel transaction? Are you aware of the disposable card limits for virtual cards, and if so, have you checked if you've reached the daily or transaction limit?
+VAL | [card_arrival] | YES | Text: How long does it take for the courier to deliver the card?
+VAL | [supported_cards_and_currencies] | YES | Text: What payment methods and currencies do you accept for card reloads?
+VAL | [pending_cash_withdrawal] | YES | Text: I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction remains pending, and it appears that the process is stuck. I'm concerned that I might be charged for a transaction I didn't authorize.
+VAL | [transfer_not_received_by_recipient] | YES | Text: Why hasn't the recipient received the transferred funds yet?
+VAL | [card_delivery_estimate] | NO | Text: can you provide an estimate for expedited shipping options?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: We couldn't find a direct debit payment setup in your account.
+VAL | [exchange_charge] | YES | Text: I'm looking to exchange currencies frequently and was hoping to find any available discounts for this service.
+VAL | [getting_spare_card] | NO | Text: Can I get a replacement card?
+VAL | [contactless_not_working] | YES | Text: I'm having trouble making a contactless payment.
+VAL | [card_not_working] | YES | Text: WHY IS MY CARD NOT FUNCTIONING PROPERLY?
+VAL | [exchange_charge] | YES | Text: As I'm a regular customer who frequently exchanges currencies, would you consider providing a discount on the exchange charge?
+VAL | [pending_top_up] | YES | Text: Can you explain why my top-up request is still pending?
+VAL | [exchange_charge] | YES | Text: Are there any promotions or discounts available for customers who regularly exchange currencies with us?
+VAL | [card_delivery_estimate] | YES | Text: What is the estimated delivery timeframe for a card to a customer in the United States?
+VAL | [exchange_charge] | NO | Text: As I frequently exchange currency for work purposes, I'd like to inquire about any available discounts or more competitive rates.
+VAL | [reverted_card_payment?] | NO | Text: Can you help me understand why my card payment was reversed or cancelled? I've been trying to make online purchases for the past two weeks, but it's not working.
+VAL | [automatic_top_up] | YES | Text: How can I set up automatic top-ups for my card when I'm abroad?
+VAL | [exchange_charge] | YES | Text: Can I exchange a large amount of cash for a discounted rate, considering I've traveled to multiple countries?
+VAL | [balance_not_updated_after_bank_transfer] | NO | Text: I'm still waiting for my account balance to reflect the recent bank transfer.
+VAL | [getting_spare_card] | YES | Text: I would like to obtain extra physical cards now

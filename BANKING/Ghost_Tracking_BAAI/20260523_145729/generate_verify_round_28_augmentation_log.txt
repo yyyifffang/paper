@@ -1,0 +1,80 @@
+GEN | [contactless_not_working] | Orig: I can't get a contactless payment to work. -> Aug: I'm having trouble making a contactless payment.
+GEN | [Refund_not_showing_up] | Orig: I requested a refund from Next because the dress I purchased had three arm holes. They said they sent the refund last Wednesday which is nearly a week ago and I still don't have it.  Why not? -> Aug: I ordered a refund from Next after discovering the dress I bought had an unusual design feature - three arm holes. They assured me they processed the refund on Wednesday, but it's now been a week and I haven't received it. Can you explain the delay?
+GEN | [request_refund] | Orig: I would like to retract my purchase. -> Aug: I would like to cancel my transaction and request a refund.
+GEN | [direct_debit_payment_not_recognised] | Orig: I need to cancel a transaction on my debit card. -> Aug: I'm trying to stop a direct debit payment that was not recognized by my account.
+GEN | [card_payment_wrong_exchange_rate] | Orig: Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you. -> Aug: I'd like to review my payment from last weekend, as I believe I was incorrectly charged a higher exchange rate. Could you look into this for me, please?
+GEN | [get_disposable_virtual_card] | Orig: Will you tell me how I am supposed to use the disposable cards? -> Aug: Can you guide me on the proper usage of the disposable virtual card?
+GEN | [compromised_card] | Orig: I have some transactions on my account I did not make. Can you cancel my card and prevent further use. -> Aug: I'm concerned about unauthorized activity on my account. Can you suspend my card and prevent any further transactions?
+GEN | [compromised_card] | Orig: It looks like someone besides me ordered something with my card, what should I do? -> Aug: It appears that an unauthorized transaction has been made using my card, what steps can I take to resolve this issue?
+GEN | [extra_charge_on_statement] | Orig: There is an extra small charge on my card! What do I do? -> Aug: I noticed an additional fee on my statement. Can you help me understand why it's there?
+GEN | [visa_or_mastercard] | Orig: Please help me get a Visa card. -> Aug: Please assist me in obtaining a Mastercard.
+GEN | [edit_personal_details] | Orig: I need to update my demographics. -> Aug: I would like to modify my personal information.
+GEN | [request_refund] | Orig: I want this fee reversed from my account. -> Aug: I'd like to request a refund of this fee from my account.
+GEN | [failed_transfer] | Orig: Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times! -> Aug: We've tried to process the transfer multiple times, but it keeps getting declined. Is there an issue with the receiving bank or the transfer amount?
+GEN | [card_payment_not_recognised] | Orig: I don't think I made this transaction on my statement -> Aug: I'm not sure if I authorized this payment on my recent statement
+GEN | [card_not_working] | Orig: I haven't been able to complete any transactions on my card today. Do you know what's wrong? -> Aug: I'm having trouble making any purchases with my card today. Can you help me figure out what's going on?
+GEN | [exchange_rate] | Orig: explain the interbank exchange rate -> Aug: The rate at which banks and other financial institutions exchange one currency for another, typically used for large transactions.
+GEN | [transaction_charged_twice] | Orig: My card is showing the same transaction over and over again. -> Aug: I'm seeing a duplicate transaction on my statement.
+GEN | [pin_blocked] | Orig: When I was drunk I got my card stuck in your machine because i mis-typed my PIN. What do I need to do to get it restored? -> Aug: When I was careless, I accidentally got my card stuck in your machine due to a mistake in entering my PIN. What steps can I take to resolve this issue and get my card restored?
+GEN | [card_not_working] | Orig: I am unable to use my card. -> Aug: I'm having trouble using my card.
+GEN | [compromised_card] | Orig: How do I stop fraud to my card? -> Aug: What steps can I take to prevent unauthorized transactions on my compromised card?
+GEN | [cash_withdrawal_charge] | Orig: I was charged for getting cash. -> Aug: I was unexpectedly charged a fee for withdrawing cash.
+GEN | [activate_my_card] | Orig: I couldn't complete card activation. -> Aug: I'm having trouble activating my card.
+GEN | [Refund_not_showing_up] | Orig: When will my returned transaction show up on my account? -> Aug: Why hasn't my refund been credited to my account yet?
+GEN | [cash_withdrawal_charge] | Orig: I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction? -> Aug: I noticed a charge on my receipt for the cash withdrawal I made at the store. Is it normal to be charged a fee for this type of transaction?
+GEN | [failed_transfer] | Orig: I am trying to transfer money and something is going wrong. -> Aug: I'm having trouble completing a money transfer and need assistance.
+GEN | [direct_debit_payment_not_recognised] | Orig: I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money? -> Aug: I'm concerned about a suspicious transaction on my account. I didn't authorise a direct debit payment, and I'd like to report it. Can you investigate and cancel the transaction, and then refund the amount back to my account?
+GEN | [declined_cash_withdrawal] | Orig: Why can I not take out cash? -> Aug: Why was my cash withdrawal request declined?
+GEN | [cancel_transfer] | Orig: Is it possible for a transaction to be cancelled? -> Aug: Can I cancel a transfer that has already been initiated?
+GEN | [declined_cash_withdrawal] | Orig: This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined. -> Aug: This afternoon, I tried to withdraw some cash before heading to a meeting, but my card was declined. Could you kindly verify the issue, as this is the first time it's happened?
+GEN | [transfer_fee_charged] | Orig: A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened? -> Aug: A transfer I initiated was short by a certain amount, and I need to send more funds to complete the transaction. What's the reason for the discrepancy?
+GEN | [passcode_forgotten] | Orig: I forgot my code -> Aug: I've misplaced my passcode
+GEN | [transfer_not_received_by_recipient] | Orig: I sent money to my family last Friday but they don't have it. -> Aug: I made a transfer to my family last Friday, but they haven't received it yet.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it. -> Aug: I'm frustrated because I was surprised to be charged an unexpected fee when I withdrew cash from an ATM on a public holiday, and I wasn't informed about the fee beforehand, which would have prevented me from making the withdrawal.
+GEN | [transfer_into_account] | Orig: What transfer methods do you accept? -> Aug: What payment methods do you support for transferring funds into an account?
+GEN | [card_payment_fee_charged] | Orig: I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before. -> Aug: I'd like to be notified when an extra fee is applied to my payment. I recently checked the app and noticed an additional charge related to one of my transactions. I was not informed about this fee beforehand.
+GEN | [transfer_into_account] | Orig: How does your app transfer the money -> Aug: How do I initiate a transfer into another account using your mobile banking app?
+GEN | [verify_source_of_funds] | Orig: Why do I need to verify my funds? -> Aug: We need to confirm the origin of your funds to ensure the transaction is legitimate and compliant with our banking regulations.
+GEN | [direct_debit_payment_not_recognised] | Orig: I have an unknown charge. -> Aug: We've received an unidentified direct debit payment from your account.
+GEN | [passcode_forgotten] | Orig: I need a new login code -> Aug: I've forgotten my passcode and need a new one
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Is there a longer processing time for international bank transfers? -> Aug: Why does it take a while for my account balance to update after an international bank transfer is made?
+VAL | [contactless_not_working] | YES | Text: I'm having trouble making a contactless payment.
+VAL | [Refund_not_showing_up] | YES | Text: I ordered a refund from Next after discovering the dress I bought had an unusual design feature - three arm holes. They assured me they processed the refund on Wednesday, but it's now been a week and I haven't received it. Can you explain the delay?
+VAL | [request_refund] | YES | Text: I would like to cancel my transaction and request a refund.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm trying to stop a direct debit payment that was not recognized by my account.
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: I'd like to review my payment from last weekend, as I believe I was incorrectly charged a higher exchange rate. Could you look into this for me, please?
+VAL | [get_disposable_virtual_card] | YES | Text: Can you guide me on the proper usage of the disposable virtual card?
+VAL | [compromised_card] | YES | Text: I'm concerned about unauthorized activity on my account. Can you suspend my card and prevent any further transactions?
+VAL | [compromised_card] | YES | Text: It appears that an unauthorized transaction has been made using my card, what steps can I take to resolve this issue?
+VAL | [extra_charge_on_statement] | YES | Text: I noticed an additional fee on my statement. Can you help me understand why it's there?
+VAL | [visa_or_mastercard] | NO | Text: Please assist me in obtaining a Mastercard.
+VAL | [edit_personal_details] | YES | Text: I would like to modify my personal information.
+VAL | [request_refund] | YES | Text: I'd like to request a refund of this fee from my account.
+VAL | [failed_transfer] | NO | Text: We've tried to process the transfer multiple times, but it keeps getting declined. Is there an issue with the receiving bank or the transfer amount?
+VAL | [card_payment_not_recognised] | YES | Text: I'm not sure if I authorized this payment on my recent statement
+VAL | [card_not_working] | YES | Text: I'm having trouble making any purchases with my card today. Can you help me figure out what's going on?
+VAL | [exchange_rate] | YES | Text: The rate at which banks and other financial institutions exchange one currency for another, typically used for large transactions.
+VAL | [transaction_charged_twice] | YES | Text: I'm seeing a duplicate transaction on my statement.
+VAL | [pin_blocked] | NO | Text: When I was careless, I accidentally got my card stuck in your machine due to a mistake in entering my PIN. What steps can I take to resolve this issue and get my card restored?
+VAL | [card_not_working] | YES | Text: I'm having trouble using my card.
+VAL | [compromised_card] | YES | Text: What steps can I take to prevent unauthorized transactions on my compromised card?
+VAL | [cash_withdrawal_charge] | YES | Text: I was unexpectedly charged a fee for withdrawing cash.
+VAL | [activate_my_card] | NO | Text: I'm having trouble activating my card.
+VAL | [Refund_not_showing_up] | YES | Text: Why hasn't my refund been credited to my account yet?
+VAL | [cash_withdrawal_charge] | YES | Text: I noticed a charge on my receipt for the cash withdrawal I made at the store. Is it normal to be charged a fee for this type of transaction?
+VAL | [failed_transfer] | YES | Text: I'm having trouble completing a money transfer and need assistance.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm concerned about a suspicious transaction on my account. I didn't authorise a direct debit payment, and I'd like to report it. Can you investigate and cancel the transaction, and then refund the amount back to my account?
+VAL | [declined_cash_withdrawal] | YES | Text: Why was my cash withdrawal request declined?
+VAL | [cancel_transfer] | YES | Text: Can I cancel a transfer that has already been initiated?
+VAL | [declined_cash_withdrawal] | YES | Text: This afternoon, I tried to withdraw some cash before heading to a meeting, but my card was declined. Could you kindly verify the issue, as this is the first time it's happened?
+VAL | [transfer_fee_charged] | NO | Text: A transfer I initiated was short by a certain amount, and I need to send more funds to complete the transaction. What's the reason for the discrepancy?
+VAL | [passcode_forgotten] | YES | Text: I've misplaced my passcode
+VAL | [transfer_not_received_by_recipient] | YES | Text: I made a transfer to my family last Friday, but they haven't received it yet.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | NO | Text: I'm frustrated because I was surprised to be charged an unexpected fee when I withdrew cash from an ATM on a public holiday, and I wasn't informed about the fee beforehand, which would have prevented me from making the withdrawal.
+VAL | [transfer_into_account] | NO | Text: What payment methods do you support for transferring funds into an account?
+VAL | [card_payment_fee_charged] | YES | Text: I'd like to be notified when an extra fee is applied to my payment. I recently checked the app and noticed an additional charge related to one of my transactions. I was not informed about this fee beforehand.
+VAL | [transfer_into_account] | NO | Text: How do I initiate a transfer into another account using your mobile banking app?
+VAL | [verify_source_of_funds] | YES | Text: We need to confirm the origin of your funds to ensure the transaction is legitimate and compliant with our banking regulations.
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've received an unidentified direct debit payment from your account.
+VAL | [passcode_forgotten] | YES | Text: I've forgotten my passcode and need a new one
+VAL | [balance_not_updated_after_bank_transfer] | NO | Text: Why does it take a while for my account balance to update after an international bank transfer is made?

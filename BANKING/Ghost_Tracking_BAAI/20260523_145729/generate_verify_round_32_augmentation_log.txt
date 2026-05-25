@@ -1,0 +1,80 @@
+GEN | [transfer_into_account] | Orig: Can I withdraw money from another bank and transfer it into my empty account? -> Aug: Can I deposit funds from another bank into my account, which currently has no balance?
+GEN | [beneficiary_not_allowed] | Orig: I got a message that I cannot name X as a beneficiary. -> Aug: You are not authorized to add X as a beneficiary.
+GEN | [cash_withdrawal_not_recognised] | Orig: there is money in my account that i didnt put there -> Aug: the funds in my account are not mine and I didn't deposit them
+GEN | [declined_transfer] | Orig: It seems you keep declining my transfers. Before, it's always worked very well.Just now when I tried to buy something the card was declined. I tried more than once and it was the same thing each time. -> Aug: I've noticed that my recent transfer attempts have been consistently declined. Although I've had no issues with transfers in the past, the last few attempts have been unsuccessful, with the card being declined each time I've tried.
+GEN | [transfer_timing] | Orig: How long does it take to get money from Europe? -> Aug: What is the typical transfer timing for international transactions from Europe?
+GEN | [beneficiary_not_allowed] | Orig: Why wasn't my payment to beneficiary X approved? -> Aug: Why was my payment to the beneficiary not processed due to their account being restricted or not allowed?
+GEN | [getting_spare_card] | Orig: I lost my card and need a new one, will it cost me? -> Aug: I misplaced my card and require a replacement, what's the fee for a new one?
+GEN | [atm_support] | Orig: Where should I withdraw money from? -> Aug: What's the nearest ATM location to withdraw cash?
+GEN | [transfer_timing] | Orig: How fast are transfers from Europe? -> Aug: What is the typical transfer processing time for international transactions from Europe?
+GEN | [atm_support] | Orig: how do I know where I can get money withdrawn? -> Aug: Where can I find an ATM near me to withdraw cash?
+GEN | [transfer_into_account] | Orig: I have money in a foreign account that I want to send to this account. -> Aug: I'd like to transfer funds from my foreign account to this account.
+GEN | [get_physical_card] | Orig: When do I set up my card PIN? -> Aug: How can I obtain my physical debit/credit card?
+GEN | [get_physical_card] | Orig: can i create my own pin right away -> Aug: can i receive my physical card immediately
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will I receive all the money sent to my account by SEPA transfer? -> Aug: Will I be charged a fee for topping up my account via bank transfer?
+GEN | [getting_spare_card] | Orig: I need a new card. -> Aug: I require a replacement card.
+GEN | [transfer_timing] | Orig: How long do I have to wait for a US transfer? -> Aug: What is the estimated timeframe for a US transfer to be processed?
+GEN | [unable_to_verify_identity] | Orig: I am not recognized by the app. -> Aug: We're having trouble verifying your identity through our system.
+GEN | [declined_cash_withdrawal] | Orig: my card was frozen due to putting in the wrong pin too much.  how many tries do i have -> Aug: Your account has been temporarily restricted due to multiple incorrect PIN attempts. Please try again, and you'll have another chance to access your funds. If you continue to experience issues, please contact us for assistance.
+GEN | [card_payment_not_recognised] | Orig: I do not recongize a payment in my account. -> Aug: We cannot verify a payment in your account.
+GEN | [lost_or_stolen_card] | Orig: My card is lost!  Please help me! -> Aug: I've misplaced my card and need assistance.
+GEN | [request_refund] | Orig: I'm cancelling this charge. I still have not received what I bought from these people a while ago. -> Aug: I'm requesting a refund for this cancelled charge since I never received the item I paid for.
+GEN | [get_physical_card] | Orig: When will I have access to my pin number? -> Aug: When can I obtain my physical credit card?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Does it cost me to add cash? -> Aug: Is there a fee for topping up my account via bank transfer?
+GEN | [pin_blocked] | Orig: While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back? -> Aug: I accidentally entered my PIN incorrectly while intoxicated and your ATM swallowed my card. Can I retrieve it?
+GEN | [receiving_money] | Orig: How does one send me money? -> Aug: How can I receive a payment from someone?
+GEN | [beneficiary_not_allowed] | Orig: Why won't you let me name X as a beneficiary? -> Aug: Why can't I designate X as a beneficiary?
+GEN | [top_up_reverted] | Orig: I went to top up my card and it was cancelled. -> Aug: I attempted to add funds to my card, but the transaction was reversed.
+GEN | [declined_transfer] | Orig: How do I make my transfer go through -> Aug: Why was my transfer declined and how can I resolve the issue?
+GEN | [top_up_reverted] | Orig: I got an cancellation error when I was topping up. -> Aug: I experienced a failed transaction while attempting to add funds.
+GEN | [top_up_failed] | Orig: I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly. -> Aug: I'm having trouble accessing my funds. Could it be due to a failed top-up attempt? I'm certain I entered the details correctly.
+GEN | [receiving_money] | Orig: Are there ways for other people to send me money? -> Aug: Can others transfer funds to me or deposit money into my account?
+GEN | [verify_my_identity] | Orig: How and where can I find the identity checks? -> Aug: Where can I locate the identity verification process?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn. -> Aug: Hi, I'm concerned that I was overcharged on the cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect exchange rate being applied, otherwise I would have reconsidered the transaction.
+GEN | [card_about_to_expire] | Orig: My bank card has expired, how can I get a new physical card? -> Aug: My bank card is about to expire, what are the steps to obtain a replacement physical card?
+GEN | [get_physical_card] | Orig: My card arrived but I don't know how to get my PIN. -> Aug: I received my physical card, but I need help retrieving my PIN.
+GEN | [get_physical_card] | Orig: The card PIN is not visible anywhere? -> Aug: I'd be happy to help you obtain a physical copy of your card.
+GEN | [cash_withdrawal_charge] | Orig: I noticed a different charge while I was taking my money out. -> Aug: I'm concerned about the unexpected fee I saw when I withdrew cash.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Why is it taking so long for my money to appear in my account? I have been waiting a week! -> Aug: I made a deposit using a cheque/cash last week, but my account balance still hasn't been updated. Can you please look into this and let me know when I can expect the funds to reflect?
+GEN | [card_about_to_expire] | Orig: What is the cost and time frame of getting a new card? -> Aug: How much does it cost and how long does it take to obtain a replacement card when my current one is about to expire?
+GEN | [get_physical_card] | Orig: can i go into my app to find my pin -> Aug: Can I access my physical card details within the app?
+VAL | [transfer_into_account] | NO | Text: Can I deposit funds from another bank into my account, which currently has no balance?
+VAL | [beneficiary_not_allowed] | YES | Text: You are not authorized to add X as a beneficiary.
+VAL | [cash_withdrawal_not_recognised] | NO | Text: the funds in my account are not mine and I didn't deposit them
+VAL | [declined_transfer] | YES | Text: I've noticed that my recent transfer attempts have been consistently declined. Although I've had no issues with transfers in the past, the last few attempts have been unsuccessful, with the card being declined each time I've tried.
+VAL | [transfer_timing] | YES | Text: What is the typical transfer timing for international transactions from Europe?
+VAL | [beneficiary_not_allowed] | YES | Text: Why was my payment to the beneficiary not processed due to their account being restricted or not allowed?
+VAL | [getting_spare_card] | YES | Text: I misplaced my card and require a replacement, what's the fee for a new one?
+VAL | [atm_support] | NO | Text: What's the nearest ATM location to withdraw cash?
+VAL | [transfer_timing] | YES | Text: What is the typical transfer processing time for international transactions from Europe?
+VAL | [atm_support] | NO | Text: Where can I find an ATM near me to withdraw cash?
+VAL | [transfer_into_account] | YES | Text: I'd like to transfer funds from my foreign account to this account.
+VAL | [get_physical_card] | NO | Text: How can I obtain my physical debit/credit card?
+VAL | [get_physical_card] | NO | Text: can i receive my physical card immediately
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Will I be charged a fee for topping up my account via bank transfer?
+VAL | [getting_spare_card] | YES | Text: I require a replacement card.
+VAL | [transfer_timing] | YES | Text: What is the estimated timeframe for a US transfer to be processed?
+VAL | [unable_to_verify_identity] | NO | Text: We're having trouble verifying your identity through our system.
+VAL | [declined_cash_withdrawal] | NO | Text: Your account has been temporarily restricted due to multiple incorrect PIN attempts. Please try again, and you'll have another chance to access your funds. If you continue to experience issues, please contact us for assistance.
+VAL | [card_payment_not_recognised] | NO | Text: We cannot verify a payment in your account.
+VAL | [lost_or_stolen_card] | YES | Text: I've misplaced my card and need assistance.
+VAL | [request_refund] | YES | Text: I'm requesting a refund for this cancelled charge since I never received the item I paid for.
+VAL | [get_physical_card] | NO | Text: When can I obtain my physical credit card?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Is there a fee for topping up my account via bank transfer?
+VAL | [pin_blocked] | YES | Text: I accidentally entered my PIN incorrectly while intoxicated and your ATM swallowed my card. Can I retrieve it?
+VAL | [receiving_money] | NO | Text: How can I receive a payment from someone?
+VAL | [beneficiary_not_allowed] | YES | Text: Why can't I designate X as a beneficiary?
+VAL | [top_up_reverted] | YES | Text: I attempted to add funds to my card, but the transaction was reversed.
+VAL | [declined_transfer] | NO | Text: Why was my transfer declined and how can I resolve the issue?
+VAL | [top_up_reverted] | YES | Text: I experienced a failed transaction while attempting to add funds.
+VAL | [top_up_failed] | NO | Text: I'm having trouble accessing my funds. Could it be due to a failed top-up attempt? I'm certain I entered the details correctly.
+VAL | [receiving_money] | YES | Text: Can others transfer funds to me or deposit money into my account?
+VAL | [verify_my_identity] | YES | Text: Where can I locate the identity verification process?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: Hi, I'm concerned that I was overcharged on the cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect exchange rate being applied, otherwise I would have reconsidered the transaction.
+VAL | [card_about_to_expire] | YES | Text: My bank card is about to expire, what are the steps to obtain a replacement physical card?
+VAL | [get_physical_card] | NO | Text: I received my physical card, but I need help retrieving my PIN.
+VAL | [get_physical_card] | NO | Text: I'd be happy to help you obtain a physical copy of your card.
+VAL | [cash_withdrawal_charge] | YES | Text: I'm concerned about the unexpected fee I saw when I withdrew cash.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I made a deposit using a cheque/cash last week, but my account balance still hasn't been updated. Can you please look into this and let me know when I can expect the funds to reflect?
+VAL | [card_about_to_expire] | YES | Text: How much does it cost and how long does it take to obtain a replacement card when my current one is about to expire?
+VAL | [get_physical_card] | NO | Text: Can I access my physical card details within the app?

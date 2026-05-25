@@ -1,0 +1,80 @@
+GEN | [transfer_timing] | Orig: When will the money be made available in my account? -> Aug: When can I expect the funds to be credited to my account?
+GEN | [failed_transfer] | Orig: Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct. -> Aug: I'm having trouble completing a transfer to my friend's account. The transaction keeps getting declined, and I'm worried about the delay. I've double-checked the account details, and everything seems correct. Can you assist me in resolving this issue?
+GEN | [verify_source_of_funds] | Orig: My source of funds require verification. -> Aug: We need to confirm the origin of your funds.
+GEN | [verify_top_up] | Orig: Verifying the top-up seems like a hassle. -> Aug: Confirming the top-up details appears to be a tedious process.
+GEN | [activate_my_card] | Orig: I tried activating my plug-in and it didn't piece of work -> Aug: I attempted to activate my card, but it didn't function properly
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I fill up my gas tank using a check? -> Aug: How can I replenish my account balance using a cheque or cash?
+GEN | [card_arrival] | Orig: Is my new bank card on the way and is there a way to track it? -> Aug: When can I expect my new bank card to arrive, and is there a tracking option available?
+GEN | [declined_transfer] | Orig: I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate. -> Aug: I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct.
+GEN | [beneficiary_not_allowed] | Orig: Hello I am unable to exchange the crypto currency through the app, i am very keen to buy. Please let me know the issue.    interested buying crypto currency but i am unable to purchase it through the application,i do want to do the exchange, Could you please let me know what is the problem? -> Aug: I'm trying to initiate a crypto currency exchange through the app, but it's not allowing me to proceed. Can you please help me identify the issue? I'm eager to complete the transaction.
+GEN | [passcode_forgotten] | Orig: I can't log in with this passocde -> Aug: I forgot my passcode and can't access my account
+GEN | [declined_cash_withdrawal] | Orig: I can't get any money from my account. -> Aug: I'm unable to withdraw cash from my account.
+GEN | [transfer_timing] | Orig: How do i transfer something faster than normal? -> Aug: Can you please let me know if there's a way to expedite the transfer process or if there's a specific timing option available for faster transfer?
+GEN | [top_up_by_cash_or_cheque] | Orig: I need a hand here, I need to top up cash. -> Aug: I'd like to replenish my account using cash.
+GEN | [card_delivery_estimate] | Orig: Can I pay more to get it deliver quicker? -> Aug: Would you like to upgrade your shipping option to expedite the delivery of your card?
+GEN | [verify_top_up] | Orig: How do i secure a top-up card? -> Aug: How can I confirm the details of my top-up card?
+GEN | [lost_or_stolen_phone] | Orig: What do I do if I cannot access the app? -> Aug: If my phone is lost or stolen, what should I do to regain access to my account?
+GEN | [apple_pay_or_google_pay] | Orig: Apple pay is not accepting my American Express card, can you assist me with this problem? -> Aug: Google Pay is not accepting my American Express card, can you help me resolve this issue?
+GEN | [exchange_via_app] | Orig: Can this convert money? -> Aug: Can I exchange funds using the app?
+GEN | [transfer_into_account] | Orig: I need to move money from one of my other accounts to this one. -> Aug: I'd like to transfer funds from another account to this account.
+GEN | [lost_or_stolen_phone] | Orig: What do I do if I can't access the app? -> Aug: What do I do if my phone is lost or stolen and I can't access the app?
+GEN | [top_up_failed] | Orig: I added funds to my account but the app didn't process it. -> Aug: I attempted to make a deposit, but the transaction was unsuccessful.
+GEN | [exchange_rate] | Orig: How do you do exchanges? -> Aug: What is the current exchange rate?
+GEN | [transaction_charged_twice] | Orig: Why does my statement show various transaction times? -> Aug: Why do I see multiple transaction dates on my statement?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: help my money isnt showing up -> Aug: my account balance isn't reflecting the recent bank transfer
+GEN | [passcode_forgotten] | Orig: I can't log in -> Aug: I've forgotten my passcode
+GEN | [passcode_forgotten] | Orig: I'm locked out of my account as I can't remember my code, what do I do now? -> Aug: I've forgotten my passcode and can't access my account, what are my options?
+GEN | [transfer_timing] | Orig: How quickly can I transfer something to China? -> Aug: What is the estimated timeframe for transferring funds to China?
+GEN | [cash_withdrawal_not_recognised] | Orig: I want my card frozen right away. Money was taken out in an odd location I have never heard of. -> Aug: I need immediate assistance with my account. I'm concerned about an unauthorized cash withdrawal that was made at an unfamiliar location.
+GEN | [supported_cards_and_currencies] | Orig: Why doesn't it work when I use American Express to try to add money to my account? -> Aug: We do not currently support American Express as a payment method for adding funds to your account. However, you can use other supported cards such as Visa, Mastercard, or Discover, or transfer funds using supported currencies like USD, EUR, or JPY.
+GEN | [lost_or_stolen_phone] | Orig: My things were stolen and I need to know if I can still use this app. -> Aug: My phone was stolen and I'm worried about accessing my account through this app.
+GEN | [pending_top_up] | Orig: i put money on my card and i dont see it on the balance -> Aug: I added funds to my card, but the amount is still pending and hasn't been reflected in my balance.
+GEN | [card_not_working] | Orig: What do I do now that I can't use this card? -> Aug: What should I do since my card is not functioning properly?
+GEN | [extra_charge_on_statement] | Orig: Why is there a pending hold on one pound on my statement? -> Aug: We noticed an additional charge of one pound on your recent statement. Can you please clarify what this extra charge is for?
+GEN | [verify_source_of_funds] | Orig: I require verification for my source of funds. -> Aug: We need to confirm the origin of your funds.
+GEN | [exchange_via_app] | Orig: Is there a way to make my money usable in another country? -> Aug: Can I use your app to exchange my money for a different currency when traveling abroad?
+GEN | [compromised_card] | Orig: What can I do if my card details where stolen from my car? I think they used my card to buy gas. -> Aug: What can I do if my card information was stolen from my vehicle? I suspect someone used my compromised card to make a purchase, possibly at a gas station.
+GEN | [top_up_reverted] | Orig: My money disappeared! Please help?? -> Aug: My account balance has been reversed! Can you assist me in rectifying this issue?
+GEN | [supported_cards_and_currencies] | Orig: I want to add funds to my account. What payment methods are accepted? -> Aug: We accept a wide range of payment methods, including Visa, Mastercard, American Express, Discover, and Diners Club credit cards, as well as wire transfers in USD, EUR, JPY, and GBP.
+GEN | [pending_transfer] | Orig: I have an outgoing transfer -> Aug: I have a pending outgoing transfer
+GEN | [card_acceptance] | Orig: How can I know where my card will be accepted? -> Aug: What areas or merchants can I expect to find your card accepted?
+VAL | [transfer_timing] | YES | Text: When can I expect the funds to be credited to my account?
+VAL | [failed_transfer] | YES | Text: I'm having trouble completing a transfer to my friend's account. The transaction keeps getting declined, and I'm worried about the delay. I've double-checked the account details, and everything seems correct. Can you assist me in resolving this issue?
+VAL | [verify_source_of_funds] | YES | Text: We need to confirm the origin of your funds.
+VAL | [verify_top_up] | YES | Text: Confirming the top-up details appears to be a tedious process.
+VAL | [activate_my_card] | YES | Text: I attempted to activate my card, but it didn't function properly
+VAL | [top_up_by_cash_or_cheque] | YES | Text: How can I replenish my account balance using a cheque or cash?
+VAL | [card_arrival] | YES | Text: When can I expect my new bank card to arrive, and is there a tracking option available?
+VAL | [declined_transfer] | YES | Text: I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct.
+VAL | [beneficiary_not_allowed] | YES | Text: I'm trying to initiate a crypto currency exchange through the app, but it's not allowing me to proceed. Can you please help me identify the issue? I'm eager to complete the transaction.
+VAL | [passcode_forgotten] | NO | Text: I forgot my passcode and can't access my account
+VAL | [declined_cash_withdrawal] | YES | Text: I'm unable to withdraw cash from my account.
+VAL | [transfer_timing] | YES | Text: Can you please let me know if there's a way to expedite the transfer process or if there's a specific timing option available for faster transfer?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: I'd like to replenish my account using cash.
+VAL | [card_delivery_estimate] | YES | Text: Would you like to upgrade your shipping option to expedite the delivery of your card?
+VAL | [verify_top_up] | NO | Text: How can I confirm the details of my top-up card?
+VAL | [lost_or_stolen_phone] | YES | Text: If my phone is lost or stolen, what should I do to regain access to my account?
+VAL | [apple_pay_or_google_pay] | NO | Text: Google Pay is not accepting my American Express card, can you help me resolve this issue?
+VAL | [exchange_via_app] | YES | Text: Can I exchange funds using the app?
+VAL | [transfer_into_account] | YES | Text: I'd like to transfer funds from another account to this account.
+VAL | [lost_or_stolen_phone] | YES | Text: What do I do if my phone is lost or stolen and I can't access the app?
+VAL | [top_up_failed] | YES | Text: I attempted to make a deposit, but the transaction was unsuccessful.
+VAL | [exchange_rate] | YES | Text: What is the current exchange rate?
+VAL | [transaction_charged_twice] | NO | Text: Why do I see multiple transaction dates on my statement?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: my account balance isn't reflecting the recent bank transfer
+VAL | [passcode_forgotten] | YES | Text: I've forgotten my passcode
+VAL | [passcode_forgotten] | YES | Text: I've forgotten my passcode and can't access my account, what are my options?
+VAL | [transfer_timing] | YES | Text: What is the estimated timeframe for transferring funds to China?
+VAL | [cash_withdrawal_not_recognised] | NO | Text: I need immediate assistance with my account. I'm concerned about an unauthorized cash withdrawal that was made at an unfamiliar location.
+VAL | [supported_cards_and_currencies] | NO | Text: We do not currently support American Express as a payment method for adding funds to your account. However, you can use other supported cards such as Visa, Mastercard, or Discover, or transfer funds using supported currencies like USD, EUR, or JPY.
+VAL | [lost_or_stolen_phone] | YES | Text: My phone was stolen and I'm worried about accessing my account through this app.
+VAL | [pending_top_up] | YES | Text: I added funds to my card, but the amount is still pending and hasn't been reflected in my balance.
+VAL | [card_not_working] | YES | Text: What should I do since my card is not functioning properly?
+VAL | [extra_charge_on_statement] | YES | Text: We noticed an additional charge of one pound on your recent statement. Can you please clarify what this extra charge is for?
+VAL | [verify_source_of_funds] | YES | Text: We need to confirm the origin of your funds.
+VAL | [exchange_via_app] | YES | Text: Can I use your app to exchange my money for a different currency when traveling abroad?
+VAL | [compromised_card] | YES | Text: What can I do if my card information was stolen from my vehicle? I suspect someone used my compromised card to make a purchase, possibly at a gas station.
+VAL | [top_up_reverted] | NO | Text: My account balance has been reversed! Can you assist me in rectifying this issue?
+VAL | [supported_cards_and_currencies] | NO | Text: We accept a wide range of payment methods, including Visa, Mastercard, American Express, Discover, and Diners Club credit cards, as well as wire transfers in USD, EUR, JPY, and GBP.
+VAL | [pending_transfer] | YES | Text: I have a pending outgoing transfer
+VAL | [card_acceptance] | YES | Text: What areas or merchants can I expect to find your card accepted?

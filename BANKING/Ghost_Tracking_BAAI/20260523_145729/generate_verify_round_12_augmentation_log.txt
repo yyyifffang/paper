@@ -1,0 +1,76 @@
+GEN | [transfer_into_account] | Orig: My account is devoid of funds. Am I permitted to submit additional money via bank transfer? -> Aug: Can I still make a deposit into my account using a bank transfer, even though my account balance is currently zero?
+GEN | [automatic_top_up] | Orig: Can I have money transferred into my account at different intervals along my trip? -> Aug: Can I set up automatic top-ups to my account at regular intervals during my trip?
+GEN | [cancel_transfer] | Orig: I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account? -> Aug: I mistakenly initiated a transfer from an incorrect account, which was intended for a significant rent payment. The account I used won't have sufficient funds to cover the amount, and it's crucial that the payment is reversed and processed from the correct account.
+GEN | [top_up_failed] | Orig: My money I added isn't on my card. -> Aug: The funds I attempted to add are not showing up on my card.
+GEN | [declined_transfer] | Orig: How can I check for an unsupported merchant for my transfer request? -> Aug: We're unable to process your transfer request due to an unsupported merchant. Can you please verify the merchant's information to ensure it's valid and supported by our bank?
+GEN | [beneficiary_not_allowed] | Orig: What are then rules on beneficiaries? -> Aug: Who is eligible to be a beneficiary according to our bank's policies?
+GEN | [card_linking] | Orig: Help me access the card I already got so I can information from it. -> Aug: Can you assist me in linking to the card I already have so I can retrieve information from it?
+GEN | [cancel_transfer] | Orig: Help please!  My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account? -> Aug: My rent payment is scheduled to be withdrawn tomorrow, but I made an error with the payment yesterday. Can you please cancel the incorrect transfer and redirect it to the correct account?
+GEN | [pending_cash_withdrawal] | Orig: I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got. -> Aug: I attempted to withdraw cash earlier, but the ATM appears to be malfunctioning. Upon reviewing the transaction, I noticed that the status still shows as 'pending.' Can you investigate this issue and ensure I'm not charged for the withdrawn amount that I haven't received?
+GEN | [lost_or_stolen_phone] | Orig: I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user? -> Aug: I recently had my phone stolen and I'm trying to figure out if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account.
+GEN | [activate_my_card] | Orig: How can I make my card ready to use? -> Aug: What steps can I take to activate my card and start using it?
+GEN | [card_swallowed] | Orig: Please send a new card; the ATM ate mine. -> Aug: Please dispatch a replacement card; I think I accidentally swallowed my previous one.
+GEN | [transfer_not_received_by_recipient] | Orig: Money is not in recipients account. -> Aug: The funds have not been credited to the recipient's account.
+GEN | [change_pin] | Orig: How can I change my Rowlock ? -> Aug: How can I modify my PIN?
+GEN | [card_swallowed] | Orig: My card was eaten by the cash machine what do I do? -> Aug: My credit card was swallowed by the ATM, what should I do?
+GEN | [declined_transfer] | Orig: What do I do with my "decline" message on a transfer? -> Aug: What can I do about the transfer that was declined?
+GEN | [pending_cash_withdrawal] | Orig: Looking at my account I've noticed a charge that appears to still be in progress. I had attempted to get money out of the machine earlier but the machine seemed to have been broken. I never received my money so will you please look into this for me? I don't want to be charged for money I never actually received. -> Aug: I'm reviewing my account and noticed a pending cash withdrawal that seems to be stuck. I tried to withdraw cash from an ATM earlier, but it didn't go through due to technical issues. I didn't receive the cash, and I'd appreciate it if you could investigate this for me. I don't want to be charged for a transaction that didn't complete.
+GEN | [cash_withdrawal_not_recognised] | Orig: Some cash shows up on my app. -> Aug: There's an unexpected cash withdrawal showing up on my account.
+GEN | [card_linking] | Orig: In the app, how can I make it show the new card that arrived? -> Aug: In the app, how can I link my new card to my account?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can I Transfer from SWIFT? -> Aug: Can I top up my account by bank transfer and what's the charge for it?
+GEN | [transfer_into_account] | Orig: I have no more money in my account.  Is there a way to do a bank transfer to put money into my account? -> Aug: I'm running low on funds in my account. Can I initiate a transfer from another account to deposit money into my account?
+GEN | [getting_virtual_card] | Orig: Which part of the app do I order virtual cards from? -> Aug: Where can I find the option to request a virtual card within the app?
+GEN | [card_not_working] | Orig: I can't use my card for anything -> Aug: I'm having trouble using my card for any transactions
+GEN | [transfer_not_received_by_recipient] | Orig: I dont see my reciept -> Aug: I haven't received my transfer confirmation
+GEN | [receiving_money] | Orig: Will my GPB update my salary -> Aug: Will my account reflect my new paycheck?
+GEN | [pending_top_up] | Orig: how long should i expect to wait when i add money -> Aug: how long will it take for my top-up to be processed?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you offer SWIFT transfers? -> Aug: Can I make a bank transfer to top up my account?
+GEN | [cancel_transfer] | Orig: How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent. -> Aug: Can you please cancel the transfer I made yesterday to the wrong account and process the correct payment for my rent by tomorrow?
+GEN | [declined_cash_withdrawal] | Orig: Is my card actually working? It's the first time I tried using it -> Aug: Can you try making a cash withdrawal to test if your card is functioning properly?
+GEN | [extra_charge_on_statement] | Orig: What is the dollar that I have pending on my statement there? -> Aug: Can you please explain the additional charge I see on my statement?
+GEN | [declined_cash_withdrawal] | Orig: why would i be declined if i had money iin my account -> Aug: You're wondering why your cash withdrawal was declined despite having sufficient funds in your account?
+GEN | [lost_or_stolen_phone] | Orig: phone is at a hotel, can i still use app -> Aug: I left my phone at a hotel, can I still access the app?
+GEN | [card_not_working] | Orig: For a week now, I have tried to use my card and it is still not working. -> Aug: I've been trying to use my card for a week now, but it's still not functioning properly.
+GEN | [cash_withdrawal_not_recognised] | Orig: THere is some cash that is showing up on my app. -> Aug: The cash withdrawal transaction on my account is not being recognized.
+GEN | [transfer_fee_charged] | Orig: I've used my account frequently over the last month to manage my payments from abroad for my new place. I noticed that my fees have suddenly increased. As a frequent customer, shouldn't I be rewarded rather than suddenly being subject to a new fee? -> Aug: I've been a loyal customer for the past few months, using my account to manage international transactions for my new property. I've noticed a sudden increase in fees, which seems unfair considering my consistent usage. Shouldn't I be entitled to a discount or some sort of reward for my loyalty?
+GEN | [card_arrival] | Orig: Is there a way I can check on the card on route to me? -> Aug: Can I track the status of my card as it's being shipped to me?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you take SWIFT transfers? -> Aug: Can you accept bank transfers with a charge for topping up my account?
+GEN | [card_arrival] | Orig: I thought I would have received my new card at this point. -> Aug: I was expecting my new card to arrive by now.
+VAL | [transfer_into_account] | YES | Text: Can I still make a deposit into my account using a bank transfer, even though my account balance is currently zero?
+VAL | [automatic_top_up] | YES | Text: Can I set up automatic top-ups to my account at regular intervals during my trip?
+VAL | [cancel_transfer] | YES | Text: I mistakenly initiated a transfer from an incorrect account, which was intended for a significant rent payment. The account I used won't have sufficient funds to cover the amount, and it's crucial that the payment is reversed and processed from the correct account.
+VAL | [top_up_failed] | YES | Text: The funds I attempted to add are not showing up on my card.
+VAL | [declined_transfer] | NO | Text: We're unable to process your transfer request due to an unsupported merchant. Can you please verify the merchant's information to ensure it's valid and supported by our bank?
+VAL | [beneficiary_not_allowed] | NO | Text: Who is eligible to be a beneficiary according to our bank's policies?
+VAL | [card_linking] | YES | Text: Can you assist me in linking to the card I already have so I can retrieve information from it?
+VAL | [cancel_transfer] | YES | Text: My rent payment is scheduled to be withdrawn tomorrow, but I made an error with the payment yesterday. Can you please cancel the incorrect transfer and redirect it to the correct account?
+VAL | [pending_cash_withdrawal] | YES | Text: I attempted to withdraw cash earlier, but the ATM appears to be malfunctioning. Upon reviewing the transaction, I noticed that the status still shows as 'pending.' Can you investigate this issue and ensure I'm not charged for the withdrawn amount that I haven't received?
+VAL | [lost_or_stolen_phone] | NO | Text: I recently had my phone stolen and I'm trying to figure out if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account.
+VAL | [activate_my_card] | YES | Text: What steps can I take to activate my card and start using it?
+VAL | [card_swallowed] | NO | Text: Please dispatch a replacement card; I think I accidentally swallowed my previous one.
+VAL | [transfer_not_received_by_recipient] | YES | Text: The funds have not been credited to the recipient's account.
+VAL | [change_pin] | YES | Text: How can I modify my PIN?
+VAL | [card_swallowed] | YES | Text: My credit card was swallowed by the ATM, what should I do?
+VAL | [declined_transfer] | YES | Text: What can I do about the transfer that was declined?
+VAL | [pending_cash_withdrawal] | YES | Text: I'm reviewing my account and noticed a pending cash withdrawal that seems to be stuck. I tried to withdraw cash from an ATM earlier, but it didn't go through due to technical issues. I didn't receive the cash, and I'd appreciate it if you could investigate this for me. I don't want to be charged for a transaction that didn't complete.
+VAL | [cash_withdrawal_not_recognised] | NO | Text: There's an unexpected cash withdrawal showing up on my account.
+VAL | [card_linking] | YES | Text: In the app, how can I link my new card to my account?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I top up my account by bank transfer and what's the charge for it?
+VAL | [transfer_into_account] | YES | Text: I'm running low on funds in my account. Can I initiate a transfer from another account to deposit money into my account?
+VAL | [getting_virtual_card] | YES | Text: Where can I find the option to request a virtual card within the app?
+VAL | [card_not_working] | YES | Text: I'm having trouble using my card for any transactions
+VAL | [transfer_not_received_by_recipient] | NO | Text: I haven't received my transfer confirmation
+VAL | [receiving_money] | YES | Text: Will my account reflect my new paycheck?
+VAL | [pending_top_up] | YES | Text: how long will it take for my top-up to be processed?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can I make a bank transfer to top up my account?
+VAL | [cancel_transfer] | NO | Text: Can you please cancel the transfer I made yesterday to the wrong account and process the correct payment for my rent by tomorrow?
+VAL | [declined_cash_withdrawal] | NO | Text: Can you try making a cash withdrawal to test if your card is functioning properly?
+VAL | [extra_charge_on_statement] | YES | Text: Can you please explain the additional charge I see on my statement?
+VAL | [declined_cash_withdrawal] | YES | Text: You're wondering why your cash withdrawal was declined despite having sufficient funds in your account?
+VAL | [lost_or_stolen_phone] | YES | Text: I left my phone at a hotel, can I still access the app?
+VAL | [card_not_working] | YES | Text: I've been trying to use my card for a week now, but it's still not functioning properly.
+VAL | [cash_withdrawal_not_recognised] | YES | Text: The cash withdrawal transaction on my account is not being recognized.
+VAL | [transfer_fee_charged] | NO | Text: I've been a loyal customer for the past few months, using my account to manage international transactions for my new property. I've noticed a sudden increase in fees, which seems unfair considering my consistent usage. Shouldn't I be entitled to a discount or some sort of reward for my loyalty?
+VAL | [card_arrival] | YES | Text: Can I track the status of my card as it's being shipped to me?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Can you accept bank transfers with a charge for topping up my account?
+VAL | [card_arrival] | YES | Text: I was expecting my new card to arrive by now.

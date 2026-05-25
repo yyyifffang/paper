@@ -1,0 +1,78 @@
+GEN | [card_delivery_estimate] | Orig: are you sending me my card? -> Aug: Can you provide an estimated delivery date for my new card?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I have a question about ATM transactions. Can I take money out of an ATM when I'm traveling abroad? And, can I get the money in my home currancy? -> Aug: I'm trying to withdraw cash from an ATM while abroad, but I'm concerned about the exchange rate. Will I get the correct rate for my home currency, or will there be an issue?
+GEN | [passcode_forgotten] | Orig: I forgot my code -> Aug: I've misplaced my passcode
+GEN | [get_physical_card] | Orig: my pin hasn't arrived in the post! How do I cancel it or get a new one? -> Aug: My physical card has not been delivered. Can I request a new one or cancel the existing one?
+GEN | [atm_support] | Orig: How do I withdraw money? -> Aug: What is the process for withdrawing cash from an ATM?
+GEN | [get_physical_card] | Orig: How long do I wait for my PIN -> Aug: When can I expect to receive my physical credit card?
+GEN | [card_about_to_expire] | Orig: My card's expiration date is close. -> Aug: Your credit card's expiration date is approaching.
+GEN | [passcode_forgotten] | Orig: I'm locked out of my account as I can't remember my code, what do I do now? -> Aug: I've forgotten my passcode and can't access my account, what are my options?
+GEN | [transfer_not_received_by_recipient] | Orig: How long should a transfer normally take to process completely? I have a friend that needs it right away, but it's already been 2 hours and she hasn't received it. -> Aug: I'm concerned about a transfer that was initiated a couple of hours ago, but my friend hasn't received it yet. Can you please let me know what's causing the delay and when she can expect to receive the funds?
+GEN | [passcode_forgotten] | Orig: Can you lookup my password? -> Aug: I forgot my passcode and need help retrieving it.
+GEN | [extra_charge_on_statement] | Orig: Please explain the charge of 1L in error.  I have purchased nothing in this amount. -> Aug: I'd be happy to help you understand the extra charge on your statement. Can you please provide me with your account number so I can investigate this further and clarify the reason behind the 1L charge?
+GEN | [visa_or_mastercard] | Orig: I prefer using Mastercard, can I substitute? -> Aug: I'd like to use Visa instead, is that possible?
+GEN | [passcode_forgotten] | Orig: I can't log in with this passocde -> Aug: I forgot my passcode and can't access my account
+GEN | [get_physical_card] | Orig: I signed up, but don't have a PIN. Where can I find it? -> Aug: I'd like to obtain my physical card, but I don't have a PIN. Can you guide me on how to get it?
+GEN | [get_physical_card] | Orig: I've been waiting ages and my PIN hasn't gotten here. -> Aug: I've been waiting for a long time and my physical debit card still hasn't arrived.
+GEN | [transfer_fee_charged] | Orig: I transferred 7,000 to a receiver outside the EU and they received a lesser amount than what I sent, Unfortunately, now I must send an additional transfer to the receiver so that they can receive the full amount I initially sent.  I'm not sure why they received a lesser amount than what I initially sen, but can you please look into this and let me know what happened? -> Aug: I made an international transfer of 7,000 to a recipient outside the EU, but they only received a smaller amount than what I sent. To rectify this, I need to initiate another transfer to ensure they receive the full amount I originally sent. Could you investigate this discrepancy and provide insight into what might have caused the issue?
+GEN | [card_arrival] | Orig: Where is my credit card that was to be mailed? -> Aug: I'm expecting my credit card to arrive, but I haven't received it yet. Can you please let me know its status?
+GEN | [edit_personal_details] | Orig: details need to be modified -> Aug: information requires updating
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I did a transfer but the balance is the same. -> Aug: I made a transfer, but my account balance hasn't been updated.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Help me find the transfer that I did. -> Aug: I'm trying to locate the recent bank transfer that was made, but my account balance isn't reflecting the updated amount.
+GEN | [get_disposable_virtual_card] | Orig: Please send me a disposable virtual card. -> Aug: Can you provide me with a disposable virtual card?
+GEN | [getting_spare_card] | Orig: How many active cards can I have? -> Aug: Can I have multiple active cards at the same time?
+GEN | [transfer_fee_charged] | Orig: I usually don't get charged for transfers, why was I this month? -> Aug: I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?
+GEN | [cash_withdrawal_charge] | Orig: How do I avoid a fee to use an ATM? -> Aug: Can I avoid being charged for using an ATM to withdraw cash?
+GEN | [card_payment_fee_charged] | Orig: I am angry that I got charged for using my card. -> Aug: I'm frustrated because I was unexpectedly charged a fee for making a payment with my credit card.
+GEN | [exchange_via_app] | Orig: Can i add a new currency to my account? -> Aug: Can I add a new currency to my account through the app?
+GEN | [top_up_by_card_charge] | Orig: Will you assess me more fees if I top up with an international card? -> Aug: Will you charge me extra fees if I make a top-up payment using an international card?
+GEN | [atm_support] | Orig: Can I use a different bank ATM than my own? -> Aug: Can I use an ATM from a different bank than my own?
+GEN | [activate_my_card] | Orig: If you to to account, hit activate, and follow the instructions, you can activate it in just a few seconds. -> Aug: Once you log in to your account, click on "activate" and follow the prompts to activate your card in a few easy steps.
+GEN | [card_payment_wrong_exchange_rate] | Orig: I have been overcharged. I just changed over Russian Ruble to UK pounds and it was too much. It seems something was wrong with my exchange. -> Aug: I've been charged an incorrect amount. I recently converted some Russian Rubles to UK pounds, but the exchange rate was off. It appears there was an error with the conversion.
+GEN | [fiat_currency_support] | Orig: Do you deal with EUR? -> Aug: Do you support the Euro (EUR) as a fiat currency?
+GEN | [card_arrival] | Orig: Have you sent out my card yet? -> Aug: Has my new card been dispatched to me?
+GEN | [get_physical_card] | Orig: I do not have my pin yet -> Aug: I need to obtain my physical card
+GEN | [exchange_via_app] | Orig: Can you  tell me how to get AUD not GBP? -> Aug: Can you guide me on how to exchange currency from AUD to GBP using the app?
+GEN | [pending_transfer] | Orig: Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet. -> Aug: Hello, I've reviewed my account information to confirm it's accurate. I've had a transfer in a pending state for some time, and I'm still unsure why it hasn't been processed yet.
+GEN | [get_physical_card] | Orig: I haven't received my PIN yet. Do I need to get it from you? -> Aug: I'm still waiting for my physical card. Can I obtain it from your end?
+GEN | [transfer_into_account] | Orig: What are my bank details so I can do a transfer? -> Aug: Can you please provide me with your account information so I can facilitate a transfer into your account?
+GEN | [transfer_not_received_by_recipient] | Orig: How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately. -> Aug: I'm concerned that the transfer I sent to my friend hasn't arrived yet. Can you please look into this and let me know what's causing the delay? I'm worried she's waiting for the funds and it's taking too long.
+GEN | [receiving_money] | Orig: how do i find out about transfers -> Aug: how can I track my incoming transactions?
+VAL | [card_delivery_estimate] | YES | Text: Can you provide an estimated delivery date for my new card?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | NO | Text: I'm trying to withdraw cash from an ATM while abroad, but I'm concerned about the exchange rate. Will I get the correct rate for my home currency, or will there be an issue?
+VAL | [passcode_forgotten] | YES | Text: I've misplaced my passcode
+VAL | [get_physical_card] | NO | Text: My physical card has not been delivered. Can I request a new one or cancel the existing one?
+VAL | [atm_support] | YES | Text: What is the process for withdrawing cash from an ATM?
+VAL | [get_physical_card] | NO | Text: When can I expect to receive my physical credit card?
+VAL | [card_about_to_expire] | YES | Text: Your credit card's expiration date is approaching.
+VAL | [passcode_forgotten] | YES | Text: I've forgotten my passcode and can't access my account, what are my options?
+VAL | [transfer_not_received_by_recipient] | NO | Text: I'm concerned about a transfer that was initiated a couple of hours ago, but my friend hasn't received it yet. Can you please let me know what's causing the delay and when she can expect to receive the funds?
+VAL | [passcode_forgotten] | YES | Text: I forgot my passcode and need help retrieving it.
+VAL | [extra_charge_on_statement] | NO | Text: I'd be happy to help you understand the extra charge on your statement. Can you please provide me with your account number so I can investigate this further and clarify the reason behind the 1L charge?
+VAL | [visa_or_mastercard] | NO | Text: I'd like to use Visa instead, is that possible?
+VAL | [passcode_forgotten] | NO | Text: I forgot my passcode and can't access my account
+VAL | [get_physical_card] | NO | Text: I'd like to obtain my physical card, but I don't have a PIN. Can you guide me on how to get it?
+VAL | [get_physical_card] | YES | Text: I've been waiting for a long time and my physical debit card still hasn't arrived.
+VAL | [transfer_fee_charged] | YES | Text: I made an international transfer of 7,000 to a recipient outside the EU, but they only received a smaller amount than what I sent. To rectify this, I need to initiate another transfer to ensure they receive the full amount I originally sent. Could you investigate this discrepancy and provide insight into what might have caused the issue?
+VAL | [card_arrival] | YES | Text: I'm expecting my credit card to arrive, but I haven't received it yet. Can you please let me know its status?
+VAL | [edit_personal_details] | YES | Text: information requires updating
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I made a transfer, but my account balance hasn't been updated.
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm trying to locate the recent bank transfer that was made, but my account balance isn't reflecting the updated amount.
+VAL | [get_disposable_virtual_card] | YES | Text: Can you provide me with a disposable virtual card?
+VAL | [getting_spare_card] | NO | Text: Can I have multiple active cards at the same time?
+VAL | [transfer_fee_charged] | YES | Text: I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?
+VAL | [cash_withdrawal_charge] | YES | Text: Can I avoid being charged for using an ATM to withdraw cash?
+VAL | [card_payment_fee_charged] | YES | Text: I'm frustrated because I was unexpectedly charged a fee for making a payment with my credit card.
+VAL | [exchange_via_app] | NO | Text: Can I add a new currency to my account through the app?
+VAL | [top_up_by_card_charge] | YES | Text: Will you charge me extra fees if I make a top-up payment using an international card?
+VAL | [atm_support] | YES | Text: Can I use an ATM from a different bank than my own?
+VAL | [activate_my_card] | YES | Text: Once you log in to your account, click on "activate" and follow the prompts to activate your card in a few easy steps.
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: I've been charged an incorrect amount. I recently converted some Russian Rubles to UK pounds, but the exchange rate was off. It appears there was an error with the conversion.
+VAL | [fiat_currency_support] | YES | Text: Do you support the Euro (EUR) as a fiat currency?
+VAL | [card_arrival] | YES | Text: Has my new card been dispatched to me?
+VAL | [get_physical_card] | NO | Text: I need to obtain my physical card
+VAL | [exchange_via_app] | YES | Text: Can you guide me on how to exchange currency from AUD to GBP using the app?
+VAL | [pending_transfer] | YES | Text: Hello, I've reviewed my account information to confirm it's accurate. I've had a transfer in a pending state for some time, and I'm still unsure why it hasn't been processed yet.
+VAL | [get_physical_card] | YES | Text: I'm still waiting for my physical card. Can I obtain it from your end?
+VAL | [transfer_into_account] | YES | Text: Can you please provide me with your account information so I can facilitate a transfer into your account?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I'm concerned that the transfer I sent to my friend hasn't arrived yet. Can you please look into this and let me know what's causing the delay? I'm worried she's waiting for the funds and it's taking too long.
+VAL | [receiving_money] | YES | Text: how can I track my incoming transactions?

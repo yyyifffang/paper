@@ -1,0 +1,76 @@
+GEN | [card_not_working] | Orig: What can I do to make my physical card work? -> Aug: How can I get my physical card to function properly?
+GEN | [cancel_transfer] | Orig: Is it possible for a transaction to be cancelled? -> Aug: Can I cancel a transfer that has already been initiated?
+GEN | [reverted_card_payment?] | Orig: I cancelled my card payment -> Aug: Did you reverse the payment on your card?
+GEN | [why_verify_identity] | Orig: I am still waiting for verification.  Can I use my account before I am verified? -> Aug: I'm still waiting for the verification process to complete. Can I access my account before the verification is confirmed?
+GEN | [card_about_to_expire] | Orig: want a new card what are the fees -> Aug: can I get a new card before my current one expires, and what are the associated fees?
+GEN | [card_not_working] | Orig: How do I re-order a damaged card? -> Aug: I'm having trouble using my card, can I request a replacement?
+GEN | [transfer_not_received_by_recipient] | Orig: I sent a payment but it isn't showing up in the app -> Aug: I initiated a transfer, but the recipient hasn't received it yet.
+GEN | [transfer_fee_charged] | Orig: Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this. -> Aug: Hi, I've made a transfer, but the beneficiary's account was credited with a lower amount. I've since re-transferred the remaining difference. I believe there's an issue, could you please investigate this?
+GEN | [failed_transfer] | Orig: I was unable to transfer money from my account. -> Aug: The transfer of funds from my account was unsuccessful.
+GEN | [card_linking] | Orig: I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card. -> Aug: I recently found my card, which I had previously thought was lost, and I would like to reactivate the card.
+GEN | [change_pin] | Orig: I need to make my card PIN a different number -> Aug: I'd like to update my card's personal identification number.
+GEN | [why_verify_identity] | Orig: What happens if I use my account and my identity verification hasn't finished? -> Aug: What if I access my account before completing the identity verification process?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: When I exchanged currencies the value of my money changed. -> Aug: The exchange rate was incorrect, and my cash withdrawal amount was affected.
+GEN | [change_pin] | Orig: Your card pin can be changed at any Visa or MasterCard ATM with Pin services, excluding countries such as Belgium, Luxembourg, Austria, Germany, Spain, and France. -> Aug: You can modify your card's PIN at any Visa or MasterCard ATM with PIN services, excluding countries like Belgium, Luxembourg, Austria, Germany, and Spain, as well as France.
+GEN | [failed_transfer] | Orig: What is happening?  I have tried to transfer money 5x already.  Is the system down?  This shouldnt be happening as this is a basic transfer. -> Aug: I'm experiencing issues with a transfer that's not going through. I've tried to initiate the transfer multiple times, but it keeps failing. Is there a technical issue with the system or is this a problem with my account?
+GEN | [get_physical_card] | Orig: Help, I don't know what the PIN is to my card? -> Aug: Can you assist me in retrieving the physical card details, including the PIN, as I've misplaced it?
+GEN | [card_payment_not_recognised] | Orig: I think my card is being used by someone else to make purchases that I didn't authorize! I checked my account and see that there have been quite a few purchases over the last two days that I have no idea where they came from. We need to freeze my card now! And I need to find a way to get my money back. -> Aug: I'm concerned that someone else is using my card to make unauthorized transactions. I've reviewed my account activity and noticed several unexplained charges over the past two days. I'd like to report this incident and request that my card be temporarily suspended. Additionally, I'd like assistance with reversing the unauthorized transactions and recovering my lost funds.
+GEN | [top_up_reverted] | Orig: Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system. -> Aug: Hello, I've successfully topped up my account, but the credit hasn't been reflected. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system.
+GEN | [virtual_card_not_working] | Orig: My virtual card is just not going through. -> Aug: My virtual card is experiencing technical difficulties and won't process transactions.
+GEN | [failed_transfer] | Orig: I can't seem to make a standard bank transfer. I have tried at least five times already but none of them are going through. Please tell me what is wrong? -> Aug: I've attempted to initiate a standard bank transfer multiple times, but it keeps failing. I've tried at least five times, but none of them have been successful. Can you help me identify the issue?
+GEN | [why_verify_identity] | Orig: do I need to verify my identity before I can use my card? -> Aug: Can you please explain why I need to verify my identity before I can access my account or use my card?
+GEN | [Refund_not_showing_up] | Orig: My refund isn't going fast enough. -> Aug: My refund is taking too long to process.
+GEN | [card_not_working] | Orig: What's going on with my card? I've tried multiple times and it never goes through. -> Aug: My card isn't working, and I've tried swiping it multiple times, but it keeps getting declined.
+GEN | [transaction_charged_twice] | Orig: My account seems a bit off and getting weird charges. -> Aug: My account appears to have an unusual discrepancy, with duplicate charges showing up.
+GEN | [transfer_not_received_by_recipient] | Orig: Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check? -> Aug: Hello, I'm concerned about a recent transfer I made to my landlord, as they're claiming it hasn't been received. I've double-checked the account number and everything appears to be in order on my end. Could there be any other reason why the transfer hasn't gone through?
+GEN | [change_pin] | Orig: Do I need to go to a physical bank to change my PIN? -> Aug: Can I change my PIN at a physical bank branch or is there another way to do it?
+GEN | [top_up_by_cash_or_cheque] | Orig: How long before a check I send clears? -> Aug: Can I know the processing time for a cheque deposit or a cash top-up?
+GEN | [beneficiary_not_allowed] | Orig: Why am I unable to transfer money when I was able to before? -> Aug: Why am I no longer able to add a beneficiary, as I was previously able to do so?
+GEN | [top_up_reverted] | Orig: I got an cancellation error when I was topping up. -> Aug: I experienced a failed transaction while attempting to add funds.
+GEN | [verify_top_up] | Orig: Where's my top up code? -> Aug: Can you please provide me with my top-up code?
+GEN | [passcode_forgotten] | Orig: I used to know my password, but not anymore. -> Aug: I'm having trouble remembering my passcode.
+GEN | [transfer_not_received_by_recipient] | Orig: I've been waiting since Friday, where is my money? -> Aug: I've been waiting for a few days, but the transfer hasn't arrived at the recipient's end.
+GEN | [Refund_not_showing_up] | Orig: I requested a refund from a merchant a while ago, and upon repeatedly checking my statement, the merchant has yet to refund me my money.  I don't know what's going on, or why the money is getting into my account--could you please help? -> Aug: I made a refund request with a merchant a while back, but I've been checking my statement regularly and haven't seen the refund appear. The merchant hasn't provided any updates, and I'm starting to get concerned about the status of my refund. Can you assist me in resolving this issue?
+GEN | [top_up_by_card_charge] | Orig: Do you charge a fee for adding money in USD? -> Aug: Is there a charge for topping up my account using my card in USD?
+GEN | [change_pin] | Orig: Set a new PIN please. -> Aug: Update my existing PIN, please.
+GEN | [card_payment_fee_charged] | Orig: What are the fees imposed when I make a transaction? -> Aug: Can you please inform me about the charges I'll be charged for using my card for a transaction?
+GEN | [pending_transfer] | Orig: I wanted to know why there is a transfer of mine pending. -> Aug: I'm curious about the status of a transfer I initiated, which is currently pending.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Where is the transfer that I did? -> Aug: I'm still waiting to see the transfer I initiated.
+VAL | [card_not_working] | NO | Text: How can I get my physical card to function properly?
+VAL | [cancel_transfer] | YES | Text: Can I cancel a transfer that has already been initiated?
+VAL | [reverted_card_payment?] | YES | Text: Did you reverse the payment on your card?
+VAL | [why_verify_identity] | YES | Text: I'm still waiting for the verification process to complete. Can I access my account before the verification is confirmed?
+VAL | [card_about_to_expire] | NO | Text: can I get a new card before my current one expires, and what are the associated fees?
+VAL | [card_not_working] | NO | Text: I'm having trouble using my card, can I request a replacement?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I initiated a transfer, but the recipient hasn't received it yet.
+VAL | [transfer_fee_charged] | NO | Text: Hi, I've made a transfer, but the beneficiary's account was credited with a lower amount. I've since re-transferred the remaining difference. I believe there's an issue, could you please investigate this?
+VAL | [failed_transfer] | YES | Text: The transfer of funds from my account was unsuccessful.
+VAL | [card_linking] | NO | Text: I recently found my card, which I had previously thought was lost, and I would like to reactivate the card.
+VAL | [change_pin] | YES | Text: I'd like to update my card's personal identification number.
+VAL | [why_verify_identity] | NO | Text: What if I access my account before completing the identity verification process?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: The exchange rate was incorrect, and my cash withdrawal amount was affected.
+VAL | [change_pin] | YES | Text: You can modify your card's PIN at any Visa or MasterCard ATM with PIN services, excluding countries like Belgium, Luxembourg, Austria, Germany, and Spain, as well as France.
+VAL | [failed_transfer] | YES | Text: I'm experiencing issues with a transfer that's not going through. I've tried to initiate the transfer multiple times, but it keeps failing. Is there a technical issue with the system or is this a problem with my account?
+VAL | [get_physical_card] | NO | Text: Can you assist me in retrieving the physical card details, including the PIN, as I've misplaced it?
+VAL | [card_payment_not_recognised] | YES | Text: I'm concerned that someone else is using my card to make unauthorized transactions. I've reviewed my account activity and noticed several unexplained charges over the past two days. I'd like to report this incident and request that my card be temporarily suspended. Additionally, I'd like assistance with reversing the unauthorized transactions and recovering my lost funds.
+VAL | [top_up_reverted] | YES | Text: Hello, I've successfully topped up my account, but the credit hasn't been reflected. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system.
+VAL | [virtual_card_not_working] | YES | Text: My virtual card is experiencing technical difficulties and won't process transactions.
+VAL | [failed_transfer] | YES | Text: I've attempted to initiate a standard bank transfer multiple times, but it keeps failing. I've tried at least five times, but none of them have been successful. Can you help me identify the issue?
+VAL | [why_verify_identity] | YES | Text: Can you please explain why I need to verify my identity before I can access my account or use my card?
+VAL | [Refund_not_showing_up] | YES | Text: My refund is taking too long to process.
+VAL | [card_not_working] | YES | Text: My card isn't working, and I've tried swiping it multiple times, but it keeps getting declined.
+VAL | [transaction_charged_twice] | YES | Text: My account appears to have an unusual discrepancy, with duplicate charges showing up.
+VAL | [transfer_not_received_by_recipient] | YES | Text: Hello, I'm concerned about a recent transfer I made to my landlord, as they're claiming it hasn't been received. I've double-checked the account number and everything appears to be in order on my end. Could there be any other reason why the transfer hasn't gone through?
+VAL | [change_pin] | NO | Text: Can I change my PIN at a physical bank branch or is there another way to do it?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I know the processing time for a cheque deposit or a cash top-up?
+VAL | [beneficiary_not_allowed] | NO | Text: Why am I no longer able to add a beneficiary, as I was previously able to do so?
+VAL | [top_up_reverted] | YES | Text: I experienced a failed transaction while attempting to add funds.
+VAL | [verify_top_up] | NO | Text: Can you please provide me with my top-up code?
+VAL | [passcode_forgotten] | YES | Text: I'm having trouble remembering my passcode.
+VAL | [transfer_not_received_by_recipient] | YES | Text: I've been waiting for a few days, but the transfer hasn't arrived at the recipient's end.
+VAL | [Refund_not_showing_up] | YES | Text: I made a refund request with a merchant a while back, but I've been checking my statement regularly and haven't seen the refund appear. The merchant hasn't provided any updates, and I'm starting to get concerned about the status of my refund. Can you assist me in resolving this issue?
+VAL | [top_up_by_card_charge] | YES | Text: Is there a charge for topping up my account using my card in USD?
+VAL | [change_pin] | YES | Text: Update my existing PIN, please.
+VAL | [card_payment_fee_charged] | NO | Text: Can you please inform me about the charges I'll be charged for using my card for a transaction?
+VAL | [pending_transfer] | YES | Text: I'm curious about the status of a transfer I initiated, which is currently pending.
+VAL | [balance_not_updated_after_bank_transfer] | NO | Text: I'm still waiting to see the transfer I initiated.

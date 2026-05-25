@@ -1,0 +1,78 @@
+GEN | [top_up_by_cash_or_cheque] | Orig: How long before a check I send clears? -> Aug: Can I know the processing time for a cheque deposit or a cash top-up?
+GEN | [transfer_fee_charged] | Orig: A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on? -> Aug: A sender informed me that the recipient didn't receive the full transfer amount, and I need to make an additional transfer to cover the remaining balance. Can you investigate this discrepancy and let me know what's happening?
+GEN | [card_payment_fee_charged] | Orig: Why did I have to pay an additional amount when using my card to pay? -> Aug: Why was I charged an extra fee when I used my card to make a payment?
+GEN | [card_not_working] | Orig: How do I re-order a damaged card? -> Aug: I'm having trouble using my card, can I request a replacement?
+GEN | [cash_withdrawal_not_recognised] | Orig: Money was taken out without my consent, -> Aug: Unauthorised cash withdrawal was made without my knowledge or approval.
+GEN | [card_arrival] | Orig: Have you sent out my card yet? -> Aug: Has my new card been dispatched to me?
+GEN | [visa_or_mastercard] | Orig: What credit cards do you carry -> Aug: We accept both Visa and Mastercard
+GEN | [supported_cards_and_currencies] | Orig: Can I use any card and currency? -> Aug: We currently support a range of cards and currencies, including Visa, Mastercard, American Express, and Discover, as well as USD, CAD, EUR, and many others.
+GEN | [card_not_working] | Orig: Need help to get my card to work. -> Aug: Can you assist me in resolving the issue with my card not functioning properly?
+GEN | [top_up_by_cash_or_cheque] | Orig: Is topping up with cash allowed? -> Aug: Can I make a cash deposit to top up my account?
+GEN | [beneficiary_not_allowed] | Orig: My account transfer was not cleared. -> Aug: The beneficiary is not authorized to receive the transfer.
+GEN | [card_arrival] | Orig: What do I need to do to get my new card which I have requested 2 weeks ago? -> Aug: When can I expect to receive my new card, which I requested two weeks ago?
+GEN | [card_about_to_expire] | Orig: I think my card is expiring, what happens then? -> Aug: I'm concerned my credit card is approaching its expiration date, what are the consequences?
+GEN | [card_delivery_estimate] | Orig: I need my card soon. -> Aug: I require an estimated delivery date for my card.
+GEN | [top_up_by_card_charge] | Orig: Do you charge a fee for adding money in USD? -> Aug: Is there a charge for topping up my account using my card in USD?
+GEN | [supported_cards_and_currencies] | Orig: What currency is acceptable for a top up? -> Aug: We accept a variety of currencies, including USD, EUR, JPY, and GBP, as well as major credit cards like Visa, Mastercard, and American Express.
+GEN | [card_not_working] | Orig: I can't get my actual card to work -> Aug: I'm having trouble using my physical card
+GEN | [transfer_fee_charged] | Orig: I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done -> Aug: I initiated a transfer, but the recipient only received a reduced amount, which means I need to make an additional transfer to cover the shortfall. Can you assist me in resolving this issue?
+GEN | [automatic_top_up] | Orig: I know there's an auto-top option but I can not locate it when I look? -> Aug: I'm having trouble finding the automatic top-up feature, can you help me locate it?
+GEN | [reverted_card_payment?] | Orig: I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here? -> Aug: I recently made a purchase, received one item, but the full amount was reversed back to my account. Can you help me understand what's happening?
+GEN | [extra_charge_on_statement] | Orig: There is a charge for an additional pound. -> Aug: A supplementary fee has been added to your statement.
+GEN | [top_up_by_card_charge] | Orig: What options do I have when topping up a US card? -> Aug: What methods can I use to charge my US card for a top-up?
+GEN | [declined_card_payment] | Orig: Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident. -> Aug: I'm sorry to hear that your recent payment attempt with your new card was declined. Can you please provide more details about the issue, such as the exact error message or the date and time of the declined transaction? This will help me assist you in resolving the issue and getting your payment processed successfully.
+GEN | [lost_or_stolen_card] | Orig: I left my card at a restaurant and now its missing. -> Aug: I misplaced my card at a restaurant and it's no longer in my possession.
+GEN | [exchange_rate] | Orig: Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from? -> Aug: Can you please specify the source of the exchange rate used for the transfer I'm planning to make?
+GEN | [pending_transfer] | Orig: Hi I am trying to transfer money to another country but it is showing pending and it has been a long time.  I have checked numbers and they are correct.  Could you please help? -> Aug: I'm attempting to initiate an international money transfer, but the status is still showing as "pending" and it's been an extended period. I've double-checked the recipient's details and they're accurate. Could you assist me in resolving this issue?
+GEN | [card_about_to_expire] | Orig: Will you send me a new card in China? -> Aug: Can you assist me with getting a replacement card before my current one expires while I'm in China?
+GEN | [verify_source_of_funds] | Orig: What do I need to do to verify my funds? -> Aug: How can I confirm the origin of my funds?
+GEN | [contactless_not_working] | Orig: how many days processing new card? -> Aug: I'm sorry, but our contactless payment feature is currently not functioning, and we're working to resolve the issue as soon as possible. Can I assist you with an alternative payment method or provide an estimated timeframe for when the issue will be resolved?
+GEN | [declined_transfer] | Orig: I think there has been a mistake with my transfer -> Aug: I believe there was an error with the transfer I initiated
+GEN | [age_limit] | Orig: Can I get an account for my son? -> Aug: Can I open an account for my minor child?
+GEN | [card_not_working] | Orig: My card stopped working. How do I check if there is a freeze on it? -> Aug: My credit card is no longer functioning. Can you help me determine if it's been frozen or restricted?
+GEN | [beneficiary_not_allowed] | Orig: I tried transferring to an account but it didn't go through. What happened? -> Aug: I attempted to make a transfer, but the beneficiary is not authorized to receive funds. Can you help me resolve this issue?
+GEN | [getting_spare_card] | Orig: I'd like to order another card -> Aug: I'd like to request a replacement card
+GEN | [lost_or_stolen_card] | Orig: I lost track of my card -> Aug: I misplaced my credit card
+GEN | [cash_withdrawal_not_recognised] | Orig: There are funds showing in my app that I did not receive. -> Aug: The amount I see in my account does not match the cash withdrawal I made.
+GEN | [compromised_card] | Orig: Questionable transactions on my account. -> Aug: Unusual activity detected on my account.
+GEN | [pending_transfer] | Orig: How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately? -> Aug: How long does it typically take for a seller to receive a pending transfer from an EU account after I initiate the payment immediately?
+GEN | [pending_top_up] | Orig: It's been some time since refilled the top-up. -> Aug: The top-up refill has been pending for a while now.
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I know the processing time for a cheque deposit or a cash top-up?
+VAL | [transfer_fee_charged] | NO | Text: A sender informed me that the recipient didn't receive the full transfer amount, and I need to make an additional transfer to cover the remaining balance. Can you investigate this discrepancy and let me know what's happening?
+VAL | [card_payment_fee_charged] | YES | Text: Why was I charged an extra fee when I used my card to make a payment?
+VAL | [card_not_working] | NO | Text: I'm having trouble using my card, can I request a replacement?
+VAL | [cash_withdrawal_not_recognised] | YES | Text: Unauthorised cash withdrawal was made without my knowledge or approval.
+VAL | [card_arrival] | YES | Text: Has my new card been dispatched to me?
+VAL | [visa_or_mastercard] | NO | Text: We accept both Visa and Mastercard
+VAL | [supported_cards_and_currencies] | YES | Text: We currently support a range of cards and currencies, including Visa, Mastercard, American Express, and Discover, as well as USD, CAD, EUR, and many others.
+VAL | [card_not_working] | YES | Text: Can you assist me in resolving the issue with my card not functioning properly?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Can I make a cash deposit to top up my account?
+VAL | [beneficiary_not_allowed] | YES | Text: The beneficiary is not authorized to receive the transfer.
+VAL | [card_arrival] | YES | Text: When can I expect to receive my new card, which I requested two weeks ago?
+VAL | [card_about_to_expire] | YES | Text: I'm concerned my credit card is approaching its expiration date, what are the consequences?
+VAL | [card_delivery_estimate] | YES | Text: I require an estimated delivery date for my card.
+VAL | [top_up_by_card_charge] | YES | Text: Is there a charge for topping up my account using my card in USD?
+VAL | [supported_cards_and_currencies] | NO | Text: We accept a variety of currencies, including USD, EUR, JPY, and GBP, as well as major credit cards like Visa, Mastercard, and American Express.
+VAL | [card_not_working] | YES | Text: I'm having trouble using my physical card
+VAL | [transfer_fee_charged] | NO | Text: I initiated a transfer, but the recipient only received a reduced amount, which means I need to make an additional transfer to cover the shortfall. Can you assist me in resolving this issue?
+VAL | [automatic_top_up] | YES | Text: I'm having trouble finding the automatic top-up feature, can you help me locate it?
+VAL | [reverted_card_payment?] | NO | Text: I recently made a purchase, received one item, but the full amount was reversed back to my account. Can you help me understand what's happening?
+VAL | [extra_charge_on_statement] | YES | Text: A supplementary fee has been added to your statement.
+VAL | [top_up_by_card_charge] | YES | Text: What methods can I use to charge my US card for a top-up?
+VAL | [declined_card_payment] | NO | Text: I'm sorry to hear that your recent payment attempt with your new card was declined. Can you please provide more details about the issue, such as the exact error message or the date and time of the declined transaction? This will help me assist you in resolving the issue and getting your payment processed successfully.
+VAL | [lost_or_stolen_card] | YES | Text: I misplaced my card at a restaurant and it's no longer in my possession.
+VAL | [exchange_rate] | YES | Text: Can you please specify the source of the exchange rate used for the transfer I'm planning to make?
+VAL | [pending_transfer] | YES | Text: I'm attempting to initiate an international money transfer, but the status is still showing as "pending" and it's been an extended period. I've double-checked the recipient's details and they're accurate. Could you assist me in resolving this issue?
+VAL | [card_about_to_expire] | NO | Text: Can you assist me with getting a replacement card before my current one expires while I'm in China?
+VAL | [verify_source_of_funds] | NO | Text: How can I confirm the origin of my funds?
+VAL | [contactless_not_working] | NO | Text: I'm sorry, but our contactless payment feature is currently not functioning, and we're working to resolve the issue as soon as possible. Can I assist you with an alternative payment method or provide an estimated timeframe for when the issue will be resolved?
+VAL | [declined_transfer] | NO | Text: I believe there was an error with the transfer I initiated
+VAL | [age_limit] | YES | Text: Can I open an account for my minor child?
+VAL | [card_not_working] | YES | Text: My credit card is no longer functioning. Can you help me determine if it's been frozen or restricted?
+VAL | [beneficiary_not_allowed] | YES | Text: I attempted to make a transfer, but the beneficiary is not authorized to receive funds. Can you help me resolve this issue?
+VAL | [getting_spare_card] | NO | Text: I'd like to request a replacement card
+VAL | [lost_or_stolen_card] | NO | Text: I misplaced my credit card
+VAL | [cash_withdrawal_not_recognised] | YES | Text: The amount I see in my account does not match the cash withdrawal I made.
+VAL | [compromised_card] | NO | Text: Unusual activity detected on my account.
+VAL | [pending_transfer] | YES | Text: How long does it typically take for a seller to receive a pending transfer from an EU account after I initiate the payment immediately?
+VAL | [pending_top_up] | YES | Text: The top-up refill has been pending for a while now.

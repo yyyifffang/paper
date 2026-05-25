@@ -1,0 +1,76 @@
+GEN | [order_physical_card] | Orig: Can I have a tangible form of my virtual card. -> Aug: Can I receive a physical copy of my virtual card?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I'm looking for a machine of yours that will provide me cash from my home country. I went on holiday and don't have any cash on me. Will your machine charge me extra to do this? -> Aug: I'm trying to withdraw some cash from my account, but I'm concerned that the exchange rate might be incorrect. I'm on a trip and don't have any local currency with me. Will I be charged an additional fee for the exchange rate discrepancy?
+GEN | [exchange_rate] | Orig: What's the process for exchanges? -> Aug: What's the procedure for converting currencies?
+GEN | [visa_or_mastercard] | Orig: This transaction needs both a Visa and a Mastercard. -> Aug: This transaction requires both a Visa and a Mastercard.
+GEN | [direct_debit_payment_not_recognised] | Orig: I did not set up a direct debit I have -> Aug: We have not detected a direct debit payment from your account.
+GEN | [getting_virtual_card] | Orig: I would love one of the virtual cards! -> Aug: I'm interested in obtaining a virtual card, please.
+GEN | [visa_or_mastercard] | Orig: Can I get a Visa from you? -> Aug: Can I get a Mastercard from you?
+GEN | [country_support] | Orig: i live in portugal. do you operate here? -> Aug: I reside in Portugal. Are you present in this country?
+GEN | [supported_cards_and_currencies] | Orig: What are my payment options? -> Aug: We accept various payment methods, including credit cards such as Visa, Mastercard, American Express, and Discover, as well as digital wallets like Apple Pay and Google Pay. We also support transactions in multiple currencies, including USD, EUR, JPY, and GBP.
+GEN | [virtual_card_not_working] | Orig: Can I use my virtual card to complete transactions for memberships? -> Aug: Can I use my virtual credit card to make payments for subscription services?
+GEN | [card_payment_fee_charged] | Orig: How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info. -> Aug: I'd be happy to help you with that! However, I noticed that you mentioned you have a recent card payment fee charged to your account. Could you please confirm if that's correct? If so, I can assist you in checking your available balance and provide more information on your spending limits.
+GEN | [receiving_money] | Orig: Is it possible for a friend to personally send me a payment? -> Aug: Can a friend directly transfer funds to me?
+GEN | [country_support] | Orig: Can I get support? -> Aug: Do you need assistance with a specific country-related inquiry or issue?
+GEN | [card_linking] | Orig: I have one of your cards, but I don't know how to link it. -> Aug: I'm having trouble linking one of my cards to my account.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Why did you give me so little currency? -> Aug: The exchange rate you provided for the cash withdrawal was incorrect, resulting in an insufficient amount of currency.
+GEN | [visa_or_mastercard] | Orig: I'm happy with Mastercard and want to stick with just that credit card. -> Aug: I'm content with Visa and prefer to use only that credit card.
+GEN | [getting_virtual_card] | Orig: Which part of the app do I order virtual cards from? -> Aug: Where can I find the option to request a virtual card within the app?
+GEN | [direct_debit_payment_not_recognised] | Orig: what is the matter? -> Aug: We've noticed that a direct debit payment hasn't been recognised in your account. Can you please clarify what's going on?
+GEN | [exchange_charge] | Orig: I've been to several different countries, can I exchange the cash with a discount for a large transaction? -> Aug: Can I exchange a large amount of cash for a discounted rate, considering I've traveled to multiple countries?
+GEN | [card_linking] | Orig: Is there a way to link cards if I have one of yours? -> Aug: Can I link my existing card to another one I have with your bank?
+GEN | [get_disposable_virtual_card] | Orig: How can I get a virtual card for a one-time transaction? -> Aug: Can I obtain a disposable virtual card for a single-use payment?
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I add physical money to my card? -> Aug: You can top up your card using cash or cheque.
+GEN | [getting_virtual_card] | Orig: I want one of the virtual cards! -> Aug: I'd like to obtain a virtual card, please.
+GEN | [getting_spare_card] | Orig: What is the procedure for me to get more cards on my account? -> Aug: How do I obtain additional cards for my account?
+GEN | [automatic_top_up] | Orig: How do I get refills to my card when I'm traveling? -> Aug: How can I set up automatic top-ups for my card when I'm abroad?
+GEN | [visa_or_mastercard] | Orig: I want a Mastercard, instead. -> Aug: I'd prefer a Visa, if possible.
+GEN | [supported_cards_and_currencies] | Orig: I have one other credit card from the US. Do you take it? -> Aug: We accept various credit cards, including those from the United States. Which one would you like to use?
+GEN | [supported_cards_and_currencies] | Orig: I have one other credit card from the US. Do you take that? -> Aug: We also accept various credit cards, including those issued in the United States. Which one would you like to use?
+GEN | [terminate_account] | Orig: if im not using my account should i close it or just let it sit -> Aug: If you're not actively using your account, it's recommended to either close it or terminate it to avoid any potential fees or security risks.
+GEN | [visa_or_mastercard] | Orig: Which one are you?  Visa or Mastercard? -> Aug: Which payment method would you prefer? Visa or Mastercard?
+GEN | [top_up_limits] | Orig: What is the daily limit on my card? -> Aug: Can you please inform me about the daily spending limit on my credit/debit card?
+GEN | [direct_debit_payment_not_recognised] | Orig: I didn't set up the direct debit I have -> Aug: We couldn't find a direct debit payment setup in your account.
+GEN | [exchange_rate] | Orig: How do you do exchanges? -> Aug: What is the current exchange rate?
+GEN | [card_acceptance] | Orig: Where do I pay with my debit or credit card? -> Aug: How can I use my debit or credit card to make a payment?
+GEN | [wrong_amount_of_cash_received] | Orig: I needed $100 but all it gave me was $20. -> Aug: I was expecting to receive $200, but instead, I got $50.
+GEN | [visa_or_mastercard] | Orig: I would like to know if you use Visa or Mastercard. -> Aug: I would like to confirm if you accept Visa or Mastercard.
+GEN | [visa_or_mastercard] | Orig: Can both a Visa and Mastercard be received from you? -> Aug: Can both a Visa and Mastercard be accepted by you?
+GEN | [card_delivery_estimate] | Orig: i need to add express delivery if that's an option -> Aug: can you provide an estimate for expedited shipping options?
+VAL | [order_physical_card] | YES | Text: Can I receive a physical copy of my virtual card?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I'm trying to withdraw some cash from my account, but I'm concerned that the exchange rate might be incorrect. I'm on a trip and don't have any local currency with me. Will I be charged an additional fee for the exchange rate discrepancy?
+VAL | [exchange_rate] | YES | Text: What's the procedure for converting currencies?
+VAL | [visa_or_mastercard] | YES | Text: This transaction requires both a Visa and a Mastercard.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: We have not detected a direct debit payment from your account.
+VAL | [getting_virtual_card] | YES | Text: I'm interested in obtaining a virtual card, please.
+VAL | [visa_or_mastercard] | NO | Text: Can I get a Mastercard from you?
+VAL | [country_support] | YES | Text: I reside in Portugal. Are you present in this country?
+VAL | [supported_cards_and_currencies] | NO | Text: We accept various payment methods, including credit cards such as Visa, Mastercard, American Express, and Discover, as well as digital wallets like Apple Pay and Google Pay. We also support transactions in multiple currencies, including USD, EUR, JPY, and GBP.
+VAL | [virtual_card_not_working] | NO | Text: Can I use my virtual credit card to make payments for subscription services?
+VAL | [card_payment_fee_charged] | NO | Text: I'd be happy to help you with that! However, I noticed that you mentioned you have a recent card payment fee charged to your account. Could you please confirm if that's correct? If so, I can assist you in checking your available balance and provide more information on your spending limits.
+VAL | [receiving_money] | YES | Text: Can a friend directly transfer funds to me?
+VAL | [country_support] | NO | Text: Do you need assistance with a specific country-related inquiry or issue?
+VAL | [card_linking] | YES | Text: I'm having trouble linking one of my cards to my account.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: The exchange rate you provided for the cash withdrawal was incorrect, resulting in an insufficient amount of currency.
+VAL | [visa_or_mastercard] | NO | Text: I'm content with Visa and prefer to use only that credit card.
+VAL | [getting_virtual_card] | YES | Text: Where can I find the option to request a virtual card within the app?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've noticed that a direct debit payment hasn't been recognised in your account. Can you please clarify what's going on?
+VAL | [exchange_charge] | YES | Text: Can I exchange a large amount of cash for a discounted rate, considering I've traveled to multiple countries?
+VAL | [card_linking] | YES | Text: Can I link my existing card to another one I have with your bank?
+VAL | [get_disposable_virtual_card] | YES | Text: Can I obtain a disposable virtual card for a single-use payment?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: You can top up your card using cash or cheque.
+VAL | [getting_virtual_card] | YES | Text: I'd like to obtain a virtual card, please.
+VAL | [getting_spare_card] | YES | Text: How do I obtain additional cards for my account?
+VAL | [automatic_top_up] | YES | Text: How can I set up automatic top-ups for my card when I'm abroad?
+VAL | [visa_or_mastercard] | NO | Text: I'd prefer a Visa, if possible.
+VAL | [supported_cards_and_currencies] | NO | Text: We accept various credit cards, including those from the United States. Which one would you like to use?
+VAL | [supported_cards_and_currencies] | NO | Text: We also accept various credit cards, including those issued in the United States. Which one would you like to use?
+VAL | [terminate_account] | YES | Text: If you're not actively using your account, it's recommended to either close it or terminate it to avoid any potential fees or security risks.
+VAL | [visa_or_mastercard] | NO | Text: Which payment method would you prefer? Visa or Mastercard?
+VAL | [top_up_limits] | YES | Text: Can you please inform me about the daily spending limit on my credit/debit card?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: We couldn't find a direct debit payment setup in your account.
+VAL | [exchange_rate] | YES | Text: What is the current exchange rate?
+VAL | [card_acceptance] | YES | Text: How can I use my debit or credit card to make a payment?
+VAL | [wrong_amount_of_cash_received] | NO | Text: I was expecting to receive $200, but instead, I got $50.
+VAL | [visa_or_mastercard] | YES | Text: I would like to confirm if you accept Visa or Mastercard.
+VAL | [visa_or_mastercard] | YES | Text: Can both a Visa and Mastercard be accepted by you?
+VAL | [card_delivery_estimate] | NO | Text: can you provide an estimate for expedited shipping options?

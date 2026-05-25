@@ -1,0 +1,76 @@
+GEN | [edit_personal_details] | Orig: Am I able to modify my account details? -> Aug: Can I update my personal information?
+GEN | [pending_cash_withdrawal] | Orig: I have the cash already, my account still shows up as pending.  How can my account be still pending? -> Aug: I've already deposited the cash, but my account still shows a pending withdrawal. Can you explain why it's still pending?
+GEN | [card_payment_not_recognised] | Orig: i didnt do this charge -> Aug: We didn't recognize the payment from your card
+GEN | [card_swallowed] | Orig: A Bank ATM did not give my card back. What do I do now? -> Aug: A Bank ATM swallowed my card. What do I do now?
+GEN | [top_up_by_bank_transfer_charge] | Orig: For SEPA transfers, what kind of charge will be applied? -> Aug: What fee will I be charged for topping up my account via bank transfer?
+GEN | [reverted_card_payment?] | Orig: Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening? -> Aug: Can you help me understand why the payment for my recent purchase was reversed and credited back to my account?
+GEN | [top_up_failed] | Orig: I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any. -> Aug: I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative options if available?
+GEN | [wrong_amount_of_cash_received] | Orig: You shorted me money when I tried to make a withdrawal. -> Aug: You gave me less cash than I was supposed to get when I withdrew some money.
+GEN | [pending_cash_withdrawal] | Orig: my cash out is still pending -> Aug: my cash withdrawal is still pending
+GEN | [fiat_currency_support] | Orig: I want to have multiple currencies in my account if possible. -> Aug: I'd like to know if it's feasible to have multiple fiat currencies in my account.
+GEN | [reverted_card_payment?] | Orig: How come I can't find my payment? -> Aug: Why was my payment reversed?
+GEN | [request_refund] | Orig: My statement has a charge that shouldn't have been made. -> Aug: I'd like to dispute the charge on my statement.
+GEN | [fiat_currency_support] | Orig: What currencies can my account be in? -> Aug: What types of fiat currencies are available for my account?
+GEN | [fiat_currency_support] | Orig: In the exchange and holding, what fiat is allowed? -> Aug: What types of fiat currencies are accepted for exchange and holding?
+GEN | [supported_cards_and_currencies] | Orig: Can I use any card and currency? -> Aug: We currently support a range of cards and currencies, including Visa, Mastercard, American Express, and Discover, as well as USD, CAD, EUR, and many others.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I put some money in my account the other day and it's not gone in yet, can you help with this? -> Aug: I made a deposit using a cheque or cash, but my account balance hasn't been updated yet, could you assist me with this issue?
+GEN | [age_limit] | Orig: If I want my son to have his own account is that possible? -> Aug: If I'd like to open an account for my minor child, are there any age restrictions I should be aware of?
+GEN | [wrong_amount_of_cash_received] | Orig: Yikes!  I didn't get the amount of money that I requested.  What do I do now? -> Aug: I'm shortchanged! The cash I received is not the correct amount. Can you help me resolve this issue?
+GEN | [exchange_charge] | Orig: Will I have to pay extra to exchange money? -> Aug: Do I need to pay an additional fee to exchange currency?
+GEN | [pin_blocked] | Orig: While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back? -> Aug: I accidentally entered my PIN incorrectly while intoxicated and your ATM swallowed my card. Can I retrieve it?
+GEN | [direct_debit_payment_not_recognised] | Orig: I know this very late, but I just went through my statements from the last couple months and there's one quite large-ish payment that I definitely haven't made. Is it still possible to dispute it? -> Aug: I've reviewed my recent statements and noticed a significant payment that I'm certain I didn't make. Can I still contest it?
+GEN | [card_payment_not_recognised] | Orig: i dont recognize a charge on my card -> Aug: i'm unable to verify a transaction on my credit card
+GEN | [card_acceptance] | Orig: Where can I pay with my card? -> Aug: What methods of card payment are available for me to use?
+GEN | [card_about_to_expire] | Orig: Can I keep using my card after it expires? -> Aug: What happens if I continue to use my card after its expiration date?
+GEN | [unable_to_verify_identity] | Orig: app malfunctioning, does not know its me -> Aug: We're experiencing technical difficulties with our system, and we're unable to confirm your identity.
+GEN | [card_acceptance] | Orig: Are there limits as to where my card will be accepted? -> Aug: Can I use my card at any location, or are there specific places where it won't be accepted?
+GEN | [card_linking] | Orig: I don't see my card anywhere in the app. -> Aug: I'm unable to locate my card in the app.
+GEN | [exchange_charge] | Orig: How much do I have to pay to accept an international transfer? -> Aug: What is the exchange charge for receiving an international wire transfer?
+GEN | [age_limit] | Orig: Can I get an account for my son? -> Aug: Can I open an account for my minor child?
+GEN | [getting_virtual_card] | Orig: I need to order a new card, can you please direct me to the virtual cards? -> Aug: I'd like to request a new virtual card, could you guide me through the process of obtaining one?
+GEN | [top_up_limits] | Orig: Is there a top-up limit that I have to stay under during a given period of time? -> Aug: Is there a maximum amount I can increase my credit limit by within a specific timeframe?
+GEN | [beneficiary_not_allowed] | Orig: Why wasn't my payment to beneficiary X approved? -> Aug: Why was my payment to the beneficiary not processed due to their account being restricted or not allowed?
+GEN | [fiat_currency_support] | Orig: Can I exchange my money for EUR? -> Aug: Can I convert my funds to euros?
+GEN | [transfer_fee_charged] | Orig: I need to know how much it costs to transfer funds. -> Aug: I'd like to inquire about the transfer fee associated with moving funds.
+GEN | [direct_debit_payment_not_recognised] | Orig: what is this charge i didnt do it what can i do -> Aug: I'm showing a direct debit payment that doesn't match any of my scheduled payments, can you help me understand what this charge is for and what I can do about it?
+GEN | [order_physical_card] | Orig: Can you send me the actual card? -> Aug: Can you dispatch the physical card to me?
+GEN | [lost_or_stolen_phone] | Orig: What do I do if I cannot access the app? -> Aug: If my phone is lost or stolen, what should I do to regain access to my account?
+GEN | [card_about_to_expire] | Orig: Can I order a new card with the app? -> Aug: Can I request a replacement card before my current one expires?
+VAL | [edit_personal_details] | YES | Text: Can I update my personal information?
+VAL | [pending_cash_withdrawal] | YES | Text: I've already deposited the cash, but my account still shows a pending withdrawal. Can you explain why it's still pending?
+VAL | [card_payment_not_recognised] | YES | Text: We didn't recognize the payment from your card
+VAL | [card_swallowed] | YES | Text: A Bank ATM swallowed my card. What do I do now?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: What fee will I be charged for topping up my account via bank transfer?
+VAL | [reverted_card_payment?] | YES | Text: Can you help me understand why the payment for my recent purchase was reversed and credited back to my account?
+VAL | [top_up_failed] | YES | Text: I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative options if available?
+VAL | [wrong_amount_of_cash_received] | YES | Text: You gave me less cash than I was supposed to get when I withdrew some money.
+VAL | [pending_cash_withdrawal] | YES | Text: my cash withdrawal is still pending
+VAL | [fiat_currency_support] | YES | Text: I'd like to know if it's feasible to have multiple fiat currencies in my account.
+VAL | [reverted_card_payment?] | NO | Text: Why was my payment reversed?
+VAL | [request_refund] | NO | Text: I'd like to dispute the charge on my statement.
+VAL | [fiat_currency_support] | YES | Text: What types of fiat currencies are available for my account?
+VAL | [fiat_currency_support] | YES | Text: What types of fiat currencies are accepted for exchange and holding?
+VAL | [supported_cards_and_currencies] | YES | Text: We currently support a range of cards and currencies, including Visa, Mastercard, American Express, and Discover, as well as USD, CAD, EUR, and many others.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I made a deposit using a cheque or cash, but my account balance hasn't been updated yet, could you assist me with this issue?
+VAL | [age_limit] | YES | Text: If I'd like to open an account for my minor child, are there any age restrictions I should be aware of?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I'm shortchanged! The cash I received is not the correct amount. Can you help me resolve this issue?
+VAL | [exchange_charge] | YES | Text: Do I need to pay an additional fee to exchange currency?
+VAL | [pin_blocked] | YES | Text: I accidentally entered my PIN incorrectly while intoxicated and your ATM swallowed my card. Can I retrieve it?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: I've reviewed my recent statements and noticed a significant payment that I'm certain I didn't make. Can I still contest it?
+VAL | [card_payment_not_recognised] | YES | Text: i'm unable to verify a transaction on my credit card
+VAL | [card_acceptance] | NO | Text: What methods of card payment are available for me to use?
+VAL | [card_about_to_expire] | NO | Text: What happens if I continue to use my card after its expiration date?
+VAL | [unable_to_verify_identity] | YES | Text: We're experiencing technical difficulties with our system, and we're unable to confirm your identity.
+VAL | [card_acceptance] | YES | Text: Can I use my card at any location, or are there specific places where it won't be accepted?
+VAL | [card_linking] | YES | Text: I'm unable to locate my card in the app.
+VAL | [exchange_charge] | YES | Text: What is the exchange charge for receiving an international wire transfer?
+VAL | [age_limit] | YES | Text: Can I open an account for my minor child?
+VAL | [getting_virtual_card] | YES | Text: I'd like to request a new virtual card, could you guide me through the process of obtaining one?
+VAL | [top_up_limits] | NO | Text: Is there a maximum amount I can increase my credit limit by within a specific timeframe?
+VAL | [beneficiary_not_allowed] | YES | Text: Why was my payment to the beneficiary not processed due to their account being restricted or not allowed?
+VAL | [fiat_currency_support] | YES | Text: Can I convert my funds to euros?
+VAL | [transfer_fee_charged] | YES | Text: I'd like to inquire about the transfer fee associated with moving funds.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm showing a direct debit payment that doesn't match any of my scheduled payments, can you help me understand what this charge is for and what I can do about it?
+VAL | [order_physical_card] | YES | Text: Can you dispatch the physical card to me?
+VAL | [lost_or_stolen_phone] | YES | Text: If my phone is lost or stolen, what should I do to regain access to my account?
+VAL | [card_about_to_expire] | NO | Text: Can I request a replacement card before my current one expires?

@@ -1,0 +1,40 @@
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I able to do a SWIFT transfer with you? -> Aug: Can I initiate a bank transfer to top up my account with a charge applied?
+GEN | [declined_card_payment] | Orig: I could not use my card in a store. -> Aug: Your card payment was declined at the store.
+GEN | [card_not_working] | Orig: My Netflix subscription says that there is an issue with my card information, but I thought everything was fine. Why would it be declined? -> Aug: I'm trying to make a purchase online, but my card is being declined, and the error message says it's due to an issue with my card information. Can you help me figure out what's going on?
+GEN | [visa_or_mastercard] | Orig: I want to get a Visa -> Aug: I'd like to obtain a Mastercard
+GEN | [Refund_not_showing_up] | Orig: Why hasn't my return cleared my account? -> Aug: I'm still waiting to see the refund credited to my account.
+GEN | [pending_top_up] | Orig: new customer and filling gas for the first time today, not working, -> Aug: New customer attempting to top up their account for the first time today, but the transaction is not processing.
+GEN | [passcode_forgotten] | Orig: I don't know the code for the app. -> Aug: I've forgotten the passcode for the mobile banking app.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: what are weekend rates for getting cash -> Aug: what is the exchange rate for a cash withdrawal on a weekend?
+GEN | [card_payment_not_recognised] | Orig: I didn't make a payment at this business. -> Aug: We couldn't verify a payment from your card at this merchant.
+GEN | [cash_withdrawal_charge] | Orig: I just had a look at my statement. Why have I been changed for using the ATM? -> Aug: I've reviewed my statement and noticed a charge for using the ATM. Can you explain why I was charged for this cash withdrawal?
+GEN | [extra_charge_on_statement] | Orig: What is the dollar that I have pending on my statement there? -> Aug: Can you please explain the additional charge I see on my statement?
+GEN | [topping_up_by_card] | Orig: My friends would like to add to my account. What is the procedure? -> Aug: How can I add funds to my account using my debit/credit card?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are SWIFT Transfers available at this bank? -> Aug: Can I use bank transfer to top up my account, and what are the associated charges for this service?
+GEN | [declined_card_payment] | Orig: My card didn't go through.  It doesn't make sense.  You told me that everything was ok. -> Aug: I'm confused, I was told my payment was processed successfully, but it seems my card was declined. Can you help me understand what happened?
+GEN | [card_not_working] | Orig: I have not been able to use this card. -> Aug: I'm having trouble using my card.
+GEN | [age_limit] | Orig: My daughter needs an acount. -> Aug: My child requires an account.
+GEN | [getting_virtual_card] | Orig: Please let me know how to place an order for a virtual card -> Aug: Please inform me about the process of obtaining a virtual card
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I need my account checked because it appears there is a problem. I attempted to update my balance yesterday using cheque but it doesn't seem to have worked.  Should this not be faster than this? -> Aug: I'm concerned about an issue with my account. I deposited a cheque yesterday, but my balance hasn't been updated. Can you look into this and let me know why it's taking so long?
+GEN | [atm_support] | Orig: Can I get money out of any machine? -> Aug: Can I withdraw cash from any ATM machine?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can I Transfer from SWIFT? -> Aug: Can I top up my account by bank transfer and what's the charge for it?
+GEN | [topping_up_by_card] | Orig: Who can have access to top up my account? -> Aug: Who can I use to top up my account using my card?
+GEN | [pending_top_up] | Orig: how long does it take to reflect in my balance a top up -> Aug: when will the top-up amount be credited to my account?
+GEN | [get_physical_card] | Orig: Does the PIN come under separate cover? -> Aug: Can I request a physical card with the PIN included?
+GEN | [extra_charge_on_statement] | Orig: I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as "pending", it never changes, and now I'm thinking someone's hacked my account! -> Aug: I'm concerned about an unexpected charge that's been appearing on my statement. It's labeled as "pending" in the app, but the amount remains the same, and I'm worried that someone may have unauthorized access to my account.
+GEN | [top_up_failed] | Orig: Why are you keeping my money from me by declining my card? What is going on? -> Aug: I'm trying to understand why my card was declined for the top-up, and I'm getting frustrated because I'm not getting the funds I need. Can you please help me resolve this issue?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you process SWIFT transfers? -> Aug: Can you facilitate bank transfers with a charge applied?
+GEN | [declined_cash_withdrawal] | Orig: I'm trying to take money from my account but its not letting me. Help! -> Aug: I'm having trouble withdrawing cash from my account and it's being declined. Can you assist me?
+GEN | [topping_up_by_card] | Orig: I need my card topped up, -> Aug: I would like to add funds to my card using my card.
+GEN | [receiving_money] | Orig: I need my payment in another currency -> Aug: I require my funds to be converted to a different currency
+GEN | [supported_cards_and_currencies] | Orig: why wont my american express work to add money -> Aug: We apologize, but American Express is not a supported card for adding funds to your account. Would you like to know our supported cards and currencies for making deposits?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I able to do a SWIFT transfer? -> Aug: Can I make a bank transfer to top up my account, and what are the associated charges?
+GEN | [declined_transfer] | Orig: What do I do with my "decline" message on a transfer? -> Aug: What can I do about the transfer that was declined?
+GEN | [card_payment_not_recognised] | Orig: I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges? -> Aug: I'm trying to dispute a recent charge on my card. I didn't make the transaction, and I'd like to reverse the charges.
+GEN | [visa_or_mastercard] | Orig: I anticipate getting a Visa card -> Aug: I'm expecting to receive a Mastercard
+GEN | [card_not_working] | Orig: I can't use my card for anything -> Aug: I'm having trouble using my card for any transactions
+GEN | [card_swallowed] | Orig: What should I do with my stuck ATM? -> Aug: What should I do if my card got swallowed by the ATM?
+GEN | [card_acceptance] | Orig: Can I use my card for online payments? -> Aug: Is my credit card accepted for online transactions?
+GEN | [card_acceptance] | Orig: What are the limits to where my card will be accepted? -> Aug: What are the areas where my card is accepted, and what are the limits on its usage?
+GEN | [pending_top_up] | Orig: Needed gas, been delayed for half an hour.Please fix it! -> Aug: My top-up has been delayed for 30 minutes, could you please expedite it?
+GEN | [lost_or_stolen_phone] | Orig: I don't have my cell phone with me so I cannot access the system to complete the transaction. -> Aug: I've misplaced my phone and can't access the system to finish the transaction.

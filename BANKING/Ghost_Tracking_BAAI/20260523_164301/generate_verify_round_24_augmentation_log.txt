@@ -1,0 +1,76 @@
+GEN | [top_up_failed] | Orig: Can I tell if my top off didn't work?  It doesn't seem to have. -> Aug: Can I check if my top-up was unsuccessful? It appears to have failed.
+GEN | [wrong_amount_of_cash_received] | Orig: I couldn't get the money I needed. -> Aug: I was shortchanged on the cash I received.
+GEN | [pending_top_up] | Orig: Sort your top up out please! It's been pending since an hour already, can you please make this go through asap I really need the money -> Aug: Can you expedite the processing of my pending top-up? It's been pending for an hour now, and I urgently need the funds to be credited to my account ASAP.
+GEN | [activate_my_card] | Orig: I tried activating my plug-in and it didn't piece of work -> Aug: I attempted to activate my card, but it didn't function properly
+GEN | [pin_blocked] | Orig: I used my pin too many times. -> Aug: I've exceeded the allowed number of pin attempts.
+GEN | [pending_top_up] | Orig: When will my top up be approved? -> Aug: When will my pending top-up be processed?
+GEN | [unable_to_verify_identity] | Orig: Problem verifying my account -> Aug: We're having trouble confirming your identity to access your account.
+GEN | [card_payment_not_recognised] | Orig: I need to know where this charge is coming from? -> Aug: I'm trying to figure out why this transaction is showing up on my statement.
+GEN | [verify_source_of_funds] | Orig: Where is my top-up generated from? -> Aug: Can you please confirm the source of the funds used for your recent top-up?
+GEN | [topping_up_by_card] | Orig: I tried to get gas but my money was gone! -> Aug: I attempted to make a purchase using my card, but it seems my account balance has been depleted.
+GEN | [pending_transfer] | Orig: As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far. -> Aug: I've reconfirmed my account information, and it's accurate. The transfer remains pending at this time.
+GEN | [declined_transfer] | Orig: I wanted to know why my transaction didn't go through. -> Aug: I'm trying to understand why my transfer was declined.
+GEN | [declined_transfer] | Orig: Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined . I tried couple of times already  but same thing is happening . -> Aug: We've noticed that your recent transfer attempts have been declined. Can you please check your account balance and ensure you have sufficient funds? Additionally, you may want to verify the transfer details to ensure everything is accurate.
+GEN | [lost_or_stolen_phone] | Orig: I cannot get to my app, what should I do? -> Aug: I've misplaced my phone and can't access my app, what can I do?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Do you offer free ATM withdrawals of ones hometown currency while on holiday? -> Aug: Can I withdraw cash in my local currency without being charged an incorrect exchange rate while I'm traveling abroad?
+GEN | [top_up_failed] | Orig: Fix my top up -> Aug: Resolve the failed top-up issue
+GEN | [reverted_card_payment?] | Orig: Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later. -> Aug: Can you help me understand why my card payments are being reversed or declined when I try to make an online purchase? I enter my payment details, but it's rejected later on.
+GEN | [pin_blocked] | Orig: I logged in wrong and am blocked, how do I log in? -> Aug: I'm having trouble logging in because I entered my PIN incorrectly and it's been blocked, can you help me resolve this issue?
+GEN | [pending_top_up] | Orig: How long after a failed topup will funds refurn to account -> Aug: When can I expect the funds to be refunded to my account after a failed top-up attempt?
+GEN | [direct_debit_payment_not_recognised] | Orig: Is there a strict timeline regarding disputing transactions made on my account? I just noticed a fraudulent charge on a statement from a couple months ago. -> Aug: We've received a notification that a direct debit payment was not recognized on your account. Can you please clarify the details of the disputed transaction and provide any relevant documentation to facilitate an investigation?
+GEN | [apple_pay_or_google_pay] | Orig: Can you explain why my Google Pay Top isn't working? -> Aug: Can you explain why my Apple Pay or Google Pay isn't working?
+GEN | [reverted_card_payment?] | Orig: Hello, I was contacted by a seller who let me know my money didn't come through on their side. It most certainly came out of my account so I need this looked at immediately because now it has been returned to me! -> Aug: Hello, I was informed by a seller that the payment didn't go through on their end. However, I'm certain it was deducted from my account, and now the funds have been reversed back to me. Can you please investigate this matter urgently?
+GEN | [top_up_by_card_charge] | Orig: Will you assess me more fees if I top up with an international card? -> Aug: Will you charge me extra fees if I make a top-up payment using an international card?
+GEN | [exchange_rate] | Orig: Will my money be of equal value when I travel abroad? -> Aug: Will the value of my currency remain the same when I exchange it for a foreign currency?
+GEN | [failed_transfer] | Orig: My card couldn't complete a transfer, why? -> Aug: The transfer I initiated with my card was unsuccessful, what went wrong?
+GEN | [card_payment_wrong_exchange_rate] | Orig: Does the fee for exchange change? -> Aug: Is the exchange rate fee applicable to my card payment?
+GEN | [receiving_money] | Orig: can my husband open an account and transfer money -> Aug: Can my spouse open an account and deposit funds?
+GEN | [declined_card_payment] | Orig: Can you please advise if there is something wrong with my card? I have had multiple rejections and do not know the reason. Thanks! -> Aug: We've noticed that your recent payment attempt was declined. Can you please check your card details to ensure everything is accurate and up-to-date? If the issue persists, we can investigate further to determine the cause of the rejection.
+GEN | [pin_blocked] | Orig: My card got blocked, how do I reset? -> Aug: My PIN is blocked, how do I unblock it?
+GEN | [top_up_reverted] | Orig: My money disappeared! Please help?? -> Aug: My account balance has been reversed! Can you assist me in rectifying this issue?
+GEN | [get_physical_card] | Orig: my pin hasn't arrived in the post! How do I cancel it or get a new one? -> Aug: My physical card has not been delivered. Can I request a new one or cancel the existing one?
+GEN | [declined_transfer] | Orig: It seems you keep declining my transfers. Before, it's always worked very well.Just now when I tried to buy something the card was declined. I tried more than once and it was the same thing each time. -> Aug: I've noticed that my recent transfer attempts have been consistently declined. Although I've had no issues with transfers in the past, the last few attempts have been unsuccessful, with the card being declined each time I've tried.
+GEN | [pin_blocked] | Orig: My PIN tries have run out. Now what? -> Aug: I've exceeded my PIN attempts. What's the next step?
+GEN | [failed_transfer] | Orig: Why was my transaction not approved? -> Aug: Why was my transfer not processed successfully?
+GEN | [top_up_reverted] | Orig: For some reason, the money I added was returned. -> Aug: The funds I deposited were unexpectedly reversed.
+GEN | [exchange_rate] | Orig: If I need to cash foreign transfers, how does that work? -> Aug: Can you please explain the process for exchanging foreign currencies for cash transfers?
+GEN | [declined_transfer] | Orig: I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once. -> Aug: I'm experiencing an issue with a transfer to another account, as the transaction is being declined. Despite verifying the information multiple times, I'm still receiving an error message.
+GEN | [unable_to_verify_identity] | Orig: The app doesn't think it's me. -> Aug: We're having trouble confirming your identity through our system.
+VAL | [top_up_failed] | YES | Text: Can I check if my top-up was unsuccessful? It appears to have failed.
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was shortchanged on the cash I received.
+VAL | [pending_top_up] | YES | Text: Can you expedite the processing of my pending top-up? It's been pending for an hour now, and I urgently need the funds to be credited to my account ASAP.
+VAL | [activate_my_card] | YES | Text: I attempted to activate my card, but it didn't function properly
+VAL | [pin_blocked] | YES | Text: I've exceeded the allowed number of pin attempts.
+VAL | [pending_top_up] | YES | Text: When will my pending top-up be processed?
+VAL | [unable_to_verify_identity] | YES | Text: We're having trouble confirming your identity to access your account.
+VAL | [card_payment_not_recognised] | NO | Text: I'm trying to figure out why this transaction is showing up on my statement.
+VAL | [verify_source_of_funds] | YES | Text: Can you please confirm the source of the funds used for your recent top-up?
+VAL | [topping_up_by_card] | NO | Text: I attempted to make a purchase using my card, but it seems my account balance has been depleted.
+VAL | [pending_transfer] | YES | Text: I've reconfirmed my account information, and it's accurate. The transfer remains pending at this time.
+VAL | [declined_transfer] | YES | Text: I'm trying to understand why my transfer was declined.
+VAL | [declined_transfer] | NO | Text: We've noticed that your recent transfer attempts have been declined. Can you please check your account balance and ensure you have sufficient funds? Additionally, you may want to verify the transfer details to ensure everything is accurate.
+VAL | [lost_or_stolen_phone] | YES | Text: I've misplaced my phone and can't access my app, what can I do?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | NO | Text: Can I withdraw cash in my local currency without being charged an incorrect exchange rate while I'm traveling abroad?
+VAL | [top_up_failed] | NO | Text: Resolve the failed top-up issue
+VAL | [reverted_card_payment?] | YES | Text: Can you help me understand why my card payments are being reversed or declined when I try to make an online purchase? I enter my payment details, but it's rejected later on.
+VAL | [pin_blocked] | YES | Text: I'm having trouble logging in because I entered my PIN incorrectly and it's been blocked, can you help me resolve this issue?
+VAL | [pending_top_up] | YES | Text: When can I expect the funds to be refunded to my account after a failed top-up attempt?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've received a notification that a direct debit payment was not recognized on your account. Can you please clarify the details of the disputed transaction and provide any relevant documentation to facilitate an investigation?
+VAL | [apple_pay_or_google_pay] | NO | Text: Can you explain why my Apple Pay or Google Pay isn't working?
+VAL | [reverted_card_payment?] | YES | Text: Hello, I was informed by a seller that the payment didn't go through on their end. However, I'm certain it was deducted from my account, and now the funds have been reversed back to me. Can you please investigate this matter urgently?
+VAL | [top_up_by_card_charge] | YES | Text: Will you charge me extra fees if I make a top-up payment using an international card?
+VAL | [exchange_rate] | YES | Text: Will the value of my currency remain the same when I exchange it for a foreign currency?
+VAL | [failed_transfer] | YES | Text: The transfer I initiated with my card was unsuccessful, what went wrong?
+VAL | [card_payment_wrong_exchange_rate] | NO | Text: Is the exchange rate fee applicable to my card payment?
+VAL | [receiving_money] | NO | Text: Can my spouse open an account and deposit funds?
+VAL | [declined_card_payment] | YES | Text: We've noticed that your recent payment attempt was declined. Can you please check your card details to ensure everything is accurate and up-to-date? If the issue persists, we can investigate further to determine the cause of the rejection.
+VAL | [pin_blocked] | YES | Text: My PIN is blocked, how do I unblock it?
+VAL | [top_up_reverted] | NO | Text: My account balance has been reversed! Can you assist me in rectifying this issue?
+VAL | [get_physical_card] | NO | Text: My physical card has not been delivered. Can I request a new one or cancel the existing one?
+VAL | [declined_transfer] | YES | Text: I've noticed that my recent transfer attempts have been consistently declined. Although I've had no issues with transfers in the past, the last few attempts have been unsuccessful, with the card being declined each time I've tried.
+VAL | [pin_blocked] | YES | Text: I've exceeded my PIN attempts. What's the next step?
+VAL | [failed_transfer] | NO | Text: Why was my transfer not processed successfully?
+VAL | [top_up_reverted] | YES | Text: The funds I deposited were unexpectedly reversed.
+VAL | [exchange_rate] | NO | Text: Can you please explain the process for exchanging foreign currencies for cash transfers?
+VAL | [declined_transfer] | YES | Text: I'm experiencing an issue with a transfer to another account, as the transaction is being declined. Despite verifying the information multiple times, I'm still receiving an error message.
+VAL | [unable_to_verify_identity] | YES | Text: We're having trouble confirming your identity through our system.

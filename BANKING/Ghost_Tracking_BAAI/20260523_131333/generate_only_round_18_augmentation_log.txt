@@ -1,0 +1,40 @@
+GEN | [lost_or_stolen_phone] | Orig: Can I use your services without access to the app? -> Aug: Can I still access my account without my phone, as it's been lost or stolen?
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're looking to establish a savings plan for my child's future education expenses.
+GEN | [cancel_transfer] | Orig: I made a transaction, but I made it to an account I didn't mean to make it to. -> Aug: I accidentally sent a transfer to the wrong account and I'd like to cancel it.
+GEN | [exchange_charge] | Orig: Do I pay extra for exchange? -> Aug: Is there an additional fee for exchanging currency?
+GEN | [card_payment_not_recognised] | Orig: I did not charge my account for that transaction.  That's an error. -> Aug: The payment made with my card was not successfully processed. This is an unexpected issue.
+GEN | [declined_card_payment] | Orig: When I use my card, it says decline? -> Aug: Why did my card payment get declined?
+GEN | [fiat_currency_support] | Orig: Are there limitations to what currency I can hold? -> Aug: Can I hold any fiat currency in my account, or are there restrictions on the types of currencies I can store?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I have cash deposit to my account but it is experiencing a problem -> Aug: I've made a cash deposit to my account, but my account balance hasn't been updated yet.
+GEN | [change_pin] | Orig: Can I change my in at all ATM's? -> Aug: Can I modify my PIN at any ATM?
+GEN | [supported_cards_and_currencies] | Orig: why wont my american express work to add money -> Aug: We apologize, but American Express is not a supported card for adding funds to your account. Would you like to know our supported cards and currencies for making deposits?
+GEN | [exchange_charge] | Orig: Would you be able to offer me a discount, since I need to exchange currencies frequently? -> Aug: Could you provide a discount for me, as I regularly need to exchange currencies?
+GEN | [transfer_into_account] | Orig: Can I use my bank account to send me more money? -> Aug: Can I transfer funds from my bank account to add more money to it?
+GEN | [fiat_currency_support] | Orig: Does my account have the option to hold multiple currencies? -> Aug: Can I hold multiple fiat currencies in my account?
+GEN | [age_limit] | Orig: My daughter needs to open account. -> Aug: My child requires opening an account.
+GEN | [why_verify_identity] | Orig: I don't understand why you want so much of my personal info. -> Aug: I'm curious, what's the purpose of requiring me to provide so much personal information?
+GEN | [topping_up_by_card] | Orig: My money I had was gone and I could not get gas! -> Aug: I'm struggling to get gas as my funds are depleted and I need to top up my account using my card.
+GEN | [pending_card_payment] | Orig: How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move -> Aug: We're looking into the status of your pending card payment. Can you please confirm the payment amount and the date it was made? This will help us investigate the delay.
+GEN | [contactless_not_working] | Orig: Why wasn't my contactless accepted at the metro? -> Aug: Why did the contactless payment system fail to recognize my card at the metro station?
+GEN | [card_acceptance] | Orig: Will my card work at all merchant locations? -> Aug: Can I use my card at all merchant locations?
+GEN | [declined_transfer] | Orig: I'm having issues with my card. You guys keep declining it for some reason. I haven't had any issues up until this point. What is going on? I've tried a handful of times with the same, unfortunate, result! -> Aug: I'm experiencing a problem with my card, as it keeps getting declined. Despite my card being in good standing, I'm unable to complete the transaction. I've tried multiple times, but the result is always the same - declined. Can you help me figure out what's going on?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Tell me why my balance did not change when I tranferred cash. -> Aug: I'd be happy to help you understand why your account balance wasn't updated after you made a recent transfer.
+GEN | [get_physical_card] | Orig: Explain the card PIN to me. -> Aug: Can you please provide me with the physical card details, including the PIN?
+GEN | [declined_cash_withdrawal] | Orig: Why can't I take money from my account? -> Aug: Why was my cash withdrawal request denied?
+GEN | [cancel_transfer] | Orig: Can I stop a transaction? -> Aug: Can I cancel a transfer?
+GEN | [supported_cards_and_currencies] | Orig: I have one other credit card from the US. Do you take it? -> Aug: We accept various credit cards, including those from the United States. Which one would you like to use?
+GEN | [reverted_card_payment?] | Orig: I have cancelled payments to this card. -> Aug: I've reversed the payment made to this card.
+GEN | [cancel_transfer] | Orig: I paid my rent into the wrong account, could you please pay it into the right account, it needs to be done by tomorrow. -> Aug: I mistakenly transferred my rent payment to the wrong account, could you assist in reversing the transaction and transferring it to the correct account by tomorrow?
+GEN | [beneficiary_not_allowed] | Orig: I wasn't allowed to transfer to my account -> Aug: You were not permitted to credit the funds to the designated beneficiary.
+GEN | [card_acceptance] | Orig: Is the card welcomed by everybody? -> Aug: Is the card accepted by all merchants?
+GEN | [unable_to_verify_identity] | Orig: The app is telling me that I am not me. -> Aug: We're having trouble verifying your identity through our system, and it appears that our records do not match the information you're providing.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Do you guys accept cash? Because i deposited some this morning and I can't see it in my account. -> Aug: I made a cash deposit this morning, but my account balance hasn't been updated yet. Can you help me with that?
+GEN | [get_physical_card] | Orig: Is the PIN sent in another message? -> Aug: Can I request a physical card instead?
+GEN | [supported_cards_and_currencies] | Orig: I have one other credit card from the US. Do you take that? -> Aug: We also accept various credit cards, including those issued in the United States. Which one would you like to use?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do I get charged if I get money? -> Aug: Will I be charged a fee for topping up my account via bank transfer?
+GEN | [transfer_into_account] | Orig: I need to deposit money to my account -> Aug: I would like to transfer funds into my account.
+GEN | [card_acceptance] | Orig: Can I tell what business will take this card? -> Aug: Is there a specific merchant or business that accepts this card?
+GEN | [card_delivery_estimate] | Orig: I need my card immediately. -> Aug: I require an expedited delivery of my card.
+GEN | [reverted_card_payment?] | Orig: My card payments have stopped. -> Aug: Why did my card payments suddenly stop?
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow. -> Aug: I need to cancel the transfer I initiated yesterday and correct the mistake. Can you assist me in reversing the transaction by tomorrow?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Is there a charge for getting my money? -> Aug: Are there any fees associated with transferring funds to top up my account?

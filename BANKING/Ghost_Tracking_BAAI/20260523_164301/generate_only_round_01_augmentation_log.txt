@@ -1,0 +1,40 @@
+GEN | [card_payment_fee_charged] | Orig: There was a charge applied when I used my card. -> Aug: A fee was deducted from my account when I made the payment using my card.
+GEN | [automatic_top_up] | Orig: I going to be traveling, can I set up auto top-up if I run low on money? -> Aug: I'm planning a trip and would like to know if I can set up automatic top-ups to ensure I don't run out of funds.
+GEN | [verify_source_of_funds] | Orig: How do I find out where my funds came from? -> Aug: Can you please confirm the origin of the funds in your account?
+GEN | [top_up_limits] | Orig: What is the most I can top-up? -> Aug: What is the maximum amount I can increase my credit limit by?
+GEN | [direct_debit_payment_not_recognised] | Orig: I need to cancel a transaction on my debit card. -> Aug: I'm trying to stop a direct debit payment that was not recognized by my account.
+GEN | [extra_charge_on_statement] | Orig: Is the 1 pound charge going to be reimbursed on my card? -> Aug: Will the additional £1 charge be credited back to my account on my next statement?
+GEN | [getting_spare_card] | Orig: How much does it cost for additional cards? -> Aug: What is the fee for ordering a replacement card?
+GEN | [terminate_account] | Orig: make my account go away -> Aug: close my account
+GEN | [top_up_by_bank_transfer_charge] | Orig: How much does it cost to make transfers? -> Aug: What are the bank transfer fees for topping up my account?
+GEN | [declined_card_payment] | Orig: I was wondering why my card was declined -> Aug: I'm trying to understand why my payment was declined using my card
+GEN | [pin_blocked] | Orig: I have used all of my PIN tries. What should I do now? -> Aug: I've reached the maximum number of PIN attempts. What are my next steps?
+GEN | [transfer_timing] | Orig: I am yet to receive the money in my account how long will this take? -> Aug: When can I expect the funds to be credited to my account?
+GEN | [card_not_working] | Orig: My card hasn't been working for even small transactions today. -> Aug: My credit card has stopped functioning for small purchases today.
+GEN | [wrong_amount_of_cash_received] | Orig: The ATM didn't give me enough money! I asked for more than it gave. What do I do? -> Aug: The ATM dispensed less cash than I requested. I was expecting a larger amount, but it only gave me a smaller one. What can I do about this issue?
+GEN | [country_support] | Orig: Which countries do you operate in -> Aug: What regions or nations do you provide services in?
+GEN | [transfer_into_account] | Orig: I need to transfer money into my account, and I don't know how to do that. -> Aug: I'm trying to move funds into my account, but I'm not sure how to initiate the transfer.
+GEN | [request_refund] | Orig: What is the refund process? -> Aug: Can you please guide me through the steps to initiate a refund?
+GEN | [card_payment_not_recognised] | Orig: There is an unauthorized payment in my statement. -> Aug: We've detected an unrecognised payment on your recent statement.
+GEN | [cash_withdrawal_charge] | Orig: Why did I get a fee for getting cash? -> Aug: You were charged a cash withdrawal fee because our bank policy states that a small fee is applicable for cash withdrawals.
+GEN | [transfer_into_account] | Orig: I need to add money to my account. Can I do so via bank transfer? -> Aug: I'd like to deposit funds into my account using a bank transfer.
+GEN | [declined_cash_withdrawal] | Orig: I tried to get money out of the Notting Hill ATM earlier, but I wasn't able to get anything out. Is there a problem with my card? It's the first time I tried using it. -> Aug: I attempted to withdraw cash from the ATM at Notting Hill, but the transaction was declined. Could you please check if there's an issue with my card? This is my first time using it.
+GEN | [beneficiary_not_allowed] | Orig: I was trying to purchase some crypto and the app won't allow me to do it. What's the deal with this? I really wanted to complete the exchange. -> Aug: I'm trying to make a transfer, but the system won't let me select the beneficiary. Can you help me figure out why this is happening?
+GEN | [declined_transfer] | Orig: I didn't see any reason why my transfer was declined. What gives? -> Aug: I'm confused about why my transfer was rejected. Can you help me understand the reason behind it?
+GEN | [cancel_transfer] | Orig: I need to cancel my recent transfer as soon as possible. I made an error there. Please help before it goes through. -> Aug: I urgently need to cancel a transfer I initiated by mistake. Can you assist me in stopping the transaction before it's processed?
+GEN | [card_swallowed] | Orig: The ATM did not give me my card back? -> Aug: The ATM swallowed my card.
+GEN | [pin_blocked] | Orig: What should I do if I have used all of my PIN tries? -> Aug: What should I do if I've exhausted all my PIN attempts?
+GEN | [transfer_timing] | Orig: What is the estimated wait time on a US transfer into my account? -> Aug: Can you please provide an estimated timeframe for the processing of a US transfer into my account?
+GEN | [disposable_card_limits] | Orig: Where can I use a disposable card? -> Aug: What are the acceptable locations for using a disposable card, and what are the spending limits associated with it?
+GEN | [extra_charge_on_statement] | Orig: I was charged an extra pound. -> Aug: I was unexpectedly charged an additional amount.
+GEN | [unable_to_verify_identity] | Orig: The app won't identify me. -> Aug: We're having trouble verifying your identity through our app.
+GEN | [wrong_amount_of_cash_received] | Orig: I got $20 when I should've gotten $100 -> Aug: I received $15 when I was supposed to get $120
+GEN | [request_refund] | Orig: I want a refund on this. -> Aug: I'm requesting a refund for this transaction.
+GEN | [pin_blocked] | Orig: I entered the pin incorrectly too many times and now it is blocked. Can you help? -> Aug: I've tried to enter my pin multiple times, but it's been blocked. Can you assist me in resolving this issue?
+GEN | [top_up_by_cash_or_cheque] | Orig: I would like to use cash to make a top-up? -> Aug: I would like to make a top-up using cash.
+GEN | [get_disposable_virtual_card] | Orig: How does a disposable virtual card work? -> Aug: What is the process of obtaining a disposable virtual card?
+GEN | [cash_withdrawal_not_recognised] | Orig: Can you tell me what the cash withdrawal is in my statement? -> Aug: I'm trying to locate the cash withdrawal transaction in my recent statement, could you help me identify it?
+GEN | [declined_cash_withdrawal] | Orig: Is there something wrong with my ATM Card?  Tried using it earlier and it did not work. -> Aug: We're sorry to inform you that your recent cash withdrawal attempt was declined. Please check your account balance or contact us to resolve the issue.
+GEN | [unable_to_verify_identity] | Orig: I am having some difficulty verifying my id. -> Aug: We're having trouble confirming your identity due to incomplete or unclear information.
+GEN | [edit_personal_details] | Orig: Where do I go to edit my personal details on my account? -> Aug: How can I modify my personal information on my account?
+GEN | [fiat_currency_support] | Orig: Do you allow exchanges of EUR? -> Aug: Can you facilitate EUR currency exchange transactions?

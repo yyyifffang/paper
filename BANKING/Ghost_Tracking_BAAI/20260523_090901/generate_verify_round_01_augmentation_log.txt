@@ -1,0 +1,77 @@
+GEN | [top_up_reverted] | Orig: I was under the impression that you offer crypto top up; however,  it doesn't appear to be working. The money has now disappeared from my account so I need to know what the deal is? -> Aug: I'm confused about the crypto top-up service, as I thought it was available. Unfortunately, the funds have been reversed from my account, and I'd appreciate it if you could clarify what's going on.
+GEN | [pin_blocked] | Orig: Where do I find PIN for my card? -> Aug: I'm having trouble accessing my account because my PIN is blocked. Can you help me retrieve it?
+GEN | [card_payment_not_recognised] | Orig: There's a card payment with a name I don't recognize -> Aug: We've received a payment from a cardholder we can't identify
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I put money into my account in the form of a cheque, but my balance did not change. -> Aug: I made a cash deposit, but my account balance remains unchanged.
+GEN | [age_limit] | Orig: Is there an age limit to when my child can use these services? -> Aug: Are there any age restrictions or limitations for my child to access these services?
+GEN | [get_physical_card] | Orig: How do I get a PIN? -> Aug: How can I obtain a physical copy of my credit card?
+GEN | [cash_withdrawal_charge] | Orig: Do I get charged for withdrawals? -> Aug: Are there any fees associated with making a cash withdrawal?
+GEN | [beneficiary_not_allowed] | Orig: My account transfer was not cleared. -> Aug: The beneficiary is not authorized to receive the transfer.
+GEN | [exchange_via_app] | Orig: Can I use this app to exchange between dollars and pounds? -> Aug: Can I make an exchange between US dollars and British pounds using this mobile app?
+GEN | [why_verify_identity] | Orig: Why does it matter that I prove my identity? -> Aug: We verify your identity to ensure the security and integrity of your account and transactions.
+GEN | [getting_spare_card] | Orig: Am I allowed to carry an additional card? -> Aug: Can I have a spare card issued to me?
+GEN | [getting_spare_card] | Orig: Are there any fees to get additional cards? -> Aug: Can I request a new card without incurring any additional charges?
+GEN | [cancel_transfer] | Orig: I need urgent help. I realize I sent my payment to the wrong account number. I made a typo. Please cancel the transfer now. There isn't an option from the app. -> Aug: I urgently need assistance. I mistakenly sent a payment to the wrong account number due to a typo. Can you please cancel the transfer immediately? I'm unable to find an option to do so through the app.
+GEN | [top_up_by_card_charge] | Orig: Is there a fee for topping up a card? -> Aug: Are there any charges associated with adding funds to a card?
+GEN | [pin_blocked] | Orig: 
+I put the wrong pin too many times and now it is blocked. Can you help me unblock it? -> Aug: I accidentally entered the wrong PIN multiple times and now it's been blocked. Can you assist me in unblocking it?
+GEN | [top_up_reverted] | Orig: Why did my money disappear when I topped up?? -> Aug: Why did my funds revert when I made a top-up transaction??
+GEN | [reverted_card_payment?] | Orig: Why have I received a rebate for my payment after a week? -> Aug: Why was my payment reversed and credited back to my account?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Why is the exchange rate different than expected on my transaction? -> Aug: The exchange rate used for my cash withdrawal is not what I was expecting. Can you explain why it's different?
+GEN | [verify_top_up] | Orig: What's up with verifying top-ups? -> Aug: What's going on with confirming top-up transactions?
+GEN | [card_about_to_expire] | Orig: The expiration date on my card is very soon, and I need to get a new one.  What are the price and delivery options for my replacement card? -> Aug: My card's expiration date is approaching rapidly, and I require a new one. Could you please provide information on the cost and delivery options for a replacement card?
+GEN | [top_up_failed] | Orig: I didn't see the money I added to my card. -> Aug: I attempted to add funds to my card, but the transaction was unsuccessful.
+GEN | [declined_card_payment] | Orig: Why has my card been declined? -> Aug: Your payment has been declined due to an issue with your card. Please check your account balance, expiration date, or card security code to resolve the issue.
+GEN | [edit_personal_details] | Orig: I need to change my contact information. -> Aug: I would like to update my personal details.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I just made a transfer from France 2 days ago. It has not yet reached my bank. Is it possible it takes longer because it was an international transfer? -> Aug: I recently initiated a transfer from the UK, but my account balance hasn't been updated yet. Could it be that international transfers take longer to reflect in my account?
+GEN | [cancel_transfer] | Orig: Hi , I just came to know I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow. -> Aug: Hi, I'd like to cancel the transfer I initiated yesterday as it was an error. Could you please reverse the transaction and ensure it's corrected by tomorrow?
+GEN | [declined_cash_withdrawal] | Orig: Why can I not get cash from the ATM? -> Aug: Why was my cash withdrawal request declined at the ATM?
+GEN | [top_up_limits] | Orig: Can I top-up any amount I wish on any given day? -> Aug: Can I increase my credit limit by any amount I desire on any given day?
+GEN | [declined_card_payment] | Orig: Do you know why my card payment has been declined? -> Aug: We're sorry to inform you that your recent card payment has been declined. Can you please check your account balance and card details to see if everything is correct?
+GEN | [card_not_working] | Orig: What to do if my physical card is not working? -> Aug: What should I do if my physical credit card is not functioning properly?
+GEN | [disposable_card_limits] | Orig: Are there a certain amount of transactions i can do with one disposable card? -> Aug: Can I make a specific number of transactions with a disposable card before it expires or reaches its spending limit?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I noticed my exchange rate was incorrect when I got cash. -> Aug: I was surprised to find that the exchange rate was off when I withdrew cash.
+GEN | [card_arrival] | Orig: I ordered my card but it still isn't here -> Aug: I haven't received my card yet, even though I placed the order
+GEN | [passcode_forgotten] | Orig: What should I do if my passcode won't work? -> Aug: I forgot my passcode, what are my options?
+GEN | [country_support] | Orig: Supported countries -> Aug: Supported regions
+GEN | [verify_my_identity] | Orig: What do I need to do to perform identity checks? -> Aug: What steps can I take to verify my identity?
+GEN | [why_verify_identity] | Orig: Can I already use my account although the identity verification has not passed yet? -> Aug: Can I access my account services even if the identity verification process is still in progress?
+GEN | [disposable_card_limits] | Orig: How many times can I use my disposable card? -> Aug: What is the limit on the number of transactions I can make with my disposable card?
+GEN | [direct_debit_payment_not_recognised] | Orig: Weird Direct Debit payment -> Aug: Mysterious Direct Debit transaction
+VAL | [top_up_reverted] | YES | Text: I'm confused about the crypto top-up service, as I thought it was available. Unfortunately, the funds have been reversed from my account, and I'd appreciate it if you could clarify what's going on.
+VAL | [pin_blocked] | NO | Text: I'm having trouble accessing my account because my PIN is blocked. Can you help me retrieve it?
+VAL | [card_payment_not_recognised] | YES | Text: We've received a payment from a cardholder we can't identify
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I made a cash deposit, but my account balance remains unchanged.
+VAL | [age_limit] | YES | Text: Are there any age restrictions or limitations for my child to access these services?
+VAL | [get_physical_card] | NO | Text: How can I obtain a physical copy of my credit card?
+VAL | [cash_withdrawal_charge] | NO | Text: Are there any fees associated with making a cash withdrawal?
+VAL | [beneficiary_not_allowed] | YES | Text: The beneficiary is not authorized to receive the transfer.
+VAL | [exchange_via_app] | YES | Text: Can I make an exchange between US dollars and British pounds using this mobile app?
+VAL | [why_verify_identity] | YES | Text: We verify your identity to ensure the security and integrity of your account and transactions.
+VAL | [getting_spare_card] | YES | Text: Can I have a spare card issued to me?
+VAL | [getting_spare_card] | YES | Text: Can I request a new card without incurring any additional charges?
+VAL | [cancel_transfer] | YES | Text: I urgently need assistance. I mistakenly sent a payment to the wrong account number due to a typo. Can you please cancel the transfer immediately? I'm unable to find an option to do so through the app.
+VAL | [top_up_by_card_charge] | NO | Text: Are there any charges associated with adding funds to a card?
+VAL | [pin_blocked] | YES | Text: I accidentally entered the wrong PIN multiple times and now it's been blocked. Can you assist me in unblocking it?
+VAL | [top_up_reverted] | YES | Text: Why did my funds revert when I made a top-up transaction??
+VAL | [reverted_card_payment?] | YES | Text: Why was my payment reversed and credited back to my account?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: The exchange rate used for my cash withdrawal is not what I was expecting. Can you explain why it's different?
+VAL | [verify_top_up] | YES | Text: What's going on with confirming top-up transactions?
+VAL | [card_about_to_expire] | YES | Text: My card's expiration date is approaching rapidly, and I require a new one. Could you please provide information on the cost and delivery options for a replacement card?
+VAL | [top_up_failed] | YES | Text: I attempted to add funds to my card, but the transaction was unsuccessful.
+VAL | [declined_card_payment] | NO | Text: Your payment has been declined due to an issue with your card. Please check your account balance, expiration date, or card security code to resolve the issue.
+VAL | [edit_personal_details] | YES | Text: I would like to update my personal details.
+VAL | [balance_not_updated_after_bank_transfer] | NO | Text: I recently initiated a transfer from the UK, but my account balance hasn't been updated yet. Could it be that international transfers take longer to reflect in my account?
+VAL | [cancel_transfer] | YES | Text: Hi, I'd like to cancel the transfer I initiated yesterday as it was an error. Could you please reverse the transaction and ensure it's corrected by tomorrow?
+VAL | [declined_cash_withdrawal] | YES | Text: Why was my cash withdrawal request declined at the ATM?
+VAL | [top_up_limits] | NO | Text: Can I increase my credit limit by any amount I desire on any given day?
+VAL | [declined_card_payment] | YES | Text: We're sorry to inform you that your recent card payment has been declined. Can you please check your account balance and card details to see if everything is correct?
+VAL | [card_not_working] | YES | Text: What should I do if my physical credit card is not functioning properly?
+VAL | [disposable_card_limits] | YES | Text: Can I make a specific number of transactions with a disposable card before it expires or reaches its spending limit?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I was surprised to find that the exchange rate was off when I withdrew cash.
+VAL | [card_arrival] | YES | Text: I haven't received my card yet, even though I placed the order
+VAL | [passcode_forgotten] | YES | Text: I forgot my passcode, what are my options?
+VAL | [country_support] | NO | Text: Supported regions
+VAL | [verify_my_identity] | YES | Text: What steps can I take to verify my identity?
+VAL | [why_verify_identity] | NO | Text: Can I access my account services even if the identity verification process is still in progress?
+VAL | [disposable_card_limits] | YES | Text: What is the limit on the number of transactions I can make with my disposable card?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: Mysterious Direct Debit transaction

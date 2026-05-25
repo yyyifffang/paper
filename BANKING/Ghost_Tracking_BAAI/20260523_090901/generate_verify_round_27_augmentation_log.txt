@@ -1,0 +1,78 @@
+GEN | [why_verify_identity] | Orig: Do you need my birthdate? -> Aug: Can you confirm your birthdate for verification purposes?
+GEN | [verify_my_identity] | Orig: Tell me what the steps for the identity checks are -> Aug: Can you walk me through the process of verifying my identity?
+GEN | [verify_my_identity] | Orig: Can I get information on the identity checks? -> Aug: Can you please provide details about the identity verification process?
+GEN | [beneficiary_not_allowed] | Orig: Why is allowance not being given to my beneficiary? -> Aug: Why is the allowance not being disbursed to the beneficiary, as they are not authorized to receive it?
+GEN | [fiat_currency_support] | Orig: What kind of money can I hold? -> Aug: What types of fiat currencies can I store in my account?
+GEN | [reverted_card_payment?] | Orig: HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it? -> Aug: HELP. My account was charged, but the seller claims they haven't received the payment? Can you clarify when the payment will be reversed?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Can you check the exchange rate on a cash transaction I did overseas -> Aug: I'm trying to withdraw cash abroad and I think the exchange rate was incorrect
+GEN | [fiat_currency_support] | Orig: What types of foreign money can be used with this service.? -> Aug: What types of fiat currencies are accepted for transactions with this service?
+GEN | [extra_charge_on_statement] | Orig: Is the 1 pound charge going to be reimbursed on my card? -> Aug: Will the additional £1 charge be credited back to my account on my next statement?
+GEN | [virtual_card_not_working] | Orig: My throwaway virtual card won't work -> Aug: My temporary virtual card is not functioning properly.
+GEN | [verify_source_of_funds] | Orig: My funds must be verified -> Aug: We need to confirm the origin of your funds
+GEN | [virtual_card_not_working] | Orig: My disposable virtual card got rejected -> Aug: My temporary virtual card was declined
+GEN | [why_verify_identity] | Orig: Can I make transfers before my identity verification? -> Aug: Can I initiate transactions or make transfers before completing the identity verification process?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I am worried about the amount of my cheque, which should be credited to my account few days before. As i have already sent you the cheque. -> Aug: I'm concerned that my account balance hasn't been updated after I deposited a cheque, which I mailed a few days ago.
+GEN | [top_up_reverted] | Orig: i noticed that the funds were returned to my bank account. What happened? -> Aug: I see that the top-up was reverted back to my account. Can you please explain why this occurred?
+GEN | [receiving_money] | Orig: can my husband open an account and transfer money -> Aug: Can my spouse open an account and deposit funds?
+GEN | [declined_card_payment] | Orig: My card did not go through in a shop -> Aug: Your payment was declined at the merchant's location.
+GEN | [wrong_amount_of_cash_received] | Orig: My cash received does not match what has been requested -> Aug: The amount of cash I received is not what I was expecting.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I draw out money from your ATM during holidays, and was charged insanely. I wouldn't have done it, if i had a little sense about the shocking charges. -> Aug: I withdrew cash from your ATM during a holiday weekend and was surprised to see an incorrect exchange rate applied, resulting in an unexpected and excessive charge. If I had been aware of the rate beforehand, I would have reconsidered the transaction.
+GEN | [transfer_into_account] | Orig: What transfer methods do you accept? -> Aug: What payment methods do you support for transferring funds into an account?
+GEN | [supported_cards_and_currencies] | Orig: Please let me know what currency I can use to top up my account? -> Aug: Please inform me about the available currencies and cards I can use to replenish my account balance.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Why hasn't my account updated to reflect my current balance? -> Aug: I'm trying to check my account balance, but it's not showing the correct amount after I made a recent transfer.
+GEN | [country_support] | Orig: Is this card available to Americans? -> Aug: Are you a US citizen or resident, and would you like to know if this card is available to you?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this. -> Aug: I'm having trouble viewing a recent transaction in my account, which was made a few hours ago from my UK account. Can you assist me in resolving this issue?
+GEN | [card_payment_wrong_exchange_rate] | Orig: Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you. -> Aug: I'd like to review my payment from last weekend, as I believe I was incorrectly charged a higher exchange rate. Could you look into this for me, please?
+GEN | [pending_card_payment] | Orig: What is the cause of the delay in applying my card payment to my account? -> Aug: Why is there a delay in processing my pending card payment for my account?
+GEN | [card_about_to_expire] | Orig: Am I able to have a card sent to China? -> Aug: Can I arrange for a card to be delivered to China before it expires?
+GEN | [top_up_reverted] | Orig: For some reason, the money I added was returned. -> Aug: The funds I deposited were unexpectedly reversed.
+GEN | [direct_debit_payment_not_recognised] | Orig: I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money? -> Aug: I'm concerned about a suspicious transaction on my account. I didn't authorise a direct debit payment, and I'd like to report it. Can you investigate and cancel the transaction, and then refund the amount back to my account?
+GEN | [verify_top_up] | Orig: this verifying the top up is annoying -> Aug: This verification process for the top-up is frustrating
+GEN | [Refund_not_showing_up] | Orig: Are the funds I requested from a merchant a few days ago in my account? I do not see them. -> Aug: I'm checking on the status of the refund I requested from a merchant a few days ago. Can you confirm if the funds have been credited to my account yet?
+GEN | [verify_my_identity] | Orig: what steps do you take to check identity -> Aug: how do you verify my identity
+GEN | [visa_or_mastercard] | Orig: Please help me get a Visa card. -> Aug: Please assist me in obtaining a Mastercard.
+GEN | [virtual_card_not_working] | Orig: Please help me.  My disposable virtual card won't work right. -> Aug: I'm having trouble with my virtual card; it's not functioning properly.
+GEN | [visa_or_mastercard] | Orig: What type of card will I receive? -> Aug: Will I be issued a Visa or Mastercard?
+GEN | [top_up_failed] | Orig: Fix my top up -> Aug: Resolve the failed top-up issue
+GEN | [country_support] | Orig: I need a new card and I live in the United States. -> Aug: I require a replacement card and I am a resident of the United States.
+GEN | [cash_withdrawal_charge] | Orig: I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction? -> Aug: I noticed a charge on my receipt for the cash withdrawal I made at the store. Is it normal to be charged a fee for this type of transaction?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do I get charged if I am receiving money? -> Aug: Will I be charged a fee for receiving funds via bank transfer?
+VAL | [why_verify_identity] | YES | Text: Can you confirm your birthdate for verification purposes?
+VAL | [verify_my_identity] | YES | Text: Can you walk me through the process of verifying my identity?
+VAL | [verify_my_identity] | NO | Text: Can you please provide details about the identity verification process?
+VAL | [beneficiary_not_allowed] | YES | Text: Why is the allowance not being disbursed to the beneficiary, as they are not authorized to receive it?
+VAL | [fiat_currency_support] | NO | Text: What types of fiat currencies can I store in my account?
+VAL | [reverted_card_payment?] | NO | Text: HELP. My account was charged, but the seller claims they haven't received the payment? Can you clarify when the payment will be reversed?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I'm trying to withdraw cash abroad and I think the exchange rate was incorrect
+VAL | [fiat_currency_support] | YES | Text: What types of fiat currencies are accepted for transactions with this service?
+VAL | [extra_charge_on_statement] | NO | Text: Will the additional £1 charge be credited back to my account on my next statement?
+VAL | [virtual_card_not_working] | YES | Text: My temporary virtual card is not functioning properly.
+VAL | [verify_source_of_funds] | YES | Text: We need to confirm the origin of your funds
+VAL | [virtual_card_not_working] | YES | Text: My temporary virtual card was declined
+VAL | [why_verify_identity] | YES | Text: Can I initiate transactions or make transfers before completing the identity verification process?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I'm concerned that my account balance hasn't been updated after I deposited a cheque, which I mailed a few days ago.
+VAL | [top_up_reverted] | YES | Text: I see that the top-up was reverted back to my account. Can you please explain why this occurred?
+VAL | [receiving_money] | NO | Text: Can my spouse open an account and deposit funds?
+VAL | [declined_card_payment] | YES | Text: Your payment was declined at the merchant's location.
+VAL | [wrong_amount_of_cash_received] | YES | Text: The amount of cash I received is not what I was expecting.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I withdrew cash from your ATM during a holiday weekend and was surprised to see an incorrect exchange rate applied, resulting in an unexpected and excessive charge. If I had been aware of the rate beforehand, I would have reconsidered the transaction.
+VAL | [transfer_into_account] | NO | Text: What payment methods do you support for transferring funds into an account?
+VAL | [supported_cards_and_currencies] | NO | Text: Please inform me about the available currencies and cards I can use to replenish my account balance.
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm trying to check my account balance, but it's not showing the correct amount after I made a recent transfer.
+VAL | [country_support] | NO | Text: Are you a US citizen or resident, and would you like to know if this card is available to you?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm having trouble viewing a recent transaction in my account, which was made a few hours ago from my UK account. Can you assist me in resolving this issue?
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: I'd like to review my payment from last weekend, as I believe I was incorrectly charged a higher exchange rate. Could you look into this for me, please?
+VAL | [pending_card_payment] | YES | Text: Why is there a delay in processing my pending card payment for my account?
+VAL | [card_about_to_expire] | NO | Text: Can I arrange for a card to be delivered to China before it expires?
+VAL | [top_up_reverted] | YES | Text: The funds I deposited were unexpectedly reversed.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm concerned about a suspicious transaction on my account. I didn't authorise a direct debit payment, and I'd like to report it. Can you investigate and cancel the transaction, and then refund the amount back to my account?
+VAL | [verify_top_up] | NO | Text: This verification process for the top-up is frustrating
+VAL | [Refund_not_showing_up] | YES | Text: I'm checking on the status of the refund I requested from a merchant a few days ago. Can you confirm if the funds have been credited to my account yet?
+VAL | [verify_my_identity] | YES | Text: how do you verify my identity
+VAL | [visa_or_mastercard] | NO | Text: Please assist me in obtaining a Mastercard.
+VAL | [virtual_card_not_working] | YES | Text: I'm having trouble with my virtual card; it's not functioning properly.
+VAL | [visa_or_mastercard] | YES | Text: Will I be issued a Visa or Mastercard?
+VAL | [top_up_failed] | NO | Text: Resolve the failed top-up issue
+VAL | [country_support] | YES | Text: I require a replacement card and I am a resident of the United States.
+VAL | [cash_withdrawal_charge] | YES | Text: I noticed a charge on my receipt for the cash withdrawal I made at the store. Is it normal to be charged a fee for this type of transaction?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: Will I be charged a fee for receiving funds via bank transfer?

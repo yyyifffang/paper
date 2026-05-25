@@ -1,0 +1,78 @@
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I need my account checked because it appears there is a problem. I attempted to update my balance yesterday using cheque but it doesn't seem to have worked.  Should this not be faster than this? -> Aug: I'm concerned about an issue with my account. I deposited a cheque yesterday, but my balance hasn't been updated. Can you look into this and let me know why it's taking so long?
+GEN | [request_refund] | Orig: I received the wrong color and size, can I return it? -> Aug: I'd like to initiate a return and request a refund due to the incorrect color and size received.
+GEN | [declined_transfer] | Orig: I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate. -> Aug: I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct.
+GEN | [topping_up_by_card] | Orig: Can a credit card be used to transfer money? -> Aug: Can I use my credit card to add funds to my account?
+GEN | [wrong_amount_of_cash_received] | Orig: ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now! -> Aug: The ATM malfunctioned and dispensed an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds. I'm currently at the machine and would appreciate immediate assistance.
+GEN | [topping_up_by_card] | Orig: I need to transfer some money, can I use my credit card? -> Aug: I'd like to add funds to my account using my credit card.
+GEN | [lost_or_stolen_phone] | Orig: I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user? -> Aug: I recently had my phone stolen and I'm trying to figure out if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account.
+GEN | [topping_up_by_card] | Orig: Hoe do i use my credit card to transfer money? -> Aug: How can I use my credit card to add funds to my account?
+GEN | [pending_cash_withdrawal] | Orig: Why is the app showing a still pending message on a withdraw that has already been done? -> Aug: Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?
+GEN | [transfer_into_account] | Orig: My account is depleted. Can I transfer funds from another bank? -> Aug: I'm running low on funds in my account. Can I transfer money from another bank account to my current account?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Please, tell me why I can't have the funds I deposited a week ago? I need the money now. -> Aug: I made a deposit last week, but my account balance hasn't been updated. Can you please explain why I'm still waiting for the funds to reflect in my account?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I thought I was going to receive more currency? -> Aug: I was expecting a better exchange rate for my cash withdrawal.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Please check to see if the band transfer I made a while ago from my UK account has safely arrived. -> Aug: Please investigate whether the recent bank transfer I initiated from my UK account has successfully been credited to my account.
+GEN | [unable_to_verify_identity] | Orig: app malfunctioning, does not know its me -> Aug: We're experiencing technical difficulties with our system, and we're unable to confirm your identity.
+GEN | [country_support] | Orig: Can I use my card in Austria? -> Aug: Can I use my card in Austria, or is there a specific country where I can use it?
+GEN | [transfer_timing] | Orig: How long do I have to wait for Europe transfers? -> Aug: What is the typical timeframe for international transfers to Europe?
+GEN | [apple_pay_or_google_pay] | Orig: how do i set up my apple pay watch to connect to my account -> Aug: How do I configure my Google Pay watch to link to my account?
+GEN | [reverted_card_payment?] | Orig: I have cancelled payments to this card. -> Aug: I've reversed the payment made to this card.
+GEN | [unable_to_verify_identity] | Orig: I am not recognized by the app. -> Aug: We're having trouble verifying your identity through our system.
+GEN | [supported_cards_and_currencies] | Orig: how can i transfer money from american express card -> Aug: You can transfer money from your American Express card to another account, but please note that we also support other cards such as Visa, Mastercard, and Discover, as well as various currencies like USD, EUR, JPY, and more.
+GEN | [direct_debit_payment_not_recognised] | Orig: There is a transaction showing in my app that I did not make as I have not used that card all day.  Please reimburse this amount to my account. -> Aug: I'm showing a direct debit payment in my account that I didn't authorise, as I haven't used that card all day. Can you please reverse this transaction and credit my account?
+GEN | [card_not_working] | Orig: How do I check security settings on my card? -> Aug: Why is my card not functioning properly? Can I still access my account settings?
+GEN | [top_up_by_cash_or_cheque] | Orig: Do you accept cash? -> Aug: Can I top up my account by cash or cheque?
+GEN | [apple_pay_or_google_pay] | Orig: what can I do if I got my American Express in Apple Bay but top up is not working? -> Aug: What can I do if I got my American Express in Google Pay but the top-up is not working?
+GEN | [verify_my_identity] | Orig: What type of ID do you accept? -> Aug: What forms of identification do you accept for verification?
+GEN | [wrong_amount_of_cash_received] | Orig: Did a WD earlier at an ATM.  The amount showing in the App is more than I got though. -> Aug: I made a withdrawal at an ATM, but the amount reflected in the app is different from what I actually received.
+GEN | [visa_or_mastercard] | Orig: Which type of card will I receive? -> Aug: Will I be issued a Visa or Mastercard?
+GEN | [getting_spare_card] | Orig: How much is it to buy another card? I was hoping to buy another one. -> Aug: I'd like to purchase a replacement card, could you please tell me the cost?
+GEN | [topping_up_by_card] | Orig: Transferring money using credit card -> Aug: Adding funds using a credit card
+GEN | [card_linking] | Orig: My card arrived but I need to make it work in the app, how do I do that? -> Aug: I received my new card, but I'm having trouble linking it to the app, can you guide me through the process?
+GEN | [apple_pay_or_google_pay] | Orig: I am having a slight problem with my American express in apple play, can you help me fix the problem with top up? -> Aug: I am having a slight problem with my American express in Google Pay, can you help me fix the problem with top up?
+GEN | [apple_pay_or_google_pay] | Orig: I seem to be having trouble with my Google Pay Top. Can you please help? -> Aug: I'm having issues with my Apple Pay account. Can you assist me?
+GEN | [country_support] | Orig: where do you have locations at -> Aug: where are your branches located
+GEN | [wrong_amount_of_cash_received] | Orig: I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money? -> Aug: I attempted to withdraw £20 but was given only £15. Where is the balance of my cash?
+GEN | [lost_or_stolen_card] | Orig: I lost my card n need a new one. -> Aug: I misplaced my card and require a replacement.
+GEN | [terminate_account] | Orig: I am not happy with your service and request that my account be terminated! -> Aug: I am extremely dissatisfied with your service and would like to request that my account be closed immediately.
+GEN | [Refund_not_showing_up] | Orig: I requested a refund from Next because the dress I purchased had three arm holes. They said they sent the refund last Wednesday which is nearly a week ago and I still don't have it.  Why not? -> Aug: I ordered a refund from Next after discovering the dress I bought had an unusual design feature - three arm holes. They assured me they processed the refund on Wednesday, but it's now been a week and I haven't received it. Can you explain the delay?
+GEN | [transfer_timing] | Orig: How long does it take to get my money -> Aug: What is the estimated timeframe for processing my transfer?
+GEN | [declined_transfer] | Orig: I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once. -> Aug: I'm experiencing an issue with a transfer to another account, as the transaction is being declined. Despite verifying the information multiple times, I'm still receiving an error message.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | NO | Text: I'm concerned about an issue with my account. I deposited a cheque yesterday, but my balance hasn't been updated. Can you look into this and let me know why it's taking so long?
+VAL | [request_refund] | YES | Text: I'd like to initiate a return and request a refund due to the incorrect color and size received.
+VAL | [declined_transfer] | YES | Text: I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct.
+VAL | [topping_up_by_card] | NO | Text: Can I use my credit card to add funds to my account?
+VAL | [wrong_amount_of_cash_received] | YES | Text: The ATM malfunctioned and dispensed an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds. I'm currently at the machine and would appreciate immediate assistance.
+VAL | [topping_up_by_card] | YES | Text: I'd like to add funds to my account using my credit card.
+VAL | [lost_or_stolen_phone] | NO | Text: I recently had my phone stolen and I'm trying to figure out if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account.
+VAL | [topping_up_by_card] | YES | Text: How can I use my credit card to add funds to my account?
+VAL | [pending_cash_withdrawal] | YES | Text: Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?
+VAL | [transfer_into_account] | NO | Text: I'm running low on funds in my account. Can I transfer money from another bank account to my current account?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | NO | Text: I made a deposit last week, but my account balance hasn't been updated. Can you please explain why I'm still waiting for the funds to reflect in my account?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | YES | Text: I was expecting a better exchange rate for my cash withdrawal.
+VAL | [balance_not_updated_after_bank_transfer] | NO | Text: Please investigate whether the recent bank transfer I initiated from my UK account has successfully been credited to my account.
+VAL | [unable_to_verify_identity] | YES | Text: We're experiencing technical difficulties with our system, and we're unable to confirm your identity.
+VAL | [country_support] | NO | Text: Can I use my card in Austria, or is there a specific country where I can use it?
+VAL | [transfer_timing] | YES | Text: What is the typical timeframe for international transfers to Europe?
+VAL | [apple_pay_or_google_pay] | NO | Text: How do I configure my Google Pay watch to link to my account?
+VAL | [reverted_card_payment?] | NO | Text: I've reversed the payment made to this card.
+VAL | [unable_to_verify_identity] | NO | Text: We're having trouble verifying your identity through our system.
+VAL | [supported_cards_and_currencies] | NO | Text: You can transfer money from your American Express card to another account, but please note that we also support other cards such as Visa, Mastercard, and Discover, as well as various currencies like USD, EUR, JPY, and more.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm showing a direct debit payment in my account that I didn't authorise, as I haven't used that card all day. Can you please reverse this transaction and credit my account?
+VAL | [card_not_working] | NO | Text: Why is my card not functioning properly? Can I still access my account settings?
+VAL | [top_up_by_cash_or_cheque] | NO | Text: Can I top up my account by cash or cheque?
+VAL | [apple_pay_or_google_pay] | NO | Text: What can I do if I got my American Express in Google Pay but the top-up is not working?
+VAL | [verify_my_identity] | NO | Text: What forms of identification do you accept for verification?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I made a withdrawal at an ATM, but the amount reflected in the app is different from what I actually received.
+VAL | [visa_or_mastercard] | YES | Text: Will I be issued a Visa or Mastercard?
+VAL | [getting_spare_card] | YES | Text: I'd like to purchase a replacement card, could you please tell me the cost?
+VAL | [topping_up_by_card] | YES | Text: Adding funds using a credit card
+VAL | [card_linking] | YES | Text: I received my new card, but I'm having trouble linking it to the app, can you guide me through the process?
+VAL | [apple_pay_or_google_pay] | NO | Text: I am having a slight problem with my American express in Google Pay, can you help me fix the problem with top up?
+VAL | [apple_pay_or_google_pay] | NO | Text: I'm having issues with my Apple Pay account. Can you assist me?
+VAL | [country_support] | NO | Text: where are your branches located
+VAL | [wrong_amount_of_cash_received] | NO | Text: I attempted to withdraw £20 but was given only £15. Where is the balance of my cash?
+VAL | [lost_or_stolen_card] | YES | Text: I misplaced my card and require a replacement.
+VAL | [terminate_account] | YES | Text: I am extremely dissatisfied with your service and would like to request that my account be closed immediately.
+VAL | [Refund_not_showing_up] | YES | Text: I ordered a refund from Next after discovering the dress I bought had an unusual design feature - three arm holes. They assured me they processed the refund on Wednesday, but it's now been a week and I haven't received it. Can you explain the delay?
+VAL | [transfer_timing] | NO | Text: What is the estimated timeframe for processing my transfer?
+VAL | [declined_transfer] | YES | Text: I'm experiencing an issue with a transfer to another account, as the transaction is being declined. Despite verifying the information multiple times, I'm still receiving an error message.

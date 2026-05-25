@@ -1,0 +1,78 @@
+GEN | [top_up_failed] | Orig: My credit card did not go through. Can you see if it has insufficient funds? -> Aug: My top-up attempt was unsuccessful. Can you check if my credit card has insufficient funds?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Balance is not up to date. -> Aug: Your account balance has not been updated after the recent bank transfer.
+GEN | [transfer_not_received_by_recipient] | Orig: i accidentally entered in my retailers information, what should i do next -> Aug: The transfer was sent to the wrong recipient, what are the next steps to resolve this issue?
+GEN | [top_up_reverted] | Orig: I refilled my account balance but got an error message. -> Aug: I attempted to add funds to my account, but the transaction was unsuccessful.
+GEN | [top_up_reverted] | Orig: What if my top up is reverted? -> Aug: What happens if my top-up transaction is reversed?
+GEN | [top_up_reverted] | Orig: Tell me how a top up would be reverted. -> Aug: Can you explain the process of reverting a top-up transaction?
+GEN | [pending_cash_withdrawal] | Orig: Explain pending transactions. -> Aug: Describe the status of your cash withdrawal request.
+GEN | [top_up_reverted] | Orig: Reasons for top up cancellation. -> Aug: Reasons for reversal of top-up transaction.
+GEN | [supported_cards_and_currencies] | Orig: why don't you accept american express for adding money to my account -> Aug: We do not currently support American Express as a payment method for adding funds to your account, but we do accept a variety of other cards and currencies, including Visa, Mastercard, and USD/EUR/JPY/GBP.
+GEN | [verify_source_of_funds] | Orig: how do i track the moeney -> Aug: Can you please provide the source of the funds for the transaction?
+GEN | [top_up_failed] | Orig: There has been a red flag on my top up. -> Aug: There was an issue with my recent top-up attempt.
+GEN | [getting_spare_card] | Orig: My daughter need a card from this account. Is that possible? -> Aug: Can I request a replacement card for my daughter's account?
+GEN | [card_delivery_estimate] | Orig: My card is needed soon -> Aug: My credit card is required for an upcoming transaction and I'd like to know when it will arrive.
+GEN | [card_arrival] | Orig: I thought I would have received my new card at this point. -> Aug: I was expecting my new card to arrive by now.
+GEN | [getting_spare_card] | Orig: My daughter would like a card from my account?  Can I do this? -> Aug: Can I request a replacement card for my account, so my daughter can access the funds?
+GEN | [activate_my_card] | Orig: You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there. -> Aug: You can complete the process in a few minutes. Log in to your account, select the "Activate Card" option, and follow the prompts to finish the activation.
+GEN | [supported_cards_and_currencies] | Orig: I need to know if you will accept my credit card. -> Aug: We accept a range of credit cards, including Visa, Mastercard, and American Express, as well as various currencies such as USD, EUR, and JPY.
+GEN | [Refund_not_showing_up] | Orig: It's been more than a week since I had a return charged to my card, why hasn't it showed up? -> Aug: I've been waiting for over a week for a refund to be credited to my account, but it's still not showing up.
+GEN | [reverted_card_payment?] | Orig: Under what condition will my payment revert? -> Aug: What circumstances would cause my payment to be reversed?
+GEN | [visa_or_mastercard] | Orig: I do not want a VISA card. -> Aug: I prefer not to use a Mastercard.
+GEN | [pending_card_payment] | Orig: Why aren't my payment funds available to me? -> Aug: We've received your pending card payment, but it's still being processed. Can you please check with your bank to confirm the payment has been successfully authorized and cleared?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: When will my deposit be processed? -> Aug: Why hasn't my account balance been updated after I deposited a cheque or cash?
+GEN | [direct_debit_payment_not_recognised] | Orig: How long after I receive my statement can I dispute payments on it? -> Aug: We've noticed that a direct debit payment from your account hasn't been recognised. Can you please clarify the payment details and the date it was made, so we can assist you further?
+GEN | [reverted_card_payment?] | Orig: Why has my money been returned back to my card. -> Aug: Why was my payment reversed and credited back to my card?
+GEN | [topping_up_by_card] | Orig: Why was my card charged when topping off my balance but it's not showing up in my wallet balance? -> Aug: Why was my card used to top up my account when the transaction is not reflecting in my current balance?
+GEN | [visa_or_mastercard] | Orig: Does it matter which card I use -> Aug: Is it important which credit card I use, whether it's Visa or Mastercard?
+GEN | [card_acceptance] | Orig: Are there limits as to where my card will be accepted? -> Aug: Can I use my card at any location, or are there specific places where it won't be accepted?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I can still see money in my account after making a payment -> Aug: I'm still seeing the transferred amount in my account, but my balance isn't reflecting the update.
+GEN | [transfer_timing] | Orig: How fast can I transfer something from China? -> Aug: What is the estimated transfer timing for sending something from China?
+GEN | [automatic_top_up] | Orig: Can I have money transferred into my account at different intervals along my trip? -> Aug: Can I set up automatic top-ups to my account at regular intervals during my trip?
+GEN | [card_payment_fee_charged] | Orig: I'm going on holiday to France for 6 weeks with my family and the cat, Fluffy.  I just purchased €10,000 from a currency exchange to ensure we don't run short but there appears to be a fee.  What is this for? -> Aug: I'm planning a 6-week trip to France with my family, including our cat Fluffy. I recently exchanged €10,000 from a currency exchange, but I noticed a fee was applied. Can you please explain what this fee is for?
+GEN | [visa_or_mastercard] | Orig: Please give me a Mastercard instead. -> Aug: Please provide me with a Visa or Mastercard.
+GEN | [verify_top_up] | Orig: I don't see the verification code for my card transfer. -> Aug: I'm having trouble finding the verification code for my recent top-up.
+GEN | [pending_top_up] | Orig: how long does it take to reflect in my balance a top up -> Aug: when will the top-up amount be credited to my account?
+GEN | [card_about_to_expire] | Orig: Are there restrictions on new cards in China? -> Aug: Can I still apply for a new credit card in China if my current one is about to expire?
+GEN | [transfer_into_account] | Orig: I have zero dollars in my account. Can I submit additional funds via bank transfer? -> Aug: I have a balance of $0 in my account. Can I initiate a bank transfer to add funds to my account?
+GEN | [transfer_timing] | Orig: How quickly can I transfer something to China? -> Aug: What is the estimated timeframe for transferring funds to China?
+GEN | [card_about_to_expire] | Orig: Where can I have a new bank card sent to China? -> Aug: As my bank card is about to expire, can I request a replacement card to be sent to China?
+GEN | [Refund_not_showing_up] | Orig: Why hasn't my return cleared my account? -> Aug: I'm still waiting to see the refund credited to my account.
+VAL | [top_up_failed] | YES | Text: My top-up attempt was unsuccessful. Can you check if my credit card has insufficient funds?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: Your account balance has not been updated after the recent bank transfer.
+VAL | [transfer_not_received_by_recipient] | YES | Text: The transfer was sent to the wrong recipient, what are the next steps to resolve this issue?
+VAL | [top_up_reverted] | YES | Text: I attempted to add funds to my account, but the transaction was unsuccessful.
+VAL | [top_up_reverted] | YES | Text: What happens if my top-up transaction is reversed?
+VAL | [top_up_reverted] | NO | Text: Can you explain the process of reverting a top-up transaction?
+VAL | [pending_cash_withdrawal] | NO | Text: Describe the status of your cash withdrawal request.
+VAL | [top_up_reverted] | YES | Text: Reasons for reversal of top-up transaction.
+VAL | [supported_cards_and_currencies] | NO | Text: We do not currently support American Express as a payment method for adding funds to your account, but we do accept a variety of other cards and currencies, including Visa, Mastercard, and USD/EUR/JPY/GBP.
+VAL | [verify_source_of_funds] | YES | Text: Can you please provide the source of the funds for the transaction?
+VAL | [top_up_failed] | YES | Text: There was an issue with my recent top-up attempt.
+VAL | [getting_spare_card] | YES | Text: Can I request a replacement card for my daughter's account?
+VAL | [card_delivery_estimate] | NO | Text: My credit card is required for an upcoming transaction and I'd like to know when it will arrive.
+VAL | [card_arrival] | YES | Text: I was expecting my new card to arrive by now.
+VAL | [getting_spare_card] | YES | Text: Can I request a replacement card for my account, so my daughter can access the funds?
+VAL | [activate_my_card] | YES | Text: You can complete the process in a few minutes. Log in to your account, select the "Activate Card" option, and follow the prompts to finish the activation.
+VAL | [supported_cards_and_currencies] | NO | Text: We accept a range of credit cards, including Visa, Mastercard, and American Express, as well as various currencies such as USD, EUR, and JPY.
+VAL | [Refund_not_showing_up] | YES | Text: I've been waiting for over a week for a refund to be credited to my account, but it's still not showing up.
+VAL | [reverted_card_payment?] | YES | Text: What circumstances would cause my payment to be reversed?
+VAL | [visa_or_mastercard] | NO | Text: I prefer not to use a Mastercard.
+VAL | [pending_card_payment] | YES | Text: We've received your pending card payment, but it's still being processed. Can you please check with your bank to confirm the payment has been successfully authorized and cleared?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | NO | Text: Why hasn't my account balance been updated after I deposited a cheque or cash?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've noticed that a direct debit payment from your account hasn't been recognised. Can you please clarify the payment details and the date it was made, so we can assist you further?
+VAL | [reverted_card_payment?] | NO | Text: Why was my payment reversed and credited back to my card?
+VAL | [topping_up_by_card] | YES | Text: Why was my card used to top up my account when the transaction is not reflecting in my current balance?
+VAL | [visa_or_mastercard] | NO | Text: Is it important which credit card I use, whether it's Visa or Mastercard?
+VAL | [card_acceptance] | YES | Text: Can I use my card at any location, or are there specific places where it won't be accepted?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm still seeing the transferred amount in my account, but my balance isn't reflecting the update.
+VAL | [transfer_timing] | YES | Text: What is the estimated transfer timing for sending something from China?
+VAL | [automatic_top_up] | YES | Text: Can I set up automatic top-ups to my account at regular intervals during my trip?
+VAL | [card_payment_fee_charged] | YES | Text: I'm planning a 6-week trip to France with my family, including our cat Fluffy. I recently exchanged €10,000 from a currency exchange, but I noticed a fee was applied. Can you please explain what this fee is for?
+VAL | [visa_or_mastercard] | NO | Text: Please provide me with a Visa or Mastercard.
+VAL | [verify_top_up] | NO | Text: I'm having trouble finding the verification code for my recent top-up.
+VAL | [pending_top_up] | YES | Text: when will the top-up amount be credited to my account?
+VAL | [card_about_to_expire] | NO | Text: Can I still apply for a new credit card in China if my current one is about to expire?
+VAL | [transfer_into_account] | YES | Text: I have a balance of $0 in my account. Can I initiate a bank transfer to add funds to my account?
+VAL | [transfer_timing] | YES | Text: What is the estimated timeframe for transferring funds to China?
+VAL | [card_about_to_expire] | NO | Text: As my bank card is about to expire, can I request a replacement card to be sent to China?
+VAL | [Refund_not_showing_up] | YES | Text: I'm still waiting to see the refund credited to my account.

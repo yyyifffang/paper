@@ -1,0 +1,76 @@
+GEN | [topping_up_by_card] | Orig: I want to transfer money with my credit card. -> Aug: I'd like to add funds to my account using my credit card.
+GEN | [why_verify_identity] | Orig: My ID verification hasn't gone through yet, but can I use my account anyway? -> Aug: Can I still access my account even if my ID verification is pending?
+GEN | [automatic_top_up] | Orig: Can I add money to my card automatically during a trip? -> Aug: Can I set up automatic top-ups for my card while I'm traveling?
+GEN | [card_arrival] | Orig: My new card isn't here and it was issued a week ago. -> Aug: My new credit card has still not arrived, despite being issued a week ago.
+GEN | [lost_or_stolen_card] | Orig: I cant find my card. -> Aug: I've misplaced my card.
+GEN | [declined_cash_withdrawal] | Orig: I tried to withdraw some funds from my card, but was declined. How can I get my money? -> Aug: I attempted to make a cash withdrawal using my card, but it was declined. Can I find out why and get my funds released?
+GEN | [declined_cash_withdrawal] | Orig: My card has been declined by two separate ATM, and I'm worried something is wrong with my account. Would you please see if my account is okay? -> Aug: I've tried to withdraw cash from two different ATMs, but my card was declined both times. I'm concerned that there might be an issue with my account. Could you please check if everything is okay?
+GEN | [exchange_charge] | Orig: How much do I have to pay to accept an international transfer? -> Aug: What is the exchange charge for receiving an international wire transfer?
+GEN | [automatic_top_up] | Orig: I have a trip coming up and want to add money automatically. -> Aug: I'm planning a trip and would like to set up automatic top-ups to my account.
+GEN | [declined_cash_withdrawal] | Orig: Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM. -> Aug: I'm happy to assist you with your card issue. It seems that your card has been declined for cash withdrawal at two different ATMs. Can you please check your account balance and ensure that you have sufficient funds available for the transaction? If the issue persists, I can help you investigate further.
+GEN | [card_arrival] | Orig: How long should it take for my new card to arrive in them mail? What should I do if I never receive it? -> Aug: When can I expect my new card to arrive by mail? What should I do if I don't receive it within the expected timeframe?
+GEN | [unable_to_verify_identity] | Orig: The app is telling me that I am not me. -> Aug: We're having trouble verifying your identity through our system, and it appears that our records do not match the information you're providing.
+GEN | [declined_card_payment] | Orig: May monthly payment to Apple has been declined but I don't know why, they are going to re-try the payment and it must go through, can you tell me what is going on please? -> Aug: My monthly payment to Apple has been declined, and I'm not sure why. They're going to retry the payment, but I'm concerned it won't go through. Can you help me understand what's happening?
+GEN | [top_up_by_card_charge] | Orig: What do I need to know about topping up? -> Aug: What are the requirements for charging my card for a top-up?
+GEN | [passcode_forgotten] | Orig: I can't remember my app code, can you reset it? -> Aug: I forgot my passcode, can you help me reset it?
+GEN | [declined_cash_withdrawal] | Orig: I could not access my money at the ATM -> Aug: I was unable to withdraw cash from the ATM due to insufficient funds.
+GEN | [automatic_top_up] | Orig: I know there's an auto-top option but I can not locate it when I look? -> Aug: I'm having trouble finding the automatic top-up feature, can you help me locate it?
+GEN | [declined_cash_withdrawal] | Orig: The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account? -> Aug: I'm unable to withdraw cash from the ATM, and I've tried using two different machines. Could you please verify if there's an issue with my account?
+GEN | [direct_debit_payment_not_recognised] | Orig: Hi, i found a large amount payment in my old statements which i am sure was not made by me. I am aware that the time has passed but is there a way to raise a dispute for this payment now? -> Aug: I've noticed an unexpected direct debit payment in my previous statements that I'm certain wasn't authorized by me. Although the time has passed, is there a way to dispute this payment now?
+GEN | [card_payment_wrong_exchange_rate] | Orig: I think the rate that was applied to my purchase using foreign currency is wrong. Help! -> Aug: I'm concerned that the exchange rate used for my international transaction is incorrect. Can you assist me?
+GEN | [lost_or_stolen_card] | Orig: Is there any way for you to find my card? -> Aug: Can you help me locate my missing card?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I put some money in my account the other day and it's not gone in yet, can you help with this? -> Aug: I made a deposit using a cheque or cash, but my account balance hasn't been updated yet, could you assist me with this issue?
+GEN | [card_payment_not_recognised] | Orig: How do I find out how or where this transaction on my account came from? -> Aug: I'm trying to identify the source of this unrecognised payment on my account. Can you help me figure out where it came from?
+GEN | [topping_up_by_card] | Orig: I'd like to transfer funds using my credit card. -> Aug: I'd like to make a card-based deposit.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I tried updating my balance by cheque yesterday but it doesn't seem to be working. Shouldn't that be faster? Please check my account something has gone wrong there. -> Aug: I made a cash deposit at the bank yesterday, but my account balance hasn't been updated yet. Can you look into this and let me know what's going on?
+GEN | [automatic_top_up] | Orig: I want to add money automatically when I travel. -> Aug: I'd like to set up an automatic top-up feature for my account, so I can receive funds when I'm abroad.
+GEN | [pin_blocked] | Orig: I blocked my card by mistake, how do I unblock it? -> Aug: I accidentally blocked my card, can you help me unblock it?
+GEN | [card_payment_wrong_exchange_rate] | Orig: The exchange rate for my card payment doesn't seem right. -> Aug: The exchange rate applied to my card transaction appears to be incorrect.
+GEN | [transfer_into_account] | Orig: How is my money transferred to the account -> Aug: How do I transfer funds into the account?
+GEN | [direct_debit_payment_not_recognised] | Orig: looking back on my transactions from a couple of months ago I have noticed a charge that is fairly large that I'm certain was not completed by me. I know it has been a while but can I please dispute this charge? -> Aug: I've reviewed my recent transactions and noticed a significant charge that I'm confident I didn't authorize. Although it's been a while, I'd like to dispute this charge and understand why it was processed.
+GEN | [cash_withdrawal_not_recognised] | Orig: I just lost my wallet and I think someone is using my card to withdraw my money. Can you please cancel or freeze my card?!! -> Aug: I'm concerned that someone has stolen my wallet and is attempting to use my card to make unauthorized cash withdrawals. Can you please assist me in canceling or freezing my card to prevent any further transactions?
+GEN | [card_payment_wrong_exchange_rate] | Orig: Can you change the rate for the item I bought in a different currency as it is wrong? -> Aug: The exchange rate used for the transaction is incorrect, can you adjust it to the correct rate for the foreign currency I used to make the purchase?
+GEN | [card_linking] | Orig: I recently reported my card as missing/lost, and I just found it. Can I still use it? -> Aug: I recently reported my card as stolen, and I've since located it. Can I still use it?
+GEN | [transfer_fee_charged] | Orig: Are money transfers free? -> Aug: Is there a fee associated with transferring funds?
+GEN | [unable_to_verify_identity] | Orig: I dont have identification -> Aug: We're unable to verify your identity without a valid form of identification.
+GEN | [direct_debit_payment_not_recognised] | Orig: There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me. -> Aug: We've received a direct debit payment from an unknown merchant on your account recently. Could you please confirm if this transaction is legitimate or not?
+GEN | [top_up_by_card_charge] | Orig: Is topping up free? -> Aug: Is there a charge for topping up my card?
+GEN | [supported_cards_and_currencies] | Orig: If I top up by card, what options do I have re: currency and card type? -> Aug: We accept a range of cards and currencies for top-ups, including Visa, Mastercard, and Maestro, as well as currencies like USD, EUR, GBP, and more. What specific card type and currency are you looking to use?
+VAL | [topping_up_by_card] | NO | Text: I'd like to add funds to my account using my credit card.
+VAL | [why_verify_identity] | NO | Text: Can I still access my account even if my ID verification is pending?
+VAL | [automatic_top_up] | YES | Text: Can I set up automatic top-ups for my card while I'm traveling?
+VAL | [card_arrival] | YES | Text: My new credit card has still not arrived, despite being issued a week ago.
+VAL | [lost_or_stolen_card] | NO | Text: I've misplaced my card.
+VAL | [declined_cash_withdrawal] | YES | Text: I attempted to make a cash withdrawal using my card, but it was declined. Can I find out why and get my funds released?
+VAL | [declined_cash_withdrawal] | NO | Text: I've tried to withdraw cash from two different ATMs, but my card was declined both times. I'm concerned that there might be an issue with my account. Could you please check if everything is okay?
+VAL | [exchange_charge] | YES | Text: What is the exchange charge for receiving an international wire transfer?
+VAL | [automatic_top_up] | YES | Text: I'm planning a trip and would like to set up automatic top-ups to my account.
+VAL | [declined_cash_withdrawal] | NO | Text: I'm happy to assist you with your card issue. It seems that your card has been declined for cash withdrawal at two different ATMs. Can you please check your account balance and ensure that you have sufficient funds available for the transaction? If the issue persists, I can help you investigate further.
+VAL | [card_arrival] | YES | Text: When can I expect my new card to arrive by mail? What should I do if I don't receive it within the expected timeframe?
+VAL | [unable_to_verify_identity] | YES | Text: We're having trouble verifying your identity through our system, and it appears that our records do not match the information you're providing.
+VAL | [declined_card_payment] | YES | Text: My monthly payment to Apple has been declined, and I'm not sure why. They're going to retry the payment, but I'm concerned it won't go through. Can you help me understand what's happening?
+VAL | [top_up_by_card_charge] | NO | Text: What are the requirements for charging my card for a top-up?
+VAL | [passcode_forgotten] | YES | Text: I forgot my passcode, can you help me reset it?
+VAL | [declined_cash_withdrawal] | YES | Text: I was unable to withdraw cash from the ATM due to insufficient funds.
+VAL | [automatic_top_up] | YES | Text: I'm having trouble finding the automatic top-up feature, can you help me locate it?
+VAL | [declined_cash_withdrawal] | YES | Text: I'm unable to withdraw cash from the ATM, and I've tried using two different machines. Could you please verify if there's an issue with my account?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I've noticed an unexpected direct debit payment in my previous statements that I'm certain wasn't authorized by me. Although the time has passed, is there a way to dispute this payment now?
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: I'm concerned that the exchange rate used for my international transaction is incorrect. Can you assist me?
+VAL | [lost_or_stolen_card] | YES | Text: Can you help me locate my missing card?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I made a deposit using a cheque or cash, but my account balance hasn't been updated yet, could you assist me with this issue?
+VAL | [card_payment_not_recognised] | YES | Text: I'm trying to identify the source of this unrecognised payment on my account. Can you help me figure out where it came from?
+VAL | [topping_up_by_card] | YES | Text: I'd like to make a card-based deposit.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | NO | Text: I made a cash deposit at the bank yesterday, but my account balance hasn't been updated yet. Can you look into this and let me know what's going on?
+VAL | [automatic_top_up] | YES | Text: I'd like to set up an automatic top-up feature for my account, so I can receive funds when I'm abroad.
+VAL | [pin_blocked] | NO | Text: I accidentally blocked my card, can you help me unblock it?
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: The exchange rate applied to my card transaction appears to be incorrect.
+VAL | [transfer_into_account] | YES | Text: How do I transfer funds into the account?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: I've reviewed my recent transactions and noticed a significant charge that I'm confident I didn't authorize. Although it's been a while, I'd like to dispute this charge and understand why it was processed.
+VAL | [cash_withdrawal_not_recognised] | YES | Text: I'm concerned that someone has stolen my wallet and is attempting to use my card to make unauthorized cash withdrawals. Can you please assist me in canceling or freezing my card to prevent any further transactions?
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: The exchange rate used for the transaction is incorrect, can you adjust it to the correct rate for the foreign currency I used to make the purchase?
+VAL | [card_linking] | NO | Text: I recently reported my card as stolen, and I've since located it. Can I still use it?
+VAL | [transfer_fee_charged] | NO | Text: Is there a fee associated with transferring funds?
+VAL | [unable_to_verify_identity] | YES | Text: We're unable to verify your identity without a valid form of identification.
+VAL | [direct_debit_payment_not_recognised] | NO | Text: We've received a direct debit payment from an unknown merchant on your account recently. Could you please confirm if this transaction is legitimate or not?
+VAL | [top_up_by_card_charge] | NO | Text: Is there a charge for topping up my card?
+VAL | [supported_cards_and_currencies] | NO | Text: We accept a range of cards and currencies for top-ups, including Visa, Mastercard, and Maestro, as well as currencies like USD, EUR, GBP, and more. What specific card type and currency are you looking to use?

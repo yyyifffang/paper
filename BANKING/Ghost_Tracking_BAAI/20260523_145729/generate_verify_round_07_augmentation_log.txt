@@ -1,0 +1,74 @@
+GEN | [declined_card_payment] | Orig: I'm sure I have enough money so why didn't the store accept my card? -> Aug: I'm certain I have sufficient funds, yet the transaction was declined. Can you help me understand why my card payment was not accepted?
+GEN | [failed_transfer] | Orig: Hi, I'm buying my son Bertie a starter home in London.  I'm just trying to send the 5% deposit over to the agent. It's only £200,000 but seems to be throwing an error.  What is going on?  If I wait any longer the house prices might rise, can you look in to it please? -> Aug: Hi, I'm purchasing a starter home in London for my son Bertie and I'm attempting to transfer the 5% deposit to the agent. The amount is £200,000, but the transfer is failing. I'm concerned that if I don't resolve this issue, the house prices might rise, so could you please investigate this matter urgently?
+GEN | [reverted_card_payment?] | Orig: Why have I received a rebate for my payment after a week? -> Aug: Why was my payment reversed and credited back to my account?
+GEN | [top_up_failed] | Orig: My credit card did not go through. Can you see if it has insufficient funds? -> Aug: My top-up attempt was unsuccessful. Can you check if my credit card has insufficient funds?
+GEN | [top_up_failed] | Orig: Won't let me top my card up!! Who can get it sorted out for me? It's urgent! How do I find out what the problem is with my card and how else to top it up? -> Aug: I'm having trouble topping up my card and it's causing an issue. Can someone help me resolve this ASAP? I'd like to know what's preventing the top-up and find an alternative way to do it.
+GEN | [verify_top_up] | Orig: I would like to receive instructions showing the verification process for top up cards.. -> Aug: I would appreciate guidance on the verification procedure for topping up my prepaid cards.
+GEN | [declined_card_payment] | Orig: I couldn't pay with card in a shop -> Aug: The payment made with my card was declined at the store.
+GEN | [terminate_account] | Orig: i'm not satisfied with the services and no longer want to be a customer -> Aug: I'm unhappy with the services and would like to cancel my account.
+GEN | [declined_cash_withdrawal] | Orig: what is my monthly spending limit because i was refused my money at an atm -> Aug: I'm sorry to hear that your cash withdrawal was declined. Can you please check your available balance or recent transactions to see if there's any issue with your account? You can also check your monthly spending limit by logging into your online banking account or contacting our customer service team.
+GEN | [edit_personal_details] | Orig: should i contact customer support if i can't edit details -> Aug: should I reach out to customer support if I'm unable to modify my personal information?
+GEN | [pending_card_payment] | Orig: How long does it take for a purchase to go from pending to authorised? -> Aug: When can I expect a pending card payment to be processed and authorized?
+GEN | [direct_debit_payment_not_recognised] | Orig: I did not set up a direct debit I have -> Aug: We have not detected a direct debit payment from your account.
+GEN | [pending_card_payment] | Orig: What is the meaning of a pending payment? -> Aug: A pending card payment refers to a transaction that has been initiated but not yet processed or settled by the bank.
+GEN | [pending_cash_withdrawal] | Orig: Explain pending transactions. -> Aug: Describe the status of your cash withdrawal request.
+GEN | [pending_card_payment] | Orig: What does pending payment mean? -> Aug: A pending card payment refers to a transaction that has been authorized but not yet processed or settled by the bank.
+GEN | [pending_card_payment] | Orig: What's the pending length for credit transactions? I've had one in my pending category now for days and it won't move to processed. -> Aug: Can you please provide more information about the pending credit transaction that's been stuck in the pending category for days? I'd like to know the expected processing time or if there's any issue with the payment.
+GEN | [lost_or_stolen_card] | Orig: Could you please freeze my card immediately? -> Aug: Can you put a hold on my card due to it being lost or stolen?
+GEN | [declined_card_payment] | Orig: A shop I go to didn't let me pay. -> Aug: The payment for my recent purchase was declined at a store I visited.
+GEN | [transfer_not_received_by_recipient] | Orig: What is the length of a transaction completion? -> Aug: Why hasn't the recipient received the transferred funds yet?
+GEN | [get_disposable_virtual_card] | Orig: What systems do you have in place for my security when using my card for everyday purchases? -> Aug: How do you ensure the security of my virtual disposable card for online transactions?
+GEN | [lost_or_stolen_card] | Orig: Can you provide information for freezing my card immediately? -> Aug: Can you assist me in temporarily suspending my card due to a lost or stolen situation?
+GEN | [top_up_reverted] | Orig: Reasons for top up cancellation. -> Aug: Reasons for reversal of top-up transaction.
+GEN | [pending_card_payment] | Orig: I am waiting for a payment to be processed -> Aug: We are still awaiting the processing of a payment
+GEN | [request_refund] | Orig: It has been forever ago that I made an order online. The product simply is not coming. Just give me back my money because I'm not paying these people. -> Aug: I've been waiting for an eternity for my online order to arrive, but it seems it's been lost in transit. Can I please request a refund for the amount I paid, as I'm not willing to continue holding onto it?
+GEN | [supported_cards_and_currencies] | Orig: why don't you accept american express for adding money to my account -> Aug: We do not currently support American Express as a payment method for adding funds to your account, but we do accept a variety of other cards and currencies, including Visa, Mastercard, and USD/EUR/JPY/GBP.
+GEN | [pending_card_payment] | Orig: How long does it take for a new purchase to stop being considered pending? -> Aug: When will a new purchase be removed from the pending card payment status?
+GEN | [supported_cards_and_currencies] | Orig: I just have one additional card from the USA. Do you support that? -> Aug: We accept various cards and currencies, including those from the United States. Can you please share the type of card you're referring to?
+GEN | [contactless_not_working] | Orig: Should i uninstall the app before i try it again? -> Aug: Is it possible that the contactless payment feature is currently unavailable, and I should try restarting the app or checking for updates before attempting to use it again?
+GEN | [getting_spare_card] | Orig: Is a new debit card free? -> Aug: Can I get a new debit card without any additional fees?
+GEN | [card_payment_not_recognised] | Orig: I didn't make a payment at this business. -> Aug: We couldn't verify a payment from your card at this merchant.
+GEN | [top_up_failed] | Orig: I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly. -> Aug: I'm experiencing issues topping up my card, as the transaction keeps getting declined. It's crucial that I resolve this issue promptly.
+GEN | [card_linking] | Orig: I have one of your cards, but I don't know how to link it. -> Aug: I'm having trouble linking one of my cards to my account.
+GEN | [top_up_failed] | Orig: There has been a red flag on my top up. -> Aug: There was an issue with my recent top-up attempt.
+GEN | [topping_up_by_card] | Orig: My money I had was gone and I could not get gas! -> Aug: I'm struggling to get gas as my funds are depleted and I need to top up my account using my card.
+GEN | [supported_cards_and_currencies] | Orig: I have one other credit card from the US. Do you take that? -> Aug: We also accept various credit cards, including those issued in the United States. Which one would you like to use?
+GEN | [top_up_by_card_charge] | Orig: I am wanting to refill my card, is there a charge? -> Aug: I'd like to add funds to my card, will there be a charge for this transaction?
+GEN | [verify_top_up] | Orig: Help me verify the card used on a top-up. -> Aug: Can you confirm the card details used for the recent top-up transaction?
+VAL | [declined_card_payment] | YES | Text: I'm certain I have sufficient funds, yet the transaction was declined. Can you help me understand why my card payment was not accepted?
+VAL | [failed_transfer] | YES | Text: Hi, I'm purchasing a starter home in London for my son Bertie and I'm attempting to transfer the 5% deposit to the agent. The amount is £200,000, but the transfer is failing. I'm concerned that if I don't resolve this issue, the house prices might rise, so could you please investigate this matter urgently?
+VAL | [reverted_card_payment?] | YES | Text: Why was my payment reversed and credited back to my account?
+VAL | [top_up_failed] | YES | Text: My top-up attempt was unsuccessful. Can you check if my credit card has insufficient funds?
+VAL | [top_up_failed] | NO | Text: I'm having trouble topping up my card and it's causing an issue. Can someone help me resolve this ASAP? I'd like to know what's preventing the top-up and find an alternative way to do it.
+VAL | [verify_top_up] | YES | Text: I would appreciate guidance on the verification procedure for topping up my prepaid cards.
+VAL | [declined_card_payment] | YES | Text: The payment made with my card was declined at the store.
+VAL | [terminate_account] | YES | Text: I'm unhappy with the services and would like to cancel my account.
+VAL | [declined_cash_withdrawal] | NO | Text: I'm sorry to hear that your cash withdrawal was declined. Can you please check your available balance or recent transactions to see if there's any issue with your account? You can also check your monthly spending limit by logging into your online banking account or contacting our customer service team.
+VAL | [edit_personal_details] | YES | Text: should I reach out to customer support if I'm unable to modify my personal information?
+VAL | [pending_card_payment] | YES | Text: When can I expect a pending card payment to be processed and authorized?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: We have not detected a direct debit payment from your account.
+VAL | [pending_card_payment] | NO | Text: A pending card payment refers to a transaction that has been initiated but not yet processed or settled by the bank.
+VAL | [pending_cash_withdrawal] | NO | Text: Describe the status of your cash withdrawal request.
+VAL | [pending_card_payment] | NO | Text: A pending card payment refers to a transaction that has been authorized but not yet processed or settled by the bank.
+VAL | [pending_card_payment] | YES | Text: Can you please provide more information about the pending credit transaction that's been stuck in the pending category for days? I'd like to know the expected processing time or if there's any issue with the payment.
+VAL | [lost_or_stolen_card] | YES | Text: Can you put a hold on my card due to it being lost or stolen?
+VAL | [declined_card_payment] | YES | Text: The payment for my recent purchase was declined at a store I visited.
+VAL | [transfer_not_received_by_recipient] | YES | Text: Why hasn't the recipient received the transferred funds yet?
+VAL | [get_disposable_virtual_card] | NO | Text: How do you ensure the security of my virtual disposable card for online transactions?
+VAL | [lost_or_stolen_card] | YES | Text: Can you assist me in temporarily suspending my card due to a lost or stolen situation?
+VAL | [top_up_reverted] | YES | Text: Reasons for reversal of top-up transaction.
+VAL | [pending_card_payment] | NO | Text: We are still awaiting the processing of a payment
+VAL | [request_refund] | YES | Text: I've been waiting for an eternity for my online order to arrive, but it seems it's been lost in transit. Can I please request a refund for the amount I paid, as I'm not willing to continue holding onto it?
+VAL | [supported_cards_and_currencies] | NO | Text: We do not currently support American Express as a payment method for adding funds to your account, but we do accept a variety of other cards and currencies, including Visa, Mastercard, and USD/EUR/JPY/GBP.
+VAL | [pending_card_payment] | YES | Text: When will a new purchase be removed from the pending card payment status?
+VAL | [supported_cards_and_currencies] | NO | Text: We accept various cards and currencies, including those from the United States. Can you please share the type of card you're referring to?
+VAL | [contactless_not_working] | NO | Text: Is it possible that the contactless payment feature is currently unavailable, and I should try restarting the app or checking for updates before attempting to use it again?
+VAL | [getting_spare_card] | NO | Text: Can I get a new debit card without any additional fees?
+VAL | [card_payment_not_recognised] | NO | Text: We couldn't verify a payment from your card at this merchant.
+VAL | [top_up_failed] | YES | Text: I'm experiencing issues topping up my card, as the transaction keeps getting declined. It's crucial that I resolve this issue promptly.
+VAL | [card_linking] | YES | Text: I'm having trouble linking one of my cards to my account.
+VAL | [top_up_failed] | YES | Text: There was an issue with my recent top-up attempt.
+VAL | [topping_up_by_card] | YES | Text: I'm struggling to get gas as my funds are depleted and I need to top up my account using my card.
+VAL | [supported_cards_and_currencies] | NO | Text: We also accept various credit cards, including those issued in the United States. Which one would you like to use?
+VAL | [top_up_by_card_charge] | YES | Text: I'd like to add funds to my card, will there be a charge for this transaction?
+VAL | [verify_top_up] | YES | Text: Can you confirm the card details used for the recent top-up transaction?

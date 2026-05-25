@@ -1,0 +1,76 @@
+GEN | [activate_my_card] | Orig: I would like to get help from someone in your customer service department with assisting me with activating my card. -> Aug: I need assistance from your customer service team to activate my credit/debit card.
+GEN | [apple_pay_or_google_pay] | Orig: I am having a slight problem with my American express in apple play, can you help me fix the problem with top up? -> Aug: I am having a slight problem with my American express in Google Pay, can you help me fix the problem with top up?
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow. -> Aug: I need to cancel the transfer I initiated yesterday and correct the mistake. Can you assist me in reversing the transaction by tomorrow?
+GEN | [cancel_transfer] | Orig: I just realized I made the wrong transaction yesterday. Would  you please make it correct?I need it by tomorrow Please. -> Aug: I need to cancel the transfer I made yesterday and correct the mistake. Can you assist me in reversing the transaction by tomorrow?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Help me find the transfer that I did. -> Aug: I'm trying to locate the recent bank transfer that was made, but my account balance isn't reflecting the updated amount.
+GEN | [failed_transfer] | Orig: I think my transfer failed. What do I do now? -> Aug: I'm worried that my recent transfer didn't go through. Can you help me resolve the issue?
+GEN | [supported_cards_and_currencies] | Orig: use my credit to add money -> Aug: utilize my supported credit cards to top up my account
+GEN | [card_payment_wrong_exchange_rate] | Orig: Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you. -> Aug: I'd like to review my payment from last weekend, as I believe I was incorrectly charged a higher exchange rate. Could you look into this for me, please?
+GEN | [transfer_timing] | Orig: How long do I have to wait for Europe transfers? -> Aug: What is the typical timeframe for international transfers to Europe?
+GEN | [supported_cards_and_currencies] | Orig: Top up my card please, which y'all support? -> Aug: What payment methods and currencies do you accept for card top-ups?
+GEN | [topping_up_by_card] | Orig: Can a credit card be used to transfer money? -> Aug: Can I use my credit card to add funds to my account?
+GEN | [card_payment_fee_charged] | Orig: Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees. -> Aug: I'm trying to understand the fee policy for my account. I've noticed that I've been charged fees for certain transactions, but not for others. Can you help me identify the fee structure and why I'm being charged fees for some transactions but not others?
+GEN | [transfer_not_received_by_recipient] | Orig: I performed a transfer within the country the day before yesterday, but it has not gone through? Can you check on that? The account number is definitely correct, as I've checked. -> Aug: I made a domestic transfer yesterday, but the recipient hasn't received it yet. Can you look into this for me? I've double-checked the account number to ensure it's correct.
+GEN | [card_linking] | Orig: Can you please reactivate my card? -> Aug: Can you assist me in reactivating my card?
+GEN | [pending_transfer] | Orig: i put in money for vacation and its not showing. i need that money today, how long will it take -> Aug: I initiated a transfer for my vacation fund, but it's still pending. Can you please let me know when I can expect the funds to be available?
+GEN | [topping_up_by_card] | Orig: Can I let other people have access to my account in order to top up? -> Aug: Can I allow someone else to access my account to make a card-based top-up for me?
+GEN | [pending_card_payment] | Orig: There is a pending transaction on my account, what does this mean? -> Aug: We have a pending card payment on your account, what does this mean?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Where is my cash deposit in my balance? -> Aug: I made a cash deposit yesterday, but my account balance hasn't been updated yet.
+GEN | [exchange_rate] | Orig: What value can I get for my currency? -> Aug: What is the current exchange rate for my currency?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I am still awaiting the money I put into my account this morning. -> Aug: I'm still waiting for the deposit I made this morning to reflect in my account balance.
+GEN | [reverted_card_payment?] | Orig: I've got a weird problem: I purchased something a week or maybe it was two weeks ago, and the funds have come back into my account! Can you explain this? -> Aug: Why did the payment for my recent purchase get reversed and credited back to my account?
+GEN | [top_up_by_card_charge] | Orig: Are their fee's for top ups? -> Aug: Are there any charges for topping up my card?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: After trying to update my account balance yesterday by cheque it doesn't seem to working. Shouldn't the process be quicker? I need my account looked at because there appears to be a problem. -> Aug: I made a cash deposit at the bank yesterday, but my account balance still hasn't been updated. Can you please investigate this issue and let me know what's going on?
+GEN | [topping_up_by_card] | Orig: Am I the only one who can top-up my account? -> Aug: Can I perform a card-based account top-up myself?
+GEN | [direct_debit_payment_not_recognised] | Orig: This debit is not my transcation. How do I get my money out back? -> Aug: This direct debit payment is not recognized. Can you help me retrieve my funds?
+GEN | [cash_withdrawal_not_recognised] | Orig: There is unexpected money in my account. -> Aug: We've detected an unusual cash withdrawal attempt on your account.
+GEN | [top_up_by_cash_or_cheque] | Orig: Can cash be used in physical locations to top up? -> Aug: Can I use cash to top up my account at a physical location?
+GEN | [fiat_currency_support] | Orig: What types of foreign money can be used with this service.? -> Aug: What types of fiat currencies are accepted for transactions with this service?
+GEN | [pending_transfer] | Orig: Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet. -> Aug: Hello, I've reviewed my account information to confirm it's accurate. I've had a transfer in a pending state for some time, and I'm still unsure why it hasn't been processed yet.
+GEN | [apple_pay_or_google_pay] | Orig: I can't get google pay to work right. -> Aug: I'm having trouble with apple pay functioning properly.
+GEN | [top_up_by_card_charge] | Orig: Is topping up free? -> Aug: Is there a charge for topping up my card?
+GEN | [direct_debit_payment_not_recognised] | Orig: I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money? -> Aug: I'm concerned about a suspicious transaction on my account. I didn't authorise a direct debit payment, and I'd like to report it. Can you investigate and cancel the transaction, and then refund the amount back to my account?
+GEN | [card_linking] | Orig: How do I link a new payment card? -> Aug: How can I connect a new payment card to my account?
+GEN | [top_up_by_cash_or_cheque] | Orig: I can't find how to top up my account with a check.  Where is that? -> Aug: I'm having trouble finding the option to add funds to my account using a cheque. Can you please guide me on where to do that?
+GEN | [cancel_transfer] | Orig: There was a transaction this morning that I'd like to reverse. -> Aug: I'd like to cancel a transfer that occurred earlier today.
+GEN | [verify_top_up] | Orig: this verifying the top up is annoying -> Aug: This verification process for the top-up is frustrating
+GEN | [declined_card_payment] | Orig: When I use my card, it says decline? -> Aug: Why did my card payment get declined?
+GEN | [topping_up_by_card] | Orig: I need to transfer some money, can I use my credit card? -> Aug: I'd like to add funds to my account using my credit card.
+VAL | [activate_my_card] | YES | Text: I need assistance from your customer service team to activate my credit/debit card.
+VAL | [apple_pay_or_google_pay] | NO | Text: I am having a slight problem with my American express in Google Pay, can you help me fix the problem with top up?
+VAL | [cancel_transfer] | YES | Text: I need to cancel the transfer I initiated yesterday and correct the mistake. Can you assist me in reversing the transaction by tomorrow?
+VAL | [cancel_transfer] | YES | Text: I need to cancel the transfer I made yesterday and correct the mistake. Can you assist me in reversing the transaction by tomorrow?
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I'm trying to locate the recent bank transfer that was made, but my account balance isn't reflecting the updated amount.
+VAL | [failed_transfer] | NO | Text: I'm worried that my recent transfer didn't go through. Can you help me resolve the issue?
+VAL | [supported_cards_and_currencies] | NO | Text: utilize my supported credit cards to top up my account
+VAL | [card_payment_wrong_exchange_rate] | YES | Text: I'd like to review my payment from last weekend, as I believe I was incorrectly charged a higher exchange rate. Could you look into this for me, please?
+VAL | [transfer_timing] | YES | Text: What is the typical timeframe for international transfers to Europe?
+VAL | [supported_cards_and_currencies] | YES | Text: What payment methods and currencies do you accept for card top-ups?
+VAL | [topping_up_by_card] | NO | Text: Can I use my credit card to add funds to my account?
+VAL | [card_payment_fee_charged] | NO | Text: I'm trying to understand the fee policy for my account. I've noticed that I've been charged fees for certain transactions, but not for others. Can you help me identify the fee structure and why I'm being charged fees for some transactions but not others?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I made a domestic transfer yesterday, but the recipient hasn't received it yet. Can you look into this for me? I've double-checked the account number to ensure it's correct.
+VAL | [card_linking] | YES | Text: Can you assist me in reactivating my card?
+VAL | [pending_transfer] | YES | Text: I initiated a transfer for my vacation fund, but it's still pending. Can you please let me know when I can expect the funds to be available?
+VAL | [topping_up_by_card] | YES | Text: Can I allow someone else to access my account to make a card-based top-up for me?
+VAL | [pending_card_payment] | YES | Text: We have a pending card payment on your account, what does this mean?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I made a cash deposit yesterday, but my account balance hasn't been updated yet.
+VAL | [exchange_rate] | YES | Text: What is the current exchange rate for my currency?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I'm still waiting for the deposit I made this morning to reflect in my account balance.
+VAL | [reverted_card_payment?] | YES | Text: Why did the payment for my recent purchase get reversed and credited back to my account?
+VAL | [top_up_by_card_charge] | NO | Text: Are there any charges for topping up my card?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | NO | Text: I made a cash deposit at the bank yesterday, but my account balance still hasn't been updated. Can you please investigate this issue and let me know what's going on?
+VAL | [topping_up_by_card] | YES | Text: Can I perform a card-based account top-up myself?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: This direct debit payment is not recognized. Can you help me retrieve my funds?
+VAL | [cash_withdrawal_not_recognised] | NO | Text: We've detected an unusual cash withdrawal attempt on your account.
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Can I use cash to top up my account at a physical location?
+VAL | [fiat_currency_support] | YES | Text: What types of fiat currencies are accepted for transactions with this service?
+VAL | [pending_transfer] | YES | Text: Hello, I've reviewed my account information to confirm it's accurate. I've had a transfer in a pending state for some time, and I'm still unsure why it hasn't been processed yet.
+VAL | [apple_pay_or_google_pay] | NO | Text: I'm having trouble with apple pay functioning properly.
+VAL | [top_up_by_card_charge] | NO | Text: Is there a charge for topping up my card?
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I'm concerned about a suspicious transaction on my account. I didn't authorise a direct debit payment, and I'd like to report it. Can you investigate and cancel the transaction, and then refund the amount back to my account?
+VAL | [card_linking] | YES | Text: How can I connect a new payment card to my account?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: I'm having trouble finding the option to add funds to my account using a cheque. Can you please guide me on where to do that?
+VAL | [cancel_transfer] | YES | Text: I'd like to cancel a transfer that occurred earlier today.
+VAL | [verify_top_up] | NO | Text: This verification process for the top-up is frustrating
+VAL | [declined_card_payment] | YES | Text: Why did my card payment get declined?
+VAL | [topping_up_by_card] | YES | Text: I'd like to add funds to my account using my credit card.

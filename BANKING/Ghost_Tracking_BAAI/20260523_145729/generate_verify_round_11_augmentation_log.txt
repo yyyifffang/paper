@@ -1,0 +1,78 @@
+GEN | [supported_cards_and_currencies] | Orig: I wish to use my American Express to put funds into my account. -> Aug: We accept various payment methods, including American Express, to deposit funds into your account.
+GEN | [atm_support] | Orig: Where can I get money from my card? -> Aug: How can I access my card's funds?
+GEN | [cash_withdrawal_charge] | Orig: Please help!  There was an extra fee when I got cash. -> Aug: Please assist me, I was charged an unexpected fee for the cash withdrawal.
+GEN | [transaction_charged_twice] | Orig: There is a transaction showing up several times. -> Aug: A duplicate transaction appears on my account.
+GEN | [change_pin] | Orig: I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country? -> Aug: I'm currently in the United Kingdom, but I urgently need to modify my PIN. Can I still make this change even though I'm abroad?
+GEN | [transaction_charged_twice] | Orig: Why is there are there two of the same transaction? -> Aug: Why did I get charged for the same transaction twice?
+GEN | [transfer_into_account] | Orig: My money is all gone. What ways are okay to add money to my account? -> Aug: Can you please guide me on how to deposit funds into my account?
+GEN | [card_payment_not_recognised] | Orig: I do not recognise the card payment. -> Aug: We are unable to verify the card payment.
+GEN | [supported_cards_and_currencies] | Orig: I'd like to use my American Express to place money into my account. -> Aug: I'd like to use my American Express card to fund my account.
+GEN | [supported_cards_and_currencies] | Orig: I have one other credit card from the US. Do you take it? -> Aug: We accept various credit cards, including those from the United States. Which one would you like to use?
+GEN | [top_up_by_cash_or_cheque] | Orig: how can i add money to my account if you don't accept cash -> Aug: Can I add funds to my account if you don't accept cash deposits?
+GEN | [country_support] | Orig: I am in the EU. Can I get one of your cards? -> Aug: I am a resident in the European Union. Can I apply for a card from your bank?
+GEN | [country_support] | Orig: I'm in the EU. Can I get one of your cards? -> Aug: I'm a resident in the European Union. Can I apply for a card?
+GEN | [verify_source_of_funds] | Orig: What kind of security protects my money? -> Aug: We'd like to verify the source of funds for your account to ensure the security of your transactions.
+GEN | [transaction_charged_twice] | Orig: I have multiple of the same transaction -> Aug: I've been charged for the same transaction multiple times
+GEN | [country_support] | Orig: Is this card available to Americans? -> Aug: Are you a US citizen or resident, and would you like to know if this card is available to you?
+GEN | [wrong_amount_of_cash_received] | Orig: Why can't I take $100 out -> Aug: I was expecting to receive $100 but I only got $X.
+GEN | [get_physical_card] | Orig: still need to get card pin -> Aug: still need to obtain my physical bank card
+GEN | [lost_or_stolen_card] | Orig: What's the phone number to freeze a card? -> Aug: Can you provide the phone number to report a lost or stolen card?
+GEN | [visa_or_mastercard] | Orig: I do not want a VISA card. -> Aug: I prefer not to use a Mastercard.
+GEN | [top_up_by_cash_or_cheque] | Orig: What is your check-cashing policy? -> Aug: How can I top up my account using cash or cheque?
+GEN | [supported_cards_and_currencies] | Orig: I have another card from the U.S. Will you be able to accept that one? -> Aug: We also accept various cards and currencies, including those from the United States. Will we be able to process a transaction with your U.S.-issued card?
+GEN | [Refund_not_showing_up] | Orig: how does my statement get updated so i know when a refund will reflect on my balance -> Aug: Can you please let me know how I can check my statement to see when a pending refund will be credited to my account?
+GEN | [get_disposable_virtual_card] | Orig: how do the cards work? -> Aug: What is the process for obtaining a disposable virtual card?
+GEN | [top_up_reverted] | Orig: The app reversed a top off I had.  What should I do? -> Aug: The app reversed the top-up I had made. What should I do now?
+GEN | [top_up_failed] | Orig: I can't add any more money. -> Aug: I'm unable to complete the top-up transaction.
+GEN | [card_not_working] | Orig: How do I check security settings using the app? -> Aug: I'm having trouble using my card, and I'm not sure if it's due to security settings. Can you help me check them using the app?
+GEN | [supported_cards_and_currencies] | Orig: I only have one other credit card from the US. Do you accept that? -> Aug: We also support various credit cards, including those from the United States. Can you please check if your specific card is among the ones we accept?
+GEN | [top_up_by_cash_or_cheque] | Orig: Who do I make a check out to if I want to top off my account? -> Aug: What is the payee's name if I wish to make a cheque payment to add funds to my account?
+GEN | [change_pin] | Orig: I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM? -> Aug: I'm currently traveling in Spain and I'm concerned that someone may have seen my PIN. Can I change it at a nearby ATM or bank branch?
+GEN | [supported_cards_and_currencies] | Orig: why wont my american express work to add money -> Aug: We apologize, but American Express is not a supported card for adding funds to your account. Would you like to know our supported cards and currencies for making deposits?
+GEN | [exchange_charge] | Orig: I've been to several different countries, can I exchange the cash with a discount for a large transaction? -> Aug: Can I exchange a large amount of cash for a discounted rate, considering I've traveled to multiple countries?
+GEN | [transfer_into_account] | Orig: I have zero dollars in my account. Can I submit additional funds via bank transfer? -> Aug: I have a balance of $0 in my account. Can I initiate a bank transfer to add funds to my account?
+GEN | [why_verify_identity] | Orig: What is the first step I need to make for being able to access my account? -> Aug: What is the initial step I need to take to verify my identity and access my account?
+GEN | [exchange_via_app] | Orig: Can I use this app to change money? -> Aug: Can I make an exchange using this mobile app?
+GEN | [cash_withdrawal_charge] | Orig: I just had a look at my statement. Why have I been changed for using the ATM? -> Aug: I've reviewed my statement and noticed a charge for using the ATM. Can you explain why I was charged for this cash withdrawal?
+GEN | [card_payment_not_recognised] | Orig: I do not recognise this card payment. -> Aug: We are unable to verify this card payment.
+GEN | [top_up_reverted] | Orig: Tell me how a top up would be reverted. -> Aug: Can you explain the process of reverting a top-up transaction?
+GEN | [Refund_not_showing_up] | Orig: Card refund is not showing up in my statement. -> Aug: The refund for my card transaction is not appearing on my statement.
+VAL | [supported_cards_and_currencies] | NO | Text: We accept various payment methods, including American Express, to deposit funds into your account.
+VAL | [atm_support] | YES | Text: How can I access my card's funds?
+VAL | [cash_withdrawal_charge] | YES | Text: Please assist me, I was charged an unexpected fee for the cash withdrawal.
+VAL | [transaction_charged_twice] | YES | Text: A duplicate transaction appears on my account.
+VAL | [change_pin] | YES | Text: I'm currently in the United Kingdom, but I urgently need to modify my PIN. Can I still make this change even though I'm abroad?
+VAL | [transaction_charged_twice] | YES | Text: Why did I get charged for the same transaction twice?
+VAL | [transfer_into_account] | YES | Text: Can you please guide me on how to deposit funds into my account?
+VAL | [card_payment_not_recognised] | YES | Text: We are unable to verify the card payment.
+VAL | [supported_cards_and_currencies] | NO | Text: I'd like to use my American Express card to fund my account.
+VAL | [supported_cards_and_currencies] | NO | Text: We accept various credit cards, including those from the United States. Which one would you like to use?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Can I add funds to my account if you don't accept cash deposits?
+VAL | [country_support] | YES | Text: I am a resident in the European Union. Can I apply for a card from your bank?
+VAL | [country_support] | YES | Text: I'm a resident in the European Union. Can I apply for a card?
+VAL | [verify_source_of_funds] | NO | Text: We'd like to verify the source of funds for your account to ensure the security of your transactions.
+VAL | [transaction_charged_twice] | YES | Text: I've been charged for the same transaction multiple times
+VAL | [country_support] | NO | Text: Are you a US citizen or resident, and would you like to know if this card is available to you?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was expecting to receive $100 but I only got $X.
+VAL | [get_physical_card] | NO | Text: still need to obtain my physical bank card
+VAL | [lost_or_stolen_card] | NO | Text: Can you provide the phone number to report a lost or stolen card?
+VAL | [visa_or_mastercard] | NO | Text: I prefer not to use a Mastercard.
+VAL | [top_up_by_cash_or_cheque] | YES | Text: How can I top up my account using cash or cheque?
+VAL | [supported_cards_and_currencies] | NO | Text: We also accept various cards and currencies, including those from the United States. Will we be able to process a transaction with your U.S.-issued card?
+VAL | [Refund_not_showing_up] | NO | Text: Can you please let me know how I can check my statement to see when a pending refund will be credited to my account?
+VAL | [get_disposable_virtual_card] | NO | Text: What is the process for obtaining a disposable virtual card?
+VAL | [top_up_reverted] | YES | Text: The app reversed the top-up I had made. What should I do now?
+VAL | [top_up_failed] | YES | Text: I'm unable to complete the top-up transaction.
+VAL | [card_not_working] | NO | Text: I'm having trouble using my card, and I'm not sure if it's due to security settings. Can you help me check them using the app?
+VAL | [supported_cards_and_currencies] | NO | Text: We also support various credit cards, including those from the United States. Can you please check if your specific card is among the ones we accept?
+VAL | [top_up_by_cash_or_cheque] | YES | Text: What is the payee's name if I wish to make a cheque payment to add funds to my account?
+VAL | [change_pin] | YES | Text: I'm currently traveling in Spain and I'm concerned that someone may have seen my PIN. Can I change it at a nearby ATM or bank branch?
+VAL | [supported_cards_and_currencies] | YES | Text: We apologize, but American Express is not a supported card for adding funds to your account. Would you like to know our supported cards and currencies for making deposits?
+VAL | [exchange_charge] | YES | Text: Can I exchange a large amount of cash for a discounted rate, considering I've traveled to multiple countries?
+VAL | [transfer_into_account] | YES | Text: I have a balance of $0 in my account. Can I initiate a bank transfer to add funds to my account?
+VAL | [why_verify_identity] | YES | Text: What is the initial step I need to take to verify my identity and access my account?
+VAL | [exchange_via_app] | YES | Text: Can I make an exchange using this mobile app?
+VAL | [cash_withdrawal_charge] | YES | Text: I've reviewed my statement and noticed a charge for using the ATM. Can you explain why I was charged for this cash withdrawal?
+VAL | [card_payment_not_recognised] | YES | Text: We are unable to verify this card payment.
+VAL | [top_up_reverted] | NO | Text: Can you explain the process of reverting a top-up transaction?
+VAL | [Refund_not_showing_up] | YES | Text: The refund for my card transaction is not appearing on my statement.

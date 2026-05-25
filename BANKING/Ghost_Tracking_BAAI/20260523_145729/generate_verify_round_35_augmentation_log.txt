@@ -1,0 +1,79 @@
+GEN | [change_pin] | Orig: I must change my PIN as soon as possible. -> Aug: I need to update my PIN immediately.
+GEN | [failed_transfer] | Orig: I was unable to transfer money from my account. -> Aug: The transfer of funds from my account was unsuccessful.
+GEN | [top_up_by_card_charge] | Orig: Will you assess me more fees if I top up with an international card? -> Aug: Will you charge me extra fees if I make a top-up payment using an international card?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Is there any fees associated with receiving money with this account? -> Aug: Are there any charges for topping up my account via bank transfer?
+GEN | [order_physical_card] | Orig: how much does a card cost and why do you charge me -> Aug: What is the cost of a physical card, and why do you charge for it?
+GEN | [card_payment_fee_charged] | Orig: I was charged and shouldn't have been charged when using my card! -> Aug: I was unexpectedly charged a fee on my card transaction, which I didn't authorize.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I am still awaiting the money I put into my account this morning. -> Aug: I'm still waiting for the deposit I made this morning to reflect in my account balance.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong? -> Aug: I'm having an issue with my account. I deposited cash yesterday and my balance hasn't been updated. Can you please check my account to see what's going on?
+GEN | [order_physical_card] | Orig: Do you ship your cards anywhere? -> Aug: Can you deliver your physical cards to any location?
+GEN | [lost_or_stolen_card] | Orig: My card has been stolen. I reported it with the police, but I need to report it with you as well. -> Aug: My credit card has been stolen and I've already filed a report with the authorities, but I'd like to inform you of the incident as well.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: How long does a transfer from a UK account take? I just made one and it doesn't seem to be working, wondering if everything is okay -> Aug: I recently initiated a transfer from my UK account, but my account balance hasn't been updated yet. Can you please look into this and let me know what's causing the delay?
+GEN | [transfer_not_received_by_recipient] | Orig: I've checked multiple times to make sure the account number listed is the right one after attempting to make a transfer within the country the day before yesterday. The transfer is still not available so can you please find out what is going on? -> Aug: I've double-checked the account number to ensure it's correct, but the transfer I initiated within the country yesterday still hasn't been received by the recipient. Can you investigate what's causing the delay?
+GEN | [reverted_card_payment?] | Orig: My card payment has not been withdrawn from my account -> Aug: Why was my card payment reversed from my account?
+GEN | [top_up_limits] | Orig: Is the top-up amount unlimited? -> Aug: Can I top up my limits without any restrictions?
+GEN | [edit_personal_details] | Orig: Am I able to modify my account details? -> Aug: Can I update my personal information?
+GEN | [automatic_top_up] | Orig: Can I add money to my card automatically during a trip? -> Aug: Can I set up automatic top-ups for my card while I'm traveling?
+GEN | [compromised_card] | Orig: My card information seems to have been stolen! I don't know where these transactions came from and I've never even been to the city where they were made. I need my card blocked ASAP so this person can't keep using my card. -> Aug: My credit card details appear to have been compromised! I'm concerned about the unauthorized transactions that have been made in a different city, and I'd like to report the issue and have my card temporarily suspended to prevent further unauthorized use.
+GEN | [apple_pay_or_google_pay] | Orig: I can't get google pay to work right. -> Aug: I'm having trouble with apple pay functioning properly.
+GEN | [transaction_charged_twice] | Orig: My account seems a bit off and getting weird charges. -> Aug: My account appears to have an unusual discrepancy, with duplicate charges showing up.
+GEN | [activate_my_card] | Orig: How do I active this card? -> Aug: How do I activate this card?
+GEN | [change_pin] | Orig: 
+Do I need to go to a physical bank to change my PIN? -> Aug: Can I change my PIN at a physical bank branch or is there another way to do it?
+GEN | [why_verify_identity] | Orig: I can't do the verification. -> Aug: We need to verify your identity to ensure the security and integrity of your account.
+GEN | [top_up_limits] | Orig: Do I need to use a limit on top-ups? -> Aug: Do I require a limit on my top-up transactions?
+GEN | [card_linking] | Orig: how do I get my card to show in the app? -> Aug: why isn't my card appearing in the app?
+GEN | [extra_charge_on_statement] | Orig: Hello, there seems to be a billing mistake associated with my account.  My app was charged $1 more than it should have.  Could you please explain why this may have happened? -> Aug: Hi, I noticed an unexpected extra charge on my statement. My account was billed an additional $1 that I don't recognize. Could you help me understand why this occurred?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will you guys charge me for topping up by transfer? -> Aug: Will there be a fee for topping up my account via bank transfer?
+GEN | [edit_personal_details] | Orig: my identity hasn't been verified and i can't edit my details, what's next -> Aug: my identity verification is pending and i'm unable to update my personal information, what are the next steps?
+GEN | [top_up_by_card_charge] | Orig: Will you charge me more if I use a European bank card for a top up? -> Aug: Will you apply a surcharge if I use a European bank card to make a top-up payment?
+GEN | [top_up_reverted] | Orig: I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that? -> Aug: I'm experiencing a problem with a recent transaction. I successfully topped up my account, but the funds were reversed, and I'm left with an empty account. Can you help me understand what happened?
+GEN | [activate_my_card] | Orig: How can i make my card active? -> Aug: What steps can I take to activate my card?
+GEN | [failed_transfer] | Orig: I'm trying to make a bank transfer but It's not going through. Could there not be enough funds to transfer or something? Have I done it too many times? -> Aug: I'm having trouble completing a bank transfer and I'm wondering if there's an issue with insufficient funds or if I've exceeded the transfer limit.
+GEN | [top_up_by_cash_or_cheque] | Orig: Is there somewhere I can send a check to add to my account? -> Aug: Can I deposit a check to increase my account balance?
+GEN | [pending_card_payment] | Orig: I made a payment with my card and it hasn't changed. How long do you think this will take? -> Aug: I attempted to process a payment using my card, but it's still pending. Can you please provide an estimated timeframe for when this transaction will be completed?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can you tell me the cost of a transfer? -> Aug: What is the fee for a bank transfer top-up?
+GEN | [pending_transfer] | Orig: Why is the transaction not posting? -> Aug: Why is the transfer still pending?
+GEN | [top_up_failed] | Orig: is there a way to fix my top up -> Aug: can you help me resolve the issue with my top-up attempt?
+GEN | [top_up_reverted] | Orig: Do you support top ups? -> Aug: Can you perform a top-up reversal or reversal of a top-up transaction?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Are bank transfers immediate? -> Aug: Why hasn't my account balance updated after I made a bank transfer?
+GEN | [reverted_card_payment?] | Orig: I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here? -> Aug: I'm trying to understand why the payment I made wasn't successfully processed, and the seller is saying they didn't receive the funds. Can you help me resolve this issue?
+VAL | [change_pin] | YES | Text: I need to update my PIN immediately.
+VAL | [failed_transfer] | YES | Text: The transfer of funds from my account was unsuccessful.
+VAL | [top_up_by_card_charge] | YES | Text: Will you charge me extra fees if I make a top-up payment using an international card?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Are there any charges for topping up my account via bank transfer?
+VAL | [order_physical_card] | YES | Text: What is the cost of a physical card, and why do you charge for it?
+VAL | [card_payment_fee_charged] | NO | Text: I was unexpectedly charged a fee on my card transaction, which I didn't authorize.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I'm still waiting for the deposit I made this morning to reflect in my account balance.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | YES | Text: I'm having an issue with my account. I deposited cash yesterday and my balance hasn't been updated. Can you please check my account to see what's going on?
+VAL | [order_physical_card] | NO | Text: Can you deliver your physical cards to any location?
+VAL | [lost_or_stolen_card] | YES | Text: My credit card has been stolen and I've already filed a report with the authorities, but I'd like to inform you of the incident as well.
+VAL | [balance_not_updated_after_bank_transfer] | YES | Text: I recently initiated a transfer from my UK account, but my account balance hasn't been updated yet. Can you please look into this and let me know what's causing the delay?
+VAL | [transfer_not_received_by_recipient] | YES | Text: I've double-checked the account number to ensure it's correct, but the transfer I initiated within the country yesterday still hasn't been received by the recipient. Can you investigate what's causing the delay?
+VAL | [reverted_card_payment?] | NO | Text: Why was my card payment reversed from my account?
+VAL | [top_up_limits] | YES | Text: Can I top up my limits without any restrictions?
+VAL | [edit_personal_details] | YES | Text: Can I update my personal information?
+VAL | [automatic_top_up] | YES | Text: Can I set up automatic top-ups for my card while I'm traveling?
+VAL | [compromised_card] | YES | Text: My credit card details appear to have been compromised! I'm concerned about the unauthorized transactions that have been made in a different city, and I'd like to report the issue and have my card temporarily suspended to prevent further unauthorized use.
+VAL | [apple_pay_or_google_pay] | NO | Text: I'm having trouble with apple pay functioning properly.
+VAL | [transaction_charged_twice] | YES | Text: My account appears to have an unusual discrepancy, with duplicate charges showing up.
+VAL | [activate_my_card] | YES | Text: How do I activate this card?
+VAL | [change_pin] | NO | Text: Can I change my PIN at a physical bank branch or is there another way to do it?
+VAL | [why_verify_identity] | NO | Text: We need to verify your identity to ensure the security and integrity of your account.
+VAL | [top_up_limits] | YES | Text: Do I require a limit on my top-up transactions?
+VAL | [card_linking] | NO | Text: why isn't my card appearing in the app?
+VAL | [extra_charge_on_statement] | YES | Text: Hi, I noticed an unexpected extra charge on my statement. My account was billed an additional $1 that I don't recognize. Could you help me understand why this occurred?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: Will there be a fee for topping up my account via bank transfer?
+VAL | [edit_personal_details] | YES | Text: my identity verification is pending and i'm unable to update my personal information, what are the next steps?
+VAL | [top_up_by_card_charge] | YES | Text: Will you apply a surcharge if I use a European bank card to make a top-up payment?
+VAL | [top_up_reverted] | YES | Text: I'm experiencing a problem with a recent transaction. I successfully topped up my account, but the funds were reversed, and I'm left with an empty account. Can you help me understand what happened?
+VAL | [activate_my_card] | YES | Text: What steps can I take to activate my card?
+VAL | [failed_transfer] | NO | Text: I'm having trouble completing a bank transfer and I'm wondering if there's an issue with insufficient funds or if I've exceeded the transfer limit.
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Can I deposit a check to increase my account balance?
+VAL | [pending_card_payment] | YES | Text: I attempted to process a payment using my card, but it's still pending. Can you please provide an estimated timeframe for when this transaction will be completed?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: What is the fee for a bank transfer top-up?
+VAL | [pending_transfer] | NO | Text: Why is the transfer still pending?
+VAL | [top_up_failed] | NO | Text: can you help me resolve the issue with my top-up attempt?
+VAL | [top_up_reverted] | NO | Text: Can you perform a top-up reversal or reversal of a top-up transaction?
+VAL | [balance_not_updated_after_bank_transfer] | NO | Text: Why hasn't my account balance updated after I made a bank transfer?
+VAL | [reverted_card_payment?] | NO | Text: I'm trying to understand why the payment I made wasn't successfully processed, and the seller is saying they didn't receive the funds. Can you help me resolve this issue?

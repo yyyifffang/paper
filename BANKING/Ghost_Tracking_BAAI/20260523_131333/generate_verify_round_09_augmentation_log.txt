@@ -1,0 +1,78 @@
+GEN | [wrong_amount_of_cash_received] | Orig: Why can't I take $100 out -> Aug: I was expecting to receive $100 but I only got $X.
+GEN | [lost_or_stolen_card] | Orig: Can you provide information for freezing my card immediately? -> Aug: Can you assist me in temporarily suspending my card due to a lost or stolen situation?
+GEN | [transfer_not_received_by_recipient] | Orig: I am just waiting on the completion of the transaction. -> Aug: I'm still waiting for the transfer to reach the recipient's account.
+GEN | [wrong_amount_of_cash_received] | Orig: There was a limited amount of money available at the time of my transaction. -> Aug: The cashier handed me a smaller amount of cash than I was expecting.
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I purchase with cash or cheque? -> Aug: Would you like to make a payment using cash or cheque?
+GEN | [declined_cash_withdrawal] | Orig: When I tried to access my cash, I wasn't allowed! -> Aug: Unfortunately, your cash withdrawal request was declined.
+GEN | [pending_cash_withdrawal] | Orig: I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money! -> Aug: I attempted to withdraw cash from an ATM in the city centre earlier, but the machine rejected my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?
+GEN | [top_up_reverted] | Orig: It's only been a few weeks my my top-up got cancelled -> Aug: My recent top-up reversal was processed just a few weeks ago
+GEN | [pending_top_up] | Orig: new customer and filling gas for the first time today, not working, -> Aug: New customer attempting to top up their account for the first time today, but the transaction is not processing.
+GEN | [wrong_amount_of_cash_received] | Orig: I did not get enough cash -> Aug: I received less cash than expected
+GEN | [declined_cash_withdrawal] | Orig: I tried to get money out of the Notting Hill ATM earlier, but wasn't able to. Is my card working okay? It's the first time I tried using it. -> Aug: I attempted to withdraw cash from the ATM at Notting Hill, but the transaction was declined. Is there an issue with my card? This is my first time using it.
+GEN | [wrong_amount_of_cash_received] | Orig: It kept my cash -> Aug: You deposited the wrong amount of cash.
+GEN | [automatic_top_up] | Orig: How can I Use thereto-top option? -> Aug: How can I utilize the automatic top-up feature?
+GEN | [declined_cash_withdrawal] | Orig: I went to the Notting Hill ATM to use my card the first time for a cash withdrawal but it didn't work. Does this mean that my card isn't working yet? -> Aug: I attempted to withdraw cash from the ATM at the Notting Hill branch using my card for the first time, but the transaction was declined. Does this indicate that my card is currently inactive or experiencing technical issues?
+GEN | [card_acceptance] | Orig: Can I use my card for online payments? -> Aug: Is my credit card accepted for online transactions?
+GEN | [terminate_account] | Orig: Your company is lame. Shut down all my account services right now. -> Aug: Immediately cancel all my account services and terminate my account.
+GEN | [top_up_by_bank_transfer_charge] | Orig: How much will it be in order to pay with a bank transfer using SEPA? -> Aug: What is the fee for topping up my account using a bank transfer via SEPA?
+GEN | [declined_cash_withdrawal] | Orig: I tried to get money out of the Notting Hill ATM earlier, but I wasn't able to get anything out. Is there a problem with my card? It's the first time I tried using it. -> Aug: I attempted to withdraw cash from the ATM at Notting Hill, but the transaction was declined. Could you please check if there's an issue with my card? This is my first time using it.
+GEN | [terminate_account] | Orig: i'm not satisfied with the services and no longer want to be a customer -> Aug: I'm unhappy with the services and would like to cancel my account.
+GEN | [declined_cash_withdrawal] | Orig: I can't get money out of the ATM. Is my card actually working? It's the first time I tried using it -> Aug: I'm unable to withdraw cash from the ATM. Is my card still active? This is the first time I've tried using it for a cash withdrawal.
+GEN | [wrong_amount_of_cash_received] | Orig: I could not get the cash I wanted -> Aug: I was shortchanged on the cash I received
+GEN | [wrong_amount_of_cash_received] | Orig: The machine only paid me a hundred when I wanted 20 -> Aug: The ATM dispensed a smaller amount than I expected, I was supposed to receive 20 but got 100 instead.
+GEN | [card_payment_not_recognised] | Orig: Could you please put a freeze on my card?  There are some payments on it that I don't know where they came from. -> Aug: We've noticed an unusual payment on your card and would like to investigate further. Could you please confirm whether you authorized these transactions?
+GEN | [getting_spare_card] | Orig: I need more physical cards than I have right now! -> Aug: I require additional physical debit/credit cards to replace the ones I'm currently using.
+GEN | [request_refund] | Orig: I bought a product a week ago, but may need to return it. -> Aug: I recently purchased a product, but I'm considering returning it and would like to initiate the refund process.
+GEN | [receiving_money] | Orig: Do I need to do anything special for my friend to send money to my account? -> Aug: What steps should my friend take to transfer funds to my account?
+GEN | [wrong_amount_of_cash_received] | Orig: how come when i asked for 100 it only gave me 20.00 in the app -> Aug: I was expecting to receive the full amount of $100, but instead, I only got $20.
+GEN | [pending_cash_withdrawal] | Orig: I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got. -> Aug: I attempted to withdraw cash earlier, but the ATM appears to be malfunctioning. Upon reviewing the transaction, I noticed that the status still shows as 'pending.' Can you investigate this issue and ensure I'm not charged for the withdrawn amount that I haven't received?
+GEN | [declined_cash_withdrawal] | Orig: I tried to get money out of the Notting Hill ATM earlier, but I wasn't able to get it to work. Is my card with issue? It's the first time I tried using it. -> Aug: I attempted to withdraw cash from the ATM at Notting Hill, but the transaction was declined. Could there be a problem with my card? This is the first time I've tried using it.
+GEN | [pending_top_up] | Orig: Needed gas, been delayed for half an hour.Please fix it! -> Aug: My top-up has been delayed for 30 minutes, could you please expedite it?
+GEN | [top_up_by_bank_transfer_charge] | Orig: How much will it cost me for a SEPA transfer? -> Aug: What is the fee for a bank transfer top-up?
+GEN | [card_not_working] | Orig: WHAT IS THE REASON FOR THAT -> Aug: WHY IS MY CARD NOT FUNCTIONING PROPERLY?
+GEN | [declined_cash_withdrawal] | Orig: Why can I not take out cash? -> Aug: Why was my cash withdrawal request declined?
+GEN | [getting_spare_card] | Orig: Is a new debit card free? -> Aug: Can I get a new debit card without any additional fees?
+GEN | [fiat_currency_support] | Orig: Do you have a problem with EUR exchanges? -> Aug: Are you experiencing an issue with converting or exchanging euros?
+GEN | [card_not_working] | Orig: I wasn't able to use my card today when I went out for lunch. Wondering why that is? -> Aug: I tried to make a purchase with my card this morning, but it didn't work. Can you help me figure out what's going on?
+GEN | [request_refund] | Orig: It has been forever ago that I made an order online. The product simply is not coming. Just give me back my money because I'm not paying these people. -> Aug: I've been waiting for an eternity for my online order to arrive, but it seems it's been lost in transit. Can I please request a refund for the amount I paid, as I'm not willing to continue holding onto it?
+GEN | [declined_cash_withdrawal] | Orig: Why can't I get cash out? -> Aug: Why was my cash withdrawal request declined?
+GEN | [top_up_by_bank_transfer_charge] | Orig: What does it cost to receive a SEPA transfer? -> Aug: What is the fee for a bank transfer top-up?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was expecting to receive $100 but I only got $X.
+VAL | [lost_or_stolen_card] | YES | Text: Can you assist me in temporarily suspending my card due to a lost or stolen situation?
+VAL | [transfer_not_received_by_recipient] | NO | Text: I'm still waiting for the transfer to reach the recipient's account.
+VAL | [wrong_amount_of_cash_received] | YES | Text: The cashier handed me a smaller amount of cash than I was expecting.
+VAL | [top_up_by_cash_or_cheque] | YES | Text: Would you like to make a payment using cash or cheque?
+VAL | [declined_cash_withdrawal] | YES | Text: Unfortunately, your cash withdrawal request was declined.
+VAL | [pending_cash_withdrawal] | YES | Text: I attempted to withdraw cash from an ATM in the city centre earlier, but the machine rejected my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?
+VAL | [top_up_reverted] | YES | Text: My recent top-up reversal was processed just a few weeks ago
+VAL | [pending_top_up] | YES | Text: New customer attempting to top up their account for the first time today, but the transaction is not processing.
+VAL | [wrong_amount_of_cash_received] | YES | Text: I received less cash than expected
+VAL | [declined_cash_withdrawal] | YES | Text: I attempted to withdraw cash from the ATM at Notting Hill, but the transaction was declined. Is there an issue with my card? This is my first time using it.
+VAL | [wrong_amount_of_cash_received] | NO | Text: You deposited the wrong amount of cash.
+VAL | [automatic_top_up] | YES | Text: How can I utilize the automatic top-up feature?
+VAL | [declined_cash_withdrawal] | YES | Text: I attempted to withdraw cash from the ATM at the Notting Hill branch using my card for the first time, but the transaction was declined. Does this indicate that my card is currently inactive or experiencing technical issues?
+VAL | [card_acceptance] | YES | Text: Is my credit card accepted for online transactions?
+VAL | [terminate_account] | YES | Text: Immediately cancel all my account services and terminate my account.
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: What is the fee for topping up my account using a bank transfer via SEPA?
+VAL | [declined_cash_withdrawal] | YES | Text: I attempted to withdraw cash from the ATM at Notting Hill, but the transaction was declined. Could you please check if there's an issue with my card? This is my first time using it.
+VAL | [terminate_account] | YES | Text: I'm unhappy with the services and would like to cancel my account.
+VAL | [declined_cash_withdrawal] | YES | Text: I'm unable to withdraw cash from the ATM. Is my card still active? This is the first time I've tried using it for a cash withdrawal.
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was shortchanged on the cash I received
+VAL | [wrong_amount_of_cash_received] | YES | Text: The ATM dispensed a smaller amount than I expected, I was supposed to receive 20 but got 100 instead.
+VAL | [card_payment_not_recognised] | NO | Text: We've noticed an unusual payment on your card and would like to investigate further. Could you please confirm whether you authorized these transactions?
+VAL | [getting_spare_card] | YES | Text: I require additional physical debit/credit cards to replace the ones I'm currently using.
+VAL | [request_refund] | YES | Text: I recently purchased a product, but I'm considering returning it and would like to initiate the refund process.
+VAL | [receiving_money] | YES | Text: What steps should my friend take to transfer funds to my account?
+VAL | [wrong_amount_of_cash_received] | YES | Text: I was expecting to receive the full amount of $100, but instead, I only got $20.
+VAL | [pending_cash_withdrawal] | YES | Text: I attempted to withdraw cash earlier, but the ATM appears to be malfunctioning. Upon reviewing the transaction, I noticed that the status still shows as 'pending.' Can you investigate this issue and ensure I'm not charged for the withdrawn amount that I haven't received?
+VAL | [declined_cash_withdrawal] | YES | Text: I attempted to withdraw cash from the ATM at Notting Hill, but the transaction was declined. Could there be a problem with my card? This is the first time I've tried using it.
+VAL | [pending_top_up] | NO | Text: My top-up has been delayed for 30 minutes, could you please expedite it?
+VAL | [top_up_by_bank_transfer_charge] | NO | Text: What is the fee for a bank transfer top-up?
+VAL | [card_not_working] | YES | Text: WHY IS MY CARD NOT FUNCTIONING PROPERLY?
+VAL | [declined_cash_withdrawal] | YES | Text: Why was my cash withdrawal request declined?
+VAL | [getting_spare_card] | NO | Text: Can I get a new debit card without any additional fees?
+VAL | [fiat_currency_support] | YES | Text: Are you experiencing an issue with converting or exchanging euros?
+VAL | [card_not_working] | YES | Text: I tried to make a purchase with my card this morning, but it didn't work. Can you help me figure out what's going on?
+VAL | [request_refund] | YES | Text: I've been waiting for an eternity for my online order to arrive, but it seems it's been lost in transit. Can I please request a refund for the amount I paid, as I'm not willing to continue holding onto it?
+VAL | [declined_cash_withdrawal] | YES | Text: Why was my cash withdrawal request declined?
+VAL | [top_up_by_bank_transfer_charge] | YES | Text: What is the fee for a bank transfer top-up?

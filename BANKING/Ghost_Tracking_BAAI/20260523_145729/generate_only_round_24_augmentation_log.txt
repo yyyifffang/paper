@@ -1,0 +1,40 @@
+GEN | [request_refund] | Orig: Canceling my order is what I need to do right now. -> Aug: I'd like to initiate a cancellation and request a refund for my recent purchase.
+GEN | [cash_withdrawal_not_recognised] | Orig: There are incorrect charges on my account, there was a WD that was made by someone else.  I still have my card though. -> Aug: We've noticed an unusual cash withdrawal on your account that doesn't match your card's activity. It seems someone else may have made a transaction using your card, and we'd like to investigate further.
+GEN | [pending_cash_withdrawal] | Orig: Do you know when the withdrawal will show? -> Aug: Can you tell me when the pending cash withdrawal will be processed?
+GEN | [card_linking] | Orig: I received my card, how do I get it to work in the app? -> Aug: I just got my new card, can you help me link it to my account in the mobile app?
+GEN | [get_physical_card] | Orig: do i need to wait for my card before i get pin -> Aug: Do I need to wait for my physical card before I can obtain the PIN?
+GEN | [compromised_card] | Orig: It looks like someone besides me ordered something with my card, what should I do? -> Aug: It appears that an unauthorized transaction has been made using my card, what steps can I take to resolve this issue?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Why did I only receive this much currency? -> Aug: Why was the exchange rate applied incorrectly for my cash withdrawal?
+GEN | [pending_cash_withdrawal] | Orig: There is a withdrawal waiting. -> Aug: A pending cash withdrawal is awaiting processing.
+GEN | [exchange_via_app] | Orig: I need to get some Euros for my holiday. Am I able to exchange some of my money? -> Aug: I'd like to exchange some currency for my trip. Can I do it through the app?
+GEN | [cash_withdrawal_not_recognised] | Orig: I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP -> Aug: I AM UNABLE TO LOCATE A RECENT CASH WITHDRAWAL FROM MY ACCOUNT AS RECORDED IN MY ONLINE STATEMENT.
+GEN | [exchange_charge] | Orig: What commission do you take for currency exchage? -> Aug: What is the exchange charge for converting currencies?
+GEN | [card_acceptance] | Orig: Is my card denied anywhere? -> Aug: Is my credit card being declined anywhere?
+GEN | [exchange_via_app] | Orig: What currences are available for exchange? -> Aug: What currencies can I exchange through the app?
+GEN | [exchange_charge] | Orig: Will I have to pay extra to exchange money? -> Aug: Do I need to pay an additional fee to exchange currency?
+GEN | [reverted_card_payment?] | Orig: The seller just told me he didn't get paid. After reviewing my account it did subtract the balance but now it has added it back to my account. I need you to please take care of this promptly. -> Aug: The seller claims they didn't receive the payment, but I see that the payment was deducted from my account and then reversed back to my account. Can you assist me in resolving this issue as soon as possible?
+GEN | [exchange_charge] | Orig: Would you be able to offer me a discount, since I need to exchange currencies frequently? -> Aug: Could you provide a discount for me, as I regularly need to exchange currencies?
+GEN | [wrong_amount_of_cash_received] | Orig: How can I get my money that I didn't get from the ATM? -> Aug: I was given the wrong amount of cash when I withdrew money from the ATM, can you help me resolve this issue?
+GEN | [card_payment_wrong_exchange_rate] | Orig: Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you. -> Aug: I'd like to review my payment from last weekend, as I believe I was incorrectly charged a higher exchange rate. Could you look into this for me, please?
+GEN | [card_linking] | Orig: I need some help linking my new card. -> Aug: I'm having trouble linking my recently issued credit card.
+GEN | [cash_withdrawal_not_recognised] | Orig: There is unexpected money in my account. -> Aug: We've detected an unusual cash withdrawal attempt on your account.
+GEN | [get_physical_card] | Orig: How long does it take for me to get my pin -> Aug: How long does it take to receive my physical credit card?
+GEN | [get_physical_card] | Orig: How long do I wait for my PIN -> Aug: When can I expect to receive my physical credit card?
+GEN | [card_delivery_estimate] | Orig: I need my card as quick as possible -> Aug: I would like to request an expedited delivery for my card.
+GEN | [card_linking] | Orig: I found my card that I thought I had lost, I need to reactive it, please help. -> Aug: I've located my card that I believed was misplaced, and I'd like to reactivate it. Can you assist me with the process?
+GEN | [top_up_reverted] | Orig: i noticed that the funds were returned to my bank account. What happened? -> Aug: I see that the top-up was reverted back to my account. Can you please explain why this occurred?
+GEN | [reverted_card_payment?] | Orig: Can you tell me why my card isn't letting me make purchases online? It's been 2 weeks I've been trying. -> Aug: Can you help me understand why my card payment was reversed or cancelled? I've been trying to make online purchases for the past two weeks, but it's not working.
+GEN | [reverted_card_payment?] | Orig: I have cancelled payments to this card. -> Aug: I've reversed the payment made to this card.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Where is the money I put in the bank? -> Aug: I made a deposit using a cheque or cash, but my account balance hasn't been updated yet.
+GEN | [cash_withdrawal_not_recognised] | Orig: there is money in my account that i didnt put there -> Aug: the funds in my account are not mine and I didn't deposit them
+GEN | [cash_withdrawal_not_recognised] | Orig: There is money missing from my account. -> Aug: We've noticed an unexpected discrepancy in your account balance.
+GEN | [cash_withdrawal_not_recognised] | Orig: Somebody is taking money out of my account without my approval in another town separate from me. Please place a freeze on my account until I can make it to the bank. -> Aug: I'm concerned that an unauthorized cash withdrawal is being made from my account in a different location, not where I am currently located. Can you please put a hold on my account until I can visit the bank in person?
+GEN | [supported_cards_and_currencies] | Orig: Please let me know what currency I can use to top up my account? -> Aug: Please inform me about the available currencies and cards I can use to replenish my account balance.
+GEN | [card_linking] | Orig: help me link my card -> Aug: assist me in linking my credit card
+GEN | [exchange_charge] | Orig: Exchange fee help? -> Aug: Need assistance with exchange fee?
+GEN | [exchange_via_app] | Orig: How to I switch my money for the money used in another country? -> Aug: How can I exchange my currency for the currency used in another country using your mobile app?
+GEN | [extra_charge_on_statement] | Orig: I had a dollar charged to my account that's still pending and wanted to know what the charge is for? -> Aug: I recently noticed an additional charge on my statement and I'd like to know what it's for?
+GEN | [wrong_amount_of_cash_received] | Orig: I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money? -> Aug: I attempted to withdraw £20 but was given only £15. Where is the balance of my cash?
+GEN | [beneficiary_not_allowed] | Orig: Are there restrictions to transfers to certain accounts? -> Aug: Can I transfer funds to a specific account, or are there limitations on the beneficiary?
+GEN | [card_linking] | Orig: I would like to link my card to my account. -> Aug: I'd like to connect my card to my account.
+GEN | [transaction_charged_twice] | Orig: I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back? -> Aug: I accidentally used my duplicate card to make a purchase, and it was charged twice. I've since canceled the card, but I'd like to know how to recover the extra amount.

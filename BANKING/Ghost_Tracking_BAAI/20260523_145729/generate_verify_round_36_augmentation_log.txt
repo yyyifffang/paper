@@ -1,0 +1,80 @@
+GEN | [transfer_fee_charged] | Orig: I just moved overseas and I noticed that you are charging me more fees.  I am a loyal customer, is this how you expect to keep customers? -> Aug: I've recently relocated abroad and I'm surprised to see that I'm being charged higher transfer fees. As a long-time customer, I'm concerned that this might not be the best way to retain my business.
+GEN | [direct_debit_payment_not_recognised] | Orig: Hi, i found a large amount payment in my old statements which i am sure was not made by me. I am aware that the time has passed but is there a way to raise a dispute for this payment now? -> Aug: I've noticed an unexpected direct debit payment in my previous statements that I'm certain wasn't authorized by me. Although the time has passed, is there a way to dispute this payment now?
+GEN | [direct_debit_payment_not_recognised] | Orig: I know this very late, but I just went through my statements from the last couple months and there's one quite large-ish payment that I definitely haven't made. Is it still possible to dispute it? -> Aug: I've reviewed my recent statements and noticed a significant payment that I'm certain I didn't make. Can I still contest it?
+GEN | [wrong_amount_of_cash_received] | Orig: You shorted me money when I tried to make a withdrawal. -> Aug: You gave me less cash than I was supposed to get when I withdrew some money.
+GEN | [declined_card_payment] | Orig: why couldn't I use my card at a store? -> Aug: Your card payment was declined, which prevented you from making a purchase at the store.
+GEN | [pin_blocked] | Orig: I blocked my card by mistake, how do I unblock it? -> Aug: I accidentally blocked my card, can you help me unblock it?
+GEN | [card_payment_not_recognised] | Orig: i didnt do this charge -> Aug: We didn't recognize the payment from your card
+GEN | [getting_spare_card] | Orig: How many different cards can I have for my account? -> Aug: Can I have multiple cards linked to my account for convenience and security?
+GEN | [country_support] | Orig: From what countries can I use an account? -> Aug: Which countries are supported for account usage?
+GEN | [disposable_card_limits] | Orig: Why can't I use a disposable card? -> Aug: What are the limits on my disposable card, and why can't I use it for certain transactions?
+GEN | [pending_cash_withdrawal] | Orig: Why does it still charge me even though I was unable to withdraw money from the ATM? -> Aug: Why is there still a pending cash withdrawal fee even though I couldn't complete the transaction at the ATM?
+GEN | [top_up_failed] | Orig: I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong? -> Aug: I attempted to add funds to my card by making a transfer, but the transaction was unsuccessful. Can you help me identify the issue?
+GEN | [virtual_card_not_working] | Orig: My disposable virtual card got rejected -> Aug: My temporary virtual card was declined
+GEN | [pending_cash_withdrawal] | Orig: So much time has gone by, the pending status shouldn't still be there shouldn't it? -> Aug: I'm concerned that the pending cash withdrawal status has been lingering for too long, shouldn't it have been resolved by now?
+GEN | [country_support] | Orig: I would like to get your card in EU. Is that possible? -> Aug: I would like to obtain a card for use in the European Union. Is this feasible?
+GEN | [get_disposable_virtual_card] | Orig: How do I know if i need a disposable card? -> Aug: When would I need to request a temporary virtual card for my account?
+GEN | [pending_top_up] | Orig: When will my top up be approved? -> Aug: When will my pending top-up be processed?
+GEN | [request_refund] | Orig: Is there a way you can have money from a purchase I made refunded to my account. -> Aug: Can you assist me with getting a refund for a recent purchase credited back to my account?
+GEN | [transfer_into_account] | Orig: I need more money in my account. Can I add more by transferring? -> Aug: I'd like to move some funds into my account. Can I initiate a transfer to increase my balance?
+GEN | [reverted_card_payment?] | Orig: Under what condition will my payment revert? -> Aug: What circumstances would cause my payment to be reversed?
+GEN | [topping_up_by_card] | Orig: Can a credit card be used to transfer money? -> Aug: Can I use my credit card to add funds to my account?
+GEN | [unable_to_verify_identity] | Orig: The app failed to verify me. -> Aug: We're unable to confirm your identity through our app.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Can I withdraw money in my hometown currency while on holiday without any additional fees? -> Aug: Can I withdraw cash in my local currency without being charged an incorrect exchange rate, or will I incur extra fees for the conversion?
+GEN | [atm_support] | Orig: How many ATMs will take this card? -> Aug: How many cash machines will accept this card?
+GEN | [pending_cash_withdrawal] | Orig: I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it? -> Aug: I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help me resolve this issue?
+GEN | [country_support] | Orig: Can the card be mailed to Europe? -> Aug: Can the card be shipped to a European country?
+GEN | [card_payment_not_recognised] | Orig: I think there's a purchase at a store that I didn't go to. -> Aug: We've received a payment notification for a transaction that doesn't match any of your recent purchases.
+GEN | [visa_or_mastercard] | Orig: Can I choose what card I can use -> Aug: Can I select which credit card, such as Visa or Mastercard, to use?
+GEN | [fiat_currency_support] | Orig: Will you be adding more currencies in the future? -> Aug: Are there any plans to expand the list of supported fiat currencies in the near future?
+GEN | [topping_up_by_card] | Orig: my top up isnt there yet where do i find it -> Aug: my card top-up is still pending, where can I locate it?
+GEN | [lost_or_stolen_phone] | Orig: Please help!  I was mugged and everything stolen.  What do I do to stop them from accessing my account? -> Aug: I'm so sorry to hear that you've been a victim of theft. My team can assist you in securing your account and preventing any unauthorized access. Please let me know your account number and any other relevant details, and we'll take immediate action to protect your account.
+GEN | [activate_my_card] | Orig: Tell me how to renew my new card? -> Aug: Can you guide me on how to activate my new card?
+GEN | [pending_transfer] | Orig: I wanted to know why there is a transfer of mine pending. -> Aug: I'm curious about the status of a transfer I initiated, which is currently pending.
+GEN | [pending_top_up] | Orig: When will my top up be applied? -> Aug: When will my pending top-up be processed?
+GEN | [pending_card_payment] | Orig: Why are the things I bought earlier today still showing as pending? -> Aug: Why are the items I purchased earlier today still listed as pending card payment?
+GEN | [declined_cash_withdrawal] | Orig: I could not access my money at the ATM -> Aug: I was unable to withdraw cash from the ATM due to insufficient funds.
+GEN | [get_disposable_virtual_card] | Orig: How do I use the disposable cards? -> Aug: What steps do I need to follow to activate and use a disposable virtual card?
+GEN | [order_physical_card] | Orig: I would like to request a card. -> Aug: I would like to place an order for a physical credit card.
+GEN | [verify_my_identity] | Orig: Tell me what the steps for the identity checks are -> Aug: Can you walk me through the process of verifying my identity?
+GEN | [reverted_card_payment?] | Orig: How come I can't find my payment? -> Aug: Why was my payment reversed?
+VAL | [transfer_fee_charged] | NO | Text: I've recently relocated abroad and I'm surprised to see that I'm being charged higher transfer fees. As a long-time customer, I'm concerned that this might not be the best way to retain my business.
+VAL | [direct_debit_payment_not_recognised] | YES | Text: I've noticed an unexpected direct debit payment in my previous statements that I'm certain wasn't authorized by me. Although the time has passed, is there a way to dispute this payment now?
+VAL | [direct_debit_payment_not_recognised] | NO | Text: I've reviewed my recent statements and noticed a significant payment that I'm certain I didn't make. Can I still contest it?
+VAL | [wrong_amount_of_cash_received] | YES | Text: You gave me less cash than I was supposed to get when I withdrew some money.
+VAL | [declined_card_payment] | YES | Text: Your card payment was declined, which prevented you from making a purchase at the store.
+VAL | [pin_blocked] | NO | Text: I accidentally blocked my card, can you help me unblock it?
+VAL | [card_payment_not_recognised] | YES | Text: We didn't recognize the payment from your card
+VAL | [getting_spare_card] | NO | Text: Can I have multiple cards linked to my account for convenience and security?
+VAL | [country_support] | YES | Text: Which countries are supported for account usage?
+VAL | [disposable_card_limits] | NO | Text: What are the limits on my disposable card, and why can't I use it for certain transactions?
+VAL | [pending_cash_withdrawal] | YES | Text: Why is there still a pending cash withdrawal fee even though I couldn't complete the transaction at the ATM?
+VAL | [top_up_failed] | YES | Text: I attempted to add funds to my card by making a transfer, but the transaction was unsuccessful. Can you help me identify the issue?
+VAL | [virtual_card_not_working] | YES | Text: My temporary virtual card was declined
+VAL | [pending_cash_withdrawal] | YES | Text: I'm concerned that the pending cash withdrawal status has been lingering for too long, shouldn't it have been resolved by now?
+VAL | [country_support] | YES | Text: I would like to obtain a card for use in the European Union. Is this feasible?
+VAL | [get_disposable_virtual_card] | YES | Text: When would I need to request a temporary virtual card for my account?
+VAL | [pending_top_up] | YES | Text: When will my pending top-up be processed?
+VAL | [request_refund] | YES | Text: Can you assist me with getting a refund for a recent purchase credited back to my account?
+VAL | [transfer_into_account] | YES | Text: I'd like to move some funds into my account. Can I initiate a transfer to increase my balance?
+VAL | [reverted_card_payment?] | YES | Text: What circumstances would cause my payment to be reversed?
+VAL | [topping_up_by_card] | NO | Text: Can I use my credit card to add funds to my account?
+VAL | [unable_to_verify_identity] | YES | Text: We're unable to confirm your identity through our app.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | NO | Text: Can I withdraw cash in my local currency without being charged an incorrect exchange rate, or will I incur extra fees for the conversion?
+VAL | [atm_support] | YES | Text: How many cash machines will accept this card?
+VAL | [pending_cash_withdrawal] | YES | Text: I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help me resolve this issue?
+VAL | [country_support] | YES | Text: Can the card be shipped to a European country?
+VAL | [card_payment_not_recognised] | YES | Text: We've received a payment notification for a transaction that doesn't match any of your recent purchases.
+VAL | [visa_or_mastercard] | YES | Text: Can I select which credit card, such as Visa or Mastercard, to use?
+VAL | [fiat_currency_support] | YES | Text: Are there any plans to expand the list of supported fiat currencies in the near future?
+VAL | [topping_up_by_card] | YES | Text: my card top-up is still pending, where can I locate it?
+VAL | [lost_or_stolen_phone] | NO | Text: I'm so sorry to hear that you've been a victim of theft. My team can assist you in securing your account and preventing any unauthorized access. Please let me know your account number and any other relevant details, and we'll take immediate action to protect your account.
+VAL | [activate_my_card] | NO | Text: Can you guide me on how to activate my new card?
+VAL | [pending_transfer] | YES | Text: I'm curious about the status of a transfer I initiated, which is currently pending.
+VAL | [pending_top_up] | YES | Text: When will my pending top-up be processed?
+VAL | [pending_card_payment] | YES | Text: Why are the items I purchased earlier today still listed as pending card payment?
+VAL | [declined_cash_withdrawal] | YES | Text: I was unable to withdraw cash from the ATM due to insufficient funds.
+VAL | [get_disposable_virtual_card] | NO | Text: What steps do I need to follow to activate and use a disposable virtual card?
+VAL | [order_physical_card] | YES | Text: I would like to place an order for a physical credit card.
+VAL | [verify_my_identity] | YES | Text: Can you walk me through the process of verifying my identity?
+VAL | [reverted_card_payment?] | NO | Text: Why was my payment reversed?

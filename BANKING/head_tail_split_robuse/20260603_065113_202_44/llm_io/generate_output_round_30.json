@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Where can I access cash from?",
+    "Where can I access cash from an ATM or a bank branch?",
+    "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?",
+    "I require my card as soon as possible.",
+    "The balance on my account didn't update after I made a transfer.",
+    "I accidentally left my credit card in the ATM machine.",
+    "I'm experiencing an issue with my American Express account on Google Pay, could you assist me in resolving the issue with a top-up?",
+    "I'm having trouble accessing my account because I've forgotten my passcode.",
+    "I'm looking for an ATM location where I can withdraw cash.",
+    "My payment was declined at the store.",
+    "What methods are available for transferring funds from my American Express card?",
+    "Do I need to make a payment to obtain a physical card?",
+    "I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?",
+    "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?",
+    "I mistakenly processed a payment for my rent yesterday and I urgently need to reverse it by tomorrow. Can you assist me with this?",
+    "Can I use a transfer to receive the funds I'm expecting?",
+    "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?",
+    "What is the charge for exchanging currency from a foreign country?",
+    "Can I arrange for a card to be delivered to China?",
+    "I've been expecting my transfer since Friday, but it still hasn't arrived.",
+    "Can I get the correct exchange rate for a cash withdrawal in my local currency while I'm traveling, or will I be charged an incorrect rate and incur extra fees?",
+    "Why haven't any of my recent online transactions been processed using my card, despite multiple attempts over the past two weeks?",
+    "Can I use my Mastercard to fund my account?",
+    "Can you dispatch the physical card to me?",
+    "Why is my pending cash withdrawal not reflected on my account statement?",
+    "The account balance remains unchanged.",
+    "Why does it take a while for my account balance to update after an international bank transfer is made?",
+    "Where can I find an ATM to withdraw cash?",
+    "Where can I place an order for a physical card?",
+    "Explain the process for verifying my identity",
+    "We've noticed some transactions on your bank statement that don't match any payments you've made.",
+    "I'm still waiting for the funds I deposited into my account earlier today to reflect in my balance.",
+    "Can you confirm when I can expect to receive my card?",
+    "I attempted to make a payment using my debit card, but it was unsuccessful.",
+    "When can I expect to receive my virtual card after ordering it?",
+    "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?"
+  ],
+  "generated_labels": [
+    3,
+    3,
+    3,
+    12,
+    5,
+    18,
+    2,
+    44,
+    3,
+    25,
+    54,
+    43,
+    6,
+    28,
+    8,
+    50,
+    27,
+    31,
+    9,
+    66,
+    76,
+    53,
+    54,
+    43,
+    46,
+    5,
+    5,
+    3,
+    43,
+    69,
+    28,
+    6,
+    12,
+    53,
+    40,
+    64
+  ],
+  "source_texts": [
+    "\nWhere can I withdraw money from?",
+    "Where can I withdraw money from?",
+    "I need to withdraw money. Where can I do that?",
+    "I need my card right away.",
+    "After I transferred money the balance remained the same.",
+    "I have lost my credit card in the ATM!",
+    "I am having a slight problem with my American express in apple play, can you help me fix the problem with top up?",
+    "I can't log in",
+    "I need to know where I can withdraw money.",
+    "My card did not go through in a shop",
+    "how can i transfer money from american express card",
+    "Is payment required to get a card of my own?",
+    "I put some money in my account the other day and it's not gone in yet, can you help with this?",
+    "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+    "I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help?",
+    "Can I use a transfer to receive my transfer?",
+    "How can I find a way to transfer money without it being rejected?",
+    "What is the fee for accepting money from a foreign country?",
+    "Am I able to have a card sent to China?",
+    "I've been waiting since Friday, where is my money?",
+    "Can I withdraw money in my hometown currency while on holiday without any additional fees?",
+    "I am not able to purchase anything online! I have been using my card on multiple sites over a period of two weeks and none of the payments have gone through. Why is this happening?",
+    "can i use my mastercard to add money to my account",
+    "Can you send me the actual card?",
+    "Why hasn't my withdrawal shown on my statement?",
+    "The balance has not been updated.",
+    "Is there a longer processing time for international bank transfers?",
+    "Can you tell me where I can withdraw money?",
+    "Show me where to order my card.",
+    "Tell me what the steps for the identity checks are",
+    "Purchases I did not make are appearing in my bank statement?",
+    "I am still awaiting the money I put into my account this morning.",
+    "are you sending me my card?",
+    "I tried to use my debit card, but the payment did not work.",
+    "How long do you have to wait to see your virtual card your ordered?",
+    "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?"
+  ],
+  "records": [
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "\nWhere can I withdraw money from?",
+      "generated": "Where can I access cash from?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where can I withdraw money from?",
+      "generated": "Where can I access cash from an ATM or a bank branch?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need to withdraw money. Where can I do that?",
+      "generated": "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card right away.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "After I transferred money the balance remained the same.",
+      "generated": "The balance on my account didn't update after I made a transfer."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I have lost my credit card in the ATM!",
+      "generated": "I accidentally left my credit card in the ATM machine."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I am having a slight problem with my American express in apple play, can you help me fix the problem with top up?",
+      "generated": "I'm experiencing an issue with my American Express account on Google Pay, could you assist me in resolving the issue with a top-up?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't log in",
+      "generated": "I'm having trouble accessing my account because I've forgotten my passcode."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need to know where I can withdraw money.",
+      "generated": "I'm looking for an ATM location where I can withdraw cash."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card did not go through in a shop",
+      "generated": "My payment was declined at the store."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "how can i transfer money from american express card",
+      "generated": "What methods are available for transferring funds from my American Express card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Is payment required to get a card of my own?",
+      "generated": "Do I need to make a payment to obtain a physical card?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I put some money in my account the other day and it's not gone in yet, can you help with this?",
+      "generated": "I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+      "generated": "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help?",
+      "generated": "I mistakenly processed a payment for my rent yesterday and I urgently need to reverse it by tomorrow. Can you assist me with this?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I use a transfer to receive my transfer?",
+      "generated": "Can I use a transfer to receive the funds I'm expecting?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How can I find a way to transfer money without it being rejected?",
+      "generated": "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "What is the fee for accepting money from a foreign country?",
+      "generated": "What is the charge for exchanging currency from a foreign country?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Am I able to have a card sent to China?",
+      "generated": "Can I arrange for a card to be delivered to China?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I've been waiting since Friday, where is my money?",
+      "generated": "I've been expecting my transfer since Friday, but it still hasn't arrived."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can I withdraw money in my hometown currency while on holiday without any additional fees?",
+      "generated": "Can I get the correct exchange rate for a cash withdrawal in my local currency while I'm traveling, or will I be charged an incorrect rate and incur extra fees?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I am not able to purchase anything online! I have been using my card on multiple sites over a period of two weeks and none of the payments have gone through. Why is this happening?",
+      "generated": "Why haven't any of my recent online transactions been processed using my card, despite multiple attempts over the past two weeks?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "can i use my mastercard to add money to my account",
+      "generated": "Can I use my Mastercard to fund my account?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can you send me the actual card?",
+      "generated": "Can you dispatch the physical card to me?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why hasn't my withdrawal shown on my statement?",
+      "generated": "Why is my pending cash withdrawal not reflected on my account statement?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "The balance has not been updated.",
+      "generated": "The account balance remains unchanged."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Is there a longer processing time for international bank transfers?",
+      "generated": "Why does it take a while for my account balance to update after an international bank transfer is made?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can you tell me where I can withdraw money?",
+      "generated": "Where can I find an ATM to withdraw cash?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Show me where to order my card.",
+      "generated": "Where can I place an order for a physical card?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Tell me what the steps for the identity checks are",
+      "generated": "Explain the process for verifying my identity"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Purchases I did not make are appearing in my bank statement?",
+      "generated": "We've noticed some transactions on your bank statement that don't match any payments you've made."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I am still awaiting the money I put into my account this morning.",
+      "generated": "I'm still waiting for the funds I deposited into my account earlier today to reflect in my balance."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "are you sending me my card?",
+      "generated": "Can you confirm when I can expect to receive my card?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to use my debit card, but the payment did not work.",
+      "generated": "I attempted to make a payment using my debit card, but it was unsuccessful."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "How long do you have to wait to see your virtual card your ordered?",
+      "generated": "When can I expect to receive my virtual card after ordering it?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+      "generated": "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?"
+    }
+  ]
+}

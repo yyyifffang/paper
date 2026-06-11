@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "Can I use my card at an ATM belonging to a different bank or financial institution?",
+    "What is the maximum number of transactions I can make with a disposable card?",
+    "What methods are available for adding funds to my account, and what currencies are accepted for transactions?",
+    "What types of identification documents are accepted for verification?",
+    "I'm experiencing an extra verification step after attempting to make a top-up, can you help me understand why?",
+    "What methods are available for me to receive funds?",
+    "We need to confirm the origin of your funds.",
+    "How can I reactivate my new card?",
+    "What are the additional charges for withdrawing cash from an ATM?",
+    "I'd like to understand the process of moving funds into my account.",
+    "I'd like to know if it's feasible to have multiple fiat currencies supported in my account.",
+    "I'm having trouble withdrawing cash from the ATM and I'm certain I entered my PIN correctly. Can you assist me with this issue?",
+    "can i make a transfer within the app?",
+    "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?",
+    "I've noticed an unexpected payment on my account.",
+    "I've been mistakenly charged twice.",
+    "What is the typical processing speed for international transfers from Europe?",
+    "What currencies are accepted for depositing funds?",
+    "I'm surprised to see a fee applied to my transfer.",
+    "Can I transfer funds from another bank into my account, which currently has no balance?",
+    "The transfer to my account was halted due to the beneficiary not being allowed.",
+    "Why am I unable to deposit funds into my account?",
+    "Can I use my card to withdraw cash from an ATM? I've never tried it before, but when I attempted to do so, the transaction was declined.",
+    "I'm in a bit of an emergency and I need to add funds to my card ASAP, but it's not accepting the top-up. Can you help me resolve this issue or suggest an alternative solution?",
+    "I'm curious about the support for different fiat currencies.",
+    "We're having trouble identifying this payment on your account.",
+    "Why was I overcharged for the conversion of my UK pound to Russian ruble on my recent transaction?",
+    "What are the charges for a standard physical card?",
+    "I'm seeing some transactions on my card in the app that I didn't authorize. Can you help me figure out what's going on? Is someone else using my card without my permission?",
+    "what's the purpose of verifying the top-up process? it seems unclear to me",
+    "Why was my transfer rejected?",
+    "Can you suggest a solution for my issue with topping up my account, as my card keeps getting declined and I'm unable to complete the transaction today?",
+    "I'd like to know more about the process of moving funds into my account. Can you provide information on how it's done?",
+    "The virtual payment card I was using temporarily was declined.",
+    "Any location that accepts Mastercard would be suitable.",
+    "Must I choose between Visa or Mastercard?",
+    "How can I use my card for payment?",
+    "I recently received an email confirming a purchase made with my card, but when I checked my account on the mobile app, I discovered several unauthorized transactions. It appears that someone has compromised my card information and made these fraudulent purchases. I would like to have these transactions reversed and my card temporarily suspended.",
+    "A mysterious transaction appeared on my card statement"
+  ],
+  "generated_labels": [
+    3,
+    29,
+    54,
+    69,
+    71,
+    50,
+    70,
+    0,
+    19,
+    65,
+    36,
+    26,
+    65,
+    19,
+    28,
+    63,
+    67,
+    54,
+    64,
+    65,
+    7,
+    65,
+    26,
+    59,
+    36,
+    16,
+    17,
+    43,
+    16,
+    71,
+    27,
+    59,
+    65,
+    72,
+    10,
+    73,
+    10,
+    22,
+    16
+  ],
+  "source_texts": [
+    "Can I use my card in another institutions ATM?",
+    "How many payments can I make using a virtual card?",
+    "How can I top up my account and which currency can I use?",
+    "What form of identification is accepted?",
+    "I just tried to top-up and now I'm getting an additional verification message, why?",
+    "How can I receive money?",
+    "My source of funds need verification.",
+    "How can my new card be renewed?",
+    "Explain the extra ATM fees.",
+    "I'd like to know how transferring my money into my account works.",
+    "I want to have multiple currencies in my account if possible.",
+    "Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money.",
+    "can i transfer money i the app",
+    "How much can I withdrawal in one month without incurring fees?",
+    "I have an unauthorized charge.",
+    "I have been overcharged.",
+    "How fast are transfers from Europe?",
+    "What are the acceptable currencies for adding funds?",
+    "I shouldn't be charged any fee for transferring .",
+    "Can I withdraw money from another bank and transfer it into my empty account?",
+    "My account transfer was blocked.",
+    "Why can I not transfer money into my account?",
+    "Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing.",
+    "I really need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or try an alternative",
+    "I wondered if multiple currencies is okay?",
+    "Why is this payment on my app",
+    "Why was I charged extra on my last UK pound to Russian ruble exchange?",
+    "What fees do you charge for the standard card?",
+    "There are a couple payments with my card shown in the app that i really didn't make myself. What's happenning with this, does someone has access to my card?!",
+    "why verify the top up? it doesnt make sense",
+    "How do I make my transfer go through",
+    "Could you please recommend what I should do if my card keeps getting declined?  I planned to top-up today but I am unable to get it to work.  I need a fast solution to this problem.",
+    "I was wondering about transferring money into my account and how it works.  Can you tell me about that?",
+    "My disposable virtual card was rejected.",
+    "Any place that takes Mastercard would be fine.",
+    "Do I have to pick a creditcard brand?",
+    "Where can I pay with my card?",
+    "I just got an email in confirming my purchase with my card. I login to the mobile app on the card and found out there are several purchase were made without me aware of it. Evidently someone had stole my card information and made these fraudulent purchase. I need the transaction to be reverse and have my card suspended.",
+    "A random charge got added to my card"
+  ],
+  "records": [
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I use my card in another institutions ATM?",
+      "generated": "Can I use my card at an ATM belonging to a different bank or financial institution?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "How many payments can I make using a virtual card?",
+      "generated": "What is the maximum number of transactions I can make with a disposable card?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "How can I top up my account and which currency can I use?",
+      "generated": "What methods are available for adding funds to my account, and what currencies are accepted for transactions?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "What form of identification is accepted?",
+      "generated": "What types of identification documents are accepted for verification?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I just tried to top-up and now I'm getting an additional verification message, why?",
+      "generated": "I'm experiencing an extra verification step after attempting to make a top-up, can you help me understand why?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can I receive money?",
+      "generated": "What methods are available for me to receive funds?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My source of funds need verification.",
+      "generated": "We need to confirm the origin of your funds."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can my new card be renewed?",
+      "generated": "How can I reactivate my new card?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Explain the extra ATM fees.",
+      "generated": "What are the additional charges for withdrawing cash from an ATM?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I'd like to know how transferring my money into my account works.",
+      "generated": "I'd like to understand the process of moving funds into my account."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "I want to have multiple currencies in my account if possible.",
+      "generated": "I'd like to know if it's feasible to have multiple fiat currencies supported in my account."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money.",
+      "generated": "I'm having trouble withdrawing cash from the ATM and I'm certain I entered my PIN correctly. Can you assist me with this issue?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "can i transfer money i the app",
+      "generated": "can i make a transfer within the app?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much can I withdrawal in one month without incurring fees?",
+      "generated": "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I have an unauthorized charge.",
+      "generated": "I've noticed an unexpected payment on my account."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have been overcharged.",
+      "generated": "I've been mistakenly charged twice."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How fast are transfers from Europe?",
+      "generated": "What is the typical processing speed for international transfers from Europe?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are the acceptable currencies for adding funds?",
+      "generated": "What currencies are accepted for depositing funds?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I shouldn't be charged any fee for transferring .",
+      "generated": "I'm surprised to see a fee applied to my transfer."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can I withdraw money from another bank and transfer it into my empty account?",
+      "generated": "Can I transfer funds from another bank into my account, which currently has no balance?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "My account transfer was blocked.",
+      "generated": "The transfer to my account was halted due to the beneficiary not being allowed."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Why can I not transfer money into my account?",
+      "generated": "Why am I unable to deposit funds into my account?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing.",
+      "generated": "Can I use my card to withdraw cash from an ATM? I've never tried it before, but when I attempted to do so, the transaction was declined."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I really need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or try an alternative",
+      "generated": "I'm in a bit of an emergency and I need to add funds to my card ASAP, but it's not accepting the top-up. Can you help me resolve this issue or suggest an alternative solution?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "I wondered if multiple currencies is okay?",
+      "generated": "I'm curious about the support for different fiat currencies."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is this payment on my app",
+      "generated": "We're having trouble identifying this payment on your account."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why was I charged extra on my last UK pound to Russian ruble exchange?",
+      "generated": "Why was I overcharged for the conversion of my UK pound to Russian ruble on my recent transaction?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What fees do you charge for the standard card?",
+      "generated": "What are the charges for a standard physical card?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There are a couple payments with my card shown in the app that i really didn't make myself. What's happenning with this, does someone has access to my card?!",
+      "generated": "I'm seeing some transactions on my card in the app that I didn't authorize. Can you help me figure out what's going on? Is someone else using my card without my permission?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "why verify the top up? it doesnt make sense",
+      "generated": "what's the purpose of verifying the top-up process? it seems unclear to me"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How do I make my transfer go through",
+      "generated": "Why was my transfer rejected?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Could you please recommend what I should do if my card keeps getting declined?  I planned to top-up today but I am unable to get it to work.  I need a fast solution to this problem.",
+      "generated": "Can you suggest a solution for my issue with topping up my account, as my card keeps getting declined and I'm unable to complete the transaction today?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I was wondering about transferring money into my account and how it works.  Can you tell me about that?",
+      "generated": "I'd like to know more about the process of moving funds into my account. Can you provide information on how it's done?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card was rejected.",
+      "generated": "The virtual payment card I was using temporarily was declined."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Any place that takes Mastercard would be fine.",
+      "generated": "Any location that accepts Mastercard would be suitable."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Do I have to pick a creditcard brand?",
+      "generated": "Must I choose between Visa or Mastercard?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where can I pay with my card?",
+      "generated": "How can I use my card for payment?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I just got an email in confirming my purchase with my card. I login to the mobile app on the card and found out there are several purchase were made without me aware of it. Evidently someone had stole my card information and made these fraudulent purchase. I need the transaction to be reverse and have my card suspended.",
+      "generated": "I recently received an email confirming a purchase made with my card, but when I checked my account on the mobile app, I discovered several unauthorized transactions. It appears that someone has compromised my card information and made these fraudulent purchases. I would like to have these transactions reversed and my card temporarily suspended."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "A random charge got added to my card",
+      "generated": "A mysterious transaction appeared on my card statement"
+    }
+  ]
+}

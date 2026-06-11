@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me.",
+    "What circumstances would cause my payment to be reversed?",
+    "Why did I get a refund for my payment after a week?",
+    "Can you replace my card and cancel my current one, as it was stolen while I was in Spain and I'm now without a wallet?",
+    "I'm not sure if the top-up request has been processed successfully.",
+    "The payment using my card was not accepted in the store.",
+    "I'd like to request an expedited delivery for my card.",
+    "How can I retrieve my card from a bank machine as soon as possible?",
+    "Why was my payment reversed and credited back to my card?",
+    "You're wondering why your cash withdrawal was declined despite having sufficient funds in your account.",
+    "The transfer I attempted did not go through.",
+    "Why is my card being declined, and why am I being prevented from accessing my funds? What's the reason behind this issue?",
+    "Can you assist me with my card transactions that keep getting reversed whenever I make online purchases? I've been experiencing this issue for the past two weeks.",
+    "The payment made with my card was declined at a retail store.",
+    "Did my card payment get reversed?",
+    "I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount.",
+    "I've successfully completed the 3D secure authentication process, but the crypto top-up still isn't functioning for me. I'm also confused about what happened to the funds in my account.",
+    "How can I guarantee that my transfer won't be declined due to an unsupported merchant?",
+    "Have you checked my account balance recently?",
+    "Why haven't my card payment cleared yet?",
+    "The app is displaying a higher withdrawal amount than what I physically deposited at the ATM.",
+    "I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?",
+    "How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?",
+    "I've missed a payment and I'm providing the payment now.",
+    "I was unable to make a purchase using my card at a retail location.",
+    "I tried to withdraw some cash from the ATM earlier, but it didn't go through. Now, when I check the transaction, it still shows as pending. I'd appreciate it if someone could investigate this and let me know what's happening. I don't want to be charged for cash I never got.",
+    "I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed.",
+    "I was expecting to receive the full amount of $100, but instead, I only got $20.",
+    "Can you explain why my top-up request is still pending?",
+    "I attempted to replenish my account balance, but an error occurred.",
+    "I'd like to receive my card as soon as possible.",
+    "My recent top-up reversal has just occurred, and it's only been a few weeks since it happened.",
+    "I've just noticed an error with the transfer I initiated yesterday. Could you assist me in correcting it to the correct account? It's a rent payment and it's crucial that it's processed in the correct account by tomorrow.",
+    "Which fiat currencies are restricted for holding a large amount, and what are the limitations?"
+  ],
+  "generated_labels": [
+    72,
+    53,
+    53,
+    41,
+    47,
+    25,
+    12,
+    18,
+    53,
+    26,
+    35,
+    59,
+    53,
+    25,
+    53,
+    75,
+    61,
+    27,
+    5,
+    45,
+    75,
+    72,
+    51,
+    16,
+    25,
+    46,
+    35,
+    75,
+    47,
+    61,
+    12,
+    61,
+    8,
+    36
+  ],
+  "source_texts": [
+    "What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?",
+    "Under what condition will my payment revert?",
+    "Why have I received a rebate for my payment after a week?",
+    "Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.",
+    "I do not think the pop up went through yet.",
+    "I couldn't pay with card in a shop",
+    "i need to expedite my card",
+    "How do I get my card back quickly from a bank machine that it?",
+    "Why has my money been returned back to my card.",
+    "why would i be declined if i had money iin my account",
+    "The transger I tried to make failed.",
+    "Why are you keeping my money from me by declining my card? What is going on?",
+    "Please help me with my card payments which keeps getting reverted whenever i do online shopping. I am having this problem since last two weeks.",
+    "My card was not accepted in a shop",
+    "Was my transaction reverted with my card?",
+    "Why can't I take $100 out",
+    "Hae, I already completed my 3D secure authentication when I tried the crypto top up but it's still not working for me. I also don't understand what happened to the money in my account",
+    "How do I make sure my transfer isn't goin to an unsupported merchant?",
+    "Can you see my new balance yet?",
+    "Why aren't my payment funds available to me?",
+    "Help, your app is showing a larger WD than I actually did earlier at an ATM.",
+    "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?",
+    "how does my statement get updated so i know when a refund will reflect on my balance",
+    "I didn't do a payment and I have it now.",
+    "I could not use my card in a store.",
+    "I tempted to get some money out of the machine earlier and it did not work.Looking now, the transaction actually shows to still be in progress. I would certainly appreciate someone look into this and let me know what's going on. I definitely do not want to be charged for money I never received.",
+    "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+    "how come when i asked for 100 it only gave me 20.00 in the app",
+    "Can you tell me why my pop-up is still pending?",
+    "I refilled my account balance but got an error message.",
+    "I need my card as quick as possible",
+    "It's only been a few weeks my my top-up got cancelled",
+    "I just realised I made the wrong payment yesterday. Can you please change it to the right account? It's my rent payment and really really needs to be in the right account by tomorrow",
+    "What currencies can I not hold many in, if so what are they?"
+  ],
+  "records": [
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?",
+      "generated": "The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Under what condition will my payment revert?",
+      "generated": "What circumstances would cause my payment to be reversed?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why have I received a rebate for my payment after a week?",
+      "generated": "Why did I get a refund for my payment after a week?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.",
+      "generated": "Can you replace my card and cancel my current one, as it was stolen while I was in Spain and I'm now without a wallet?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I do not think the pop up went through yet.",
+      "generated": "I'm not sure if the top-up request has been processed successfully."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I couldn't pay with card in a shop",
+      "generated": "The payment using my card was not accepted in the store."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i need to expedite my card",
+      "generated": "I'd like to request an expedited delivery for my card."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "How do I get my card back quickly from a bank machine that it?",
+      "generated": "How can I retrieve my card from a bank machine as soon as possible?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why has my money been returned back to my card.",
+      "generated": "Why was my payment reversed and credited back to my card?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "why would i be declined if i had money iin my account",
+      "generated": "You're wondering why your cash withdrawal was declined despite having sufficient funds in your account."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "The transger I tried to make failed.",
+      "generated": "The transfer I attempted did not go through."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Why are you keeping my money from me by declining my card? What is going on?",
+      "generated": "Why is my card being declined, and why am I being prevented from accessing my funds? What's the reason behind this issue?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Please help me with my card payments which keeps getting reverted whenever i do online shopping. I am having this problem since last two weeks.",
+      "generated": "Can you assist me with my card transactions that keep getting reversed whenever I make online purchases? I've been experiencing this issue for the past two weeks."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card was not accepted in a shop",
+      "generated": "The payment made with my card was declined at a retail store."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Was my transaction reverted with my card?",
+      "generated": "Did my card payment get reversed?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Why can't I take $100 out",
+      "generated": "I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hae, I already completed my 3D secure authentication when I tried the crypto top up but it's still not working for me. I also don't understand what happened to the money in my account",
+      "generated": "I've successfully completed the 3D secure authentication process, but the crypto top-up still isn't functioning for me. I'm also confused about what happened to the funds in my account."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How do I make sure my transfer isn't goin to an unsupported merchant?",
+      "generated": "How can I guarantee that my transfer won't be declined due to an unsupported merchant?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you see my new balance yet?",
+      "generated": "Have you checked my account balance recently?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why aren't my payment funds available to me?",
+      "generated": "Why haven't my card payment cleared yet?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Help, your app is showing a larger WD than I actually did earlier at an ATM.",
+      "generated": "The app is displaying a higher withdrawal amount than what I physically deposited at the ATM."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?",
+      "generated": "I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "how does my statement get updated so i know when a refund will reflect on my balance",
+      "generated": "How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I didn't do a payment and I have it now.",
+      "generated": "I've missed a payment and I'm providing the payment now."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I could not use my card in a store.",
+      "generated": "I was unable to make a purchase using my card at a retail location."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tempted to get some money out of the machine earlier and it did not work.Looking now, the transaction actually shows to still be in progress. I would certainly appreciate someone look into this and let me know what's going on. I definitely do not want to be charged for money I never received.",
+      "generated": "I tried to withdraw some cash from the ATM earlier, but it didn't go through. Now, when I check the transaction, it still shows as pending. I'd appreciate it if someone could investigate this and let me know what's happening. I don't want to be charged for cash I never got."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+      "generated": "I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "how come when i asked for 100 it only gave me 20.00 in the app",
+      "generated": "I was expecting to receive the full amount of $100, but instead, I only got $20."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Can you tell me why my pop-up is still pending?",
+      "generated": "Can you explain why my top-up request is still pending?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I refilled my account balance but got an error message.",
+      "generated": "I attempted to replenish my account balance, but an error occurred."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card as quick as possible",
+      "generated": "I'd like to receive my card as soon as possible."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "It's only been a few weeks my my top-up got cancelled",
+      "generated": "My recent top-up reversal has just occurred, and it's only been a few weeks since it happened."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I just realised I made the wrong payment yesterday. Can you please change it to the right account? It's my rent payment and really really needs to be in the right account by tomorrow",
+      "generated": "I've just noticed an error with the transfer I initiated yesterday. Could you assist me in correcting it to the correct account? It's a rent payment and it's crucial that it's processed in the correct account by tomorrow."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What currencies can I not hold many in, if so what are they?",
+      "generated": "Which fiat currencies are restricted for holding a large amount, and what are the limitations?"
+    }
+  ]
+}

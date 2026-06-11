@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I used my card to make a payment, but I was unexpectedly charged a fee that I didn't expect.",
+    "I'm unable to view the recent bank transfer I initiated.",
+    "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.",
+    "What steps do I need to take to open an account for my minors?",
+    "I'm confused about this transaction; I didn't authorise it.",
+    "I recently made a cash withdrawal at an ATM, but when I checked my account on the app, it shows that the transaction is still pending. Can you help me understand why this is the case, since I physically have the cash with me?",
+    "How long does it typically take for a card to arrive in the United States?",
+    "I'd like to make a transfer from one account to another, how can I proceed?",
+    "A pending cash withdrawal refers to a transaction that has been initiated but not yet processed or completed.",
+    "What steps can I take to confirm my identity?",
+    "I'm being charged a fee and I'm not sure why it's happening",
+    "I would like to obtain a Mastercard",
+    "We accept a range of currencies for adding funds to your account.",
+    "I'm dissatisfied with the service and would like to cancel my account.",
+    "When will my outstanding card payment be processed?",
+    "This morning, I attempted to withdraw cash from my card, but the transaction was declined. Despite being functional previously, it seems there's an issue with my card. Could you kindly investigate the matter?",
+    "At what age do you need to be to qualify for this service?",
+    "The mobile app is showing a cash withdrawal transaction that I'm not aware of.",
+    "When can I expect to receive my new card after placing the order?",
+    "I'd like to update my personal information to reflect my new residential address.",
+    "My loan payment using my credit card was unsuccessful. Can you explain why the transaction was declined?",
+    "What was the reason for the cash withdrawal being declined?",
+    "How do I go about closing this account?",
+    "How can I prevent someone from using my card after I misplaced it yesterday?",
+    "Is there a tracking number I can use to monitor the status of my card arrival?",
+    "The recent payment I made was reversed by the app",
+    "We're showing a withdrawal transaction that doesn't match any of your recent transactions. Can you help us understand why this is happening?",
+    "What is the typical duration of a transfer that is currently in a pending state?",
+    "Why do I have to pay an additional charge for withdrawing cash from the ATM?",
+    "I urgently require access to an ATM.",
+    "I was surprised to find a charge",
+    "I've been waiting for an extended period, and I'm still waiting for my cash withdrawal to be processed.",
+    "Is it possible to convert to euros?",
+    "I've been charged twice for the same transaction.",
+    "I reside in the European Union. Can I purchase one of your credit cards?",
+    "Help me resolve the issue with my PIN being blocked",
+    "I was unexpectedly billed a charge for utilizing my credit card.",
+    "Can you confirm the source of the funds in my account before I check my available balance?"
+  ],
+  "generated_labels": [
+    15,
+    5,
+    22,
+    1,
+    16,
+    46,
+    12,
+    65,
+    46,
+    69,
+    15,
+    73,
+    54,
+    55,
+    45,
+    26,
+    1,
+    20,
+    12,
+    30,
+    59,
+    26,
+    55,
+    42,
+    11,
+    53,
+    20,
+    48,
+    19,
+    3,
+    64,
+    46,
+    36,
+    63,
+    24,
+    49,
+    15,
+    70
+  ],
+  "source_texts": [
+    "I paid with card and was charged a fee that shouldn't be there!",
+    "I can't see the transfer that I put in.",
+    "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+    "How do I set up an account for my children?",
+    "I'm not sure where this charge came from.",
+    "So earlier I went to an ATM and got cash. But when I checked the app, it states that the withdrawal is pending. How can that be when I have the cash on me?",
+    "What is the wait time for delivery to the US?",
+    "I want to top up by transfering accounts, What do I do?",
+    "What is a pending cash withdrawal?",
+    "How do I verify my identity?",
+    "I have a fee and I don't know why",
+    "I would like to get a Visa card",
+    "What currencies do you accept to add money?",
+    "I'm not happy with service and would like to delete this account.",
+    "When will my pending payment finish?",
+    "Hi, In morning, i was trying to withdraw money from my card, but it got declined. So far it was working fine. Could you please check my card.",
+    "What would the age limit be?",
+    "The app says I made a cash withdrawal that I didn't make",
+    "If I order a card when does it arrive?",
+    "I moved and need to change my address.",
+    "My credit card transaction was declined for a loan payment.  Can you tell me why?",
+    "Why was my withdrawal declined",
+    "What are the steps to finishing up with this account?",
+    "How can I stop someone from using my card after I lost it yesterday.",
+    "Was there a number to track that I could get?",
+    "The app reverted my recent payment",
+    "Why would the app show a withdrawal that I did not make?",
+    "How long does the \"pending\" period of a transfer take?",
+    "WHY IS THERE AN EXTRA FEE FOR USING THE ATM??!!!",
+    "I need an ATM right now!",
+    "I had an unexpected fee",
+    "I've been waiting for 3 days, why is my withdrawal still pending?",
+    "Can exchanged be made to EUR?",
+    "I noticed that my card was charged more than once for one thing.",
+    "I live in the EU.  Can I order one of your cards?",
+    "Guide me on how to unblock my PIN",
+    "I was mistakenly charged a fee for using my card.",
+    "Can I see my available money?"
+  ],
+  "records": [
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I paid with card and was charged a fee that shouldn't be there!",
+      "generated": "I used my card to make a payment, but I was unexpectedly charged a fee that I didn't expect."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I can't see the transfer that I put in.",
+      "generated": "I'm unable to view the recent bank transfer I initiated."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+      "generated": "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "How do I set up an account for my children?",
+      "generated": "What steps do I need to take to open an account for my minors?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I'm not sure where this charge came from.",
+      "generated": "I'm confused about this transaction; I didn't authorise it."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "So earlier I went to an ATM and got cash. But when I checked the app, it states that the withdrawal is pending. How can that be when I have the cash on me?",
+      "generated": "I recently made a cash withdrawal at an ATM, but when I checked my account on the app, it shows that the transaction is still pending. Can you help me understand why this is the case, since I physically have the cash with me?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "What is the wait time for delivery to the US?",
+      "generated": "How long does it typically take for a card to arrive in the United States?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I want to top up by transfering accounts, What do I do?",
+      "generated": "I'd like to make a transfer from one account to another, how can I proceed?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "What is a pending cash withdrawal?",
+      "generated": "A pending cash withdrawal refers to a transaction that has been initiated but not yet processed or completed."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How do I verify my identity?",
+      "generated": "What steps can I take to confirm my identity?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I have a fee and I don't know why",
+      "generated": "I'm being charged a fee and I'm not sure why it's happening"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I would like to get a Visa card",
+      "generated": "I would like to obtain a Mastercard"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What currencies do you accept to add money?",
+      "generated": "We accept a range of currencies for adding funds to your account."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I'm not happy with service and would like to delete this account.",
+      "generated": "I'm dissatisfied with the service and would like to cancel my account."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "When will my pending payment finish?",
+      "generated": "When will my outstanding card payment be processed?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Hi, In morning, i was trying to withdraw money from my card, but it got declined. So far it was working fine. Could you please check my card.",
+      "generated": "This morning, I attempted to withdraw cash from my card, but the transaction was declined. Despite being functional previously, it seems there's an issue with my card. Could you kindly investigate the matter?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "What would the age limit be?",
+      "generated": "At what age do you need to be to qualify for this service?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "The app says I made a cash withdrawal that I didn't make",
+      "generated": "The mobile app is showing a cash withdrawal transaction that I'm not aware of."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "If I order a card when does it arrive?",
+      "generated": "When can I expect to receive my new card after placing the order?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I moved and need to change my address.",
+      "generated": "I'd like to update my personal information to reflect my new residential address."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "My credit card transaction was declined for a loan payment.  Can you tell me why?",
+      "generated": "My loan payment using my credit card was unsuccessful. Can you explain why the transaction was declined?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why was my withdrawal declined",
+      "generated": "What was the reason for the cash withdrawal being declined?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "What are the steps to finishing up with this account?",
+      "generated": "How do I go about closing this account?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "How can I stop someone from using my card after I lost it yesterday.",
+      "generated": "How can I prevent someone from using my card after I misplaced it yesterday?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Was there a number to track that I could get?",
+      "generated": "Is there a tracking number I can use to monitor the status of my card arrival?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "The app reverted my recent payment",
+      "generated": "The recent payment I made was reversed by the app"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Why would the app show a withdrawal that I did not make?",
+      "generated": "We're showing a withdrawal transaction that doesn't match any of your recent transactions. Can you help us understand why this is happening?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How long does the \"pending\" period of a transfer take?",
+      "generated": "What is the typical duration of a transfer that is currently in a pending state?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "WHY IS THERE AN EXTRA FEE FOR USING THE ATM??!!!",
+      "generated": "Why do I have to pay an additional charge for withdrawing cash from the ATM?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need an ATM right now!",
+      "generated": "I urgently require access to an ATM."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I had an unexpected fee",
+      "generated": "I was surprised to find a charge"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I've been waiting for 3 days, why is my withdrawal still pending?",
+      "generated": "I've been waiting for an extended period, and I'm still waiting for my cash withdrawal to be processed."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can exchanged be made to EUR?",
+      "generated": "Is it possible to convert to euros?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I noticed that my card was charged more than once for one thing.",
+      "generated": "I've been charged twice for the same transaction."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I live in the EU.  Can I order one of your cards?",
+      "generated": "I reside in the European Union. Can I purchase one of your credit cards?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "Guide me on how to unblock my PIN",
+      "generated": "Help me resolve the issue with my PIN being blocked"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I was mistakenly charged a fee for using my card.",
+      "generated": "I was unexpectedly billed a charge for utilizing my credit card."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I see my available money?",
+      "generated": "Can you confirm the source of the funds in my account before I check my available balance?"
+    }
+  ]
+}

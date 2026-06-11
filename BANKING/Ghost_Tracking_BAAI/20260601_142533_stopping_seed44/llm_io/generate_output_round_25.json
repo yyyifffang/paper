@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts.",
+    "My cash withdrawal attempt was declined.",
+    "Can you assist me in locating the recent transfer I made?",
+    "why hasn't my account balance been updated after the deposit I made this morning?",
+    "Complete my top-up transaction",
+    "I'm having trouble locating the funds I recently deposited into my account.",
+    "Can you expedite the delivery of my card as soon as possible?",
+    "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.",
+    "Can you walk me through the process of verifying my identity?",
+    "I misplaced my card and require a replacement.",
+    "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?",
+    "The funds I attempted to deposit were reversed.",
+    "what's the estimated timeframe for processing new contactless payment cards?",
+    "Are you able to assist with transactions involving the Euro currency?",
+    "A pending cash withdrawal is currently being processed.",
+    "What currencies are accepted for international transactions with this service?",
+    "Will all ATMs reject my card?",
+    "What types of fiat currencies can I store in my account?",
+    "When can I expect the pending cash withdrawal to be processed?",
+    "I mistakenly entered an incorrect account number.",
+    "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?",
+    "Are there any fees associated with a new card?",
+    "what is the source of the funds being transferred",
+    "A withdrawal was processed on my account, but I didn't initiate it and I still have my card in my possession. What should I do?",
+    "My rent payment is scheduled to be withdrawn tomorrow, but I made an error with the payment yesterday. Could you please correct the transfer to the correct account?",
+    "Why was my cash withdrawal declined at the ATM?",
+    "Why was my cash withdrawal request denied?",
+    "I'm trying to transfer funds to my account, but it's not possible.",
+    "Can I request priority shipping for my card delivery?",
+    "I initiated a transfer for my vacation fund, but it's still pending. Can you please let me know when I can expect the funds to be available?",
+    "I've checked my account activity, but I'm puzzled by a payment that doesn't seem to match any transactions I've made. Can you help me investigate and reverse this unauthorized payment?",
+    "Are you looking for assistance with fiat currencies?",
+    "The transfer I initiated with my card was unsuccessful, what happened?",
+    "I'm really disappointed. My payment was declined, and I'm not sure why.",
+    "I'm a new customer and I was wondering if there are any extra charges or fees I should know about. I noticed something about fee-free transactions in the app, but I'm not entirely sure what it means."
+  ],
+  "generated_labels": [
+    7,
+    26,
+    5,
+    6,
+    59,
+    47,
+    12,
+    46,
+    69,
+    41,
+    66,
+    61,
+    23,
+    36,
+    46,
+    36,
+    3,
+    36,
+    46,
+    8,
+    41,
+    23,
+    70,
+    20,
+    8,
+    26,
+    26,
+    7,
+    11,
+    48,
+    28,
+    36,
+    35,
+    25,
+    15
+  ],
+  "source_texts": [
+    "I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages.",
+    "My ATM transaction was cancelled.",
+    "Help me find the transfer that I did.",
+    "where is my money from this morning",
+    "Fix my top up",
+    "I can't find the money I just added to my account.",
+    "Send me my card now! ASAP",
+    "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+    "Let me know what the steps for the identity checks are",
+    "I lost my card n need a new one.",
+    "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+    "For some reason, the money I added was returned.",
+    "how many days processing new card?",
+    "Do you deal with EUR?",
+    "There is a withdrawal waiting.",
+    "What types of foreign money can be used with this service.?",
+    "Will any ATM's decline my card?",
+    "What kind of money can I hold?",
+    "Do you know when the withdrawal will show?",
+    "I used the wrong account number!",
+    "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+    "Any charges applicable for new card?",
+    "where are the transfers originating",
+    "A WD was just made on my account, but it was not me and I still have my card.  What to do?",
+    "Help please!  My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account?",
+    "Why did the ATM cancel my transaction",
+    "Why can I not take out cash?",
+    "I need to transfer to my account and cant.",
+    "Is there a way I can get my card expedited?",
+    "i put in money for vacation and its not showing. i need that money today, how long will it take",
+    "I have not used my card all day, however, there is an unusual payment showing in my app.  I would like to have that amount reimbursed.",
+    "Do you have support for flat currencies?",
+    "My card couldn't complete a transfer, why?",
+    "I was so embarrassed. Why didn't my payment clear?",
+    "Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances."
+  ],
+  "records": [
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages.",
+      "generated": "I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "My ATM transaction was cancelled.",
+      "generated": "My cash withdrawal attempt was declined."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Help me find the transfer that I did.",
+      "generated": "Can you assist me in locating the recent transfer I made?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "where is my money from this morning",
+      "generated": "why hasn't my account balance been updated after the deposit I made this morning?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Fix my top up",
+      "generated": "Complete my top-up transaction"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I can't find the money I just added to my account.",
+      "generated": "I'm having trouble locating the funds I recently deposited into my account."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Send me my card now! ASAP",
+      "generated": "Can you expedite the delivery of my card as soon as possible?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+      "generated": "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Let me know what the steps for the identity checks are",
+      "generated": "Can you walk me through the process of verifying my identity?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I lost my card n need a new one.",
+      "generated": "I misplaced my card and require a replacement."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+      "generated": "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "For some reason, the money I added was returned.",
+      "generated": "The funds I attempted to deposit were reversed."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "how many days processing new card?",
+      "generated": "what's the estimated timeframe for processing new contactless payment cards?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you deal with EUR?",
+      "generated": "Are you able to assist with transactions involving the Euro currency?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "There is a withdrawal waiting.",
+      "generated": "A pending cash withdrawal is currently being processed."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What types of foreign money can be used with this service.?",
+      "generated": "What currencies are accepted for international transactions with this service?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Will any ATM's decline my card?",
+      "generated": "Will all ATMs reject my card?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What kind of money can I hold?",
+      "generated": "What types of fiat currencies can I store in my account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Do you know when the withdrawal will show?",
+      "generated": "When can I expect the pending cash withdrawal to be processed?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I used the wrong account number!",
+      "generated": "I mistakenly entered an incorrect account number."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+      "generated": "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Any charges applicable for new card?",
+      "generated": "Are there any fees associated with a new card?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "where are the transfers originating",
+      "generated": "what is the source of the funds being transferred"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "A WD was just made on my account, but it was not me and I still have my card.  What to do?",
+      "generated": "A withdrawal was processed on my account, but I didn't initiate it and I still have my card in my possession. What should I do?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Help please!  My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account?",
+      "generated": "My rent payment is scheduled to be withdrawn tomorrow, but I made an error with the payment yesterday. Could you please correct the transfer to the correct account?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why did the ATM cancel my transaction",
+      "generated": "Why was my cash withdrawal declined at the ATM?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can I not take out cash?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I need to transfer to my account and cant.",
+      "generated": "I'm trying to transfer funds to my account, but it's not possible."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Is there a way I can get my card expedited?",
+      "generated": "Can I request priority shipping for my card delivery?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "i put in money for vacation and its not showing. i need that money today, how long will it take",
+      "generated": "I initiated a transfer for my vacation fund, but it's still pending. Can you please let me know when I can expect the funds to be available?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I have not used my card all day, however, there is an unusual payment showing in my app.  I would like to have that amount reimbursed.",
+      "generated": "I've checked my account activity, but I'm puzzled by a payment that doesn't seem to match any transactions I've made. Can you help me investigate and reverse this unauthorized payment?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you have support for flat currencies?",
+      "generated": "Are you looking for assistance with fiat currencies?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "My card couldn't complete a transfer, why?",
+      "generated": "The transfer I initiated with my card was unsuccessful, what happened?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I was so embarrassed. Why didn't my payment clear?",
+      "generated": "I'm really disappointed. My payment was declined, and I'm not sure why."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances.",
+      "generated": "I'm a new customer and I was wondering if there are any extra charges or fees I should know about. I noticed something about fee-free transactions in the app, but I'm not entirely sure what it means."
+    }
+  ]
+}

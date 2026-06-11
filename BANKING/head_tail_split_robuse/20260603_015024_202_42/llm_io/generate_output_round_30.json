@@ -1,0 +1,307 @@
+{
+  "generated_texts": [
+    "In the app, how can I access the recently added card?",
+    "Can I make a payment using my Apple Watch?",
+    "What currencies are accepted for international transactions with this service?",
+    "I've noticed duplicate transactions on my account.",
+    "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.",
+    "Why hasn't my top-up request been processed successfully?",
+    "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system.",
+    "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?",
+    "Can I use my credit card to add funds to my account?",
+    "It's been a while since the top-up was replenished.",
+    "Why isn't my Apple Pay account functioning properly?",
+    "Duplicate transaction appearing on my account statement.",
+    "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?",
+    "I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?",
+    "Can I use my Mastercard to fund my account?",
+    "Are there any fees associated with exchanging foreign currency for local currency?",
+    "I'm planning a trip and need to convert some currency. Can I exchange my money for Euros through the app?",
+    "We've detected an unfamiliar payment.",
+    "Does your bank support transactions in my local currency?",
+    "When will my pending top-up be processed?",
+    "Can I access my card information within the app?",
+    "I'm missing a withdrawal from my account.",
+    "How long does it typically take for one of these items to arrive in the United States?",
+    "reversal of a top-up request",
+    "We're having trouble verifying a payment made at a store I didn't visit.",
+    "I'd like to add funds to my account using my credit card.",
+    "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge.",
+    "How long does it typically take for pending top-ups to be processed?",
+    "How can I use my credit card to add funds to my account?",
+    "Why was my cash withdrawal declined at the ATM?",
+    "What is the typical timeframe for processing international transfers from Europe?",
+    "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?",
+    "I'm attempting to finalize the purchase of a property and the initial mortgage payment is stuck. I'm encountering an issue with the transfer, and I'd appreciate it if you could help resolve this problem. What's causing the delay?"
+  ],
+  "generated_labels": [
+    13,
+    2,
+    36,
+    63,
+    20,
+    47,
+    61,
+    76,
+    62,
+    47,
+    2,
+    63,
+    53,
+    20,
+    54,
+    31,
+    33,
+    28,
+    36,
+    47,
+    13,
+    20,
+    12,
+    61,
+    16,
+    62,
+    63,
+    47,
+    62,
+    26,
+    67,
+    64,
+    35
+  ],
+  "source_texts": [
+    "In the app, how can I make it show the new card that arrived?",
+    "Can I add funds directly from my Apple Watch?",
+    "What types of foreign money can be used with this service.?",
+    "I have multiple of the same transaction",
+    "there is money in my account that i didnt put there",
+    "Is there a problem with the top up system? My transaction hasn't gone through properly",
+    "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+    "Can you check the exchange rate on a cash transaction I did overseas",
+    "Can a credit card be used to transfer money?",
+    "It's been some time since refilled the top-up.",
+    "Can you explain why my Google Pay Top isn't working?",
+    "Transaction showing up many times.",
+    "The money is still in my account even though I already paid -- I don't understand what happened.",
+    "I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out?",
+    "can i use my mastercard to add money to my account",
+    "Is there any cost to change foreign money to local?",
+    "I need to get some Euros for my holiday. Am I able to exchange some of my money?",
+    "I have an unknown charge.",
+    "Is my country's currency supported by your system?",
+    "When will my top up be approved?",
+    "Is there any way to see my card in the app?",
+    "There is money missing from my account.",
+    "What is the length of time for one of these items to come to the U.S?",
+    "top up cancellation",
+    "I think there's a purchase at a store that I didn't go to.",
+    "I need to transfer some money, can I use my credit card?",
+    "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+    "How long do top-ups take to go through",
+    "What do I need to do to transfer money with my credit card?",
+    "Why did the ATM cancel my transaction",
+    "I need to make a transfer from Europe, how many days does this take?",
+    "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+    "Hi, I'm trying to purchase a flat and I'm needing the first payment for the mortgage to go through on the flat I'm trying to buy. For some reason I keep getting an error.can you assist in making this transfer? What is going on?"
+  ],
+  "records": [
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "In the app, how can I make it show the new card that arrived?",
+      "generated": "In the app, how can I access the recently added card?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I add funds directly from my Apple Watch?",
+      "generated": "Can I make a payment using my Apple Watch?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What types of foreign money can be used with this service.?",
+      "generated": "What currencies are accepted for international transactions with this service?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have multiple of the same transaction",
+      "generated": "I've noticed duplicate transactions on my account."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "there is money in my account that i didnt put there",
+      "generated": "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Is there a problem with the top up system? My transaction hasn't gone through properly",
+      "generated": "Why hasn't my top-up request been processed successfully?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+      "generated": "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can you check the exchange rate on a cash transaction I did overseas",
+      "generated": "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can a credit card be used to transfer money?",
+      "generated": "Can I use my credit card to add funds to my account?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "It's been some time since refilled the top-up.",
+      "generated": "It's been a while since the top-up was replenished."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can you explain why my Google Pay Top isn't working?",
+      "generated": "Why isn't my Apple Pay account functioning properly?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Transaction showing up many times.",
+      "generated": "Duplicate transaction appearing on my account statement."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "The money is still in my account even though I already paid -- I don't understand what happened.",
+      "generated": "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out?",
+      "generated": "I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "can i use my mastercard to add money to my account",
+      "generated": "Can I use my Mastercard to fund my account?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Is there any cost to change foreign money to local?",
+      "generated": "Are there any fees associated with exchanging foreign currency for local currency?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I need to get some Euros for my holiday. Am I able to exchange some of my money?",
+      "generated": "I'm planning a trip and need to convert some currency. Can I exchange my money for Euros through the app?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I have an unknown charge.",
+      "generated": "We've detected an unfamiliar payment."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Is my country's currency supported by your system?",
+      "generated": "Does your bank support transactions in my local currency?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "When will my top up be approved?",
+      "generated": "When will my pending top-up be processed?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Is there any way to see my card in the app?",
+      "generated": "Can I access my card information within the app?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There is money missing from my account.",
+      "generated": "I'm missing a withdrawal from my account."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "What is the length of time for one of these items to come to the U.S?",
+      "generated": "How long does it typically take for one of these items to arrive in the United States?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "top up cancellation",
+      "generated": "reversal of a top-up request"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I think there's a purchase at a store that I didn't go to.",
+      "generated": "We're having trouble verifying a payment made at a store I didn't visit."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I need to transfer some money, can I use my credit card?",
+      "generated": "I'd like to add funds to my account using my credit card."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+      "generated": "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "How long do top-ups take to go through",
+      "generated": "How long does it typically take for pending top-ups to be processed?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What do I need to do to transfer money with my credit card?",
+      "generated": "How can I use my credit card to add funds to my account?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why did the ATM cancel my transaction",
+      "generated": "Why was my cash withdrawal declined at the ATM?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "I need to make a transfer from Europe, how many days does this take?",
+      "generated": "What is the typical timeframe for processing international transfers from Europe?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+      "generated": "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Hi, I'm trying to purchase a flat and I'm needing the first payment for the mortgage to go through on the flat I'm trying to buy. For some reason I keep getting an error.can you assist in making this transfer? What is going on?",
+      "generated": "I'm attempting to finalize the purchase of a property and the initial mortgage payment is stuck. I'm encountering an issue with the transfer, and I'd appreciate it if you could help resolve this problem. What's causing the delay?"
+    }
+  ]
+}

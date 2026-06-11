@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "Can you please clarify how I can confirm the origin of the funds?",
+    "We're verifying your identity to ensure the security and integrity of your account.",
+    "Who is eligible for assistance?",
+    "The machine gave me a hundred dollars, but I was expecting twenty.",
+    "What steps can I take to extend the validity of my card?",
+    "The amount of $1.00 remains outstanding, as previously mentioned in our previous communication.",
+    "I expected a better exchange rate for my cash withdrawal.",
+    "what's the purpose of verifying my identity",
+    "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.",
+    "What is the charge for receiving a bank transfer via SEPA?",
+    "Could you please provide me with tracking information for my card arrival?",
+    "I urgently require access to an ATM.",
+    "I was expecting a larger amount, but I only received $20.00.",
+    "Will the automatic top-up feature trigger a refill when my account balance reaches zero?",
+    "What are the ways to identify a Mastercard ATM?",
+    "Why did my contactless payment fail to work at the metro station?",
+    "what is the exchange rate for a cash withdrawal on a weekend?",
+    "I made a withdrawal at an ATM, but the amount reflected in the app is not what I actually received.",
+    "How can I replenish my account balance using a cheque or cash?",
+    "What details do I need to provide to complete a card-based transfer?",
+    "I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction appears to be pending, and I'm concerned that I might be charged for a transaction I didn't authorize.",
+    "I'm having trouble using my new card to make payments, and it keeps getting declined. I've tried to use it multiple times to pay for gas at the Shell station near my home, but it's not working. I'm really frustrated about this issue with my new card.",
+    "What is the length of the top-up verification code?",
+    "This transaction requires both a Visa and a Mastercard.",
+    "Can you explain why my top-up request is still pending?",
+    "We're verifying your identity to ensure the security and integrity of your account.",
+    "I expected my new card to arrive by now.",
+    "The payment using my card was not accepted in the store.",
+    "What about my minors?",
+    "What are the fees for receiving bank transfers via SEPA?",
+    "Confirming the top-up process appears to be a bit of a chore.",
+    "what can I do to prevent being charged a fee on my card in the future?",
+    "Are there additional fees for exchanging funds?",
+    "Has there been any recent use or transactions on my card?",
+    "Can I receive the physical card separately?",
+    "How can I confirm my account's default currency, as I receive payments in British Pounds?",
+    "I'm having trouble finding the verification code for my recent top-up."
+  ],
+  "generated_labels": [
+    70,
+    74,
+    24,
+    75,
+    9,
+    34,
+    76,
+    69,
+    15,
+    56,
+    11,
+    3,
+    75,
+    4,
+    3,
+    23,
+    76,
+    75,
+    58,
+    62,
+    46,
+    25,
+    71,
+    73,
+    47,
+    74,
+    11,
+    25,
+    1,
+    56,
+    71,
+    15,
+    31,
+    41,
+    38,
+    50,
+    71
+  ],
+  "source_texts": [
+    "how do i track the moeney",
+    "Why do I have to give you my drivers license",
+    "Who gets support?",
+    "The machine only paid me a hundred when I wanted 20",
+    "How do I get a new expiration date?",
+    "The $1.00 has still not been reverted as indicated in the previous email.",
+    "I thought I was going to receive more currency?",
+    "why do I need to show ID",
+    "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+    "What does it cost to receive a SEPA transfer?",
+    "Was there a way for me to get tracking for that?",
+    "I need an ATM right now!",
+    "why did i only get 20.00",
+    "Will the system automatically update once there is no more money left?",
+    "How do I know it is a Mastercard ATM?",
+    "Why wasn't my contactless accepted at the metro?",
+    "what are weekend rates for getting cash",
+    "Did a WD earlier at an ATM.  The amount showing in the App is more than I got though.",
+    "How can I fill up my gas tank using a check?",
+    "What information am I going to have to have in order to do a transfer with my card?",
+    "I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make.",
+    "Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working.",
+    "How many digits identify the top-up verification code?",
+    "This transaction needs both a Visa and a Mastercard.",
+    "Can you tell me why my pop-up is still pending?",
+    "Why are you asking so many questions about me?",
+    "I thought I would have received my new card at this point.",
+    "I couldn't pay with card in a shop",
+    "What about my children?",
+    "What are the charges for recieving SEPA transfers?",
+    "Verifying the top-up seems like a hassle.",
+    "how do i avoid charges in the future",
+    "Do I have to pay more for exchanges?",
+    "Has there been any activity on my card today?",
+    "Is the PIN sent in another message?",
+    "How do I know what my account is set to, I am paid in GBP?",
+    "I don't see the verification code for my card transfer."
+  ],
+  "records": [
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "how do i track the moeney",
+      "generated": "Can you please clarify how I can confirm the origin of the funds?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why do I have to give you my drivers license",
+      "generated": "We're verifying your identity to ensure the security and integrity of your account."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Who gets support?",
+      "generated": "Who is eligible for assistance?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "The machine only paid me a hundred when I wanted 20",
+      "generated": "The machine gave me a hundred dollars, but I was expecting twenty."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How do I get a new expiration date?",
+      "generated": "What steps can I take to extend the validity of my card?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "The $1.00 has still not been reverted as indicated in the previous email.",
+      "generated": "The amount of $1.00 remains outstanding, as previously mentioned in our previous communication."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I thought I was going to receive more currency?",
+      "generated": "I expected a better exchange rate for my cash withdrawal."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "why do I need to show ID",
+      "generated": "what's the purpose of verifying my identity"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+      "generated": "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "What does it cost to receive a SEPA transfer?",
+      "generated": "What is the charge for receiving a bank transfer via SEPA?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Was there a way for me to get tracking for that?",
+      "generated": "Could you please provide me with tracking information for my card arrival?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need an ATM right now!",
+      "generated": "I urgently require access to an ATM."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "why did i only get 20.00",
+      "generated": "I was expecting a larger amount, but I only received $20.00."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Will the system automatically update once there is no more money left?",
+      "generated": "Will the automatic top-up feature trigger a refill when my account balance reaches zero?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How do I know it is a Mastercard ATM?",
+      "generated": "What are the ways to identify a Mastercard ATM?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Why wasn't my contactless accepted at the metro?",
+      "generated": "Why did my contactless payment fail to work at the metro station?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "what are weekend rates for getting cash",
+      "generated": "what is the exchange rate for a cash withdrawal on a weekend?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Did a WD earlier at an ATM.  The amount showing in the App is more than I got though.",
+      "generated": "I made a withdrawal at an ATM, but the amount reflected in the app is not what I actually received."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How can I fill up my gas tank using a check?",
+      "generated": "How can I replenish my account balance using a cheque or cash?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What information am I going to have to have in order to do a transfer with my card?",
+      "generated": "What details do I need to provide to complete a card-based transfer?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make.",
+      "generated": "I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction appears to be pending, and I'm concerned that I might be charged for a transaction I didn't authorize."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working.",
+      "generated": "I'm having trouble using my new card to make payments, and it keeps getting declined. I've tried to use it multiple times to pay for gas at the Shell station near my home, but it's not working. I'm really frustrated about this issue with my new card."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "How many digits identify the top-up verification code?",
+      "generated": "What is the length of the top-up verification code?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "This transaction needs both a Visa and a Mastercard.",
+      "generated": "This transaction requires both a Visa and a Mastercard."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Can you tell me why my pop-up is still pending?",
+      "generated": "Can you explain why my top-up request is still pending?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why are you asking so many questions about me?",
+      "generated": "We're verifying your identity to ensure the security and integrity of your account."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I thought I would have received my new card at this point.",
+      "generated": "I expected my new card to arrive by now."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I couldn't pay with card in a shop",
+      "generated": "The payment using my card was not accepted in the store."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "What about my children?",
+      "generated": "What about my minors?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "What are the charges for recieving SEPA transfers?",
+      "generated": "What are the fees for receiving bank transfers via SEPA?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Verifying the top-up seems like a hassle.",
+      "generated": "Confirming the top-up process appears to be a bit of a chore."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "how do i avoid charges in the future",
+      "generated": "what can I do to prevent being charged a fee on my card in the future?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do I have to pay more for exchanges?",
+      "generated": "Are there additional fees for exchanging funds?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Has there been any activity on my card today?",
+      "generated": "Has there been any recent use or transactions on my card?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Is the PIN sent in another message?",
+      "generated": "Can I receive the physical card separately?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How do I know what my account is set to, I am paid in GBP?",
+      "generated": "How can I confirm my account's default currency, as I receive payments in British Pounds?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I don't see the verification code for my card transfer.",
+      "generated": "I'm having trouble finding the verification code for my recent top-up."
+    }
+  ]
+}

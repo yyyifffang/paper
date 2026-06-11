@@ -1,0 +1,38 @@
+GEN | [terminate_account] | Orig: What are the steps to finishing up with this account? -> Aug: How do I go about closing this account?
+GEN | [exchange_via_app] | Orig: I accidentally chose to exchange GBP, but I need to pick AUD. How can I change it? -> Aug: I mistakenly selected GBP for the exchange, but I'd like to switch to AUD instead. Can I modify the exchange rate?
+GEN | [verify_my_identity] | Orig: why do I need to show ID -> Aug: what's the purpose of verifying my identity
+GEN | [virtual_card_not_working] | Orig: Why can't I make multiple payments with my virtual card? -> Aug: Why am I unable to process multiple transactions using my virtual card?
+GEN | [why_verify_identity] | Orig: Why are you asking so many questions about me? -> Aug: We're verifying your identity to ensure the security and integrity of your account.
+GEN | [card_acceptance] | Orig: Can I use my card for online payments? -> Aug: Is my credit card accepted for online transactions?
+GEN | [top_up_limits] | Orig: It seems I need to get information on limits for top-ups. -> Aug: Can you provide details about the limits for making deposits or adding funds to my account?
+GEN | [exchange_via_app] | Orig: I can't figure out how to change GBP to AUD, what do I do? -> Aug: I'm having trouble converting my GBP to AUD, can you help me with that?
+GEN | [top_up_failed] | Orig: I can't add any more money. -> Aug: I'm unable to make a successful top-up.
+GEN | [card_acceptance] | Orig: Can I pay online with my card? -> Aug: Is it possible to make an online payment using my credit/debit card?
+GEN | [transfer_into_account] | Orig: show me how to transfer to my account -> Aug: display the process for transferring funds into my account
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I use a check to get gas? -> Aug: Can I use a cheque to top up my account?
+GEN | [passcode_forgotten] | Orig: Can you tell me my code to get into the app? -> Aug: I forgot my passcode to access the app, can you help me retrieve it?
+GEN | [why_verify_identity] | Orig: I don't understand why you want so much of my personal info. -> Aug: I'm curious, what's the purpose behind requesting all this personal information?
+GEN | [card_payment_not_recognised] | Orig: I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card. -> Aug: I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card usage.
+GEN | [top_up_reverted] | Orig: Reasons for top up cancellation. -> Aug: Reasons for reversal of top-up transaction.
+GEN | [change_pin] | Orig: Can I change my in at all ATM's? -> Aug: Can I modify my PIN at any ATM location?
+GEN | [card_linking] | Orig: Can I put my old card back in the app? -> Aug: Can I reactivate my previous card in the app?
+GEN | [pending_top_up] | Orig: I do not think the pop up went through yet. -> Aug: I'm not sure if the top-up request has been processed successfully.
+GEN | [card_payment_fee_charged] | Orig: how do i avoid charges in the future -> Aug: what can I do to prevent being charged a fee on my card in the future?
+GEN | [exchange_via_app] | Orig: Can I use this app to change money? -> Aug: Can I make a currency exchange using this mobile app?
+GEN | [card_payment_fee_charged] | Orig: I had to pay money for paying with my card. -> Aug: I was charged a fee for using my card to make the payment.
+GEN | [topping_up_by_card] | Orig: what happened to the money after i put in the wrong info and it got declined -> Aug: what happened to the funds after I entered incorrect details and the transaction was declined using my card?
+GEN | [wrong_amount_of_cash_received] | Orig: Help, your app is showing a larger WD than I actually did earlier at an ATM. -> Aug: The app is displaying a higher withdrawal amount than what I physically deposited at the ATM.
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I purchase with cash or cheque? -> Aug: May I pay using cash or by cheque?
+GEN | [card_linking] | Orig: I have one of your cards, but I don't know how to link it. -> Aug: I'm having trouble linking one of my cards to my account.
+GEN | [exchange_via_app] | Orig: My plans may change so I may need to change from GBP to AUD. -> Aug: My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars.
+GEN | [pending_top_up] | Orig: Needed gas, been delayed for half an hour.Please fix it! -> Aug: Required urgent top-up, experiencing a 30-minute delay. Please resolve this issue as soon as possible!
+GEN | [wrong_amount_of_cash_received] | Orig: There was a limited amount of money available at the time of my transaction. -> Aug: There was insufficient cash available at the time of my transaction.
+GEN | [card_arrival] | Orig: Was there a number to track that I could get? -> Aug: Is there a tracking number I can use to monitor the status of my card arrival?
+GEN | [virtual_card_not_working] | Orig: What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym? -> Aug: The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me.
+GEN | [top_up_by_cash_or_cheque] | Orig: Will a cheque suffice? -> Aug: Can I use a cheque to make a payment?
+GEN | [pending_cash_withdrawal] | Orig: Explain pending transactions. -> Aug: Describe outstanding cash withdrawal requests.
+GEN | [exchange_via_app] | Orig: I no longer need AUD, I need GBP instead, how can I make this happen? -> Aug: I'd like to exchange my AUD for GBP, is there a way to do this through the app?
+GEN | [disposable_card_limits] | Orig: Help me create several temp cards every day. -> Aug: Can you assist me in generating multiple temporary cards daily?
+GEN | [reverted_card_payment?] | Orig: What happens if a merchant doesn't accept  you payment? -> Aug: What happens if a payment to a merchant is declined or reversed?
+GEN | [top_up_by_cash_or_cheque] | Orig: Who do I make a check out to if I want to top off my account? -> Aug: What is the payee's name if I wish to replenish my account balance using a check?
+GEN | [exchange_via_app] | Orig: I may no longer need GBP, but instead I will need AUD, how can I go about making this change? -> Aug: I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?

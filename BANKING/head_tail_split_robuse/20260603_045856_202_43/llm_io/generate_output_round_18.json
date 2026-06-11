@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Can I make a withdrawal from my account using my card?",
+    "is there a charge for topping up my card balance?",
+    "What methods are available for depositing funds into my account using my American Express card?",
+    "Is there a fee for topping up my account via bank transfer?",
+    "A charge is showing for a transfer transaction.",
+    "what is the charge for topping up my account using my card?",
+    "I made an online purchase and noticed that a transfer fee was deducted from the transaction. Shouldn't this be a free service?",
+    "How can I add funds to my account using my card?",
+    "I'm having trouble remembering my passcode to access the app.",
+    "I'm surprised to see a fee applied to my transfer.",
+    "Can you please provide me with the source of my funds?",
+    "Can I set up recurring deposits to my account, so I can maintain a steady balance while I'm away on my trip?",
+    "You can replenish your card balance by depositing cash or cheque.",
+    "How can I confirm the details of my top-up card?",
+    "Can I deposit funds into my account if you don't accept cash?",
+    "Google Pay is not recognizing my American Express card, can you help me resolve this issue?",
+    "What payment methods or currencies are accepted for transactions?",
+    "How do I go about charging my card to top up my account?",
+    "There's an unexpected cash withdrawal showing up on my account.",
+    "How can I use my card for payment?",
+    "If I already have a credit card account with your bank, how do I go about linking it to my profile?",
+    "What areas can I expect to find merchants that accept my card?",
+    "You can replenish your account balance using either cash or cheque payment methods.",
+    "I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?",
+    "I require assistance with topping up my account using cash.",
+    "I recently initiated a transfer from my UK account, but my account balance hasn't been updated yet. Can you please let me know what's causing the delay?",
+    "display the process for transferring funds into my account",
+    "Please dispatch a replacement card; I think I've lost the one I had, as it seems to have been swallowed by the ATM.",
+    "What should I do about my jammed ATM card?",
+    "Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination.",
+    "We've noticed a direct debit payment that doesn't seem to be recognized in your account records.",
+    "I expected a better exchange rate for my cash withdrawal.",
+    "Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time.",
+    "I misplaced my wallet, which contained all my credit cards.",
+    "I'd like to receive my card as soon as possible.",
+    "Is there a specific limit beyond which I would no longer be able to increase my limits by topping up?"
+  ],
+  "generated_labels": [
+    3,
+    57,
+    54,
+    56,
+    64,
+    57,
+    64,
+    62,
+    44,
+    64,
+    70,
+    4,
+    58,
+    71,
+    58,
+    2,
+    54,
+    57,
+    20,
+    10,
+    13,
+    10,
+    58,
+    5,
+    58,
+    5,
+    65,
+    18,
+    18,
+    5,
+    28,
+    76,
+    48,
+    41,
+    12,
+    60
+  ],
+  "source_texts": [
+    "Can I use my card to withdraw from my account?",
+    "is it free to add money to my card",
+    "How can I get funds into my account from my American Express?",
+    "Does it cost me to add cash?",
+    "I have a fee listed for a transfer.",
+    "how much does it cost to add money",
+    "I bought something online and it says there was a fee to transfer money. Isn't that free?",
+    "How do I to up by card?",
+    "Please help me.  I don't know my code to get into the app.",
+    "I shouldn't be charged any fee for transferring .",
+    "where can I get the info for my funds",
+    "Can I add money in intervals to my account?  I will be traveling.",
+    "How can I add physical money to my card?",
+    "How do i secure a top-up card?",
+    "how can i add money to my account if you don't accept cash",
+    "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+    "What card or currency can I use to pay?",
+    "Can I get information on topping up?",
+    "Some cash shows up on my app.",
+    "Where do I pay with my card?",
+    "If I have a credit card with you how I get set up to link to it?",
+    "How can I know where my card will be accepted?",
+    "What are my payment options for topping off my account?",
+    "Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.",
+    "I need a hand here, I need to top up cash.",
+    "How long does a transfer from a UK account take? I just made one and it doesn't seem to be working, wondering if everything is okay",
+    "show me how to transfer to my account",
+    "Please send a new card; the ATM ate mine.",
+    "What should I do with my stuck ATM?",
+    "Please check to see if the band transfer I made a while ago from my UK account has safely arrived.",
+    "Why is there a direct debit set up in my name?",
+    "I thought I was going to receive more currency?",
+    "As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far.",
+    "I lost my wallet and all my cards were in it.",
+    "I need my card as quick as possible",
+    "Is there any amount in which I would get cut off from topping up?"
+  ],
+  "records": [
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I use my card to withdraw from my account?",
+      "generated": "Can I make a withdrawal from my account using my card?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "is it free to add money to my card",
+      "generated": "is there a charge for topping up my card balance?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "How can I get funds into my account from my American Express?",
+      "generated": "What methods are available for depositing funds into my account using my American Express card?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Does it cost me to add cash?",
+      "generated": "Is there a fee for topping up my account via bank transfer?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I have a fee listed for a transfer.",
+      "generated": "A charge is showing for a transfer transaction."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how much does it cost to add money",
+      "generated": "what is the charge for topping up my account using my card?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I bought something online and it says there was a fee to transfer money. Isn't that free?",
+      "generated": "I made an online purchase and noticed that a transfer fee was deducted from the transaction. Shouldn't this be a free service?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I to up by card?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Please help me.  I don't know my code to get into the app.",
+      "generated": "I'm having trouble remembering my passcode to access the app."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I shouldn't be charged any fee for transferring .",
+      "generated": "I'm surprised to see a fee applied to my transfer."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "where can I get the info for my funds",
+      "generated": "Can you please provide me with the source of my funds?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money in intervals to my account?  I will be traveling.",
+      "generated": "Can I set up recurring deposits to my account, so I can maintain a steady balance while I'm away on my trip?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How can I add physical money to my card?",
+      "generated": "You can replenish your card balance by depositing cash or cheque."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "How do i secure a top-up card?",
+      "generated": "How can I confirm the details of my top-up card?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how can i add money to my account if you don't accept cash",
+      "generated": "Can I deposit funds into my account if you don't accept cash?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+      "generated": "Google Pay is not recognizing my American Express card, can you help me resolve this issue?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What card or currency can I use to pay?",
+      "generated": "What payment methods or currencies are accepted for transactions?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Can I get information on topping up?",
+      "generated": "How do I go about charging my card to top up my account?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Some cash shows up on my app.",
+      "generated": "There's an unexpected cash withdrawal showing up on my account."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my card?",
+      "generated": "How can I use my card for payment?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "If I have a credit card with you how I get set up to link to it?",
+      "generated": "If I already have a credit card account with your bank, how do I go about linking it to my profile?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "How can I know where my card will be accepted?",
+      "generated": "What areas can I expect to find merchants that accept my card?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What are my payment options for topping off my account?",
+      "generated": "You can replenish your account balance using either cash or cheque payment methods."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.",
+      "generated": "I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I need a hand here, I need to top up cash.",
+      "generated": "I require assistance with topping up my account using cash."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How long does a transfer from a UK account take? I just made one and it doesn't seem to be working, wondering if everything is okay",
+      "generated": "I recently initiated a transfer from my UK account, but my account balance hasn't been updated yet. Can you please let me know what's causing the delay?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "show me how to transfer to my account",
+      "generated": "display the process for transferring funds into my account"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "Please send a new card; the ATM ate mine.",
+      "generated": "Please dispatch a replacement card; I think I've lost the one I had, as it seems to have been swallowed by the ATM."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "What should I do with my stuck ATM?",
+      "generated": "What should I do about my jammed ATM card?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Please check to see if the band transfer I made a while ago from my UK account has safely arrived.",
+      "generated": "Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Why is there a direct debit set up in my name?",
+      "generated": "We've noticed a direct debit payment that doesn't seem to be recognized in your account records."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I thought I was going to receive more currency?",
+      "generated": "I expected a better exchange rate for my cash withdrawal."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far.",
+      "generated": "Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I lost my wallet and all my cards were in it.",
+      "generated": "I misplaced my wallet, which contained all my credit cards."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card as quick as possible",
+      "generated": "I'd like to receive my card as soon as possible."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is there any amount in which I would get cut off from topping up?",
+      "generated": "Is there a specific limit beyond which I would no longer be able to increase my limits by topping up?"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Can I retrieve a physical credit card?",
+    "Can I reactivate my existing card or do I need to request a new one for use with the app?",
+    "Can I request a spare card in my daughter's name, which will be linked to my account?",
+    "I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully",
+    "is there a charge for topping up my card balance?",
+    "I'm having trouble finishing the activation process for my card.",
+    "I've misplaced my passcode",
+    "Is my credit card being rejected anywhere?",
+    "I'd like to request a physical card that I can physically possess, how can I go about ordering one?",
+    "What is the process and timeline for replacing an expiring card?",
+    "I require a large quantity of disposable cards daily, and I'd like the ability to discard them as needed.",
+    "What methods are available for transferring funds from my American Express card?",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate.",
+    "A transfer is currently in the process of being processed",
+    "I'm still waiting to see the refund from a recent transaction with a merchant. Can you check if it's been credited to my account yet?",
+    "The exchange rate used for my recent transaction appears to be incorrect.",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution.",
+    "Is there a fee associated with obtaining a replacement card, as mine is nearing its expiration date, and I'd also appreciate knowing how long it takes to receive the new one?",
+    "What's the process for converting currencies?",
+    "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge.",
+    "Is there a fee for topping up my account via bank transfer?",
+    "Can you confirm if my top-up was unsuccessful? It appears it didn't go through.",
+    "What types of fiat currencies can I store in my account?",
+    "When will my pending top-up be processed?",
+    "The exchange rate you're using seems incorrect. It's not the standard interbank rate.",
+    "I'd like to be informed when an extra charge is applied to my payment. I recently checked the app and noticed an additional fee associated with one of the transactions. I was not notified about this beforehand.",
+    "Can I initiate transactions before completing the identity verification process?",
+    "A fee has been added to your statement.",
+    "How do I reactivate my new credit card?",
+    "When will my pending top-up be processed?",
+    "Must I include my income?",
+    "The card is not functioning properly and won't be recognized by the payment terminal.",
+    "I made a purchase and settled the payment, but the item is still missing.",
+    "I didn't reverse my top-up.",
+    "Can I access my card information within the app?",
+    "Can I initiate transactions before completing the identity verification process?"
+  ],
+  "generated_labels": [
+    43,
+    13,
+    39,
+    62,
+    57,
+    0,
+    44,
+    10,
+    43,
+    9,
+    29,
+    54,
+    17,
+    48,
+    51,
+    17,
+    17,
+    9,
+    32,
+    63,
+    56,
+    59,
+    36,
+    47,
+    17,
+    15,
+    74,
+    34,
+    0,
+    47,
+    50,
+    14,
+    53,
+    61,
+    13,
+    74
+  ],
+  "source_texts": [
+    "Can I revive a physical card.",
+    "Will I need a new card or can I put my old card back into the app?",
+    "Can my daughter also have a card issued in her name, but linked to my account?",
+    "I tried topping off my account with a card, but the money is not in my account despite the charge going through",
+    "is it free to add money to my card",
+    "I couldn't complete card activation.",
+    "I forgot my code",
+    "Is my card denied anywhere?",
+    "I need an actual card that I can hold in my hand, how do I do that?",
+    "What is the cost and time frame of getting a new card?",
+    "I need several cards per day. And I need to be able to throw away all of the cards I make.",
+    "how can i transfer money from american express card",
+    "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+    "I have a pending transaction",
+    "Are the funds I requested from a merchant a few days ago in my account? I do not see them.",
+    "my exchange rate looks wrong for my last payment",
+    "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+    "Does it cost anything to get a new card? Mine's about to expire and I'd also like to know how long it takes to get the new one.",
+    "How do you do exchanges?",
+    "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+    "Does it cost me to add cash?",
+    "Can I tell if my top off didn't work?  It doesn't seem to have.",
+    "What kind of money can I hold?",
+    "When will my top up be applied?",
+    "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+    "I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before.",
+    "Can I make transfers before my identity verification?",
+    "$1 charge in transaction.",
+    "Tell me how to renew my new card?",
+    "When will my top up be approved?",
+    "Do I need to add my salary?",
+    "Why won't the machine accept my card anymore?",
+    "I bought something and already paid for it but now I don't see it.",
+    "I didn't cancel my top-up.",
+    "Is there any way to see my card in the app?",
+    "Can i make transactions before identity verification?"
+  ],
+  "records": [
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can I revive a physical card.",
+      "generated": "Can I retrieve a physical credit card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Will I need a new card or can I put my old card back into the app?",
+      "generated": "Can I reactivate my existing card or do I need to request a new one for use with the app?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can my daughter also have a card issued in her name, but linked to my account?",
+      "generated": "Can I request a spare card in my daughter's name, which will be linked to my account?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I tried topping off my account with a card, but the money is not in my account despite the charge going through",
+      "generated": "I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "is it free to add money to my card",
+      "generated": "is there a charge for topping up my card balance?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I couldn't complete card activation.",
+      "generated": "I'm having trouble finishing the activation process for my card."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I forgot my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is my card denied anywhere?",
+      "generated": "Is my credit card being rejected anywhere?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need an actual card that I can hold in my hand, how do I do that?",
+      "generated": "I'd like to request a physical card that I can physically possess, how can I go about ordering one?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What is the cost and time frame of getting a new card?",
+      "generated": "What is the process and timeline for replacing an expiring card?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "I need several cards per day. And I need to be able to throw away all of the cards I make.",
+      "generated": "I require a large quantity of disposable cards daily, and I'd like the ability to discard them as needed."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "how can i transfer money from american express card",
+      "generated": "What methods are available for transferring funds from my American Express card?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have a pending transaction",
+      "generated": "A transfer is currently in the process of being processed"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Are the funds I requested from a merchant a few days ago in my account? I do not see them.",
+      "generated": "I'm still waiting to see the refund from a recent transaction with a merchant. Can you check if it's been credited to my account yet?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "my exchange rate looks wrong for my last payment",
+      "generated": "The exchange rate used for my recent transaction appears to be incorrect."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Does it cost anything to get a new card? Mine's about to expire and I'd also like to know how long it takes to get the new one.",
+      "generated": "Is there a fee associated with obtaining a replacement card, as mine is nearing its expiration date, and I'd also appreciate knowing how long it takes to receive the new one?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "How do you do exchanges?",
+      "generated": "What's the process for converting currencies?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+      "generated": "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Does it cost me to add cash?",
+      "generated": "Is there a fee for topping up my account via bank transfer?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Can I tell if my top off didn't work?  It doesn't seem to have.",
+      "generated": "Can you confirm if my top-up was unsuccessful? It appears it didn't go through."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What kind of money can I hold?",
+      "generated": "What types of fiat currencies can I store in my account?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "When will my top up be applied?",
+      "generated": "When will my pending top-up be processed?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems incorrect. It's not the standard interbank rate."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before.",
+      "generated": "I'd like to be informed when an extra charge is applied to my payment. I recently checked the app and noticed an additional fee associated with one of the transactions. I was not notified about this beforehand."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can I make transfers before my identity verification?",
+      "generated": "Can I initiate transactions before completing the identity verification process?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "$1 charge in transaction.",
+      "generated": "A fee has been added to your statement."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Tell me how to renew my new card?",
+      "generated": "How do I reactivate my new credit card?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "When will my top up be approved?",
+      "generated": "When will my pending top-up be processed?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do I need to add my salary?",
+      "generated": "Must I include my income?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why won't the machine accept my card anymore?",
+      "generated": "The card is not functioning properly and won't be recognized by the payment terminal."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I bought something and already paid for it but now I don't see it.",
+      "generated": "I made a purchase and settled the payment, but the item is still missing."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I didn't cancel my top-up.",
+      "generated": "I didn't reverse my top-up."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Is there any way to see my card in the app?",
+      "generated": "Can I access my card information within the app?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can i make transactions before identity verification?",
+      "generated": "Can I initiate transactions before completing the identity verification process?"
+    }
+  ]
+}

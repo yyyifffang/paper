@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "At what point does the account balance need to reach before the automatic top-up feature kicks in?",
+    "My rent payment is scheduled to be withdrawn tomorrow, but I made an error with the payment yesterday. Could you please correct the transfer to the correct account?",
+    "This transaction requires both a Visa and a Mastercard.",
+    "Hello, I'm having some trouble with the app. I'm trying to exchange cryptocurrency, but it's not working as expected. I'm eager to make a purchase.",
+    "I'm still waiting for the transfer to reach the recipient.",
+    "I have a preference for Mastercard.",
+    "I'm still waiting for the transfer to be successfully delivered to the recipient.",
+    "I'd prefer a Visa, if possible.",
+    "When can I expect a pending card payment to be processed and move to an authorized status?",
+    "If I'm not actively using my account, should I cancel it or simply leave it inactive?",
+    "Can I withdraw cash from my home country using one of your machines while I'm on holiday? I'm worried about not having any local currency with me and would like to know if I'll be charged a fee for this service.",
+    "halt the transfer",
+    "I'd like to stop the transfer process and cancel the transaction.",
+    "I require additional physical debit/credit cards to have a sufficient supply.",
+    "Could you inform me when you deduct extra charges for transactions? I recently checked the app and noticed an unexpected fee on one of the payments, which I wasn't aware of beforehand.",
+    "I'm expecting my transfer to be received by the recipient.",
+    "I'd like to confirm whether you accept Visa or Mastercard.",
+    "can i reach out to customer support if i'm having trouble updating my personal information?",
+    "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.",
+    "I'd like to obtain extra physical debit/credit cards right now",
+    "I'm content with Mastercard and would prefer to continue using only that Visa or Mastercard.",
+    "We're having trouble identifying your direct debit payment.",
+    "I'm concerned about a recent transaction - I made a purchase with my card a few weeks ago, but the same amount is now appearing in my account. I'm not sure what's going on, but I'd appreciate it if you could help me understand why I'm seeing this unexpected deposit.",
+    "I require both a Visa and a Mastercard from your institution.",
+    "I've just noticed an error with the transfer I initiated yesterday. Could you assist me in correcting it to the correct account? It's a rent payment and it's crucial that it's processed in the correct account by tomorrow.",
+    "when can I expect the top-up amount to be credited to my account balance?",
+    "i requested $100, but I was given $80 instead",
+    "How long will the extra charge appear as pending on my statement?",
+    "I was expecting to receive the full amount of $100, but instead, I only got $20.",
+    "Can you expedite the correction of a mistaken payment made to the wrong account yesterday, as it's crucial to rectify it by tomorrow for my rent payment?",
+    "I'd rather use Mastercard.",
+    "I've changed my mind about the transfer I initiated yesterday. Could you please cancel it and correct the mistake? I'd appreciate it if you could take care of it by tomorrow.",
+    "When can I expect my transfer to reach the recipient?",
+    "Why can't I use my American Express card to fund my account?",
+    "I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction appears to be pending, and I'm concerned that I might be charged for a transaction I didn't authorize."
+  ],
+  "generated_labels": [
+    4,
+    8,
+    73,
+    7,
+    66,
+    73,
+    66,
+    73,
+    45,
+    55,
+    76,
+    8,
+    8,
+    39,
+    15,
+    66,
+    73,
+    30,
+    15,
+    39,
+    73,
+    28,
+    53,
+    73,
+    8,
+    47,
+    75,
+    34,
+    75,
+    8,
+    73,
+    8,
+    66,
+    54,
+    46
+  ],
+  "source_texts": [
+    "How low does the balance have to be before the system updates?",
+    "Help please!  My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account?",
+    "This transaction needs both a Visa and a Mastercard.",
+    "Hi,  Is there any problem with app? As i am facing some issues with the exchange of crypto currency. I am extremely interested in buying.",
+    "I am just waiting for the transaction to be completed.",
+    "Mastercard is preferred to me.",
+    "I am just waiting on the completion of the transaction.",
+    "I want a Mastercard, instead.",
+    "How long does it take for a purchase to go from pending to authorised?",
+    "if im not using my account should i close it or just let it sit",
+    "Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this?",
+    "stop the transaction",
+    "I don't need to transfer anymore and I want to cancel it.",
+    "I need more physical cards than I have right now!",
+    "Let me know when you charge extra for payments please. I just checked the app earlier when I saw that there was an additional fee on one of the payments that I wasn't warned about before.",
+    "I'm waiting for my transaction to complete.",
+    "I would like to know if you use Visa or Mastercard.",
+    "should i contact customer support if i can't edit details",
+    "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+    "I would like to get additional physical cards at this time",
+    "I'm happy with Mastercard and want to stick with just that credit card.",
+    "what is the matter?",
+    "I've got a problem - I bought something with my card one or two weeks ago, but now exact same amount of the purchase is showing up in my account. I like more money in my account, but this is too good to be true. Can you tell me what's happening?",
+    "I need a Visa and a Mastercard from you.",
+    "I just realised I made the wrong payment yesterday. Can you please change it to the right account? It's my rent payment and really really needs to be in the right account by tomorrow",
+    "how long does it take to reflect in my balance a top up",
+    "i asked for 100 only got 80",
+    "How long will the $1 charge show as pending?",
+    "how come when i asked for 100 it only gave me 20.00 in the app",
+    "How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+    "I'd prefer Mastercard.",
+    "I just realized I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow.",
+    "How long will my transaction take?",
+    "why don't you accept american express for adding money to my account",
+    "I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make."
+  ],
+  "records": [
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How low does the balance have to be before the system updates?",
+      "generated": "At what point does the account balance need to reach before the automatic top-up feature kicks in?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Help please!  My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account?",
+      "generated": "My rent payment is scheduled to be withdrawn tomorrow, but I made an error with the payment yesterday. Could you please correct the transfer to the correct account?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "This transaction needs both a Visa and a Mastercard.",
+      "generated": "This transaction requires both a Visa and a Mastercard."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Hi,  Is there any problem with app? As i am facing some issues with the exchange of crypto currency. I am extremely interested in buying.",
+      "generated": "Hello, I'm having some trouble with the app. I'm trying to exchange cryptocurrency, but it's not working as expected. I'm eager to make a purchase."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I am just waiting for the transaction to be completed.",
+      "generated": "I'm still waiting for the transfer to reach the recipient."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Mastercard is preferred to me.",
+      "generated": "I have a preference for Mastercard."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I am just waiting on the completion of the transaction.",
+      "generated": "I'm still waiting for the transfer to be successfully delivered to the recipient."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I want a Mastercard, instead.",
+      "generated": "I'd prefer a Visa, if possible."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it take for a purchase to go from pending to authorised?",
+      "generated": "When can I expect a pending card payment to be processed and move to an authorized status?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "if im not using my account should i close it or just let it sit",
+      "generated": "If I'm not actively using my account, should I cancel it or simply leave it inactive?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this?",
+      "generated": "Can I withdraw cash from my home country using one of your machines while I'm on holiday? I'm worried about not having any local currency with me and would like to know if I'll be charged a fee for this service."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "stop the transaction",
+      "generated": "halt the transfer"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I don't need to transfer anymore and I want to cancel it.",
+      "generated": "I'd like to stop the transfer process and cancel the transaction."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I need more physical cards than I have right now!",
+      "generated": "I require additional physical debit/credit cards to have a sufficient supply."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Let me know when you charge extra for payments please. I just checked the app earlier when I saw that there was an additional fee on one of the payments that I wasn't warned about before.",
+      "generated": "Could you inform me when you deduct extra charges for transactions? I recently checked the app and noticed an unexpected fee on one of the payments, which I wasn't aware of beforehand."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I'm waiting for my transaction to complete.",
+      "generated": "I'm expecting my transfer to be received by the recipient."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I would like to know if you use Visa or Mastercard.",
+      "generated": "I'd like to confirm whether you accept Visa or Mastercard."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "should i contact customer support if i can't edit details",
+      "generated": "can i reach out to customer support if i'm having trouble updating my personal information?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+      "generated": "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I would like to get additional physical cards at this time",
+      "generated": "I'd like to obtain extra physical debit/credit cards right now"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I'm happy with Mastercard and want to stick with just that credit card.",
+      "generated": "I'm content with Mastercard and would prefer to continue using only that Visa or Mastercard."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "what is the matter?",
+      "generated": "We're having trouble identifying your direct debit payment."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I've got a problem - I bought something with my card one or two weeks ago, but now exact same amount of the purchase is showing up in my account. I like more money in my account, but this is too good to be true. Can you tell me what's happening?",
+      "generated": "I'm concerned about a recent transaction - I made a purchase with my card a few weeks ago, but the same amount is now appearing in my account. I'm not sure what's going on, but I'd appreciate it if you could help me understand why I'm seeing this unexpected deposit."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I need a Visa and a Mastercard from you.",
+      "generated": "I require both a Visa and a Mastercard from your institution."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I just realised I made the wrong payment yesterday. Can you please change it to the right account? It's my rent payment and really really needs to be in the right account by tomorrow",
+      "generated": "I've just noticed an error with the transfer I initiated yesterday. Could you assist me in correcting it to the correct account? It's a rent payment and it's crucial that it's processed in the correct account by tomorrow."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "how long does it take to reflect in my balance a top up",
+      "generated": "when can I expect the top-up amount to be credited to my account balance?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "i asked for 100 only got 80",
+      "generated": "i requested $100, but I was given $80 instead"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "How long will the $1 charge show as pending?",
+      "generated": "How long will the extra charge appear as pending on my statement?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "how come when i asked for 100 it only gave me 20.00 in the app",
+      "generated": "I was expecting to receive the full amount of $100, but instead, I only got $20."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+      "generated": "Can you expedite the correction of a mistaken payment made to the wrong account yesterday, as it's crucial to rectify it by tomorrow for my rent payment?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I'd prefer Mastercard.",
+      "generated": "I'd rather use Mastercard."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I just realized I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow.",
+      "generated": "I've changed my mind about the transfer I initiated yesterday. Could you please cancel it and correct the mistake? I'd appreciate it if you could take care of it by tomorrow."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long will my transaction take?",
+      "generated": "When can I expect my transfer to reach the recipient?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why don't you accept american express for adding money to my account",
+      "generated": "Why can't I use my American Express card to fund my account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make.",
+      "generated": "I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction appears to be pending, and I'm concerned that I might be charged for a transaction I didn't authorize."
+    }
+  ]
+}

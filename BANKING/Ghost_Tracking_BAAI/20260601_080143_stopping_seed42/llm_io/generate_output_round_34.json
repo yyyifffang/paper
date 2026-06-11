@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?",
+    "We're having trouble identifying this payment on your account.",
+    "The payment I initiated has not been fully processed.",
+    "How can I make a payment without incurring any charges?",
+    "Can I have multiple cards linked to my account?",
+    "I'm trying to figure out what's going on with my recently issued card.",
+    "May I assist you in reactivating your card?",
+    "where can I find an ATM to withdraw cash?",
+    "Can you explain the process for utilizing the virtual disposable cards?",
+    "I'll dispatch a cheque to replenish my account balance",
+    "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.",
+    "I'd like to transfer funds from a foreign account to this account.",
+    "We didn't recognize this payment from you.",
+    "I recently made a deposit, but it seems to have been reversed. Can you help me understand why this happened?",
+    "Where can I access cash from an ATM?",
+    "We've detected an unfamiliar payment.",
+    "Can you tell me what data source is used to determine the exchange rate for the transfer I'm planning to make?",
+    "Why are the purchases I made earlier today still pending for payment?",
+    "I was unexpectedly billed a fee for using my card, which I believe was an error.",
+    "The exchange rate for my cash withdrawal seems to be incorrect.",
+    "can I recharge my account using a card charge instead?",
+    "Could you please activate my card for me? I'd greatly appreciate it.",
+    "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?",
+    "I'm running low on funds in my account and I'd like to know if I can make a transfer to replenish it.",
+    "I've reviewed my recent statements and noticed a significant payment that I'm certain I didn't make. Can I still contest it?",
+    "Why hasn't my transfer been received by the recipient yet?",
+    "Can my friend transfer funds to me in a currency other than US dollars?",
+    "May I confirm my identity using my social security card?",
+    "I've noticed an unexpected payment on my account.",
+    "May I request information about the verification process for your identity?",
+    "I'm still waiting to receive my virtual card.",
+    "Did my card payment get reversed from my account?",
+    "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it.",
+    "You can use cash to top up at any of our physical locations.",
+    "If I receive a payment from someone in a foreign country, will I be charged a fee?",
+    "A payment has been recorded in the app that I did not authorize.",
+    "I've been expecting my transfer since Friday, but it still hasn't arrived.",
+    "Can I convert my funds to euros?",
+    "What restrictions are in place for the disposable cards?"
+  ],
+  "generated_labels": [
+    3,
+    16,
+    45,
+    15,
+    39,
+    11,
+    13,
+    3,
+    37,
+    58,
+    20,
+    65,
+    16,
+    61,
+    3,
+    28,
+    32,
+    45,
+    15,
+    76,
+    57,
+    0,
+    45,
+    65,
+    28,
+    66,
+    50,
+    69,
+    28,
+    69,
+    40,
+    53,
+    15,
+    58,
+    31,
+    16,
+    66,
+    36,
+    29
+  ],
+  "source_texts": [
+    "I need to withdraw money. Where can I do that?",
+    "Why is this payment on my app",
+    "I made a payment that is not yet complete.",
+    "What can i pay with out  fees",
+    "How many different cards can I have for my account?",
+    "I want to find out what happened to my new card?",
+    "Can you please reactivate my card?",
+    "how do I know where I can get money withdrawn?",
+    "Will you tell me how I am supposed to use the disposable cards?",
+    "I'll send a check to top up my account",
+    "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+    "I have money in a foreign account that I want to send to this account.",
+    "i didnt do this charge",
+    "I put some money in my account the other day but now its gone? Why is this?",
+    "Where should I withdraw money from?",
+    "I have an unknown charge.",
+    "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+    "Why are the things I bought earlier today still showing as pending?",
+    "I was charged and shouldn't have been charged when using my card!",
+    "Whats wrong with my currency exchange?",
+    "should i add money via bank transfer instead",
+    "Would you be so kind as to activate my card? Thanks",
+    "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+    "I am out of money in my account and I was wondering if I could do a bank transfer is put more in it?",
+    "I know this very late, but I just went through my statements from the last couple months and there's one quite large-ish payment that I definitely haven't made. Is it still possible to dispute it?",
+    "Why is my transaction taking so long to complete?",
+    "Can my friend send me money if it is not in US dollars?",
+    "Can I use my social security card as a form of identity?",
+    "I have an unauthorized charge.",
+    "Can I get information on the identity checks?",
+    "I haven't received my virtual card yet!!",
+    "My card payment has not been withdrawn from my account",
+    "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+    "What physical locations can I use cash to top up?",
+    "If someone in a different country sends me money, do I have to pay a fee?",
+    "There is a payment in the app that I did not approve",
+    "I've been waiting since Friday, where is my money?",
+    "Can I exchange my money for EUR?",
+    "What limits are there on the virtual cards?"
+  ],
+  "records": [
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need to withdraw money. Where can I do that?",
+      "generated": "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is this payment on my app",
+      "generated": "We're having trouble identifying this payment on your account."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a payment that is not yet complete.",
+      "generated": "The payment I initiated has not been fully processed."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "What can i pay with out  fees",
+      "generated": "How can I make a payment without incurring any charges?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many different cards can I have for my account?",
+      "generated": "Can I have multiple cards linked to my account?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I want to find out what happened to my new card?",
+      "generated": "I'm trying to figure out what's going on with my recently issued card."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can you please reactivate my card?",
+      "generated": "May I assist you in reactivating your card?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "how do I know where I can get money withdrawn?",
+      "generated": "where can I find an ATM to withdraw cash?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Will you tell me how I am supposed to use the disposable cards?",
+      "generated": "Can you explain the process for utilizing the virtual disposable cards?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I'll send a check to top up my account",
+      "generated": "I'll dispatch a cheque to replenish my account balance"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+      "generated": "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I have money in a foreign account that I want to send to this account.",
+      "generated": "I'd like to transfer funds from a foreign account to this account."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i didnt do this charge",
+      "generated": "We didn't recognize this payment from you."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I put some money in my account the other day but now its gone? Why is this?",
+      "generated": "I recently made a deposit, but it seems to have been reversed. Can you help me understand why this happened?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where should I withdraw money from?",
+      "generated": "Where can I access cash from an ATM?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I have an unknown charge.",
+      "generated": "We've detected an unfamiliar payment."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+      "generated": "Can you tell me what data source is used to determine the exchange rate for the transfer I'm planning to make?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why are the things I bought earlier today still showing as pending?",
+      "generated": "Why are the purchases I made earlier today still pending for payment?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I was charged and shouldn't have been charged when using my card!",
+      "generated": "I was unexpectedly billed a fee for using my card, which I believe was an error."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Whats wrong with my currency exchange?",
+      "generated": "The exchange rate for my cash withdrawal seems to be incorrect."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "should i add money via bank transfer instead",
+      "generated": "can I recharge my account using a card charge instead?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Would you be so kind as to activate my card? Thanks",
+      "generated": "Could you please activate my card for me? I'd greatly appreciate it."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+      "generated": "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I am out of money in my account and I was wondering if I could do a bank transfer is put more in it?",
+      "generated": "I'm running low on funds in my account and I'd like to know if I can make a transfer to replenish it."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I know this very late, but I just went through my statements from the last couple months and there's one quite large-ish payment that I definitely haven't made. Is it still possible to dispute it?",
+      "generated": "I've reviewed my recent statements and noticed a significant payment that I'm certain I didn't make. Can I still contest it?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why is my transaction taking so long to complete?",
+      "generated": "Why hasn't my transfer been received by the recipient yet?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can my friend send me money if it is not in US dollars?",
+      "generated": "Can my friend transfer funds to me in a currency other than US dollars?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Can I use my social security card as a form of identity?",
+      "generated": "May I confirm my identity using my social security card?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I have an unauthorized charge.",
+      "generated": "I've noticed an unexpected payment on my account."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Can I get information on the identity checks?",
+      "generated": "May I request information about the verification process for your identity?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I haven't received my virtual card yet!!",
+      "generated": "I'm still waiting to receive my virtual card."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My card payment has not been withdrawn from my account",
+      "generated": "Did my card payment get reversed from my account?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+      "generated": "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What physical locations can I use cash to top up?",
+      "generated": "You can use cash to top up at any of our physical locations."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "If someone in a different country sends me money, do I have to pay a fee?",
+      "generated": "If I receive a payment from someone in a foreign country, will I be charged a fee?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There is a payment in the app that I did not approve",
+      "generated": "A payment has been recorded in the app that I did not authorize."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I've been waiting since Friday, where is my money?",
+      "generated": "I've been expecting my transfer since Friday, but it still hasn't arrived."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can I exchange my money for EUR?",
+      "generated": "Can I convert my funds to euros?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "What limits are there on the virtual cards?",
+      "generated": "What restrictions are in place for the disposable cards?"
+    }
+  ]
+}

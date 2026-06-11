@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I'm concerned about unauthorized activity on my account. Is someone else accessing my card?",
+    "Can you clarify the multiple transaction dates listed on my account statement?",
+    "why can't you simply process a refund for me instead of waiting for the merchant to initiate it?",
+    "I'm seeing the same transaction repeatedly on my card statement.",
+    "If I were to make a top-up payment using a European bank card, would I be charged a fee?",
+    "Why do I see multiple transaction dates on my statement?",
+    "Will there be a fee for processing the bank transfer to top up my account?",
+    "I'm having trouble remembering my passcode to access the app.",
+    "I was expecting to receive some cash, but instead, I was debited without any funds being transferred.",
+    "I was given less cash than I expected, as I only received 10 pounds when I asked for 30.",
+    "I'm showing a cash withdrawal in my app, but it's not reflecting in my account.",
+    "I'm reviewing my account activity and noticed an unexpected direct debit payment. I'm certain I didn't initiate the transaction, so I'd appreciate it if you could investigate and reverse the charge, restoring the funds to my account.",
+    "I tried to withdraw some cash from the ATM earlier, but it didn't go through. Now, when I check the transaction, it still shows as pending. I'd appreciate it if someone could investigate this and let me know what's happening. I don't want to be charged for cash I never got.",
+    "I made a withdrawal at an ATM, but the amount reflected in the app is not what I actually received.",
+    "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm starting to get frustrated. It's surprising that international transfers can take so long, especially in this day and age.",
+    "I expected a better exchange rate for my cash withdrawal.",
+    "Why was my cash withdrawal request denied?",
+    "Can I get some information on the availability of the Euro currency for my transaction?",
+    "I'm having trouble logging in because I've forgotten my passcode.",
+    "Why can't I select the credit card I prefer, whether it's Visa or Mastercard?",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution.",
+    "Are there any fees associated with transferring funds to my account?",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate.",
+    "Are there any limitations on issuing new cards in China?",
+    "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself.",
+    "A duplicate transaction appears on my account.",
+    "I'm not satisfied with the exchange rate applied to my cash withdrawal.",
+    "I need help resolving an issue with an ATM withdrawal. The app indicates the correct amount I should have received, but I only got a different amount.",
+    "Please assist me, I was charged an unexpected fee when I withdrew cash.",
+    "I'd like to understand the fees associated with making a payment using a European card for a top-up transaction.",
+    "When can I expect the transfer to reflect in my UK account? I recently initiated a transfer, but my balance hasn't been updated yet, and I'd like to confirm everything is in order.",
+    "We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?",
+    "I prefer not to use a Mastercard.",
+    "I'm unable to access my account funds.",
+    "What methods are available for depositing funds into my account using my American Express card?"
+  ],
+  "generated_labels": [
+    22,
+    63,
+    51,
+    63,
+    57,
+    63,
+    56,
+    44,
+    75,
+    75,
+    20,
+    28,
+    46,
+    75,
+    48,
+    76,
+    26,
+    36,
+    44,
+    73,
+    17,
+    56,
+    17,
+    9,
+    22,
+    63,
+    76,
+    75,
+    19,
+    57,
+    5,
+    28,
+    73,
+    26,
+    54
+  ],
+  "source_texts": [
+    "I don't recognize some transactions.  Is someone else using it?",
+    "Can you explain the various transaction times shown on my statement?",
+    "why cant you just refund me instead of a merchant",
+    "My card is showing the same transaction over and over again.",
+    "If I were to use a European bank card for a top up, will I incur a charge?",
+    "Why does my statement show various transaction times?",
+    "Are you going to charge me to collect the money?",
+    "Please help me.  I don't know my code to get into the app.",
+    "i did not get any money but still was charged",
+    "If the ATM only gave me 10 pounds instead of the 30 I requested, what do I do?",
+    "I see cash in my app but I did not get it.",
+    "I was checking the app for my account and I noticed there is an authorized charge on it.  I haven't used my card today, so I know I didn't do it.  I would like the transaction reversed and the money replaced.",
+    "I tempted to get some money out of the machine earlier and it did not work.Looking now, the transaction actually shows to still be in progress. I would certainly appreciate someone look into this and let me know what's going on. I definitely do not want to be charged for money I never received.",
+    "Did a WD earlier at an ATM.  The amount showing in the App is more than I got though.",
+    "Hey I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It's not that difficult to transfer money to another country in 2018 is it?",
+    "I thought I was going to receive more currency?",
+    "Why can't I take money from my account?",
+    "Do you have EUR currency available for me?",
+    "I can't access my account.",
+    "Why can I not choose the card i want?",
+    "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+    "Is there a charge for getting my money?",
+    "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+    "Are there restrictions on new cards in China?",
+    "My card must have used my card as there are some transactions that I haven't done myself..",
+    "There is a transaction showing up several times.",
+    "I'm unhappy with the exchange rate your cash transactions.",
+    "How can we correct a mistake on an ATM transaction?  The app shows what I should have gotten.",
+    "Please help!  There was an extra fee when I got cash.",
+    "I need to know what charges I will incur for using a European card for top up.",
+    "What's the time frame normally for a UK account transfer? I just made one and it's not showing up anywhere. I want to be sure that everything is good.",
+    "If I found an error in my account for a transaction I didn't make, how long to I have to dispute it?",
+    "I do not want a VISA card.",
+    "I can't get any money from my account.",
+    "How can I get funds into my account from my American Express?"
+  ],
+  "records": [
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I don't recognize some transactions.  Is someone else using it?",
+      "generated": "I'm concerned about unauthorized activity on my account. Is someone else accessing my card?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Can you explain the various transaction times shown on my statement?",
+      "generated": "Can you clarify the multiple transaction dates listed on my account statement?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "why cant you just refund me instead of a merchant",
+      "generated": "why can't you simply process a refund for me instead of waiting for the merchant to initiate it?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My card is showing the same transaction over and over again.",
+      "generated": "I'm seeing the same transaction repeatedly on my card statement."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "If I were to use a European bank card for a top up, will I incur a charge?",
+      "generated": "If I were to make a top-up payment using a European bank card, would I be charged a fee?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why does my statement show various transaction times?",
+      "generated": "Why do I see multiple transaction dates on my statement?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are you going to charge me to collect the money?",
+      "generated": "Will there be a fee for processing the bank transfer to top up my account?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Please help me.  I don't know my code to get into the app.",
+      "generated": "I'm having trouble remembering my passcode to access the app."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "i did not get any money but still was charged",
+      "generated": "I was expecting to receive some cash, but instead, I was debited without any funds being transferred."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "If the ATM only gave me 10 pounds instead of the 30 I requested, what do I do?",
+      "generated": "I was given less cash than I expected, as I only received 10 pounds when I asked for 30."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I see cash in my app but I did not get it.",
+      "generated": "I'm showing a cash withdrawal in my app, but it's not reflecting in my account."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I was checking the app for my account and I noticed there is an authorized charge on it.  I haven't used my card today, so I know I didn't do it.  I would like the transaction reversed and the money replaced.",
+      "generated": "I'm reviewing my account activity and noticed an unexpected direct debit payment. I'm certain I didn't initiate the transaction, so I'd appreciate it if you could investigate and reverse the charge, restoring the funds to my account."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tempted to get some money out of the machine earlier and it did not work.Looking now, the transaction actually shows to still be in progress. I would certainly appreciate someone look into this and let me know what's going on. I definitely do not want to be charged for money I never received.",
+      "generated": "I tried to withdraw some cash from the ATM earlier, but it didn't go through. Now, when I check the transaction, it still shows as pending. I'd appreciate it if someone could investigate this and let me know what's happening. I don't want to be charged for cash I never got."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Did a WD earlier at an ATM.  The amount showing in the App is more than I got though.",
+      "generated": "I made a withdrawal at an ATM, but the amount reflected in the app is not what I actually received."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Hey I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It's not that difficult to transfer money to another country in 2018 is it?",
+      "generated": "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm starting to get frustrated. It's surprising that international transfers can take so long, especially in this day and age."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I thought I was going to receive more currency?",
+      "generated": "I expected a better exchange rate for my cash withdrawal."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I take money from my account?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you have EUR currency available for me?",
+      "generated": "Can I get some information on the availability of the Euro currency for my transaction?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't access my account.",
+      "generated": "I'm having trouble logging in because I've forgotten my passcode."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Why can I not choose the card i want?",
+      "generated": "Why can't I select the credit card I prefer, whether it's Visa or Mastercard?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a charge for getting my money?",
+      "generated": "Are there any fees associated with transferring funds to my account?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Are there restrictions on new cards in China?",
+      "generated": "Are there any limitations on issuing new cards in China?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "My card must have used my card as there are some transactions that I haven't done myself..",
+      "generated": "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "There is a transaction showing up several times.",
+      "generated": "A duplicate transaction appears on my account."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I'm unhappy with the exchange rate your cash transactions.",
+      "generated": "I'm not satisfied with the exchange rate applied to my cash withdrawal."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "How can we correct a mistake on an ATM transaction?  The app shows what I should have gotten.",
+      "generated": "I need help resolving an issue with an ATM withdrawal. The app indicates the correct amount I should have received, but I only got a different amount."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Please help!  There was an extra fee when I got cash.",
+      "generated": "Please assist me, I was charged an unexpected fee when I withdrew cash."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I need to know what charges I will incur for using a European card for top up.",
+      "generated": "I'd like to understand the fees associated with making a payment using a European card for a top-up transaction."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "What's the time frame normally for a UK account transfer? I just made one and it's not showing up anywhere. I want to be sure that everything is good.",
+      "generated": "When can I expect the transfer to reflect in my UK account? I recently initiated a transfer, but my balance hasn't been updated yet, and I'd like to confirm everything is in order."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "If I found an error in my account for a transaction I didn't make, how long to I have to dispute it?",
+      "generated": "We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I do not want a VISA card.",
+      "generated": "I prefer not to use a Mastercard."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I can't get any money from my account.",
+      "generated": "I'm unable to access my account funds."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "How can I get funds into my account from my American Express?",
+      "generated": "What methods are available for depositing funds into my account using my American Express card?"
+    }
+  ]
+}

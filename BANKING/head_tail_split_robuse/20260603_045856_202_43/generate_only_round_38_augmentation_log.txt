@@ -1,0 +1,38 @@
+GEN | [card_arrival] | Orig: Have you sent out my card yet? -> Aug: Has my new card been dispatched already?
+GEN | [card_arrival] | Orig: Do you have info about the card on delivery? -> Aug: Can you provide information about the card's arrival status?
+GEN | [receiving_money] | Orig: Do I need to convert my currency from GBP before transferring? -> Aug: Do I need to exchange my British pounds for another currency before making a transfer?
+GEN | [reverted_card_payment?] | Orig: I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here? -> Aug: I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?
+GEN | [supported_cards_and_currencies] | Orig: What cards do you support -> Aug: We accept a range of payment cards
+GEN | [declined_cash_withdrawal] | Orig: Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM. -> Aug: I'm having trouble using my card at ATMs. I've tried to withdraw cash from two different machines, but it's been declined each time.
+GEN | [supported_cards_and_currencies] | Orig: How can I top up my account and which currency can I use? -> Aug: What methods are available for adding funds to my account, and what currencies are accepted for transactions?
+GEN | [cash_withdrawal_not_recognised] | Orig: there is money in my account that i didnt put there -> Aug: I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.
+GEN | [card_delivery_estimate] | Orig: can the delivery be specific to my needs? -> Aug: Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?
+GEN | [automatic_top_up] | Orig: Can I add money to my card automatically during a trip? -> Aug: Can I set up automatic top-ups for my card while I'm traveling?
+GEN | [declined_cash_withdrawal] | Orig: Why am I unable to withdraw money even though in the past I've done it just fine? -> Aug: I'm having trouble withdrawing cash, but I've successfully done so previously. Can you help me understand why this is happening?
+GEN | [top_up_by_cash_or_cheque] | Orig: What types of top-up methods do you accept? -> Aug: You can top up your account using either cash or cheque.
+GEN | [declined_transfer] | Orig: I think there has been a mistake with my transfer -> Aug: I believe there's been an error with the transfer I initiated
+GEN | [top_up_failed] | Orig: I just topped up, and the app denied it. -> Aug: I attempted to add funds, but the transaction was declined.
+GEN | [unable_to_verify_identity] | Orig: The app failed to verify me. -> Aug: The system was unable to confirm my identity.
+GEN | [supported_cards_and_currencies] | Orig: What currency is acceptable for a top up? -> Aug: We accept a range of currencies for top-ups, including but not limited to the following: USD, EUR, JPY, and more.
+GEN | [edit_personal_details] | Orig: I need to update my demographics. -> Aug: I'd like to modify my personal information.
+GEN | [edit_personal_details] | Orig: my identity hasn't been verified and i can't edit my details, what's next -> Aug: since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?
+GEN | [card_arrival] | Orig: I want to find out what happened to my new card? -> Aug: I'm trying to figure out what's going on with my recently issued card.
+GEN | [transaction_charged_twice] | Orig: My card was declined but it shows as multiple charges? -> Aug: I made a purchase, but it looks like I've been charged twice, even though my card was declined.
+GEN | [receiving_money] | Orig: I received a transfer in GBP how do I change it to a different currency? -> Aug: I was sent a payment in British Pounds, can I convert it to a different currency?
+GEN | [card_payment_not_recognised] | Orig: i dont recognize a charge on my card -> Aug: I'm unable to identify a transaction on my credit card statement.
+GEN | [supported_cards_and_currencies] | Orig: use my credit to add money -> Aug: utilize your credit to top up your account
+GEN | [get_disposable_virtual_card] | Orig: Please explain how I use the disposable cards? -> Aug: Please provide instructions on how to utilize the virtual disposable cards.
+GEN | [passcode_forgotten] | Orig: My passcode is not being accepted -> Aug: I'm having trouble entering my passcode, it's not recognizing it.
+GEN | [top_up_failed] | Orig: Could you please recommend what I should do if my card keeps getting declined?  I planned to top-up today but I am unable to get it to work.  I need a fast solution to this problem. -> Aug: Can you suggest a solution for my issue with topping up my account, as my card keeps getting declined and I'm unable to complete the transaction today?
+GEN | [apple_pay_or_google_pay] | Orig: What services can I use to top up? -> Aug: What payment methods can I use to add funds?
+GEN | [pin_blocked] | Orig: I blocked my card by mistake, how do I unblock it? -> Aug: I accidentally locked my card, can you help me unlock it?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can you tell me the cost of a transfer? -> Aug: What is the fee for a bank transfer top-up?
+GEN | [failed_transfer] | Orig: My card couldn't complete a transfer, why? -> Aug: The transfer I initiated with my card was unsuccessful, what happened?
+GEN | [wrong_amount_of_cash_received] | Orig: I haven't received my cash yet. -> Aug: I'm still waiting to receive the cash.
+GEN | [transfer_not_received_by_recipient] | Orig: Why is my transaction taking so long to complete? -> Aug: Why hasn't my transfer been received by the recipient yet?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: When I exchanged currencies the value of my money changed. -> Aug: When I converted my cash, the exchange rate was incorrect.
+GEN | [declined_cash_withdrawal] | Orig: I could not access my money at the ATM -> Aug: I was unable to withdraw cash from the ATM.
+GEN | [activate_my_card] | Orig: How can i make my card active? -> Aug: What steps can I take to activate my card?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Can the exchange rate change while I am in the process of making a withdrawal? -> Aug: Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?
+GEN | [top_up_failed] | Orig: My credit card for was not approved for a top-up transaction.  What happened? -> Aug: The top-up attempt using my credit card was declined. Can you help me understand why?
+GEN | [get_disposable_virtual_card] | Orig: Can you point me in the right direction of where to go to roder a disposable virtual card, I can't seem to find it. -> Aug: Could you please guide me on how to obtain a disposable virtual card? I'm having trouble locating it.

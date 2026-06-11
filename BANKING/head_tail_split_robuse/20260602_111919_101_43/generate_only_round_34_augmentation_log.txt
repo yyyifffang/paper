@@ -1,0 +1,36 @@
+GEN | [why_verify_identity] | Orig: If my identy verifacation hasn't gone through can I use my account? -> Aug: If my identity verification process hasn't been completed, can I still access my account?
+GEN | [failed_transfer] | Orig: Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there. -> Aug: I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?
+GEN | [failed_transfer] | Orig: I couldnt transfer money from my account. -> Aug: I was unable to complete a transfer from my account.
+GEN | [verify_my_identity] | Orig: why do I have to show my ID -> Aug: Can you please confirm your identity by providing your identification documents?
+GEN | [Refund_not_showing_up] | Orig: Hello. Please, would you tell me if you have or have not received funds for a refund that I recently requested for a big purchase? I've contacted the merchant, but I can't tell that they have taken any action on it. -> Aug: I'm trying to check if the refund for my recent purchase has been processed and credited to my account. I've already reached out to the merchant, but they haven't confirmed any updates on the status of the refund. Can you please let me know if the funds have been received?
+GEN | [direct_debit_payment_not_recognised] | Orig: Purchases I did not make are appearing in my bank statement? -> Aug: We've noticed some transactions on your bank statement that don't match any payments you've made.
+GEN | [compromised_card] | Orig: How do I stop fraud to my card? -> Aug: What steps can I take to prevent unauthorized transactions on my compromised card?
+GEN | [failed_transfer] | Orig: I'm trying to make a bank transfer but It's not going through. Could there not be enough funds to transfer or something? Have I done it too many times? -> Aug: I'm having trouble completing a bank transfer and I'm wondering if there's an issue with insufficient funds or if I've exceeded the transfer limit.
+GEN | [order_physical_card] | Orig: I still don't have a card. How do I get one? -> Aug: I'm missing my physical card. Can you help me obtain a new one?
+GEN | [getting_spare_card] | Orig: how is it possible to add another card to account -> Aug: Can I get a spare card added to my account?
+GEN | [cancel_transfer] | Orig: I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help? -> Aug: I mistakenly processed a payment for my rent yesterday and I urgently need to reverse it by tomorrow. Can you assist me with this?
+GEN | [country_support] | Orig: I just moved to the US how do I get a card? -> Aug: I've recently relocated to the United States and would like to obtain a new card.
+GEN | [get_physical_card] | Orig: can i go into my app to find my pin -> Aug: Can I access my physical card information through the mobile app?
+GEN | [card_not_working] | Orig: How do I re-order a damaged card? -> Aug: I'd like to replace a faulty card.
+GEN | [pin_blocked] | Orig: While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back? -> Aug: I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?
+GEN | [cancel_transfer] | Orig: I submitted a transaction but it was for the incorrect account. -> Aug: I mistakenly initiated a transfer to the wrong account.
+GEN | [card_swallowed] | Orig: what do I need to do if the ATM kept my card? -> Aug: what should I do if the ATM swallowed my card?
+GEN | [direct_debit_payment_not_recognised] | Orig: I have an unknown charge. -> Aug: We've detected an unfamiliar payment.
+GEN | [activate_my_card] | Orig: How long does it take to activate the card, as it does not look like its working? -> Aug: How long does it take to enable my card, as it appears to be inactive?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Where is the transfer that I did? -> Aug: Why hasn't my account balance been updated after the recent bank transfer?
+GEN | [card_arrival] | Orig: I haven't gotten my credit card in the mail. -> Aug: I'm still waiting for my credit card to arrive.
+GEN | [cash_withdrawal_not_recognised] | Orig: there is money in my account that i didnt put there -> Aug: I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.
+GEN | [activate_my_card] | Orig: Tell me how to renew my new card? -> Aug: How do I reactivate my new credit card?
+GEN | [getting_spare_card] | Orig: If I need more than cards will I have to pay a fee to receive them? -> Aug: If I require additional cards, will I be charged a fee for obtaining them?
+GEN | [card_delivery_estimate] | Orig: I need my card right away. -> Aug: I require my card as soon as possible.
+GEN | [top_up_reverted] | Orig: How come I can't put money in my top up account? -> Aug: Why am I unable to add funds to my top-up account?
+GEN | [top_up_reverted] | Orig: I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that? -> Aug: I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?
+GEN | [why_verify_identity] | Orig: I can't do the verification. -> Aug: I'm unable to complete the identity verification process.
+GEN | [pending_cash_withdrawal] | Orig: Why hasn't my withdrawal shown on my statement? -> Aug: Why is my pending cash withdrawal not reflected on my account statement?
+GEN | [failed_transfer] | Orig: Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere. -> Aug: Is there an issue with your system or network? I've attempted to initiate a standard transfer multiple times, but it's not going through.
+GEN | [beneficiary_not_allowed] | Orig: My account transfer was not cleared. -> Aug: The transfer to the intended recipient was unsuccessful.
+GEN | [wrong_amount_of_cash_received] | Orig: my atm transaction was wrong -> Aug: the amount I received from my ATM transaction was incorrect
+GEN | [card_swallowed] | Orig: A Bank ATM did not give my card back. What do I do now? -> Aug: A Bank ATM has retained my card. What should I do next?
+GEN | [verify_my_identity] | Orig: Can I get information on the identity checks? -> Aug: May I request information about the verification process for your identity?
+GEN | [disposable_card_limits] | Orig: What limits are there on the virtual cards? -> Aug: What restrictions are in place for the disposable cards?
+GEN | [cancel_transfer] | Orig: Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place. -> Aug: Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account.

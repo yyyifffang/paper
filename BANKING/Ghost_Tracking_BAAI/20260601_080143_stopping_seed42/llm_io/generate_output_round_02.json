@@ -1,0 +1,370 @@
+{
+  "generated_texts": [
+    "This charge shouldn't have been applied since I used my card for the payment.",
+    "Why isn't my bank transfer reflected in my account balance?",
+    "What nations are supported?",
+    "My Apple Pay or Google Pay for my American Express card is not functioning properly.",
+    "The exchange rate used for my payment was incorrect.",
+    "When can I expect a pending cash withdrawal to be processed and reflected in my account?",
+    "Can I reissue a card?",
+    "I'd like to make a transfer from one account to another, how can I proceed?",
+    "The funds I withdrew from the ATM are still awaiting processing",
+    "What steps can I take to confirm my identity?",
+    "I was unexpectedly charged a fee for using my card to complete a transaction.",
+    "I would like to obtain a Mastercard",
+    "Why did my top-up transaction fail?",
+    "I'm pretty sure I left my wallet on the bus, and I just got to the office. I'm worried someone might use my card. Can I report it lost or stolen?",
+    "What currencies are accepted for depositing funds?",
+    "Can you assist me in canceling my account?",
+    "What does it mean if my card payment is still being processed?",
+    "My transfers are being consistently declined, which is unusual since I've had no issues with them before, but it's happening now and I've tried multiple times.",
+    "What is the minimum age requirement?",
+    "Can you assist me in updating my PIN?",
+    "I'd like to reactivate a card that was previously deactivated, is that possible?",
+    "Can I make changes to my personal information?",
+    "I attempted to add funds to my account, but the transaction was unsuccessful",
+    "Why was my transfer transaction rejected?",
+    "Can I cancel the account?",
+    "I misplaced my mobile device, what steps can I take?",
+    "Can you provide an estimate for the delivery of my card?",
+    "Hey, I've been informed by a seller that the payment I made hasn't gone through, even though it was deducted from my account. However, it seems the funds have been reversed and are now back in my account. Can you look into this ASAP and resolve the issue?",
+    "Why is my mobile app displaying a cash withdrawal that I did not initiate?",
+    "I'm curious about the status of a transfer I initiated, which is currently pending.",
+    "I was informed that using the ATM for a cash withdrawal is supposed to be fee-free, but I'm being charged a charge. Can you explain why this is the case?",
+    "I'm looking for the automatic top-up feature, can you guide me on how to access it?",
+    "I was surprised to find a charge",
+    "A pending cash withdrawal is awaiting processing.",
+    "Which fiat currencies are available for exchange?",
+    "I've been charged twice for the same transaction.",
+    "I'm having trouble using my new card to make payments, and it keeps getting declined. I've tried to use it multiple times to pay for gas at the Shell station near my home, but it's not working. I'm really frustrated about this issue with my new card.",
+    "Can I get my salary in a different currency instead?",
+    "Hello, I've reviewed my statement and noticed an unfamiliar payment made using my card.",
+    "Can you confirm the source of the funds in my account before I check my available balance?"
+  ],
+  "generated_labels": [
+    15,
+    5,
+    24,
+    2,
+    17,
+    46,
+    13,
+    65,
+    46,
+    69,
+    15,
+    73,
+    59,
+    41,
+    54,
+    55,
+    45,
+    27,
+    1,
+    21,
+    13,
+    30,
+    59,
+    27,
+    55,
+    42,
+    12,
+    53,
+    20,
+    48,
+    19,
+    4,
+    64,
+    46,
+    36,
+    63,
+    25,
+    50,
+    16,
+    70
+  ],
+  "source_texts": [
+    "This fee shouldn't be there after I paid with a card.",
+    "How can I fix my bank transfer to show up on my bank account?",
+    "Which countries are represented?",
+    "top up for my american express card is not working",
+    "My payment had a wrong exchange rate.",
+    "How long does it take for a cash withdrawal to show?",
+    "Can I reactivate a card?",
+    "I want to top up by transfering accounts, What do I do?",
+    "The cash I deposited using the ATM is still pending",
+    "How do I verify my identity?",
+    "I was made to pay a fee for making a transaction with card.",
+    "I would like to get a Visa card",
+    "Why was my top-up rejected?",
+    "I think my wallet fell out on the Tube today! I realized as soon as I got to my desk. How do I cut off the card?",
+    "What are the acceptable currencies for adding funds?",
+    "Help me close my account.",
+    "What does it mean if my payment is pending?",
+    "It's declining my transfers. Normally this works, but my card is being declined now and I've tried more than once.",
+    "How old does one need to be?",
+    "Help me change my PIN.",
+    "I have a card that was deactivated can I reactivate it?",
+    "Am I able to modify my account details?",
+    "I tried to top up my account and it didn't work",
+    "What would be a reason my transfer got declined?",
+    "Is it possible to delete the account?",
+    "I lost my phone, what should I do?",
+    "can you express my card to me?",
+    "Hey a seller just contacted me that my money didn't come through. It was definitely deducted from my account, but now it appears it's back with me! Sort this out asap please.",
+    "Why is my app showing me taking money that I did not take out?",
+    "I wanted to know why there is a transfer of mine pending.",
+    "I was told that withdrawing cash from the ATM is free, but I'm charged a fee. Why is this?",
+    "I heard you have an auto-top up option, where do I find that?",
+    "I had an unexpected fee",
+    "I have a withdrawal waiting to go through.",
+    "What currencies can I exchange?",
+    "I noticed that my card was charged more than once for one thing.",
+    "Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working.",
+    "Can I receive my salary with this in another currency?",
+    "Hello, i just checked my statement and there seems to be a payment from my card that I have never seen before.",
+    "Can I see my available money?"
+  ],
+  "records": [
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "This fee shouldn't be there after I paid with a card.",
+      "generated": "This charge shouldn't have been applied since I used my card for the payment."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How can I fix my bank transfer to show up on my bank account?",
+      "generated": "Why isn't my bank transfer reflected in my account balance?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Which countries are represented?",
+      "generated": "What nations are supported?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "top up for my american express card is not working",
+      "generated": "My Apple Pay or Google Pay for my American Express card is not functioning properly."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "My payment had a wrong exchange rate.",
+      "generated": "The exchange rate used for my payment was incorrect."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How long does it take for a cash withdrawal to show?",
+      "generated": "When can I expect a pending cash withdrawal to be processed and reflected in my account?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can I reactivate a card?",
+      "generated": "Can I reissue a card?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I want to top up by transfering accounts, What do I do?",
+      "generated": "I'd like to make a transfer from one account to another, how can I proceed?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "The cash I deposited using the ATM is still pending",
+      "generated": "The funds I withdrew from the ATM are still awaiting processing"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How do I verify my identity?",
+      "generated": "What steps can I take to confirm my identity?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I was made to pay a fee for making a transaction with card.",
+      "generated": "I was unexpectedly charged a fee for using my card to complete a transaction."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I would like to get a Visa card",
+      "generated": "I would like to obtain a Mastercard"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Why was my top-up rejected?",
+      "generated": "Why did my top-up transaction fail?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I think my wallet fell out on the Tube today! I realized as soon as I got to my desk. How do I cut off the card?",
+      "generated": "I'm pretty sure I left my wallet on the bus, and I just got to the office. I'm worried someone might use my card. Can I report it lost or stolen?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are the acceptable currencies for adding funds?",
+      "generated": "What currencies are accepted for depositing funds?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "Help me close my account.",
+      "generated": "Can you assist me in canceling my account?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "What does it mean if my payment is pending?",
+      "generated": "What does it mean if my card payment is still being processed?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "It's declining my transfers. Normally this works, but my card is being declined now and I've tried more than once.",
+      "generated": "My transfers are being consistently declined, which is unusual since I've had no issues with them before, but it's happening now and I've tried multiple times."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "How old does one need to be?",
+      "generated": "What is the minimum age requirement?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Help me change my PIN.",
+      "generated": "Can you assist me in updating my PIN?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I have a card that was deactivated can I reactivate it?",
+      "generated": "I'd like to reactivate a card that was previously deactivated, is that possible?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Am I able to modify my account details?",
+      "generated": "Can I make changes to my personal information?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I tried to top up my account and it didn't work",
+      "generated": "I attempted to add funds to my account, but the transaction was unsuccessful"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What would be a reason my transfer got declined?",
+      "generated": "Why was my transfer transaction rejected?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "Is it possible to delete the account?",
+      "generated": "Can I cancel the account?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I lost my phone, what should I do?",
+      "generated": "I misplaced my mobile device, what steps can I take?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "can you express my card to me?",
+      "generated": "Can you provide an estimate for the delivery of my card?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Hey a seller just contacted me that my money didn't come through. It was definitely deducted from my account, but now it appears it's back with me! Sort this out asap please.",
+      "generated": "Hey, I've been informed by a seller that the payment I made hasn't gone through, even though it was deducted from my account. However, it seems the funds have been reversed and are now back in my account. Can you look into this ASAP and resolve the issue?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Why is my app showing me taking money that I did not take out?",
+      "generated": "Why is my mobile app displaying a cash withdrawal that I did not initiate?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I wanted to know why there is a transfer of mine pending.",
+      "generated": "I'm curious about the status of a transfer I initiated, which is currently pending."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I was told that withdrawing cash from the ATM is free, but I'm charged a fee. Why is this?",
+      "generated": "I was informed that using the ATM for a cash withdrawal is supposed to be fee-free, but I'm being charged a charge. Can you explain why this is the case?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I heard you have an auto-top up option, where do I find that?",
+      "generated": "I'm looking for the automatic top-up feature, can you guide me on how to access it?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I had an unexpected fee",
+      "generated": "I was surprised to find a charge"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I have a withdrawal waiting to go through.",
+      "generated": "A pending cash withdrawal is awaiting processing."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What currencies can I exchange?",
+      "generated": "Which fiat currencies are available for exchange?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I noticed that my card was charged more than once for one thing.",
+      "generated": "I've been charged twice for the same transaction."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working.",
+      "generated": "I'm having trouble using my new card to make payments, and it keeps getting declined. I've tried to use it multiple times to pay for gas at the Shell station near my home, but it's not working. I'm really frustrated about this issue with my new card."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I receive my salary with this in another currency?",
+      "generated": "Can I get my salary in a different currency instead?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Hello, i just checked my statement and there seems to be a payment from my card that I have never seen before.",
+      "generated": "Hello, I've reviewed my statement and noticed an unfamiliar payment made using my card."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I see my available money?",
+      "generated": "Can you confirm the source of the funds in my account before I check my available balance?"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "My card payments have ceased.",
+    "What's the reason for the extra charge showing up on my statement?",
+    "We're showing an unexpected cash balance in your account. Can you help us understand why this is happening?",
+    "The payment was not processed due to a card issue.",
+    "My account is running low. Can I transfer money from another financial institution into my account?",
+    "My funds vanished! Can you assist me with this issue?",
+    "Can you expedite the processing of my pending top-up? It's been waiting for an hour now, and I urgently need the funds to be credited to my account.",
+    "What's the typical timeframe for processing my transfer?",
+    "How many times can I increase my limits through top-ups?",
+    "Can you confirm if my top-up was unsuccessful? It appears it didn't go through.",
+    "I'd like to modify a transfer.",
+    "When can I expect my funds to be available in my account?",
+    "What's the maximum amount I can top up?",
+    "I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?",
+    "I attempted to refresh my account balance after depositing cash yesterday, but it appears to be stuck. Can you investigate why it's taking so long to reflect the update?",
+    "Why haven't any of my recent online transactions been processed using my card, despite multiple attempts over the past two weeks?",
+    "I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?",
+    "I'd like to modify my personal information.",
+    "I'm curious about the reason behind the failed transfer.",
+    "Can I transfer funds from another bank into my account, which currently has no balance?",
+    "I require my virtual credit card",
+    "My payment was declined at the store.",
+    "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?",
+    "I attempted to make a payment using my debit card, but it was unsuccessful.",
+    "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself.",
+    "Can you please confirm the source of the funds used for the recent top-up?",
+    "Are there any plans to expand the list of supported fiat currencies in the future?",
+    "What steps does your app take to move funds into another account?",
+    "I was informed by a seller that the payment didn't go through on their end, but I'm certain it was deducted from my account, and I'd like this issue resolved ASAP since the funds have been reversed back to me.",
+    "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction.",
+    "I'm experiencing an issue with an unauthorized cash withdrawal that was made on my account. I still have my card in my possession, but the transaction doesn't seem to be recognized by the system.",
+    "I'm planning a trip and need to convert some currency. Can I exchange my money for Euros through the app?",
+    "How long does it typically take for pending top-ups to be processed?",
+    "How long will the extra charge appear as pending on my statement?",
+    "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?",
+    "This top-up verification process is really frustrating.",
+    "I'm trying to add funds, but I'm being asked to confirm some information before I can proceed. Can you help me with that?"
+  ],
+  "generated_labels": [
+    53,
+    34,
+    20,
+    25,
+    65,
+    61,
+    47,
+    67,
+    60,
+    59,
+    8,
+    67,
+    60,
+    7,
+    6,
+    53,
+    19,
+    30,
+    27,
+    65,
+    40,
+    25,
+    46,
+    53,
+    22,
+    70,
+    36,
+    65,
+    53,
+    28,
+    20,
+    33,
+    47,
+    34,
+    6,
+    71,
+    71
+  ],
+  "source_texts": [
+    "My card payments have stopped.",
+    "Why is there a pending hold on one pound on my statement?",
+    "Why is there extra cash in my account?",
+    "I couldn't pay with my card",
+    "My account is depleted. Can I transfer funds from another bank?",
+    "My money disappeared! Please help??",
+    "Sort your top up out please! It's been pending since an hour already, can you please make this go through asap I really need the money",
+    "How long does it take to get my money",
+    "How many top-ups am I allowed to do?",
+    "Can I tell if my top off didn't work?  It doesn't seem to have.",
+    "I need to change a transfer.",
+    "How long will I have to wait for my money to be in my account?",
+    "Whats the limit on my top up",
+    "Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong?",
+    "I tried updating my balance by cheque yesterday but it doesn't seem to be working. Shouldn't that be faster? Please check my account something has gone wrong there.",
+    "I am not able to purchase anything online! I have been using my card on multiple sites over a period of two weeks and none of the payments have gone through. Why is this happening?",
+    "I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?",
+    "I need to update my demographics.",
+    "I wanted to know why my transaction didn't go through.",
+    "Can I withdraw money from another bank and transfer it into my empty account?",
+    "I need my virtual card",
+    "My card did not go through in a shop",
+    "Why is the app showing a still pending message on a withdraw that has already been done?",
+    "I tried to use my debit card, but the payment did not work.",
+    "My card must have used my card as there are some transactions that I haven't done myself..",
+    "Where is my top-up generated from?",
+    "Will you be adding more currencies in the future?",
+    "How does your app transfer the money",
+    "Hello, I was contacted by a seller who let me know my money didn't come through on their side. It most certainly came out of my account so I need this looked at immediately because now it has been returned to me!",
+    "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+    "There are incorrect charges on my account, there was a WD that was made by someone else.  I still have my card though.",
+    "I need to get some Euros for my holiday. Am I able to exchange some of my money?",
+    "How long do top-ups take to go through",
+    "How long will the $1 charge show as pending?",
+    "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+    "this verifying the top up is annoying",
+    "I just want to top-up, why do I need to verify anything?"
+  ],
+  "records": [
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My card payments have stopped.",
+      "generated": "My card payments have ceased."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is there a pending hold on one pound on my statement?",
+      "generated": "What's the reason for the extra charge showing up on my statement?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Why is there extra cash in my account?",
+      "generated": "We're showing an unexpected cash balance in your account. Can you help us understand why this is happening?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I couldn't pay with my card",
+      "generated": "The payment was not processed due to a card issue."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "My account is depleted. Can I transfer funds from another bank?",
+      "generated": "My account is running low. Can I transfer money from another financial institution into my account?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "My money disappeared! Please help??",
+      "generated": "My funds vanished! Can you assist me with this issue?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Sort your top up out please! It's been pending since an hour already, can you please make this go through asap I really need the money",
+      "generated": "Can you expedite the processing of my pending top-up? It's been waiting for an hour now, and I urgently need the funds to be credited to my account."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take to get my money",
+      "generated": "What's the typical timeframe for processing my transfer?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How many top-ups am I allowed to do?",
+      "generated": "How many times can I increase my limits through top-ups?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Can I tell if my top off didn't work?  It doesn't seem to have.",
+      "generated": "Can you confirm if my top-up was unsuccessful? It appears it didn't go through."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I need to change a transfer.",
+      "generated": "I'd like to modify a transfer."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long will I have to wait for my money to be in my account?",
+      "generated": "When can I expect my funds to be available in my account?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Whats the limit on my top up",
+      "generated": "What's the maximum amount I can top up?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong?",
+      "generated": "I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I tried updating my balance by cheque yesterday but it doesn't seem to be working. Shouldn't that be faster? Please check my account something has gone wrong there.",
+      "generated": "I attempted to refresh my account balance after depositing cash yesterday, but it appears to be stuck. Can you investigate why it's taking so long to reflect the update?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I am not able to purchase anything online! I have been using my card on multiple sites over a period of two weeks and none of the payments have gone through. Why is this happening?",
+      "generated": "Why haven't any of my recent online transactions been processed using my card, despite multiple attempts over the past two weeks?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?",
+      "generated": "I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I need to update my demographics.",
+      "generated": "I'd like to modify my personal information."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I wanted to know why my transaction didn't go through.",
+      "generated": "I'm curious about the reason behind the failed transfer."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can I withdraw money from another bank and transfer it into my empty account?",
+      "generated": "Can I transfer funds from another bank into my account, which currently has no balance?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I need my virtual card",
+      "generated": "I require my virtual credit card"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card did not go through in a shop",
+      "generated": "My payment was declined at the store."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why is the app showing a still pending message on a withdraw that has already been done?",
+      "generated": "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to use my debit card, but the payment did not work.",
+      "generated": "I attempted to make a payment using my debit card, but it was unsuccessful."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "My card must have used my card as there are some transactions that I haven't done myself..",
+      "generated": "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Where is my top-up generated from?",
+      "generated": "Can you please confirm the source of the funds used for the recent top-up?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Will you be adding more currencies in the future?",
+      "generated": "Are there any plans to expand the list of supported fiat currencies in the future?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "How does your app transfer the money",
+      "generated": "What steps does your app take to move funds into another account?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Hello, I was contacted by a seller who let me know my money didn't come through on their side. It most certainly came out of my account so I need this looked at immediately because now it has been returned to me!",
+      "generated": "I was informed by a seller that the payment didn't go through on their end, but I'm certain it was deducted from my account, and I'd like this issue resolved ASAP since the funds have been reversed back to me."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+      "generated": "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There are incorrect charges on my account, there was a WD that was made by someone else.  I still have my card though.",
+      "generated": "I'm experiencing an issue with an unauthorized cash withdrawal that was made on my account. I still have my card in my possession, but the transaction doesn't seem to be recognized by the system."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I need to get some Euros for my holiday. Am I able to exchange some of my money?",
+      "generated": "I'm planning a trip and need to convert some currency. Can I exchange my money for Euros through the app?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "How long do top-ups take to go through",
+      "generated": "How long does it typically take for pending top-ups to be processed?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "How long will the $1 charge show as pending?",
+      "generated": "How long will the extra charge appear as pending on my statement?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+      "generated": "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "this verifying the top up is annoying",
+      "generated": "This top-up verification process is really frustrating."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I just want to top-up, why do I need to verify anything?",
+      "generated": "I'm trying to add funds, but I'm being asked to confirm some information before I can proceed. Can you help me with that?"
+    }
+  ]
+}

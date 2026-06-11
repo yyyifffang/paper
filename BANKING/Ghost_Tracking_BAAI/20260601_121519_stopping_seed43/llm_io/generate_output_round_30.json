@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "I'm having trouble adding funds using Apple Pay, can you help me figure out why it's not working?",
+    "Can I use my Apple Watch to replenish my account balance?",
+    "I'd like to deposit funds into my account using my American Express card.",
+    "can I obtain my physical card immediately?",
+    "Regarding the physical card's PIN information?",
+    "What restrictions are in place for the disposable cards?",
+    "Why isn't my Apple Pay account functioning properly?",
+    "Can you assist me in getting a refund for a recent purchase credited back to my account?",
+    "Are there any restrictions on the usage of disposable cards?",
+    "How do I activate my physical card's PIN?",
+    "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well.",
+    "I'd like to use my American Express card to deposit funds into my account.",
+    "Why did my recent transfer fail to process as expected?",
+    "I was unable to complete a transfer from my account.",
+    "Why is there an additional charge on my statement?",
+    "Can you please inform me about the payment methods you accept, specifically the cards you support?",
+    "We didn't find a direct debit payment arrangement linked to your account.",
+    "Can I make a digital payment or is it possible to use cash to top up my account?",
+    "I'm concerned that my recent transfer didn't go through. Can you help me resolve the issue?",
+    "Why hasn't my account balance been updated after the recent bank transfer?",
+    "I encountered an error while attempting to make a top-up, and it was cancelled.",
+    "Can I use my smartwatch to make a payment for fuel?",
+    "We're unable to identify a recognized card payment.",
+    "Can I access my physical card information through the mobile app?",
+    "Please dispatch my refund immediately.",
+    "I'm unable to add funds to my account.",
+    "I'm looking to obtain a Mastercard today.",
+    "I'm having trouble recalling a payment I made through the app.",
+    "Is there a charge for topping up my account using my card?",
+    "You gave me less cash than I was supposed to get when I withdrew some money.",
+    "Can I use my Mastercard to fund my account?",
+    "I observed an unexpected fee when I withdrew my cash.",
+    "We've noticed some transactions on your bank statement that don't match any payments you've made.",
+    "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?"
+  ],
+  "generated_labels": [
+    2,
+    2,
+    54,
+    38,
+    38,
+    29,
+    2,
+    52,
+    29,
+    38,
+    41,
+    54,
+    35,
+    35,
+    34,
+    54,
+    28,
+    58,
+    35,
+    5,
+    61,
+    2,
+    16,
+    38,
+    51,
+    7,
+    73,
+    16,
+    57,
+    75,
+    54,
+    19,
+    28,
+    74
+  ],
+  "source_texts": [
+    "i have been trying to add money with apple pay but it wont work, why?",
+    "Does Apple Watch support the topping-off of my account?",
+    "I wish to use my American Express to put funds into my account.",
+    "can i create my own pin right away",
+    "In regards to the PIN of the card?",
+    "What limits are there on the virtual cards?",
+    "Can you explain why my Google Pay Top isn't working?",
+    "Is there a way you can have money from a purchase I made refunded to my account.",
+    "Are there limits on the virtual cards?",
+    "When do I set up my card PIN?",
+    "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+    "I'd like to use my American Express to place money into my account.",
+    "Can you tell my why my funds transfer did not work properly?",
+    "I couldnt transfer money from my account.",
+    "Why has my card been charged an extra pound?",
+    "Top up my card please, which y'all support?",
+    "I didn't set up a direct debit payment on my account.",
+    "Can I only top-up digitally? Or could I use cash?",
+    "I think my transfer failed. What do I do now?",
+    "Why is  my balance not updated?",
+    "I got an cancellation error when I was topping up.",
+    "Can I use my Apple Watch to pay for gas?",
+    "Why is there an unknown card payment?",
+    "can i go into my app to find my pin",
+    "Please send my refund now.",
+    "I cant transfer money into my account",
+    "I'm wanting to get a Visa card today.",
+    "Help! In the app there is a payment that I don't remember.",
+    "Is topping up free?",
+    "You shorted me money when I tried to make a withdrawal.",
+    "can i use my mastercard to add money to my account",
+    "I noticed a different charge while I was taking my money out.",
+    "Purchases I did not make are appearing in my bank statement?",
+    "My ID verification hasn't gone through yet, but can I use my account anyway?"
+  ],
+  "records": [
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "i have been trying to add money with apple pay but it wont work, why?",
+      "generated": "I'm having trouble adding funds using Apple Pay, can you help me figure out why it's not working?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Does Apple Watch support the topping-off of my account?",
+      "generated": "Can I use my Apple Watch to replenish my account balance?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I wish to use my American Express to put funds into my account.",
+      "generated": "I'd like to deposit funds into my account using my American Express card."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "can i create my own pin right away",
+      "generated": "can I obtain my physical card immediately?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "In regards to the PIN of the card?",
+      "generated": "Regarding the physical card's PIN information?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "What limits are there on the virtual cards?",
+      "generated": "What restrictions are in place for the disposable cards?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can you explain why my Google Pay Top isn't working?",
+      "generated": "Why isn't my Apple Pay account functioning properly?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Is there a way you can have money from a purchase I made refunded to my account.",
+      "generated": "Can you assist me in getting a refund for a recent purchase credited back to my account?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Are there limits on the virtual cards?",
+      "generated": "Are there any restrictions on the usage of disposable cards?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "When do I set up my card PIN?",
+      "generated": "How do I activate my physical card's PIN?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+      "generated": "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I'd like to use my American Express to place money into my account.",
+      "generated": "I'd like to use my American Express card to deposit funds into my account."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Can you tell my why my funds transfer did not work properly?",
+      "generated": "Why did my recent transfer fail to process as expected?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I couldnt transfer money from my account.",
+      "generated": "I was unable to complete a transfer from my account."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why has my card been charged an extra pound?",
+      "generated": "Why is there an additional charge on my statement?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Top up my card please, which y'all support?",
+      "generated": "Can you please inform me about the payment methods you accept, specifically the cards you support?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I didn't set up a direct debit payment on my account.",
+      "generated": "We didn't find a direct debit payment arrangement linked to your account."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I only top-up digitally? Or could I use cash?",
+      "generated": "Can I make a digital payment or is it possible to use cash to top up my account?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I think my transfer failed. What do I do now?",
+      "generated": "I'm concerned that my recent transfer didn't go through. Can you help me resolve the issue?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why is  my balance not updated?",
+      "generated": "Why hasn't my account balance been updated after the recent bank transfer?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I got an cancellation error when I was topping up.",
+      "generated": "I encountered an error while attempting to make a top-up, and it was cancelled."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I use my Apple Watch to pay for gas?",
+      "generated": "Can I use my smartwatch to make a payment for fuel?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is there an unknown card payment?",
+      "generated": "We're unable to identify a recognized card payment."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "can i go into my app to find my pin",
+      "generated": "Can I access my physical card information through the mobile app?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Please send my refund now.",
+      "generated": "Please dispatch my refund immediately."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I cant transfer money into my account",
+      "generated": "I'm unable to add funds to my account."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I'm wanting to get a Visa card today.",
+      "generated": "I'm looking to obtain a Mastercard today."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Help! In the app there is a payment that I don't remember.",
+      "generated": "I'm having trouble recalling a payment I made through the app."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is topping up free?",
+      "generated": "Is there a charge for topping up my account using my card?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "You shorted me money when I tried to make a withdrawal.",
+      "generated": "You gave me less cash than I was supposed to get when I withdrew some money."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "can i use my mastercard to add money to my account",
+      "generated": "Can I use my Mastercard to fund my account?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I noticed a different charge while I was taking my money out.",
+      "generated": "I observed an unexpected fee when I withdrew my cash."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Purchases I did not make are appearing in my bank statement?",
+      "generated": "We've noticed some transactions on your bank statement that don't match any payments you've made."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "My ID verification hasn't gone through yet, but can I use my account anyway?",
+      "generated": "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "We accept various forms of identification. Which one would you like to provide?",
+    "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?",
+    "How long does it typically take to process a pending cash withdrawal request?",
+    "I've been charged twice for the same transaction on my card.",
+    "I'm expecting to receive a Mastercard",
+    "What are the restrictions on disposable card usage?",
+    "I'm trying to stop a direct debit payment that was made from my account.",
+    "My payment was declined at the store.",
+    "I'd like to exchange the item for the correct color and size, as it was not what I ordered.",
+    "I made a transfer, but my account balance hasn't been updated.",
+    "Are there any fees associated with a new card?",
+    "Can I make a payment using my Apple Watch?",
+    "Which countries do your accounts support international transactions to and from?",
+    "Is my credit card being rejected anywhere?",
+    "I'm concerned that the deposit from my recent cheque hasn't been reflected in my account balance yet, as I mailed it to you a few days ago.",
+    "I'd like to inquire about the possibility of canceling a specific transaction.",
+    "I'd like to report an issue with an unauthorized payment. I've reviewed my account activity and noticed some transactions that I'm not familiar with. Can you look into this and help me recover the funds?",
+    "Can I make purchases with my card in Austria?",
+    "I'm still waiting to see the refund from a recent transaction with a merchant. Can you check if it's been credited to my account yet?",
+    "I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?",
+    "Can I use an ATM from a different bank than my own?",
+    "Can I have my account replenished by my friends using their cards?",
+    "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place.",
+    "What kind of payment card will I be issued?",
+    "I urgently need assistance. I've just discovered that I mistakenly sent a payment to the incorrect account number, and there's a typo involved. Could you please cancel the transfer as soon as possible? I'm unable to do so through the app.",
+    "What information can you provide about the disposable card limits, such as the descriptions associated with them?",
+    "We're unable to identify a recognized card payment.",
+    "We've never processed a payment from that merchant before. This transaction appears to be unauthorized.",
+    "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction.",
+    "I need a replacement card",
+    "Can you assist me in locating the recent transfer I made?",
+    "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now.",
+    "Why isn't my refund appearing in my account statement?",
+    "Can you help me understand why my online transactions are being declined, even though my card payment is initially accepted, only to be reversed later?",
+    "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with.",
+    "This direct debit payment is not recognized as my transaction. How can I retrieve my funds?"
+  ],
+  "generated_labels": [
+    69,
+    64,
+    46,
+    63,
+    73,
+    29,
+    28,
+    25,
+    52,
+    5,
+    23,
+    2,
+    24,
+    10,
+    6,
+    8,
+    16,
+    24,
+    51,
+    22,
+    3,
+    62,
+    76,
+    73,
+    8,
+    29,
+    16,
+    16,
+    28,
+    39,
+    5,
+    15,
+    51,
+    53,
+    20,
+    28
+  ],
+  "source_texts": [
+    "What type of ID do you accept?",
+    "I usually don't get charged for transfers, why was I this month?",
+    "How long does it take to verify a cash withdraw?",
+    "I've got a repeated tranasaction on my card.",
+    "I anticipate getting a Visa card",
+    "Are there any limits if I use these virtual cards?",
+    "I need to cancel a transaction on my debit card.",
+    "My card did not go through in a shop",
+    "I received the wrong color and size, can I return it?",
+    "I did a transfer but the balance is the same.",
+    "Any charges applicable for new card?",
+    "Can I add funds directly from my Apple Watch?",
+    "What countries do your accounts send and receive to?",
+    "Is my card denied anywhere?",
+    "I am worried about the amount of my cheque, which should be credited to my account few days before. As i have already sent you the cheque.",
+    "I have a transaction and would like to know if I it's cancelable?",
+    "I need to freeze my card as soon as possible. I just checked my account and saw that there have been several payments that I don't recognize over the course of a few days. Can we investigate and get my money back?",
+    "Can I use my card in Austria?",
+    "Are the funds I requested from a merchant a few days ago in my account? I do not see them.",
+    "I have some transactions on my account I did not make. Can you cancel my card and prevent further use.",
+    "Can I use a different bank ATM than my own?",
+    "Can my account be topped-up by friends of mine.",
+    "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+    "What type of card will I receive?",
+    "Hey i need help urgently. I just realised I sent my payment to the wrong account number, there is a typo! Please cancel it immediately, I can't do it anymore from the app",
+    "Where can I find a list of descriptions the disposable cards have?",
+    "Why is there an unknown card payment?",
+    "I've never been to that store.  That's a fraudulent charge.",
+    "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+    "I want a new card",
+    "Help me find the transfer that I did.",
+    "i have used my card online before and wasn't charged, why am i charged now",
+    "When will my returned transaction show up on my account?",
+    "Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.",
+    "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+    "This debit is not my transcation. How do I get my money out back?"
+  ],
+  "records": [
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "What type of ID do you accept?",
+      "generated": "We accept various forms of identification. Which one would you like to provide?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I usually don't get charged for transfers, why was I this month?",
+      "generated": "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How long does it take to verify a cash withdraw?",
+      "generated": "How long does it typically take to process a pending cash withdrawal request?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I've got a repeated tranasaction on my card.",
+      "generated": "I've been charged twice for the same transaction on my card."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I anticipate getting a Visa card",
+      "generated": "I'm expecting to receive a Mastercard"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Are there any limits if I use these virtual cards?",
+      "generated": "What are the restrictions on disposable card usage?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I need to cancel a transaction on my debit card.",
+      "generated": "I'm trying to stop a direct debit payment that was made from my account."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card did not go through in a shop",
+      "generated": "My payment was declined at the store."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I received the wrong color and size, can I return it?",
+      "generated": "I'd like to exchange the item for the correct color and size, as it was not what I ordered."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I did a transfer but the balance is the same.",
+      "generated": "I made a transfer, but my account balance hasn't been updated."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Any charges applicable for new card?",
+      "generated": "Are there any fees associated with a new card?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I add funds directly from my Apple Watch?",
+      "generated": "Can I make a payment using my Apple Watch?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "What countries do your accounts send and receive to?",
+      "generated": "Which countries do your accounts support international transactions to and from?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is my card denied anywhere?",
+      "generated": "Is my credit card being rejected anywhere?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I am worried about the amount of my cheque, which should be credited to my account few days before. As i have already sent you the cheque.",
+      "generated": "I'm concerned that the deposit from my recent cheque hasn't been reflected in my account balance yet, as I mailed it to you a few days ago."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I have a transaction and would like to know if I it's cancelable?",
+      "generated": "I'd like to inquire about the possibility of canceling a specific transaction."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to freeze my card as soon as possible. I just checked my account and saw that there have been several payments that I don't recognize over the course of a few days. Can we investigate and get my money back?",
+      "generated": "I'd like to report an issue with an unauthorized payment. I've reviewed my account activity and noticed some transactions that I'm not familiar with. Can you look into this and help me recover the funds?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I use my card in Austria?",
+      "generated": "Can I make purchases with my card in Austria?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Are the funds I requested from a merchant a few days ago in my account? I do not see them.",
+      "generated": "I'm still waiting to see the refund from a recent transaction with a merchant. Can you check if it's been credited to my account yet?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I have some transactions on my account I did not make. Can you cancel my card and prevent further use.",
+      "generated": "I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I use a different bank ATM than my own?",
+      "generated": "Can I use an ATM from a different bank than my own?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can my account be topped-up by friends of mine.",
+      "generated": "Can I have my account replenished by my friends using their cards?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+      "generated": "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "What type of card will I receive?",
+      "generated": "What kind of payment card will I be issued?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Hey i need help urgently. I just realised I sent my payment to the wrong account number, there is a typo! Please cancel it immediately, I can't do it anymore from the app",
+      "generated": "I urgently need assistance. I've just discovered that I mistakenly sent a payment to the incorrect account number, and there's a typo involved. Could you please cancel the transfer as soon as possible? I'm unable to do so through the app."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Where can I find a list of descriptions the disposable cards have?",
+      "generated": "What information can you provide about the disposable card limits, such as the descriptions associated with them?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is there an unknown card payment?",
+      "generated": "We're unable to identify a recognized card payment."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I've never been to that store.  That's a fraudulent charge.",
+      "generated": "We've never processed a payment from that merchant before. This transaction appears to be unauthorized."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+      "generated": "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I want a new card",
+      "generated": "I need a replacement card"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Help me find the transfer that I did.",
+      "generated": "Can you assist me in locating the recent transfer I made?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "i have used my card online before and wasn't charged, why am i charged now",
+      "generated": "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "When will my returned transaction show up on my account?",
+      "generated": "Why isn't my refund appearing in my account statement?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.",
+      "generated": "Can you help me understand why my online transactions are being declined, even though my card payment is initially accepted, only to be reversed later?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+      "generated": "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "This debit is not my transcation. How do I get my money out back?",
+      "generated": "This direct debit payment is not recognized as my transaction. How can I retrieve my funds?"
+    }
+  ]
+}

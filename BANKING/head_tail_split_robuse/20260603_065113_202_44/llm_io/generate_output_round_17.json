@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "Are there any fees associated with transferring funds to my account?",
+    "If my identity verification process hasn't been completed, can I still access my account?",
+    "i didn't deposit that amount into my account",
+    "Is there a fee associated with recharging a US-issued card?",
+    "Can I still use your services if I've misplaced my phone and can't access the app?",
+    "Can I make an electronic transfer into my account using my American Express card?",
+    "This card is currently not functioning properly.",
+    "Can I request a replacement card for my account, so my daughter can use it?",
+    "what is the charge for topping up my account using my card?",
+    "The payment using my card was not accepted in the store.",
+    "Why do I see multiple transaction dates on my statement?",
+    "I'm having trouble completing a transfer to my friend's account. The transaction keeps getting declined, and I'm in a hurry to get the funds there. I've double-checked the account details, and everything seems to be accurate.",
+    "Will I incur a charge when using an international card to add funds to my account?",
+    "I've been trying to use my card for a week, but it's still not functioning properly.",
+    "What steps can I take to reactivate my blocked card?",
+    "Will you charge me extra fees if I make a payment using an international credit/debit card?",
+    "Are you limiting my limit increases?",
+    "Will I be charged a fee when I top up my account using a bank transfer?",
+    "Why was there an additional charge when I used my credit card to make the payment?",
+    "I'm unable to complete the identity verification process.",
+    "A charge is showing for a transfer transaction.",
+    "A store I frequent refused to accept my payment.",
+    "looking to replace my expiring card, what are the associated fees?",
+    "I may have mistyped my PIN, and my account is currently blocked. How can I resolve this issue and get my account unblocked?",
+    "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?",
+    "I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?",
+    "I'm trying to add funds, but I'm being asked to confirm some information before I can proceed. Can you help me with that?",
+    "I'm surprised to see a fee applied to my transfer.",
+    "Will there be an additional fee if I use a European bank card to make a top-up payment?",
+    "I'm having trouble with Google Pay functioning properly.",
+    "Why can't I select the credit card I prefer, whether it's Visa or Mastercard?",
+    "My client was exchanging their Russian rubles for UK pounds, but the amount they were charged was significantly higher than expected due to an incorrect exchange rate.",
+    "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance.",
+    "Can I get a new card? I'd like to purchase an additional one.",
+    "If I make a top-up payment via bank transfer, are there any charges involved?",
+    "Could you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for a while now.",
+    "Are there any charges for making a top-up payment using my card in Europe?",
+    "Can I obtain a Mastercard from you instead?"
+  ],
+  "generated_labels": [
+    56,
+    74,
+    20,
+    57,
+    42,
+    54,
+    14,
+    39,
+    57,
+    25,
+    63,
+    35,
+    57,
+    14,
+    49,
+    57,
+    60,
+    56,
+    15,
+    74,
+    64,
+    25,
+    9,
+    49,
+    74,
+    26,
+    71,
+    64,
+    57,
+    2,
+    73,
+    17,
+    75,
+    39,
+    56,
+    47,
+    57,
+    73
+  ],
+  "source_texts": [
+    "Is there a charge for getting my money?",
+    "If my identy verifacation hasn't gone through can I use my account?",
+    "i didnt put that money in my account",
+    "Are there any charges for topping up a US-issued card?",
+    "Can I use your services without access to the app?",
+    "Can I electronically transfer funds into my account from my American Express?",
+    "I have not been able to use this card.",
+    "My daughter would like a card from my account?  Can I do this?",
+    "how much is the fee for topping by card",
+    "I couldn't pay with card in a shop",
+    "Why does my statement show various transaction times?",
+    "Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct.",
+    "Will I get charged for topping up with an international card?",
+    "For a week now, I have tried to use my card and it is still not working.",
+    "How do I unblock my card?",
+    "Will you assess me more fees if I top up with an international card?",
+    "Do you limit my top-offs?",
+    "Will there be a charge when money is added to my account?",
+    "Why was the price higher when I paid with my card?",
+    "I can't do the verification.",
+    "I have a fee listed for a transfer.",
+    "A shop I go to didn't let me pay.",
+    "want a new card what are the fees",
+    "I may have entered the PIN wrong and the account is blocked.  What do I have to do to get it unblocked.",
+    "My ID verification hasn't gone through yet, but can I use my account anyway?",
+    "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+    "I just want to top-up, why do I need to verify anything?",
+    "I shouldn't be charged any fee for transferring .",
+    "Will you charge me more if I use a European bank card for a top up?",
+    "I can't get google pay to work right.",
+    "Why can I not choose the card i want?",
+    "My client was converting their Russian ruble into UK pound currency when they noticed their bill was much too high for the exchange. What happened?",
+    "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+    "How much is it to buy another card? I was hoping to buy another one.",
+    "If I top-up by using a trasfer are there charges that applied?",
+    "Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour.",
+    "Are there still fees for european top-ups?",
+    "Can I get a Visa from you?"
+  ],
+  "records": [
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a charge for getting my money?",
+      "generated": "Are there any fees associated with transferring funds to my account?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "If my identy verifacation hasn't gone through can I use my account?",
+      "generated": "If my identity verification process hasn't been completed, can I still access my account?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "i didnt put that money in my account",
+      "generated": "i didn't deposit that amount into my account"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are there any charges for topping up a US-issued card?",
+      "generated": "Is there a fee associated with recharging a US-issued card?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Can I use your services without access to the app?",
+      "generated": "Can I still use your services if I've misplaced my phone and can't access the app?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can I electronically transfer funds into my account from my American Express?",
+      "generated": "Can I make an electronic transfer into my account using my American Express card?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I have not been able to use this card.",
+      "generated": "This card is currently not functioning properly."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "My daughter would like a card from my account?  Can I do this?",
+      "generated": "Can I request a replacement card for my account, so my daughter can use it?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how much is the fee for topping by card",
+      "generated": "what is the charge for topping up my account using my card?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I couldn't pay with card in a shop",
+      "generated": "The payment using my card was not accepted in the store."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why does my statement show various transaction times?",
+      "generated": "Why do I see multiple transaction dates on my statement?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct.",
+      "generated": "I'm having trouble completing a transfer to my friend's account. The transaction keeps getting declined, and I'm in a hurry to get the funds there. I've double-checked the account details, and everything seems to be accurate."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Will I get charged for topping up with an international card?",
+      "generated": "Will I incur a charge when using an international card to add funds to my account?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "For a week now, I have tried to use my card and it is still not working.",
+      "generated": "I've been trying to use my card for a week, but it's still not functioning properly."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I unblock my card?",
+      "generated": "What steps can I take to reactivate my blocked card?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Will you assess me more fees if I top up with an international card?",
+      "generated": "Will you charge me extra fees if I make a payment using an international credit/debit card?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Do you limit my top-offs?",
+      "generated": "Are you limiting my limit increases?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will there be a charge when money is added to my account?",
+      "generated": "Will I be charged a fee when I top up my account using a bank transfer?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why was the price higher when I paid with my card?",
+      "generated": "Why was there an additional charge when I used my credit card to make the payment?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I can't do the verification.",
+      "generated": "I'm unable to complete the identity verification process."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I have a fee listed for a transfer.",
+      "generated": "A charge is showing for a transfer transaction."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "A shop I go to didn't let me pay.",
+      "generated": "A store I frequent refused to accept my payment."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "want a new card what are the fees",
+      "generated": "looking to replace my expiring card, what are the associated fees?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I may have entered the PIN wrong and the account is blocked.  What do I have to do to get it unblocked.",
+      "generated": "I may have mistyped my PIN, and my account is currently blocked. How can I resolve this issue and get my account unblocked?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "My ID verification hasn't gone through yet, but can I use my account anyway?",
+      "generated": "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+      "generated": "I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I just want to top-up, why do I need to verify anything?",
+      "generated": "I'm trying to add funds, but I'm being asked to confirm some information before I can proceed. Can you help me with that?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I shouldn't be charged any fee for transferring .",
+      "generated": "I'm surprised to see a fee applied to my transfer."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Will you charge me more if I use a European bank card for a top up?",
+      "generated": "Will there be an additional fee if I use a European bank card to make a top-up payment?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I can't get google pay to work right.",
+      "generated": "I'm having trouble with Google Pay functioning properly."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Why can I not choose the card i want?",
+      "generated": "Why can't I select the credit card I prefer, whether it's Visa or Mastercard?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "My client was converting their Russian ruble into UK pound currency when they noticed their bill was much too high for the exchange. What happened?",
+      "generated": "My client was exchanging their Russian rubles for UK pounds, but the amount they were charged was significantly higher than expected due to an incorrect exchange rate."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+      "generated": "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How much is it to buy another card? I was hoping to buy another one.",
+      "generated": "Can I get a new card? I'd like to purchase an additional one."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "If I top-up by using a trasfer are there charges that applied?",
+      "generated": "If I make a top-up payment via bank transfer, are there any charges involved?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour.",
+      "generated": "Could you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for a while now."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are there still fees for european top-ups?",
+      "generated": "Are there any charges for making a top-up payment using my card in Europe?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get a Visa from you?",
+      "generated": "Can I obtain a Mastercard from you instead?"
+    }
+  ]
+}

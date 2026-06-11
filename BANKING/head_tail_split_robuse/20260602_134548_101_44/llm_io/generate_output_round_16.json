@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I was expecting to receive some cash, but instead, I was debited without any funds being transferred.",
+    "I'm planning a trip abroad and I'd like to withdraw some cash from a local ATM, but I'm concerned that I'll be hit with an unfavorable exchange rate, which might result in an unexpected fee.",
+    "Might I request a card, as I am a resident of the European Union?",
+    "Why was the exchange rate used for my cash withdrawal so inaccurate?",
+    "Can you assist me in getting a refund for a recent purchase credited back to my account?",
+    "I'm a resident of the European Union. Can I obtain one of your credit cards?",
+    "I recently discovered that the payment didn't process as expected. Initially, the funds were debited from my account, but they've since been reversed. Could you assist me in resolving this issue promptly?",
+    "Who is the source of the funds being used to make this transaction?",
+    "I recently purchased a product, but I'm considering returning it.",
+    "We didn't find a direct debit payment arrangement in your account records.",
+    "I've been waiting for a while now, and since the order hasn't arrived, I'd like to request a refund as I'm no longer interested in pursuing the purchase.",
+    "Can I get the correct exchange rate for a cash withdrawal in my local currency while I'm traveling, or will I be charged an incorrect rate and incur extra fees?",
+    "Can I make an exchange using the app?",
+    "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app.",
+    "Can you assist me with arranging a transfer to China?",
+    "Why do I see multiple transaction dates on my statement?",
+    "I require assistance from your team to locate the closest ATM location.",
+    "Can I modify my PIN at any ATM location?",
+    "I've been waiting for an eternity for my online order to arrive, but it's nowhere to be found. I'd like to request a refund as I'm not willing to continue holding onto my payment.",
+    "I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?",
+    "What should I do about my jammed ATM card?",
+    "I need a replacement card because I think your machine has eaten my original one.",
+    "I'd like to understand why a pending transfer is showing as available.",
+    "The item I purchased was defective.",
+    "I require an immediate refund, but the refund amount is not showing up in my account.",
+    "I'd like to confirm the origin of a recent deposit.",
+    "I'd like a physical credit card.",
+    "When can I expect the funds to be credited to my account?",
+    "I was overcharged for the item, and the amount doesn't match the expected exchange rate.",
+    "Why did the payment I made online get reversed and credited back to my account?",
+    "What's the process for obtaining a disposable virtual card?",
+    "I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount.",
+    "Can I reissue my card? I previously reported it lost, but I've since located it and would like to reactivate it.",
+    "Can I get a digital card instead of a physical one?",
+    "I'm wondering if I was incorrectly charged a fee for a recent cash withdrawal, perhaps related to a recent purchase or transaction?",
+    "What circumstances would cause my payment to be reversed?",
+    "I haven't received my card yet, and it's been a week. What should I do now?",
+    "I was given less cash than I expected, as I only received 10 pounds when I asked for 30."
+  ],
+  "generated_labels": [
+    75,
+    76,
+    24,
+    76,
+    52,
+    24,
+    53,
+    70,
+    52,
+    28,
+    52,
+    76,
+    33,
+    33,
+    67,
+    63,
+    3,
+    21,
+    52,
+    21,
+    18,
+    18,
+    48,
+    52,
+    51,
+    70,
+    43,
+    67,
+    17,
+    53,
+    37,
+    75,
+    13,
+    40,
+    19,
+    53,
+    11,
+    75
+  ],
+  "source_texts": [
+    "i did not get any money but still was charged",
+    "How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.",
+    "May I get one of your cards?  I live in the EU.",
+    "Why did you give me so little currency?",
+    "Is there a way you can have money from a purchase I made refunded to my account.",
+    "I'm in the EU. Can I get one of your cards?",
+    "I just found out from the seller that my money didn't go through. I checked my account and it was deducted at first but now it's back in my account. Can you  please fix this for me quickly?",
+    "Who is giving me my money?",
+    "I bought a product a week ago, but may need to return it.",
+    "I did not set up a direct debit I have",
+    "It's been some time ago that I placed an order and it just isn't coming. At this point just give me back my money because I'm not paying them.",
+    "Can I withdraw money in my hometown currency while on holiday without any additional fees?",
+    "Can this convert money?",
+    "I am from X but am traveling to Y - how do I get currency for Y?",
+    "Help! I need to transfer something to China.",
+    "Why does my statement show various transaction times?",
+    "I need help from someone in your department with finding my nearest ATM.",
+    "Can I change my in at all ATM's?",
+    "It has been forever ago that I made an order online. The product simply is not coming. Just give me back my money because I'm not paying these people.",
+    "I can't freeze my account as I need the card as I am traveling, how do I change my pin?",
+    "What should I do with my stuck ATM?",
+    "How do I get a new card as your machine swallowed mine!",
+    "I need to know why a money transfer is available.",
+    "My product was faulty.",
+    "i need a refund right away but the funds aren't available in my account",
+    "i need to trace a deposit",
+    "I want a real card",
+    "What are the time frames for the money to be available in my account?",
+    "I was charged the wing amount for an item.",
+    "I tried to buy something online but my funds were transferred back to my account. What is happening?",
+    "how do the cards work?",
+    "Why can't I take $100 out",
+    "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+    "Is there an alternative to a physical card?",
+    "I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now?",
+    "Under what condition will my payment revert?",
+    "I don't have my card after 1 week. What are my next steps?",
+    "If the ATM only gave me 10 pounds instead of the 30 I requested, what do I do?"
+  ],
+  "records": [
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "i did not get any money but still was charged",
+      "generated": "I was expecting to receive some cash, but instead, I was debited without any funds being transferred."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.",
+      "generated": "I'm planning a trip abroad and I'd like to withdraw some cash from a local ATM, but I'm concerned that I'll be hit with an unfavorable exchange rate, which might result in an unexpected fee."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "May I get one of your cards?  I live in the EU.",
+      "generated": "Might I request a card, as I am a resident of the European Union?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why did you give me so little currency?",
+      "generated": "Why was the exchange rate used for my cash withdrawal so inaccurate?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Is there a way you can have money from a purchase I made refunded to my account.",
+      "generated": "Can you assist me in getting a refund for a recent purchase credited back to my account?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I'm in the EU. Can I get one of your cards?",
+      "generated": "I'm a resident of the European Union. Can I obtain one of your credit cards?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I just found out from the seller that my money didn't go through. I checked my account and it was deducted at first but now it's back in my account. Can you  please fix this for me quickly?",
+      "generated": "I recently discovered that the payment didn't process as expected. Initially, the funds were debited from my account, but they've since been reversed. Could you assist me in resolving this issue promptly?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Who is giving me my money?",
+      "generated": "Who is the source of the funds being used to make this transaction?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I bought a product a week ago, but may need to return it.",
+      "generated": "I recently purchased a product, but I'm considering returning it."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I did not set up a direct debit I have",
+      "generated": "We didn't find a direct debit payment arrangement in your account records."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "It's been some time ago that I placed an order and it just isn't coming. At this point just give me back my money because I'm not paying them.",
+      "generated": "I've been waiting for a while now, and since the order hasn't arrived, I'd like to request a refund as I'm no longer interested in pursuing the purchase."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can I withdraw money in my hometown currency while on holiday without any additional fees?",
+      "generated": "Can I get the correct exchange rate for a cash withdrawal in my local currency while I'm traveling, or will I be charged an incorrect rate and incur extra fees?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can this convert money?",
+      "generated": "Can I make an exchange using the app?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I am from X but am traveling to Y - how do I get currency for Y?",
+      "generated": "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "Help! I need to transfer something to China.",
+      "generated": "Can you assist me with arranging a transfer to China?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why does my statement show various transaction times?",
+      "generated": "Why do I see multiple transaction dates on my statement?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need help from someone in your department with finding my nearest ATM.",
+      "generated": "I require assistance from your team to locate the closest ATM location."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my in at all ATM's?",
+      "generated": "Can I modify my PIN at any ATM location?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "It has been forever ago that I made an order online. The product simply is not coming. Just give me back my money because I'm not paying these people.",
+      "generated": "I've been waiting for an eternity for my online order to arrive, but it's nowhere to be found. I'd like to request a refund as I'm not willing to continue holding onto my payment."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I can't freeze my account as I need the card as I am traveling, how do I change my pin?",
+      "generated": "I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "What should I do with my stuck ATM?",
+      "generated": "What should I do about my jammed ATM card?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "How do I get a new card as your machine swallowed mine!",
+      "generated": "I need a replacement card because I think your machine has eaten my original one."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I need to know why a money transfer is available.",
+      "generated": "I'd like to understand why a pending transfer is showing as available."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "My product was faulty.",
+      "generated": "The item I purchased was defective."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "i need a refund right away but the funds aren't available in my account",
+      "generated": "I require an immediate refund, but the refund amount is not showing up in my account."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "i need to trace a deposit",
+      "generated": "I'd like to confirm the origin of a recent deposit."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I want a real card",
+      "generated": "I'd like a physical credit card."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "What are the time frames for the money to be available in my account?",
+      "generated": "When can I expect the funds to be credited to my account?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I was charged the wing amount for an item.",
+      "generated": "I was overcharged for the item, and the amount doesn't match the expected exchange rate."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to buy something online but my funds were transferred back to my account. What is happening?",
+      "generated": "Why did the payment I made online get reversed and credited back to my account?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "how do the cards work?",
+      "generated": "What's the process for obtaining a disposable virtual card?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Why can't I take $100 out",
+      "generated": "I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+      "generated": "Can I reissue my card? I previously reported it lost, but I've since located it and would like to reactivate it."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "Is there an alternative to a physical card?",
+      "generated": "Can I get a digital card instead of a physical one?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now?",
+      "generated": "I'm wondering if I was incorrectly charged a fee for a recent cash withdrawal, perhaps related to a recent purchase or transaction?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Under what condition will my payment revert?",
+      "generated": "What circumstances would cause my payment to be reversed?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I don't have my card after 1 week. What are my next steps?",
+      "generated": "I haven't received my card yet, and it's been a week. What should I do now?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "If the ATM only gave me 10 pounds instead of the 30 I requested, what do I do?",
+      "generated": "I was given less cash than I expected, as I only received 10 pounds when I asked for 30."
+    }
+  ]
+}

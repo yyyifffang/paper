@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "Why is there a holdup in processing my card payment for my account?",
+    "Can you accept my credit card, as it's the only one I have?",
+    "I'd like to report my card as stolen and request that it be immediately suspended or deactivated to prevent any unauthorized transactions.",
+    "I'm having trouble finishing the activation process for my card.",
+    "My payment was declined at the store.",
+    "Why isn't my bank transfer reflected in my account balance?",
+    "I made a transfer to my family on Friday, but they haven't received it yet.",
+    "Please assist me. My temporary virtual card is not functioning properly.",
+    "Explain the process for verifying my identity",
+    "The payment was not processed due to a card issue.",
+    "I made a payment and didn't receive a confirmation",
+    "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?",
+    "Is the PIN card separate from the physical card?",
+    "Can I request a replacement card before my current one expires?",
+    "to confirm my account information",
+    "I'm having trouble finding the automatic top-up feature, can you help me locate it?",
+    "Do I need to make a payment to obtain a physical card?",
+    "How often can I increase my limits through top-ups?",
+    "My credit card's expiration date is approaching, will you automatically issue a new one for me?",
+    "my card top-up is still pending, where can I locate it?",
+    "Can I have multiple cards linked to my account?",
+    "How do I get my physical card delivered?",
+    "A payment has not been successfully processed yet.",
+    "We're having trouble verifying your identity, despite your login credentials being accurate.",
+    "I'd like to replace a faulty card.",
+    "I misplaced my card and require a replacement, what's the fee for a new one?",
+    "I'm still waiting for my credit card to arrive.",
+    "I've made a deposit, but my account balance hasn't been updated",
+    "Can I get a spare card added to my account?",
+    "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.",
+    "I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?",
+    "If I require additional cards, will I be charged a fee for obtaining them?",
+    "How can I determine if my card has been compromised and is being used by someone else?",
+    "I'm unable to locate the recent card top-up in my digital wallet.",
+    "What types of payment cards do you accept?"
+  ],
+  "generated_labels": [
+    45,
+    54,
+    41,
+    0,
+    25,
+    5,
+    66,
+    72,
+    69,
+    25,
+    66,
+    28,
+    38,
+    9,
+    74,
+    4,
+    43,
+    60,
+    9,
+    62,
+    39,
+    43,
+    45,
+    68,
+    14,
+    39,
+    11,
+    5,
+    39,
+    46,
+    28,
+    39,
+    22,
+    62,
+    73
+  ],
+  "source_texts": [
+    "What is the cause of the delay in applying my card payment to my account?",
+    "Will you accept my credit card, it my only one.",
+    "I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.",
+    "I couldn't complete card activation.",
+    "My card did not go through in a shop",
+    "How can I fix my bank transfer to show up on my bank account?",
+    "I sent money to my family last Friday but they don't have it.",
+    "Please help me.  My disposable virtual card won't work right.",
+    "Tell me what the steps for the identity checks are",
+    "I couldn't pay with my card",
+    "I did a money transaction and dont have a receipt",
+    "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+    "Does the PIN come under separate cover?",
+    "Can I order a new card with the app?",
+    "what I need to verify my account",
+    "I know there's an auto-top option but I can not locate it when I look?",
+    "Is payment required to get a card of my own?",
+    "How many times can I make a top-up?",
+    "My card expires soon, will you send me one automatically?",
+    "my top up isnt there yet where do i find it",
+    "How many different cards can I have for my account?",
+    "Card delivery services? Where?",
+    "There is a payment that has not processed.",
+    "The app isn't letting me log in, but my info is correct.",
+    "How do I re-order a damaged card?",
+    "I lost my card and need a new one, will it cost me?",
+    "I haven't gotten my credit card in the mail.",
+    "I've transferred money into my account but the balance is the same",
+    "how is it possible to add another card to account",
+    "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+    "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+    "If I need more than cards will I have to pay a fee to receive them?",
+    "How can I tell if someone else is using my card?",
+    "I can't see my top up in my wallet!",
+    "What credit cards do you carry"
+  ],
+  "records": [
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "What is the cause of the delay in applying my card payment to my account?",
+      "generated": "Why is there a holdup in processing my card payment for my account?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Will you accept my credit card, it my only one.",
+      "generated": "Can you accept my credit card, as it's the only one I have?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.",
+      "generated": "I'd like to report my card as stolen and request that it be immediately suspended or deactivated to prevent any unauthorized transactions."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I couldn't complete card activation.",
+      "generated": "I'm having trouble finishing the activation process for my card."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card did not go through in a shop",
+      "generated": "My payment was declined at the store."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How can I fix my bank transfer to show up on my bank account?",
+      "generated": "Why isn't my bank transfer reflected in my account balance?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I sent money to my family last Friday but they don't have it.",
+      "generated": "I made a transfer to my family on Friday, but they haven't received it yet."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Please help me.  My disposable virtual card won't work right.",
+      "generated": "Please assist me. My temporary virtual card is not functioning properly."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Tell me what the steps for the identity checks are",
+      "generated": "Explain the process for verifying my identity"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I couldn't pay with my card",
+      "generated": "The payment was not processed due to a card issue."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I did a money transaction and dont have a receipt",
+      "generated": "I made a payment and didn't receive a confirmation"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+      "generated": "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Does the PIN come under separate cover?",
+      "generated": "Is the PIN card separate from the physical card?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I order a new card with the app?",
+      "generated": "Can I request a replacement card before my current one expires?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "what I need to verify my account",
+      "generated": "to confirm my account information"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I know there's an auto-top option but I can not locate it when I look?",
+      "generated": "I'm having trouble finding the automatic top-up feature, can you help me locate it?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Is payment required to get a card of my own?",
+      "generated": "Do I need to make a payment to obtain a physical card?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How many times can I make a top-up?",
+      "generated": "How often can I increase my limits through top-ups?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card expires soon, will you send me one automatically?",
+      "generated": "My credit card's expiration date is approaching, will you automatically issue a new one for me?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "my top up isnt there yet where do i find it",
+      "generated": "my card top-up is still pending, where can I locate it?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many different cards can I have for my account?",
+      "generated": "Can I have multiple cards linked to my account?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Card delivery services? Where?",
+      "generated": "How do I get my physical card delivered?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "There is a payment that has not processed.",
+      "generated": "A payment has not been successfully processed yet."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app isn't letting me log in, but my info is correct.",
+      "generated": "We're having trouble verifying your identity, despite your login credentials being accurate."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I re-order a damaged card?",
+      "generated": "I'd like to replace a faulty card."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I lost my card and need a new one, will it cost me?",
+      "generated": "I misplaced my card and require a replacement, what's the fee for a new one?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I haven't gotten my credit card in the mail.",
+      "generated": "I'm still waiting for my credit card to arrive."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I've transferred money into my account but the balance is the same",
+      "generated": "I've made a deposit, but my account balance hasn't been updated"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "how is it possible to add another card to account",
+      "generated": "Can I get a spare card added to my account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+      "generated": "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+      "generated": "I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "If I need more than cards will I have to pay a fee to receive them?",
+      "generated": "If I require additional cards, will I be charged a fee for obtaining them?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "How can I tell if someone else is using my card?",
+      "generated": "How can I determine if my card has been compromised and is being used by someone else?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I can't see my top up in my wallet!",
+      "generated": "I'm unable to locate the recent card top-up in my digital wallet."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "What credit cards do you carry",
+      "generated": "What types of payment cards do you accept?"
+    }
+  ]
+}

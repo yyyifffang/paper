@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "The card's security has been compromised.",
+    "Why hasn't my account balance been updated after I deposited a cheque or cash? I've been waiting for a while now.",
+    "What steps does your app take to move funds into another account?",
+    "I misplaced my wallet, which contained all my credit cards.",
+    "Is there an issue with your system or network? I've attempted to initiate a standard transfer multiple times, but it's not going through.",
+    "I'd like to cancel my account due to dissatisfaction with your services.",
+    "Could you please provide me with a comprehensive guide on how to verify my identity?",
+    "I'd like to cancel my account, please.",
+    "We accept various forms of identification. Which one would you like to provide?",
+    "I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts.",
+    "I was unable to complete a transfer from my account.",
+    "I'm really frustrated with this ATM, it slapped me with an unexpected fee, Can you tell me why it did that?",
+    "Why is there a holdup in processing my card payment for my account?",
+    "Can I set up automatic top-ups to add funds at regular intervals while I'm traveling?",
+    "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening.",
+    "How can I activate my new card so I can start using it?",
+    "I'd like to report my card as stolen and request that it be immediately suspended or deactivated to prevent any unauthorized transactions.",
+    "What's the process for converting currencies?",
+    "Is there a fee for topping up my account via bank transfer?",
+    "I made a domestic transfer a few days ago, but the recipient hasn't received it yet. Could you look into this and let me know what's causing the delay, as I've double-checked the account number to ensure it's correct.",
+    "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?",
+    "Why isn't my Apple Pay account functioning properly?",
+    "How do I turn on my new credit card?",
+    "I need to receive my physical card.",
+    "Can my account be accessed by an unauthorized person? I had my phone stolen.",
+    "I got my new card, can you help me link it to my account so I can use it in the app?",
+    "Is my credit card being rejected anywhere?",
+    "I made a domestic transfer yesterday, but the recipient hasn't received it yet. Could you look into this for me? I've double-checked the account number to ensure it's correct.",
+    "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?",
+    "What currencies are accepted for international transactions with this service?",
+    "Cancel my account forthwith.",
+    "Can you accept my credit card, as it's the only one I have?",
+    "is there a restriction preventing me from initiating transactions",
+    "When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?",
+    "This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?"
+  ],
+  "generated_labels": [
+    22,
+    6,
+    65,
+    41,
+    35,
+    55,
+    69,
+    55,
+    69,
+    7,
+    35,
+    19,
+    45,
+    4,
+    25,
+    0,
+    41,
+    32,
+    56,
+    66,
+    66,
+    2,
+    0,
+    38,
+    42,
+    13,
+    10,
+    66,
+    2,
+    36,
+    55,
+    54,
+    7,
+    19,
+    26
+  ],
+  "source_texts": [
+    "The card has suffered a security breach.",
+    "Why is it taking so long for my money to appear in my account? I have been waiting a week!",
+    "How does your app transfer the money",
+    "I lost my wallet and all my cards were in it.",
+    "Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere.",
+    "I would like to invalidate my account.  I am very disappointed with your services.",
+    "Can I get a full list of instructions for identity checks?",
+    "I no longer want this account, what should I do?",
+    "What type of ID do you accept?",
+    "I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages.",
+    "I couldnt transfer money from my account.",
+    "I hate this ATM, it charged me an extra fee, Why did it charge?",
+    "What is the cause of the delay in applying my card payment to my account?",
+    "When traveling, is it possible for it to add money at specific time intervals?",
+    "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+    "What do I need to do in order to use my card I just got?",
+    "I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.",
+    "How do you do exchanges?",
+    "Does it cost me to add cash?",
+    "I have done a transfer within the country a couple days ago, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that several times already.",
+    "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+    "Can you explain why my Google Pay Top isn't working?",
+    "How can I switch on my new card?",
+    "I haven't been sent my new pin!",
+    "Can my account me accessed by a thief?  I was mugged.",
+    "I received my card, how do I get it to work in the app?",
+    "Is my card denied anywhere?",
+    "I performed a transfer within the country the day before yesterday, but it has not gone through? Can you check on that? The account number is definitely correct, as I've checked.",
+    "I seem to be having trouble with my Google Pay Top. Can you please help?",
+    "What types of foreign money can be used with this service.?",
+    "Remove my account immediately.",
+    "Will you accept my credit card, it my only one.",
+    "is there something blocking me from making transfers",
+    "Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now?",
+    "This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined."
+  ],
+  "records": [
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "The card has suffered a security breach.",
+      "generated": "The card's security has been compromised."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why is it taking so long for my money to appear in my account? I have been waiting a week!",
+      "generated": "Why hasn't my account balance been updated after I deposited a cheque or cash? I've been waiting for a while now."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "How does your app transfer the money",
+      "generated": "What steps does your app take to move funds into another account?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I lost my wallet and all my cards were in it.",
+      "generated": "I misplaced my wallet, which contained all my credit cards."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere.",
+      "generated": "Is there an issue with your system or network? I've attempted to initiate a standard transfer multiple times, but it's not going through."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I would like to invalidate my account.  I am very disappointed with your services.",
+      "generated": "I'd like to cancel my account due to dissatisfaction with your services."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Can I get a full list of instructions for identity checks?",
+      "generated": "Could you please provide me with a comprehensive guide on how to verify my identity?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I no longer want this account, what should I do?",
+      "generated": "I'd like to cancel my account, please."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "What type of ID do you accept?",
+      "generated": "We accept various forms of identification. Which one would you like to provide?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages.",
+      "generated": "I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I couldnt transfer money from my account.",
+      "generated": "I was unable to complete a transfer from my account."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I hate this ATM, it charged me an extra fee, Why did it charge?",
+      "generated": "I'm really frustrated with this ATM, it slapped me with an unexpected fee, Can you tell me why it did that?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "What is the cause of the delay in applying my card payment to my account?",
+      "generated": "Why is there a holdup in processing my card payment for my account?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "When traveling, is it possible for it to add money at specific time intervals?",
+      "generated": "Can I set up automatic top-ups to add funds at regular intervals while I'm traveling?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+      "generated": "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "What do I need to do in order to use my card I just got?",
+      "generated": "How can I activate my new card so I can start using it?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.",
+      "generated": "I'd like to report my card as stolen and request that it be immediately suspended or deactivated to prevent any unauthorized transactions."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "How do you do exchanges?",
+      "generated": "What's the process for converting currencies?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Does it cost me to add cash?",
+      "generated": "Is there a fee for topping up my account via bank transfer?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I have done a transfer within the country a couple days ago, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that several times already.",
+      "generated": "I made a domestic transfer a few days ago, but the recipient hasn't received it yet. Could you look into this and let me know what's causing the delay, as I've double-checked the account number to ensure it's correct."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+      "generated": "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can you explain why my Google Pay Top isn't working?",
+      "generated": "Why isn't my Apple Pay account functioning properly?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can I switch on my new card?",
+      "generated": "How do I turn on my new credit card?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I haven't been sent my new pin!",
+      "generated": "I need to receive my physical card."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Can my account me accessed by a thief?  I was mugged.",
+      "generated": "Can my account be accessed by an unauthorized person? I had my phone stolen."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I received my card, how do I get it to work in the app?",
+      "generated": "I got my new card, can you help me link it to my account so I can use it in the app?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is my card denied anywhere?",
+      "generated": "Is my credit card being rejected anywhere?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I performed a transfer within the country the day before yesterday, but it has not gone through? Can you check on that? The account number is definitely correct, as I've checked.",
+      "generated": "I made a domestic transfer yesterday, but the recipient hasn't received it yet. Could you look into this for me? I've double-checked the account number to ensure it's correct."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I seem to be having trouble with my Google Pay Top. Can you please help?",
+      "generated": "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What types of foreign money can be used with this service.?",
+      "generated": "What currencies are accepted for international transactions with this service?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "Remove my account immediately.",
+      "generated": "Cancel my account forthwith."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Will you accept my credit card, it my only one.",
+      "generated": "Can you accept my credit card, as it's the only one I have?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "is there something blocking me from making transfers",
+      "generated": "is there a restriction preventing me from initiating transactions"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now?",
+      "generated": "When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined.",
+      "generated": "This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?"
+    }
+  ]
+}

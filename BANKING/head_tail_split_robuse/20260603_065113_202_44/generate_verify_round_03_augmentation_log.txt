@@ -1,0 +1,77 @@
+GEN | [verify_source_of_funds] | Orig: My source of funds require verification. -> Aug: We need to confirm the origin of your funds.
+GEN | [age_limit] | Orig: What is the youngest age for an account? -> Aug: At what minimum age can I open an account?
+GEN | [verify_source_of_funds] | Orig: My source of funds need verification. -> Aug: We need to confirm the origin of your funds.
+GEN | [verify_source_of_funds] | Orig: who can put money in my account? -> Aug: What is the origin of the funds you'd like to deposit into your account?
+GEN | [receiving_money] | Orig: My friend wants to send me money, can she? -> Aug: Is it possible for my friend to transfer funds to me?
+GEN | [age_limit] | Orig: Would I be able to open an account for my daughter? -> Aug: Can I establish an account for my child?
+GEN | [age_limit] | Orig: Is there a possibility to open an account for my sons and daughters? -> Aug: Can I open accounts for my children?
+GEN | [verify_source_of_funds] | Orig: I require verification of my source of funds. -> Aug: I need to confirm the origin of my funds.
+GEN | [verify_source_of_funds] | Orig: I have to verify my source of funds. -> Aug: I need to confirm the origin of my funds.
+GEN | [verify_source_of_funds] | Orig: Please verify my source of funds. -> Aug: Please confirm the origin of the funds used for this transaction.
+GEN | [why_verify_identity] | Orig: Can i make transactions before identity verification? -> Aug: Can I initiate transactions before completing the identity verification process?
+GEN | [age_limit] | Orig: Is there an age limit to get an account? -> Aug: Are there any age restrictions for opening an account?
+GEN | [receiving_money] | Orig: Can my friend send me money? -> Aug: Can I receive a payment from my friend?
+GEN | [receiving_money] | Orig: My friend would like to send me money. What are the options available to them? -> Aug: My friend wants to transfer funds to me. What methods can they use to do so?
+GEN | [transfer_timing] | Orig: When can I use money sent to my account? -> Aug: When can I access funds transferred to my account?
+GEN | [age_limit] | Orig: Could my daughter open an account? -> Aug: Can my child create an account?
+GEN | [receiving_money] | Orig: How would my friend be able to send me money? -> Aug: How can my friend transfer funds to me?
+GEN | [age_limit] | Orig: Can I open an account for my offspring? -> Aug: Can I establish an account for my minor child?
+GEN | [age_limit] | Orig: Is there an age limit to open an account -> Aug: Are there any age restrictions for opening an account?
+GEN | [age_limit] | Orig: Is there any way I could open an account for my daughter? -> Aug: Can I open an account for my child?
+GEN | [age_limit] | Orig: what is the age limit for opening a new account -> Aug: what is the minimum age requirement for opening a new account
+GEN | [receiving_money] | Orig: Can friends send me money? -> Aug: Can I accept money from my friends?
+GEN | [verify_source_of_funds] | Orig: How can I receive verification for the source of my funds? -> Aug: Can you please provide information to confirm the origin of the funds used for this transaction?
+GEN | [age_limit] | Orig: Can my 8 year old grandson open an account at the bank? -> Aug: Can my 7-year-old grandson be eligible to open an account at the bank?
+GEN | [verify_source_of_funds] | Orig: What do I do to verify my source of funds? -> Aug: How can I confirm the origin of my funds?
+GEN | [verify_source_of_funds] | Orig: How do I verify my source of funds? -> Aug: Can you please confirm the origin of the funds used for this transaction?
+GEN | [age_limit] | Orig: How old do kids have to be to open an account? -> Aug: What is the minimum age requirement for a child to open a bank account?
+GEN | [receiving_money] | Orig: I would like to know how my friend would be able to send me money -> Aug: I'd like to find out how my friend can transfer funds to me.
+GEN | [age_limit] | Orig: Is there an age limit for opening an account? -> Aug: Are there any age restrictions for creating a new account?
+GEN | [age_limit] | Orig: How old do my kids need to be to open an account? -> Aug: What is the minimum age requirement for opening an account for my children?
+GEN | [receiving_money] | Orig: What methods are available for my friend to send me money? -> Aug: How can my friend transfer funds to me?
+GEN | [age_limit] | Orig: Am I able to open an account for my children? -> Aug: Can I establish an account for my minors?
+GEN | [receiving_money] | Orig: Do I need to do anything special for my friend to send money to my account? -> Aug: What steps should my friend take to transfer funds to my account?
+GEN | [age_limit] | Orig: Is there a minimum age for having an account? -> Aug: What is the minimum age requirement to open an account?
+GEN | [receiving_money] | Orig: Will my employer be able to pay me with this service -> Aug: Can my employer use this service to transfer funds to me?
+GEN | [edit_personal_details] | Orig: Am I able to modify my account details? -> Aug: Can I make changes to my personal information?
+GEN | [age_limit] | Orig: Can I get an account for my son? -> Aug: Can I open an account for my child?
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're planning to establish a savings plan for my child's future education expenses.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: My source of funds require verification. | Augmented: We need to confirm the origin of your funds.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: What is the youngest age for an account? | Augmented: At what minimum age can I open an account?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: My source of funds need verification. | Augmented: We need to confirm the origin of your funds.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: who can put money in my account? | Augmented: What is the origin of the funds you'd like to deposit into your account?
+VAL | [receiving_money] | ACCEPT | Reason: ... | Original: My friend wants to send me money, can she? | Augmented: Is it possible for my friend to transfer funds to me?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Would I be able to open an account for my daughter? | Augmented: Can I establish an account for my child?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Is there a possibility to open an account for my sons and daughters? | Augmented: Can I open accounts for my children?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: ... | Original: I require verification of my source of funds. | Augmented: I need to confirm the origin of my funds.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: Both sentences convey the need to validate the origin or source of one's funds in a banking context. | Original: I have to verify my source of funds. | Augmented: I need to confirm the origin of my funds.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: Please verify my source of funds. | Augmented: Please confirm the origin of the funds used for this transaction.
+VAL | [why_verify_identity] | ACCEPT | Reason: ... | Original: Can i make transactions before identity verification? | Augmented: Can I initiate transactions before completing the identity verification process?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Is there an age limit to get an account? | Augmented: Are there any age restrictions for opening an account?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Can my friend send me money? | Augmented: Can I receive a payment from my friend?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: My friend would like to send me money. What are the options available to them? | Augmented: My friend wants to transfer funds to me. What methods can they use to do so?
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: When can I use money sent to my account? | Augmented: When can I access funds transferred to my account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Could my daughter open an account? | Augmented: Can my child create an account?
+VAL | [receiving_money] | ACCEPT | Reason: ... | Original: How would my friend be able to send me money? | Augmented: How can my friend transfer funds to me?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Can I open an account for my offspring? | Augmented: Can I establish an account for my minor child?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Is there an age limit to open an account | Augmented: Are there any age restrictions for opening an account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Is there any way I could open an account for my daughter? | Augmented: Can I open an account for my child?
+VAL | [age_limit] | ACCEPT | Reason: Both texts are asking about the age requirement to open a new account, preserving the 'age_limit' intent. | Original: what is the age limit for opening a new account | Augmented: what is the minimum age requirement for opening a new account
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Can friends send me money? | Augmented: Can I accept money from my friends?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: How can I receive verification for the source of my funds? | Augmented: Can you please provide information to confirm the origin of the funds used for this transaction?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Can my 8 year old grandson open an account at the bank? | Augmented: Can my 7-year-old grandson be eligible to open an account at the bank?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: ... | Original: What do I do to verify my source of funds? | Augmented: How can I confirm the origin of my funds?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: How do I verify my source of funds? | Augmented: Can you please confirm the origin of the funds used for this transaction?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: How old do kids have to be to open an account? | Augmented: What is the minimum age requirement for a child to open a bank account?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: I would like to know how my friend would be able to send me money | Augmented: I'd like to find out how my friend can transfer funds to me.
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Is there an age limit for opening an account? | Augmented: Are there any age restrictions for creating a new account?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: How old do my kids need to be to open an account? | Augmented: What is the minimum age requirement for opening an account for my children?
+VAL | [receiving_money] | ACCEPT | Reason: ... | Original: What methods are available for my friend to send me money? | Augmented: How can my friend transfer funds to me?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Am I able to open an account for my children? | Augmented: Can I establish an account for my minors?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Do I need to do anything special for my friend to send money to my account? | Augmented: What steps should my friend take to transfer funds to my account?
+VAL | [age_limit] | ACCEPT | Reason: Both texts are asking about the age limit for opening an account, preserving the 'age_limit' intent. | Original: Is there a minimum age for having an account? | Augmented: What is the minimum age requirement to open an account?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Will my employer be able to pay me with this service | Augmented: Can my employer use this service to transfer funds to me?
+VAL | [edit_personal_details] | ACCEPT | Reason: N/A | Original: Am I able to modify my account details? | Augmented: Can I make changes to my personal information?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Can I get an account for my son? | Augmented: Can I open an account for my child?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: We want to start a college fund for my daughter. | Augmented: We're planning to establish a savings plan for my child's future education expenses.
+VAL_SUMMARY | ACCEPT: 38 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 0 | Accept Rate: 1.0000

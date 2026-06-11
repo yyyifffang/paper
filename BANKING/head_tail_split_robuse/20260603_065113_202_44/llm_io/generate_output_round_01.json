@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I'm having trouble with my card, it seems to be malfunctioning. I attempted to make a transaction, but it didn't process, could you assist me?",
+    "Please give me a list of nearby ATMs that accept my bank card.",
+    "Can you please confirm the origin of the funds in your account?",
+    "What's the maximum amount I can top up my limits with?",
+    "I've checked my account activity, but I'm puzzled by a payment that doesn't seem to match any transactions I've made. Can you help me investigate and reverse this unauthorized payment?",
+    "I noticed an additional £1 charge on my statement. Can you explain why I was billed extra?",
+    "Will the physical card be mailed separately?",
+    "I'm requesting to discontinue my account because of the unsatisfactory customer service experience.",
+    "Can you assist me in canceling my account? I'm not happy with the service and would like to close my account.",
+    "What can I do to reactivate my account after entering an incorrect PIN multiple times?",
+    "I'd like to re-activate my card, I initially thought I misplaced it, but I've since located it in my jacket.",
+    "The ATM dispensed less cash than I requested. I was expecting a larger amount, but it only gave me a smaller one. What should I do now?",
+    "Are you based in Greece?",
+    "I'd like to deposit funds into my account, but I'm not sure what the process entails.",
+    "I'd like to know the process for requesting a refund for an item I ordered, as I haven't received it and would like to cancel the order and receive a refund.",
+    "Please dispatch a replacement card; I think I've lost the one I had, as it seems to have been swallowed by the ATM.",
+    "I'd like to deposit funds into my account. Is it possible to do so through a bank transfer?",
+    "This morning, I attempted to withdraw cash from my card, but the transaction was declined. Despite being functional previously, it seems there's an issue with my card. Could you kindly investigate the matter?",
+    "I made a cash deposit earlier today, but my account balance has not been updated accordingly.",
+    "I'm having trouble withdrawing cash from the ATM.",
+    "I was overcharged. Did the exchange rate for my card payment on Saturday incorrectly convert my currency?",
+    "What's the status of my transfer?",
+    "How long does it typically take to process a US transfer into my account?",
+    "I'm trying to resolve an issue with a direct debit payment that wasn't recognized on my account. Can you help me investigate this discrepancy?",
+    "Why is there an additional fee listed on my statement?",
+    "We're having trouble verifying your identity through our app.",
+    "I received a smaller amount of cash, specifically $20, when I was expecting $100.",
+    "I'm still waiting for my delivery and would like to request a refund.",
+    "I'd like to have my PIN unblocked.",
+    "How can I replenish my account using cash?",
+    "How can I utilize the disposable virtual cards?",
+    "Why was my cash withdrawal request denied?",
+    "We're having trouble confirming your identity.",
+    "What are the spending restrictions on my disposable cards?",
+    "What types of fiat currencies are accepted at your bank for transactions and deposits?"
+  ],
+  "generated_labels": [
+    14,
+    3,
+    70,
+    60,
+    28,
+    34,
+    38,
+    55,
+    55,
+    49,
+    13,
+    75,
+    24,
+    65,
+    52,
+    18,
+    65,
+    26,
+    6,
+    26,
+    17,
+    48,
+    67,
+    28,
+    34,
+    68,
+    75,
+    52,
+    49,
+    58,
+    37,
+    26,
+    68,
+    29,
+    36
+  ],
+  "source_texts": [
+    "I think my card is broken or something. I tried using it and it wouldn't go through, please help.",
+    "Please provide me a list of ATMs that accept my card.",
+    "How do I find out where my funds came from?",
+    "How much is ok for me to top up with?",
+    "I have not used my card all day, however, there is an unusual payment showing in my app.  I would like to have that amount reimbursed.",
+    "I  see an extra 1£ charge on my app. Why did It charge me extra?",
+    "Will the PIN come separately?",
+    "I want to close my account due to poor customer service.",
+    "Help me delete my account.  I am not satisfied with the service.",
+    "How do I unlock my account after typing in the wrong PIN too many times?",
+    "I want to reactivate my card, I thought I had lost it but found it again in my jacket.",
+    "The ATM didn't give me enough money! I asked for more than it gave. What do I do?",
+    "Do you work in Greece?",
+    "I need to transfer money into my account, and I don't know how to do that.",
+    "How does on apply fora refund on an item he ordered? I ordere an item and have not received it yet so i want to cancel it and get a refund",
+    "Please send a new card; the ATM ate mine.",
+    "I need to add money to my account. Can I do so via bank transfer?",
+    "Hi, In morning, i was trying to withdraw money from my card, but it got declined. So far it was working fine. Could you please check my card.",
+    "I deposited cash this morning, but it is not yet available.",
+    "I am unable to get cash from the ATM",
+    "I was charged extra. Was the exchange rate for my payment last Saturday wrong?",
+    "Why is my transfer pending?",
+    "What is the estimated wait time on a US transfer into my account?",
+    "How do I dispute a direct debit on my account?",
+    "Why does my statement show a $1 charge on my account?",
+    "The app won't identify me.",
+    "I got $20 when I should've gotten $100",
+    "i haven't received my order and want a refund",
+    "I need my PIN unlocked.",
+    "How do I top up with cash?",
+    "In what way can I use the disposable cards?",
+    "Why can't I withdraw cash?",
+    "I am having some difficulty verifying my id.",
+    "What are my limits on disposable cards?",
+    "Can you tell me the names of the fiat currencies that I can use at your institution?"
+  ],
+  "records": [
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I think my card is broken or something. I tried using it and it wouldn't go through, please help.",
+      "generated": "I'm having trouble with my card, it seems to be malfunctioning. I attempted to make a transaction, but it didn't process, could you assist me?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Please provide me a list of ATMs that accept my card.",
+      "generated": "Please give me a list of nearby ATMs that accept my bank card."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How do I find out where my funds came from?",
+      "generated": "Can you please confirm the origin of the funds in your account?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How much is ok for me to top up with?",
+      "generated": "What's the maximum amount I can top up my limits with?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I have not used my card all day, however, there is an unusual payment showing in my app.  I would like to have that amount reimbursed.",
+      "generated": "I've checked my account activity, but I'm puzzled by a payment that doesn't seem to match any transactions I've made. Can you help me investigate and reverse this unauthorized payment?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I  see an extra 1£ charge on my app. Why did It charge me extra?",
+      "generated": "I noticed an additional £1 charge on my statement. Can you explain why I was billed extra?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Will the PIN come separately?",
+      "generated": "Will the physical card be mailed separately?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I want to close my account due to poor customer service.",
+      "generated": "I'm requesting to discontinue my account because of the unsatisfactory customer service experience."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "Help me delete my account.  I am not satisfied with the service.",
+      "generated": "Can you assist me in canceling my account? I'm not happy with the service and would like to close my account."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I unlock my account after typing in the wrong PIN too many times?",
+      "generated": "What can I do to reactivate my account after entering an incorrect PIN multiple times?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I want to reactivate my card, I thought I had lost it but found it again in my jacket.",
+      "generated": "I'd like to re-activate my card, I initially thought I misplaced it, but I've since located it in my jacket."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "The ATM didn't give me enough money! I asked for more than it gave. What do I do?",
+      "generated": "The ATM dispensed less cash than I requested. I was expecting a larger amount, but it only gave me a smaller one. What should I do now?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Do you work in Greece?",
+      "generated": "Are you based in Greece?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need to transfer money into my account, and I don't know how to do that.",
+      "generated": "I'd like to deposit funds into my account, but I'm not sure what the process entails."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "How does on apply fora refund on an item he ordered? I ordere an item and have not received it yet so i want to cancel it and get a refund",
+      "generated": "I'd like to know the process for requesting a refund for an item I ordered, as I haven't received it and would like to cancel the order and receive a refund."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "Please send a new card; the ATM ate mine.",
+      "generated": "Please dispatch a replacement card; I think I've lost the one I had, as it seems to have been swallowed by the ATM."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need to add money to my account. Can I do so via bank transfer?",
+      "generated": "I'd like to deposit funds into my account. Is it possible to do so through a bank transfer?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Hi, In morning, i was trying to withdraw money from my card, but it got declined. So far it was working fine. Could you please check my card.",
+      "generated": "This morning, I attempted to withdraw cash from my card, but the transaction was declined. Despite being functional previously, it seems there's an issue with my card. Could you kindly investigate the matter?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I deposited cash this morning, but it is not yet available.",
+      "generated": "I made a cash deposit earlier today, but my account balance has not been updated accordingly."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I am unable to get cash from the ATM",
+      "generated": "I'm having trouble withdrawing cash from the ATM."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I was charged extra. Was the exchange rate for my payment last Saturday wrong?",
+      "generated": "I was overcharged. Did the exchange rate for my card payment on Saturday incorrectly convert my currency?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Why is my transfer pending?",
+      "generated": "What's the status of my transfer?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "What is the estimated wait time on a US transfer into my account?",
+      "generated": "How long does it typically take to process a US transfer into my account?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "How do I dispute a direct debit on my account?",
+      "generated": "I'm trying to resolve an issue with a direct debit payment that wasn't recognized on my account. Can you help me investigate this discrepancy?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why does my statement show a $1 charge on my account?",
+      "generated": "Why is there an additional fee listed on my statement?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app won't identify me.",
+      "generated": "We're having trouble verifying your identity through our app."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I got $20 when I should've gotten $100",
+      "generated": "I received a smaller amount of cash, specifically $20, when I was expecting $100."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "i haven't received my order and want a refund",
+      "generated": "I'm still waiting for my delivery and would like to request a refund."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I need my PIN unlocked.",
+      "generated": "I'd like to have my PIN unblocked."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How do I top up with cash?",
+      "generated": "How can I replenish my account using cash?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "In what way can I use the disposable cards?",
+      "generated": "How can I utilize the disposable virtual cards?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I withdraw cash?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I am having some difficulty verifying my id.",
+      "generated": "We're having trouble confirming your identity."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "What are my limits on disposable cards?",
+      "generated": "What are the spending restrictions on my disposable cards?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can you tell me the names of the fiat currencies that I can use at your institution?",
+      "generated": "What types of fiat currencies are accepted at your bank for transactions and deposits?"
+    }
+  ]
+}

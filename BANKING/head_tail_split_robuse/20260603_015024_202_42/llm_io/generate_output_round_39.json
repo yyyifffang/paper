@@ -1,0 +1,307 @@
+{
+  "generated_texts": [
+    "I made a purchase, but it looks like I've been charged twice, even though my card was declined.",
+    "I attempted to make a transfer to add funds, but the funds are still unavailable.",
+    "What are the charges for a standard physical card?",
+    "When can I expect the funds to be credited to my account?",
+    "I'm still waiting to receive the cash.",
+    "I was sent a payment in British Pounds, can I convert it to a different currency?",
+    "I'm not sure why I'm seeing a pending transfer in my account. Can you help me understand what's going on?",
+    "I'll dispatch a cheque to replenish my account balance",
+    "I'm having trouble using my card. Can you assist me?",
+    "I'm unable to locate the transfer I sent to a friend from my account.",
+    "I'd like to dispute a charge on my statement that was incorrectly applied.",
+    "When can I expect the funds to be credited to my account?",
+    "I'm looking for information on the fiat currencies your bank accepts.",
+    "A mysterious transaction appeared on my card statement",
+    "I've been mistakenly charged twice.",
+    "Are there any fees associated with withdrawing cash from my account? I recall making a withdrawal recently and being charged for it.",
+    "Can I make a cash or cheque deposit online?",
+    "What is the maximum number of transactions I can make with a disposable card?",
+    "please demonstrate the process of adding funds using my card",
+    "Can I use Apple Pay to add funds to my account?",
+    "I've misplaced my card.",
+    "Why is my card not functioning properly?",
+    "I'd like to cancel the transfer as it was made in error and I'd like to rectify the mistake.",
+    "You can top up your account using either cash or cheque.",
+    "Why did you apply an incorrect exchange rate for my international transaction? I was expecting a more competitive rate for the foreign currency.",
+    "I made a cash withdrawal, but it's not showing up on my account balance.",
+    "What payment methods can I use to add funds?",
+    "I believe the payment made from my card was reversed",
+    "I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?",
+    "What methods are available for adding funds to my account, and what currencies are accepted for transactions?",
+    "The incorrect account was mistakenly used for a transfer.",
+    "The balance remains the same, despite the recent deposit.",
+    "Why hasn't my account balance been updated after a recent cheque or cash deposit? I've been waiting for an extended period and would like to know when I can expect the funds to reflect in my account."
+  ],
+  "generated_labels": [
+    63,
+    59,
+    43,
+    67,
+    75,
+    50,
+    48,
+    58,
+    14,
+    66,
+    52,
+    67,
+    36,
+    16,
+    63,
+    19,
+    58,
+    29,
+    62,
+    2,
+    41,
+    14,
+    8,
+    58,
+    17,
+    46,
+    2,
+    53,
+    64,
+    54,
+    8,
+    6,
+    6
+  ],
+  "source_texts": [
+    "My card was declined but it shows as multiple charges?",
+    "I did a bank transfer to top up, but the money is not available.",
+    "What fees do you charge for the standard card?",
+    "How long does it take for the money to show up in my account?",
+    "I haven't received my cash yet.",
+    "I received a transfer in GBP how do I change it to a different currency?",
+    "why have I got a pending transfer? I'm confused!!",
+    "I'll send a check to top up my account",
+    "I can't seem to use my card. Can you help?",
+    "I don't see the transaction I made to a friend on my account.",
+    "My statement has a charge that shouldn't have been made.",
+    "When will the money show in my account?",
+    "I need to know which flat currencies are supported by you.",
+    "A random charge got added to my card",
+    "I have been overcharged.",
+    "Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this.",
+    "Can I top up online?",
+    "How many payments can I make using a virtual card?",
+    "show me how to top up",
+    "Am I able to Top Up with Apply Pay?",
+    "I cant find my card.",
+    "Why can't I use my card?",
+    "A payment I made is for a wrong amount can you help me correct the mistake.",
+    "What types of top-up methods do you accept?",
+    "Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate",
+    "i withdrew cash and dont see it reflected on the balance",
+    "What services can I use to top up?",
+    "I think the payment from my card was revereted",
+    "I got an unexpected charge on my transfers. How can I correct this?",
+    "How can I top up my account and which currency can I use?",
+    "The wrong account was used during a transaction.",
+    "the balance has not changed, but I have deposited some money",
+    "How long do deposits take to appear? I've been waiting for more than a week and need the money!"
+  ],
+  "records": [
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My card was declined but it shows as multiple charges?",
+      "generated": "I made a purchase, but it looks like I've been charged twice, even though my card was declined."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I did a bank transfer to top up, but the money is not available.",
+      "generated": "I attempted to make a transfer to add funds, but the funds are still unavailable."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What fees do you charge for the standard card?",
+      "generated": "What are the charges for a standard physical card?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take for the money to show up in my account?",
+      "generated": "When can I expect the funds to be credited to my account?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I haven't received my cash yet.",
+      "generated": "I'm still waiting to receive the cash."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I received a transfer in GBP how do I change it to a different currency?",
+      "generated": "I was sent a payment in British Pounds, can I convert it to a different currency?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "why have I got a pending transfer? I'm confused!!",
+      "generated": "I'm not sure why I'm seeing a pending transfer in my account. Can you help me understand what's going on?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I'll send a check to top up my account",
+      "generated": "I'll dispatch a cheque to replenish my account balance"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't seem to use my card. Can you help?",
+      "generated": "I'm having trouble using my card. Can you assist me?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I don't see the transaction I made to a friend on my account.",
+      "generated": "I'm unable to locate the transfer I sent to a friend from my account."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "My statement has a charge that shouldn't have been made.",
+      "generated": "I'd like to dispute a charge on my statement that was incorrectly applied."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will the money show in my account?",
+      "generated": "When can I expect the funds to be credited to my account?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "I need to know which flat currencies are supported by you.",
+      "generated": "I'm looking for information on the fiat currencies your bank accepts."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "A random charge got added to my card",
+      "generated": "A mysterious transaction appeared on my card statement"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have been overcharged.",
+      "generated": "I've been mistakenly charged twice."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this.",
+      "generated": "Are there any fees associated with withdrawing cash from my account? I recall making a withdrawal recently and being charged for it."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I top up online?",
+      "generated": "Can I make a cash or cheque deposit online?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "How many payments can I make using a virtual card?",
+      "generated": "What is the maximum number of transactions I can make with a disposable card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "show me how to top up",
+      "generated": "please demonstrate the process of adding funds using my card"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Am I able to Top Up with Apply Pay?",
+      "generated": "Can I use Apple Pay to add funds to my account?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I cant find my card.",
+      "generated": "I've misplaced my card."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why can't I use my card?",
+      "generated": "Why is my card not functioning properly?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "A payment I made is for a wrong amount can you help me correct the mistake.",
+      "generated": "I'd like to cancel the transfer as it was made in error and I'd like to rectify the mistake."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What types of top-up methods do you accept?",
+      "generated": "You can top up your account using either cash or cheque."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate",
+      "generated": "Why did you apply an incorrect exchange rate for my international transaction? I was expecting a more competitive rate for the foreign currency."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "i withdrew cash and dont see it reflected on the balance",
+      "generated": "I made a cash withdrawal, but it's not showing up on my account balance."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "What services can I use to top up?",
+      "generated": "What payment methods can I use to add funds?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I think the payment from my card was revereted",
+      "generated": "I believe the payment made from my card was reversed"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I got an unexpected charge on my transfers. How can I correct this?",
+      "generated": "I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "How can I top up my account and which currency can I use?",
+      "generated": "What methods are available for adding funds to my account, and what currencies are accepted for transactions?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "The wrong account was used during a transaction.",
+      "generated": "The incorrect account was mistakenly used for a transfer."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "the balance has not changed, but I have deposited some money",
+      "generated": "The balance remains the same, despite the recent deposit."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "How long do deposits take to appear? I've been waiting for more than a week and need the money!",
+      "generated": "Why hasn't my account balance been updated after a recent cheque or cash deposit? I've been waiting for an extended period and would like to know when I can expect the funds to reflect in my account."
+    }
+  ]
+}

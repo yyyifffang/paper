@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "Will my account reflect my latest paycheck?",
+    "My personal details, specifically my address, are inaccurate in your records.",
+    "Could you provide a discount for me, as I regularly need to exchange currencies?",
+    "Are there any special deals or promotions available for customers who regularly exchange currencies?",
+    "We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?",
+    "I was unexpectedly charged an extra amount on my statement.",
+    "My credit card was compromised and unauthorized transactions were made. I need you to temporarily suspend my card to prevent further misuse.",
+    "I can see the funds in my account, but the balance hasn't been updated after I made a transfer.",
+    "I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?",
+    "If my card gets sucked into the ATM, what should I do next?",
+    "Why was the payment made to my account if the seller claims they haven't received it? Can you clarify when the payment will be reversed?",
+    "The ATM seems to have devoured my credit card.",
+    "what to do if my card got swallowed by the ATM and I need a replacement",
+    "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?",
+    "To initiate a currency exchange, what are the steps I need to take using the app?",
+    "Where can I withdraw cash from an ATM or a bank branch?",
+    "The app is not displaying my recent transactions",
+    "My card seems to have been swallowed by the ATM, what should I do now?",
+    "Are there any plans to expand the list of supported fiat currencies in the future?",
+    "I accidentally left my credit card in the ATM machine.",
+    "Are there any limitations on issuing new cards in China?",
+    "Can you accept direct deposits from my employer's payroll department?",
+    "There's an unexpected cash amount appearing on my account.",
+    "I'd like to inquire about an additional charge that appears on my latest statement.",
+    "How can I add funds to my account using my card?",
+    "How can I obtain my physical credit card?",
+    "I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?",
+    "Can you make a cash deposit or pay by cheque?",
+    "My physical card has not been delivered. Can I request a new one or cancel the existing order?",
+    "Can I deposit funds into my account if you don't accept cash?",
+    "Is the exchange rate fee subject to change?",
+    "I'm not aware of the status of the transfer.",
+    "You're looking for the option to replenish your account balance using a check. Can you please let me guide you on how to do that?",
+    "I haven't received my card yet, and it's been a week. What should I do now?"
+  ],
+  "generated_labels": [
+    50,
+    30,
+    31,
+    31,
+    28,
+    34,
+    22,
+    5,
+    38,
+    18,
+    53,
+    18,
+    18,
+    17,
+    33,
+    3,
+    66,
+    18,
+    36,
+    18,
+    9,
+    50,
+    20,
+    34,
+    62,
+    43,
+    21,
+    58,
+    38,
+    58,
+    17,
+    66,
+    58,
+    11
+  ],
+  "source_texts": [
+    "Will my GPB update my salary",
+    "My address is incorrect on my file.",
+    "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+    "Do you offer a discount for those who perform frequent currency exchanges?",
+    "If I found an error in my account for a transaction I didn't make, how long to I have to dispute it?",
+    "I was made to pay an additional pound!",
+    "My card was stolen and used to make several purchases. Please freeze my card so no one can use it.",
+    "I can still see money in my account after making a payment",
+    "I signed up, but don't have a PIN. Where can I find it?",
+    "What should I do if the atm eats my card?",
+    "HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?",
+    "An ATM swallowed my credit card!",
+    "how to get new card after atm eats it",
+    "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+    "What do I need to do to exchange my money?",
+    "What locations can I get money from?",
+    "The app isn't showing my transactions",
+    "My card was eaten by the cash machine what do I do?",
+    "Will you be adding more currencies in the future?",
+    "I have lost my credit card in the ATM!",
+    "Are there restrictions on new cards in China?",
+    "Do you support direct deposits from my employer?",
+    "THere is some cash that is showing up on my app.",
+    "I wanted to know about a pending dollar that is on my statement.",
+    "How do I to up by card?",
+    "What do I do to get ahold of my own card?",
+    "I can't freeze my account as I need the card as I am traveling, how do I change my pin?",
+    "Do you accept cash?",
+    "my pin hasn't arrived in the post! How do I cancel it or get a new one?",
+    "how can i add money to my account if you don't accept cash",
+    "Does the fee for exchange change?",
+    "I do not know where the transaction is.",
+    "I can't find how to top up my account with a check.  Where is that?",
+    "I don't have my card after 1 week. What are my next steps?"
+  ],
+  "records": [
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Will my GPB update my salary",
+      "generated": "Will my account reflect my latest paycheck?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "My address is incorrect on my file.",
+      "generated": "My personal details, specifically my address, are inaccurate in your records."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+      "generated": "Could you provide a discount for me, as I regularly need to exchange currencies?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do you offer a discount for those who perform frequent currency exchanges?",
+      "generated": "Are there any special deals or promotions available for customers who regularly exchange currencies?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "If I found an error in my account for a transaction I didn't make, how long to I have to dispute it?",
+      "generated": "We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I was made to pay an additional pound!",
+      "generated": "I was unexpectedly charged an extra amount on my statement."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "My card was stolen and used to make several purchases. Please freeze my card so no one can use it.",
+      "generated": "My credit card was compromised and unauthorized transactions were made. I need you to temporarily suspend my card to prevent further misuse."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I can still see money in my account after making a payment",
+      "generated": "I can see the funds in my account, but the balance hasn't been updated after I made a transfer."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I signed up, but don't have a PIN. Where can I find it?",
+      "generated": "I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "What should I do if the atm eats my card?",
+      "generated": "If my card gets sucked into the ATM, what should I do next?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?",
+      "generated": "Why was the payment made to my account if the seller claims they haven't received it? Can you clarify when the payment will be reversed?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "An ATM swallowed my credit card!",
+      "generated": "The ATM seems to have devoured my credit card."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "how to get new card after atm eats it",
+      "generated": "what to do if my card got swallowed by the ATM and I need a replacement"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+      "generated": "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "What do I need to do to exchange my money?",
+      "generated": "To initiate a currency exchange, what are the steps I need to take using the app?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "What locations can I get money from?",
+      "generated": "Where can I withdraw cash from an ATM or a bank branch?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "The app isn't showing my transactions",
+      "generated": "The app is not displaying my recent transactions"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "My card was eaten by the cash machine what do I do?",
+      "generated": "My card seems to have been swallowed by the ATM, what should I do now?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Will you be adding more currencies in the future?",
+      "generated": "Are there any plans to expand the list of supported fiat currencies in the future?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I have lost my credit card in the ATM!",
+      "generated": "I accidentally left my credit card in the ATM machine."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Are there restrictions on new cards in China?",
+      "generated": "Are there any limitations on issuing new cards in China?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do you support direct deposits from my employer?",
+      "generated": "Can you accept direct deposits from my employer's payroll department?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "THere is some cash that is showing up on my app.",
+      "generated": "There's an unexpected cash amount appearing on my account."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I wanted to know about a pending dollar that is on my statement.",
+      "generated": "I'd like to inquire about an additional charge that appears on my latest statement."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I to up by card?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What do I do to get ahold of my own card?",
+      "generated": "How can I obtain my physical credit card?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I can't freeze my account as I need the card as I am traveling, how do I change my pin?",
+      "generated": "I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Do you accept cash?",
+      "generated": "Can you make a cash deposit or pay by cheque?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "my pin hasn't arrived in the post! How do I cancel it or get a new one?",
+      "generated": "My physical card has not been delivered. Can I request a new one or cancel the existing order?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how can i add money to my account if you don't accept cash",
+      "generated": "Can I deposit funds into my account if you don't accept cash?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the fee for exchange change?",
+      "generated": "Is the exchange rate fee subject to change?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I do not know where the transaction is.",
+      "generated": "I'm not aware of the status of the transfer."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I can't find how to top up my account with a check.  Where is that?",
+      "generated": "You're looking for the option to replenish your account balance using a check. Can you please let me guide you on how to do that?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I don't have my card after 1 week. What are my next steps?",
+      "generated": "I haven't received my card yet, and it's been a week. What should I do now?"
+    }
+  ]
+}

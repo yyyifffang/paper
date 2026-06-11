@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "To initiate a currency exchange, what are the steps I need to take using the app?",
+    "Is the exchange rate fee subject to change?",
+    "I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?",
+    "How can I add funds to my account using cash or cheque?",
+    "I'd like to transfer funds into my account.",
+    "What steps can I take to get a replacement bank card before my current one expires?",
+    "How can I obtain a physical credit card?",
+    "You can complete the process quickly. Simply navigate to your account, select the \"Activate\" option, and follow the prompts to finish.",
+    "I've misplaced my card at my parents' residence. Could you kindly provide me with a replacement card until I can retrieve the original one?",
+    "Why was there an additional charge when I used my credit card to make the payment?",
+    "I'm not satisfied with the exchange rate applied to my cash withdrawal.",
+    "What types of fiat currencies can I store in my account?",
+    "I'm planning a trip and need to convert some currency. Can I exchange my money for Euros through the app?",
+    "How much will I need to pay for a physical credit card?",
+    "I'm running low on funds in my account and I'd like to know if I can make a transfer to replenish it.",
+    "The exchange rate used for the cash withdrawal was incorrect.",
+    "Do I need to pay an additional fee to exchange currency?",
+    "Can I make an electronic transfer into my account using my American Express card?",
+    "In what currencies can I exchange and hold my funds?",
+    "I'm experiencing some issues with my account and I'd like some assistance. I've noticed some charges that I don't recognize, and I'm worried that my card is being used without my permission. Could you please look into this and either reverse the transactions or temporarily suspend my card to prevent further unauthorized charges?",
+    "Why was I charged an additional fee when I used my card to make the payment?",
+    "Can I set up automatic top-ups to add funds at regular intervals while I'm traveling?",
+    "Could you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for a while now.",
+    "I require my card as soon as possible.",
+    "Are there any limitations on issuing new cards in China?",
+    "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?",
+    "What's the process for exchanging foreign currencies for cash transfers?",
+    "Will the value of my money remain the same when I travel internationally?",
+    "I made a withdrawal at an ATM, but the amount reflected in the app is not what I actually received.",
+    "Are there any fees associated with using a credit or debit card for payment?",
+    "I'm experiencing an issue with a duplicate charge on my card. I've reviewed my transactions and noticed that a recent charge from a restaurant I visited earlier this week appears to be duplicated. Could you assist me in correcting this and removing the extra charge?",
+    "Can I initiate a currency exchange through the app?",
+    "Can you assist me in retrieving the card I already possess so I can access its information?",
+    "I've noticed a mysterious £1 charge showing up as pending on my statement. Can you help me figure out what it's for? I'm certain I didn't make any purchases for that amount."
+  ],
+  "generated_labels": [
+    33,
+    17,
+    33,
+    58,
+    65,
+    9,
+    43,
+    0,
+    39,
+    15,
+    76,
+    36,
+    33,
+    43,
+    65,
+    76,
+    31,
+    54,
+    36,
+    16,
+    15,
+    4,
+    47,
+    12,
+    9,
+    17,
+    32,
+    32,
+    75,
+    15,
+    63,
+    33,
+    13,
+    34
+  ],
+  "source_texts": [
+    "What do I need to do to exchange my money?",
+    "Does the fee for exchange change?",
+    "I may no longer need GBP, but instead I will need AUD, how can I go about making this change?",
+    "How can I put more money into my account?",
+    "I need to deposit money to my account",
+    "How do I go about ordering a new bank card?",
+    "what steps do i do to get a real card",
+    "You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",
+    "I have left my card at my parents house. Can you send me a spare one please to use in the meantime?",
+    "Why was the price higher when I paid with my card?",
+    "I'm unhappy with the exchange rate your cash transactions.",
+    "What kind of money can I hold?",
+    "I need to get some Euros for my holiday. Am I able to exchange some of my money?",
+    "What do I owe for a new card?",
+    "I am out of money in my account and I was wondering if I could do a bank transfer is put more in it?",
+    "An overseas cash transfer did not work correctly",
+    "Will I have to pay extra to exchange money?",
+    "Can I electronically transfer funds into my account from my American Express?",
+    "In the exchange and holding, what fiat is allowed?",
+    "I need some help now please! There are some transactions on my account that I do not remember purchasing. Can they be reversed? Can you please cancel or freeze my card so I don't keep getting charged?!",
+    "Why did I have to pay extra because I paid with my card?",
+    "When traveling, is it possible for it to add money at specific time intervals?",
+    "Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour.",
+    "I need my card immediately.",
+    "Are there restrictions on new cards in China?",
+    "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+    "If I need to cash foreign transfers, how does that work?",
+    "Will my money be of equal value when I travel abroad?",
+    "Did a WD earlier at an ATM.  The amount showing in the App is more than I got though.",
+    "Do you have charges now when you pay with a card?",
+    "Hi. Please can you help me fix a double charge on my card? I'm looking at my transactions and this restaurant I went to earlier in the week has charged me twice! Please remove the additional charge for me.",
+    "Can i add a new currency to my account?",
+    "Help me access the card I already got so I can information from it.",
+    "There is some odd 1£ charge that appears as pending on my statement. What's that about? Pretty sure I haven't purchased anything for a pound there."
+  ],
+  "records": [
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "What do I need to do to exchange my money?",
+      "generated": "To initiate a currency exchange, what are the steps I need to take using the app?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the fee for exchange change?",
+      "generated": "Is the exchange rate fee subject to change?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I may no longer need GBP, but instead I will need AUD, how can I go about making this change?",
+      "generated": "I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How can I put more money into my account?",
+      "generated": "How can I add funds to my account using cash or cheque?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need to deposit money to my account",
+      "generated": "I'd like to transfer funds into my account."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How do I go about ordering a new bank card?",
+      "generated": "What steps can I take to get a replacement bank card before my current one expires?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "what steps do i do to get a real card",
+      "generated": "How can I obtain a physical credit card?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",
+      "generated": "You can complete the process quickly. Simply navigate to your account, select the \"Activate\" option, and follow the prompts to finish."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I have left my card at my parents house. Can you send me a spare one please to use in the meantime?",
+      "generated": "I've misplaced my card at my parents' residence. Could you kindly provide me with a replacement card until I can retrieve the original one?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why was the price higher when I paid with my card?",
+      "generated": "Why was there an additional charge when I used my credit card to make the payment?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I'm unhappy with the exchange rate your cash transactions.",
+      "generated": "I'm not satisfied with the exchange rate applied to my cash withdrawal."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What kind of money can I hold?",
+      "generated": "What types of fiat currencies can I store in my account?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I need to get some Euros for my holiday. Am I able to exchange some of my money?",
+      "generated": "I'm planning a trip and need to convert some currency. Can I exchange my money for Euros through the app?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What do I owe for a new card?",
+      "generated": "How much will I need to pay for a physical credit card?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I am out of money in my account and I was wondering if I could do a bank transfer is put more in it?",
+      "generated": "I'm running low on funds in my account and I'd like to know if I can make a transfer to replenish it."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "An overseas cash transfer did not work correctly",
+      "generated": "The exchange rate used for the cash withdrawal was incorrect."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Will I have to pay extra to exchange money?",
+      "generated": "Do I need to pay an additional fee to exchange currency?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can I electronically transfer funds into my account from my American Express?",
+      "generated": "Can I make an electronic transfer into my account using my American Express card?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "In the exchange and holding, what fiat is allowed?",
+      "generated": "In what currencies can I exchange and hold my funds?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need some help now please! There are some transactions on my account that I do not remember purchasing. Can they be reversed? Can you please cancel or freeze my card so I don't keep getting charged?!",
+      "generated": "I'm experiencing some issues with my account and I'd like some assistance. I've noticed some charges that I don't recognize, and I'm worried that my card is being used without my permission. Could you please look into this and either reverse the transactions or temporarily suspend my card to prevent further unauthorized charges?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why did I have to pay extra because I paid with my card?",
+      "generated": "Why was I charged an additional fee when I used my card to make the payment?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "When traveling, is it possible for it to add money at specific time intervals?",
+      "generated": "Can I set up automatic top-ups to add funds at regular intervals while I'm traveling?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour.",
+      "generated": "Could you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for a while now."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card immediately.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Are there restrictions on new cards in China?",
+      "generated": "Are there any limitations on issuing new cards in China?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+      "generated": "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "If I need to cash foreign transfers, how does that work?",
+      "generated": "What's the process for exchanging foreign currencies for cash transfers?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Will my money be of equal value when I travel abroad?",
+      "generated": "Will the value of my money remain the same when I travel internationally?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Did a WD earlier at an ATM.  The amount showing in the App is more than I got though.",
+      "generated": "I made a withdrawal at an ATM, but the amount reflected in the app is not what I actually received."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Do you have charges now when you pay with a card?",
+      "generated": "Are there any fees associated with using a credit or debit card for payment?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Hi. Please can you help me fix a double charge on my card? I'm looking at my transactions and this restaurant I went to earlier in the week has charged me twice! Please remove the additional charge for me.",
+      "generated": "I'm experiencing an issue with a duplicate charge on my card. I've reviewed my transactions and noticed that a recent charge from a restaurant I visited earlier this week appears to be duplicated. Could you assist me in correcting this and removing the extra charge?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can i add a new currency to my account?",
+      "generated": "Can I initiate a currency exchange through the app?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Help me access the card I already got so I can information from it.",
+      "generated": "Can you assist me in retrieving the card I already possess so I can access its information?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is some odd 1£ charge that appears as pending on my statement. What's that about? Pretty sure I haven't purchased anything for a pound there.",
+      "generated": "I've noticed a mysterious £1 charge showing up as pending on my statement. Can you help me figure out what it's for? I'm certain I didn't make any purchases for that amount."
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "generated_texts": [
+    "What is the daily spending limit on my credit card?",
+    "Hi, I'm getting a few \"decline\" notifications regarding my card. Is everything okay with my account?",
+    "At what point does the account balance need to reach before the automatic top-up feature kicks in?",
+    "What's the current status of my card's expiration date?",
+    "The transfer was not successfully processed due to an issue.",
+    "May I return an item for a refund instead?",
+    "Can I get a full refund for my purchase?",
+    "What steps can I take to resolve the problem of managing multiple fiat currencies?",
+    "Could you provide information about your refund procedure?",
+    "I've been charged twice for the same transaction, and I'm expecting only one charge.",
+    "i requested $100, but I was given $80 instead",
+    "I'd like to request a refund for the item I purchased.",
+    "why can't you simply process a refund for me instead of waiting for the merchant to initiate it?",
+    "I'm seeking a refund for a direct debit payment that hasn't been recognized.",
+    "How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?",
+    "I'd like to initiate a refund procedure, please.",
+    "Can I get a refund for specific products?",
+    "I'd like to inquire about the process for requesting a refund.",
+    "Why am I unable to process multiple transactions using my virtual card?",
+    "Can I know the spending limit on my disposable card?",
+    "Can I initiate a return and request a refund?",
+    "I'd like to initiate a full refund for the item I've purchased.",
+    "Can I initiate a refund for the item?",
+    "What are the steps to initiate a refund?",
+    "The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me.",
+    "What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?",
+    "I'd like to inquire about returning an item and receiving a refund since I'm not satisfied with my purchase.",
+    "I'm disputing a transaction",
+    "Can I request a refund?",
+    "I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?",
+    "Can I request a refund for a purchase I made?",
+    "I've tried multiple times to complete a routine transaction, but it keeps failing. Is there a technical issue with your platform that's preventing it from going through?",
+    "Can I hold multiple types of fiat currencies in my account?"
+  ],
+  "generated_labels": [
+    60,
+    25,
+    4,
+    14,
+    27,
+    52,
+    52,
+    36,
+    52,
+    63,
+    75,
+    52,
+    51,
+    28,
+    51,
+    52,
+    52,
+    52,
+    72,
+    29,
+    52,
+    52,
+    52,
+    52,
+    72,
+    19,
+    52,
+    16,
+    52,
+    51,
+    52,
+    35,
+    36
+  ],
+  "source_texts": [
+    "What is the daily limit on my card?",
+    "Hi, is everything in good standing with my card? I am receiving multiple \"decline\" messages.",
+    "How low does the balance have to be before the system updates?",
+    "HOW LONG THE CARD VALIDITY",
+    "What does the decline message mean",
+    "Can I exchange an item for a refund?",
+    "Are purchases returnable for full refund?",
+    "How can I solve my issue with holding multiple currencies?",
+    "Can you explain your refund policy, please?",
+    "Why do I have two charges It should only be one charge?",
+    "i asked for 100 only got 80",
+    "Can I have my money refunded for an item",
+    "why cant you just refund me instead of a merchant",
+    "I want a refund on a direct debit.",
+    "how does my statement get updated so i know when a refund will reflect on my balance",
+    "Can you help me process a refund?",
+    "Are refunds allowed for certain items.",
+    "I want to know about your refund policy.",
+    "Why can't I make multiple payments with my virtual card?",
+    "On my disposable card, is there a transaction limit?",
+    "Do you have a return policy?",
+    "How do I return something for a full refund?",
+    "Would I be able to refund an item?",
+    "How do I begin the process of a refund?",
+    "What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?",
+    "How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month.",
+    "If I bought something I didn't like, can I get a refund?",
+    "i disagree with a charge",
+    "Is it possible to get a refund?",
+    "I need my refund as soon as possible. What else do I have to do?",
+    "Am I able to get a refund for something I bought?",
+    "I have made 5 attempts to make a very standard survey, yet I can't get it to work. What is the problem? Is there an issue related to your system?",
+    "Does my account have the option to hold multiple currencies?"
+  ],
+  "records": [
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What is the daily limit on my card?",
+      "generated": "What is the daily spending limit on my credit card?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Hi, is everything in good standing with my card? I am receiving multiple \"decline\" messages.",
+      "generated": "Hi, I'm getting a few \"decline\" notifications regarding my card. Is everything okay with my account?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How low does the balance have to be before the system updates?",
+      "generated": "At what point does the account balance need to reach before the automatic top-up feature kicks in?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "HOW LONG THE CARD VALIDITY",
+      "generated": "What's the current status of my card's expiration date?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What does the decline message mean",
+      "generated": "The transfer was not successfully processed due to an issue."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Can I exchange an item for a refund?",
+      "generated": "May I return an item for a refund instead?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Are purchases returnable for full refund?",
+      "generated": "Can I get a full refund for my purchase?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "How can I solve my issue with holding multiple currencies?",
+      "generated": "What steps can I take to resolve the problem of managing multiple fiat currencies?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Can you explain your refund policy, please?",
+      "generated": "Could you provide information about your refund procedure?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why do I have two charges It should only be one charge?",
+      "generated": "I've been charged twice for the same transaction, and I'm expecting only one charge."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "i asked for 100 only got 80",
+      "generated": "i requested $100, but I was given $80 instead"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Can I have my money refunded for an item",
+      "generated": "I'd like to request a refund for the item I purchased."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "why cant you just refund me instead of a merchant",
+      "generated": "why can't you simply process a refund for me instead of waiting for the merchant to initiate it?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I want a refund on a direct debit.",
+      "generated": "I'm seeking a refund for a direct debit payment that hasn't been recognized."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "how does my statement get updated so i know when a refund will reflect on my balance",
+      "generated": "How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Can you help me process a refund?",
+      "generated": "I'd like to initiate a refund procedure, please."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Are refunds allowed for certain items.",
+      "generated": "Can I get a refund for specific products?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I want to know about your refund policy.",
+      "generated": "I'd like to inquire about the process for requesting a refund."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Why can't I make multiple payments with my virtual card?",
+      "generated": "Why am I unable to process multiple transactions using my virtual card?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "On my disposable card, is there a transaction limit?",
+      "generated": "Can I know the spending limit on my disposable card?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Do you have a return policy?",
+      "generated": "Can I initiate a return and request a refund?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "How do I return something for a full refund?",
+      "generated": "I'd like to initiate a full refund for the item I've purchased."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Would I be able to refund an item?",
+      "generated": "Can I initiate a refund for the item?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "How do I begin the process of a refund?",
+      "generated": "What are the steps to initiate a refund?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?",
+      "generated": "The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month.",
+      "generated": "What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "If I bought something I didn't like, can I get a refund?",
+      "generated": "I'd like to inquire about returning an item and receiving a refund since I'm not satisfied with my purchase."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i disagree with a charge",
+      "generated": "I'm disputing a transaction"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Is it possible to get a refund?",
+      "generated": "Can I request a refund?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I need my refund as soon as possible. What else do I have to do?",
+      "generated": "I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Am I able to get a refund for something I bought?",
+      "generated": "Can I request a refund for a purchase I made?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I have made 5 attempts to make a very standard survey, yet I can't get it to work. What is the problem? Is there an issue related to your system?",
+      "generated": "I've tried multiple times to complete a routine transaction, but it keeps failing. Is there a technical issue with your platform that's preventing it from going through?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Does my account have the option to hold multiple currencies?",
+      "generated": "Can I hold multiple types of fiat currencies in my account?"
+    }
+  ]
+}

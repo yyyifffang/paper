@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "can you assist me in activating my card",
+    "My previous attempt to activate my card was unsuccessful.",
+    "I require immediate activation of my card.",
+    "I made a cash deposit into my account, but my account balance hasn't been updated yet.",
+    "If my identity verification process hasn't been completed, can I still access my account?",
+    "I made a transfer to my family on Friday, but they haven't received it yet.",
+    "Did my card payment get reversed from my account?",
+    "Why was my payment rejected by the app?",
+    "What is the price of a physical card, and can you explain the fees associated with it?",
+    "why isn't my card visible in the app?",
+    "I withdrew 30 pounds from the ATM, but it dispensed only 10. Can you explain why this happened? I urgently need the remaining amount.",
+    "I'm having an issue with a recent ATM withdrawal. I took out some cash, but the amount I received was incorrect. The app shows the amount I was charged, but it's not what I actually got.",
+    "The balance remains the same, despite the recent deposit.",
+    "I'm in a rush, please assist me. I've noticed an unexpected cash withdrawal from my account, and I'm worried that someone might continue to access my funds. Can you help me put a stop to any further transactions?",
+    "My payment was declined at a store.",
+    "Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?",
+    "I'm having trouble accessing my account due to a PIN issue.",
+    "How do I go about closing my account?",
+    "Why was I charged an extra fee when I used my card to make a payment?",
+    "You can easily activate your card by accessing your account, selecting the 'activate' option, and following the on-screen instructions.",
+    "Cancel my account forthwith.",
+    "I require a Mastercard",
+    "I'm trying to figure out what's going on with my recently issued card.",
+    "A payment has been recorded in the app that I did not authorize.",
+    "How do I initiate a transfer to add funds to an account?",
+    "are there any regular exchange rate promotions available?",
+    "How do I get my physical card delivered?",
+    "I'm showing a payment in my account that I didn't initiate. I haven't used that card at all today, so I'm not sure why it's showing up. Can you investigate and refund the amount?",
+    "I attempted to make a payment using my credit/debit card, but it was unsuccessful.",
+    "I'd like to open an account for my child, what's the process for doing so?",
+    "You claim there's no charge for card payments, but I've been charged a fee on my statement.",
+    "why was I unable to receive a transfer into my account?",
+    "We're having trouble confirming your identity.",
+    "I've exhausted my PIN attempts. What's the next step I should take?",
+    "My wallet was stolen a short while ago, and I've just noticed an unauthorized withdrawal. I'm extremely concerned and need immediate assistance to prevent further unauthorized transactions.",
+    "I'm still waiting to receive the cash.",
+    "Can the top-up limit be increased without any restrictions?"
+  ],
+  "generated_labels": [
+    0,
+    0,
+    0,
+    6,
+    74,
+    66,
+    53,
+    53,
+    43,
+    13,
+    75,
+    75,
+    6,
+    20,
+    25,
+    46,
+    49,
+    55,
+    15,
+    0,
+    55,
+    73,
+    11,
+    16,
+    65,
+    31,
+    43,
+    28,
+    25,
+    1,
+    15,
+    7,
+    68,
+    49,
+    20,
+    75,
+    60
+  ],
+  "source_texts": [
+    "will you be able to activate my card",
+    "My card activation attempt failed.",
+    "I need my card to be activated right now.",
+    "I deposited cash into my account and I'm having trouble seeing it on my account.",
+    "If my identy verifacation hasn't gone through can I use my account?",
+    "I sent money to my family last Friday but they don't have it.",
+    "My card payment has not been withdrawn from my account",
+    "Why wasn't my payment accepted by the app",
+    "how much does a card cost and why do you charge me",
+    "how do I get my card to show in the app?",
+    "I tried taking out 30 pounds from the ATM just now and it only gave me 10. Why would it do that? I need the 30 pounds now!",
+    "Hi, Please help me to request cash back. As i have been withdrawn money from ATM, but i got wrong amount. in Application its showing the amount i have been charged through.",
+    "the balance has not changed, but I have deposited some money",
+    "Please help me, its urgent. Someone has withdrawn money from my account as few hours before my wallet has been. Now i want to stop withdrawal of more money.",
+    "My card couldn't pay in a shop.",
+    "Why does it still charge me even though I was unable to withdraw money from the ATM?",
+    "I cannot use my PIN.",
+    "What's the process for terminating an account?",
+    "Why did I have to pay an additional amount when using my card to pay?",
+    "You can activate your card in a few seconds by going to account, hitting activate, and just following the directions.",
+    "Remove my account immediately.",
+    "I need a Visa card",
+    "I want to find out what happened to my new card?",
+    "There is a payment in the app that I did not approve",
+    "What are the steps for  making a transfer for topping up?",
+    "is there a frequent currency discount?",
+    "Card delivery services? Where?",
+    "There is a payment in my app that I did not make.  I have not used that card all day  Please reimburse my money.",
+    "I tried to pay with my card and it didn't work",
+    "I need to set up an account for my daughter, how would I do that?",
+    "You advertise no fee when paying with a card then my statement shows a fee.",
+    "why didnt a transfer to my account process",
+    "I dont have identification",
+    "I have used all of my PIN tries. What should I do now?",
+    "My wallet got stolen a couple hours ago and now I've seen there already is a withdrawal. Help this is absolutely urgent I don't want to loose more money",
+    "I haven't received my cash yet.",
+    "Is the top-up amount unlimited?"
+  ],
+  "records": [
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "will you be able to activate my card",
+      "generated": "can you assist me in activating my card"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "My card activation attempt failed.",
+      "generated": "My previous attempt to activate my card was unsuccessful."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I need my card to be activated right now.",
+      "generated": "I require immediate activation of my card."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I deposited cash into my account and I'm having trouble seeing it on my account.",
+      "generated": "I made a cash deposit into my account, but my account balance hasn't been updated yet."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "If my identy verifacation hasn't gone through can I use my account?",
+      "generated": "If my identity verification process hasn't been completed, can I still access my account?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I sent money to my family last Friday but they don't have it.",
+      "generated": "I made a transfer to my family on Friday, but they haven't received it yet."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My card payment has not been withdrawn from my account",
+      "generated": "Did my card payment get reversed from my account?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why wasn't my payment accepted by the app",
+      "generated": "Why was my payment rejected by the app?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "how much does a card cost and why do you charge me",
+      "generated": "What is the price of a physical card, and can you explain the fees associated with it?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "how do I get my card to show in the app?",
+      "generated": "why isn't my card visible in the app?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I tried taking out 30 pounds from the ATM just now and it only gave me 10. Why would it do that? I need the 30 pounds now!",
+      "generated": "I withdrew 30 pounds from the ATM, but it dispensed only 10. Can you explain why this happened? I urgently need the remaining amount."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Hi, Please help me to request cash back. As i have been withdrawn money from ATM, but i got wrong amount. in Application its showing the amount i have been charged through.",
+      "generated": "I'm having an issue with a recent ATM withdrawal. I took out some cash, but the amount I received was incorrect. The app shows the amount I was charged, but it's not what I actually got."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "the balance has not changed, but I have deposited some money",
+      "generated": "The balance remains the same, despite the recent deposit."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Please help me, its urgent. Someone has withdrawn money from my account as few hours before my wallet has been. Now i want to stop withdrawal of more money.",
+      "generated": "I'm in a rush, please assist me. I've noticed an unexpected cash withdrawal from my account, and I'm worried that someone might continue to access my funds. Can you help me put a stop to any further transactions?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card couldn't pay in a shop.",
+      "generated": "My payment was declined at a store."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why does it still charge me even though I was unable to withdraw money from the ATM?",
+      "generated": "Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I cannot use my PIN.",
+      "generated": "I'm having trouble accessing my account due to a PIN issue."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "What's the process for terminating an account?",
+      "generated": "How do I go about closing my account?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why did I have to pay an additional amount when using my card to pay?",
+      "generated": "Why was I charged an extra fee when I used my card to make a payment?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "You can activate your card in a few seconds by going to account, hitting activate, and just following the directions.",
+      "generated": "You can easily activate your card by accessing your account, selecting the 'activate' option, and following the on-screen instructions."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "Remove my account immediately.",
+      "generated": "Cancel my account forthwith."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I need a Visa card",
+      "generated": "I require a Mastercard"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I want to find out what happened to my new card?",
+      "generated": "I'm trying to figure out what's going on with my recently issued card."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There is a payment in the app that I did not approve",
+      "generated": "A payment has been recorded in the app that I did not authorize."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are the steps for  making a transfer for topping up?",
+      "generated": "How do I initiate a transfer to add funds to an account?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "is there a frequent currency discount?",
+      "generated": "are there any regular exchange rate promotions available?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Card delivery services? Where?",
+      "generated": "How do I get my physical card delivered?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "There is a payment in my app that I did not make.  I have not used that card all day  Please reimburse my money.",
+      "generated": "I'm showing a payment in my account that I didn't initiate. I haven't used that card at all today, so I'm not sure why it's showing up. Can you investigate and refund the amount?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I tried to pay with my card and it didn't work",
+      "generated": "I attempted to make a payment using my credit/debit card, but it was unsuccessful."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "I need to set up an account for my daughter, how would I do that?",
+      "generated": "I'd like to open an account for my child, what's the process for doing so?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "You advertise no fee when paying with a card then my statement shows a fee.",
+      "generated": "You claim there's no charge for card payments, but I've been charged a fee on my statement."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "why didnt a transfer to my account process",
+      "generated": "why was I unable to receive a transfer into my account?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I dont have identification",
+      "generated": "We're having trouble confirming your identity."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I have used all of my PIN tries. What should I do now?",
+      "generated": "I've exhausted my PIN attempts. What's the next step I should take?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "My wallet got stolen a couple hours ago and now I've seen there already is a withdrawal. Help this is absolutely urgent I don't want to loose more money",
+      "generated": "My wallet was stolen a short while ago, and I've just noticed an unauthorized withdrawal. I'm extremely concerned and need immediate assistance to prevent further unauthorized transactions."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I haven't received my cash yet.",
+      "generated": "I'm still waiting to receive the cash."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is the top-up amount unlimited?",
+      "generated": "Can the top-up limit be increased without any restrictions?"
+    }
+  ]
+}

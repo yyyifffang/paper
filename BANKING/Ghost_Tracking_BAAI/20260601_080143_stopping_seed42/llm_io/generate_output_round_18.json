@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "My personal details, specifically my address, are inaccurate in your records.",
+    "A minor is seeking to establish a new account.",
+    "Why isn't my card visible in the app?",
+    "I recently got a new phone, do I need to set up a new account?",
+    "Can I still use your services if I've misplaced my phone and can't access the app?",
+    "What's the reason behind verifying identities at our bank?",
+    "I'd like to continue using my account, but I haven't completed the verification process. Is that acceptable?",
+    "i didn't deposit that amount into my account",
+    "The rate used for the foreign currency conversion was incorrect, resulting in an unexpected amount being charged to my card.",
+    "I can see the funds in my account, but the balance hasn't been updated after I made a transfer.",
+    "why isn't my card visible in the app?",
+    "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?",
+    "Can you accept payments by cheque or cash?",
+    "We're happy to provide information on the countries we support.",
+    "Why isn't my card visible in the app?",
+    "Why did the payment I made online get reversed and credited back to my account?",
+    "I haven't received the transfer yet.",
+    "Can I access my card information within the app?",
+    "I'd like to obtain a virtual card.",
+    "What steps can I take to review the security settings on my card?",
+    "Is the exchange rate offered by this app identical to those provided by other third-party services?",
+    "I have a pending outgoing transaction",
+    "How can I add funds to my account using my card?",
+    "I'd like to request a physical card that I can physically possess, how can I go about ordering one?",
+    "My credit card is malfunctioning.",
+    "I'm a student studying abroad and I'm reviewing my budget for the month, but I noticed some unexpected fees. Can you help me understand why these charges were added? I've had this account for years and haven't had any issues before, so I'm wondering if it's related to my recent international transactions or if there's an error on your end.",
+    "I am a resident in the European Union. Can I obtain one of your credit cards?",
+    "I require assistance with topping up my account using cash.",
+    "Is the card accepted by all parties involved?",
+    "I require my card as soon as possible.",
+    "Will my new card be functional in countries outside the European Union?",
+    "How do I receive money from a friend?",
+    "I locked my account, but how do I get a new card issued?",
+    "What is the age requirement for the documents I need to provide for verification purposes?",
+    "I'd like to obtain a virtual card.",
+    "Can you make a cash deposit or pay by cheque?",
+    "I'm concerned about an unexpected charge that's been appearing on my account statement. It's marked as \"pending\" in the app, and it's not updating, which has me worried that someone may have unauthorized access to my account."
+  ],
+  "generated_labels": [
+    30,
+    1,
+    13,
+    42,
+    42,
+    74,
+    74,
+    20,
+    17,
+    5,
+    13,
+    64,
+    58,
+    24,
+    13,
+    53,
+    66,
+    13,
+    40,
+    14,
+    32,
+    48,
+    62,
+    43,
+    14,
+    64,
+    24,
+    58,
+    10,
+    12,
+    24,
+    50,
+    22,
+    69,
+    40,
+    58,
+    34
+  ],
+  "source_texts": [
+    "My address is incorrect on my file.",
+    "My daughter needs to open account.",
+    "How can I make my card show up in the app?",
+    "I just replaced my phone so do I have to make a new account?",
+    "Can I use your services without access to the app?",
+    "Is the identity check part of bank policy?",
+    "I still want to use my account but haven't verified is that OK?",
+    "i didnt put that money in my account",
+    "Why was the exchange wrong for the item I purchased?",
+    "I can still see money in my account after making a payment",
+    "how do I get my card to show in the app?",
+    "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+    "Do you take checks?",
+    "As far as courtries go which ones are supported?",
+    "How do I make my card show up in the app?",
+    "I tried to buy something online but my funds were transferred back to my account. What is happening?",
+    "wheres my money receipt",
+    "Is there any way to see my card in the app?",
+    "I want to get my hands on one of those virtual cards!",
+    "How do I check security settings on my card?",
+    "Does this app have the same exchange rate as third parties?",
+    "I have an outgoing transfer",
+    "How do I to up by card?",
+    "I need an actual card that I can hold in my hand, how do I do that?",
+    "Currently my card is broken.",
+    "Hi! I'm a university student studying abroad and I noticed that when I was trying to cross-reference my budget for this month that there were extra fees I was not expecting. Why is that? I've had this account for years and I haven't had any trouble so far, it might not even be on your all's end since I'm still new to international travel and finance, but I wanted to double check in case a mistake was made!",
+    "I am in the EU. Can I get one of your cards?",
+    "I need a hand here, I need to top up cash.",
+    "Is the card welcomed by everybody?",
+    "I need my card immediately.",
+    "Will my new card work outside of the EU?",
+    "What are the steps for getting money from a friend?",
+    "I froze my account, but how do I order a replacement card?",
+    "How recent do my documents need to be for verification?",
+    "I want one of the virtual cards!",
+    "Do you accept cash?",
+    "I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as \"pending\", it never changes, and now I'm thinking someone's hacked my account!"
+  ],
+  "records": [
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "My address is incorrect on my file.",
+      "generated": "My personal details, specifically my address, are inaccurate in your records."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "My daughter needs to open account.",
+      "generated": "A minor is seeking to establish a new account."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "How can I make my card show up in the app?",
+      "generated": "Why isn't my card visible in the app?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I just replaced my phone so do I have to make a new account?",
+      "generated": "I recently got a new phone, do I need to set up a new account?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Can I use your services without access to the app?",
+      "generated": "Can I still use your services if I've misplaced my phone and can't access the app?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Is the identity check part of bank policy?",
+      "generated": "What's the reason behind verifying identities at our bank?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I still want to use my account but haven't verified is that OK?",
+      "generated": "I'd like to continue using my account, but I haven't completed the verification process. Is that acceptable?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "i didnt put that money in my account",
+      "generated": "i didn't deposit that amount into my account"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why was the exchange wrong for the item I purchased?",
+      "generated": "The rate used for the foreign currency conversion was incorrect, resulting in an unexpected amount being charged to my card."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I can still see money in my account after making a payment",
+      "generated": "I can see the funds in my account, but the balance hasn't been updated after I made a transfer."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "how do I get my card to show in the app?",
+      "generated": "why isn't my card visible in the app?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+      "generated": "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Do you take checks?",
+      "generated": "Can you accept payments by cheque or cash?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "As far as courtries go which ones are supported?",
+      "generated": "We're happy to provide information on the countries we support."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "How do I make my card show up in the app?",
+      "generated": "Why isn't my card visible in the app?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to buy something online but my funds were transferred back to my account. What is happening?",
+      "generated": "Why did the payment I made online get reversed and credited back to my account?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "wheres my money receipt",
+      "generated": "I haven't received the transfer yet."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Is there any way to see my card in the app?",
+      "generated": "Can I access my card information within the app?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I want to get my hands on one of those virtual cards!",
+      "generated": "I'd like to obtain a virtual card."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I check security settings on my card?",
+      "generated": "What steps can I take to review the security settings on my card?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Does this app have the same exchange rate as third parties?",
+      "generated": "Is the exchange rate offered by this app identical to those provided by other third-party services?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have an outgoing transfer",
+      "generated": "I have a pending outgoing transaction"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I to up by card?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need an actual card that I can hold in my hand, how do I do that?",
+      "generated": "I'd like to request a physical card that I can physically possess, how can I go about ordering one?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Currently my card is broken.",
+      "generated": "My credit card is malfunctioning."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Hi! I'm a university student studying abroad and I noticed that when I was trying to cross-reference my budget for this month that there were extra fees I was not expecting. Why is that? I've had this account for years and I haven't had any trouble so far, it might not even be on your all's end since I'm still new to international travel and finance, but I wanted to double check in case a mistake was made!",
+      "generated": "I'm a student studying abroad and I'm reviewing my budget for the month, but I noticed some unexpected fees. Can you help me understand why these charges were added? I've had this account for years and haven't had any issues before, so I'm wondering if it's related to my recent international transactions or if there's an error on your end."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I am in the EU. Can I get one of your cards?",
+      "generated": "I am a resident in the European Union. Can I obtain one of your credit cards?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I need a hand here, I need to top up cash.",
+      "generated": "I require assistance with topping up my account using cash."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is the card welcomed by everybody?",
+      "generated": "Is the card accepted by all parties involved?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card immediately.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Will my new card work outside of the EU?",
+      "generated": "Will my new card be functional in countries outside the European Union?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What are the steps for getting money from a friend?",
+      "generated": "How do I receive money from a friend?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I froze my account, but how do I order a replacement card?",
+      "generated": "I locked my account, but how do I get a new card issued?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How recent do my documents need to be for verification?",
+      "generated": "What is the age requirement for the documents I need to provide for verification purposes?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I want one of the virtual cards!",
+      "generated": "I'd like to obtain a virtual card."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Do you accept cash?",
+      "generated": "Can you make a cash deposit or pay by cheque?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as \"pending\", it never changes, and now I'm thinking someone's hacked my account!",
+      "generated": "I'm concerned about an unexpected charge that's been appearing on my account statement. It's marked as \"pending\" in the app, and it's not updating, which has me worried that someone may have unauthorized access to my account."
+    }
+  ]
+}

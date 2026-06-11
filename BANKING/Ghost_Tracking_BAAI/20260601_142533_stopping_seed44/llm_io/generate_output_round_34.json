@@ -1,0 +1,370 @@
+{
+  "generated_texts": [
+    "I made a transfer, but the recipient hasn't received it yet.",
+    "I'm unable to locate my card top-up transaction in my digital wallet.",
+    "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?",
+    "I'm unable to complete the identity verification process.",
+    "Explain the process for verifying my identity",
+    "Do I incur a fee when someone transfers money to my account?",
+    "Are there any fees associated with receiving a bank transfer to top up your account?",
+    "What are the requirements for charging my card for a top-up?",
+    "My virtual card is experiencing technical difficulties.",
+    "I'd like to cancel a transaction that occurred earlier today.",
+    "I'd like to be informed when an extra charge is applied to my payment. I recently checked the app and noticed an additional fee associated with one of the transactions. I was not notified about this beforehand.",
+    "Why isn't my bank transfer reflected in my account balance?",
+    "I'd like to make an online purchase without using my credit card. Can you explain how a temporary virtual card works and where I can obtain one for this transaction?",
+    "I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?",
+    "Why isn't my card-based top-up reflected in my account balance?",
+    "Where can I locate the identity verification process?",
+    "What is the estimated delivery timeframe for a card to a customer in the United States?",
+    "I am having my card shipped to the US, can you estimate the delivery timeframe?",
+    "I'm unable to locate the recent card top-up in my digital wallet.",
+    "Can I set up recurring automatic top-ups?",
+    "I'm having trouble using my virtual card to make transactions.",
+    "describe the rate at which banks exchange one currency for another",
+    "I'd like to obtain a spare card for my daughter.",
+    "When can I expect to receive my new card?",
+    "I'm surprised to find the exchange rate is so unfavorable and would appreciate it if you could verify the current interbank exchange rate for me.",
+    "What are the charges for making a payment using a European bank card?",
+    "Can you assist me in resolving the issue with my card not functioning properly?",
+    "We're trying to investigate why a direct debit payment was made from your account without your consent.",
+    "Can I use my card to add funds to my account from someone else's account?",
+    "Hey, I've been informed by a seller that the payment I made hasn't gone through, even though it was deducted from my account. However, it seems the funds have been reversed and are now back in my account. Can you look into this ASAP and resolve the issue?",
+    "I'm attempting to reverse a transfer I initiated earlier today",
+    "How long does it typically take for a transfer to be processed?",
+    "Can you investigate why my account balance is not reflecting the recent bank transfer I made, as it's not updating yet?",
+    "I'd like to dispute a charge on my statement that was incorrectly applied.",
+    "Can someone else make a card payment on my behalf?",
+    "Are there any charges associated with using a European bank card for a top-up?",
+    "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account.",
+    "What fee will be deducted for a bank transfer top-up?",
+    "Can you help me understand why my online transactions are being declined, even though my card payment is initially accepted, only to be reversed later?",
+    "I was unexpectedly billed a fee for using my card, which I believe was an error."
+  ],
+  "generated_labels": [
+    66,
+    62,
+    30,
+    74,
+    69,
+    56,
+    56,
+    57,
+    72,
+    8,
+    15,
+    5,
+    37,
+    46,
+    62,
+    69,
+    12,
+    12,
+    62,
+    4,
+    72,
+    32,
+    39,
+    12,
+    17,
+    57,
+    14,
+    28,
+    62,
+    53,
+    8,
+    48,
+    5,
+    52,
+    62,
+    57,
+    8,
+    56,
+    53,
+    15
+  ],
+  "source_texts": [
+    "I sent a payment but it isn't showing up in the app",
+    "I don't see me 'top up' in my wallet",
+    "my identity hasn't been verified and i can't edit my details, what's next",
+    "I can't do the verification.",
+    "Tell me what the steps for the identity checks are",
+    "Am I charged for receiving money?",
+    "Are you aware of any charges for receiving money?",
+    "What do I need to know about topping up?",
+    "My virtual card is just not going through.",
+    "There was a transaction this morning that I'd like to reverse.",
+    "I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before.",
+    "How can I fix my bank transfer to show up on my bank account?",
+    "I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?",
+    "I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it?",
+    "Why is my 'top up' not showing up in my wallet?",
+    "How and where can I find the identity checks?",
+    "How many days to deliver to a US customer?",
+    "i am express delivering my card to the us, how long will that take",
+    "I don't see my top up in my wallet.",
+    "Can I schedule future top ups?",
+    "I can't make purchases with my virtual card.",
+    "explain the interbank exchange rate",
+    "daughter needs card, how do i add her",
+    "How long will I have to wait for my new card?",
+    "Hi, I am disappointed to see such a bad exchange rate and hope you can assist me. Would you be able to confirm the official interbank exchange rate for me?",
+    "What are the fees for using a European bank card?",
+    "Need help to get my card to work.",
+    "Is there a way for you to find out why my account was deducted from a seller when I didn't approve of it?",
+    "Is my account able to be topped up by my friends?",
+    "Hey a seller just contacted me that my money didn't come through. It was definitely deducted from my account, but now it appears it's back with me! Sort this out asap please.",
+    "I am trying to revert a transcation I did this morning",
+    "What is the average pending time for a transaction?",
+    "Can you check if my money has reached my account since it is not showing up yet?",
+    "My statement has a charge that shouldn't have been made.",
+    "Can anyone else top-up for me?",
+    "Is there a fee for european bank cards?",
+    "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+    "For SEPA transfers, what kind of charge will be applied?",
+    "Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.",
+    "I was charged and shouldn't have been charged when using my card!"
+  ],
+  "records": [
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I sent a payment but it isn't showing up in the app",
+      "generated": "I made a transfer, but the recipient hasn't received it yet."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I don't see me 'top up' in my wallet",
+      "generated": "I'm unable to locate my card top-up transaction in my digital wallet."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "my identity hasn't been verified and i can't edit my details, what's next",
+      "generated": "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I can't do the verification.",
+      "generated": "I'm unable to complete the identity verification process."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Tell me what the steps for the identity checks are",
+      "generated": "Explain the process for verifying my identity"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I charged for receiving money?",
+      "generated": "Do I incur a fee when someone transfers money to my account?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are you aware of any charges for receiving money?",
+      "generated": "Are there any fees associated with receiving a bank transfer to top up your account?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "What do I need to know about topping up?",
+      "generated": "What are the requirements for charging my card for a top-up?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My virtual card is just not going through.",
+      "generated": "My virtual card is experiencing technical difficulties."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "There was a transaction this morning that I'd like to reverse.",
+      "generated": "I'd like to cancel a transaction that occurred earlier today."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before.",
+      "generated": "I'd like to be informed when an extra charge is applied to my payment. I recently checked the app and noticed an additional fee associated with one of the transactions. I was not notified about this beforehand."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How can I fix my bank transfer to show up on my bank account?",
+      "generated": "Why isn't my bank transfer reflected in my account balance?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?",
+      "generated": "I'd like to make an online purchase without using my credit card. Can you explain how a temporary virtual card works and where I can obtain one for this transaction?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it?",
+      "generated": "I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Why is my 'top up' not showing up in my wallet?",
+      "generated": "Why isn't my card-based top-up reflected in my account balance?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How and where can I find the identity checks?",
+      "generated": "Where can I locate the identity verification process?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "How many days to deliver to a US customer?",
+      "generated": "What is the estimated delivery timeframe for a card to a customer in the United States?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i am express delivering my card to the us, how long will that take",
+      "generated": "I am having my card shipped to the US, can you estimate the delivery timeframe?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I don't see my top up in my wallet.",
+      "generated": "I'm unable to locate the recent card top-up in my digital wallet."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I schedule future top ups?",
+      "generated": "Can I set up recurring automatic top-ups?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't make purchases with my virtual card.",
+      "generated": "I'm having trouble using my virtual card to make transactions."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "explain the interbank exchange rate",
+      "generated": "describe the rate at which banks exchange one currency for another"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "daughter needs card, how do i add her",
+      "generated": "I'd like to obtain a spare card for my daughter."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "How long will I have to wait for my new card?",
+      "generated": "When can I expect to receive my new card?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Hi, I am disappointed to see such a bad exchange rate and hope you can assist me. Would you be able to confirm the official interbank exchange rate for me?",
+      "generated": "I'm surprised to find the exchange rate is so unfavorable and would appreciate it if you could verify the current interbank exchange rate for me."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "What are the fees for using a European bank card?",
+      "generated": "What are the charges for making a payment using a European bank card?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Need help to get my card to work.",
+      "generated": "Can you assist me in resolving the issue with my card not functioning properly?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Is there a way for you to find out why my account was deducted from a seller when I didn't approve of it?",
+      "generated": "We're trying to investigate why a direct debit payment was made from your account without your consent."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Is my account able to be topped up by my friends?",
+      "generated": "Can I use my card to add funds to my account from someone else's account?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Hey a seller just contacted me that my money didn't come through. It was definitely deducted from my account, but now it appears it's back with me! Sort this out asap please.",
+      "generated": "Hey, I've been informed by a seller that the payment I made hasn't gone through, even though it was deducted from my account. However, it seems the funds have been reversed and are now back in my account. Can you look into this ASAP and resolve the issue?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I am trying to revert a transcation I did this morning",
+      "generated": "I'm attempting to reverse a transfer I initiated earlier today"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "What is the average pending time for a transaction?",
+      "generated": "How long does it typically take for a transfer to be processed?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you check if my money has reached my account since it is not showing up yet?",
+      "generated": "Can you investigate why my account balance is not reflecting the recent bank transfer I made, as it's not updating yet?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "My statement has a charge that shouldn't have been made.",
+      "generated": "I'd like to dispute a charge on my statement that was incorrectly applied."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can anyone else top-up for me?",
+      "generated": "Can someone else make a card payment on my behalf?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is there a fee for european bank cards?",
+      "generated": "Are there any charges associated with using a European bank card for a top-up?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+      "generated": "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "For SEPA transfers, what kind of charge will be applied?",
+      "generated": "What fee will be deducted for a bank transfer top-up?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.",
+      "generated": "Can you help me understand why my online transactions are being declined, even though my card payment is initially accepted, only to be reversed later?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I was charged and shouldn't have been charged when using my card!",
+      "generated": "I was unexpectedly billed a fee for using my card, which I believe was an error."
+    }
+  ]
+}

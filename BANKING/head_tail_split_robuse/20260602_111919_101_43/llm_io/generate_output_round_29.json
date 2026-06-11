@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "Can I use an ATM from a different bank than my own?",
+    "How will the newly received card be reflected in the app?",
+    "Can I use a different currency when making a payment with a card, or do I need to use euros?",
+    "Are there any charges associated with using a European bank card for a top-up?",
+    "I'd like to request a reversal of this fee from my account.",
+    "I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible.",
+    "I'm having trouble adding funds using Apple Pay, can you help me figure out why it's not working?",
+    "I must have keyed in my PIN incorrectly.",
+    "Can you deliver your physical cards to any location?",
+    "Can I use my Apple Watch to replenish my account balance?",
+    "What financial institutions or merchants accept the card?",
+    "I recently made a transfer, but the recipient's account was credited with a lower amount than expected. I've since made an additional transfer to cover the difference. Could you please investigate this discrepancy?",
+    "I'm having trouble using my card to top up because the funds I loaded onto it are no longer available.",
+    "If someone wants to add funds to my account, can they do so using my card?",
+    "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?",
+    "I'd like to modify my personal information.",
+    "Reasons for reversal of top-up transaction.",
+    "I've been making international transactions from this account lately. Are there any new or changed fees I should be aware of?",
+    "Can I use my smartwatch to make a payment for fuel?",
+    "A pending cash withdrawal is currently being processed.",
+    "What is the charge for topping up using a US-issued card?",
+    "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge.",
+    "I'd like to be informed when an extra charge is applied to my payment. I recently checked the app and noticed an additional fee associated with one of the transactions. I was not notified about this beforehand.",
+    "Can I retrieve a physical credit card?",
+    "I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate.",
+    "How do I turn on my new credit card?",
+    "What's the best way to determine the value of my money when I'm planning a trip overseas?",
+    "What happens if I make a cash deposit or deposit a cheque by mistake?",
+    "What steps does your app take to move funds into another account?",
+    "My bank card has reached its expiration date, what steps can I take to obtain a replacement physical card?",
+    "A surprise fee has appeared on a transfer that shouldn't have had one.",
+    "I initiated a transfer, but the recipient only received a reduced amount, which means I need to make an additional transfer to cover the shortfall. Can you assist me with this issue?",
+    "What is the charge for exchanging currency from a foreign country?",
+    "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.",
+    "I mistakenly entered the wrong account number, resulting in a transfer to the wrong account. I'm unable to reverse the transaction through the app. Can you assist me in canceling this transfer as soon as possible?"
+  ],
+  "generated_labels": [
+    3,
+    13,
+    54,
+    57,
+    52,
+    75,
+    2,
+    49,
+    43,
+    2,
+    10,
+    64,
+    62,
+    62,
+    64,
+    30,
+    61,
+    64,
+    2,
+    46,
+    57,
+    63,
+    15,
+    43,
+    76,
+    0,
+    32,
+    6,
+    65,
+    9,
+    64,
+    64,
+    31,
+    20,
+    8
+  ],
+  "source_texts": [
+    "Can I use a different bank ATM than my own?",
+    "Card has been received, how will it show up on the app?",
+    "Do I have to top up in euros if I use a card, or can I use a different currency?",
+    "Is there a fee for european bank cards?",
+    "I want this fee reversed from my account.",
+    "I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!",
+    "i have been trying to add money with apple pay but it wont work, why?",
+    "I must have entered my PIN wrong.",
+    "Do you ship your cards anywhere?",
+    "Does Apple Watch support the topping-off of my account?",
+    "Who accepts the card?",
+    "Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+    "I wasn't able to use my top up card because the money I put on there wasn't there anymore",
+    "If I want a friend to top off my account, can they?",
+    "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+    "I need to update my demographics.",
+    "Reasons for top up cancellation.",
+    "I have used this account overseas recently. Has there been an increase in fees that I am unaware of?",
+    "Can I use my Apple Watch to pay for gas?",
+    "There is a withdrawal waiting.",
+    "How much does it cost to us US cards?",
+    "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+    "I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before.",
+    "Can I revive a physical card.",
+    "I was needing you to see if the exchange rate is correct from when i got cash",
+    "How can I switch on my new card?",
+    "How do I know how much money I will have when I travel abroad?",
+    "What happens if I deposit a cheque accidentally?",
+    "How does your app transfer the money",
+    "My bank card has expired, how can I get a new physical card?",
+    "There is a fee from a transfer that is not supposed to be here!",
+    "I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done",
+    "What is the fee for accepting money from a foreign country?",
+    "I did not get the cash that is showing up in my app.",
+    "I made a terrible mistake when typing in my account number.  I accidently sent money to the wrong account.  I noticed the app won't allow me to void the transaction.  Can someone help me with this immediately?"
+  ],
+  "records": [
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I use a different bank ATM than my own?",
+      "generated": "Can I use an ATM from a different bank than my own?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Card has been received, how will it show up on the app?",
+      "generated": "How will the newly received card be reflected in the app?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do I have to top up in euros if I use a card, or can I use a different currency?",
+      "generated": "Can I use a different currency when making a payment with a card, or do I need to use euros?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is there a fee for european bank cards?",
+      "generated": "Are there any charges associated with using a European bank card for a top-up?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I want this fee reversed from my account.",
+      "generated": "I'd like to request a reversal of this fee from my account."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!",
+      "generated": "I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "i have been trying to add money with apple pay but it wont work, why?",
+      "generated": "I'm having trouble adding funds using Apple Pay, can you help me figure out why it's not working?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I must have entered my PIN wrong.",
+      "generated": "I must have keyed in my PIN incorrectly."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do you ship your cards anywhere?",
+      "generated": "Can you deliver your physical cards to any location?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Does Apple Watch support the topping-off of my account?",
+      "generated": "Can I use my Apple Watch to replenish my account balance?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Who accepts the card?",
+      "generated": "What financial institutions or merchants accept the card?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+      "generated": "I recently made a transfer, but the recipient's account was credited with a lower amount than expected. I've since made an additional transfer to cover the difference. Could you please investigate this discrepancy?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I wasn't able to use my top up card because the money I put on there wasn't there anymore",
+      "generated": "I'm having trouble using my card to top up because the funds I loaded onto it are no longer available."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "If I want a friend to top off my account, can they?",
+      "generated": "If someone wants to add funds to my account, can they do so using my card?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+      "generated": "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I need to update my demographics.",
+      "generated": "I'd like to modify my personal information."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Reasons for top up cancellation.",
+      "generated": "Reasons for reversal of top-up transaction."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I have used this account overseas recently. Has there been an increase in fees that I am unaware of?",
+      "generated": "I've been making international transactions from this account lately. Are there any new or changed fees I should be aware of?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I use my Apple Watch to pay for gas?",
+      "generated": "Can I use my smartwatch to make a payment for fuel?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "There is a withdrawal waiting.",
+      "generated": "A pending cash withdrawal is currently being processed."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "How much does it cost to us US cards?",
+      "generated": "What is the charge for topping up using a US-issued card?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+      "generated": "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before.",
+      "generated": "I'd like to be informed when an extra charge is applied to my payment. I recently checked the app and noticed an additional fee associated with one of the transactions. I was not notified about this beforehand."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can I revive a physical card.",
+      "generated": "Can I retrieve a physical credit card?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I was needing you to see if the exchange rate is correct from when i got cash",
+      "generated": "I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can I switch on my new card?",
+      "generated": "How do I turn on my new credit card?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "How do I know how much money I will have when I travel abroad?",
+      "generated": "What's the best way to determine the value of my money when I'm planning a trip overseas?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "What happens if I deposit a cheque accidentally?",
+      "generated": "What happens if I make a cash deposit or deposit a cheque by mistake?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "How does your app transfer the money",
+      "generated": "What steps does your app take to move funds into another account?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My bank card has expired, how can I get a new physical card?",
+      "generated": "My bank card has reached its expiration date, what steps can I take to obtain a replacement physical card?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "There is a fee from a transfer that is not supposed to be here!",
+      "generated": "A surprise fee has appeared on a transfer that shouldn't have had one."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done",
+      "generated": "I initiated a transfer, but the recipient only received a reduced amount, which means I need to make an additional transfer to cover the shortfall. Can you assist me with this issue?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "What is the fee for accepting money from a foreign country?",
+      "generated": "What is the charge for exchanging currency from a foreign country?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I did not get the cash that is showing up in my app.",
+      "generated": "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I made a terrible mistake when typing in my account number.  I accidently sent money to the wrong account.  I noticed the app won't allow me to void the transaction.  Can someone help me with this immediately?",
+      "generated": "I mistakenly entered the wrong account number, resulting in a transfer to the wrong account. I'm unable to reverse the transaction through the app. Can you assist me in canceling this transfer as soon as possible?"
+    }
+  ]
+}

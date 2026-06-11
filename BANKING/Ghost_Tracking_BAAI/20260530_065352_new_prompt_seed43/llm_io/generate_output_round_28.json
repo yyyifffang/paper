@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I recently received my card, but I'm having trouble adding funds to it. I'm considering canceling my account due to this issue. Can you help me resolve this problem?",
+    "Can I continue to use my credit card after its expiration date?",
+    "I require a replacement card and I am a resident of the United States.",
+    "Are there any charges associated with making a top-up payment using my card?",
+    "I've misplaced my passcode",
+    "May I request a physical version of my digital card?",
+    "Can I request priority shipping for my card delivery?",
+    "What steps does your app take to move funds into another account?",
+    "I've been charged twice for the same transaction, and I'm expecting only one charge.",
+    "How often can I increase my limits through top-ups?",
+    "At what age can someone utilize your service?",
+    "Cancel my account forthwith.",
+    "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge.",
+    "I attempted to perform a crypto top-up using your service, but it appears to have been unsuccessful. The funds have been debited from my account, and I'd appreciate it if you could investigate this issue.",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate.",
+    "Can I use my card to withdraw cash from an ATM? I've never tried it before, but when I attempted to do so, the transaction was declined.",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution.",
+    "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?",
+    "Why was my cash withdrawal declined at the ATM?",
+    "I misplaced my card and require a replacement, what's the fee for a new one?",
+    "Are you taking advantage of customers with an unfair exchange rate? It's hard to believe it's that bad between financial institutions.",
+    "Can you explain the process for utilizing the virtual disposable cards?",
+    "The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?",
+    "I'm puzzled as to why my payment is being rejected, considering I have sufficient funds in my account.",
+    "The exchange rate you're using seems incorrect. It's not the standard interbank rate.",
+    "I've forgotten my passcode and need a new one",
+    "I would like to cancel my account immediately.",
+    "I'm having trouble with my temporary virtual card, it's not functioning properly.",
+    "How can I activate my new credit card?",
+    "I'm having trouble adding funds to my account using a cheque, but it's not processing.",
+    "My card seems to have been swallowed by the ATM, what should I do now?",
+    "I've been trying to withdraw cash from every ATM I've visited, but my card keeps getting declined. I'm not sure what's going on, as I'm certain there's sufficient funds available. Could you please investigate and let me know if there's an issue with my account or if I'm making an error?",
+    "I'm having trouble completing a transfer and it's not going through as expected.",
+    "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?",
+    "I'm still waiting for my new card to arrive.",
+    "Can I move some money from another account into my current account?"
+  ],
+  "generated_labels": [
+    59,
+    9,
+    24,
+    57,
+    44,
+    43,
+    11,
+    65,
+    63,
+    60,
+    1,
+    55,
+    63,
+    61,
+    17,
+    26,
+    17,
+    59,
+    26,
+    39,
+    17,
+    37,
+    26,
+    25,
+    17,
+    44,
+    55,
+    72,
+    0,
+    58,
+    18,
+    26,
+    35,
+    59,
+    11,
+    65
+  ],
+  "source_texts": [
+    "I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on?",
+    "Can I keep using my card after it expires?",
+    "I need a new card and I live in the United States.",
+    "Are their fee's for top ups?",
+    "I forgot my code",
+    "Can I have a tangible form of my virtual card.",
+    "Is there a way I can get my card expedited?",
+    "How does your app transfer the money",
+    "Why do I have two charges It should only be one charge?",
+    "How many times can I make a top-up?",
+    "How old can one use your service?",
+    "Remove my account immediately.",
+    "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+    "I thought crypto top up with something you offer. This is not working. The money has been deducted from my account. Can you find out what's going on?",
+    "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+    "Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing.",
+    "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+    "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+    "Why did the ATM cancel my transaction",
+    "I lost my card and need a new one, will it cost me?",
+    "Are you ripping people off with the exchange rate?  It can't be that atrocious between banks.",
+    "Will you tell me how I am supposed to use the disposable cards?",
+    "The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?",
+    "I have enough money in my account, so why is my card being declined?",
+    "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+    "I need a new login code",
+    "I need to close my account as soon as possible.",
+    "I have a disposable card but it does not work?",
+    "How do I verify my new card?",
+    "i have been trying to top up my account with a check but it won't work",
+    "My card was eaten by the cash machine what do I do?",
+    "Every ATM I visit is rejecting my card and I don't know why. There should be money on it. Can you check it to see if something is wrong or if I'm doing something wrong?",
+    "I am trying to transfer money and something is going wrong.",
+    "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+    "I was expecting my new card by now.",
+    "Help! My account doesn't show any funds. Is transferring funds an option I can use?"
+  ],
+  "records": [
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on?",
+      "generated": "I recently received my card, but I'm having trouble adding funds to it. I'm considering canceling my account due to this issue. Can you help me resolve this problem?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I keep using my card after it expires?",
+      "generated": "Can I continue to use my credit card after its expiration date?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I need a new card and I live in the United States.",
+      "generated": "I require a replacement card and I am a resident of the United States."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are their fee's for top ups?",
+      "generated": "Are there any charges associated with making a top-up payment using my card?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I forgot my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can I have a tangible form of my virtual card.",
+      "generated": "May I request a physical version of my digital card?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Is there a way I can get my card expedited?",
+      "generated": "Can I request priority shipping for my card delivery?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "How does your app transfer the money",
+      "generated": "What steps does your app take to move funds into another account?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why do I have two charges It should only be one charge?",
+      "generated": "I've been charged twice for the same transaction, and I'm expecting only one charge."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How many times can I make a top-up?",
+      "generated": "How often can I increase my limits through top-ups?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "How old can one use your service?",
+      "generated": "At what age can someone utilize your service?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "Remove my account immediately.",
+      "generated": "Cancel my account forthwith."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+      "generated": "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I thought crypto top up with something you offer. This is not working. The money has been deducted from my account. Can you find out what's going on?",
+      "generated": "I attempted to perform a crypto top-up using your service, but it appears to have been unsuccessful. The funds have been debited from my account, and I'd appreciate it if you could investigate this issue."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing.",
+      "generated": "Can I use my card to withdraw cash from an ATM? I've never tried it before, but when I attempted to do so, the transaction was declined."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+      "generated": "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why did the ATM cancel my transaction",
+      "generated": "Why was my cash withdrawal declined at the ATM?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I lost my card and need a new one, will it cost me?",
+      "generated": "I misplaced my card and require a replacement, what's the fee for a new one?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Are you ripping people off with the exchange rate?  It can't be that atrocious between banks.",
+      "generated": "Are you taking advantage of customers with an unfair exchange rate? It's hard to believe it's that bad between financial institutions."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Will you tell me how I am supposed to use the disposable cards?",
+      "generated": "Can you explain the process for utilizing the virtual disposable cards?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?",
+      "generated": "The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I have enough money in my account, so why is my card being declined?",
+      "generated": "I'm puzzled as to why my payment is being rejected, considering I have sufficient funds in my account."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems incorrect. It's not the standard interbank rate."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I need a new login code",
+      "generated": "I've forgotten my passcode and need a new one"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I need to close my account as soon as possible.",
+      "generated": "I would like to cancel my account immediately."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I have a disposable card but it does not work?",
+      "generated": "I'm having trouble with my temporary virtual card, it's not functioning properly."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How do I verify my new card?",
+      "generated": "How can I activate my new credit card?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "i have been trying to top up my account with a check but it won't work",
+      "generated": "I'm having trouble adding funds to my account using a cheque, but it's not processing."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "My card was eaten by the cash machine what do I do?",
+      "generated": "My card seems to have been swallowed by the ATM, what should I do now?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Every ATM I visit is rejecting my card and I don't know why. There should be money on it. Can you check it to see if something is wrong or if I'm doing something wrong?",
+      "generated": "I've been trying to withdraw cash from every ATM I've visited, but my card keeps getting declined. I'm not sure what's going on, as I'm certain there's sufficient funds available. Could you please investigate and let me know if there's an issue with my account or if I'm making an error?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I am trying to transfer money and something is going wrong.",
+      "generated": "I'm having trouble completing a transfer and it's not going through as expected."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+      "generated": "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I was expecting my new card by now.",
+      "generated": "I'm still waiting for my new card to arrive."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Help! My account doesn't show any funds. Is transferring funds an option I can use?",
+      "generated": "Can I move some money from another account into my current account?"
+    }
+  ]
+}

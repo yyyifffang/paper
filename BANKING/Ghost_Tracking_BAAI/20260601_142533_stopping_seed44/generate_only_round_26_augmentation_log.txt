@@ -1,0 +1,36 @@
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're planning to establish a savings plan for my child's future education expenses.
+GEN | [card_about_to_expire] | Orig: What is the cost and time frame of getting a new card? -> Aug: What is the process and timeline for replacing an expiring card?
+GEN | [card_payment_wrong_exchange_rate] | Orig: I was charged the wing amount for an item. -> Aug: I was overcharged for the item, and the amount doesn't match the expected exchange rate.
+GEN | [reverted_card_payment?] | Orig: I have cancelled payments to this card. -> Aug: I've stopped making payments on this card.
+GEN | [activate_my_card] | Orig: What do I need to do in order to use my card I just got? -> Aug: How can I activate my new card so I can start using it?
+GEN | [country_support] | Orig: What countries do your accounts send and receive to? -> Aug: Which countries do your accounts support international transactions to and from?
+GEN | [receiving_money] | Orig: Can this app take my salary? -> Aug: Can I use this app to deposit my paycheck?
+GEN | [cash_withdrawal_charge] | Orig: I was charged for getting cash. -> Aug: I was charged a fee for withdrawing cash.
+GEN | [compromised_card] | Orig: I have some transactions on my account I did not make. Can you cancel my card and prevent further use. -> Aug: I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?
+GEN | [verify_top_up] | Orig: What can I do to verify my card? -> Aug: How can I confirm the details of my card?
+GEN | [pin_blocked] | Orig: My card got blocked, how do I reset? -> Aug: My PIN has been blocked, what's the process to unblock it?
+GEN | [supported_cards_and_currencies] | Orig: If I top up by card, what options do I have re: currency and card type? -> Aug: If I make a card deposit, what payment methods and currencies are available to me?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I was needing you to see if the exchange rate is correct from when i got cash -> Aug: I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate.
+GEN | [cancel_transfer] | Orig: I used the wrong account number! -> Aug: I mistakenly entered an incorrect account number.
+GEN | [receiving_money] | Orig: Can I receive payment in another currency? -> Aug: Can I accept payment in a different currency?
+GEN | [supported_cards_and_currencies] | Orig: Do I have to top up in euros if I use a card, or can I use a different currency? -> Aug: Can I use a different currency when making a payment with a card, or do I need to use euros?
+GEN | [transaction_charged_twice] | Orig: Transaction showing up many times. -> Aug: Duplicate transaction appearing on my account statement.
+GEN | [getting_spare_card] | Orig: How much is it to buy another card? I was hoping to buy another one. -> Aug: Can I get a new card? I'd like to purchase an additional one.
+GEN | [card_not_working] | Orig: I can't get my actual card to work -> Aug: I'm having trouble using my physical card
+GEN | [activate_my_card] | Orig: Can I use my new card? -> Aug: Is my new card ready for use?
+GEN | [card_payment_not_recognised] | Orig: I don't think I made this transaction on my statement -> Aug: I'm not sure if I authorized this payment on my recent statement.
+GEN | [transfer_not_received_by_recipient] | Orig: Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet. -> Aug: I'm still waiting for my domestic transfer to be credited to the recipient's account. I double-checked the account details a few days ago, but the payment hasn't been processed yet.
+GEN | [card_payment_not_recognised] | Orig: I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back? -> Aug: I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?
+GEN | [why_verify_identity] | Orig: If my identy verifacation hasn't gone through can I use my account? -> Aug: If my identity verification process hasn't been completed, can I still access my account?
+GEN | [verify_source_of_funds] | Orig: where are the transfers originating -> Aug: what is the source of the funds being transferred
+GEN | [card_not_working] | Orig: Please help me!  My physical card isn't working right. -> Aug: Can you assist me? My physical bank card is malfunctioning.
+GEN | [card_not_working] | Orig: Need help to get my card to work. -> Aug: Can you assist me in resolving the issue with my card not functioning properly?
+GEN | [top_up_by_card_charge] | Orig: how much is the fee for topping by card -> Aug: what is the charge for topping up my account using my card?
+GEN | [apple_pay_or_google_pay] | Orig: I am having a slight problem with my American express in apple play, can you help me fix the problem with top up? -> Aug: I'm experiencing an issue with my American Express account on Google Pay, could you assist me in resolving the issue with a top-up?
+GEN | [extra_charge_on_statement] | Orig: I had a dollar charged to my account that's still pending and wanted to know what the charge is for? -> Aug: I'm still seeing a pending charge of $1 on my account and I'd like to understand what it's for.
+GEN | [transfer_fee_charged] | Orig: who charged my card -> Aug: who deducted the transfer fee from my card
+GEN | [verify_my_identity] | Orig: Can I get a full list of instructions for identity checks? -> Aug: Could you please provide me with a comprehensive guide on how to verify my identity?
+GEN | [direct_debit_payment_not_recognised] | Orig: I have an unknown charge. -> Aug: We've detected an unfamiliar payment.
+GEN | [supported_cards_and_currencies] | Orig: What card or currency can I use to pay? -> Aug: What payment methods or currencies are accepted for transactions?
+GEN | [getting_virtual_card] | Orig: I ordered a virtual card but it hasn't come through yet -> Aug: I'm still waiting for my virtual card to be issued
+GEN | [transfer_fee_charged] | Orig: I think I have an extra transfer charge. -> Aug: I believe I've been incorrectly billed for a transfer fee.

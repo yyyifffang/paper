@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I recently purchased a product, but I'm considering returning it.",
+    "How can I use my card for payment?",
+    "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP.",
+    "We've received a payment attempt from your debit card, but it's not being recognized.",
+    "How long does it typically take to process a pending cash withdrawal request?",
+    "I'm unable to complete any transactions with this virtual card.",
+    "I'm extremely dissatisfied with your service and would like to cancel my account.",
+    "I urgently need assistance. I've just discovered that I mistakenly sent a payment to the incorrect account number, and there's a typo involved. Could you please cancel the transfer as soon as possible? I'm unable to do so through the app.",
+    "I attempted to refresh my account balance after depositing cash yesterday, but it appears to be stuck. Can you investigate why it's taking so long to reflect the update?",
+    "I misplaced my wallet, which contained all my credit cards.",
+    "how do i configure my apple pay-enabled smartwatch to link to my account?",
+    "I would like to cancel my account immediately.",
+    "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now.",
+    "A withdrawal was processed on my account, but I didn't initiate it and I still have my card in my possession. What should I do?",
+    "I require a one-time use virtual card for online transactions",
+    "I'm really disappointed. My payment was declined, and I'm not sure why.",
+    "Where can I access cash from an ATM?",
+    "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself.",
+    "What's the typical timeframe for processing my transfer?",
+    "my phone is currently at a hotel, can I still access the app?",
+    "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?",
+    "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance.",
+    "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?",
+    "I require a replacement card and I am a resident of the United States.",
+    "We've noticed a transaction on your statement that's causing some confusion. It appears to be a direct debit payment that we can't identify. The date is a few weeks old, and I'm not familiar with the business that made the charge. I'm wondering if you could help us investigate this further and determine if it was a legitimate transaction or not.",
+    "Why isn't my refund appearing in my account statement?",
+    "I made a cash deposit, but my account balance hasn't been updated.",
+    "how do i configure my apple pay",
+    "What steps can I take to reactivate my blocked card?",
+    "You can replenish your account balance using either cash or cheque payment methods.",
+    "I recently made a purchase, but there's a problem. I received one item, but the payment was reversed and the amount was credited back to my account. What's going on?",
+    "I initiated a transfer for my vacation fund, but it's still pending. Can you please let me know when I can expect the funds to be available?",
+    "Please inform me about the available currencies I can use to replenish my account balance.",
+    "The funds I attempted to deposit were reversed.",
+    "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?",
+    "We accept various forms of identification. Which one would you like to provide?"
+  ],
+  "generated_labels": [
+    52,
+    10,
+    20,
+    28,
+    46,
+    72,
+    55,
+    8,
+    6,
+    41,
+    2,
+    55,
+    15,
+    20,
+    37,
+    25,
+    3,
+    22,
+    67,
+    42,
+    2,
+    75,
+    75,
+    24,
+    28,
+    51,
+    6,
+    2,
+    49,
+    58,
+    53,
+    48,
+    54,
+    61,
+    3,
+    69
+  ],
+  "source_texts": [
+    "I bought a product a week ago, but may need to return it.",
+    "Where do I pay with my card?",
+    "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+    "People are using my debit card - help!",
+    "How long does it take to verify a cash withdraw?",
+    "I can't do any business with this virtual card.",
+    "I am not happy with your service and request that my account be terminated!",
+    "Hey i need help urgently. I just realised I sent my payment to the wrong account number, there is a typo! Please cancel it immediately, I can't do it anymore from the app",
+    "I tried updating my balance by cheque yesterday but it doesn't seem to be working. Shouldn't that be faster? Please check my account something has gone wrong there.",
+    "I lost my wallet and all my cards were in it.",
+    "how do i set up my apple pay watch to connect to my account",
+    "I need to close my account as soon as possible.",
+    "i have used my card online before and wasn't charged, why am i charged now",
+    "A WD was just made on my account, but it was not me and I still have my card.  What to do?",
+    "I need a single use card for shopping online",
+    "I was so embarrassed. Why didn't my payment clear?",
+    "Where should I withdraw money from?",
+    "My card must have used my card as there are some transactions that I haven't done myself..",
+    "How long does it take to get my money",
+    "phone is at a hotel, can i still use app",
+    "I seem to be having trouble with my Google Pay Top. Can you please help?",
+    "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+    "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+    "I need a new card and I live in the United States.",
+    "I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain?",
+    "When will my returned transaction show up on my account?",
+    "I put cash in my account, but I don't see it.",
+    "how do i setup my apple pay",
+    "How do I unblock my card?",
+    "What are my payment options for topping off my account?",
+    "Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?",
+    "i put in money for vacation and its not showing. i need that money today, how long will it take",
+    "Please let me know what currency I can use to top up my account?",
+    "For some reason, the money I added was returned.",
+    "I need to withdraw money. Where can I do that?",
+    "What type of ID do you accept?"
+  ],
+  "records": [
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I bought a product a week ago, but may need to return it.",
+      "generated": "I recently purchased a product, but I'm considering returning it."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my card?",
+      "generated": "How can I use my card for payment?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+      "generated": "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "People are using my debit card - help!",
+      "generated": "We've received a payment attempt from your debit card, but it's not being recognized."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How long does it take to verify a cash withdraw?",
+      "generated": "How long does it typically take to process a pending cash withdrawal request?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't do any business with this virtual card.",
+      "generated": "I'm unable to complete any transactions with this virtual card."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I am not happy with your service and request that my account be terminated!",
+      "generated": "I'm extremely dissatisfied with your service and would like to cancel my account."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Hey i need help urgently. I just realised I sent my payment to the wrong account number, there is a typo! Please cancel it immediately, I can't do it anymore from the app",
+      "generated": "I urgently need assistance. I've just discovered that I mistakenly sent a payment to the incorrect account number, and there's a typo involved. Could you please cancel the transfer as soon as possible? I'm unable to do so through the app."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I tried updating my balance by cheque yesterday but it doesn't seem to be working. Shouldn't that be faster? Please check my account something has gone wrong there.",
+      "generated": "I attempted to refresh my account balance after depositing cash yesterday, but it appears to be stuck. Can you investigate why it's taking so long to reflect the update?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I lost my wallet and all my cards were in it.",
+      "generated": "I misplaced my wallet, which contained all my credit cards."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "how do i set up my apple pay watch to connect to my account",
+      "generated": "how do i configure my apple pay-enabled smartwatch to link to my account?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I need to close my account as soon as possible.",
+      "generated": "I would like to cancel my account immediately."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "i have used my card online before and wasn't charged, why am i charged now",
+      "generated": "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "A WD was just made on my account, but it was not me and I still have my card.  What to do?",
+      "generated": "A withdrawal was processed on my account, but I didn't initiate it and I still have my card in my possession. What should I do?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I need a single use card for shopping online",
+      "generated": "I require a one-time use virtual card for online transactions"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I was so embarrassed. Why didn't my payment clear?",
+      "generated": "I'm really disappointed. My payment was declined, and I'm not sure why."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where should I withdraw money from?",
+      "generated": "Where can I access cash from an ATM?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "My card must have used my card as there are some transactions that I haven't done myself..",
+      "generated": "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take to get my money",
+      "generated": "What's the typical timeframe for processing my transfer?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "phone is at a hotel, can i still use app",
+      "generated": "my phone is currently at a hotel, can I still access the app?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I seem to be having trouble with my Google Pay Top. Can you please help?",
+      "generated": "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+      "generated": "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+      "generated": "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I need a new card and I live in the United States.",
+      "generated": "I require a replacement card and I am a resident of the United States."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain?",
+      "generated": "We've noticed a transaction on your statement that's causing some confusion. It appears to be a direct debit payment that we can't identify. The date is a few weeks old, and I'm not familiar with the business that made the charge. I'm wondering if you could help us investigate this further and determine if it was a legitimate transaction or not."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "When will my returned transaction show up on my account?",
+      "generated": "Why isn't my refund appearing in my account statement?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I put cash in my account, but I don't see it.",
+      "generated": "I made a cash deposit, but my account balance hasn't been updated."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "how do i setup my apple pay",
+      "generated": "how do i configure my apple pay"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I unblock my card?",
+      "generated": "What steps can I take to reactivate my blocked card?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What are my payment options for topping off my account?",
+      "generated": "You can replenish your account balance using either cash or cheque payment methods."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?",
+      "generated": "I recently made a purchase, but there's a problem. I received one item, but the payment was reversed and the amount was credited back to my account. What's going on?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "i put in money for vacation and its not showing. i need that money today, how long will it take",
+      "generated": "I initiated a transfer for my vacation fund, but it's still pending. Can you please let me know when I can expect the funds to be available?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Please let me know what currency I can use to top up my account?",
+      "generated": "Please inform me about the available currencies I can use to replenish my account balance."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "For some reason, the money I added was returned.",
+      "generated": "The funds I attempted to deposit were reversed."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need to withdraw money. Where can I do that?",
+      "generated": "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "What type of ID do you accept?",
+      "generated": "We accept various forms of identification. Which one would you like to provide?"
+    }
+  ]
+}

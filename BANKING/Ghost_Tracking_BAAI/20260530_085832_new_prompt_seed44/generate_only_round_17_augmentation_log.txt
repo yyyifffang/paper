@@ -1,0 +1,40 @@
+GEN | [card_payment_not_recognised] | Orig: I do not recognise the card payment. -> Aug: I'm unable to verify the card payment.
+GEN | [top_up_by_card_charge] | Orig: I need to know what charges I will incur for using a European card for top up. -> Aug: I'd like to understand the fees associated with making a payment using a European card for a top-up transaction.
+GEN | [fiat_currency_support] | Orig: Are there limitations to what currency I can hold? -> Aug: What types of fiat currencies are available for holding in my account?
+GEN | [disposable_card_limits] | Orig: Show me the amount of transactions I can do with a disposable card. -> Aug: What are the transaction limits for a disposable card?
+GEN | [card_payment_not_recognised] | Orig: This card payment isn't is recognition. -> Aug: This payment made with the card is not being recognized.
+GEN | [Refund_not_showing_up] | Orig: why cant you just refund me instead of a merchant -> Aug: why can't you simply process a refund for me instead of waiting for the merchant to initiate it?
+GEN | [card_payment_not_recognised] | Orig: I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card. -> Aug: I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card usage.
+GEN | [order_physical_card] | Orig: Where do you export the cards to? -> Aug: How do you receive your physical credit cards?
+GEN | [atm_support] | Orig: Can I use my card to withdraw from my account? -> Aug: Can I make a withdrawal from my account using my card?
+GEN | [top_up_by_card_charge] | Orig: Are there still fees for european top-ups? -> Aug: Are there any charges for making a top-up payment using my card in Europe?
+GEN | [top_up_reverted] | Orig: I thought you offer crypto top up but it doesn't seem to be right ? Money just disappeared from my account, How it would work ? -> Aug: I was under the impression that your service allows for cryptocurrency top-ups, but it appears to be incorrect. My funds seem to have vanished from my account. Can you explain how this supposed feature is supposed to work?
+GEN | [declined_cash_withdrawal] | Orig: I can't get any money from my account. -> Aug: I'm unable to access my account funds.
+GEN | [top_up_limits] | Orig: Do you limit my top-offs? -> Aug: Are you limiting my limit increases?
+GEN | [Refund_not_showing_up] | Orig: i need a refund right away but the funds aren't available in my account -> Aug: I require an immediate refund, but the refund amount is not showing up in my account.
+GEN | [verify_top_up] | Orig: What is the verification process for my card? -> Aug: How do I confirm my card details for a top-up?
+GEN | [verify_top_up] | Orig: Help me verify the card used on a top-up. -> Aug: Can you assist me in confirming the card information used for a recent top-up transaction?
+GEN | [request_refund] | Orig: I bought a product a week ago, but may need to return it. -> Aug: I recently purchased a product, but I'm considering returning it.
+GEN | [visa_or_mastercard] | Orig: If I can't choose my card type will I be able to use it everywhere? -> Aug: If I'm unable to select my preferred payment method, will I still be able to make purchases with my Visa or Mastercard at any merchant?
+GEN | [card_payment_not_recognised] | Orig: i disagree with a charge -> Aug: I'm disputing a transaction
+GEN | [fiat_currency_support] | Orig: Can you tell me how many currencies I can hold? -> Aug: What types of fiat currencies are available for me to hold in my account?
+GEN | [cash_withdrawal_not_recognised] | Orig: i didnt put that money in my account -> Aug: i didn't deposit that amount into my account
+GEN | [top_up_by_card_charge] | Orig: Will you charge me more if I use a European bank card for a top up? -> Aug: Will there be an additional fee if I use a European bank card to make a top-up payment?
+GEN | [card_acceptance] | Orig: Is the card welcomed by everybody? -> Aug: Is the card accepted by all parties involved?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can I Transfer from SWIFT? -> Aug: Can I make a bank transfer to top up my account?
+GEN | [disposable_card_limits] | Orig: What is the number of transactions I get with a disposable card? -> Aug: How many transactions can I make with a disposable card?
+GEN | [transfer_into_account] | Orig: show me how to transfer to my account -> Aug: display the process for transferring funds into my account
+GEN | [card_payment_not_recognised] | Orig: Is it possible someone has access to my card? I noticed that there are a couple of payments in the app I'm sure I did not make. Can you find out what's going on here? -> Aug: I'm concerned that someone might have unauthorized access to my card. I've checked my app and noticed a few transactions that I'm certain I didn't make. Could you investigate this issue and let me know what's happening?
+GEN | [card_acceptance] | Orig: Can I use my card while on vacation overseas? -> Aug: Can I make purchases with my card while traveling abroad?
+GEN | [fiat_currency_support] | Orig: Do you have support for flat currencies? -> Aug: Are you looking for assistance with fiat currencies?
+GEN | [extra_charge_on_statement] | Orig: I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as "pending", it never changes, and now I'm thinking someone's hacked my account! -> Aug: I'm concerned about an unexpected charge that's been appearing on my account statement. It's marked as "pending" in the app, and it's not updating, which has me worried that someone may have unauthorized access to my account.
+GEN | [wrong_amount_of_cash_received] | Orig: ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now! -> Aug: The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance.
+GEN | [card_payment_not_recognised] | Orig: I didn't make a payment at this business. -> Aug: We didn't process a payment at this merchant.
+GEN | [request_refund] | Orig: Is there a way you can have money from a purchase I made refunded to my account. -> Aug: Can you assist me in getting a refund for a recent purchase credited back to my account?
+GEN | [disposable_card_limits] | Orig: Is there a transaction limit on a disposable card? -> Aug: What are the spending limits for a disposable card?
+GEN | [getting_spare_card] | Orig: What's the limit on total number of cards I can have? -> Aug: How many spare cards can I have issued to me?
+GEN | [receiving_money] | Orig: Do you support direct deposits from my employer? -> Aug: Can you accept direct deposits from my employer's payroll department?
+GEN | [cash_withdrawal_charge] | Orig: Please help!  There was an extra fee when I got cash. -> Aug: Please assist me, I was charged an unexpected fee when I withdrew cash.
+GEN | [fiat_currency_support] | Orig: Does my account have the option to hold multiple currencies? -> Aug: Can I hold multiple types of fiat currencies in my account?
+GEN | [passcode_forgotten] | Orig: I can't access my account. -> Aug: I'm having trouble logging in because I've forgotten my passcode.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees. -> Aug: I'm planning a trip abroad and I'd like to withdraw some cash from a local ATM, but I'm concerned that I'll be hit with an unfavorable exchange rate, which might result in an unexpected fee.

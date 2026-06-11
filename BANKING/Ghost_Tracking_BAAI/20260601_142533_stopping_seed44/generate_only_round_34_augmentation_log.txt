@@ -1,0 +1,38 @@
+GEN | [card_delivery_estimate] | Orig: How many days to deliver to a US customer? -> Aug: What is the estimated delivery timeframe for a card to a customer in the United States?
+GEN | [transfer_timing] | Orig: How quickly can I transfer something to China? -> Aug: What is the timing for transferring funds to China?
+GEN | [transfer_fee_charged] | Orig: There is a fee from a transfer that is not supposed to be here! -> Aug: A surprise fee has appeared on a transfer that shouldn't have had one.
+GEN | [transfer_timing] | Orig: How fast are transfers from Europe? -> Aug: What is the typical processing speed for international transfers from Europe?
+GEN | [cash_withdrawal_not_recognised] | Orig: I believe my card has been compromised as there are funds showing that I did not receive. -> Aug: I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize.
+GEN | [topping_up_by_card] | Orig: I don't see me 'top up' in my wallet -> Aug: I'm unable to locate my card top-up transaction in my digital wallet.
+GEN | [receiving_money] | Orig: i want to get my salary deposited as pesos? -> Aug: I'd like to receive my salary in pesos.
+GEN | [wrong_amount_of_cash_received] | Orig: Hey I am standing in front of an ATM here, it only gave me 10 pounds even though I wanted to withdraw 30! Seems like the app has 30 pounds, what do I do?? -> Aug: I'm at the ATM and it's only dispensing 10 pounds, but I requested to withdraw 30. The app shows I have 30 pounds available, what should I do now?
+GEN | [pending_transfer] | Orig: How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately? -> Aug: How long does it typically take for a seller to receive a pending transfer after I initiate the payment immediately?
+GEN | [transfer_fee_charged] | Orig: I got an unexpected charge on my transfers. How can I correct this? -> Aug: I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?
+GEN | [transaction_charged_twice] | Orig: I'm really concerned because I only made one transaction, but it's appearing multiple times. -> Aug: I'm worried because I only processed one transaction, but it's showing up on my statement multiple times.
+GEN | [transfer_not_received_by_recipient] | Orig: I've been waiting since Friday, where is my money? -> Aug: I've been expecting my transfer since Friday, but it still hasn't arrived.
+GEN | [transfer_timing] | Orig: I desperately need to transfer something from China, Please give me the wait time. -> Aug: I urgently require a transfer from China, Could you please provide the estimated wait time?
+GEN | [apple_pay_or_google_pay] | Orig: Can I deposit money using Apple Pay? -> Aug: Can I make a payment using Google Pay instead?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you check if my money has reached my account since it is not showing up yet? -> Aug: Can you investigate why my account balance is not reflecting the recent bank transfer I made, as it's not updating yet?
+GEN | [pending_cash_withdrawal] | Orig: I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it? -> Aug: I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?
+GEN | [transfer_timing] | Orig: How long does it take to get money from Europe? -> Aug: What is the typical timeframe for transferring funds from Europe to my account?
+GEN | [card_payment_fee_charged] | Orig: I was charged and shouldn't have been charged when using my card! -> Aug: I was unexpectedly billed a fee for using my card, which I believe was an error.
+GEN | [topping_up_by_card] | Orig: I don't see my top up in my wallet. -> Aug: I'm unable to locate the recent card top-up in my digital wallet.
+GEN | [card_delivery_estimate] | Orig: i am express delivering my card to the us, how long will that take -> Aug: I am having my card shipped to the US, can you estimate the delivery timeframe?
+GEN | [receiving_money] | Orig: Can my friend send me money if it is not in US dollars? -> Aug: Can my friend transfer funds to me in a currency other than US dollars?
+GEN | [country_support] | Orig: Can I get a card that works in other countries like Africa and Indonesia? -> Aug: Can I obtain a card that is widely accepted in various countries, including those in Africa and Indonesia?
+GEN | [direct_debit_payment_not_recognised] | Orig: I haven't used my card all day but there is a payment showing in the app. Please cancel it! -> Aug: I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?
+GEN | [compromised_card] | Orig: How can I tell if someone else is using my card? -> Aug: How can I determine if my card has been compromised and is being used by someone else?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I able to do a SWIFT transfer? -> Aug: Can I perform a bank transfer to top up my account?
+GEN | [transfer_timing] | Orig: I need to make a transfer from Europe, how many days does this take? -> Aug: What is the typical timeframe for processing international transfers from Europe?
+GEN | [transfer_fee_charged] | Orig: I have used this account overseas recently. Has there been an increase in fees that I am unaware of? -> Aug: I've been making international transactions from this account lately. Are there any new or changed fees I should be aware of?
+GEN | [cash_withdrawal_not_recognised] | Orig: I got a message saying I made a withdrawal from the bank machine, but I did not. -> Aug: I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.
+GEN | [pending_cash_withdrawal] | Orig: How do I get my cash withdrawal to show? -> Aug: Why is my cash withdrawal pending and not showing up?
+GEN | [card_payment_not_recognised] | Orig: i dont recognize a charge on my card -> Aug: I'm unable to identify a transaction on my credit card statement.
+GEN | [card_about_to_expire] | Orig: Can I keep using my card after it expires? -> Aug: Can I continue to use my credit card after its expiration date?
+GEN | [transaction_charged_twice] | Orig: I think I was charged double for something I bought - how long should I wait before reporting this? -> Aug: I believe I've been mistakenly billed twice for a purchase - what's the recommended timeframe for bringing this to your attention?
+GEN | [transaction_charged_twice] | Orig: I have two of the same charges on my account! -> Aug: I've noticed that I've been double-charged for the same transaction.
+GEN | [transaction_charged_twice] | Orig: I only made one transaction at this place, but it's appearing multiple times. -> Aug: I made a single transaction, yet it's been duplicated on my statement.
+GEN | [cash_withdrawal_not_recognised] | Orig: there is money in my account that i didnt put there -> Aug: I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.
+GEN | [cancel_transfer] | Orig: The wrong account was used during a transaction. -> Aug: The incorrect account was mistakenly used for a transfer.
+GEN | [extra_charge_on_statement] | Orig: How long will the $1 charge show as pending? -> Aug: How long will the extra charge appear as pending on my statement?
+GEN | [compromised_card] | Orig: Someone besides me might be using my card. -> Aug: It appears that someone else may be using my credit card.

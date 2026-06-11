@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "Why did you apply an incorrect exchange rate for my international transaction? I was expecting a more competitive rate for the foreign currency.",
+    "When I converted my cash, the exchange rate was incorrect.",
+    "Are there any fees associated with withdrawing cash from my account? I recall making a withdrawal recently and being charged for it.",
+    "I've recently relocated. Can I update my address with your bank?",
+    "Can you assist me in replenishing my account balance using cash?",
+    "I'm planning a trip and attempted to exchange my Russian rubles for UK pounds, but your company's exchange rate was higher than expected. Was there an error with my transaction?",
+    "I'd like to report a missing credit card.",
+    "They informed me that they didn't receive the entire amount I transferred to them, and I'd appreciate it if you could investigate this issue.",
+    "A recipient informed me that they didn't receive the full transfer I initiated, and the amount was short. I'll need to make an additional transfer to cover the shortfall. Could you please investigate this discrepancy and get back to me?",
+    "is there a restriction preventing me from initiating transactions",
+    "Why am I being charged for the cash withdrawal?",
+    "I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?",
+    "how can I proceed with a cash deposit or cheque top-up?",
+    "I'm having trouble sending funds, but I've successfully done so in the past. What's changed?",
+    "Can I convert my funds to euros?",
+    "Why hasn't my account balance been updated after the recent bank transfer?",
+    "Can you guide me on how to exchange currency for Australian dollars instead of British pounds?",
+    "Why is my cash withdrawal pending and not showing up?",
+    "Can I request a replacement card before my current one expires?",
+    "What is the timing for transferring funds to China?",
+    "I attempted to add funds to my card, but the transaction was reversed.",
+    "Why is my card not functioning properly?",
+    "A recipient informed me that they didn't receive the full transfer I initiated, and it was actually short by a small amount. To rectify the situation, I need to make an additional transfer to cover the shortfall. Could you please investigate this matter and provide an update?",
+    "I was shortchanged on my cash withdrawal",
+    "How long does it typically take for a seller to receive a pending transfer after I initiate the payment immediately?",
+    "Can you tell me what data source is used to determine the exchange rate for the transfer I'm planning to make?",
+    "I'm unable to access my funds. Could it be due to an issue with the recent top-up attempt? I'm certain I entered the details correctly.",
+    "I initiated a transfer, but the recipient only received a reduced amount, which means I need to make an additional transfer to cover the shortfall. Can you assist me with this issue?",
+    "why isn't my account balance updated after I made a transfer?",
+    "I'm worried that my card has been stolen.",
+    "I was expecting a larger sum for my cash withdrawal",
+    "I believe I've been mistakenly billed twice for a purchase - what's the recommended timeframe for bringing this to your attention?",
+    "I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?",
+    "I've been actively utilizing my account to manage international payments for my vacation property, and I'm surprised to see exorbitant fees cropping up. Shouldn't my loyalty as a frequent user be recognized?",
+    "Can I have multiple cards linked to my account?"
+  ],
+  "generated_labels": [
+    17,
+    76,
+    19,
+    30,
+    58,
+    17,
+    41,
+    64,
+    64,
+    7,
+    19,
+    19,
+    58,
+    7,
+    36,
+    5,
+    33,
+    46,
+    9,
+    67,
+    61,
+    14,
+    64,
+    75,
+    48,
+    32,
+    59,
+    64,
+    5,
+    41,
+    75,
+    63,
+    64,
+    64,
+    39
+  ],
+  "source_texts": [
+    "Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate",
+    "When I exchanged currencies the value of my money changed.",
+    "Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this.",
+    "I just moved. How do I give you my new address?",
+    "Help me please, I need to top up cash.",
+    "I'm going on a trip soon and I needed to convert my Russian ruble to UK pounds, but when I did, your company charged me above the exchange rate. Did you mess up my transaction?",
+    "Who can I speak with regarding a lost card?",
+    "Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?",
+    "A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?",
+    "is there something blocking me from making transfers",
+    "Why is there a charge when I took out money?",
+    "I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?",
+    "how do i find top up for cash deposit",
+    "Why am I unable to transfer money when I was able to before?",
+    "Can I exchange my money for EUR?",
+    "Where is the transfer that I did?",
+    "Can you  tell me how to get AUD not GBP?",
+    "How do I get my cash withdrawal to show?",
+    "Can I order a new card with the app?",
+    "How quickly can I transfer something to China?",
+    "I went to top up my card and it was cancelled.",
+    "Why can't I use my card?",
+    "A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?",
+    "I did not receive all of my cash back",
+    "How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately?",
+    "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+    "I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly.",
+    "I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done",
+    "how do i see what i transferred",
+    "Help!  I fear that my card was stolen,",
+    "I requested a higher amount for my cash withdrawal",
+    "I think I was charged double for something I bought - how long should I wait before reporting this?",
+    "I got an unexpected charge on my transfers. How can I correct this?",
+    "So I've been using my account frequently to manage payments for my vacation house in a different country, and now I'm getting hit with ridiculously high fees! What's with that? Ought not I be rewarded as a frequent user?",
+    "How many different cards can I have for my account?"
+  ],
+  "records": [
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate",
+      "generated": "Why did you apply an incorrect exchange rate for my international transaction? I was expecting a more competitive rate for the foreign currency."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "When I exchanged currencies the value of my money changed.",
+      "generated": "When I converted my cash, the exchange rate was incorrect."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this.",
+      "generated": "Are there any fees associated with withdrawing cash from my account? I recall making a withdrawal recently and being charged for it."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I just moved. How do I give you my new address?",
+      "generated": "I've recently relocated. Can I update my address with your bank?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Help me please, I need to top up cash.",
+      "generated": "Can you assist me in replenishing my account balance using cash?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I'm going on a trip soon and I needed to convert my Russian ruble to UK pounds, but when I did, your company charged me above the exchange rate. Did you mess up my transaction?",
+      "generated": "I'm planning a trip and attempted to exchange my Russian rubles for UK pounds, but your company's exchange rate was higher than expected. Was there an error with my transaction?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Who can I speak with regarding a lost card?",
+      "generated": "I'd like to report a missing credit card."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?",
+      "generated": "They informed me that they didn't receive the entire amount I transferred to them, and I'd appreciate it if you could investigate this issue."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?",
+      "generated": "A recipient informed me that they didn't receive the full transfer I initiated, and the amount was short. I'll need to make an additional transfer to cover the shortfall. Could you please investigate this discrepancy and get back to me?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "is there something blocking me from making transfers",
+      "generated": "is there a restriction preventing me from initiating transactions"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Why is there a charge when I took out money?",
+      "generated": "Why am I being charged for the cash withdrawal?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?",
+      "generated": "I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how do i find top up for cash deposit",
+      "generated": "how can I proceed with a cash deposit or cheque top-up?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why am I unable to transfer money when I was able to before?",
+      "generated": "I'm having trouble sending funds, but I've successfully done so in the past. What's changed?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can I exchange my money for EUR?",
+      "generated": "Can I convert my funds to euros?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Where is the transfer that I did?",
+      "generated": "Why hasn't my account balance been updated after the recent bank transfer?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can you  tell me how to get AUD not GBP?",
+      "generated": "Can you guide me on how to exchange currency for Australian dollars instead of British pounds?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How do I get my cash withdrawal to show?",
+      "generated": "Why is my cash withdrawal pending and not showing up?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I order a new card with the app?",
+      "generated": "Can I request a replacement card before my current one expires?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How quickly can I transfer something to China?",
+      "generated": "What is the timing for transferring funds to China?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I went to top up my card and it was cancelled.",
+      "generated": "I attempted to add funds to my card, but the transaction was reversed."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why can't I use my card?",
+      "generated": "Why is my card not functioning properly?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?",
+      "generated": "A recipient informed me that they didn't receive the full transfer I initiated, and it was actually short by a small amount. To rectify the situation, I need to make an additional transfer to cover the shortfall. Could you please investigate this matter and provide an update?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I did not receive all of my cash back",
+      "generated": "I was shortchanged on my cash withdrawal"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately?",
+      "generated": "How long does it typically take for a seller to receive a pending transfer after I initiate the payment immediately?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+      "generated": "Can you tell me what data source is used to determine the exchange rate for the transfer I'm planning to make?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly.",
+      "generated": "I'm unable to access my funds. Could it be due to an issue with the recent top-up attempt? I'm certain I entered the details correctly."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done",
+      "generated": "I initiated a transfer, but the recipient only received a reduced amount, which means I need to make an additional transfer to cover the shortfall. Can you assist me with this issue?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "how do i see what i transferred",
+      "generated": "why isn't my account balance updated after I made a transfer?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Help!  I fear that my card was stolen,",
+      "generated": "I'm worried that my card has been stolen."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I requested a higher amount for my cash withdrawal",
+      "generated": "I was expecting a larger sum for my cash withdrawal"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I think I was charged double for something I bought - how long should I wait before reporting this?",
+      "generated": "I believe I've been mistakenly billed twice for a purchase - what's the recommended timeframe for bringing this to your attention?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I got an unexpected charge on my transfers. How can I correct this?",
+      "generated": "I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "So I've been using my account frequently to manage payments for my vacation house in a different country, and now I'm getting hit with ridiculously high fees! What's with that? Ought not I be rewarded as a frequent user?",
+      "generated": "I've been actively utilizing my account to manage international payments for my vacation property, and I'm surprised to see exorbitant fees cropping up. Shouldn't my loyalty as a frequent user be recognized?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many different cards can I have for my account?",
+      "generated": "Can I have multiple cards linked to my account?"
+    }
+  ]
+}

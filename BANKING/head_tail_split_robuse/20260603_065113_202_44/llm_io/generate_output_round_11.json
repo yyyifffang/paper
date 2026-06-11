@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I'm having trouble linking one of my cards to my account.",
+    "Is there a tracking number I can use to monitor the status of my card arrival?",
+    "New customer attempting to top up their account for the first time today, but the transaction is not processing.",
+    "The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me.",
+    "Please inform me about the process of acquiring a virtual card",
+    "If I already have a credit card account with your bank, how do I go about linking it to my profile?",
+    "I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?",
+    "Can you provide details about the limits for making deposits or adding funds to my account?",
+    "I think there's an error with the exchange rate applied to my card transaction. Could you verify the current interbank exchange rate for me, please?",
+    "Can I make a withdrawal from my account using my card?",
+    "I've misplaced my passcode",
+    "I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?",
+    "I tried to make a purchase using my card, but it didn't work when I went to a restaurant for lunch. Can you help me figure out what's going on?",
+    "This payment made with the card is not being recognized.",
+    "I'm unable to make any transactions with my card.",
+    "I've reviewed my statement and noticed a charge for using an ATM. Can you explain why I was charged for this transaction?",
+    "my apple pay is malfunctioning",
+    "I require my virtual credit card",
+    "Why isn't my refund showing up in my account?",
+    "Can you assist me in retrieving the card I already possess so I can access its information?",
+    "I'm having trouble finding the verification code for my recent top-up.",
+    "What are the steps to connect a new payment card to my account?",
+    "which locations do you have in your country?",
+    "I'm concerned about an unexpected charge that's been appearing on my account statement. It's marked as \"pending\" in the app, and it's not updating, which has me worried that someone may have unauthorized access to my account.",
+    "Can I make a currency exchange using this mobile app?",
+    "Can you please clarify how I can confirm the origin of the funds?",
+    "How can I confirm my account's default currency, as I receive payments in British Pounds?",
+    "I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!",
+    "Unidentified direct debit payment",
+    "I've forgotten my passcode and need a new one",
+    "I was expecting to receive some cash, but instead, I was debited without any funds being transferred.",
+    "I have a transfer that's currently pending and I'd like some information about it.",
+    "We're happy to provide information on the countries we support.",
+    "my account balance isn't reflecting the recent transfer",
+    "Can I get some information on the availability of the Euro currency for my transaction?"
+  ],
+  "generated_labels": [
+    13,
+    11,
+    47,
+    72,
+    40,
+    13,
+    40,
+    60,
+    17,
+    3,
+    44,
+    72,
+    14,
+    16,
+    14,
+    19,
+    2,
+    40,
+    51,
+    13,
+    71,
+    13,
+    24,
+    34,
+    33,
+    70,
+    50,
+    20,
+    28,
+    44,
+    75,
+    48,
+    24,
+    5,
+    36
+  ],
+  "source_texts": [
+    "I have one of your cards, but I don't know how to link it.",
+    "Was there a number to track that I could get?",
+    "new customer and filling gas for the first time today, not working,",
+    "What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?",
+    "Please let me know how to place an order for a virtual card",
+    "If I have a credit card with you how I get set up to link to it?",
+    "I need to make a purchase online, where is my virtual card?",
+    "It seems I need to get information on limits for top-ups.",
+    "Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?",
+    "Can I use my card to withdraw from my account?",
+    "I can't find my code",
+    "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?",
+    "I wasn't able to use my card today when I went out for lunch. Wondering why that is?",
+    "This card payment isn't is recognition.",
+    "I can't use my card for anything",
+    "I just had a look at my statement. Why have I been changed for using the ATM?",
+    "my google pay seems to be acting up.",
+    "I need my virtual card",
+    "Why hasn't my return cleared my account?",
+    "Help me access the card I already got so I can information from it.",
+    "I don't see the verification code for my card transfer.",
+    "How do I link a new payment card?",
+    "where do you have locations at",
+    "I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as \"pending\", it never changes, and now I'm thinking someone's hacked my account!",
+    "Can I use this app to change money?",
+    "how do i track the moeney",
+    "How do I know what my account is set to, I am paid in GBP?",
+    "Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP!",
+    "Unusual direct deposit",
+    "I need a new login code",
+    "i did not get any money but still was charged",
+    "I have a trasnger that is pending and wondered about it.",
+    "As far as courtries go which ones are supported?",
+    "help my money isnt showing up",
+    "Do you have EUR currency available for me?"
+  ],
+  "records": [
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I have one of your cards, but I don't know how to link it.",
+      "generated": "I'm having trouble linking one of my cards to my account."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Was there a number to track that I could get?",
+      "generated": "Is there a tracking number I can use to monitor the status of my card arrival?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "new customer and filling gas for the first time today, not working,",
+      "generated": "New customer attempting to top up their account for the first time today, but the transaction is not processing."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?",
+      "generated": "The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "Please let me know how to place an order for a virtual card",
+      "generated": "Please inform me about the process of acquiring a virtual card"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "If I have a credit card with you how I get set up to link to it?",
+      "generated": "If I already have a credit card account with your bank, how do I go about linking it to my profile?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I need to make a purchase online, where is my virtual card?",
+      "generated": "I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "It seems I need to get information on limits for top-ups.",
+      "generated": "Can you provide details about the limits for making deposits or adding funds to my account?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?",
+      "generated": "I think there's an error with the exchange rate applied to my card transaction. Could you verify the current interbank exchange rate for me, please?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I use my card to withdraw from my account?",
+      "generated": "Can I make a withdrawal from my account using my card?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't find my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?",
+      "generated": "I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I wasn't able to use my card today when I went out for lunch. Wondering why that is?",
+      "generated": "I tried to make a purchase using my card, but it didn't work when I went to a restaurant for lunch. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "This card payment isn't is recognition.",
+      "generated": "This payment made with the card is not being recognized."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't use my card for anything",
+      "generated": "I'm unable to make any transactions with my card."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I just had a look at my statement. Why have I been changed for using the ATM?",
+      "generated": "I've reviewed my statement and noticed a charge for using an ATM. Can you explain why I was charged for this transaction?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "my google pay seems to be acting up.",
+      "generated": "my apple pay is malfunctioning"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I need my virtual card",
+      "generated": "I require my virtual credit card"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Why hasn't my return cleared my account?",
+      "generated": "Why isn't my refund showing up in my account?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Help me access the card I already got so I can information from it.",
+      "generated": "Can you assist me in retrieving the card I already possess so I can access its information?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I don't see the verification code for my card transfer.",
+      "generated": "I'm having trouble finding the verification code for my recent top-up."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "How do I link a new payment card?",
+      "generated": "What are the steps to connect a new payment card to my account?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "where do you have locations at",
+      "generated": "which locations do you have in your country?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as \"pending\", it never changes, and now I'm thinking someone's hacked my account!",
+      "generated": "I'm concerned about an unexpected charge that's been appearing on my account statement. It's marked as \"pending\" in the app, and it's not updating, which has me worried that someone may have unauthorized access to my account."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app to change money?",
+      "generated": "Can I make a currency exchange using this mobile app?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "how do i track the moeney",
+      "generated": "Can you please clarify how I can confirm the origin of the funds?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How do I know what my account is set to, I am paid in GBP?",
+      "generated": "How can I confirm my account's default currency, as I receive payments in British Pounds?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP!",
+      "generated": "I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Unusual direct deposit",
+      "generated": "Unidentified direct debit payment"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I need a new login code",
+      "generated": "I've forgotten my passcode and need a new one"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "i did not get any money but still was charged",
+      "generated": "I was expecting to receive some cash, but instead, I was debited without any funds being transferred."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have a trasnger that is pending and wondered about it.",
+      "generated": "I have a transfer that's currently pending and I'd like some information about it."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "As far as courtries go which ones are supported?",
+      "generated": "We're happy to provide information on the countries we support."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "help my money isnt showing up",
+      "generated": "my account balance isn't reflecting the recent transfer"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you have EUR currency available for me?",
+      "generated": "Can I get some information on the availability of the Euro currency for my transaction?"
+    }
+  ]
+}

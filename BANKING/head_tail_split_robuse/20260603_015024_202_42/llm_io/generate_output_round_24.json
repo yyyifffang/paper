@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Can you please confirm the source of the funds used for the recent top-up?",
+    "Why is my designated recipient not functioning properly?",
+    "I didn't receive the correct amount of cash.",
+    "Google Pay is not recognizing my American Express card, can you help me resolve this issue?",
+    "You're unable to designate X as a beneficiary.",
+    "Is my card still active? It's not functioning properly.",
+    "Why was I charged an additional fee when I used my card to make the payment?",
+    "Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time.",
+    "Can I initiate a currency exchange through the app?",
+    "You can replenish your account balance using either cash or cheque payment methods.",
+    "The ATM wasn't functioning properly when I tried to withdraw cash, and now my account shows a pending transaction. Can you help me understand why it's still processing?",
+    "Why was I charged an extra fee when I used my card to make a payment?",
+    "How can I activate my new card so I can start using it?",
+    "My card payments have ceased.",
+    "Why am I being charged an additional fee for making a payment with my card?",
+    "I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?",
+    "My top-up request is still pending.",
+    "A transfer is currently in the process of being processed",
+    "We're sorry to hear that you're experiencing issues using American Express to fund your account.",
+    "I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me.",
+    "Please inform me about the available currencies I can use to replenish my account balance.",
+    "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?",
+    "How can I use my credit card to make a payment or add funds to my account?",
+    "When can I expect my funds to be deposited into my account?",
+    "I require a one-time use virtual card for online transactions",
+    "I'd like to be informed when an extra charge is applied to my payment. I recently checked the app and noticed an additional fee associated with one of the transactions. I was not notified about this beforehand.",
+    "Why does it take a while for my account balance to update after an international bank transfer is made?",
+    "Can I continue to use my credit card after its expiration date?",
+    "how do i configure my apple pay-enabled smartwatch to link to my account?",
+    "looking to replace my expiring card, what are the associated fees?",
+    "I'm really disappointed. My payment was declined, and I'm not sure why.",
+    "Are there any fees associated with using a credit or debit card for payment?",
+    "Can I switch the currency I'm using through your app?",
+    "We're having trouble confirming your identity, and we need a bit more time to complete the verification process.",
+    "Is my virtual card suitable for regular, automatic monthly transactions?",
+    "what is the source of the funds being transferred"
+  ],
+  "generated_labels": [
+    70,
+    7,
+    75,
+    2,
+    7,
+    14,
+    15,
+    48,
+    33,
+    58,
+    46,
+    15,
+    0,
+    53,
+    15,
+    16,
+    47,
+    48,
+    54,
+    13,
+    54,
+    2,
+    62,
+    67,
+    37,
+    15,
+    5,
+    9,
+    2,
+    9,
+    25,
+    15,
+    33,
+    68,
+    72,
+    70
+  ],
+  "source_texts": [
+    "Where is my top-up generated from?",
+    "Why is my beneficiary not working?",
+    "I couldn't get the money I needed.",
+    "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+    "I got a message that I cannot name X as a beneficiary.",
+    "Did you deactivate my card it's not working anymore",
+    "Why did I have to pay extra because I paid with my card?",
+    "As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far.",
+    "Can i add a new currency to my account?",
+    "What are my payment options for topping off my account?",
+    "The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why?",
+    "Why did I have to pay an additional amount when using my card to pay?",
+    "What do I need to do in order to use my card I just got?",
+    "My card payments have stopped.",
+    "Why do I have to pay extra for using my card?",
+    "I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?",
+    "My top is still pending.",
+    "I have a pending transaction",
+    "Why doesn't it work when I use American Express to try to add money to my account?",
+    "I found my card that I thought I had lost, I need to reactive it, please help.",
+    "Please let me know what currency I can use to top up my account?",
+    "I seem to be having trouble with my Google Pay Top. Can you please help?",
+    "Hoe do i use my credit card to transfer money?",
+    "When will my money be in my account?",
+    "I need a single use card for shopping online",
+    "I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before.",
+    "Is there a longer processing time for international bank transfers?",
+    "Can I keep using my card after it expires?",
+    "how do i set up my apple pay watch to connect to my account",
+    "want a new card what are the fees",
+    "I was so embarrassed. Why didn't my payment clear?",
+    "Do you have charges now when you pay with a card?",
+    "Do you support changing the currency I use?",
+    "How long will it take to verify my account?",
+    "Can I use my virtual card for recurring monthly payments?",
+    "where are the transfers originating"
+  ],
+  "records": [
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Where is my top-up generated from?",
+      "generated": "Can you please confirm the source of the funds used for the recent top-up?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is my beneficiary not working?",
+      "generated": "Why is my designated recipient not functioning properly?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I couldn't get the money I needed.",
+      "generated": "I didn't receive the correct amount of cash."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+      "generated": "Google Pay is not recognizing my American Express card, can you help me resolve this issue?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I got a message that I cannot name X as a beneficiary.",
+      "generated": "You're unable to designate X as a beneficiary."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Did you deactivate my card it's not working anymore",
+      "generated": "Is my card still active? It's not functioning properly."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why did I have to pay extra because I paid with my card?",
+      "generated": "Why was I charged an additional fee when I used my card to make the payment?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far.",
+      "generated": "Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can i add a new currency to my account?",
+      "generated": "Can I initiate a currency exchange through the app?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What are my payment options for topping off my account?",
+      "generated": "You can replenish your account balance using either cash or cheque payment methods."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why?",
+      "generated": "The ATM wasn't functioning properly when I tried to withdraw cash, and now my account shows a pending transaction. Can you help me understand why it's still processing?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why did I have to pay an additional amount when using my card to pay?",
+      "generated": "Why was I charged an extra fee when I used my card to make a payment?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "What do I need to do in order to use my card I just got?",
+      "generated": "How can I activate my new card so I can start using it?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My card payments have stopped.",
+      "generated": "My card payments have ceased."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why do I have to pay extra for using my card?",
+      "generated": "Why am I being charged an additional fee for making a payment with my card?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?",
+      "generated": "I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "My top is still pending.",
+      "generated": "My top-up request is still pending."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have a pending transaction",
+      "generated": "A transfer is currently in the process of being processed"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Why doesn't it work when I use American Express to try to add money to my account?",
+      "generated": "We're sorry to hear that you're experiencing issues using American Express to fund your account."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I found my card that I thought I had lost, I need to reactive it, please help.",
+      "generated": "I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Please let me know what currency I can use to top up my account?",
+      "generated": "Please inform me about the available currencies I can use to replenish my account balance."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I seem to be having trouble with my Google Pay Top. Can you please help?",
+      "generated": "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Hoe do i use my credit card to transfer money?",
+      "generated": "How can I use my credit card to make a payment or add funds to my account?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will my money be in my account?",
+      "generated": "When can I expect my funds to be deposited into my account?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I need a single use card for shopping online",
+      "generated": "I require a one-time use virtual card for online transactions"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before.",
+      "generated": "I'd like to be informed when an extra charge is applied to my payment. I recently checked the app and noticed an additional fee associated with one of the transactions. I was not notified about this beforehand."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Is there a longer processing time for international bank transfers?",
+      "generated": "Why does it take a while for my account balance to update after an international bank transfer is made?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I keep using my card after it expires?",
+      "generated": "Can I continue to use my credit card after its expiration date?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "how do i set up my apple pay watch to connect to my account",
+      "generated": "how do i configure my apple pay-enabled smartwatch to link to my account?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "want a new card what are the fees",
+      "generated": "looking to replace my expiring card, what are the associated fees?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I was so embarrassed. Why didn't my payment clear?",
+      "generated": "I'm really disappointed. My payment was declined, and I'm not sure why."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Do you have charges now when you pay with a card?",
+      "generated": "Are there any fees associated with using a credit or debit card for payment?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Do you support changing the currency I use?",
+      "generated": "Can I switch the currency I'm using through your app?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "How long will it take to verify my account?",
+      "generated": "We're having trouble confirming your identity, and we need a bit more time to complete the verification process."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Can I use my virtual card for recurring monthly payments?",
+      "generated": "Is my virtual card suitable for regular, automatic monthly transactions?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "where are the transfers originating",
+      "generated": "what is the source of the funds being transferred"
+    }
+  ]
+}

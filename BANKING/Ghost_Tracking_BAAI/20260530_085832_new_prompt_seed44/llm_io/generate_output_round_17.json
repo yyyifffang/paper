@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Can you make a cash deposit or pay by cheque?",
+    "halt the transfer",
+    "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app.",
+    "Can I cancel a transfer?",
+    "Can I make purchases with my card while traveling abroad?",
+    "I require an immediate refund, but the refund amount is not showing up in my account.",
+    "Can I receive the physical card separately?",
+    "I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process?",
+    "Why can't I use my American Express card to top up my account?",
+    "Should I request a replacement card before securing my compromised card?",
+    "Can you assist me in retrieving the card I already possess so I can access its information?",
+    "Is the card accepted by all parties involved?",
+    "I'm unable to access my account funds.",
+    "Why was my cash withdrawal request denied?",
+    "If I'm unable to select my preferred payment method, will I still be able to make purchases with my Visa or Mastercard at any merchant?",
+    "What steps can I take to review the security settings on my card?",
+    "why can't you simply process a refund for me instead of waiting for the merchant to initiate it?",
+    "Are there any fees associated with transferring funds to my account?",
+    "I'd like to correct a mistake I made with a recent transaction. Could you please reverse the transfer? I need it resolved by tomorrow.",
+    "Is there a fee for topping up my account via bank transfer?",
+    "Are there any fees associated with receiving a bank transfer to top up my account?",
+    "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?",
+    "Please assist me, I was charged an unexpected fee when I withdrew cash.",
+    "What's the reason behind verifying identities at our bank?",
+    "I'm not currently in possession of my physical card.",
+    "We're having trouble verifying your identity, could you please assist us in resolving this issue?",
+    "I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?",
+    "My client was exchanging their Russian rubles for UK pounds, but the amount they were charged was significantly higher than expected due to an incorrect exchange rate.",
+    "How do I confirm my card details for a top-up?",
+    "Are there any locations that don't accept my card?",
+    "I'm unable to locate the refunds in my account statement.",
+    "Can you assist me in getting a refund for a recent purchase credited back to my account?",
+    "What should I do since my card is not functioning properly?",
+    "To initiate a currency exchange, what are the steps I need to take using the app?",
+    "Why did the payment I made online get reversed and credited back to my account?",
+    "Can you assist me in closing my active account?"
+  ],
+  "generated_labels": [
+    58,
+    8,
+    33,
+    8,
+    10,
+    51,
+    38,
+    33,
+    54,
+    22,
+    13,
+    10,
+    26,
+    26,
+    73,
+    14,
+    51,
+    56,
+    8,
+    56,
+    56,
+    2,
+    19,
+    74,
+    38,
+    68,
+    38,
+    17,
+    71,
+    10,
+    51,
+    52,
+    14,
+    33,
+    53,
+    55
+  ],
+  "source_texts": [
+    "Do you accept cash?",
+    "stop the transaction",
+    "I am from X but am traveling to Y - how do I get currency for Y?",
+    "Can I stop a transaction?",
+    "Can I use my card while on vacation overseas?",
+    "i need a refund right away but the funds aren't available in my account",
+    "Is the PIN sent in another message?",
+    "I'm having difficulties changing AUD for GBP. How do I do this?",
+    "why wont my american express work to add money",
+    "Should I order a new card before I freeze my original one?",
+    "Help me access the card I already got so I can information from it.",
+    "Is the card welcomed by everybody?",
+    "I can't get any money from my account.",
+    "Why can't I take money from my account?",
+    "If I can't choose my card type will I be able to use it everywhere?",
+    "How do I check security settings on my card?",
+    "why cant you just refund me instead of a merchant",
+    "Is there a charge for getting my money?",
+    "Hi , I just came to know I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow.",
+    "Does it cost me to add cash?",
+    "Is there a cost to receive money?",
+    "I seem to be having trouble with my Google Pay Top. Can you please help?",
+    "Please help!  There was an extra fee when I got cash.",
+    "Is the identity check part of bank policy?",
+    "I don't have a PIN at this point.",
+    "My identity isn't being accepted, what should I do?",
+    "I signed up, but don't have a PIN. Where can I find it?",
+    "My client was converting their Russian ruble into UK pound currency when they noticed their bill was much too high for the exchange. What happened?",
+    "What is the verification process for my card?",
+    "Are there any places that won't take my card?",
+    "I can't see all the refunds in my statement",
+    "Is there a way you can have money from a purchase I made refunded to my account.",
+    "What do I do now that I can't use this card?",
+    "What do I need to do to exchange my money?",
+    "I tried to buy something online but my funds were transferred back to my account. What is happening?",
+    "Can you please disable my current account."
+  ],
+  "records": [
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Do you accept cash?",
+      "generated": "Can you make a cash deposit or pay by cheque?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "stop the transaction",
+      "generated": "halt the transfer"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I am from X but am traveling to Y - how do I get currency for Y?",
+      "generated": "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Can I stop a transaction?",
+      "generated": "Can I cancel a transfer?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I use my card while on vacation overseas?",
+      "generated": "Can I make purchases with my card while traveling abroad?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "i need a refund right away but the funds aren't available in my account",
+      "generated": "I require an immediate refund, but the refund amount is not showing up in my account."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Is the PIN sent in another message?",
+      "generated": "Can I receive the physical card separately?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I'm having difficulties changing AUD for GBP. How do I do this?",
+      "generated": "I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why wont my american express work to add money",
+      "generated": "Why can't I use my American Express card to top up my account?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "Should I order a new card before I freeze my original one?",
+      "generated": "Should I request a replacement card before securing my compromised card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Help me access the card I already got so I can information from it.",
+      "generated": "Can you assist me in retrieving the card I already possess so I can access its information?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is the card welcomed by everybody?",
+      "generated": "Is the card accepted by all parties involved?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I can't get any money from my account.",
+      "generated": "I'm unable to access my account funds."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I take money from my account?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "If I can't choose my card type will I be able to use it everywhere?",
+      "generated": "If I'm unable to select my preferred payment method, will I still be able to make purchases with my Visa or Mastercard at any merchant?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I check security settings on my card?",
+      "generated": "What steps can I take to review the security settings on my card?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "why cant you just refund me instead of a merchant",
+      "generated": "why can't you simply process a refund for me instead of waiting for the merchant to initiate it?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a charge for getting my money?",
+      "generated": "Are there any fees associated with transferring funds to my account?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Hi , I just came to know I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow.",
+      "generated": "I'd like to correct a mistake I made with a recent transaction. Could you please reverse the transfer? I need it resolved by tomorrow."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Does it cost me to add cash?",
+      "generated": "Is there a fee for topping up my account via bank transfer?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a cost to receive money?",
+      "generated": "Are there any fees associated with receiving a bank transfer to top up my account?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I seem to be having trouble with my Google Pay Top. Can you please help?",
+      "generated": "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Please help!  There was an extra fee when I got cash.",
+      "generated": "Please assist me, I was charged an unexpected fee when I withdrew cash."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Is the identity check part of bank policy?",
+      "generated": "What's the reason behind verifying identities at our bank?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I don't have a PIN at this point.",
+      "generated": "I'm not currently in possession of my physical card."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "My identity isn't being accepted, what should I do?",
+      "generated": "We're having trouble verifying your identity, could you please assist us in resolving this issue?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I signed up, but don't have a PIN. Where can I find it?",
+      "generated": "I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "My client was converting their Russian ruble into UK pound currency when they noticed their bill was much too high for the exchange. What happened?",
+      "generated": "My client was exchanging their Russian rubles for UK pounds, but the amount they were charged was significantly higher than expected due to an incorrect exchange rate."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What is the verification process for my card?",
+      "generated": "How do I confirm my card details for a top-up?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Are there any places that won't take my card?",
+      "generated": "Are there any locations that don't accept my card?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I can't see all the refunds in my statement",
+      "generated": "I'm unable to locate the refunds in my account statement."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Is there a way you can have money from a purchase I made refunded to my account.",
+      "generated": "Can you assist me in getting a refund for a recent purchase credited back to my account?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What do I do now that I can't use this card?",
+      "generated": "What should I do since my card is not functioning properly?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "What do I need to do to exchange my money?",
+      "generated": "To initiate a currency exchange, what are the steps I need to take using the app?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to buy something online but my funds were transferred back to my account. What is happening?",
+      "generated": "Why did the payment I made online get reversed and credited back to my account?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "Can you please disable my current account.",
+      "generated": "Can you assist me in closing my active account?"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I'm having trouble completing a crypto purchase through the app. Can you help me figure out what's preventing it from processing?",
+    "I'm unable to make a successful top-up.",
+    "Can you provide an estimated delivery date for the card?",
+    "I'm having trouble converting this to cryptocurrency, but the app is not allowing me to proceed. Can you assist me with this issue?",
+    "We want to ensure the origin of your funds is legitimate and secure.",
+    "what happened to the funds after I entered incorrect details and the transaction was declined using my card?",
+    "Is my credit card not functioning properly?",
+    "Hi, I urgently need your assistance. I've misplaced my wallet and noticed an unauthorized cash withdrawal. I'm worried about losing more money if this issue isn't resolved promptly.",
+    "This card is currently not functioning properly.",
+    "Confirming the top-up process appears to be a bit of a chore.",
+    "I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges.",
+    "The app has cancelled the recent top-up I made. What should I do now?",
+    "I've forgotten the passcode for the mobile banking app.",
+    "I'm curious, what's the purpose behind requesting all this personal information?",
+    "The refund for my card is missing from my latest statement.",
+    "The rate you're using for currency conversion is quite inaccurate. It's making me think about canceling my account.",
+    "I'm unable to make any transactions with my card.",
+    "I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account.",
+    "Has there been any recent use or transactions on my card?",
+    "I'm experiencing an issue with a cash withdrawal that's not being recognized. I'm concerned about unauthorized activity on my account from a location I've never visited. Could you please place a temporary hold on my account until I can visit the bank in person?",
+    "What can I do about the transfer that was declined?",
+    "Why can't I select the credit card I prefer, whether it's Visa or Mastercard?",
+    "I'd like to reactivate my card, as I initially thought it was misplaced, but I just found it in my coat when I woke up.",
+    "Can you provide an estimate for the delivery of my card within a 2-day timeframe?",
+    "What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?",
+    "Can I request a replacement card for my daughter's account?",
+    "what is the exchange rate for a cash withdrawal on a weekend?",
+    "Can I request a replacement card for my account, so my daughter can use it?",
+    "I'd like to add funds to my card.",
+    "Is my credit card accepted for online transactions?",
+    "I'm reviewing my account activity and noticed an unexpected direct debit payment. I'm certain I didn't initiate the transaction, so I'd appreciate it if you could investigate and reverse the charge, restoring the funds to my account.",
+    "I've been trying to use my card for a week, but it's still not functioning properly.",
+    "Do I need to fund my account before placing an order for a physical card?",
+    "Can you clarify the multiple transaction dates listed on my account statement?",
+    "Are there additional fees for exchanging funds?",
+    "I mistakenly selected the wrong account.",
+    "I was attempting to deduct a sum from my account and now my card is inaccessible."
+  ],
+  "generated_labels": [
+    7,
+    59,
+    12,
+    7,
+    70,
+    62,
+    14,
+    20,
+    14,
+    71,
+    16,
+    61,
+    44,
+    74,
+    51,
+    17,
+    14,
+    8,
+    41,
+    20,
+    27,
+    73,
+    13,
+    12,
+    19,
+    39,
+    76,
+    39,
+    62,
+    10,
+    28,
+    14,
+    43,
+    63,
+    31,
+    8,
+    18
+  ],
+  "source_texts": [
+    "I'm trying to purchase crypto via the app. I haven't been able to get it to go through. Am I doing something wrong?",
+    "I can't add any more money.",
+    "Can I have it by a certain date?",
+    "I have been trying to exchange this for crypto but the app won't work could you please help me?",
+    "What kind of security protects my money?",
+    "what happened to the money after i put in the wrong info and it got declined",
+    "Is my card frozen?",
+    "Hello, Please look into this matter urgently. As i have lost my wallet and i can see one withdrawal, now i do not want to loose more money.",
+    "I have not been able to use this card.",
+    "Verifying the top-up seems like a hassle.",
+    "I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?",
+    "The app reversed a top off I had.  What should I do?",
+    "I don't know the code for the app.",
+    "I don't understand why you want so much of my personal info.",
+    "Card refund is not showing up in my statement.",
+    "The exchange rate used on your app is really bad. I'm considering closing my account because of it.",
+    "I can't use my card for anything",
+    "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+    "Has there been any activity on my card today?",
+    "I hope you can help me. My account has been compromised from a different town that I haven't been to. Can you please place a hold on my account until I can make it to the bank?",
+    "What do I do with my \"decline\" message on a transfer?",
+    "Why can I not choose the card i want?",
+    "I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.",
+    "how much to get my card in 2 days?",
+    "How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month.",
+    "My daughter need a card from this account. Is that possible?",
+    "what are weekend rates for getting cash",
+    "My daughter would like a card from my account?  Can I do this?",
+    "I need my card topped up,",
+    "Can I use my card for online payments?",
+    "I was checking the app for my account and I noticed there is an authorized charge on it.  I haven't used my card today, so I know I didn't do it.  I would like the transaction reversed and the money replaced.",
+    "For a week now, I have tried to use my card and it is still not working.",
+    "do i need to add money before i order a card",
+    "Can you explain the various transaction times shown on my statement?",
+    "Do I have to pay more for exchanges?",
+    "I used the wrong account.",
+    "I was removing a dollar amount from my account and now don't have access to my card."
+  ],
+  "records": [
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I'm trying to purchase crypto via the app. I haven't been able to get it to go through. Am I doing something wrong?",
+      "generated": "I'm having trouble completing a crypto purchase through the app. Can you help me figure out what's preventing it from processing?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I can't add any more money.",
+      "generated": "I'm unable to make a successful top-up."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I have it by a certain date?",
+      "generated": "Can you provide an estimated delivery date for the card?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I have been trying to exchange this for crypto but the app won't work could you please help me?",
+      "generated": "I'm having trouble converting this to cryptocurrency, but the app is not allowing me to proceed. Can you assist me with this issue?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What kind of security protects my money?",
+      "generated": "We want to ensure the origin of your funds is legitimate and secure."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "what happened to the money after i put in the wrong info and it got declined",
+      "generated": "what happened to the funds after I entered incorrect details and the transaction was declined using my card?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Is my card frozen?",
+      "generated": "Is my credit card not functioning properly?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Hello, Please look into this matter urgently. As i have lost my wallet and i can see one withdrawal, now i do not want to loose more money.",
+      "generated": "Hi, I urgently need your assistance. I've misplaced my wallet and noticed an unauthorized cash withdrawal. I'm worried about losing more money if this issue isn't resolved promptly."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I have not been able to use this card.",
+      "generated": "This card is currently not functioning properly."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Verifying the top-up seems like a hassle.",
+      "generated": "Confirming the top-up process appears to be a bit of a chore."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?",
+      "generated": "I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "The app reversed a top off I had.  What should I do?",
+      "generated": "The app has cancelled the recent top-up I made. What should I do now?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I don't know the code for the app.",
+      "generated": "I've forgotten the passcode for the mobile banking app."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I don't understand why you want so much of my personal info.",
+      "generated": "I'm curious, what's the purpose behind requesting all this personal information?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Card refund is not showing up in my statement.",
+      "generated": "The refund for my card is missing from my latest statement."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate used on your app is really bad. I'm considering closing my account because of it.",
+      "generated": "The rate you're using for currency conversion is quite inaccurate. It's making me think about canceling my account."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't use my card for anything",
+      "generated": "I'm unable to make any transactions with my card."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+      "generated": "I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Has there been any activity on my card today?",
+      "generated": "Has there been any recent use or transactions on my card?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I hope you can help me. My account has been compromised from a different town that I haven't been to. Can you please place a hold on my account until I can make it to the bank?",
+      "generated": "I'm experiencing an issue with a cash withdrawal that's not being recognized. I'm concerned about unauthorized activity on my account from a location I've never visited. Could you please place a temporary hold on my account until I can visit the bank in person?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What do I do with my \"decline\" message on a transfer?",
+      "generated": "What can I do about the transfer that was declined?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Why can I not choose the card i want?",
+      "generated": "Why can't I select the credit card I prefer, whether it's Visa or Mastercard?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.",
+      "generated": "I'd like to reactivate my card, as I initially thought it was misplaced, but I just found it in my coat when I woke up."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "how much to get my card in 2 days?",
+      "generated": "Can you provide an estimate for the delivery of my card within a 2-day timeframe?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month.",
+      "generated": "What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "My daughter need a card from this account. Is that possible?",
+      "generated": "Can I request a replacement card for my daughter's account?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "what are weekend rates for getting cash",
+      "generated": "what is the exchange rate for a cash withdrawal on a weekend?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "My daughter would like a card from my account?  Can I do this?",
+      "generated": "Can I request a replacement card for my account, so my daughter can use it?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I need my card topped up,",
+      "generated": "I'd like to add funds to my card."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I use my card for online payments?",
+      "generated": "Is my credit card accepted for online transactions?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I was checking the app for my account and I noticed there is an authorized charge on it.  I haven't used my card today, so I know I didn't do it.  I would like the transaction reversed and the money replaced.",
+      "generated": "I'm reviewing my account activity and noticed an unexpected direct debit payment. I'm certain I didn't initiate the transaction, so I'd appreciate it if you could investigate and reverse the charge, restoring the funds to my account."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "For a week now, I have tried to use my card and it is still not working.",
+      "generated": "I've been trying to use my card for a week, but it's still not functioning properly."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "do i need to add money before i order a card",
+      "generated": "Do I need to fund my account before placing an order for a physical card?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Can you explain the various transaction times shown on my statement?",
+      "generated": "Can you clarify the multiple transaction dates listed on my account statement?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do I have to pay more for exchanges?",
+      "generated": "Are there additional fees for exchanging funds?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I used the wrong account.",
+      "generated": "I mistakenly selected the wrong account."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I was removing a dollar amount from my account and now don't have access to my card.",
+      "generated": "I was attempting to deduct a sum from my account and now my card is inaccessible."
+    }
+  ]
+}

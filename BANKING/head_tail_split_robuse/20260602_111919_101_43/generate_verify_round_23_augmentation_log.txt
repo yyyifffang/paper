@@ -1,0 +1,71 @@
+GEN | [visa_or_mastercard] | Orig: If I can't choose my card type will I be able to use it everywhere? -> Aug: If I'm unable to select my preferred payment method, will I still be able to make purchases with my Visa or Mastercard at any merchant?
+GEN | [verify_my_identity] | Orig: Let me know what the steps for the identity checks are -> Aug: Can you walk me through the process of verifying my identity?
+GEN | [atm_support] | Orig: What locations can I get money from? -> Aug: Where can I withdraw cash from an ATM or a bank branch?
+GEN | [get_disposable_virtual_card] | Orig: I need a single use card for shopping online -> Aug: I require a one-time use virtual card for online transactions
+GEN | [card_payment_wrong_exchange_rate] | Orig: It seems that the rate I got is incorrect. -> Aug: The exchange rate applied to my card payment appears to be inaccurate.
+GEN | [automatic_top_up] | Orig: Can I add money to my card automatically during a trip? -> Aug: Can I set up automatic top-ups for my card while I'm traveling?
+GEN | [supported_cards_and_currencies] | Orig: Will you accept my credit card, it my only one. -> Aug: Can you accept my credit card, as it's the only one I have?
+GEN | [cancel_transfer] | Orig: I am trying to revert a transcation I did this morning -> Aug: I'm attempting to reverse a transfer I initiated earlier today
+GEN | [automatic_top_up] | Orig: What is the limit on Auto top? -> Aug: What is the maximum amount allowed for automatic top-ups?
+GEN | [verify_my_identity] | Orig: How recent do my documents need to be for verification? -> Aug: What is the age requirement for the documents I need to provide for verification purposes?
+GEN | [automatic_top_up] | Orig: I want to add money automatically when I travel. -> Aug: I'd like to set up an automatic transfer to top up my account whenever I'm abroad.
+GEN | [exchange_rate] | Orig: If I need to cash foreign transfers, how does that work? -> Aug: What's the process for exchanging foreign currencies for cash transfers?
+GEN | [card_payment_wrong_exchange_rate] | Orig: I was charged the wing amount for an item. -> Aug: I was overcharged for the item, and the amount doesn't match the expected exchange rate.
+GEN | [why_verify_identity] | Orig: Do you need my birthdate? -> Aug: Can you confirm your date of birth with me?
+GEN | [automatic_top_up] | Orig: I have a trip coming up and want to add money automatically. -> Aug: I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds.
+GEN | [verify_top_up] | Orig: What can I do to verify my card? -> Aug: How can I confirm the details of my card?
+GEN | [supported_cards_and_currencies] | Orig: I wish to use my American Express to put funds into my account. -> Aug: I'd like to deposit funds into my account using my American Express card.
+GEN | [edit_personal_details] | Orig: How do I input a new address? -> Aug: How can I update my address information?
+GEN | [compromised_card] | Orig: I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more? -> Aug: I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?
+GEN | [supported_cards_and_currencies] | Orig: I'd like to use my American Express to place money into my account. -> Aug: I'd like to use my American Express card to deposit funds into my account.
+GEN | [card_payment_wrong_exchange_rate] | Orig: Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you. -> Aug: Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance.
+GEN | [wrong_amount_of_cash_received] | Orig: My cash received does not match what has been requested -> Aug: The amount of cash I received is not what I was expecting.
+GEN | [cancel_transfer] | Orig: I used the wrong account number! -> Aug: I mistakenly entered an incorrect account number.
+GEN | [virtual_card_not_working] | Orig: Please help me.  My disposable virtual card won't work right. -> Aug: Please assist me. My temporary virtual card is not functioning properly.
+GEN | [wrong_amount_of_cash_received] | Orig: I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money? -> Aug: I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?
+GEN | [supported_cards_and_currencies] | Orig: I only have a card from the US is that okay? -> Aug: I'm wondering if it's acceptable to use a US-issued card?
+GEN | [order_physical_card] | Orig: Do I get a card to keep in my wallet? -> Aug: Can I receive a physical card to carry with me?
+GEN | [top_up_by_cash_or_cheque] | Orig: how can i add money to my account if you don't accept cash -> Aug: Can I deposit funds into my account if you don't accept cash?
+GEN | [top_up_limits] | Orig: Do you limit my top-offs? -> Aug: Are you limiting my limit increases?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Help me find the transfer that I did. -> Aug: Can you assist me in locating the recent transfer I made?
+GEN | [supported_cards_and_currencies] | Orig: Please let me know what currency I can use to top up my account? -> Aug: Please inform me about the available currencies I can use to replenish my account balance.
+GEN | [get_disposable_virtual_card] | Orig: I have heard about these disposable virtual cards but don't understand how they work. -> Aug: I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.
+GEN | [disposable_card_limits] | Orig: Are there any limits if I use these virtual cards? -> Aug: What are the restrictions on disposable card usage?
+GEN | [fiat_currency_support] | Orig: Do you deal with EUR? -> Aug: Are you able to assist with transactions involving the Euro currency?
+GEN | [atm_support] | Orig: I need to withdraw money. Where can I do that? -> Aug: I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: If I can't choose my card type will I be able to use it everywhere? | Augmented: If I'm unable to select my preferred payment method, will I still be able to make purchases with my Visa or Mastercard at any merchant?
+VAL | [verify_my_identity] | ACCEPT | Reason: N/A | Original: Let me know what the steps for the identity checks are | Augmented: Can you walk me through the process of verifying my identity?
+VAL | [atm_support] | ACCEPT | Reason: N/A | Original: What locations can I get money from? | Augmented: Where can I withdraw cash from an ATM or a bank branch?
+VAL | [get_disposable_virtual_card] | ACCEPT | Reason: ... | Original: I need a single use card for shopping online | Augmented: I require a one-time use virtual card for online transactions
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: ... | Original: It seems that the rate I got is incorrect. | Augmented: The exchange rate applied to my card payment appears to be inaccurate.
+VAL | [automatic_top_up] | ACCEPT | Reason: N/A | Original: Can I add money to my card automatically during a trip? | Augmented: Can I set up automatic top-ups for my card while I'm traveling?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: Will you accept my credit card, it my only one. | Augmented: Can you accept my credit card, as it's the only one I have?
+VAL | [cancel_transfer] | ACCEPT | Reason: ... | Original: I am trying to revert a transcation I did this morning | Augmented: I'm attempting to reverse a transfer I initiated earlier today
+VAL | [automatic_top_up] | ACCEPT | Reason: ... | Original: What is the limit on Auto top? | Augmented: What is the maximum amount allowed for automatic top-ups?
+VAL | [verify_my_identity] | ACCEPT | Reason: N/A | Original: How recent do my documents need to be for verification? | Augmented: What is the age requirement for the documents I need to provide for verification purposes?
+VAL | [automatic_top_up] | ACCEPT | Reason: ... | Original: I want to add money automatically when I travel. | Augmented: I'd like to set up an automatic transfer to top up my account whenever I'm abroad.
+VAL | [exchange_rate] | ACCEPT | Reason: N/A | Original: If I need to cash foreign transfers, how does that work? | Augmented: What's the process for exchanging foreign currencies for cash transfers?
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: N/A | Original: I was charged the wing amount for an item. | Augmented: I was overcharged for the item, and the amount doesn't match the expected exchange rate.
+VAL | [why_verify_identity] | ACCEPT | Reason: N/A | Original: Do you need my birthdate? | Augmented: Can you confirm your date of birth with me?
+VAL | [automatic_top_up] | ACCEPT | Reason: ... | Original: I have a trip coming up and want to add money automatically. | Augmented: I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds.
+VAL | [verify_top_up] | ACCEPT | Reason: N/A | Original: What can I do to verify my card? | Augmented: How can I confirm the details of my card?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: I wish to use my American Express to put funds into my account. | Augmented: I'd like to deposit funds into my account using my American Express card.
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: How do I input a new address? | Augmented: How can I update my address information?
+VAL | [compromised_card] | ACCEPT | Reason: ... | Original: I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more? | Augmented: I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: I'd like to use my American Express to place money into my account. | Augmented: I'd like to use my American Express card to deposit funds into my account.
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: ... | Original: Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you. | Augmented: Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance.
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: N/A | Original: My cash received does not match what has been requested | Augmented: The amount of cash I received is not what I was expecting.
+VAL | [cancel_transfer] | ACCEPT | Reason: N/A | Original: I used the wrong account number! | Augmented: I mistakenly entered an incorrect account number.
+VAL | [virtual_card_not_working] | ACCEPT | Reason: N/A | Original: Please help me.  My disposable virtual card won't work right. | Augmented: Please assist me. My temporary virtual card is not functioning properly.
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money? | Augmented: I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: I only have a card from the US is that okay? | Augmented: I'm wondering if it's acceptable to use a US-issued card?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Do I get a card to keep in my wallet? | Augmented: Can I receive a physical card to carry with me?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: how can i add money to my account if you don't accept cash | Augmented: Can I deposit funds into my account if you don't accept cash?
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: Do you limit my top-offs? | Augmented: Are you limiting my limit increases?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: Help me find the transfer that I did. | Augmented: Can you assist me in locating the recent transfer I made?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: Both texts are asking for the same information regarding the currencies that can be used to top up or replenish an account balance. There is no change in the intent, and the text is specific to the target intent. | Original: Please let me know what currency I can use to top up my account? | Augmented: Please inform me about the available currencies I can use to replenish my account balance.
+VAL | [get_disposable_virtual_card] | ACCEPT | Reason: ... | Original: I have heard about these disposable virtual cards but don't understand how they work. | Augmented: I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.
+VAL | [disposable_card_limits] | ACCEPT | Reason: N/A | Original: Are there any limits if I use these virtual cards? | Augmented: What are the restrictions on disposable card usage?
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: Do you deal with EUR? | Augmented: Are you able to assist with transactions involving the Euro currency?
+VAL | [atm_support] | ACCEPT | Reason: ... | Original: I need to withdraw money. Where can I do that? | Augmented: I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?
+VAL_SUMMARY | ACCEPT: 35 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 0 | Accept Rate: 1.0000

@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I'm still waiting for the ID verification process to complete, so can I use my account already?",
+    "I'd like to inquire about the possibility of expedited shipping for my card delivery.",
+    "You're asking why we're not permitting X to be designated as a beneficiary.",
+    "Have you checked my account balance recently?",
+    "what's the purpose of verifying my identity",
+    "Why am I unable to process multiple transactions using my virtual card?",
+    "I have a pending transfer",
+    "Can I modify my PIN at any ATM location?",
+    "Why is this beneficiary not eligible for use?",
+    "What is the charge for receiving a bank transfer via SEPA?",
+    "What's the best way to determine if an ATM will accept my card?",
+    "What is the fee for a bank transfer using the Single Euro Payments Area (SEPA) system?",
+    "what can I do to prevent being charged a fee on my card in the future?",
+    "I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount.",
+    "Can you facilitate bank transfers via SWIFT or other international payment methods?",
+    "The exchange rate was incorrect when I made a cash withdrawal using my card in a foreign country.",
+    "What details do I need to provide to complete a card-based transfer?",
+    "There was insufficient cash available at the time of my transaction.",
+    "what is the exchange rate for a cash withdrawal on a weekend?",
+    "Why is my designated recipient unable to access payment services?",
+    "Is my credit card accepted for online transactions?",
+    "Why am I not allowed to designate a beneficiary for my account?",
+    "I'm wondering if there's a fee associated with adding funds to my card?",
+    "I'm having trouble accessing my account because I've forgotten my passcode.",
+    "I mistakenly selected GBP for the exchange, but I'd like to switch to AUD instead. Can I modify the exchange rate?",
+    "Will I be charged a fee for a bank transfer using the Single Euro Payments Area (SEPA) system?",
+    "When will my cash deposit be reflected in my account balance?",
+    "Can I expedite the delivery of my card?",
+    "I'm having trouble converting this to cryptocurrency, but the app is not allowing me to proceed. Can you assist me with this issue?",
+    "What is the fee for processing a bank transfer via SEPA?",
+    "Why was my payment reversed and credited back to my card?",
+    "Is it possible to make an online payment using my credit/debit card?",
+    "Is there an option to expedite the delivery of my card for an additional fee?",
+    "Can you facilitate bank transfers for topping up my account?",
+    "How do I go about closing this account?",
+    "Can I make a bank transfer to top up my account?",
+    "Can I use a bank transfer to top up my account?",
+    "what happened to the funds after I entered incorrect details and the transaction was declined using my card?"
+  ],
+  "generated_labels": [
+    74,
+    12,
+    7,
+    5,
+    69,
+    72,
+    48,
+    21,
+    7,
+    56,
+    3,
+    56,
+    15,
+    75,
+    56,
+    76,
+    62,
+    75,
+    76,
+    7,
+    10,
+    7,
+    57,
+    44,
+    33,
+    56,
+    6,
+    12,
+    7,
+    56,
+    53,
+    10,
+    12,
+    56,
+    55,
+    56,
+    56,
+    62
+  ],
+  "source_texts": [
+    "I'm waiting for the ID verification to go through still, so is it too soon to use my account?",
+    "i need to add express delivery if that's an option",
+    "Why won't you let me name X as a beneficiary?",
+    "Can you see my new balance yet?",
+    "why do I need to show ID",
+    "Why can't I make multiple payments with my virtual card?",
+    "I have an outgoing transaction",
+    "Can I change my in at all ATM's?",
+    "Why can't I use this beneficiary?",
+    "What does it cost to receive a SEPA transfer?",
+    "How can I tell if an AMT will take this card?",
+    "How much will it cost me for a SEPA transfer?",
+    "how do i avoid charges in the future",
+    "Why can't I take $100 out",
+    "Do you process SWIFT transfers?",
+    "My rate is not right when I used my card in a different country's money.",
+    "What information am I going to have to have in order to do a transfer with my card?",
+    "There was a limited amount of money available at the time of my transaction.",
+    "what are weekend rates for getting cash",
+    "Why is my beneficiary not being allowed to get payment services?",
+    "Can I use my card for online payments?",
+    "Why can't I use my beneficiary?",
+    "I topped off my card is that something you will charge me for?",
+    "I can't log in with this passocde",
+    "I accidentally chose to exchange GBP, but I need to pick AUD. How can I change it?",
+    "Am I going to see a charge for a SEPA transfer?",
+    "When will my cheque be processed?",
+    "Can I get my card fast tracked?",
+    "I have been trying to exchange this for crypto but the app won't work could you please help me?",
+    "What is the charge for receiving a SEPA transfer?",
+    "Why has my money been returned back to my card.",
+    "Can I pay online with my card?",
+    "Can I pay more to get it deliver quicker?",
+    "Do you offer SWIFT transfers?",
+    "What are the steps to finishing up with this account?",
+    "Can I Transfer from SWIFT?",
+    "Are SWIFT transfers supported?",
+    "what happened to the money after i put in the wrong info and it got declined"
+  ],
+  "records": [
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I'm waiting for the ID verification to go through still, so is it too soon to use my account?",
+      "generated": "I'm still waiting for the ID verification process to complete, so can I use my account already?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i need to add express delivery if that's an option",
+      "generated": "I'd like to inquire about the possibility of expedited shipping for my card delivery."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why won't you let me name X as a beneficiary?",
+      "generated": "You're asking why we're not permitting X to be designated as a beneficiary."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you see my new balance yet?",
+      "generated": "Have you checked my account balance recently?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "why do I need to show ID",
+      "generated": "what's the purpose of verifying my identity"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Why can't I make multiple payments with my virtual card?",
+      "generated": "Why am I unable to process multiple transactions using my virtual card?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have an outgoing transaction",
+      "generated": "I have a pending transfer"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my in at all ATM's?",
+      "generated": "Can I modify my PIN at any ATM location?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why can't I use this beneficiary?",
+      "generated": "Why is this beneficiary not eligible for use?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "What does it cost to receive a SEPA transfer?",
+      "generated": "What is the charge for receiving a bank transfer via SEPA?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How can I tell if an AMT will take this card?",
+      "generated": "What's the best way to determine if an ATM will accept my card?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much will it cost me for a SEPA transfer?",
+      "generated": "What is the fee for a bank transfer using the Single Euro Payments Area (SEPA) system?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "how do i avoid charges in the future",
+      "generated": "what can I do to prevent being charged a fee on my card in the future?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Why can't I take $100 out",
+      "generated": "I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do you process SWIFT transfers?",
+      "generated": "Can you facilitate bank transfers via SWIFT or other international payment methods?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "My rate is not right when I used my card in a different country's money.",
+      "generated": "The exchange rate was incorrect when I made a cash withdrawal using my card in a foreign country."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What information am I going to have to have in order to do a transfer with my card?",
+      "generated": "What details do I need to provide to complete a card-based transfer?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "There was a limited amount of money available at the time of my transaction.",
+      "generated": "There was insufficient cash available at the time of my transaction."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "what are weekend rates for getting cash",
+      "generated": "what is the exchange rate for a cash withdrawal on a weekend?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is my beneficiary not being allowed to get payment services?",
+      "generated": "Why is my designated recipient unable to access payment services?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I use my card for online payments?",
+      "generated": "Is my credit card accepted for online transactions?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why can't I use my beneficiary?",
+      "generated": "Why am I not allowed to designate a beneficiary for my account?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I topped off my card is that something you will charge me for?",
+      "generated": "I'm wondering if there's a fee associated with adding funds to my card?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't log in with this passocde",
+      "generated": "I'm having trouble accessing my account because I've forgotten my passcode."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I accidentally chose to exchange GBP, but I need to pick AUD. How can I change it?",
+      "generated": "I mistakenly selected GBP for the exchange, but I'd like to switch to AUD instead. Can I modify the exchange rate?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I going to see a charge for a SEPA transfer?",
+      "generated": "Will I be charged a fee for a bank transfer using the Single Euro Payments Area (SEPA) system?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "When will my cheque be processed?",
+      "generated": "When will my cash deposit be reflected in my account balance?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I get my card fast tracked?",
+      "generated": "Can I expedite the delivery of my card?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I have been trying to exchange this for crypto but the app won't work could you please help me?",
+      "generated": "I'm having trouble converting this to cryptocurrency, but the app is not allowing me to proceed. Can you assist me with this issue?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "What is the charge for receiving a SEPA transfer?",
+      "generated": "What is the fee for processing a bank transfer via SEPA?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why has my money been returned back to my card.",
+      "generated": "Why was my payment reversed and credited back to my card?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I pay online with my card?",
+      "generated": "Is it possible to make an online payment using my credit/debit card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I pay more to get it deliver quicker?",
+      "generated": "Is there an option to expedite the delivery of my card for an additional fee?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do you offer SWIFT transfers?",
+      "generated": "Can you facilitate bank transfers for topping up my account?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "What are the steps to finishing up with this account?",
+      "generated": "How do I go about closing this account?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can I Transfer from SWIFT?",
+      "generated": "Can I make a bank transfer to top up my account?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT transfers supported?",
+      "generated": "Can I use a bank transfer to top up my account?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "what happened to the money after i put in the wrong info and it got declined",
+      "generated": "what happened to the funds after I entered incorrect details and the transaction was declined using my card?"
+    }
+  ]
+}

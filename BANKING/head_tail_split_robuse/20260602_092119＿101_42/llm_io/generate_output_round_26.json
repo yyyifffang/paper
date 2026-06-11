@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?",
+    "Can you help me identify the source of my available funds?",
+    "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?",
+    "What's the process for getting cash from an ATM?",
+    "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?",
+    "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?",
+    "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with.",
+    "I accidentally sent a transfer to the wrong account, and I'd like to cancel it.",
+    "What steps does your app take to move funds into another account?",
+    "The recipient of my money transfer is unable to view the transaction.",
+    "We're unable to identify a recognized card payment.",
+    "I'm curious about the reason behind the failed transfer.",
+    "Can I make a digital payment or is it possible to use cash to top up my account?",
+    "I've checked my account activity, but I'm puzzled by a payment that doesn't seem to match any transactions I've made. Can you help me investigate and reverse this unauthorized payment?",
+    "Can I obtain a Mastercard from you instead?",
+    "I'm unable to verify the card payment.",
+    "I'd like to stop the transfer process and cancel the transaction.",
+    "What are the restrictions on disposable card usage?",
+    "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?",
+    "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?",
+    "A pending cash withdrawal is currently being processed.",
+    "I'm puzzled as to why my payment is being rejected, considering I have sufficient funds in my account.",
+    "Do you allow me to choose between Visa and Mastercard, or do you automatically select the card type for me?",
+    "The transfer I initiated with my card was unsuccessful, what happened?",
+    "I recently made a transfer, but the recipient's account was credited with a lower amount than expected. I've since made an additional transfer to cover the difference. Could you please investigate this discrepancy?",
+    "I recently made a card payment, but it appears to be pending. Can you tell me what the usual processing time is for a payment like this?",
+    "I'm still waiting to receive my virtual card.",
+    "who deducted the transfer fee from my card",
+    "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place.",
+    "I'm having trouble completing a transfer and it's not going through as expected.",
+    "I'm experiencing an issue with a transfer to another account, and I keep receiving a decline notification. Despite verifying the information multiple times, I'm still getting the same error message.",
+    "How can I add funds to my account using my credit card?",
+    "Unfortunately, I was unable to withdraw cash from my account.",
+    "It appears that an unauthorized party has used my card to make a purchase, what steps can I take?",
+    "Is there an issue with your system or network? I've attempted to initiate a standard transfer multiple times, but it's not going through."
+  ],
+  "generated_labels": [
+    16,
+    70,
+    6,
+    3,
+    5,
+    40,
+    20,
+    8,
+    65,
+    66,
+    16,
+    27,
+    58,
+    28,
+    73,
+    16,
+    8,
+    29,
+    59,
+    28,
+    46,
+    25,
+    73,
+    35,
+    64,
+    45,
+    40,
+    64,
+    76,
+    35,
+    27,
+    62,
+    26,
+    22,
+    35
+  ],
+  "source_texts": [
+    "I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?",
+    "How can I look at where my available cash is coming from?",
+    "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+    "How do I withdraw money?",
+    "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+    "I haven't received my virtual card yet, do yo know why?",
+    "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+    "I made a transaction, but I made it to an account I didn't mean to make it to.",
+    "How does your app transfer the money",
+    "Why can't the recepient of my money transaction see it?",
+    "Why is there an unknown card payment?",
+    "I wanted to know why my transaction didn't go through.",
+    "Can I only top-up digitally? Or could I use cash?",
+    "I have not used my card all day, however, there is an unusual payment showing in my app.  I would like to have that amount reimbursed.",
+    "Can I get a Visa from you?",
+    "I do not recognise the card payment.",
+    "I don't need to transfer anymore and I want to cancel it.",
+    "Are there any limits if I use these virtual cards?",
+    "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+    "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+    "There is a withdrawal waiting.",
+    "I have enough money in my account, so why is my card being declined?",
+    "Can I select my card scheme or do you choose it for me?",
+    "My card couldn't complete a transfer, why?",
+    "Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+    "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?",
+    "I haven't received my virtual card yet!!",
+    "who charged my card",
+    "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+    "I am trying to transfer money and something is going wrong.",
+    "I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.",
+    "What steps do I do to transfer money using my credit card?",
+    "When I tried to access my cash, I wasn't allowed!",
+    "It looks like someone besides me ordered something with my card, what should I do?",
+    "Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere."
+  ],
+  "records": [
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?",
+      "generated": "I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I look at where my available cash is coming from?",
+      "generated": "Can you help me identify the source of my available funds?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+      "generated": "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How do I withdraw money?",
+      "generated": "What's the process for getting cash from an ATM?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+      "generated": "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I haven't received my virtual card yet, do yo know why?",
+      "generated": "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+      "generated": "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I made a transaction, but I made it to an account I didn't mean to make it to.",
+      "generated": "I accidentally sent a transfer to the wrong account, and I'd like to cancel it."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "How does your app transfer the money",
+      "generated": "What steps does your app take to move funds into another account?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why can't the recepient of my money transaction see it?",
+      "generated": "The recipient of my money transfer is unable to view the transaction."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is there an unknown card payment?",
+      "generated": "We're unable to identify a recognized card payment."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I wanted to know why my transaction didn't go through.",
+      "generated": "I'm curious about the reason behind the failed transfer."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I only top-up digitally? Or could I use cash?",
+      "generated": "Can I make a digital payment or is it possible to use cash to top up my account?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I have not used my card all day, however, there is an unusual payment showing in my app.  I would like to have that amount reimbursed.",
+      "generated": "I've checked my account activity, but I'm puzzled by a payment that doesn't seem to match any transactions I've made. Can you help me investigate and reverse this unauthorized payment?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get a Visa from you?",
+      "generated": "Can I obtain a Mastercard from you instead?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recognise the card payment.",
+      "generated": "I'm unable to verify the card payment."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I don't need to transfer anymore and I want to cancel it.",
+      "generated": "I'd like to stop the transfer process and cancel the transaction."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Are there any limits if I use these virtual cards?",
+      "generated": "What are the restrictions on disposable card usage?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+      "generated": "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+      "generated": "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "There is a withdrawal waiting.",
+      "generated": "A pending cash withdrawal is currently being processed."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I have enough money in my account, so why is my card being declined?",
+      "generated": "I'm puzzled as to why my payment is being rejected, considering I have sufficient funds in my account."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I select my card scheme or do you choose it for me?",
+      "generated": "Do you allow me to choose between Visa and Mastercard, or do you automatically select the card type for me?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "My card couldn't complete a transfer, why?",
+      "generated": "The transfer I initiated with my card was unsuccessful, what happened?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+      "generated": "I recently made a transfer, but the recipient's account was credited with a lower amount than expected. I've since made an additional transfer to cover the difference. Could you please investigate this discrepancy?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?",
+      "generated": "I recently made a card payment, but it appears to be pending. Can you tell me what the usual processing time is for a payment like this?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I haven't received my virtual card yet!!",
+      "generated": "I'm still waiting to receive my virtual card."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "who charged my card",
+      "generated": "who deducted the transfer fee from my card"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+      "generated": "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I am trying to transfer money and something is going wrong.",
+      "generated": "I'm having trouble completing a transfer and it's not going through as expected."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.",
+      "generated": "I'm experiencing an issue with a transfer to another account, and I keep receiving a decline notification. Despite verifying the information multiple times, I'm still getting the same error message."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What steps do I do to transfer money using my credit card?",
+      "generated": "How can I add funds to my account using my credit card?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "When I tried to access my cash, I wasn't allowed!",
+      "generated": "Unfortunately, I was unable to withdraw cash from my account."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "It looks like someone besides me ordered something with my card, what should I do?",
+      "generated": "It appears that an unauthorized party has used my card to make a purchase, what steps can I take?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere.",
+      "generated": "Is there an issue with your system or network? I've attempted to initiate a standard transfer multiple times, but it's not going through."
+    }
+  ]
+}

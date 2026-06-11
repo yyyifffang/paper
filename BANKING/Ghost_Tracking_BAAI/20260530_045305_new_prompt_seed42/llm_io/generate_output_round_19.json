@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "Can I cancel a transfer?",
+    "My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars.",
+    "Is there a specific limit beyond which I would no longer be able to increase my limits by topping up?",
+    "I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?",
+    "Is there an additional fee for exchanging funds?",
+    "Can I hold multiple types of fiat currencies in my account?",
+    "Why am I unable to purchase cryptocurrency through the mobile application?",
+    "To initiate a currency exchange, what are the steps I need to take using the app?",
+    "What are the transaction limits for a disposable card?",
+    "I was prohibited from crediting my account",
+    "I'm planning a trip abroad and I'd like to withdraw some cash from a local ATM, but I'm concerned that I'll be hit with an unfavorable exchange rate, which might result in an unexpected fee.",
+    "I'm experiencing a pending cash withdrawal issue, as the ATM was malfunctioning, and I'm concerned about being charged for the transaction. What can I do to resolve this situation?",
+    "Can you tell me more about the physical card's PIN security feature?",
+    "still need to obtain my physical card",
+    "Will this automatically top up my account when the time is suitable?",
+    "The exchange rate used for the cash withdrawal was incorrect.",
+    "I'm trying to transfer funds to my account, but it's not possible.",
+    "When can I expect the funds to be credited to my account?",
+    "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?",
+    "I'm disputing a transaction",
+    "Are you limiting my limit increases?",
+    "I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?",
+    "Can I use a bank transfer to top up my account through this program?",
+    "I'm wondering if I was incorrectly charged a fee for a recent cash withdrawal, perhaps related to a recent purchase or transaction?",
+    "How do I go about charging my card to top up my account?",
+    "I haven't received my card within a week. Should I be concerned?",
+    "my account balance isn't reflecting the recent transfer",
+    "Can I grant permission to someone else to access my account to make a card-based top-up?",
+    "Is the exchange rate fee subject to change?",
+    "Will I be charged a fee when I receive a bank transfer to top up my account?",
+    "Can I receive the physical card separately?",
+    "When can I expect my recent card payment to be processed and credited to my account, as it's been a few days since I made the payment and it's still pending?",
+    "What's the reason for the fee deducted from my account for the recent transfer?",
+    "There's an unexpected cash withdrawal showing up on my account.",
+    "I require a one-time use virtual card for online transactions",
+    "I require guidance on the maximum amount I can increase my limits.",
+    "I accidentally sent a transfer to the wrong account, and I'd like to cancel it.",
+    "What about my minors?"
+  ],
+  "generated_labels": [
+    8,
+    33,
+    60,
+    5,
+    31,
+    36,
+    7,
+    33,
+    29,
+    7,
+    76,
+    46,
+    38,
+    38,
+    4,
+    76,
+    7,
+    67,
+    66,
+    16,
+    60,
+    7,
+    56,
+    19,
+    57,
+    11,
+    5,
+    62,
+    17,
+    56,
+    38,
+    45,
+    64,
+    20,
+    37,
+    60,
+    8,
+    1
+  ],
+  "source_texts": [
+    "Can I stop a transaction?",
+    "My plans may change so I may need to change from GBP to AUD.",
+    "Is there any amount in which I would get cut off from topping up?",
+    "Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.",
+    "Do I pay extra for exchange?",
+    "Does my account have the option to hold multiple currencies?",
+    "Why can't I buy cryptocurrency on the app?",
+    "What do I need to do to exchange my money?",
+    "Show me the amount of transactions I can do with a disposable card.",
+    "I wasn't allowed to transfer to my account",
+    "How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.",
+    "Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged?",
+    "Explain the card PIN to me.",
+    "still need to get card pin",
+    "When the time is right will this automatically replenish my balance?",
+    "An overseas cash transfer did not work correctly",
+    "I need to transfer to my account and cant.",
+    "When will the money be made available in my account?",
+    "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+    "i disagree with a charge",
+    "Do you limit my top-offs?",
+    "Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong?",
+    "Does this program take SWIFT transfers?",
+    "I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now?",
+    "Can I get information on topping up?",
+    "I don't have my card in 1 week.  Should I be worried?",
+    "help my money isnt showing up",
+    "Can I let other people have access to my account in order to top up?",
+    "Does the fee for exchange change?",
+    "Do I get charged if I get money?",
+    "Is the PIN sent in another message?",
+    "How long does it actually take my card payment to make it to the account? I've made a payment a couple of days ago but it hasn't moved since.",
+    "Why was money taken for a transfer?",
+    "Some cash shows up on my app.",
+    "I need a single use card for shopping online",
+    "I need someone to assist me with explaining how much I can top-up.",
+    "I made a transaction, but I made it to an account I didn't mean to make it to.",
+    "What about my children?"
+  ],
+  "records": [
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Can I stop a transaction?",
+      "generated": "Can I cancel a transfer?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "My plans may change so I may need to change from GBP to AUD.",
+      "generated": "My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is there any amount in which I would get cut off from topping up?",
+      "generated": "Is there a specific limit beyond which I would no longer be able to increase my limits by topping up?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.",
+      "generated": "I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do I pay extra for exchange?",
+      "generated": "Is there an additional fee for exchanging funds?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Does my account have the option to hold multiple currencies?",
+      "generated": "Can I hold multiple types of fiat currencies in my account?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why can't I buy cryptocurrency on the app?",
+      "generated": "Why am I unable to purchase cryptocurrency through the mobile application?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "What do I need to do to exchange my money?",
+      "generated": "To initiate a currency exchange, what are the steps I need to take using the app?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Show me the amount of transactions I can do with a disposable card.",
+      "generated": "What are the transaction limits for a disposable card?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I wasn't allowed to transfer to my account",
+      "generated": "I was prohibited from crediting my account"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.",
+      "generated": "I'm planning a trip abroad and I'd like to withdraw some cash from a local ATM, but I'm concerned that I'll be hit with an unfavorable exchange rate, which might result in an unexpected fee."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged?",
+      "generated": "I'm experiencing a pending cash withdrawal issue, as the ATM was malfunctioning, and I'm concerned about being charged for the transaction. What can I do to resolve this situation?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Explain the card PIN to me.",
+      "generated": "Can you tell me more about the physical card's PIN security feature?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "still need to get card pin",
+      "generated": "still need to obtain my physical card"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "When the time is right will this automatically replenish my balance?",
+      "generated": "Will this automatically top up my account when the time is suitable?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "An overseas cash transfer did not work correctly",
+      "generated": "The exchange rate used for the cash withdrawal was incorrect."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I need to transfer to my account and cant.",
+      "generated": "I'm trying to transfer funds to my account, but it's not possible."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will the money be made available in my account?",
+      "generated": "When can I expect the funds to be credited to my account?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+      "generated": "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i disagree with a charge",
+      "generated": "I'm disputing a transaction"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Do you limit my top-offs?",
+      "generated": "Are you limiting my limit increases?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong?",
+      "generated": "I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Does this program take SWIFT transfers?",
+      "generated": "Can I use a bank transfer to top up my account through this program?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now?",
+      "generated": "I'm wondering if I was incorrectly charged a fee for a recent cash withdrawal, perhaps related to a recent purchase or transaction?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Can I get information on topping up?",
+      "generated": "How do I go about charging my card to top up my account?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I don't have my card in 1 week.  Should I be worried?",
+      "generated": "I haven't received my card within a week. Should I be concerned?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "help my money isnt showing up",
+      "generated": "my account balance isn't reflecting the recent transfer"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can I let other people have access to my account in order to top up?",
+      "generated": "Can I grant permission to someone else to access my account to make a card-based top-up?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the fee for exchange change?",
+      "generated": "Is the exchange rate fee subject to change?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do I get charged if I get money?",
+      "generated": "Will I be charged a fee when I receive a bank transfer to top up my account?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Is the PIN sent in another message?",
+      "generated": "Can I receive the physical card separately?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it actually take my card payment to make it to the account? I've made a payment a couple of days ago but it hasn't moved since.",
+      "generated": "When can I expect my recent card payment to be processed and credited to my account, as it's been a few days since I made the payment and it's still pending?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Why was money taken for a transfer?",
+      "generated": "What's the reason for the fee deducted from my account for the recent transfer?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Some cash shows up on my app.",
+      "generated": "There's an unexpected cash withdrawal showing up on my account."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I need a single use card for shopping online",
+      "generated": "I require a one-time use virtual card for online transactions"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "I need someone to assist me with explaining how much I can top-up.",
+      "generated": "I require guidance on the maximum amount I can increase my limits."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I made a transaction, but I made it to an account I didn't mean to make it to.",
+      "generated": "I accidentally sent a transfer to the wrong account, and I'd like to cancel it."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "What about my children?",
+      "generated": "What about my minors?"
+    }
+  ]
+}

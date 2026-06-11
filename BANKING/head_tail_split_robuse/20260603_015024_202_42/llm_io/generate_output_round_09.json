@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "What about my minors?",
+    "I got my Virtual card details, but I'm having trouble using it for a transaction. Can you help me figure out what's going on and what I can do to resolve the issue?",
+    "My temporary virtual card is not functioning properly.",
+    "Where can I find the option to request a virtual card within the app?",
+    "You can replenish your card balance by depositing cash or cheque.",
+    "How much does the bank charge for issuing a new physical card if my original one is lost or stolen?",
+    "What methods of payment do you accept?",
+    "Can you provide an estimate for the delivery of my card?",
+    "Can I use bank transfer to top up my account at this bank?",
+    "I'm a resident of the European Union. Can I obtain one of your credit cards?",
+    "Might I request a card, as I am a resident of the European Union?",
+    "What's the best way to determine if an ATM will accept my card?",
+    "I am a resident of Portugal. Do you have a presence in this country?",
+    "Can I have a spare card issued for this account, in addition to the one I already have?",
+    "Why did I get a refund for my payment after a week?",
+    "I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?",
+    "How do I obtain additional cards for my account?",
+    "I am a resident in the European Union. Can I obtain one of your credit cards?",
+    "Can I request a replacement bank card to be delivered to China?",
+    "Can this card be delivered to any location within the European Union, or are there specific areas where it cannot be delivered?",
+    "Why hasn't my account balance been updated after I deposited a cheque or cash?",
+    "What details do I need to provide to complete a card-based transfer?",
+    "How can I use my debit or credit card for payment?",
+    "The cash transfer I initiated hasn't been reflected on the recipient's end.",
+    "The transfer was not successfully processed due to an issue.",
+    "I've missed a payment and I'm providing the payment now.",
+    "The refund for my card is missing from my latest statement.",
+    "I'd like to obtain a virtual card, please.",
+    "I'm having trouble linking one of my cards to my account.",
+    "I added funds to my card, but the amount is still pending and hasn't been reflected in my balance.",
+    "Can I make a bank transfer to top up my account?",
+    "I was given the wrong amount of money",
+    "If I already have a credit card account with your bank, how do I go about linking it to my profile?",
+    "You're asking why we're not permitting X to be designated as a beneficiary.",
+    "When will my cash deposit be reflected in my account balance?",
+    "I'd like to obtain an additional card for my daughter, could you guide me through the process?",
+    "The app is displaying a higher withdrawal amount than what I physically deposited at the ATM.",
+    "I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!"
+  ],
+  "generated_labels": [
+    1,
+    72,
+    72,
+    40,
+    58,
+    43,
+    54,
+    12,
+    56,
+    24,
+    24,
+    3,
+    24,
+    39,
+    53,
+    40,
+    39,
+    24,
+    9,
+    24,
+    6,
+    62,
+    10,
+    66,
+    27,
+    16,
+    51,
+    40,
+    13,
+    47,
+    56,
+    75,
+    13,
+    7,
+    6,
+    39,
+    75,
+    20
+  ],
+  "source_texts": [
+    "What about my children?",
+    "I received my Virtual card information, but was unable to use it to make a purchase. Why did this happen and what can I do?",
+    "My throwaway virtual card won't work",
+    "Which part of the app do I order virtual cards from?",
+    "How can I add physical money to my card?",
+    "What does the bank charge for lost or stolen card replacements?",
+    "What are my payment options?",
+    "can you express my card to me?",
+    "Are SWIFT Transfers available at this bank?",
+    "I'm in the EU. Can I get one of your cards?",
+    "May I get one of your cards?  I live in the EU.",
+    "How can I tell if an AMT will take this card?",
+    "i live in portugal. do you operate here?",
+    "Can another family member hold a card for this account in addition to mine?",
+    "Why have I received a rebate for my payment after a week?",
+    "I need to make a purchase online, where is my virtual card?",
+    "What is the procedure for me to get more cards on my account?",
+    "I am in the EU. Can I get one of your cards?",
+    "Where can I have a new bank card sent to China?",
+    "Is there anywhere  In the  Eu  this card can not be delivered in",
+    "When will my deposit be processed?",
+    "What information am I going to have to have in order to do a transfer with my card?",
+    "Where do I pay with my debit or credit card?",
+    "My cash transaction isn't showing on my receipt",
+    "What does the decline message mean",
+    "I didn't do a payment and I have it now.",
+    "Card refund is not showing up in my statement.",
+    "I would love one of the virtual cards!",
+    "I have one of your cards, but I don't know how to link it.",
+    "i put money on my card and i dont see it on the balance",
+    "Can I Transfer from SWIFT?",
+    "It kept my cash",
+    "If I have a credit card with you how I get set up to link to it?",
+    "Why won't you let me name X as a beneficiary?",
+    "When will my cheque be processed?",
+    "I would like open a second card for my daughter, how can you assist me?",
+    "Help, your app is showing a larger WD than I actually did earlier at an ATM.",
+    "Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP!"
+  ],
+  "records": [
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "What about my children?",
+      "generated": "What about my minors?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I received my Virtual card information, but was unable to use it to make a purchase. Why did this happen and what can I do?",
+      "generated": "I got my Virtual card details, but I'm having trouble using it for a transaction. Can you help me figure out what's going on and what I can do to resolve the issue?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My throwaway virtual card won't work",
+      "generated": "My temporary virtual card is not functioning properly."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "Which part of the app do I order virtual cards from?",
+      "generated": "Where can I find the option to request a virtual card within the app?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How can I add physical money to my card?",
+      "generated": "You can replenish your card balance by depositing cash or cheque."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What does the bank charge for lost or stolen card replacements?",
+      "generated": "How much does the bank charge for issuing a new physical card if my original one is lost or stolen?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are my payment options?",
+      "generated": "What methods of payment do you accept?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "can you express my card to me?",
+      "generated": "Can you provide an estimate for the delivery of my card?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT Transfers available at this bank?",
+      "generated": "Can I use bank transfer to top up my account at this bank?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I'm in the EU. Can I get one of your cards?",
+      "generated": "I'm a resident of the European Union. Can I obtain one of your credit cards?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "May I get one of your cards?  I live in the EU.",
+      "generated": "Might I request a card, as I am a resident of the European Union?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How can I tell if an AMT will take this card?",
+      "generated": "What's the best way to determine if an ATM will accept my card?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "i live in portugal. do you operate here?",
+      "generated": "I am a resident of Portugal. Do you have a presence in this country?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can another family member hold a card for this account in addition to mine?",
+      "generated": "Can I have a spare card issued for this account, in addition to the one I already have?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why have I received a rebate for my payment after a week?",
+      "generated": "Why did I get a refund for my payment after a week?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I need to make a purchase online, where is my virtual card?",
+      "generated": "I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "What is the procedure for me to get more cards on my account?",
+      "generated": "How do I obtain additional cards for my account?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I am in the EU. Can I get one of your cards?",
+      "generated": "I am a resident in the European Union. Can I obtain one of your credit cards?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Where can I have a new bank card sent to China?",
+      "generated": "Can I request a replacement bank card to be delivered to China?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Is there anywhere  In the  Eu  this card can not be delivered in",
+      "generated": "Can this card be delivered to any location within the European Union, or are there specific areas where it cannot be delivered?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "When will my deposit be processed?",
+      "generated": "Why hasn't my account balance been updated after I deposited a cheque or cash?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What information am I going to have to have in order to do a transfer with my card?",
+      "generated": "What details do I need to provide to complete a card-based transfer?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my debit or credit card?",
+      "generated": "How can I use my debit or credit card for payment?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "My cash transaction isn't showing on my receipt",
+      "generated": "The cash transfer I initiated hasn't been reflected on the recipient's end."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What does the decline message mean",
+      "generated": "The transfer was not successfully processed due to an issue."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I didn't do a payment and I have it now.",
+      "generated": "I've missed a payment and I'm providing the payment now."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Card refund is not showing up in my statement.",
+      "generated": "The refund for my card is missing from my latest statement."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I would love one of the virtual cards!",
+      "generated": "I'd like to obtain a virtual card, please."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I have one of your cards, but I don't know how to link it.",
+      "generated": "I'm having trouble linking one of my cards to my account."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "i put money on my card and i dont see it on the balance",
+      "generated": "I added funds to my card, but the amount is still pending and hasn't been reflected in my balance."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can I Transfer from SWIFT?",
+      "generated": "Can I make a bank transfer to top up my account?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "It kept my cash",
+      "generated": "I was given the wrong amount of money"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "If I have a credit card with you how I get set up to link to it?",
+      "generated": "If I already have a credit card account with your bank, how do I go about linking it to my profile?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why won't you let me name X as a beneficiary?",
+      "generated": "You're asking why we're not permitting X to be designated as a beneficiary."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "When will my cheque be processed?",
+      "generated": "When will my cash deposit be reflected in my account balance?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I would like open a second card for my daughter, how can you assist me?",
+      "generated": "I'd like to obtain an additional card for my daughter, could you guide me through the process?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Help, your app is showing a larger WD than I actually did earlier at an ATM.",
+      "generated": "The app is displaying a higher withdrawal amount than what I physically deposited at the ATM."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP!",
+      "generated": "I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!"
+    }
+  ]
+}

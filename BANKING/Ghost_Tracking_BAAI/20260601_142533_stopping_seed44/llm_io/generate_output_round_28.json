@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Can I move some money from another account into my current account?",
+    "I have sufficient funds, yet I'm unable to complete my top-up.",
+    "I'm having trouble accessing my phone, can you help me?",
+    "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined.",
+    "Can I use my Mastercard to fund my account?",
+    "Can you provide me with a list of locations where I can use my card for transactions?",
+    "Can I cancel a transfer that's already been initiated?",
+    "I'd like to cancel my account due to dissatisfaction with your services.",
+    "Why am I unable to complete any transactions with my card?",
+    "I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me.",
+    "When can I expect my funds to be deposited into my account?",
+    "I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?",
+    "What is the typical timeframe for international transfers to Europe?",
+    "I'd like to order a physical card.",
+    "I'm having trouble completing a bank transfer and I'm wondering if there's an issue with insufficient funds or if I've exceeded the transfer limit.",
+    "I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?",
+    "I'd rather use Mastercard, is it possible to make a change?",
+    "I recently got married and would like to update my personal information to reflect my new married name.",
+    "I'd like to cancel my transaction and seek a refund.",
+    "Can I make changes to my personal information?",
+    "I'm concerned that my recent transfer didn't go through. Can you help me resolve the issue?",
+    "I'm experiencing an issue with my American Express account on Google Pay, could you assist me in resolving the issue with a top-up?",
+    "I'd like to know how to reach out to your customer support team regarding the transfer that was declined.",
+    "I made a domestic transfer yesterday, but the recipient hasn't received it yet. Could you look into this for me? I've double-checked the account number to ensure it's correct.",
+    "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?",
+    "It's been a while since the top-up was replenished.",
+    "I'd like to update my personal information.",
+    "I'd like to request a reversal of this fee from my account.",
+    "I'd like to inquire about the possibility of canceling a specific transaction.",
+    "Do I need to make a payment to obtain a physical card?",
+    "I'm having trouble withdrawing cash from the ATM and I'm certain I entered my PIN correctly. Can you assist me with this issue?",
+    "Why does it take a while for my account balance to update after an international bank transfer is made?",
+    "I'm experiencing a strange issue: I made a purchase a while back, and the payment has been reversed, putting the funds back into my account. Can you help me understand what's going on?",
+    "What is the typical timeframe for transferring funds from Europe to my account?",
+    "Can you assist me in retrieving the physical card details, including the PIN, as I've misplaced it?",
+    "I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?"
+  ],
+  "generated_labels": [
+    65,
+    59,
+    42,
+    35,
+    54,
+    10,
+    8,
+    55,
+    14,
+    13,
+    67,
+    21,
+    67,
+    43,
+    35,
+    33,
+    73,
+    30,
+    52,
+    30,
+    35,
+    2,
+    27,
+    66,
+    19,
+    47,
+    30,
+    52,
+    8,
+    43,
+    26,
+    5,
+    53,
+    67,
+    38,
+    66
+  ],
+  "source_texts": [
+    "Help! My account doesn't show any funds. Is transferring funds an option I can use?",
+    "I have the funds, why can I not use my top-up?",
+    "I cannot get to my app, what should I do?",
+    "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+    "can i use my mastercard to add money to my account",
+    "Is there a list of where I can use my card?",
+    "Is it possible for a transaction to be cancelled?",
+    "I would like to invalidate my account.  I am very disappointed with your services.",
+    "Can you tell me why I can't make any transactions?",
+    "I found my card that I thought I had lost, I need to reactive it, please help.",
+    "When will my money be in my account?",
+    "I can't freeze my account as I need the card as I am traveling, how do I change my pin?",
+    "How long do I have to wait for Europe transfers?",
+    "I would like a card please.",
+    "I'm trying to make a bank transfer but It's not going through. Could there not be enough funds to transfer or something? Have I done it too many times?",
+    "I may no longer need GBP, but instead I will need AUD, how can I go about making this change?",
+    "I prefer using Mastercard, can I substitute?",
+    "I just got married and need to change my name on the account",
+    "I would like to retract my purchase.",
+    "Am I able to modify my account details?",
+    "I think my transfer failed. What do I do now?",
+    "I am having a slight problem with my American express in apple play, can you help me fix the problem with top up?",
+    "How do I contact customer support about my declined transfer?",
+    "I performed a transfer within the country the day before yesterday, but it has not gone through? Can you check on that? The account number is definitely correct, as I've checked.",
+    "How much can I withdrawal in one month without incurring fees?",
+    "It's been some time since refilled the top-up.",
+    "I need to change my data.",
+    "I want this fee reversed from my account.",
+    "I have a transaction and would like to know if I it's cancelable?",
+    "Is payment required to get a card of my own?",
+    "Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money.",
+    "Is there a longer processing time for international bank transfers?",
+    "I've got a weird problem: I purchased something a week or maybe it was two weeks ago, and the funds have come back into my account! Can you explain this?",
+    "How long does it take to get money from Europe?",
+    "Help, I don't know what the PIN is to my card?",
+    "Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?"
+  ],
+  "records": [
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Help! My account doesn't show any funds. Is transferring funds an option I can use?",
+      "generated": "Can I move some money from another account into my current account?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I have the funds, why can I not use my top-up?",
+      "generated": "I have sufficient funds, yet I'm unable to complete my top-up."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I cannot get to my app, what should I do?",
+      "generated": "I'm having trouble accessing my phone, can you help me?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+      "generated": "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "can i use my mastercard to add money to my account",
+      "generated": "Can I use my Mastercard to fund my account?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is there a list of where I can use my card?",
+      "generated": "Can you provide me with a list of locations where I can use my card for transactions?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Is it possible for a transaction to be cancelled?",
+      "generated": "Can I cancel a transfer that's already been initiated?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I would like to invalidate my account.  I am very disappointed with your services.",
+      "generated": "I'd like to cancel my account due to dissatisfaction with your services."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Can you tell me why I can't make any transactions?",
+      "generated": "Why am I unable to complete any transactions with my card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I found my card that I thought I had lost, I need to reactive it, please help.",
+      "generated": "I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will my money be in my account?",
+      "generated": "When can I expect my funds to be deposited into my account?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I can't freeze my account as I need the card as I am traveling, how do I change my pin?",
+      "generated": "I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long do I have to wait for Europe transfers?",
+      "generated": "What is the typical timeframe for international transfers to Europe?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I would like a card please.",
+      "generated": "I'd like to order a physical card."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I'm trying to make a bank transfer but It's not going through. Could there not be enough funds to transfer or something? Have I done it too many times?",
+      "generated": "I'm having trouble completing a bank transfer and I'm wondering if there's an issue with insufficient funds or if I've exceeded the transfer limit."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I may no longer need GBP, but instead I will need AUD, how can I go about making this change?",
+      "generated": "I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I prefer using Mastercard, can I substitute?",
+      "generated": "I'd rather use Mastercard, is it possible to make a change?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I just got married and need to change my name on the account",
+      "generated": "I recently got married and would like to update my personal information to reflect my new married name."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I would like to retract my purchase.",
+      "generated": "I'd like to cancel my transaction and seek a refund."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Am I able to modify my account details?",
+      "generated": "Can I make changes to my personal information?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I think my transfer failed. What do I do now?",
+      "generated": "I'm concerned that my recent transfer didn't go through. Can you help me resolve the issue?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I am having a slight problem with my American express in apple play, can you help me fix the problem with top up?",
+      "generated": "I'm experiencing an issue with my American Express account on Google Pay, could you assist me in resolving the issue with a top-up?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How do I contact customer support about my declined transfer?",
+      "generated": "I'd like to know how to reach out to your customer support team regarding the transfer that was declined."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I performed a transfer within the country the day before yesterday, but it has not gone through? Can you check on that? The account number is definitely correct, as I've checked.",
+      "generated": "I made a domestic transfer yesterday, but the recipient hasn't received it yet. Could you look into this for me? I've double-checked the account number to ensure it's correct."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much can I withdrawal in one month without incurring fees?",
+      "generated": "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "It's been some time since refilled the top-up.",
+      "generated": "It's been a while since the top-up was replenished."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I need to change my data.",
+      "generated": "I'd like to update my personal information."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I want this fee reversed from my account.",
+      "generated": "I'd like to request a reversal of this fee from my account."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I have a transaction and would like to know if I it's cancelable?",
+      "generated": "I'd like to inquire about the possibility of canceling a specific transaction."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Is payment required to get a card of my own?",
+      "generated": "Do I need to make a payment to obtain a physical card?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money.",
+      "generated": "I'm having trouble withdrawing cash from the ATM and I'm certain I entered my PIN correctly. Can you assist me with this issue?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Is there a longer processing time for international bank transfers?",
+      "generated": "Why does it take a while for my account balance to update after an international bank transfer is made?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I've got a weird problem: I purchased something a week or maybe it was two weeks ago, and the funds have come back into my account! Can you explain this?",
+      "generated": "I'm experiencing a strange issue: I made a purchase a while back, and the payment has been reversed, putting the funds back into my account. Can you help me understand what's going on?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take to get money from Europe?",
+      "generated": "What is the typical timeframe for transferring funds from Europe to my account?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Help, I don't know what the PIN is to my card?",
+      "generated": "Can you assist me in retrieving the physical card details, including the PIN, as I've misplaced it?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?",
+      "generated": "I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?"
+    }
+  ]
+}

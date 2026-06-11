@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "how can I charge my card to add funds?",
+    "Can I review the origin of the funds?",
+    "My recurring payment to Apple has been declined, and I'm not sure why. They're going to retry the payment, but I need to know what's causing the issue. Can you help me understand what's happening?",
+    "I'd like to request a new virtual card, could you guide me on how to obtain one?",
+    "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account.",
+    "I'd like to obtain a spare card for my daughter.",
+    "How do I initiate a transfer to add funds to an account?",
+    "Has my new card been dispatched already?",
+    "What steps can a US citizen take to obtain a new credit card?",
+    "Why was my cash withdrawal request denied?",
+    "When can I expect to receive my credit card, which was supposed to be sent to me?",
+    "We're having trouble identifying this payment on your account.",
+    "I'm having trouble recalling my passcode, as I've forgotten it.",
+    "Can you investigate why my account balance is not reflecting the recent bank transfer I made, as it's not updating yet?",
+    "Can I get a spare card added to my account?",
+    "A surprise fee has appeared on a transfer that shouldn't have had one.",
+    "A payment has been recorded in the app that I did not authorize.",
+    "I'd like to report a missing credit card.",
+    "Why is the transfer still pending?",
+    "Can I request a replacement card before my current one expires?",
+    "Please cancel the most recent transfer I made.",
+    "My account appears to be experiencing some unusual activity, with duplicate charges showing up.",
+    "How can I determine if my card has been compromised and is being used by someone else?",
+    "Can you assist me in locating my card?",
+    "I'm concerned that my card has been compromised and someone is attempting to make unauthorized cash withdrawals. Can you assist me in suspending my card's activity or canceling it altogether?",
+    "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?",
+    "I've initiated a transfer, but I've changed my mind and would like to cancel it. Can you help me stop the transfer from going through?",
+    "We're showing a direct debit payment that we haven't recognized as yours. Can you help us figure out what's going on?",
+    "I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?",
+    "Can someone else make a card payment on my behalf?",
+    "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?",
+    "I've checked my account and noticed a pending transaction that I didn't complete. The ATM declined my card when I tried to make the withdrawal, and I'm concerned that the transaction might still be processed. Can you cancel it since I didn't receive the cash?",
+    "How can I prevent someone from using my card after I misplaced it yesterday?",
+    "Why is my cash withdrawal pending and not showing up?",
+    "What's taking so long? When can I expect my new card to arrive?",
+    "The transfer of funds from my account was unsuccessful.",
+    "I'd like to request a new physical card.",
+    "I'm hesitant to confirm my identity through this process."
+  ],
+  "generated_labels": [
+    57,
+    70,
+    25,
+    40,
+    8,
+    39,
+    65,
+    11,
+    24,
+    26,
+    11,
+    16,
+    44,
+    5,
+    39,
+    64,
+    16,
+    41,
+    48,
+    9,
+    8,
+    63,
+    22,
+    11,
+    20,
+    30,
+    8,
+    28,
+    64,
+    62,
+    19,
+    46,
+    42,
+    46,
+    11,
+    35,
+    43,
+    74
+  ],
+  "source_texts": [
+    "how should i add money to my card",
+    "Can I track history on funds?",
+    "May monthly payment to Apple has been declined but I don't know why, they are going to re-try the payment and it must go through, can you tell me what is going on please?",
+    "I need to order a new card, can you please direct me to the virtual cards?",
+    "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+    "daughter needs card, how do i add her",
+    "What are the steps for  making a transfer for topping up?",
+    "Have you sent out my card yet?",
+    "How does a US resident go about acquiring a new card?",
+    "Why can I not take out cash?",
+    "Where is my credit card that was to be mailed?",
+    "Why is this payment on my app",
+    "I used to know my password, but not anymore.",
+    "Can you check if my money has reached my account since it is not showing up yet?",
+    "how is it possible to add another card to account",
+    "There is a fee from a transfer that is not supposed to be here!",
+    "There is a payment in the app that I did not approve",
+    "Who can I speak with regarding a lost card?",
+    "Why is the transaction not posting?",
+    "Can I order a new card with the app?",
+    "Please cancel my last transaction.",
+    "My account seems a bit off and getting weird charges.",
+    "How can I tell if someone else is using my card?",
+    "Can you help me track my card?",
+    "I just lost my wallet and I think someone is using my card to withdraw my money. Can you please cancel or freeze my card?!!",
+    "my identity hasn't been verified and i can't edit my details, what's next",
+    "I have arranged a transfer, but no longer need to send it. How do I stop the transfer?",
+    "what is this charge i didnt do it what can i do",
+    "I got an unexpected charge on my transfers. How can I correct this?",
+    "Can anyone else top-up for me?",
+    "How much can I withdrawal in one month without incurring fees?",
+    "Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money.",
+    "How can I stop someone from using my card after I lost it yesterday.",
+    "How do I get my cash withdrawal to show?",
+    "What's go on, where is my new card?",
+    "I was unable to transfer money from my account.",
+    "I need to order a new card.",
+    "I don't want to use this method to identify myself."
+  ],
+  "records": [
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how should i add money to my card",
+      "generated": "how can I charge my card to add funds?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I track history on funds?",
+      "generated": "Can I review the origin of the funds?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "May monthly payment to Apple has been declined but I don't know why, they are going to re-try the payment and it must go through, can you tell me what is going on please?",
+      "generated": "My recurring payment to Apple has been declined, and I'm not sure why. They're going to retry the payment, but I need to know what's causing the issue. Can you help me understand what's happening?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I need to order a new card, can you please direct me to the virtual cards?",
+      "generated": "I'd like to request a new virtual card, could you guide me on how to obtain one?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+      "generated": "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "daughter needs card, how do i add her",
+      "generated": "I'd like to obtain a spare card for my daughter."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are the steps for  making a transfer for topping up?",
+      "generated": "How do I initiate a transfer to add funds to an account?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Have you sent out my card yet?",
+      "generated": "Has my new card been dispatched already?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "How does a US resident go about acquiring a new card?",
+      "generated": "What steps can a US citizen take to obtain a new credit card?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can I not take out cash?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Where is my credit card that was to be mailed?",
+      "generated": "When can I expect to receive my credit card, which was supposed to be sent to me?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is this payment on my app",
+      "generated": "We're having trouble identifying this payment on your account."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I used to know my password, but not anymore.",
+      "generated": "I'm having trouble recalling my passcode, as I've forgotten it."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you check if my money has reached my account since it is not showing up yet?",
+      "generated": "Can you investigate why my account balance is not reflecting the recent bank transfer I made, as it's not updating yet?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "how is it possible to add another card to account",
+      "generated": "Can I get a spare card added to my account?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "There is a fee from a transfer that is not supposed to be here!",
+      "generated": "A surprise fee has appeared on a transfer that shouldn't have had one."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There is a payment in the app that I did not approve",
+      "generated": "A payment has been recorded in the app that I did not authorize."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Who can I speak with regarding a lost card?",
+      "generated": "I'd like to report a missing credit card."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Why is the transaction not posting?",
+      "generated": "Why is the transfer still pending?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I order a new card with the app?",
+      "generated": "Can I request a replacement card before my current one expires?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Please cancel my last transaction.",
+      "generated": "Please cancel the most recent transfer I made."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My account seems a bit off and getting weird charges.",
+      "generated": "My account appears to be experiencing some unusual activity, with duplicate charges showing up."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "How can I tell if someone else is using my card?",
+      "generated": "How can I determine if my card has been compromised and is being used by someone else?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Can you help me track my card?",
+      "generated": "Can you assist me in locating my card?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I just lost my wallet and I think someone is using my card to withdraw my money. Can you please cancel or freeze my card?!!",
+      "generated": "I'm concerned that my card has been compromised and someone is attempting to make unauthorized cash withdrawals. Can you assist me in suspending my card's activity or canceling it altogether?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "my identity hasn't been verified and i can't edit my details, what's next",
+      "generated": "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I have arranged a transfer, but no longer need to send it. How do I stop the transfer?",
+      "generated": "I've initiated a transfer, but I've changed my mind and would like to cancel it. Can you help me stop the transfer from going through?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "what is this charge i didnt do it what can i do",
+      "generated": "We're showing a direct debit payment that we haven't recognized as yours. Can you help us figure out what's going on?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I got an unexpected charge on my transfers. How can I correct this?",
+      "generated": "I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can anyone else top-up for me?",
+      "generated": "Can someone else make a card payment on my behalf?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much can I withdrawal in one month without incurring fees?",
+      "generated": "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money.",
+      "generated": "I've checked my account and noticed a pending transaction that I didn't complete. The ATM declined my card when I tried to make the withdrawal, and I'm concerned that the transaction might still be processed. Can you cancel it since I didn't receive the cash?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "How can I stop someone from using my card after I lost it yesterday.",
+      "generated": "How can I prevent someone from using my card after I misplaced it yesterday?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How do I get my cash withdrawal to show?",
+      "generated": "Why is my cash withdrawal pending and not showing up?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "What's go on, where is my new card?",
+      "generated": "What's taking so long? When can I expect my new card to arrive?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I was unable to transfer money from my account.",
+      "generated": "The transfer of funds from my account was unsuccessful."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need to order a new card.",
+      "generated": "I'd like to request a new physical card."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I don't want to use this method to identify myself.",
+      "generated": "I'm hesitant to confirm my identity through this process."
+    }
+  ]
+}

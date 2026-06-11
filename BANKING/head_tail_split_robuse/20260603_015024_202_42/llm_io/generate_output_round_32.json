@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "Can I access this service globally or internationally?",
+    "We accept a range of payment cards",
+    "Will my new card be functional in countries outside the European Union?",
+    "We're having trouble identifying this payment on your account.",
+    "Can I obtain a card that is widely accepted in various countries, including those in Africa and Indonesia?",
+    "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?",
+    "I've been waiting for a while and my physical card still hasn't arrived.",
+    "We're unable to identify a recognized card payment.",
+    "A supplementary fee has been added to your statement.",
+    "I'm having trouble retrieving my card from the ATM.",
+    "When can I expect the funds to be deposited into my account?",
+    "I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?",
+    "I was unexpectedly billed an additional amount in a recent transaction.",
+    "We accept a range of cards and currencies for transactions.",
+    "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?",
+    "You gave me less cash than I was supposed to get when I withdrew some money.",
+    "I'm having trouble completing a transfer and it's not going through as expected.",
+    "Can you please provide me with my top-up code?",
+    "You assured me there would be no charges, but I've been slapped with a fee. Can you explain this discrepancy?",
+    "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account.",
+    "Are U.S. citizens eligible to use this card?",
+    "I'm still seeing a pending charge of $1 on my account and I'd like to understand what it's for.",
+    "Is there an age restriction in place?",
+    "Can you please inform me about the payment methods you accept, specifically the cards you support?",
+    "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it.",
+    "I'm having trouble recalling a payment I made through the app.",
+    "Why did my recent transfer fail to process as expected?",
+    "My temporary virtual card was declined",
+    "A Bank ATM has retained my card. What should I do next?",
+    "How do I go about terminating a transfer I initiated earlier?",
+    "I require a replacement card because I accidentally swallowed my original one.",
+    "I'm not sure why I'm being charged an additional amount on my statement when I didn't make a purchase that warrants such a charge.",
+    "Where can I withdraw cash from an ATM or a bank branch?",
+    "Can you facilitate additional deposits?",
+    "I'm unable to locate a payment in my account records.",
+    "Can you accept payments by cheque or cash?",
+    "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?",
+    "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?",
+    "The ATM swallowed my card, and I want to know why it's holding onto it."
+  ],
+  "generated_labels": [
+    24,
+    54,
+    24,
+    16,
+    24,
+    35,
+    38,
+    16,
+    34,
+    18,
+    67,
+    35,
+    34,
+    54,
+    27,
+    75,
+    35,
+    71,
+    15,
+    34,
+    24,
+    34,
+    1,
+    54,
+    15,
+    16,
+    35,
+    72,
+    18,
+    8,
+    18,
+    34,
+    3,
+    61,
+    16,
+    58,
+    49,
+    59,
+    18
+  ],
+  "source_texts": [
+    "Can I use this all over the world?",
+    "What cards do you support",
+    "Will my new card work outside of the EU?",
+    "Why is this payment on my app",
+    "Can I get a card that works in other countries like Africa and Indonesia?",
+    "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+    "I've been waiting ages and my PIN hasn't gotten here.",
+    "Why is there an unknown card payment?",
+    "There is a charge for an additional pound.",
+    "I can't get my card out of the ATM",
+    "When will the money reach my  account?",
+    "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+    "I was charged $1 in a transaction.",
+    "Do you have a list of cards and currencies you support?",
+    "How can I find a way to transfer money without it being rejected?",
+    "You shorted me money when I tried to make a withdrawal.",
+    "I am trying to transfer money and something is going wrong.",
+    "Where's my top up code?",
+    "You promised no fees but now I've got one. What the hell!?",
+    "Why is it showing that my account has been charged a dollar that is showing as pending?",
+    "Is this card available to Americans?",
+    "I had a dollar charged to my account that's still pending and wanted to know what the charge is for?",
+    "Do you have a limit for someone's age?",
+    "Top up my card please, which y'all support?",
+    "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+    "Help! In the app there is a payment that I don't remember.",
+    "Can you tell my why my funds transfer did not work properly?",
+    "My disposable virtual card got rejected",
+    "A Bank ATM did not give my card back. What do I do now?",
+    "What are the steps I need to take to cancel a transaction?",
+    "I need a new card because the ATM took mine.",
+    "What am I being charged an extra pound when I haven't bought something worth that much?",
+    "What locations can I get money from?",
+    "Do you support top ups?",
+    "I do not recongize a payment in my account.",
+    "Do you take checks?",
+    "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+    "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+    "Why did the ATM take my card and keep it?"
+  ],
+  "records": [
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I use this all over the world?",
+      "generated": "Can I access this service globally or internationally?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What cards do you support",
+      "generated": "We accept a range of payment cards"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Will my new card work outside of the EU?",
+      "generated": "Will my new card be functional in countries outside the European Union?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is this payment on my app",
+      "generated": "We're having trouble identifying this payment on your account."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I get a card that works in other countries like Africa and Indonesia?",
+      "generated": "Can I obtain a card that is widely accepted in various countries, including those in Africa and Indonesia?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+      "generated": "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I've been waiting ages and my PIN hasn't gotten here.",
+      "generated": "I've been waiting for a while and my physical card still hasn't arrived."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is there an unknown card payment?",
+      "generated": "We're unable to identify a recognized card payment."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is a charge for an additional pound.",
+      "generated": "A supplementary fee has been added to your statement."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I can't get my card out of the ATM",
+      "generated": "I'm having trouble retrieving my card from the ATM."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will the money reach my  account?",
+      "generated": "When can I expect the funds to be deposited into my account?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+      "generated": "I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I was charged $1 in a transaction.",
+      "generated": "I was unexpectedly billed an additional amount in a recent transaction."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do you have a list of cards and currencies you support?",
+      "generated": "We accept a range of cards and currencies for transactions."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How can I find a way to transfer money without it being rejected?",
+      "generated": "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "You shorted me money when I tried to make a withdrawal.",
+      "generated": "You gave me less cash than I was supposed to get when I withdrew some money."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I am trying to transfer money and something is going wrong.",
+      "generated": "I'm having trouble completing a transfer and it's not going through as expected."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Where's my top up code?",
+      "generated": "Can you please provide me with my top-up code?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "You promised no fees but now I've got one. What the hell!?",
+      "generated": "You assured me there would be no charges, but I've been slapped with a fee. Can you explain this discrepancy?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is it showing that my account has been charged a dollar that is showing as pending?",
+      "generated": "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Is this card available to Americans?",
+      "generated": "Are U.S. citizens eligible to use this card?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I had a dollar charged to my account that's still pending and wanted to know what the charge is for?",
+      "generated": "I'm still seeing a pending charge of $1 on my account and I'd like to understand what it's for."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Do you have a limit for someone's age?",
+      "generated": "Is there an age restriction in place?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Top up my card please, which y'all support?",
+      "generated": "Can you please inform me about the payment methods you accept, specifically the cards you support?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+      "generated": "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Help! In the app there is a payment that I don't remember.",
+      "generated": "I'm having trouble recalling a payment I made through the app."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Can you tell my why my funds transfer did not work properly?",
+      "generated": "Why did my recent transfer fail to process as expected?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card got rejected",
+      "generated": "My temporary virtual card was declined"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "A Bank ATM did not give my card back. What do I do now?",
+      "generated": "A Bank ATM has retained my card. What should I do next?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "What are the steps I need to take to cancel a transaction?",
+      "generated": "How do I go about terminating a transfer I initiated earlier?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I need a new card because the ATM took mine.",
+      "generated": "I require a replacement card because I accidentally swallowed my original one."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What am I being charged an extra pound when I haven't bought something worth that much?",
+      "generated": "I'm not sure why I'm being charged an additional amount on my statement when I didn't make a purchase that warrants such a charge."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "What locations can I get money from?",
+      "generated": "Where can I withdraw cash from an ATM or a bank branch?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you support top ups?",
+      "generated": "Can you facilitate additional deposits?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recongize a payment in my account.",
+      "generated": "I'm unable to locate a payment in my account records."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Do you take checks?",
+      "generated": "Can you accept payments by cheque or cash?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+      "generated": "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+      "generated": "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "Why did the ATM take my card and keep it?",
+      "generated": "The ATM swallowed my card, and I want to know why it's holding onto it."
+    }
+  ]
+}

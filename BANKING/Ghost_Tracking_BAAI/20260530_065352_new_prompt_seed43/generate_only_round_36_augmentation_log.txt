@@ -1,0 +1,37 @@
+GEN | [pending_card_payment] | Orig: Why is their a charge pending on my card still? -> Aug: Why is there a pending payment on my credit card still?
+GEN | [cancel_transfer] | Orig: Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place. -> Aug: Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account.
+GEN | [cash_withdrawal_charge] | Orig: I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction? -> Aug: I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?
+GEN | [declined_cash_withdrawal] | Orig: Why am I unable to withdraw money even though in the past I've done it just fine? -> Aug: I'm having trouble withdrawing cash, but I've successfully done so previously. Can you help me understand why this is happening?
+GEN | [declined_cash_withdrawal] | Orig: Why can't I get cash out? -> Aug: Why was my cash withdrawal request denied?
+GEN | [verify_top_up] | Orig: Can you explain to me the way to verify my top up has gone through? -> Aug: Could you please guide me on the process of confirming that my top-up transaction has been successfully processed?
+GEN | [card_delivery_estimate] | Orig: I need my card right away. -> Aug: I require my card as soon as possible.
+GEN | [pending_cash_withdrawal] | Orig: How do I get my cash withdrawal to show? -> Aug: Why is my cash withdrawal pending and not showing up?
+GEN | [compromised_card] | Orig: Questionable transactions on my account. -> Aug: Suspicious activity detected on my account.
+GEN | [reverted_card_payment?] | Orig: I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here? -> Aug: I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?
+GEN | [cancel_transfer] | Orig: I don't need to transfer anymore and I want to cancel it. -> Aug: I'd like to stop the transfer process and cancel the transaction.
+GEN | [getting_spare_card] | Orig: What's the process to receive a second card? -> Aug: How do I obtain a replacement card?
+GEN | [verify_source_of_funds] | Orig: Can I see where my money is being transferred from? -> Aug: Can you confirm the origin of the funds being transferred to my account?
+GEN | [transfer_fee_charged] | Orig: I got an unexpected charge on my transfers. How can I correct this? -> Aug: I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: How long does a transfer from a UK account take? I just made one and it doesn't seem to be working, wondering if everything is okay -> Aug: I recently initiated a transfer from my UK account, but my account balance hasn't been updated yet. Can you please let me know what's causing the delay?
+GEN | [declined_transfer] | Orig: I think there has been a mistake with my transfer -> Aug: I believe there's been an error with the transfer I initiated
+GEN | [top_up_by_bank_transfer_charge] | Orig: To receive money are there charges? -> Aug: Are there any fees associated with receiving funds through bank transfer?
+GEN | [transaction_charged_twice] | Orig: My card was declined but it shows as multiple charges? -> Aug: I made a purchase, but it looks like I've been charged twice, even though my card was declined.
+GEN | [transfer_into_account] | Orig: What are the steps for  making a transfer for topping up? -> Aug: How do I initiate a transfer to add funds to an account?
+GEN | [declined_cash_withdrawal] | Orig: Please double check my card - withdrawal was working fine so far, but this morning on the way to work it suddenly got declined! -> Aug: Please verify your card information - I've been using it for cash withdrawals without issues, but this morning, it was declined unexpectedly.
+GEN | [card_payment_fee_charged] | Orig: Why did I have to pay extra because I paid with my card? -> Aug: Why was I charged an additional fee when I used my card to make the payment?
+GEN | [atm_support] | Orig: How many ATMs will take this card? -> Aug: How many cash machines accept this card?
+GEN | [declined_cash_withdrawal] | Orig: Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money. -> Aug: I'm having trouble withdrawing cash from the ATM and I'm certain I entered my PIN correctly. Can you assist me with this issue?
+GEN | [transfer_into_account] | Orig: I need more money in my account. Can I add more by transferring? -> Aug: I'd like to increase my account balance by transferring funds into my account.
+GEN | [beneficiary_not_allowed] | Orig: I am having trouble transferring money to a beneficiery. -> Aug: I'm having issues sending funds to a designated recipient.
+GEN | [card_acceptance] | Orig: Can I pay with my card anywhere? -> Aug: Can I use my card for purchases at any location?
+GEN | [reverted_card_payment?] | Orig: I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here? -> Aug: I'm trying to understand why the payment I made wasn't credited to the seller, as they're saying it didn't go through. Can you help me resolve this issue?
+GEN | [transaction_charged_twice] | Orig: I think I was charged double for something I bought - how long should I wait before reporting this? -> Aug: I believe I've been mistakenly billed twice for a purchase - what's the recommended timeframe for bringing this to your attention?
+GEN | [card_delivery_estimate] | Orig: I need my card soon. -> Aug: I require my card as soon as possible.
+GEN | [topping_up_by_card] | Orig: I need to transfer some money, can I use my credit card? -> Aug: I'd like to add funds to my account using my credit card.
+GEN | [unable_to_verify_identity] | Orig: i am under 18 and i am trying to verify my id. why wont it work? -> Aug: I'm a minor and I'm having trouble verifying my identification. Can you help me figure out why it's not working?
+GEN | [wrong_amount_of_cash_received] | Orig: The cash I asked for still hasn't been received -> Aug: The amount of cash I requested has not been delivered.
+GEN | [transfer_not_received_by_recipient] | Orig: Why is my transaction taking so long to complete? -> Aug: Why hasn't my transfer been received by the recipient yet?
+GEN | [getting_spare_card] | Orig: I'd like to order another card -> Aug: I'd like to request a replacement card
+GEN | [disposable_card_limits] | Orig: Can I do more than 10 transactions with a disposable card? -> Aug: How many transactions can I make with a disposable card before it's no longer valid?
+GEN | [card_swallowed] | Orig: I didn't get my card back from the ATM. -> Aug: I failed to retrieve my card from the ATM.
+GEN | [cancel_transfer] | Orig: I have arranged a transfer, but no longer need to send it. How do I stop the transfer? -> Aug: I've initiated a transfer, but I've changed my mind and would like to cancel it. Can you help me stop the transfer from going through?

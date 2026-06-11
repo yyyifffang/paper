@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "display the process for transferring funds into my account",
+    "If I already have a credit card account with your bank, how do I go about linking it to my profile?",
+    "Can I request a spare card in my daughter's name, which will be linked to my account?",
+    "When can I expect the funds to be credited to my account?",
+    "I'm having trouble completing a transfer to my friend's account. The transaction keeps getting declined, and I'm in a hurry to get the funds there. I've double-checked the account details, and everything seems to be accurate.",
+    "When can I expect the funds to be credited to my account?",
+    "Can you inform me if I'll be charged for requesting additional cards?",
+    "I'm having trouble entering my passcode, it's not recognizing it.",
+    "What steps can I take to verify the security settings on my card through the mobile app?",
+    "I'm having trouble logging in because I've forgotten my passcode.",
+    "I'd like to clarify that international transactions often come with additional fees. I recently used my card to buy something from abroad and was charged for the item, plus an extra fee. I wasn't aware of this extra charge and believe I should be refunded the unnecessary fee.",
+    "I urgently require access to an ATM.",
+    "I'm wondering if I was incorrectly charged a fee for a recent cash withdrawal, perhaps related to a recent purchase or transaction?",
+    "How much will I need to pay for a physical credit card?",
+    "How can I obtain a physical credit card?",
+    "I'd like to assign a spare card to a family member. Can I do that?",
+    "My cash withdrawal was declined at the ATM in Notting Hill, and I'm wondering if there's an issue with my card.",
+    "Can I transfer funds to specific accounts, or are there limitations in place?",
+    "I've misplaced my passcode",
+    "I haven't received my recent transfer.",
+    "I require my card as soon as possible.",
+    "How many spare cards can I have issued to me?",
+    "Are there any charges for making a top-up payment using my card in Europe?",
+    "What should I do if I already have an existing card linked with your bank?",
+    "I'm a parent with minors. Can they access this service?",
+    "What are the steps to connect a new payment card to my account?",
+    "I locked my account, but how do I get a new card issued?",
+    "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?",
+    "Can I set up recurring deposits to my account, so I can maintain a steady balance while I'm away on my trip?",
+    "Can I make an electronic transfer into my account using my American Express card?",
+    "I must have keyed in my PIN incorrectly.",
+    "Can you expedite the correction of a mistaken payment made to the wrong account yesterday, as it's crucial to rectify it by tomorrow for my rent payment?",
+    "I was prohibited from crediting my account",
+    "I'd like a physical credit card.",
+    "I've forgotten my passcode and can't access my account, what should I do to regain access?",
+    "I'm having trouble remembering my passcode and would appreciate some help figuring out why it's not accepting my attempts.",
+    "What's the reason for the fee deducted from my account for the recent transfer?"
+  ],
+  "generated_labels": [
+    65,
+    13,
+    39,
+    67,
+    35,
+    67,
+    39,
+    44,
+    14,
+    44,
+    64,
+    3,
+    19,
+    43,
+    43,
+    39,
+    26,
+    7,
+    44,
+    66,
+    12,
+    39,
+    57,
+    13,
+    1,
+    13,
+    22,
+    64,
+    4,
+    54,
+    49,
+    8,
+    7,
+    43,
+    44,
+    44,
+    64
+  ],
+  "source_texts": [
+    "show me how to transfer to my account",
+    "If I have a credit card with you how I get set up to link to it?",
+    "Can my daughter also have a card issued in her name, but linked to my account?",
+    "What are the time frames for the money to be available in my account?",
+    "Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct.",
+    "When will the money be made available in my account?",
+    "Please tell me if I'm going to be charged for sending out more cards?",
+    "My passcode is not being accepted",
+    "How do I check security settings using the app?",
+    "I can't access my account.",
+    "Next time maybe let people know that buying things from another country costs extra. I used my card to purchase an item from another country and I was charged for the item and also an extra fee it looks like. I wasnt aware of this and I think I should get a refund.",
+    "I need an ATM right now!",
+    "I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now?",
+    "What do I owe for a new card?",
+    "what steps do i do to get a real card",
+    "I would like to use one of my cards for a family member. Is that allowed?",
+    "My card didn't work at the ATM in Notting Hill.  Is my card working?",
+    "Are there restrictions to transfers to certain accounts?",
+    "I forgot my code",
+    "Where is my last money transaction",
+    "I need my card immediately.",
+    "What's the limit on total number of cards I can have?",
+    "Are there still fees for european top-ups?",
+    "What do I do if I already had a card with you guys?",
+    "I have young kids. Can they use this service?",
+    "How do I link a new payment card?",
+    "I froze my account, but how do I order a replacement card?",
+    "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+    "Can I add money in intervals to my account?  I will be traveling.",
+    "Can I electronically transfer funds into my account from my American Express?",
+    "I must have entered my PIN wrong.",
+    "How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+    "I wasn't allowed to transfer to my account",
+    "I want a real card",
+    "I'm locked out of my account as I can't remember my code, what do I do now?",
+    "I would like to better understand why my pass-code is not working.",
+    "Why was money taken for a transfer?"
+  ],
+  "records": [
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "show me how to transfer to my account",
+      "generated": "display the process for transferring funds into my account"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "If I have a credit card with you how I get set up to link to it?",
+      "generated": "If I already have a credit card account with your bank, how do I go about linking it to my profile?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can my daughter also have a card issued in her name, but linked to my account?",
+      "generated": "Can I request a spare card in my daughter's name, which will be linked to my account?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "What are the time frames for the money to be available in my account?",
+      "generated": "When can I expect the funds to be credited to my account?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct.",
+      "generated": "I'm having trouble completing a transfer to my friend's account. The transaction keeps getting declined, and I'm in a hurry to get the funds there. I've double-checked the account details, and everything seems to be accurate."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will the money be made available in my account?",
+      "generated": "When can I expect the funds to be credited to my account?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Please tell me if I'm going to be charged for sending out more cards?",
+      "generated": "Can you inform me if I'll be charged for requesting additional cards?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "My passcode is not being accepted",
+      "generated": "I'm having trouble entering my passcode, it's not recognizing it."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I check security settings using the app?",
+      "generated": "What steps can I take to verify the security settings on my card through the mobile app?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't access my account.",
+      "generated": "I'm having trouble logging in because I've forgotten my passcode."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Next time maybe let people know that buying things from another country costs extra. I used my card to purchase an item from another country and I was charged for the item and also an extra fee it looks like. I wasnt aware of this and I think I should get a refund.",
+      "generated": "I'd like to clarify that international transactions often come with additional fees. I recently used my card to buy something from abroad and was charged for the item, plus an extra fee. I wasn't aware of this extra charge and believe I should be refunded the unnecessary fee."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need an ATM right now!",
+      "generated": "I urgently require access to an ATM."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now?",
+      "generated": "I'm wondering if I was incorrectly charged a fee for a recent cash withdrawal, perhaps related to a recent purchase or transaction?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What do I owe for a new card?",
+      "generated": "How much will I need to pay for a physical credit card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "what steps do i do to get a real card",
+      "generated": "How can I obtain a physical credit card?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I would like to use one of my cards for a family member. Is that allowed?",
+      "generated": "I'd like to assign a spare card to a family member. Can I do that?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "My card didn't work at the ATM in Notting Hill.  Is my card working?",
+      "generated": "My cash withdrawal was declined at the ATM in Notting Hill, and I'm wondering if there's an issue with my card."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Are there restrictions to transfers to certain accounts?",
+      "generated": "Can I transfer funds to specific accounts, or are there limitations in place?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I forgot my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Where is my last money transaction",
+      "generated": "I haven't received my recent transfer."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card immediately.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "What's the limit on total number of cards I can have?",
+      "generated": "How many spare cards can I have issued to me?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are there still fees for european top-ups?",
+      "generated": "Are there any charges for making a top-up payment using my card in Europe?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "What do I do if I already had a card with you guys?",
+      "generated": "What should I do if I already have an existing card linked with your bank?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "I have young kids. Can they use this service?",
+      "generated": "I'm a parent with minors. Can they access this service?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "How do I link a new payment card?",
+      "generated": "What are the steps to connect a new payment card to my account?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I froze my account, but how do I order a replacement card?",
+      "generated": "I locked my account, but how do I get a new card issued?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+      "generated": "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money in intervals to my account?  I will be traveling.",
+      "generated": "Can I set up recurring deposits to my account, so I can maintain a steady balance while I'm away on my trip?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can I electronically transfer funds into my account from my American Express?",
+      "generated": "Can I make an electronic transfer into my account using my American Express card?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I must have entered my PIN wrong.",
+      "generated": "I must have keyed in my PIN incorrectly."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+      "generated": "Can you expedite the correction of a mistaken payment made to the wrong account yesterday, as it's crucial to rectify it by tomorrow for my rent payment?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I wasn't allowed to transfer to my account",
+      "generated": "I was prohibited from crediting my account"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I want a real card",
+      "generated": "I'd like a physical credit card."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I'm locked out of my account as I can't remember my code, what do I do now?",
+      "generated": "I've forgotten my passcode and can't access my account, what should I do to regain access?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I would like to better understand why my pass-code is not working.",
+      "generated": "I'm having trouble remembering my passcode and would appreciate some help figuring out why it's not accepting my attempts."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Why was money taken for a transfer?",
+      "generated": "What's the reason for the fee deducted from my account for the recent transfer?"
+    }
+  ]
+}

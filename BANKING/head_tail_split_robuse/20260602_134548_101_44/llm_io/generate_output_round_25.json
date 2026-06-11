@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges.",
+    "A supplementary fee has been added to your statement.",
+    "I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?",
+    "What steps does your app take to move funds into another account?",
+    "Which countries do your accounts support international transactions to and from?",
+    "The amount of cash I received is not what I was expecting.",
+    "I had my phone stolen and I'm wondering if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account.",
+    "Will my new card be functional in countries outside the European Union?",
+    "Can you assist me in locating the recent transfer I made?",
+    "What restrictions are in place for the disposable cards?",
+    "Is my credit card being rejected anywhere?",
+    "The recipient of my money transfer is unable to view the transaction.",
+    "Can you confirm if my top-up was unsuccessful? It appears it didn't go through.",
+    "I'd like to request a reversal of this fee from my account.",
+    "I was unexpectedly billed an additional amount in a recent transaction.",
+    "Are there any additional fees associated with exchanging funds?",
+    "I'd like to order a physical card.",
+    "A fee has been added to your statement.",
+    "I'm still waiting for my new card to arrive.",
+    "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?",
+    "Can I request a replacement card for my daughter's account?",
+    "What is the fee for receiving funds via bank transfer?",
+    "I was charged a fee for withdrawing cash.",
+    "Please dispatch a replacement card; I think I've lost the one I had, as it seems to have been swallowed by the ATM.",
+    "Is my card still active? It's not functioning properly.",
+    "Please provide me with a temporary virtual credit card.",
+    "We've never processed a payment from that merchant before. This transaction appears to be unauthorized.",
+    "I'm having trouble accessing my virtual prepaid card",
+    "If I already have a credit card account with your bank, how do I go about linking it to my profile?",
+    "What charges do I need to pay when I process a payment?",
+    "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?",
+    "Can you assist me in locating my card?",
+    "Can you dispatch the physical card to me?",
+    "Despite not being based in the UK, can I still obtain a card?",
+    "We're having trouble verifying your identity through our system.",
+    "How many spare cards can I have issued to me?",
+    "I'm unable to verify the card payment.",
+    "Can you accept my credit card, as it's the only one I have?"
+  ],
+  "generated_labels": [
+    16,
+    34,
+    26,
+    65,
+    24,
+    75,
+    42,
+    24,
+    5,
+    29,
+    10,
+    66,
+    59,
+    52,
+    34,
+    31,
+    43,
+    34,
+    11,
+    64,
+    39,
+    56,
+    19,
+    18,
+    14,
+    37,
+    16,
+    72,
+    13,
+    15,
+    6,
+    11,
+    43,
+    24,
+    68,
+    39,
+    16,
+    54
+  ],
+  "source_texts": [
+    "I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?",
+    "There is a charge for an additional pound.",
+    "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+    "How does your app transfer the money",
+    "What countries do your accounts send and receive to?",
+    "My cash received does not match what has been requested",
+    "I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user?",
+    "Will my new card work outside of the EU?",
+    "Help me find the transfer that I did.",
+    "What limits are there on the virtual cards?",
+    "Is my card denied anywhere?",
+    "Why can't the recepient of my money transaction see it?",
+    "Can I tell if my top off didn't work?  It doesn't seem to have.",
+    "I want this fee reversed from my account.",
+    "I was charged $1 in a transaction.",
+    "Do exchanges cost more?",
+    "I would like a card please.",
+    "$1 charge in transaction.",
+    "I was expecting my new card by now.",
+    "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+    "My daughter need a card from this account. Is that possible?",
+    "How much is it to receive money?",
+    "I was charged for getting cash.",
+    "Please send a new card; the ATM ate mine.",
+    "Did you deactivate my card it's not working anymore",
+    "Please send me a disposable virtual card.",
+    "I've never been to that store.  That's a fraudulent charge.",
+    "I can't use my virtual disposable card",
+    "If I have a credit card with you how I get set up to link to it?",
+    "What are the fees imposed when I make a transaction?",
+    "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+    "Can you help me track my card?",
+    "Can you send me the actual card?",
+    "Although I am not located in the UK area, may i still receive a card?",
+    "I am not recognized by the app.",
+    "What's the limit on total number of cards I can have?",
+    "I do not recognise the card payment.",
+    "Will you accept my credit card, it my only one."
+  ],
+  "records": [
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?",
+      "generated": "I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is a charge for an additional pound.",
+      "generated": "A supplementary fee has been added to your statement."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+      "generated": "I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "How does your app transfer the money",
+      "generated": "What steps does your app take to move funds into another account?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "What countries do your accounts send and receive to?",
+      "generated": "Which countries do your accounts support international transactions to and from?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "My cash received does not match what has been requested",
+      "generated": "The amount of cash I received is not what I was expecting."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user?",
+      "generated": "I had my phone stolen and I'm wondering if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Will my new card work outside of the EU?",
+      "generated": "Will my new card be functional in countries outside the European Union?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Help me find the transfer that I did.",
+      "generated": "Can you assist me in locating the recent transfer I made?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "What limits are there on the virtual cards?",
+      "generated": "What restrictions are in place for the disposable cards?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is my card denied anywhere?",
+      "generated": "Is my credit card being rejected anywhere?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why can't the recepient of my money transaction see it?",
+      "generated": "The recipient of my money transfer is unable to view the transaction."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Can I tell if my top off didn't work?  It doesn't seem to have.",
+      "generated": "Can you confirm if my top-up was unsuccessful? It appears it didn't go through."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I want this fee reversed from my account.",
+      "generated": "I'd like to request a reversal of this fee from my account."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I was charged $1 in a transaction.",
+      "generated": "I was unexpectedly billed an additional amount in a recent transaction."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do exchanges cost more?",
+      "generated": "Are there any additional fees associated with exchanging funds?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I would like a card please.",
+      "generated": "I'd like to order a physical card."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "$1 charge in transaction.",
+      "generated": "A fee has been added to your statement."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I was expecting my new card by now.",
+      "generated": "I'm still waiting for my new card to arrive."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+      "generated": "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "My daughter need a card from this account. Is that possible?",
+      "generated": "Can I request a replacement card for my daughter's account?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much is it to receive money?",
+      "generated": "What is the fee for receiving funds via bank transfer?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I was charged for getting cash.",
+      "generated": "I was charged a fee for withdrawing cash."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "Please send a new card; the ATM ate mine.",
+      "generated": "Please dispatch a replacement card; I think I've lost the one I had, as it seems to have been swallowed by the ATM."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Did you deactivate my card it's not working anymore",
+      "generated": "Is my card still active? It's not functioning properly."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Please send me a disposable virtual card.",
+      "generated": "Please provide me with a temporary virtual credit card."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I've never been to that store.  That's a fraudulent charge.",
+      "generated": "We've never processed a payment from that merchant before. This transaction appears to be unauthorized."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't use my virtual disposable card",
+      "generated": "I'm having trouble accessing my virtual prepaid card"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "If I have a credit card with you how I get set up to link to it?",
+      "generated": "If I already have a credit card account with your bank, how do I go about linking it to my profile?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "What are the fees imposed when I make a transaction?",
+      "generated": "What charges do I need to pay when I process a payment?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+      "generated": "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Can you help me track my card?",
+      "generated": "Can you assist me in locating my card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can you send me the actual card?",
+      "generated": "Can you dispatch the physical card to me?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Although I am not located in the UK area, may i still receive a card?",
+      "generated": "Despite not being based in the UK, can I still obtain a card?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I am not recognized by the app.",
+      "generated": "We're having trouble verifying your identity through our system."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "What's the limit on total number of cards I can have?",
+      "generated": "How many spare cards can I have issued to me?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recognise the card payment.",
+      "generated": "I'm unable to verify the card payment."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Will you accept my credit card, it my only one.",
+      "generated": "Can you accept my credit card, as it's the only one I have?"
+    }
+  ]
+}

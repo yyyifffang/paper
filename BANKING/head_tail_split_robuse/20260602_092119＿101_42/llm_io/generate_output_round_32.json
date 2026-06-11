@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "Has my new card been dispatched already?",
+    "I was informed by a merchant that they didn't receive the payment, despite the fact that it was deducted from my account. The funds have since been reversed and credited back to my account. Can you look into this matter urgently?",
+    "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.",
+    "I'm trying to retrieve the cash I didn't receive from the ATM transaction.",
+    "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it.",
+    "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?",
+    "Can I use a transfer to receive the funds I'm expecting?",
+    "how can I proceed with a cash deposit or cheque top-up?",
+    "Are there any fees associated with exchanging foreign currency for local currency?",
+    "Why hasn't my top-up request been processed successfully?",
+    "Why did my recent transfer fail to process as expected?",
+    "I'd like to transfer funds from a foreign account to this account.",
+    "my account shows a lower balance than I expected",
+    "Will I get the full amount credited to my account when I top up by bank transfer charge?",
+    "I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?",
+    "Will I be charged a fee when I receive funds through bank transfer?",
+    "I'm unable to locate the recent card top-up in my digital wallet.",
+    "How long does it take for a cheque to clear before I can use it to top up my account?",
+    "I'd like to cancel my account due to dissatisfaction with your services.",
+    "You can find information on how to top up your account by cash or cheque.",
+    "You can top up your account by cash or cheque at any of our bank branches or authorized outlets.",
+    "Can I initiate a bank transfer to top up my account with you?",
+    "can I recharge my account using a card charge instead?",
+    "Reasons for reversal of top-up transaction.",
+    "When can I expect the funds to be deposited into my account?",
+    "I've already deposited the cash, yet my account remains pending. Why is my account still showing a pending status?",
+    "the amount I received from my ATM transaction was incorrect",
+    "Can you facilitate additional deposits?",
+    "What's going on with this transfer? It's not processing as expected.",
+    "This direct debit payment is not recognized as my transaction. How can I retrieve my funds?",
+    "I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?",
+    "can you assist me in completing my transfer?",
+    "When will the funds be returned to my account after a failed top-up attempt?",
+    "I recently made a deposit, but it seems to have been reversed. Can you help me understand why this happened?",
+    "I'm trying to understand why the payment I made wasn't credited to the seller, as they're saying it didn't go through. Can you help me resolve this issue?",
+    "I require my card as soon as possible.",
+    "How can I initiate an automatic top-up process?",
+    "May I request information about the verification process for your identity?",
+    "I initiated a transfer, but the recipient only received a reduced amount, which means I need to make an additional transfer to cover the shortfall. Can you assist me with this issue?"
+  ],
+  "generated_labels": [
+    11,
+    53,
+    20,
+    75,
+    15,
+    66,
+    50,
+    58,
+    31,
+    47,
+    35,
+    65,
+    75,
+    56,
+    28,
+    56,
+    62,
+    58,
+    55,
+    58,
+    58,
+    56,
+    57,
+    61,
+    67,
+    46,
+    75,
+    61,
+    35,
+    28,
+    20,
+    35,
+    47,
+    61,
+    53,
+    12,
+    4,
+    69,
+    64
+  ],
+  "source_texts": [
+    "Have you sent out my card yet?",
+    "I received a message from a seller stating they hadn't received my money even though it definitely came out of my account. The money has now been deposited back into my account. Please get this resolved as soon as possible.",
+    "I did not get the cash that is showing up in my app.",
+    "How can I get my money that I didn't get from the ATM?",
+    "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+    "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+    "Can I use a transfer to receive my transfer?",
+    "how do i find top up for cash deposit",
+    "Is there any cost to change foreign money to local?",
+    "Is there a problem with the top up system? My transaction hasn't gone through properly",
+    "Can you tell my why my funds transfer did not work properly?",
+    "I have money in a foreign account that I want to send to this account.",
+    "my cash balance less than what I thought",
+    "Will I receive all the money sent to my account by SEPA transfer?",
+    "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+    "Do I get charged if I am receiving money?",
+    "I can't see my top up in my wallet!",
+    "How long before a check I send clears?",
+    "I would like to invalidate my account.  I am very disappointed with your services.",
+    "Where do I look for cash top up?",
+    "If I need to top up with cash where should I look?",
+    "Am I able to do a SWIFT transfer with you?",
+    "should i add money via bank transfer instead",
+    "Reasons for top up cancellation.",
+    "When will the money reach my  account?",
+    "I have the cash already, my account still shows up as pending.  How can my account be still pending?",
+    "my atm transaction was wrong",
+    "Do you support top ups?",
+    "How is this transfer supposed to work? It's not working for me.",
+    "This debit is not my transcation. How do I get my money out back?",
+    "I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?",
+    "please help my transfer go through",
+    "How long after a failed topup will funds refurn to account",
+    "I put some money in my account the other day but now its gone? Why is this?",
+    "I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here?",
+    "I need my card right away.",
+    "How do I access the option to top up?",
+    "Can I get information on the identity checks?",
+    "I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done"
+  ],
+  "records": [
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Have you sent out my card yet?",
+      "generated": "Has my new card been dispatched already?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I received a message from a seller stating they hadn't received my money even though it definitely came out of my account. The money has now been deposited back into my account. Please get this resolved as soon as possible.",
+      "generated": "I was informed by a merchant that they didn't receive the payment, despite the fact that it was deducted from my account. The funds have since been reversed and credited back to my account. Can you look into this matter urgently?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I did not get the cash that is showing up in my app.",
+      "generated": "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "How can I get my money that I didn't get from the ATM?",
+      "generated": "I'm trying to retrieve the cash I didn't receive from the ATM transaction."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+      "generated": "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+      "generated": "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I use a transfer to receive my transfer?",
+      "generated": "Can I use a transfer to receive the funds I'm expecting?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how do i find top up for cash deposit",
+      "generated": "how can I proceed with a cash deposit or cheque top-up?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Is there any cost to change foreign money to local?",
+      "generated": "Are there any fees associated with exchanging foreign currency for local currency?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Is there a problem with the top up system? My transaction hasn't gone through properly",
+      "generated": "Why hasn't my top-up request been processed successfully?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Can you tell my why my funds transfer did not work properly?",
+      "generated": "Why did my recent transfer fail to process as expected?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I have money in a foreign account that I want to send to this account.",
+      "generated": "I'd like to transfer funds from a foreign account to this account."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "my cash balance less than what I thought",
+      "generated": "my account shows a lower balance than I expected"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will I receive all the money sent to my account by SEPA transfer?",
+      "generated": "Will I get the full amount credited to my account when I top up by bank transfer charge?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+      "generated": "I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do I get charged if I am receiving money?",
+      "generated": "Will I be charged a fee when I receive funds through bank transfer?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I can't see my top up in my wallet!",
+      "generated": "I'm unable to locate the recent card top-up in my digital wallet."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How long before a check I send clears?",
+      "generated": "How long does it take for a cheque to clear before I can use it to top up my account?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I would like to invalidate my account.  I am very disappointed with your services.",
+      "generated": "I'd like to cancel my account due to dissatisfaction with your services."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Where do I look for cash top up?",
+      "generated": "You can find information on how to top up your account by cash or cheque."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "If I need to top up with cash where should I look?",
+      "generated": "You can top up your account by cash or cheque at any of our bank branches or authorized outlets."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I able to do a SWIFT transfer with you?",
+      "generated": "Can I initiate a bank transfer to top up my account with you?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "should i add money via bank transfer instead",
+      "generated": "can I recharge my account using a card charge instead?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Reasons for top up cancellation.",
+      "generated": "Reasons for reversal of top-up transaction."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will the money reach my  account?",
+      "generated": "When can I expect the funds to be deposited into my account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I have the cash already, my account still shows up as pending.  How can my account be still pending?",
+      "generated": "I've already deposited the cash, yet my account remains pending. Why is my account still showing a pending status?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "my atm transaction was wrong",
+      "generated": "the amount I received from my ATM transaction was incorrect"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you support top ups?",
+      "generated": "Can you facilitate additional deposits?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "How is this transfer supposed to work? It's not working for me.",
+      "generated": "What's going on with this transfer? It's not processing as expected."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "This debit is not my transcation. How do I get my money out back?",
+      "generated": "This direct debit payment is not recognized as my transaction. How can I retrieve my funds?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?",
+      "generated": "I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "please help my transfer go through",
+      "generated": "can you assist me in completing my transfer?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "How long after a failed topup will funds refurn to account",
+      "generated": "When will the funds be returned to my account after a failed top-up attempt?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I put some money in my account the other day but now its gone? Why is this?",
+      "generated": "I recently made a deposit, but it seems to have been reversed. Can you help me understand why this happened?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here?",
+      "generated": "I'm trying to understand why the payment I made wasn't credited to the seller, as they're saying it didn't go through. Can you help me resolve this issue?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card right away.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How do I access the option to top up?",
+      "generated": "How can I initiate an automatic top-up process?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Can I get information on the identity checks?",
+      "generated": "May I request information about the verification process for your identity?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done",
+      "generated": "I initiated a transfer, but the recipient only received a reduced amount, which means I need to make an additional transfer to cover the shortfall. Can you assist me with this issue?"
+    }
+  ]
+}

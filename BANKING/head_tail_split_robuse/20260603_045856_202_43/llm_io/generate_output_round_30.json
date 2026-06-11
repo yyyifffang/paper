@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "When can I expect the pending cash withdrawal to be processed?",
+    "We'd like to confirm the origin of your funds to ensure the transaction is legitimate and compliant with our banking regulations.",
+    "I'm frustrated because my recently issued card was repeatedly declined when I tried to use it. Can you please explain why this is happening and what steps I can take to resolve the issue and avoid future declines?",
+    "I'm having trouble adding funds using Apple Pay, can you help me figure out why it's not working?",
+    "Can I make a digital payment or is it possible to use cash to top up my account?",
+    "How long does it typically take to process a pending cash withdrawal request?",
+    "I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?",
+    "how do i configure my apple pay-enabled smartwatch to link to my account?",
+    "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.",
+    "how do i configure my apple pay",
+    "I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?",
+    "Can you deliver your physical cards to any location?",
+    "I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?",
+    "Can I use my Apple Watch to replenish my account balance?",
+    "can I recharge my account using a card charge instead?",
+    "I was charged a fee for withdrawing cash.",
+    "It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement.",
+    "Can you help me identify the source of my available funds?",
+    "Can I use a bank transfer to top up my account?",
+    "Can I use a transfer to receive the funds I'm expecting?",
+    "Where can I locate the identity verification process?",
+    "How can I confirm the origin of my funds?",
+    "Why was my cash withdrawal request denied?",
+    "May I request a physical version of my digital card?",
+    "I've checked my account and noticed a pending transaction that I didn't complete. The ATM declined my card when I tried to make the withdrawal, and I'm concerned that the transaction might still be processed. Can you cancel it since I didn't receive the cash?",
+    "Hello, I have a pending cash withdrawal in my account due to an ATM machine malfunction. If the transaction is processed, how long will it take to receive my funds?",
+    "I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction.",
+    "Where can I use my card?",
+    "Why was my cash withdrawal declined at the ATM?",
+    "Why was I charged a fee for withdrawing cash?",
+    "What are the charges for a standard physical card?",
+    "How many cash machines accept this card?",
+    "Are there any fees associated with exchanging foreign currency for local currency?",
+    "I'm curious about the reason behind the failed transfer.",
+    "how can I charge my card to add funds?",
+    "Why isn't my Apple Pay account functioning properly?",
+    "my account shows a lower balance than I expected"
+  ],
+  "generated_labels": [
+    46,
+    70,
+    25,
+    2,
+    58,
+    46,
+    20,
+    2,
+    46,
+    2,
+    20,
+    43,
+    19,
+    2,
+    57,
+    19,
+    51,
+    70,
+    56,
+    50,
+    69,
+    70,
+    26,
+    43,
+    46,
+    46,
+    76,
+    10,
+    26,
+    19,
+    43,
+    3,
+    31,
+    27,
+    57,
+    2,
+    75
+  ],
+  "source_texts": [
+    "Do you know when the withdrawal will show?",
+    "Why do I need to verify my funds?",
+    "I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?",
+    "i have been trying to add money with apple pay but it wont work, why?",
+    "Can I only top-up digitally? Or could I use cash?",
+    "How long does it take to verify a cash withdraw?",
+    "I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?",
+    "how do i set up my apple pay watch to connect to my account",
+    "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+    "how do i setup my apple pay",
+    "I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out?",
+    "Do you ship your cards anywhere?",
+    "I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?",
+    "Does Apple Watch support the topping-off of my account?",
+    "should i add money via bank transfer instead",
+    "I was charged for getting cash.",
+    "It's been more than a week since I had a return charged to my card, why hasn't it showed up?",
+    "How can I look at where my available cash is coming from?",
+    "Are SWIFT transfers supported?",
+    "Can I use a transfer to receive my transfer?",
+    "How and where can I find the identity checks?",
+    "What do I need to do to verify my funds?",
+    "Why can't I get cash out?",
+    "Can I have a tangible form of my virtual card.",
+    "Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money.",
+    "Hello, I have a pending transaction in my account due to an ATM machine that wasn't working. In any case if the transaction goes through, after how long can I get my money back?",
+    "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.",
+    "How do I know where I can use my card?",
+    "Why did the ATM cancel my transaction",
+    "Why did I get charged when getting cash?",
+    "What fees do you charge for the standard card?",
+    "How many ATMs will take this card?",
+    "Is there any cost to change foreign money to local?",
+    "I wanted to know why my transaction didn't go through.",
+    "how should i add money to my card",
+    "Can you explain why my Google Pay Top isn't working?",
+    "my cash balance less than what I thought"
+  ],
+  "records": [
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Do you know when the withdrawal will show?",
+      "generated": "When can I expect the pending cash withdrawal to be processed?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Why do I need to verify my funds?",
+      "generated": "We'd like to confirm the origin of your funds to ensure the transaction is legitimate and compliant with our banking regulations."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?",
+      "generated": "I'm frustrated because my recently issued card was repeatedly declined when I tried to use it. Can you please explain why this is happening and what steps I can take to resolve the issue and avoid future declines?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "i have been trying to add money with apple pay but it wont work, why?",
+      "generated": "I'm having trouble adding funds using Apple Pay, can you help me figure out why it's not working?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I only top-up digitally? Or could I use cash?",
+      "generated": "Can I make a digital payment or is it possible to use cash to top up my account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How long does it take to verify a cash withdraw?",
+      "generated": "How long does it typically take to process a pending cash withdrawal request?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?",
+      "generated": "I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "how do i set up my apple pay watch to connect to my account",
+      "generated": "how do i configure my apple pay-enabled smartwatch to link to my account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+      "generated": "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "how do i setup my apple pay",
+      "generated": "how do i configure my apple pay"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out?",
+      "generated": "I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do you ship your cards anywhere?",
+      "generated": "Can you deliver your physical cards to any location?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?",
+      "generated": "I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Does Apple Watch support the topping-off of my account?",
+      "generated": "Can I use my Apple Watch to replenish my account balance?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "should i add money via bank transfer instead",
+      "generated": "can I recharge my account using a card charge instead?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I was charged for getting cash.",
+      "generated": "I was charged a fee for withdrawing cash."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "It's been more than a week since I had a return charged to my card, why hasn't it showed up?",
+      "generated": "It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I look at where my available cash is coming from?",
+      "generated": "Can you help me identify the source of my available funds?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT transfers supported?",
+      "generated": "Can I use a bank transfer to top up my account?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I use a transfer to receive my transfer?",
+      "generated": "Can I use a transfer to receive the funds I'm expecting?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How and where can I find the identity checks?",
+      "generated": "Where can I locate the identity verification process?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What do I need to do to verify my funds?",
+      "generated": "How can I confirm the origin of my funds?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I get cash out?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can I have a tangible form of my virtual card.",
+      "generated": "May I request a physical version of my digital card?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money.",
+      "generated": "I've checked my account and noticed a pending transaction that I didn't complete. The ATM declined my card when I tried to make the withdrawal, and I'm concerned that the transaction might still be processed. Can you cancel it since I didn't receive the cash?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hello, I have a pending transaction in my account due to an ATM machine that wasn't working. In any case if the transaction goes through, after how long can I get my money back?",
+      "generated": "Hello, I have a pending cash withdrawal in my account due to an ATM machine malfunction. If the transaction is processed, how long will it take to receive my funds?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.",
+      "generated": "I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "How do I know where I can use my card?",
+      "generated": "Where can I use my card?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why did the ATM cancel my transaction",
+      "generated": "Why was my cash withdrawal declined at the ATM?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Why did I get charged when getting cash?",
+      "generated": "Why was I charged a fee for withdrawing cash?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What fees do you charge for the standard card?",
+      "generated": "What are the charges for a standard physical card?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How many ATMs will take this card?",
+      "generated": "How many cash machines accept this card?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Is there any cost to change foreign money to local?",
+      "generated": "Are there any fees associated with exchanging foreign currency for local currency?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I wanted to know why my transaction didn't go through.",
+      "generated": "I'm curious about the reason behind the failed transfer."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how should i add money to my card",
+      "generated": "how can I charge my card to add funds?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can you explain why my Google Pay Top isn't working?",
+      "generated": "Why isn't my Apple Pay account functioning properly?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "my cash balance less than what I thought",
+      "generated": "my account shows a lower balance than I expected"
+    }
+  ]
+}

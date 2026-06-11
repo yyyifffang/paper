@@ -1,0 +1,36 @@
+GEN | [direct_debit_payment_not_recognised] | Orig: I need to cancel a transaction on my debit card. -> Aug: I'm trying to stop a direct debit payment that was made from my account.
+GEN | [visa_or_mastercard] | Orig: I want to get a Visa -> Aug: I'd like to obtain a Mastercard
+GEN | [cash_withdrawal_not_recognised] | Orig: THere is some cash that is showing up on my app. -> Aug: There's an unexpected cash amount appearing on my account.
+GEN | [transfer_not_received_by_recipient] | Orig: i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer. -> Aug: I've been waiting for two days for a transfer to be credited to a retailer's account, and I'm starting to worry that it might take even longer.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: where is my money from this morning -> Aug: why hasn't my account balance been updated after the deposit I made this morning?
+GEN | [card_arrival] | Orig: Is my new bank card on the way and is there a way to track it? -> Aug: Has my new bank card been dispatched, and can I monitor its delivery status?
+GEN | [verify_my_identity] | Orig: Can I get a full list of instructions for identity checks? -> Aug: Could you please provide me with a comprehensive guide on how to verify my identity?
+GEN | [get_physical_card] | Orig: Explain the card PIN to me. -> Aug: Can you tell me more about the physical card's PIN security feature?
+GEN | [cash_withdrawal_charge] | Orig: I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud? -> Aug: I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?
+GEN | [unable_to_verify_identity] | Orig: The app does not know it is me. -> Aug: The system is unable to confirm your identity.
+GEN | [card_arrival] | Orig: I was expecting my new card by now. -> Aug: I'm still waiting for my new card to arrive.
+GEN | [receiving_money] | Orig: how do i find out about transfers -> Aug: how can I learn about incoming transactions?
+GEN | [pending_card_payment] | Orig: I am waiting for a payment to be processed -> Aug: I am expecting a payment to be cleared
+GEN | [transfer_timing] | Orig: How long do I have to wait for Europe transfers? -> Aug: What is the typical timeframe for international transfers to Europe?
+GEN | [fiat_currency_support] | Orig: What kind of money can I hold? -> Aug: What types of fiat currencies can I store in my account?
+GEN | [unable_to_verify_identity] | Orig: I am not recognized by the app. -> Aug: We're having trouble verifying your identity through our system.
+GEN | [supported_cards_and_currencies] | Orig: I only have a card from the US is that okay? -> Aug: I'm wondering if it's acceptable to use a US-issued card?
+GEN | [pending_transfer] | Orig: As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far. -> Aug: Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time.
+GEN | [pending_card_payment] | Orig: I purchases several items today. Why are they still showing pending? -> Aug: I made a purchase recently, but the payment is still pending. Can you help me understand why it's not showing as processed yet?
+GEN | [direct_debit_payment_not_recognised] | Orig: Why is there a direct debit set up in my name? -> Aug: We've noticed a direct debit payment that doesn't seem to be recognized in your account records.
+GEN | [order_physical_card] | Orig: IS there anywhere that a card cannot be delivered? -> Aug: Are there any specific locations or areas where a physical card cannot be delivered?
+GEN | [lost_or_stolen_phone] | Orig: I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user? -> Aug: I had my phone stolen and I'm wondering if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account.
+GEN | [exchange_rate] | Orig: If I need to cash foreign transfers, how does that work? -> Aug: What's the process for exchanging foreign currencies for cash transfers?
+GEN | [topping_up_by_card] | Orig: My top up isn't in my wallet. -> Aug: My card balance isn't showing the recent top-up.
+GEN | [direct_debit_payment_not_recognised] | Orig: I have an unknown charge. -> Aug: We've detected an unfamiliar payment.
+GEN | [pending_transfer] | Orig: When will the transaction post to my account? -> Aug: When will the transfer be processed and reflected in my account balance?
+GEN | [request_refund] | Orig: Canceling my order is what I need to do right now. -> Aug: I'd like to terminate my recent purchase and initiate a refund process.
+GEN | [pending_card_payment] | Orig: I don't know what pending transaction means. -> Aug: I'm not sure what's meant by the outstanding payment.
+GEN | [activate_my_card] | Orig: I would like to get help from someone in your customer service department with assisting me with activating my card. -> Aug: I need assistance from your customer service team to activate my card.
+GEN | [reverted_card_payment?] | Orig: I have cancelled payments to this card. -> Aug: I've stopped making payments on this card.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: How long do transfers to international banks take? I made one to france a couple of days ago, but it's still not there. -> Aug: I'm trying to understand why my international bank transfer to France hasn't been reflected in my account balance yet, as it was initiated a few days ago.
+GEN | [pending_transfer] | Orig: I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so. -> Aug: I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Help me find the transfer that I did. -> Aug: Can you assist me in locating the recent transfer I made?
+GEN | [lost_or_stolen_phone] | Orig: Is it possible to access my phone from the hotel/ -> Aug: Can I still access my phone from the hotel?
+GEN | [verify_my_identity] | Orig: Let me know what the steps for the identity checks are -> Aug: Can you walk me through the process of verifying my identity?
+GEN | [apple_pay_or_google_pay] | Orig: what can I do if I got my American Express in Apple Bay but top up is not working? -> Aug: What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?

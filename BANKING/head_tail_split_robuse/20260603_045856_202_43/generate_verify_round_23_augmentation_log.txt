@@ -1,0 +1,69 @@
+GEN | [visa_or_mastercard] | Orig: I want to get a Visa -> Aug: I'd like to obtain a Mastercard
+GEN | [visa_or_mastercard] | Orig: I am looking to get a Visa credit card, what must I do to achieve this? -> Aug: I'm interested in obtaining a Mastercard credit card, what are the necessary steps to accomplish this?
+GEN | [apple_pay_or_google_pay] | Orig: what can I do if I got my American Express in Apple Bay but top up is not working? -> Aug: What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?
+GEN | [wrong_amount_of_cash_received] | Orig: why did i only get 20.00 -> Aug: I was expecting a larger amount, but I only received $20.00.
+GEN | [country_support] | Orig: I need a new card and I live in the United States. -> Aug: I require a replacement card and I am a resident of the United States.
+GEN | [wrong_amount_of_cash_received] | Orig: i asked for 100 only got 80 -> Aug: i requested $100, but I was given $80 instead
+GEN | [failed_transfer] | Orig: I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me? -> Aug: I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed.
+GEN | [visa_or_mastercard] | Orig: Can I get a Visa or does it have to be something else. -> Aug: Can I use a Mastercard instead, or is it specifically a Visa requirement?
+GEN | [card_about_to_expire] | Orig: want a new card what are the fees -> Aug: looking to replace my expiring card, what are the associated fees?
+GEN | [unable_to_verify_identity] | Orig: Problem verifying my account -> Aug: We're having trouble confirming your account information.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Why did I only receive this much currency? -> Aug: Why was the amount of cash I received not in line with the expected exchange rate?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will there be a charge when money is added to my account? -> Aug: Will I be charged a fee when I top up my account using a bank transfer?
+GEN | [beneficiary_not_allowed] | Orig: Are there restrictions to transfers to certain accounts? -> Aug: Can I transfer funds to specific accounts, or are there limitations in place?
+GEN | [card_swallowed] | Orig: Who do I talk to about the ATM swallowing my card? -> Aug: Whom should I contact regarding the ATM consuming my card?
+GEN | [top_up_by_card_charge] | Orig: Are their fee's for top ups? -> Aug: Are there any charges associated with making a top-up payment using my card?
+GEN | [card_not_working] | Orig: I am unable to use my card. -> Aug: I'm having trouble using my card.
+GEN | [compromised_card] | Orig: It looks like someone besides me ordered something with my card, what should I do? -> Aug: It appears that an unauthorized party has used my card to make a purchase, what steps can I take?
+GEN | [card_payment_not_recognised] | Orig: There is a card payment I'm not familiar with. -> Aug: We've received a payment from an unknown card.
+GEN | [passcode_forgotten] | Orig: I forgot my code -> Aug: I've misplaced my passcode
+GEN | [declined_transfer] | Orig: Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined . I tried couple of times already  but same thing is happening . -> Aug: I'm confused, I've always been able to make transfers without any issues, but when I tried to make a recent purchase, my card was declined. I've tried a few times, but the result is the same - my transfer is being declined.
+GEN | [top_up_failed] | Orig: Fix my top up -> Aug: Complete my top-up transaction
+GEN | [exchange_rate] | Orig: How do I know how much money I will have when I travel abroad? -> Aug: What's the best way to determine the value of my money when I'm planning a trip overseas?
+GEN | [card_linking] | Orig: I found my card that I thought I had lost, I need to reactive it, please help. -> Aug: I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me.
+GEN | [verify_top_up] | Orig: What is the top up code for? -> Aug: What is the verification code for the top-up process?
+GEN | [declined_transfer] | Orig: How do I contact customer support about my declined transfer? -> Aug: I'd like to know how to reach out to your customer support team regarding the transfer that was declined.
+GEN | [visa_or_mastercard] | Orig: Please help me get a Visa card. -> Aug: Please assist me in obtaining a Mastercard.
+GEN | [lost_or_stolen_card] | Orig: I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this? -> Aug: I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?
+GEN | [wrong_amount_of_cash_received] | Orig: $20 came out instead of $100 -> Aug: $100 was supposed to be deposited, but only $20 was received.
+GEN | [card_not_working] | Orig: Did you deactivate my card it's not working anymore -> Aug: Is my card still active? It's not functioning properly.
+GEN | [getting_spare_card] | Orig: I want a new card -> Aug: I need a replacement card
+GEN | [verify_my_identity] | Orig: Let me know what the steps for the identity checks are -> Aug: Can you walk me through the process of verifying my identity?
+GEN | [activate_my_card] | Orig: Can I use my new card? -> Aug: Is my new card ready for use?
+GEN | [age_limit] | Orig: My daughter needs to open account. -> Aug: A minor is seeking to establish a new account.
+GEN | [visa_or_mastercard] | Orig: What type of card will I receive? -> Aug: What kind of payment card will I be issued?
+VAL | [visa_or_mastercard] | REJECT | Reason: N/A | Original: I want to get a Visa | Augmented: I'd like to obtain a Mastercard
+VAL | [visa_or_mastercard] | ACCEPT | Reason: ... | Original: I am looking to get a Visa credit card, what must I do to achieve this? | Augmented: I'm interested in obtaining a Mastercard credit card, what are the necessary steps to accomplish this?
+VAL | [apple_pay_or_google_pay] | ACCEPT | Reason: N/A | Original: what can I do if I got my American Express in Apple Bay but top up is not working? | Augmented: What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: why did i only get 20.00 | Augmented: I was expecting a larger amount, but I only received $20.00.
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: I need a new card and I live in the United States. | Augmented: I require a replacement card and I am a resident of the United States.
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: i asked for 100 only got 80 | Augmented: i requested $100, but I was given $80 instead
+VAL | [failed_transfer] | ACCEPT | Reason: N/A | Original: I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me? | Augmented: I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed.
+VAL | [visa_or_mastercard] | ACCEPT | Reason: ... | Original: Can I get a Visa or does it have to be something else. | Augmented: Can I use a Mastercard instead, or is it specifically a Visa requirement?
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: want a new card what are the fees | Augmented: looking to replace my expiring card, what are the associated fees?
+VAL | [unable_to_verify_identity] | ACCEPT | Reason: N/A | Original: Problem verifying my account | Augmented: We're having trouble confirming your account information.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | ACCEPT | Reason: ... | Original: Why did I only receive this much currency? | Augmented: Why was the amount of cash I received not in line with the expected exchange rate?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: ... | Original: Will there be a charge when money is added to my account? | Augmented: Will I be charged a fee when I top up my account using a bank transfer?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: Are there restrictions to transfers to certain accounts? | Augmented: Can I transfer funds to specific accounts, or are there limitations in place?
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: Who do I talk to about the ATM swallowing my card? | Augmented: Whom should I contact regarding the ATM consuming my card?
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: Are their fee's for top ups? | Augmented: Are there any charges associated with making a top-up payment using my card?
+VAL | [card_not_working] | ACCEPT | Reason: ... | Original: I am unable to use my card. | Augmented: I'm having trouble using my card.
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: It looks like someone besides me ordered something with my card, what should I do? | Augmented: It appears that an unauthorized party has used my card to make a purchase, what steps can I take?
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: There is a card payment I'm not familiar with. | Augmented: We've received a payment from an unknown card.
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I forgot my code | Augmented: I've misplaced my passcode
+VAL | [declined_transfer] | ACCEPT | Reason: ... | Original: Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined . I tried couple of times already  but same thing is happening . | Augmented: I'm confused, I've always been able to make transfers without any issues, but when I tried to make a recent purchase, my card was declined. I've tried a few times, but the result is the same - my transfer is being declined.
+VAL | [top_up_failed] | ACCEPT | Reason: N/A | Original: Fix my top up | Augmented: Complete my top-up transaction
+VAL | [exchange_rate] | ACCEPT | Reason: N/A | Original: How do I know how much money I will have when I travel abroad? | Augmented: What's the best way to determine the value of my money when I'm planning a trip overseas?
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: I found my card that I thought I had lost, I need to reactive it, please help. | Augmented: I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me.
+VAL | [verify_top_up] | ACCEPT | Reason: N/A | Original: What is the top up code for? | Augmented: What is the verification code for the top-up process?
+VAL | [declined_transfer] | ACCEPT | Reason: ... | Original: How do I contact customer support about my declined transfer? | Augmented: I'd like to know how to reach out to your customer support team regarding the transfer that was declined.
+VAL | [visa_or_mastercard] | UNKNOWN | Reason: N/A | Original: Please help me get a Visa card. | Augmented: Please assist me in obtaining a Mastercard.
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: ... | Original: I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this? | Augmented: I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: $20 came out instead of $100 | Augmented: $100 was supposed to be deposited, but only $20 was received.
+VAL | [card_not_working] | REVIEW | Reason: N/A | Original: Did you deactivate my card it's not working anymore | Augmented: Is my card still active? It's not functioning properly.
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: I want a new card | Augmented: I need a replacement card
+VAL | [verify_my_identity] | ACCEPT | Reason: N/A | Original: Let me know what the steps for the identity checks are | Augmented: Can you walk me through the process of verifying my identity?
+VAL | [activate_my_card] | ACCEPT | Reason: N/A | Original: Can I use my new card? | Augmented: Is my new card ready for use?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: My daughter needs to open account. | Augmented: A minor is seeking to establish a new account.
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: What type of card will I receive? | Augmented: What kind of payment card will I be issued?
+VAL_SUMMARY | ACCEPT: 31 | REVIEW: 1 | REJECT: 1 | UNKNOWN: 1 | Accept Rate: 0.9118

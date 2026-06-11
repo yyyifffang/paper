@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "I'd like to activate my card.",
+    "I'm unable to verify the card payment.",
+    "Has there been any recent use or transactions on my card?",
+    "what to do if my card got swallowed by the ATM and I need a replacement",
+    "A minor is seeking to establish a new account.",
+    "my apple pay is malfunctioning",
+    "I require my card to be delivered shortly.",
+    "I've misplaced my phone and can't access my account information to make the payment.",
+    "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself.",
+    "What's the process for obtaining a disposable virtual card?",
+    "Can you provide an estimated delivery date for the card?",
+    "How can I add funds to my account using my card?",
+    "How do you receive your physical credit cards?",
+    "I'm concerned about an unexpected charge that's been appearing on my account statement. It's marked as \"pending\" in the app, and it's not updating, which has me worried that someone may have unauthorized access to my account.",
+    "Can you assist me with my card transactions that keep getting reversed whenever I make online purchases? I've been experiencing this issue for the past two weeks.",
+    "I'd like to reactivate my card, as I initially thought it was misplaced, but I just found it in my coat when I woke up.",
+    "I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges.",
+    "Can you please clarify how I can confirm the origin of the funds?",
+    "There was insufficient cash available at the time of my transaction.",
+    "I've received a new email address.",
+    "My card seems to have been swallowed by the ATM, what should I do now?",
+    "I'd like to request a physical card that I can physically possess, how can I go about ordering one?",
+    "We're happy to provide information on the countries we support.",
+    "Why was I issued a Visa or Mastercard that's not the one I specifically asked for?",
+    "I'm concerned about unauthorized activity on my account. Is someone else accessing my card?",
+    "I'm seeing some transactions on my card in the app that I didn't authorize. Can you help me figure out what's going on? Is someone else using my card without my permission?",
+    "The exchange rate applied to my card payment is incorrect.",
+    "I'm in the process of buying a property and am attempting to complete a payment, but an issue is arising, and I require help.",
+    "We've never processed a payment from that merchant before. This transaction appears to be unauthorized.",
+    "Can you clarify the multiple transaction dates listed on my account statement?",
+    "I'm unable to verify this card payment.",
+    "utilize your credit to top up your account",
+    "I accidentally left my credit card in the ATM machine.",
+    "I've made a cash deposit to my account, but my account balance hasn't been updated yet.",
+    "My payment is still pending, what's the next step?",
+    "I require additional physical debit/credit cards to have a sufficient supply.",
+    "What is the timeframe for disputing payments on my statement after it's been received?",
+    "My card requires a recharge.",
+    "How do I confirm my card details for a top-up?"
+  ],
+  "generated_labels": [
+    0,
+    16,
+    41,
+    18,
+    1,
+    2,
+    12,
+    42,
+    22,
+    37,
+    12,
+    62,
+    43,
+    34,
+    53,
+    13,
+    16,
+    70,
+    75,
+    30,
+    18,
+    43,
+    24,
+    73,
+    22,
+    16,
+    17,
+    35,
+    16,
+    63,
+    16,
+    54,
+    18,
+    6,
+    45,
+    39,
+    28,
+    62,
+    71
+  ],
+  "source_texts": [
+    "I need to actuate my card.",
+    "I do not recognise the card payment.",
+    "Has there been any activity on my card today?",
+    "how to get new card after atm eats it",
+    "My daughter needs to open account.",
+    "my google pay seems to be acting up.",
+    "My card is needed soon",
+    "I don't have my mobile device and am unable to make the payment because I forgot my details.",
+    "My card must have used my card as there are some transactions that I haven't done myself..",
+    "how do the cards work?",
+    "Can I have it by a certain date?",
+    "My friends would like to add to my account. What is the procedure?",
+    "Where do you export the cards to?",
+    "I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as \"pending\", it never changes, and now I'm thinking someone's hacked my account!",
+    "Please help me with my card payments which keeps getting reverted whenever i do online shopping. I am having this problem since last two weeks.",
+    "I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.",
+    "I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?",
+    "how do i track the moeney",
+    "There was a limited amount of money available at the time of my transaction.",
+    "I have a new email.",
+    "My card was eaten by the cash machine what do I do?",
+    "I need an actual card that I can hold in my hand, how do I do that?",
+    "As far as courtries go which ones are supported?",
+    "Why did I get a different card then requested?",
+    "I don't recognize some transactions.  Is someone else using it?",
+    "There are a couple payments with my card shown in the app that i really didn't make myself. What's happenning with this, does someone has access to my card?!",
+    "the exchange rate at which my card payment is at is wrong",
+    "Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.",
+    "I've never been to that store.  That's a fraudulent charge.",
+    "Can you explain the various transaction times shown on my statement?",
+    "I do not recognise this card payment.",
+    "use my credit to add money",
+    "I have lost my credit card in the ATM!",
+    "I have cash deposit to my account but it is experiencing a problem",
+    "My card has been pending for a while, what should I do?",
+    "I need more physical cards than I have right now!",
+    "How long after I receive my statement can I dispute payments on it?",
+    "My card needs to be topped up.",
+    "What is the verification process for my card?"
+  ],
+  "records": [
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I need to actuate my card.",
+      "generated": "I'd like to activate my card."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recognise the card payment.",
+      "generated": "I'm unable to verify the card payment."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Has there been any activity on my card today?",
+      "generated": "Has there been any recent use or transactions on my card?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "how to get new card after atm eats it",
+      "generated": "what to do if my card got swallowed by the ATM and I need a replacement"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "My daughter needs to open account.",
+      "generated": "A minor is seeking to establish a new account."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "my google pay seems to be acting up.",
+      "generated": "my apple pay is malfunctioning"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "My card is needed soon",
+      "generated": "I require my card to be delivered shortly."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I don't have my mobile device and am unable to make the payment because I forgot my details.",
+      "generated": "I've misplaced my phone and can't access my account information to make the payment."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "My card must have used my card as there are some transactions that I haven't done myself..",
+      "generated": "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "how do the cards work?",
+      "generated": "What's the process for obtaining a disposable virtual card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I have it by a certain date?",
+      "generated": "Can you provide an estimated delivery date for the card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My friends would like to add to my account. What is the procedure?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Where do you export the cards to?",
+      "generated": "How do you receive your physical credit cards?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as \"pending\", it never changes, and now I'm thinking someone's hacked my account!",
+      "generated": "I'm concerned about an unexpected charge that's been appearing on my account statement. It's marked as \"pending\" in the app, and it's not updating, which has me worried that someone may have unauthorized access to my account."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Please help me with my card payments which keeps getting reverted whenever i do online shopping. I am having this problem since last two weeks.",
+      "generated": "Can you assist me with my card transactions that keep getting reversed whenever I make online purchases? I've been experiencing this issue for the past two weeks."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.",
+      "generated": "I'd like to reactivate my card, as I initially thought it was misplaced, but I just found it in my coat when I woke up."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?",
+      "generated": "I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "how do i track the moeney",
+      "generated": "Can you please clarify how I can confirm the origin of the funds?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "There was a limited amount of money available at the time of my transaction.",
+      "generated": "There was insufficient cash available at the time of my transaction."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I have a new email.",
+      "generated": "I've received a new email address."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "My card was eaten by the cash machine what do I do?",
+      "generated": "My card seems to have been swallowed by the ATM, what should I do now?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need an actual card that I can hold in my hand, how do I do that?",
+      "generated": "I'd like to request a physical card that I can physically possess, how can I go about ordering one?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "As far as courtries go which ones are supported?",
+      "generated": "We're happy to provide information on the countries we support."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Why did I get a different card then requested?",
+      "generated": "Why was I issued a Visa or Mastercard that's not the one I specifically asked for?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I don't recognize some transactions.  Is someone else using it?",
+      "generated": "I'm concerned about unauthorized activity on my account. Is someone else accessing my card?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There are a couple payments with my card shown in the app that i really didn't make myself. What's happenning with this, does someone has access to my card?!",
+      "generated": "I'm seeing some transactions on my card in the app that I didn't authorize. Can you help me figure out what's going on? Is someone else using my card without my permission?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "the exchange rate at which my card payment is at is wrong",
+      "generated": "The exchange rate applied to my card payment is incorrect."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.",
+      "generated": "I'm in the process of buying a property and am attempting to complete a payment, but an issue is arising, and I require help."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I've never been to that store.  That's a fraudulent charge.",
+      "generated": "We've never processed a payment from that merchant before. This transaction appears to be unauthorized."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Can you explain the various transaction times shown on my statement?",
+      "generated": "Can you clarify the multiple transaction dates listed on my account statement?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recognise this card payment.",
+      "generated": "I'm unable to verify this card payment."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "use my credit to add money",
+      "generated": "utilize your credit to top up your account"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I have lost my credit card in the ATM!",
+      "generated": "I accidentally left my credit card in the ATM machine."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I have cash deposit to my account but it is experiencing a problem",
+      "generated": "I've made a cash deposit to my account, but my account balance hasn't been updated yet."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "My card has been pending for a while, what should I do?",
+      "generated": "My payment is still pending, what's the next step?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I need more physical cards than I have right now!",
+      "generated": "I require additional physical debit/credit cards to have a sufficient supply."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "How long after I receive my statement can I dispute payments on it?",
+      "generated": "What is the timeframe for disputing payments on my statement after it's been received?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My card needs to be topped up.",
+      "generated": "My card requires a recharge."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What is the verification process for my card?",
+      "generated": "How do I confirm my card details for a top-up?"
+    }
+  ]
+}

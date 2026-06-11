@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "My personal details, specifically my address, are inaccurate in your records.",
+    "My cash withdrawal attempt was declined.",
+    "A pending cash withdrawal is currently being processed.",
+    "Can you retrieve my forgotten passcode?",
+    "What's the typical timeframe for processing my transfer?",
+    "Can you expedite the correction of a mistaken payment made to the wrong account yesterday, as it's crucial to rectify it by tomorrow for my rent payment?",
+    "where can I find an ATM to withdraw cash?",
+    "I didn't receive the correct amount of cash.",
+    "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined.",
+    "Why am I unable to complete any transactions with my card?",
+    "I need to update my PIN immediately.",
+    "Is the exchange rate offered by this app identical to those provided by other third-party services?",
+    "I'm experiencing an issue with my American Express account on Google Pay, could you assist me in resolving the issue with a top-up?",
+    "Duplicate transaction appearing on my account statement.",
+    "I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate.",
+    "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.",
+    "You can replenish your account balance using either cash or cheque payment methods.",
+    "I'm expecting my transfer to be received by the recipient.",
+    "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet.",
+    "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?",
+    "Can I change my PIN at the bank or is there another way to do it?",
+    "is there a restriction preventing me from initiating transactions",
+    "I need assistance from your customer service team to activate my card.",
+    "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction.",
+    "Can I only change my PIN by visiting a physical bank location?",
+    "I'd like to modify my PIN - must I visit a bank branch to do so?",
+    "I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card.",
+    "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.",
+    "Why isn't my Apple Pay account functioning properly?",
+    "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?",
+    "Why was my cash withdrawal request denied?",
+    "I have sufficient funds, yet I'm unable to complete my top-up.",
+    "Where can I access cash from an ATM?",
+    "I'm trying to retrieve the cash I didn't receive from the ATM transaction.",
+    "I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?",
+    "I recently received my card, but I'm having trouble adding funds to it. I'm considering canceling my account due to this issue. Can you help me resolve this problem?",
+    "What currencies are accepted for international transactions with this service?"
+  ],
+  "generated_labels": [
+    30,
+    26,
+    46,
+    44,
+    67,
+    8,
+    3,
+    75,
+    35,
+    14,
+    21,
+    32,
+    2,
+    63,
+    76,
+    46,
+    58,
+    66,
+    48,
+    27,
+    21,
+    7,
+    0,
+    28,
+    21,
+    21,
+    13,
+    20,
+    2,
+    76,
+    26,
+    59,
+    3,
+    75,
+    75,
+    59,
+    36
+  ],
+  "source_texts": [
+    "My address is incorrect on my file.",
+    "My ATM transaction was cancelled.",
+    "There is a withdrawal waiting.",
+    "Can you lookup my password?",
+    "How long does it take to get my money",
+    "How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+    "how do I know where I can get money withdrawn?",
+    "I couldn't get the money I needed.",
+    "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+    "Can you tell me why I can't make any transactions?",
+    "I must change my PIN as soon as possible.",
+    "Does this app have the same exchange rate as third parties?",
+    "I am having a slight problem with my American express in apple play, can you help me fix the problem with top up?",
+    "Transaction showing up many times.",
+    "I was needing you to see if the exchange rate is correct from when i got cash",
+    "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+    "What are my payment options for topping off my account?",
+    "I'm waiting for my transaction to complete.",
+    "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+    "How can I find a way to transfer money without it being rejected?",
+    "Do I have to go into the bank to change my PIN?",
+    "is there something blocking me from making transfers",
+    "I would like to get help from someone in your customer service department with assisting me with activating my card.",
+    "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+    "Do I have to go to an actual bank to change my PIN?",
+    "I want to change my PIN - do I need to be in a bank?",
+    "I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.",
+    "I did not get the cash that is showing up in my app.",
+    "Can you explain why my Google Pay Top isn't working?",
+    "Can you check the exchange rate on a cash transaction I did overseas",
+    "Why can't I take money from my account?",
+    "I have the funds, why can I not use my top-up?",
+    "Where should I withdraw money from?",
+    "How can I get my money that I didn't get from the ATM?",
+    "I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?",
+    "I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on?",
+    "What types of foreign money can be used with this service.?"
+  ],
+  "records": [
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "My address is incorrect on my file.",
+      "generated": "My personal details, specifically my address, are inaccurate in your records."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "My ATM transaction was cancelled.",
+      "generated": "My cash withdrawal attempt was declined."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "There is a withdrawal waiting.",
+      "generated": "A pending cash withdrawal is currently being processed."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Can you lookup my password?",
+      "generated": "Can you retrieve my forgotten passcode?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take to get my money",
+      "generated": "What's the typical timeframe for processing my transfer?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+      "generated": "Can you expedite the correction of a mistaken payment made to the wrong account yesterday, as it's crucial to rectify it by tomorrow for my rent payment?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "how do I know where I can get money withdrawn?",
+      "generated": "where can I find an ATM to withdraw cash?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I couldn't get the money I needed.",
+      "generated": "I didn't receive the correct amount of cash."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+      "generated": "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Can you tell me why I can't make any transactions?",
+      "generated": "Why am I unable to complete any transactions with my card?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I must change my PIN as soon as possible.",
+      "generated": "I need to update my PIN immediately."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Does this app have the same exchange rate as third parties?",
+      "generated": "Is the exchange rate offered by this app identical to those provided by other third-party services?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I am having a slight problem with my American express in apple play, can you help me fix the problem with top up?",
+      "generated": "I'm experiencing an issue with my American Express account on Google Pay, could you assist me in resolving the issue with a top-up?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Transaction showing up many times.",
+      "generated": "Duplicate transaction appearing on my account statement."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I was needing you to see if the exchange rate is correct from when i got cash",
+      "generated": "I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+      "generated": "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What are my payment options for topping off my account?",
+      "generated": "You can replenish your account balance using either cash or cheque payment methods."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I'm waiting for my transaction to complete.",
+      "generated": "I'm expecting my transfer to be received by the recipient."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+      "generated": "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How can I find a way to transfer money without it being rejected?",
+      "generated": "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Do I have to go into the bank to change my PIN?",
+      "generated": "Can I change my PIN at the bank or is there another way to do it?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "is there something blocking me from making transfers",
+      "generated": "is there a restriction preventing me from initiating transactions"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I would like to get help from someone in your customer service department with assisting me with activating my card.",
+      "generated": "I need assistance from your customer service team to activate my card."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+      "generated": "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Do I have to go to an actual bank to change my PIN?",
+      "generated": "Can I only change my PIN by visiting a physical bank location?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I want to change my PIN - do I need to be in a bank?",
+      "generated": "I'd like to modify my PIN - must I visit a bank branch to do so?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.",
+      "generated": "I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I did not get the cash that is showing up in my app.",
+      "generated": "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can you explain why my Google Pay Top isn't working?",
+      "generated": "Why isn't my Apple Pay account functioning properly?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can you check the exchange rate on a cash transaction I did overseas",
+      "generated": "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I take money from my account?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I have the funds, why can I not use my top-up?",
+      "generated": "I have sufficient funds, yet I'm unable to complete my top-up."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where should I withdraw money from?",
+      "generated": "Where can I access cash from an ATM?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "How can I get my money that I didn't get from the ATM?",
+      "generated": "I'm trying to retrieve the cash I didn't receive from the ATM transaction."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?",
+      "generated": "I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on?",
+      "generated": "I recently received my card, but I'm having trouble adding funds to it. I'm considering canceling my account due to this issue. Can you help me resolve this problem?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What types of foreign money can be used with this service.?",
+      "generated": "What currencies are accepted for international transactions with this service?"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+GEN | [transfer_into_account] | Orig: I have zero dollars in my account. Can I submit additional funds via bank transfer? -> Aug: I have no balance in my account. Can I deposit more funds through a bank transfer?
+GEN | [reverted_card_payment?] | Orig: Was my transaction reverted with my card? -> Aug: Did my card payment get reversed?
+GEN | [topping_up_by_card] | Orig: can other people use the app to add money to my account -> Aug: can I allow others to use the app to deposit funds into my account using their card?
+GEN | [card_payment_wrong_exchange_rate] | Orig: It seems that the rate I got is incorrect. -> Aug: The exchange rate applied to my card payment appears to be inaccurate.
+GEN | [failed_transfer] | Orig: The transger I tried to make failed. -> Aug: The transfer I attempted did not go through.
+GEN | [top_up_by_cash_or_cheque] | Orig: What is not accepted in order for me to top up my account? -> Aug: You can top up your account using cash or cheque, but what are the restrictions on the methods I can use to do so?
+GEN | [extra_charge_on_statement] | Orig: I was made to pay an additional pound! -> Aug: I was unexpectedly charged an extra amount on my statement.
+GEN | [pending_card_payment] | Orig: I am waiting for a payment to be processed -> Aug: I am expecting a payment to be cleared
+GEN | [topping_up_by_card] | Orig: Can I let other people have access to my account in order to top up? -> Aug: Can I grant permission to someone else to access my account to make a card-based top-up?
+GEN | [exchange_via_app] | Orig: What currences are available for exchange? -> Aug: What currencies can I exchange through the app?
+GEN | [verify_top_up] | Orig: Where is the verification code display? -> Aug: Can you please show me the verification code for the top-up process?
+GEN | [topping_up_by_card] | Orig: I tried topping off my account with a card, but the money is not in my account despite the charge going through -> Aug: I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully
+GEN | [card_payment_wrong_exchange_rate] | Orig: I was charged the wing amount for an item. -> Aug: I was overcharged for the item, and the amount doesn't match the expected exchange rate.
+GEN | [get_physical_card] | Orig: Is the PIN sent in another message? -> Aug: Can I receive the physical card separately?
+GEN | [verify_top_up] | Orig: I'm being asked for a verification code. Where do I find it? -> Aug: I'm being requested to provide a verification code. Can you please guide me on how to obtain it?
+GEN | [beneficiary_not_allowed] | Orig: Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong? -> Aug: I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?
+GEN | [exchange_charge] | Orig: Would you be able to offer me a discount, since I need to exchange currencies frequently? -> Aug: Could you provide a discount for me, as I regularly need to exchange currencies?
+GEN | [topping_up_by_card] | Orig: How do I to up by card? -> Aug: How can I add funds to my account using my card?
+GEN | [topping_up_by_card] | Orig: Can my account be topped-up by friends of mine. -> Aug: Can I have my account replenished by my friends using their cards?
+GEN | [why_verify_identity] | Orig: I don't understand why you want so much of my personal info. -> Aug: I'm curious, what's the purpose behind requesting all this personal information?
+GEN | [top_up_by_card_charge] | Orig: Can I get information on topping up? -> Aug: How do I go about charging my card to top up my account?
+GEN | [reverted_card_payment?] | Orig: I purchased something and already received it, why hasn't the money taken out? -> Aug: I made a purchase and got the item, but the payment hasn't been deducted from my account yet?
+GEN | [exchange_charge] | Orig: Do you offer a discount for those who perform frequent currency exchanges? -> Aug: Are there any special deals or promotions available for customers who regularly exchange currencies?
+GEN | [card_payment_wrong_exchange_rate] | Orig: What is your exchange rate between UK pounds and Russian rubles for my last transaction -> Aug: What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?
+GEN | [compromised_card] | Orig: I froze my account, but how do I order a replacement card? -> Aug: I locked my account, but how do I get a new card issued?
+GEN | [top_up_by_bank_transfer_charge] | Orig: I want to do a swift transfer -> Aug: I'd like to make a bank transfer to top up my account.
+GEN | [order_physical_card] | Orig: What do I do to get ahold of my own card? -> Aug: How can I obtain my physical credit card?
+GEN | [beneficiary_not_allowed] | Orig: Why is allowance not being given to my beneficiary? -> Aug: Why is the beneficiary not eligible to receive the allowance?
+GEN | [order_physical_card] | Orig: What do I owe for a new card? -> Aug: How much will I need to pay for a physical credit card?
+GEN | [get_physical_card] | Orig: still need to get card pin -> Aug: still need to obtain my physical card
+GEN | [topping_up_by_card] | Orig: Can somebody else top up my account? -> Aug: Can someone else add funds to my account using my card?
+GEN | [transfer_into_account] | Orig: My money is all gone. What ways are okay to add money to my account? -> Aug: My account is running low. Can you tell me how I can deposit funds into my account?
+GEN | [card_linking] | Orig: If I have a credit card with you how I get set up to link to it? -> Aug: If I already have a credit card account with your bank, how do I go about linking it to my profile?
+GEN | [transfer_fee_charged] | Orig: I have a fee listed for a transfer. -> Aug: A charge is showing for a transfer transaction.
+GEN | [transfer_into_account] | Orig: What are my bank details so I can do a transfer? -> Aug: To facilitate a transfer, could you please provide me with your bank account information?
+GEN | [top_up_limits] | Orig: How can I information on my limit for top-ups? -> Aug: What are the details about my limit for making top-ups?
+GEN | [receiving_money] | Orig: how do i find out about transfers -> Aug: how can I learn about incoming transactions?
+GEN | [reverted_card_payment?] | Orig: Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later. -> Aug: Can you help me understand why my online transactions are being declined, even though my card payment is initially accepted, only to be reversed later?

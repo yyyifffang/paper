@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "What's the reason behind verifying identities at our bank?",
+    "I'm experiencing problems with making contactless transactions, is it possible that my card is faulty?",
+    "The ATM at Metro bank on High St. Kensington failed to dispense my card, and the bank is currently closed. How do I retrieve a card that was swallowed by an ATM machine?",
+    "I require assistance from your team to locate the closest ATM location.",
+    "Whom should I contact regarding the ATM consuming my card?",
+    "Can I set up recurring deposits to my account, so I can maintain a steady balance while I'm away on my trip?",
+    "Can an Apple Watch be used to make a payment using Apple Pay or Google Pay?",
+    "Can I have this card about to expire sent to China?",
+    "What is the typical timeframe for transferring funds from China?",
+    "I attempted to withdraw cash earlier, but the ATM appears to be malfunctioning. Upon checking, I noticed that the transaction is still pending. Can you investigate this issue and ensure I'm not charged for the funds I haven't received?",
+    "I've misplaced my phone and can't access my account information to make the payment.",
+    "Did my card payment get reversed?",
+    "Required urgent top-up, experiencing a 30-minute delay. Please resolve this issue as soon as possible!",
+    "I was unable to make a purchase using my card at a retail location.",
+    "Why did my contactless payment fail when I tried to use it at the bus stop?",
+    "Can you assist me? My physical bank card is malfunctioning.",
+    "I've reviewed my statement and noticed a charge for using an ATM. Can you explain why I was charged for this transaction?",
+    "What are the restrictions on beneficiary designations?",
+    "my apple pay is malfunctioning",
+    "I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card?",
+    "I'm in the process of buying a property and am attempting to complete a payment, but an issue is arising, and I require help.",
+    "Can I make an exchange using the app?",
+    "My credit card is malfunctioning.",
+    "what steps do i need to take to access my account and modify my personal information?",
+    "I'm trying to make sense of a recent bank transfer from France, but my account balance hasn't been updated yet. Can you give me an estimate of how long it usually takes for these transactions to reflect in my account?",
+    "I'd like to put a hold on my card as there are unauthorized transactions showing up on my statement. The charges have been appearing over the past couple of days. Can I get these unauthorized charges reversed and the funds returned to my account?",
+    "Can I cancel a transfer?",
+    "Who is eligible to make a card-based account top-up for me?",
+    "What is the timing for transferring funds to China?",
+    "I'm concerned about unauthorized cash withdrawals on my card, which occurred in an unusual location without my permission.",
+    "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app.",
+    "I'm having some issues with my card, I believe it's malfunctioning.",
+    "I'm having trouble using my card.",
+    "my account balance isn't reflecting the recent transfer",
+    "My credit card is no longer functioning. Can you help me determine if it's been frozen or restricted in any way?"
+  ],
+  "generated_labels": [
+    74,
+    23,
+    18,
+    3,
+    18,
+    4,
+    2,
+    9,
+    67,
+    46,
+    42,
+    53,
+    47,
+    25,
+    23,
+    14,
+    19,
+    7,
+    2,
+    41,
+    35,
+    33,
+    14,
+    30,
+    5,
+    16,
+    8,
+    62,
+    67,
+    20,
+    33,
+    14,
+    14,
+    5,
+    14
+  ],
+  "source_texts": [
+    "Is the identity check part of bank policy?",
+    "I am having issues using contactless payments, could my card be damaged?",
+    "The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?",
+    "I need help from someone in your department with finding my nearest ATM.",
+    "Who do I talk to about the ATM swallowing my card?",
+    "Can I add money in intervals to my account?  I will be traveling.",
+    "Can an apple watch be used to tup-up?",
+    "Am I able to get this shipped to China?",
+    "How fast can I transfer something from China?",
+    "I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got.",
+    "I don't have my mobile device and am unable to make the payment because I forgot my details.",
+    "Was my transaction reverted with my card?",
+    "Needed gas, been delayed for half an hour.Please fix it!",
+    "I could not use my card in a store.",
+    "What is the reason when I tried to pay contactless at the bus, it didnt work?",
+    "Please help me!  My physical card isn't working right.",
+    "I just had a look at my statement. Why have I been changed for using the ATM?",
+    "What are then rules on beneficiaries?",
+    "my google pay seems to be acting up.",
+    "I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?",
+    "Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.",
+    "Can this convert money?",
+    "Currently my card is broken.",
+    "how do i get into my account and edit my details",
+    "Can you tell me how long it would take, to make a transfer from France? I made one 2 days ago and its not there yet.",
+    "I need to freeze my card. There are charges on there that i did not authorize. They've been coming out for a couple of days. Can i get this money back?",
+    "Can I stop a transaction?",
+    "Who can have access to top up my account?",
+    "How quickly can I transfer something to China?",
+    "I need my card frozen cause it was used without my consent to take money out. It was in an odd place.",
+    "I am from X but am traveling to Y - how do I get currency for Y?",
+    "Can you help me with my card, I think it's broke.",
+    "I am unable to use my card.",
+    "help my money isnt showing up",
+    "My card stopped working. How do I check if there is a freeze on it?"
+  ],
+  "records": [
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Is the identity check part of bank policy?",
+      "generated": "What's the reason behind verifying identities at our bank?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "I am having issues using contactless payments, could my card be damaged?",
+      "generated": "I'm experiencing problems with making contactless transactions, is it possible that my card is faulty?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?",
+      "generated": "The ATM at Metro bank on High St. Kensington failed to dispense my card, and the bank is currently closed. How do I retrieve a card that was swallowed by an ATM machine?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need help from someone in your department with finding my nearest ATM.",
+      "generated": "I require assistance from your team to locate the closest ATM location."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "Who do I talk to about the ATM swallowing my card?",
+      "generated": "Whom should I contact regarding the ATM consuming my card?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money in intervals to my account?  I will be traveling.",
+      "generated": "Can I set up recurring deposits to my account, so I can maintain a steady balance while I'm away on my trip?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can an apple watch be used to tup-up?",
+      "generated": "Can an Apple Watch be used to make a payment using Apple Pay or Google Pay?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Am I able to get this shipped to China?",
+      "generated": "Can I have this card about to expire sent to China?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How fast can I transfer something from China?",
+      "generated": "What is the typical timeframe for transferring funds from China?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got.",
+      "generated": "I attempted to withdraw cash earlier, but the ATM appears to be malfunctioning. Upon checking, I noticed that the transaction is still pending. Can you investigate this issue and ensure I'm not charged for the funds I haven't received?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I don't have my mobile device and am unable to make the payment because I forgot my details.",
+      "generated": "I've misplaced my phone and can't access my account information to make the payment."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Was my transaction reverted with my card?",
+      "generated": "Did my card payment get reversed?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Needed gas, been delayed for half an hour.Please fix it!",
+      "generated": "Required urgent top-up, experiencing a 30-minute delay. Please resolve this issue as soon as possible!"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I could not use my card in a store.",
+      "generated": "I was unable to make a purchase using my card at a retail location."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "What is the reason when I tried to pay contactless at the bus, it didnt work?",
+      "generated": "Why did my contactless payment fail when I tried to use it at the bus stop?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Please help me!  My physical card isn't working right.",
+      "generated": "Can you assist me? My physical bank card is malfunctioning."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I just had a look at my statement. Why have I been changed for using the ATM?",
+      "generated": "I've reviewed my statement and noticed a charge for using an ATM. Can you explain why I was charged for this transaction?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "What are then rules on beneficiaries?",
+      "generated": "What are the restrictions on beneficiary designations?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "my google pay seems to be acting up.",
+      "generated": "my apple pay is malfunctioning"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?",
+      "generated": "I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.",
+      "generated": "I'm in the process of buying a property and am attempting to complete a payment, but an issue is arising, and I require help."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can this convert money?",
+      "generated": "Can I make an exchange using the app?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Currently my card is broken.",
+      "generated": "My credit card is malfunctioning."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "how do i get into my account and edit my details",
+      "generated": "what steps do i need to take to access my account and modify my personal information?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you tell me how long it would take, to make a transfer from France? I made one 2 days ago and its not there yet.",
+      "generated": "I'm trying to make sense of a recent bank transfer from France, but my account balance hasn't been updated yet. Can you give me an estimate of how long it usually takes for these transactions to reflect in my account?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to freeze my card. There are charges on there that i did not authorize. They've been coming out for a couple of days. Can i get this money back?",
+      "generated": "I'd like to put a hold on my card as there are unauthorized transactions showing up on my statement. The charges have been appearing over the past couple of days. Can I get these unauthorized charges reversed and the funds returned to my account?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Can I stop a transaction?",
+      "generated": "Can I cancel a transfer?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Who can have access to top up my account?",
+      "generated": "Who is eligible to make a card-based account top-up for me?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How quickly can I transfer something to China?",
+      "generated": "What is the timing for transferring funds to China?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I need my card frozen cause it was used without my consent to take money out. It was in an odd place.",
+      "generated": "I'm concerned about unauthorized cash withdrawals on my card, which occurred in an unusual location without my permission."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I am from X but am traveling to Y - how do I get currency for Y?",
+      "generated": "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Can you help me with my card, I think it's broke.",
+      "generated": "I'm having some issues with my card, I believe it's malfunctioning."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I am unable to use my card.",
+      "generated": "I'm having trouble using my card."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "help my money isnt showing up",
+      "generated": "my account balance isn't reflecting the recent transfer"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "My card stopped working. How do I check if there is a freeze on it?",
+      "generated": "My credit card is no longer functioning. Can you help me determine if it's been frozen or restricted in any way?"
+    }
+  ]
+}

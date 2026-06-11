@@ -1,0 +1,35 @@
+GEN | [transaction_charged_twice] | Orig: I've got a repeated tranasaction on my card. -> Aug: I've been charged twice for the same transaction on my card.
+GEN | [cancel_transfer] | Orig: Can I stop a transaction? -> Aug: Can I cancel a transfer?
+GEN | [card_arrival] | Orig: can you share card tracking number? -> Aug: can you provide the tracking number for my card?
+GEN | [card_about_to_expire] | Orig: How do I get a new expiration date? -> Aug: What steps can I take to extend the validity of my card?
+GEN | [card_payment_not_recognised] | Orig: i disagree with a charge -> Aug: I'm disputing a transaction
+GEN | [cancel_transfer] | Orig: stop the transaction -> Aug: halt the transfer
+GEN | [cancel_transfer] | Orig: I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account? -> Aug: I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account.
+GEN | [card_swallowed] | Orig: Who do I talk to about the ATM swallowing my card? -> Aug: Whom should I contact regarding the ATM consuming my card?
+GEN | [order_physical_card] | Orig: Where do you export the cards to? -> Aug: How do you receive your physical credit cards?
+GEN | [card_swallowed] | Orig: How do I get a new card as your machine swallowed mine! -> Aug: I need a replacement card because I think your machine has eaten my original one.
+GEN | [direct_debit_payment_not_recognised] | Orig: How long after I receive my statement can I dispute payments on it? -> Aug: What is the timeframe for disputing payments on my statement after it's been received?
+GEN | [cancel_transfer] | Orig: I used the wrong account. -> Aug: I mistakenly selected the wrong account.
+GEN | [wrong_amount_of_cash_received] | Orig: How can we correct a mistake on an ATM transaction?  The app shows what I should have gotten. -> Aug: I need help resolving an issue with an ATM withdrawal. The app indicates the correct amount I should have received, but I only got a different amount.
+GEN | [atm_support] | Orig: I need an ATM right now! -> Aug: I urgently require access to an ATM.
+GEN | [card_acceptance] | Orig: Are there limits as to where my card will be accepted? -> Aug: Can I use my card at any location, or are there specific places where it won't be accepted?
+GEN | [card_payment_not_recognised] | Orig: I do not recognise the card payment. -> Aug: I'm unable to verify the card payment.
+GEN | [card_acceptance] | Orig: Can I use my card while on vacation overseas? -> Aug: Can I make purchases with my card while traveling abroad?
+GEN | [card_delivery_estimate] | Orig: My card is needed soon -> Aug: I require my card to be delivered shortly.
+GEN | [card_delivery_estimate] | Orig: I need my card as quick as possible -> Aug: I'd like to receive my card as soon as possible.
+GEN | [transaction_charged_twice] | Orig: Why does my statement show various transaction times? -> Aug: Why do I see multiple transaction dates on my statement?
+GEN | [get_disposable_virtual_card] | Orig: how do the cards work? -> Aug: What's the process for obtaining a disposable virtual card?
+GEN | [order_physical_card] | Orig: Where are the cards transported to? -> Aug: How are physical cards shipped or delivered?
+GEN | [pending_cash_withdrawal] | Orig: Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged? -> Aug: I'm experiencing a pending cash withdrawal issue, as the ATM was malfunctioning, and I'm concerned about being charged for the transaction. What can I do to resolve this situation?
+GEN | [card_payment_not_recognised] | Orig: I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card. -> Aug: I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card usage.
+GEN | [cancel_transfer] | Orig: Help please!  My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account? -> Aug: My rent payment is scheduled to be withdrawn tomorrow, but I made an error with the payment yesterday. Could you please correct the transfer to the correct account?
+GEN | [card_swallowed] | Orig: My card was eaten by the cash machine what do I do? -> Aug: My card seems to have been swallowed by the ATM, what should I do now?
+GEN | [card_delivery_estimate] | Orig: Give me my card, I need it now! -> Aug: Can you expedite the delivery of my card, please? I require it urgently.
+GEN | [card_about_to_expire] | Orig: How do I go about ordering a new bank card? -> Aug: What steps can I take to get a replacement bank card before my current one expires?
+GEN | [card_linking] | Orig: If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it? -> Aug: If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?
+GEN | [direct_debit_payment_not_recognised] | Orig: If I found an error in my account for a transaction I didn't make, how long to I have to dispute it? -> Aug: We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?
+GEN | [country_support] | Orig: Is there anywhere  In the  Eu  this card can not be delivered in -> Aug: Can this card be delivered to any location within the European Union, or are there specific areas where it cannot be delivered?
+GEN | [direct_debit_payment_not_recognised] | Orig: People are using my debit card - help! -> Aug: We've received a payment attempt from your debit card, but it's not being recognized.
+GEN | [transfer_not_received_by_recipient] | Orig: Where is my last money transaction -> Aug: I haven't received my recent transfer.
+GEN | [transfer_fee_charged] | Orig: who charged my card -> Aug: who deducted the transfer fee from my card
+GEN | [card_arrival] | Orig: I don't have my card after 1 week. What are my next steps? -> Aug: I haven't received my card yet, and it's been a week. What should I do now?

@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I'd like to obtain a new virtual card, can you guide me through the process?",
+    "What's the best way to determine if an ATM will accept my card?",
+    "what can I do to prevent being charged a fee on my card in the future?",
+    "What steps can I take to remove the block on my card?",
+    "We're verifying your identity to ensure the security and integrity of your account.",
+    "How can my boss deposit funds directly to my card?",
+    "What details do I need to provide to complete a card-based transfer?",
+    "How can I confirm my account's default currency, as I receive payments in British Pounds?",
+    "what's the purpose of verifying my identity",
+    "I'm currently without my mobile device, which is preventing me from accessing the system to finalize the transaction.",
+    "Can you accept direct deposits from my employer's payroll department?",
+    "I'm having trouble finding the verification code for my top-up.",
+    "I'm being requested to provide a verification code. Can you please guide me on how to obtain it?",
+    "The transfer was mistakenly sent to the wrong recipient, what steps can I take to rectify the situation?",
+    "When can I expect the transfer to reflect in my UK account? I recently initiated a transfer, but my balance hasn't been updated yet, and I'd like to confirm everything is in order.",
+    "We're having trouble verifying your identity, could you please assist us in resolving this issue?",
+    "Can you please show me the verification code for the top-up process?",
+    "I forgot my passcode to access the app, can you help me retrieve it?",
+    "Can I make a currency exchange using this mobile app?",
+    "I'm having trouble finding the verification code for my recent top-up.",
+    "I'm having trouble adding more funds to my card, as it's been declined repeatedly, and I urgently need to use it. Can you assist me in resolving this issue or suggest alternative solutions?",
+    "We're having trouble confirming your account information.",
+    "How can I receive payment from my friend?",
+    "What steps should my friend take to transfer funds to my account?",
+    "I'm still waiting for the verification process to complete. Can I access my account before it's confirmed?",
+    "I'm having trouble making any transactions.",
+    "I've been charged twice for the same transaction on my card.",
+    "I've received a new email address.",
+    "I'm unable to complete the identity verification process.",
+    "I'm certain I have sufficient funds, yet the merchant refused to accept my payment method.",
+    "I accidentally locked my card due to a mistake :(( Assist me!",
+    "Can you inform me if I'll be charged for requesting additional cards?",
+    "This transaction requires both a Visa and a Mastercard.",
+    "I'd like to obtain a virtual card.",
+    "Why can't I use my American Express card to fund my account?",
+    "Why isn't my refund showing up in my account?",
+    "How do I initiate an exchange?"
+  ],
+  "generated_labels": [
+    37,
+    3,
+    15,
+    49,
+    74,
+    50,
+    62,
+    50,
+    69,
+    42,
+    50,
+    71,
+    71,
+    66,
+    5,
+    68,
+    71,
+    44,
+    33,
+    71,
+    59,
+    68,
+    50,
+    50,
+    74,
+    14,
+    63,
+    30,
+    74,
+    25,
+    49,
+    39,
+    73,
+    40,
+    54,
+    51,
+    32
+  ],
+  "source_texts": [
+    "I need to deposit my virtual card, how do i do that.",
+    "How can I tell if an AMT will take this card?",
+    "how do i avoid charges in the future",
+    "How do I take a block off my card?",
+    "Why do I have to give you my drivers license",
+    "How can my boss pay me directly to the card?",
+    "What information am I going to have to have in order to do a transfer with my card?",
+    "How do I know what my account is set to, I am paid in GBP?",
+    "why do I need to show ID",
+    "I don't have my cell phone with me so I cannot access the system to complete the transaction.",
+    "Do you support direct deposits from my employer?",
+    "I can't see a verification code anywhere",
+    "I'm being asked for a verification code. Where do I find it?",
+    "i accidentally entered in my retailers information, what should i do next",
+    "What's the time frame normally for a UK account transfer? I just made one and it's not showing up anywhere. I want to be sure that everything is good.",
+    "My identity isn't being accepted, what should I do?",
+    "Where is the verification code display?",
+    "Can you tell me my code to get into the app?",
+    "Can I use this app to change money?",
+    "I don't see the verification code for my card transfer.",
+    "I need to add more funds to my card today because it keeps being declined, and I need to use it immediately. Can you fix this or tell me alternatives?",
+    "Problem verifying my account",
+    "How can my friend pay me?",
+    "Do I need to do anything special for my friend to send money to my account?",
+    "I am still waiting for verification.  Can I use my account before I am verified?",
+    "I seem to be unable to make any transactions.",
+    "I've got a repeated tranasaction on my card.",
+    "I have a new email.",
+    "I can't do the verification.",
+    "I'm sure I have enough money so why didn't the store accept my card?",
+    "I managed to drunken block my card :(( Help!",
+    "Please tell me if I'm going to be charged for sending out more cards?",
+    "This transaction needs both a Visa and a Mastercard.",
+    "I want one of the virtual cards!",
+    "why don't you accept american express for adding money to my account",
+    "Why hasn't my return cleared my account?",
+    "What's the process for exchanges?"
+  ],
+  "records": [
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I need to deposit my virtual card, how do i do that.",
+      "generated": "I'd like to obtain a new virtual card, can you guide me through the process?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How can I tell if an AMT will take this card?",
+      "generated": "What's the best way to determine if an ATM will accept my card?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "how do i avoid charges in the future",
+      "generated": "what can I do to prevent being charged a fee on my card in the future?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I take a block off my card?",
+      "generated": "What steps can I take to remove the block on my card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why do I have to give you my drivers license",
+      "generated": "We're verifying your identity to ensure the security and integrity of your account."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can my boss pay me directly to the card?",
+      "generated": "How can my boss deposit funds directly to my card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What information am I going to have to have in order to do a transfer with my card?",
+      "generated": "What details do I need to provide to complete a card-based transfer?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How do I know what my account is set to, I am paid in GBP?",
+      "generated": "How can I confirm my account's default currency, as I receive payments in British Pounds?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "why do I need to show ID",
+      "generated": "what's the purpose of verifying my identity"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I don't have my cell phone with me so I cannot access the system to complete the transaction.",
+      "generated": "I'm currently without my mobile device, which is preventing me from accessing the system to finalize the transaction."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do you support direct deposits from my employer?",
+      "generated": "Can you accept direct deposits from my employer's payroll department?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I can't see a verification code anywhere",
+      "generated": "I'm having trouble finding the verification code for my top-up."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I'm being asked for a verification code. Where do I find it?",
+      "generated": "I'm being requested to provide a verification code. Can you please guide me on how to obtain it?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "i accidentally entered in my retailers information, what should i do next",
+      "generated": "The transfer was mistakenly sent to the wrong recipient, what steps can I take to rectify the situation?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "What's the time frame normally for a UK account transfer? I just made one and it's not showing up anywhere. I want to be sure that everything is good.",
+      "generated": "When can I expect the transfer to reflect in my UK account? I recently initiated a transfer, but my balance hasn't been updated yet, and I'd like to confirm everything is in order."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "My identity isn't being accepted, what should I do?",
+      "generated": "We're having trouble verifying your identity, could you please assist us in resolving this issue?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Where is the verification code display?",
+      "generated": "Can you please show me the verification code for the top-up process?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Can you tell me my code to get into the app?",
+      "generated": "I forgot my passcode to access the app, can you help me retrieve it?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app to change money?",
+      "generated": "Can I make a currency exchange using this mobile app?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I don't see the verification code for my card transfer.",
+      "generated": "I'm having trouble finding the verification code for my recent top-up."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I need to add more funds to my card today because it keeps being declined, and I need to use it immediately. Can you fix this or tell me alternatives?",
+      "generated": "I'm having trouble adding more funds to my card, as it's been declined repeatedly, and I urgently need to use it. Can you assist me in resolving this issue or suggest alternative solutions?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "Problem verifying my account",
+      "generated": "We're having trouble confirming your account information."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can my friend pay me?",
+      "generated": "How can I receive payment from my friend?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do I need to do anything special for my friend to send money to my account?",
+      "generated": "What steps should my friend take to transfer funds to my account?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I am still waiting for verification.  Can I use my account before I am verified?",
+      "generated": "I'm still waiting for the verification process to complete. Can I access my account before it's confirmed?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I seem to be unable to make any transactions.",
+      "generated": "I'm having trouble making any transactions."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I've got a repeated tranasaction on my card.",
+      "generated": "I've been charged twice for the same transaction on my card."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I have a new email.",
+      "generated": "I've received a new email address."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I can't do the verification.",
+      "generated": "I'm unable to complete the identity verification process."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I'm sure I have enough money so why didn't the store accept my card?",
+      "generated": "I'm certain I have sufficient funds, yet the merchant refused to accept my payment method."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I managed to drunken block my card :(( Help!",
+      "generated": "I accidentally locked my card due to a mistake :(( Assist me!"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Please tell me if I'm going to be charged for sending out more cards?",
+      "generated": "Can you inform me if I'll be charged for requesting additional cards?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "This transaction needs both a Visa and a Mastercard.",
+      "generated": "This transaction requires both a Visa and a Mastercard."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I want one of the virtual cards!",
+      "generated": "I'd like to obtain a virtual card."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why don't you accept american express for adding money to my account",
+      "generated": "Why can't I use my American Express card to fund my account?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Why hasn't my return cleared my account?",
+      "generated": "Why isn't my refund showing up in my account?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What's the process for exchanges?",
+      "generated": "How do I initiate an exchange?"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app.",
+    "what steps do i need to take to access my account and modify my personal information?",
+    "How long does it take for the courier to deliver the card?",
+    "The payment was not processed due to a card issue.",
+    "Could you provide a discount for me, as I regularly need to exchange currencies?",
+    "Can you provide an estimated delivery date for the card?",
+    "Can I use my fiat currency for both holding and exchanging purposes?",
+    "I can see the funds in my account, but the balance hasn't been updated after I made a transfer.",
+    "Why was the exchange rate used for my cash withdrawal so inaccurate?",
+    "I'd like to inquire about an additional charge that appears on my latest statement.",
+    "We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?",
+    "I'd like to transfer funds from another account to this account.",
+    "A store I frequent refused to accept my payment.",
+    "What should I do since my card is not functioning properly?",
+    "I didn't receive the funds I attempted to add to my card.",
+    "Are there any plans to expand the list of supported fiat currencies in the future?",
+    "Can we bypass the identity verification process?",
+    "My card payments have ceased.",
+    "Will I be charged a fee when I receive a bank transfer to top up my account?",
+    "The card is not functioning properly and won't be recognized by the payment terminal.",
+    "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?",
+    "I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully",
+    "The app has cancelled the recent top-up I made. What should I do now?",
+    "Can you help me understand why my online transactions are being declined, even though my card payment is initially accepted, only to be reversed later?",
+    "Why did the payment I made online get reversed and credited back to my account?",
+    "Are there any special deals or promotions available for customers who regularly exchange currencies?",
+    "I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?",
+    "Is the card accepted by all parties involved?",
+    "What is the timeframe for disputing payments on my statement after it's been received?",
+    "I'm experiencing some issues with my account and I'd like some assistance. I've noticed some charges that I don't recognize, and I'm worried that my card is being used without my permission. Could you please look into this and either reverse the transactions or temporarily suspend my card to prevent further unauthorized charges?",
+    "If the ATM or payment terminal declines my card, what should I do next?",
+    "Can you assist me in retrieving the card I already possess so I can access its information?",
+    "I'm unable to make any transactions with my card.",
+    "I'm showing a cash withdrawal in my app, but it's not reflecting in my account.",
+    "I'm planning a trip and need to convert some currency. Can I exchange my money for Euros through the app?",
+    "Is the exchange rate fee subject to change?",
+    "I'd like to receive my card as soon as possible.",
+    "Why am I being assessed a fee for withdrawing cash from my account?",
+    "How can I confirm the details of my top-up card?"
+  ],
+  "generated_labels": [
+    33,
+    30,
+    11,
+    25,
+    31,
+    12,
+    36,
+    5,
+    76,
+    34,
+    28,
+    65,
+    25,
+    14,
+    59,
+    36,
+    74,
+    53,
+    56,
+    14,
+    74,
+    62,
+    61,
+    53,
+    53,
+    31,
+    5,
+    10,
+    28,
+    16,
+    14,
+    13,
+    14,
+    20,
+    33,
+    17,
+    12,
+    19,
+    71
+  ],
+  "source_texts": [
+    "I am from X but am traveling to Y - how do I get currency for Y?",
+    "how do i get into my account and edit my details",
+    "maximum how many days get the courier?",
+    "I couldn't pay with my card",
+    "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+    "Can I have it by a certain date?",
+    "Is my fiat currency supported for both hold and exchange?",
+    "I can still see money in my account after making a payment",
+    "Why did you give me so little currency?",
+    "I wanted to know about a pending dollar that is on my statement.",
+    "If I found an error in my account for a transaction I didn't make, how long to I have to dispute it?",
+    "I need to move money from one of my other accounts to this one.",
+    "A shop I go to didn't let me pay.",
+    "What do I do now that I can't use this card?",
+    "I didn't see the money I added to my card.",
+    "Will you be adding more currencies in the future?",
+    "Can we skip verifying?",
+    "My card payments have stopped.",
+    "Do I get charged if I get money?",
+    "Why won't the machine accept my card anymore?",
+    "Do you think you're asking for too much information about me?",
+    "I tried topping off my account with a card, but the money is not in my account despite the charge going through",
+    "The app reversed a top off I had.  What should I do?",
+    "Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.",
+    "I tried to buy something online but my funds were transferred back to my account. What is happening?",
+    "Do you offer a discount for those who perform frequent currency exchanges?",
+    "Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.",
+    "Is the card welcomed by everybody?",
+    "How long after I receive my statement can I dispute payments on it?",
+    "I need some help now please! There are some transactions on my account that I do not remember purchasing. Can they be reversed? Can you please cancel or freeze my card so I don't keep getting charged?!",
+    "What do I do if the machine rejects my card?",
+    "Help me access the card I already got so I can information from it.",
+    "I can't use my card for anything",
+    "I see cash in my app but I did not get it.",
+    "I need to get some Euros for my holiday. Am I able to exchange some of my money?",
+    "Does the fee for exchange change?",
+    "I need my card as quick as possible",
+    "Why am I being charged for getting cash?",
+    "How do i secure a top-up card?"
+  ],
+  "records": [
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I am from X but am traveling to Y - how do I get currency for Y?",
+      "generated": "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "how do i get into my account and edit my details",
+      "generated": "what steps do i need to take to access my account and modify my personal information?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "maximum how many days get the courier?",
+      "generated": "How long does it take for the courier to deliver the card?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I couldn't pay with my card",
+      "generated": "The payment was not processed due to a card issue."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+      "generated": "Could you provide a discount for me, as I regularly need to exchange currencies?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I have it by a certain date?",
+      "generated": "Can you provide an estimated delivery date for the card?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Is my fiat currency supported for both hold and exchange?",
+      "generated": "Can I use my fiat currency for both holding and exchanging purposes?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I can still see money in my account after making a payment",
+      "generated": "I can see the funds in my account, but the balance hasn't been updated after I made a transfer."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why did you give me so little currency?",
+      "generated": "Why was the exchange rate used for my cash withdrawal so inaccurate?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I wanted to know about a pending dollar that is on my statement.",
+      "generated": "I'd like to inquire about an additional charge that appears on my latest statement."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "If I found an error in my account for a transaction I didn't make, how long to I have to dispute it?",
+      "generated": "We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need to move money from one of my other accounts to this one.",
+      "generated": "I'd like to transfer funds from another account to this account."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "A shop I go to didn't let me pay.",
+      "generated": "A store I frequent refused to accept my payment."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What do I do now that I can't use this card?",
+      "generated": "What should I do since my card is not functioning properly?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I didn't see the money I added to my card.",
+      "generated": "I didn't receive the funds I attempted to add to my card."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Will you be adding more currencies in the future?",
+      "generated": "Are there any plans to expand the list of supported fiat currencies in the future?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can we skip verifying?",
+      "generated": "Can we bypass the identity verification process?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My card payments have stopped.",
+      "generated": "My card payments have ceased."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do I get charged if I get money?",
+      "generated": "Will I be charged a fee when I receive a bank transfer to top up my account?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why won't the machine accept my card anymore?",
+      "generated": "The card is not functioning properly and won't be recognized by the payment terminal."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Do you think you're asking for too much information about me?",
+      "generated": "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I tried topping off my account with a card, but the money is not in my account despite the charge going through",
+      "generated": "I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "The app reversed a top off I had.  What should I do?",
+      "generated": "The app has cancelled the recent top-up I made. What should I do now?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.",
+      "generated": "Can you help me understand why my online transactions are being declined, even though my card payment is initially accepted, only to be reversed later?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to buy something online but my funds were transferred back to my account. What is happening?",
+      "generated": "Why did the payment I made online get reversed and credited back to my account?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do you offer a discount for those who perform frequent currency exchanges?",
+      "generated": "Are there any special deals or promotions available for customers who regularly exchange currencies?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.",
+      "generated": "I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is the card welcomed by everybody?",
+      "generated": "Is the card accepted by all parties involved?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "How long after I receive my statement can I dispute payments on it?",
+      "generated": "What is the timeframe for disputing payments on my statement after it's been received?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need some help now please! There are some transactions on my account that I do not remember purchasing. Can they be reversed? Can you please cancel or freeze my card so I don't keep getting charged?!",
+      "generated": "I'm experiencing some issues with my account and I'd like some assistance. I've noticed some charges that I don't recognize, and I'm worried that my card is being used without my permission. Could you please look into this and either reverse the transactions or temporarily suspend my card to prevent further unauthorized charges?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What do I do if the machine rejects my card?",
+      "generated": "If the ATM or payment terminal declines my card, what should I do next?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Help me access the card I already got so I can information from it.",
+      "generated": "Can you assist me in retrieving the card I already possess so I can access its information?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't use my card for anything",
+      "generated": "I'm unable to make any transactions with my card."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I see cash in my app but I did not get it.",
+      "generated": "I'm showing a cash withdrawal in my app, but it's not reflecting in my account."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I need to get some Euros for my holiday. Am I able to exchange some of my money?",
+      "generated": "I'm planning a trip and need to convert some currency. Can I exchange my money for Euros through the app?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the fee for exchange change?",
+      "generated": "Is the exchange rate fee subject to change?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card as quick as possible",
+      "generated": "I'd like to receive my card as soon as possible."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Why am I being charged for getting cash?",
+      "generated": "Why am I being assessed a fee for withdrawing cash from my account?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "How do i secure a top-up card?",
+      "generated": "How can I confirm the details of my top-up card?"
+    }
+  ]
+}

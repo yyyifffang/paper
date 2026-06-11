@@ -1,0 +1,79 @@
+GEN | [get_physical_card] | Orig: How is the PIN delivered? -> Aug: How do I receive my physical card?
+GEN | [get_physical_card] | Orig: I don't have a PIN at this point. -> Aug: I'm not currently in possession of my physical card.
+GEN | [get_physical_card] | Orig: I dont have a pin -> Aug: I'm missing my physical card.
+GEN | [get_physical_card] | Orig: Can you deliver the PIN separately? -> Aug: Can you provide the physical card separately?
+GEN | [lost_or_stolen_card] | Orig: I lost my wallet and all my cards were in it. -> Aug: I misplaced my wallet, which contained all my credit cards.
+GEN | [supported_cards_and_currencies] | Orig: What are the currencies and cards that are supported with my account? -> Aug: What types of payment methods and currencies are accepted with my account?
+GEN | [change_pin] | Orig: I have been travelling overseas and I need to change my PIN. Can you tell me how this is done? -> Aug: I'm currently abroad and I'd like to modify my PIN. Could you please guide me through the process of updating it?
+GEN | [change_pin] | Orig: Is it possible to change my pin if i am out of the country? -> Aug: Can I modify my PIN if I'm currently abroad?
+GEN | [card_arrival] | Orig: can you share card tracking number? -> Aug: can you provide the tracking number for my card?
+GEN | [get_physical_card] | Orig: Is the PIN separately delivered? -> Aug: Can I get my physical card separately, including the PIN?
+GEN | [change_pin] | Orig: If I am not in the country and I need to change my PIN, how can this be done? -> Aug: What are the steps to modify my PIN if I'm currently outside the country?
+GEN | [get_physical_card] | Orig: How is my PIN sent? -> Aug: How do I receive my physical card?
+GEN | [supported_cards_and_currencies] | Orig: Do you have a list of cards and currencies you support? -> Aug: We accept a range of cards and currencies for transactions.
+GEN | [supported_cards_and_currencies] | Orig: Do you have a list of the cards and currencies supported? -> Aug: We'd be happy to provide you with a list of the payment cards and currencies we currently support.
+GEN | [passcode_forgotten] | Orig: passcode retrieval -> Aug: forgot passcode
+GEN | [card_about_to_expire] | Orig: Am I able to get this shipped to China? -> Aug: Can I have this card about to expire sent to China?
+GEN | [change_pin] | Orig: Can I change my PIN abroad? -> Aug: Can I modify my PIN while I'm traveling internationally?
+GEN | [fiat_currency_support] | Orig: I would like to know which fiat currencies are recognized by your organization. -> Aug: I'm curious about the list of accepted fiat currencies your institution supports.
+GEN | [change_pin] | Orig: How do I change my PIN abroad? -> Aug: What are the steps to modify my PIN while I'm traveling internationally?
+GEN | [change_pin] | Orig: Can I change my PIN on holiday? -> Aug: Can I modify my PIN while I'm away on vacation?
+GEN | [change_pin] | Orig: I'm on vacation in Europe but I desperately need to change my PIN. Can I do this from abroad? -> Aug: I'm currently traveling in Europe and I urgently need to modify my PIN. Can I accomplish this remotely from my current location?
+GEN | [receiving_money] | Orig: Can my salary be received here? -> Aug: Can I receive my paycheck here?
+GEN | [lost_or_stolen_phone] | Orig: I was mugged.  They took everything.  I can't use the app.  What do I do? -> Aug: I had my phone stolen during a robbery. The thief took everything, including my phone. I'm unable to access the app. What can I do to resolve this issue?
+GEN | [card_arrival] | Orig: Can you track my card for me? -> Aug: Could you please help me locate my card?
+GEN | [lost_or_stolen_phone] | Orig: Can my account me accessed by a thief?  I was mugged. -> Aug: Can my account be accessed by an unauthorized person? I had my phone stolen.
+GEN | [change_pin] | Orig: I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country? -> Aug: I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?
+GEN | [lost_or_stolen_phone] | Orig: My things were stolen and I need to know if I can still use this app. -> Aug: My phone was stolen and I'm wondering if I can still access this app.
+GEN | [compromised_card] | Orig: What do I do if I believe to be a victim of credit card fraud? -> Aug: If I suspect that my credit card has been compromised, what steps should I take to address the situation?
+GEN | [get_physical_card] | Orig: Does the PIN come under separate cover? -> Aug: Is the PIN card separate from the physical card?
+GEN | [change_pin] | Orig: I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here? -> Aug: I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?
+GEN | [change_pin] | Orig: How can I change my PIN even though I'm out of the country in Austria at the moment? -> Aug: Can I modify my PIN while I'm currently abroad in Austria?
+GEN | [exchange_via_app] | Orig: I am from X but am traveling to Y - how do I get currency for Y? -> Aug: I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app.
+GEN | [card_arrival] | Orig: Was there a way for me to get tracking for that? -> Aug: Could you please provide me with tracking information for my card arrival?
+GEN | [supported_cards_and_currencies] | Orig: Can you tell me what cards and currencies you support? -> Aug: We accept a range of cards and facilitate transactions in various currencies. Which specific cards and currencies are you interested in knowing about?
+GEN | [supported_cards_and_currencies] | Orig: What are the various currencies and cards that you offer support for? -> Aug: We accept a range of currencies and cards for transactions, including a variety of payment methods.
+GEN | [supported_cards_and_currencies] | Orig: do you accept from usa credit card? -> Aug: Do you support credit cards issued in the United States?
+GEN | [receiving_money] | Orig: what currencies can I receive my salary in with this? -> Aug: in what currencies can I receive my salary with this account?
+GEN | [lost_or_stolen_phone] | Orig: I got mugged yesterday and they took everything. I can't use the app, so I need some help. -> Aug: I was robbed yesterday and they took my phone. I'm unable to access the app, so I require assistance.
+GEN | [getting_virtual_card] | Orig: I look but I see no virtual card. Why is that? -> Aug: I'm unable to locate my virtual card. Can you help me understand why it's not showing up?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: How is the PIN delivered? | Augmented: How do I receive my physical card?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: I don't have a PIN at this point. | Augmented: I'm not currently in possession of my physical card.
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: I dont have a pin | Augmented: I'm missing my physical card.
+VAL | [get_physical_card] | UNKNOWN | Reason: N/A | Original: Can you deliver the PIN separately? | Augmented: Can you provide the physical card separately?
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: N/A | Original: I lost my wallet and all my cards were in it. | Augmented: I misplaced my wallet, which contained all my credit cards.
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: What are the currencies and cards that are supported with my account? | Augmented: What types of payment methods and currencies are accepted with my account?
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: I have been travelling overseas and I need to change my PIN. Can you tell me how this is done? | Augmented: I'm currently abroad and I'd like to modify my PIN. Could you please guide me through the process of updating it?
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: Is it possible to change my pin if i am out of the country? | Augmented: Can I modify my PIN if I'm currently abroad?
+VAL | [card_arrival] | ACCEPT | Reason: ... | Original: can you share card tracking number? | Augmented: can you provide the tracking number for my card?
+VAL | [get_physical_card] | UNKNOWN | Reason: N/A | Original: Is the PIN separately delivered? | Augmented: Can I get my physical card separately, including the PIN?
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: If I am not in the country and I need to change my PIN, how can this be done? | Augmented: What are the steps to modify my PIN if I'm currently outside the country?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: How is my PIN sent? | Augmented: How do I receive my physical card?
+VAL | [supported_cards_and_currencies] | UNKNOWN | Reason: N/A | Original: Do you have a list of cards and currencies you support? | Augmented: We accept a range of cards and currencies for transactions.
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: ... | Original: Do you have a list of the cards and currencies supported? | Augmented: We'd be happy to provide you with a list of the payment cards and currencies we currently support.
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: passcode retrieval | Augmented: forgot passcode
+VAL | [card_about_to_expire] | UNKNOWN | Reason: N/A | Original: Am I able to get this shipped to China? | Augmented: Can I have this card about to expire sent to China?
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: Can I change my PIN abroad? | Augmented: Can I modify my PIN while I'm traveling internationally?
+VAL | [fiat_currency_support] | ACCEPT | Reason: Both texts are seeking information on the fiat currencies accepted by the organization, thus preserving the same intent. | Original: I would like to know which fiat currencies are recognized by your organization. | Augmented: I'm curious about the list of accepted fiat currencies your institution supports.
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: How do I change my PIN abroad? | Augmented: What are the steps to modify my PIN while I'm traveling internationally?
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: Can I change my PIN on holiday? | Augmented: Can I modify my PIN while I'm away on vacation?
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: I'm on vacation in Europe but I desperately need to change my PIN. Can I do this from abroad? | Augmented: I'm currently traveling in Europe and I urgently need to modify my PIN. Can I accomplish this remotely from my current location?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Can my salary be received here? | Augmented: Can I receive my paycheck here?
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: I was mugged.  They took everything.  I can't use the app.  What do I do? | Augmented: I had my phone stolen during a robbery. The thief took everything, including my phone. I'm unable to access the app. What can I do to resolve this issue?
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: Can you track my card for me? | Augmented: Could you please help me locate my card?
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: Can my account me accessed by a thief?  I was mugged. | Augmented: Can my account be accessed by an unauthorized person? I had my phone stolen.
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country? | Augmented: I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: My things were stolen and I need to know if I can still use this app. | Augmented: My phone was stolen and I'm wondering if I can still access this app.
+VAL | [compromised_card] | ACCEPT | Reason: ... | Original: What do I do if I believe to be a victim of credit card fraud? | Augmented: If I suspect that my credit card has been compromised, what steps should I take to address the situation?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: Does the PIN come under separate cover? | Augmented: Is the PIN card separate from the physical card?
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here? | Augmented: I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?
+VAL | [change_pin] | ACCEPT | Reason: Both texts are asking about changing a PIN while being abroad in Austria, preserving the same intent. | Original: How can I change my PIN even though I'm out of the country in Austria at the moment? | Augmented: Can I modify my PIN while I'm currently abroad in Austria?
+VAL | [exchange_via_app] | ACCEPT | Reason: N/A | Original: I am from X but am traveling to Y - how do I get currency for Y? | Augmented: I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app.
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: Was there a way for me to get tracking for that? | Augmented: Could you please provide me with tracking information for my card arrival?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: ... | Original: Can you tell me what cards and currencies you support? | Augmented: We accept a range of cards and facilitate transactions in various currencies. Which specific cards and currencies are you interested in knowing about?
+VAL | [supported_cards_and_currencies] | UNKNOWN | Reason: N/A | Original: What are the various currencies and cards that you offer support for? | Augmented: We accept a range of currencies and cards for transactions, including a variety of payment methods.
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: do you accept from usa credit card? | Augmented: Do you support credit cards issued in the United States?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: what currencies can I receive my salary in with this? | Augmented: in what currencies can I receive my salary with this account?
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: I got mugged yesterday and they took everything. I can't use the app, so I need some help. | Augmented: I was robbed yesterday and they took my phone. I'm unable to access the app, so I require assistance.
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: I look but I see no virtual card. Why is that? | Augmented: I'm unable to locate my virtual card. Can you help me understand why it's not showing up?
+VAL_SUMMARY | ACCEPT: 34 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 5 | Accept Rate: 0.8718

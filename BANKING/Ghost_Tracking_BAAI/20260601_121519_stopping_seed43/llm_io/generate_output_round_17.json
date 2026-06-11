@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I'd like to understand why a pending transfer is showing as available.",
+    "I'm experiencing a pending cash withdrawal issue, as the ATM was malfunctioning, and I'm concerned about being charged for the transaction. What can I do to resolve this situation?",
+    "Is there a specific limit beyond which I would no longer be able to increase my limits by topping up?",
+    "Can you tell me more about the physical card's PIN security feature?",
+    "Why is the beneficiary not eligible to receive the allowance?",
+    "Can you tell me about the quickest way to initiate a transfer?",
+    "Google Pay is not recognizing my American Express card, can you help me resolve this issue?",
+    "I was charged a fee for using my card to make the payment.",
+    "How do I go about charging my card to top up my account?",
+    "I'm trying to understand the fee policy for my account. I've noticed that I've been charged fees for certain transactions, but not for others, and I'm having trouble identifying a pattern. Can you help me understand the fee structure?",
+    "We're sorry to hear that you're experiencing issues using American Express to fund your account.",
+    "Why do I see multiple transaction dates on my statement?",
+    "Contactless payment functionality is currently unavailable for my card.",
+    "How can I add funds to my account using cash or cheque?",
+    "If someone wants to add funds to my account, can they do so using my card?",
+    "Can I have my account replenished by my friends using their cards?",
+    "I'm certain I have sufficient funds, so I'm puzzled as to why my payment was declined.",
+    "My temporary virtual card is not functioning properly.",
+    "utilize your credit to top up your account",
+    "Can I review the origin of the funds?",
+    "What's the reason for the extra charge showing up on my statement?",
+    "I'm trying to send some funds to a friend who's in a tight spot and needs the money quickly. Can you tell me when she'll be able to access the transferred amount?",
+    "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening.",
+    "I have a pending outgoing transaction",
+    "I'm frustrated because my recently issued card was repeatedly declined when I tried to use it. Can you please explain why this is happening and what steps I can take to resolve the issue and avoid future declines?",
+    "I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed.",
+    "What is the timing for transferring funds to China?",
+    "I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?",
+    "Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?",
+    "I attempted to withdraw some cash, but the ATM was malfunctioning. The transaction appears to be still pending. Could you look into this matter and ensure I'm not charged for the amount I didn't receive?",
+    "Can I have my friends use their cards to top up my account?",
+    "What payment methods or currencies are accepted for transactions?",
+    "I'm attempting to initiate a transfer from my account to another account, but I'm receiving an error notification.",
+    "What steps should my friend take to transfer funds to my account?",
+    "If the ATM or payment terminal declines my card, what should I do next?"
+  ],
+  "generated_labels": [
+    48,
+    46,
+    60,
+    38,
+    7,
+    67,
+    2,
+    15,
+    57,
+    15,
+    54,
+    63,
+    23,
+    58,
+    62,
+    62,
+    25,
+    72,
+    54,
+    70,
+    34,
+    66,
+    25,
+    48,
+    25,
+    35,
+    67,
+    21,
+    29,
+    46,
+    62,
+    54,
+    27,
+    50,
+    14
+  ],
+  "source_texts": [
+    "I need to know why a money transfer is available.",
+    "Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged?",
+    "Is there any amount in which I would get cut off from topping up?",
+    "Explain the card PIN to me.",
+    "Why is allowance not being given to my beneficiary?",
+    "How do i transfer something faster than normal?",
+    "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+    "I had to pay money for paying with my card.",
+    "Can I get information on topping up?",
+    "Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees.",
+    "Why doesn't it work when I use American Express to try to add money to my account?",
+    "Why does my statement show various transaction times?",
+    "Contactless payments need to be enabled for my card.",
+    "How can I put more money into my account?",
+    "If I want a friend to top off my account, can they?",
+    "Can my account be topped-up by friends of mine.",
+    "I know there's money in my account, why did my account decline me?",
+    "My throwaway virtual card won't work",
+    "use my credit to add money",
+    "Can I track history on funds?",
+    "Why is there a pending hold on one pound on my statement?",
+    "I need to transfer some money to a friend who is in urgent need of some fast cash. How long will it take before she can use that money?",
+    "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+    "I have an outgoing transfer",
+    "I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?",
+    "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+    "How quickly can I transfer something to China?",
+    "I can't freeze my account as I need the card as I am traveling, how do I change my pin?",
+    "A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?",
+    "I tried to get some money but the machine was not working .The transaction still seems in progress! Can you please check what's going on.I don't want to be charged for money that I did not received.",
+    "Can I get my friends to add money to my account?",
+    "What card or currency can I use to pay?",
+    "I'm trying to move money from my account to elsewhere, but it's giving me an error message.",
+    "Do I need to do anything special for my friend to send money to my account?",
+    "What do I do if the machine rejects my card?"
+  ],
+  "records": [
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I need to know why a money transfer is available.",
+      "generated": "I'd like to understand why a pending transfer is showing as available."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged?",
+      "generated": "I'm experiencing a pending cash withdrawal issue, as the ATM was malfunctioning, and I'm concerned about being charged for the transaction. What can I do to resolve this situation?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is there any amount in which I would get cut off from topping up?",
+      "generated": "Is there a specific limit beyond which I would no longer be able to increase my limits by topping up?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Explain the card PIN to me.",
+      "generated": "Can you tell me more about the physical card's PIN security feature?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is allowance not being given to my beneficiary?",
+      "generated": "Why is the beneficiary not eligible to receive the allowance?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How do i transfer something faster than normal?",
+      "generated": "Can you tell me about the quickest way to initiate a transfer?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+      "generated": "Google Pay is not recognizing my American Express card, can you help me resolve this issue?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I had to pay money for paying with my card.",
+      "generated": "I was charged a fee for using my card to make the payment."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Can I get information on topping up?",
+      "generated": "How do I go about charging my card to top up my account?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees.",
+      "generated": "I'm trying to understand the fee policy for my account. I've noticed that I've been charged fees for certain transactions, but not for others, and I'm having trouble identifying a pattern. Can you help me understand the fee structure?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Why doesn't it work when I use American Express to try to add money to my account?",
+      "generated": "We're sorry to hear that you're experiencing issues using American Express to fund your account."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why does my statement show various transaction times?",
+      "generated": "Why do I see multiple transaction dates on my statement?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Contactless payments need to be enabled for my card.",
+      "generated": "Contactless payment functionality is currently unavailable for my card."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How can I put more money into my account?",
+      "generated": "How can I add funds to my account using cash or cheque?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "If I want a friend to top off my account, can they?",
+      "generated": "If someone wants to add funds to my account, can they do so using my card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can my account be topped-up by friends of mine.",
+      "generated": "Can I have my account replenished by my friends using their cards?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I know there's money in my account, why did my account decline me?",
+      "generated": "I'm certain I have sufficient funds, so I'm puzzled as to why my payment was declined."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My throwaway virtual card won't work",
+      "generated": "My temporary virtual card is not functioning properly."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "use my credit to add money",
+      "generated": "utilize your credit to top up your account"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I track history on funds?",
+      "generated": "Can I review the origin of the funds?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is there a pending hold on one pound on my statement?",
+      "generated": "What's the reason for the extra charge showing up on my statement?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I need to transfer some money to a friend who is in urgent need of some fast cash. How long will it take before she can use that money?",
+      "generated": "I'm trying to send some funds to a friend who's in a tight spot and needs the money quickly. Can you tell me when she'll be able to access the transferred amount?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+      "generated": "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have an outgoing transfer",
+      "generated": "I have a pending outgoing transaction"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?",
+      "generated": "I'm frustrated because my recently issued card was repeatedly declined when I tried to use it. Can you please explain why this is happening and what steps I can take to resolve the issue and avoid future declines?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+      "generated": "I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How quickly can I transfer something to China?",
+      "generated": "What is the timing for transferring funds to China?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I can't freeze my account as I need the card as I am traveling, how do I change my pin?",
+      "generated": "I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?",
+      "generated": "Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to get some money but the machine was not working .The transaction still seems in progress! Can you please check what's going on.I don't want to be charged for money that I did not received.",
+      "generated": "I attempted to withdraw some cash, but the ATM was malfunctioning. The transaction appears to be still pending. Could you look into this matter and ensure I'm not charged for the amount I didn't receive?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can I get my friends to add money to my account?",
+      "generated": "Can I have my friends use their cards to top up my account?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What card or currency can I use to pay?",
+      "generated": "What payment methods or currencies are accepted for transactions?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I'm trying to move money from my account to elsewhere, but it's giving me an error message.",
+      "generated": "I'm attempting to initiate a transfer from my account to another account, but I'm receiving an error notification."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do I need to do anything special for my friend to send money to my account?",
+      "generated": "What steps should my friend take to transfer funds to my account?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What do I do if the machine rejects my card?",
+      "generated": "If the ATM or payment terminal declines my card, what should I do next?"
+    }
+  ]
+}

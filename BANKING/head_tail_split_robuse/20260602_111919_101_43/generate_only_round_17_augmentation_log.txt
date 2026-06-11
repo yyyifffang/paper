@@ -1,0 +1,36 @@
+GEN | [get_physical_card] | Orig: Is the PIN sent in another message? -> Aug: Can I receive the physical card separately?
+GEN | [cash_withdrawal_not_recognised] | Orig: I see cash in my app but I did not get it. -> Aug: I'm showing a cash withdrawal in my app, but it's not reflecting in my account.
+GEN | [transfer_not_received_by_recipient] | Orig: Money is not in recipients account. -> Aug: The recipient's account does not show the transferred funds.
+GEN | [cancel_transfer] | Orig: I used the wrong account. -> Aug: I mistakenly selected the wrong account.
+GEN | [cash_withdrawal_not_recognised] | Orig: Help!  The app says I took out cash but I didn't! -> Aug: The app is showing a cash withdrawal that I didn't make.
+GEN | [verify_top_up] | Orig: How do i secure a top-up card? -> Aug: How can I confirm the details of my top-up card?
+GEN | [transfer_timing] | Orig: How do i transfer something faster than normal? -> Aug: Can you tell me about the quickest way to initiate a transfer?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks. -> Aug: I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?
+GEN | [pending_transfer] | Orig: I need to know why a money transfer is available. -> Aug: I'd like to understand why a pending transfer is showing as available.
+GEN | [cancel_transfer] | Orig: Is it possible for a transaction to be cancelled? -> Aug: Can I cancel a transfer that's already been initiated?
+GEN | [card_acceptance] | Orig: Is the card welcomed by everybody? -> Aug: Is the card accepted by all parties involved?
+GEN | [visa_or_mastercard] | Orig: If I can't choose my card type will I be able to use it everywhere? -> Aug: If I'm unable to select my preferred payment method, will I still be able to make purchases with my Visa or Mastercard at any merchant?
+GEN | [card_payment_fee_charged] | Orig: I had to pay money for paying with my card. -> Aug: I was charged a fee for using my card to make the payment.
+GEN | [cash_withdrawal_not_recognised] | Orig: i didnt put that money in my account -> Aug: i didn't deposit that amount into my account
+GEN | [cash_withdrawal_not_recognised] | Orig: I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me? -> Aug: I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?
+GEN | [passcode_forgotten] | Orig: Please help me.  I don't know my code to get into the app. -> Aug: I'm having trouble remembering my passcode to access the app.
+GEN | [pin_blocked] | Orig: I enetered the wrong information, I need my account unblocked How do I do that? -> Aug: I mistakenly entered incorrect details, please help me resolve the issue and unblock my account.
+GEN | [card_acceptance] | Orig: Is there anywhere I can't use my card? -> Aug: Are there any specific places or situations where my card won't be accepted?
+GEN | [cash_withdrawal_not_recognised] | Orig: Some cash shows up on my app. -> Aug: There's an unexpected cash withdrawal showing up on my account.
+GEN | [transfer_timing] | Orig: How long do I have to wait for Europe transfers? -> Aug: What is the typical timeframe for international transfers to Europe?
+GEN | [lost_or_stolen_card] | Orig: A fee shouldn't apply to me if my card was stolen. -> Aug: I shouldn't be charged a fee if my credit card was stolen.
+GEN | [transfer_not_received_by_recipient] | Orig: When will I get my money? It's been too long. -> Aug: Why hasn't my transfer arrived yet? It's been an unacceptable delay.
+GEN | [exchange_via_app] | Orig: What do I need to do to exchange my money? -> Aug: To initiate a currency exchange, what are the steps I need to take using the app?
+GEN | [top_up_reverted] | Orig: The app reversed a top off I had.  What should I do? -> Aug: The app has cancelled the recent top-up I made. What should I do now?
+GEN | [top_up_failed] | Orig: I didn't see the money I added to my card. -> Aug: I didn't receive the funds I attempted to add to my card.
+GEN | [reverted_card_payment?] | Orig: HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it? -> Aug: Why was the payment made to my account if the seller claims they haven't received it? Can you clarify when the payment will be reversed?
+GEN | [transfer_timing] | Orig: How quickly can I transfer something to China? -> Aug: What is the timing for transferring funds to China?
+GEN | [direct_debit_payment_not_recognised] | Orig: If I found an error in my account for a transaction I didn't make, how long to I have to dispute it? -> Aug: We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?
+GEN | [verify_top_up] | Orig: Help me verify the card used on a top-up. -> Aug: Can you assist me in confirming the card information used for a recent top-up transaction?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I did a transfer but the balance is the same. -> Aug: I made a transfer, but my account balance hasn't been updated.
+GEN | [transfer_into_account] | Orig: I need to move money from one of my other accounts to this one. -> Aug: I'd like to transfer funds from another account to this account.
+GEN | [exchange_via_app] | Orig: I am from X but am traveling to Y - how do I get currency for Y? -> Aug: I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: help my money isnt showing up -> Aug: my account balance isn't reflecting the recent transfer
+GEN | [reverted_card_payment?] | Orig: I was just contacted by a seller that let me know they didn't get my money even though I'm very sure it was removed from my account. Now it's back in my account. Get this resolved quickly. -> Aug: I'm concerned about a payment I made that was initially deducted from my account, but then reversed. The seller has informed me that they didn't receive the payment. Can you look into this and resolve the issue as soon as possible?
+GEN | [transfer_fee_charged] | Orig: I bought something online and it says there was a fee to transfer money. Isn't that free? -> Aug: I made an online purchase and noticed that a transfer fee was deducted from the transaction. Shouldn't this be a free service?
+GEN | [direct_debit_payment_not_recognised] | Orig: I need to cancel a transaction on my debit card. -> Aug: I'm trying to stop a direct debit payment that was made from my account.

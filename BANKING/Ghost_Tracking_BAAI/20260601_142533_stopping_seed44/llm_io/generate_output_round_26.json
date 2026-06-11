@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "How can I confirm the details of my card?",
+    "What payment methods or currencies are accepted for transactions?",
+    "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance.",
+    "Please provide me with a temporary virtual credit card.",
+    "Is there a fee associated with recharging a US-issued card?",
+    "The rate used for the foreign currency conversion was incorrect, resulting in an unexpected amount being charged to my card.",
+    "I was overcharged for the item, and the amount doesn't match the expected exchange rate.",
+    "I require a replacement card and I am a resident of the United States.",
+    "What is the process and timeline for replacing an expiring card?",
+    "Please dispatch my refund immediately.",
+    "Are there any charges involved when I top up my account using my card?",
+    "I'm trying to check if the refund for my recent purchase has been processed and credited to my account. I've already reached out to the merchant, but they haven't confirmed any updates on the status of the refund. Can you please let me know if the funds have been received?",
+    "If I make a top-up payment via bank transfer, are there any charges involved?",
+    "I need a replacement card",
+    "How can I activate my new card so I can start using it?",
+    "If I make a card deposit, what payment methods and currencies are available to me?",
+    "Is my British pound salary eligible for direct deposit into my account without conversion?",
+    "What is the fee for receiving funds via bank transfer?",
+    "Is my new card ready for use?",
+    "When will my pending top-up be processed?",
+    "To facilitate a transfer, could you please provide me with your bank account information?",
+    "I've stopped making payments on this card.",
+    "The amount of cash I received is not what I was expecting.",
+    "I'm still waiting to receive an update on my refund. Despite my previous efforts to check on its status, I've been unable to get a clear answer. Could you please investigate this matter for me?",
+    "How do you facilitate transfers into an account?",
+    "I'm having trouble accessing my virtual prepaid card",
+    "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening.",
+    "My top-up request is still pending.",
+    "Is my credit card being rejected anywhere?",
+    "Can I accept payment in a different currency?",
+    "Are there any restrictions on the usage of disposable cards?",
+    "Can I get a new card? I'd like to purchase an additional one.",
+    "We're having trouble confirming your account information.",
+    "can I recharge my account using a card charge instead?",
+    "My temporary virtual card was declined",
+    "Google Pay is not recognizing my American Express card, can you help me resolve this issue?",
+    "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?",
+    "The exchange rate applied to my card payment appears to be inaccurate."
+  ],
+  "generated_labels": [
+    71,
+    54,
+    17,
+    37,
+    57,
+    17,
+    17,
+    24,
+    9,
+    51,
+    57,
+    51,
+    56,
+    39,
+    0,
+    54,
+    50,
+    56,
+    0,
+    47,
+    65,
+    53,
+    75,
+    51,
+    65,
+    72,
+    25,
+    47,
+    10,
+    50,
+    29,
+    39,
+    68,
+    57,
+    72,
+    2,
+    76,
+    17
+  ],
+  "source_texts": [
+    "What can I do to verify my card?",
+    "What card or currency can I use to pay?",
+    "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+    "Please send me a disposable virtual card.",
+    "Are there any charges for topping up a US-issued card?",
+    "Why was the exchange wrong for the item I purchased?",
+    "I was charged the wing amount for an item.",
+    "I need a new card and I live in the United States.",
+    "What is the cost and time frame of getting a new card?",
+    "Please send my refund now.",
+    "I was wondering if you will take any fees in exchange for top ups?",
+    "Hello. Please, would you tell me if you have or have not received funds for a refund that I recently requested for a big purchase? I've contacted the merchant, but I can't tell that they have taken any action on it.",
+    "If I top-up by using a trasfer are there charges that applied?",
+    "I want a new card",
+    "What do I need to do in order to use my card I just got?",
+    "If I top up by card, what options do I have re: currency and card type?",
+    "My salary is in GBP, do I need to exchange it before putting it into my account?",
+    "How much is it to receive money?",
+    "Can I use my new card?",
+    "When will my top up be approved?",
+    "What are my bank details so I can do a transfer?",
+    "I have cancelled payments to this card.",
+    "My cash received does not match what has been requested",
+    "I am still waiting to find out the status of my refund. I have made previous attempts to find out what the status is to no avail. Will you please look into this for me?",
+    "What transfer methods do you accept?",
+    "I can't use my virtual disposable card",
+    "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+    "My top is still pending.",
+    "Is my card denied anywhere?",
+    "Can I receive payment in another currency?",
+    "Are there limits on the virtual cards?",
+    "How much is it to buy another card? I was hoping to buy another one.",
+    "Problem verifying my account",
+    "should i add money via bank transfer instead",
+    "My disposable virtual card got rejected",
+    "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+    "Can you check the exchange rate on a cash transaction I did overseas",
+    "It seems that the rate I got is incorrect."
+  ],
+  "records": [
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What can I do to verify my card?",
+      "generated": "How can I confirm the details of my card?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What card or currency can I use to pay?",
+      "generated": "What payment methods or currencies are accepted for transactions?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+      "generated": "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Please send me a disposable virtual card.",
+      "generated": "Please provide me with a temporary virtual credit card."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are there any charges for topping up a US-issued card?",
+      "generated": "Is there a fee associated with recharging a US-issued card?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why was the exchange wrong for the item I purchased?",
+      "generated": "The rate used for the foreign currency conversion was incorrect, resulting in an unexpected amount being charged to my card."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I was charged the wing amount for an item.",
+      "generated": "I was overcharged for the item, and the amount doesn't match the expected exchange rate."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I need a new card and I live in the United States.",
+      "generated": "I require a replacement card and I am a resident of the United States."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What is the cost and time frame of getting a new card?",
+      "generated": "What is the process and timeline for replacing an expiring card?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Please send my refund now.",
+      "generated": "Please dispatch my refund immediately."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I was wondering if you will take any fees in exchange for top ups?",
+      "generated": "Are there any charges involved when I top up my account using my card?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Hello. Please, would you tell me if you have or have not received funds for a refund that I recently requested for a big purchase? I've contacted the merchant, but I can't tell that they have taken any action on it.",
+      "generated": "I'm trying to check if the refund for my recent purchase has been processed and credited to my account. I've already reached out to the merchant, but they haven't confirmed any updates on the status of the refund. Can you please let me know if the funds have been received?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "If I top-up by using a trasfer are there charges that applied?",
+      "generated": "If I make a top-up payment via bank transfer, are there any charges involved?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I want a new card",
+      "generated": "I need a replacement card"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "What do I need to do in order to use my card I just got?",
+      "generated": "How can I activate my new card so I can start using it?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "If I top up by card, what options do I have re: currency and card type?",
+      "generated": "If I make a card deposit, what payment methods and currencies are available to me?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My salary is in GBP, do I need to exchange it before putting it into my account?",
+      "generated": "Is my British pound salary eligible for direct deposit into my account without conversion?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much is it to receive money?",
+      "generated": "What is the fee for receiving funds via bank transfer?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Can I use my new card?",
+      "generated": "Is my new card ready for use?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "When will my top up be approved?",
+      "generated": "When will my pending top-up be processed?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are my bank details so I can do a transfer?",
+      "generated": "To facilitate a transfer, could you please provide me with your bank account information?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I have cancelled payments to this card.",
+      "generated": "I've stopped making payments on this card."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "My cash received does not match what has been requested",
+      "generated": "The amount of cash I received is not what I was expecting."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I am still waiting to find out the status of my refund. I have made previous attempts to find out what the status is to no avail. Will you please look into this for me?",
+      "generated": "I'm still waiting to receive an update on my refund. Despite my previous efforts to check on its status, I've been unable to get a clear answer. Could you please investigate this matter for me?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What transfer methods do you accept?",
+      "generated": "How do you facilitate transfers into an account?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't use my virtual disposable card",
+      "generated": "I'm having trouble accessing my virtual prepaid card"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+      "generated": "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "My top is still pending.",
+      "generated": "My top-up request is still pending."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is my card denied anywhere?",
+      "generated": "Is my credit card being rejected anywhere?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I receive payment in another currency?",
+      "generated": "Can I accept payment in a different currency?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Are there limits on the virtual cards?",
+      "generated": "Are there any restrictions on the usage of disposable cards?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How much is it to buy another card? I was hoping to buy another one.",
+      "generated": "Can I get a new card? I'd like to purchase an additional one."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "Problem verifying my account",
+      "generated": "We're having trouble confirming your account information."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "should i add money via bank transfer instead",
+      "generated": "can I recharge my account using a card charge instead?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card got rejected",
+      "generated": "My temporary virtual card was declined"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+      "generated": "Google Pay is not recognizing my American Express card, can you help me resolve this issue?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can you check the exchange rate on a cash transaction I did overseas",
+      "generated": "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "It seems that the rate I got is incorrect.",
+      "generated": "The exchange rate applied to my card payment appears to be inaccurate."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+GEN | [lost_or_stolen_card] | Orig: Could you please freeze my card immediately? -> Aug: Can you put a hold on my card right away?
+GEN | [automatic_top_up] | Orig: How can I Use thereto-top option? -> Aug: How can I utilize the automatic top-up feature?
+GEN | [beneficiary_not_allowed] | Orig: Hi,  Is there any problem with app? As i am facing some issues with the exchange of crypto currency. I am extremely interested in buying. -> Aug: Hello, I'm having some trouble with the app. I'm trying to exchange cryptocurrency, but it's not working as expected. I'm eager to make a purchase.
+GEN | [activate_my_card] | Orig: You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there. -> Aug: You can complete the process quickly. Simply navigate to your account, select the "Activate" option, and follow the prompts to finish.
+GEN | [card_acceptance] | Orig: Who accepts the card? -> Aug: What financial institutions or merchants accept the card?
+GEN | [supported_cards_and_currencies] | Orig: Will you accept my credit card, it my only one. -> Aug: Can you accept my credit card, as it's the only one I have?
+GEN | [supported_cards_and_currencies] | Orig: I only have one other credit card from the US. Do you accept that? -> Aug: I'm wondering if you support any other credit cards besides the one I'm using, specifically one from the United States.
+GEN | [country_support] | Orig: May I get one of your cards?  I live in the EU. -> Aug: Might I request a card, as I am a resident of the European Union?
+GEN | [supported_cards_and_currencies] | Orig: What are the currencies and cards that are supported with my account? -> Aug: What types of payment methods and currencies are accepted with my account?
+GEN | [supported_cards_and_currencies] | Orig: Can you accept my other card from the U.S.?  It is the only other one I have. -> Aug: Can you accept my other credit card issued in the United States? It's the only other one I possess.
+GEN | [supported_cards_and_currencies] | Orig: My card wants to be topped what do you guys support? -> Aug: What payment methods do you accept for card reloads?
+GEN | [fiat_currency_support] | Orig: Do you have a problem with EUR exchanges? -> Aug: Are you experiencing an issue with converting or exchanging euros?
+GEN | [card_about_to_expire] | Orig: I'm in China and really need a new card. -> Aug: I'm currently abroad in China and urgently require a replacement card.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this? -> Aug: Can I withdraw cash from my home country using one of your machines while I'm on holiday? I'm worried about not having any local currency with me and would like to know if I'll be charged a fee for this service.
+GEN | [country_support] | Orig: Is there anywhere  In the  Eu  this card can not be delivered in -> Aug: Can this card be delivered to any location within the European Union, or are there specific areas where it cannot be delivered?
+GEN | [activate_my_card] | Orig: Please assist me with activation. -> Aug: Please help me activate my card.
+GEN | [card_acceptance] | Orig: You accepts my card? -> Aug: Is your card accepted?
+GEN | [card_arrival] | Orig: Was there a number to track that I could get? -> Aug: Is there a tracking number I can use to monitor the status of my card arrival?
+GEN | [terminate_account] | Orig: What are the steps to finishing up with this account? -> Aug: How do I go about closing this account?
+GEN | [activate_my_card] | Orig: Would you be so kind as to activate my card? Thanks -> Aug: Could you please activate my card for me? I'd greatly appreciate it.
+GEN | [edit_personal_details] | Orig: I just had a wedding and I want to take my spouses name. -> Aug: I recently got married and I'd like to update my personal details to reflect my new married name.
+GEN | [supported_cards_and_currencies] | Orig: Can you tell me which cards and currencies are supported? -> Aug: We'd be happy to inform you about the cards and currencies we currently accept.
+GEN | [card_delivery_estimate] | Orig: can you express my card to me? -> Aug: Can you provide an estimate for the delivery of my card?
+GEN | [verify_top_up] | Orig: I would like to receive instructions showing the verification process for top up cards.. -> Aug: I'd appreciate guidance on the steps to confirm the top-up process for my prepaid cards.
+GEN | [terminate_account] | Orig: Can you please disable my current account. -> Aug: Can you assist me in closing my active account?
+GEN | [edit_personal_details] | Orig: details need to be modified -> Aug: information needs to be updated
+GEN | [country_support] | Orig: I'm in the EU. Can I get one of your cards? -> Aug: I'm a resident of the European Union. Can I obtain one of your credit cards?
+GEN | [country_support] | Orig: I am in the EU. Can I get one of your cards? -> Aug: I am a resident in the European Union. Can I obtain one of your credit cards?
+GEN | [beneficiary_not_allowed] | Orig: Why can't I buy cryptocurrency on the app? -> Aug: Why am I unable to purchase cryptocurrency through the mobile application?
+GEN | [beneficiary_not_allowed] | Orig: I'm trying to purchase crypto via the app. I haven't been able to get it to go through. Am I doing something wrong? -> Aug: I'm having trouble completing a crypto purchase through the app. Can you help me figure out what's preventing it from processing?
+GEN | [virtual_card_not_working] | Orig: My Virtual card was rejected for a car rental. Why? -> Aug: My virtual card was declined for a car rental, and I'm wondering why.
+GEN | [declined_card_payment] | Orig: Hi, is everything in good standing with my card? I am receiving multiple "decline" messages. -> Aug: Hi, I'm getting a few "decline" notifications regarding my card. Is everything okay with my account?
+GEN | [card_about_to_expire] | Orig: How can I get a card sent to China? -> Aug: What steps can I take to have a card delivered to China?
+GEN | [age_limit] | Orig: My daughter needs to open account. -> Aug: A minor is seeking to establish a new account.
+GEN | [disposable_card_limits] | Orig: i tried using a virtual card for a hotel but it didn't work, why not -> Aug: I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?
+GEN | [getting_virtual_card] | Orig: I would love one of the virtual cards! -> Aug: I'd like to obtain a virtual card, please.
+GEN | [activate_my_card] | Orig: I need to actuate my card. -> Aug: I'd like to activate my card.
+GEN | [supported_cards_and_currencies] | Orig: Will you accept my credit card? -> Aug: Do you support credit card payments?
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: N/A | Original: Could you please freeze my card immediately? | Augmented: Can you put a hold on my card right away?
+VAL | [automatic_top_up] | ACCEPT | Reason: N/A | Original: How can I Use thereto-top option? | Augmented: How can I utilize the automatic top-up feature?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: Hi,  Is there any problem with app? As i am facing some issues with the exchange of crypto currency. I am extremely interested in buying. | Augmented: Hello, I'm having some trouble with the app. I'm trying to exchange cryptocurrency, but it's not working as expected. I'm eager to make a purchase.
+VAL | [activate_my_card] | ACCEPT | Reason: ... | Original: You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there. | Augmented: You can complete the process quickly. Simply navigate to your account, select the "Activate" option, and follow the prompts to finish.
+VAL | [card_acceptance] | ACCEPT | Reason: N/A | Original: Who accepts the card? | Augmented: What financial institutions or merchants accept the card?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: Will you accept my credit card, it my only one. | Augmented: Can you accept my credit card, as it's the only one I have?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: ... | Original: I only have one other credit card from the US. Do you accept that? | Augmented: I'm wondering if you support any other credit cards besides the one I'm using, specifically one from the United States.
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: May I get one of your cards?  I live in the EU. | Augmented: Might I request a card, as I am a resident of the European Union?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: What are the currencies and cards that are supported with my account? | Augmented: What types of payment methods and currencies are accepted with my account?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: Can you accept my other card from the U.S.?  It is the only other one I have. | Augmented: Can you accept my other credit card issued in the United States? It's the only other one I possess.
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: My card wants to be topped what do you guys support? | Augmented: What payment methods do you accept for card reloads?
+VAL | [fiat_currency_support] | ACCEPT | Reason: Both texts are asking about problems with exchanging euros, which is consistent with the fiat_currency_support intent. | Original: Do you have a problem with EUR exchanges? | Augmented: Are you experiencing an issue with converting or exchanging euros?
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: I'm in China and really need a new card. | Augmented: I'm currently abroad in China and urgently require a replacement card.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | UNKNOWN | Reason: N/A | Original: Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this? | Augmented: Can I withdraw cash from my home country using one of your machines while I'm on holiday? I'm worried about not having any local currency with me and would like to know if I'll be charged a fee for this service.
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: Is there anywhere  In the  Eu  this card can not be delivered in | Augmented: Can this card be delivered to any location within the European Union, or are there specific areas where it cannot be delivered?
+VAL | [activate_my_card] | ACCEPT | Reason: ... | Original: Please assist me with activation. | Augmented: Please help me activate my card.
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: You accepts my card? | Augmented: Is your card accepted?
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: Was there a number to track that I could get? | Augmented: Is there a tracking number I can use to monitor the status of my card arrival?
+VAL | [terminate_account] | ACCEPT | Reason: Both texts are asking about the process of ending an account relationship, which aligns with the target intent of 'terminate_account'. There is no contradiction, and the text is specific enough. | Original: What are the steps to finishing up with this account? | Augmented: How do I go about closing this account?
+VAL | [activate_my_card] | ACCEPT | Reason: ... | Original: Would you be so kind as to activate my card? Thanks | Augmented: Could you please activate my card for me? I'd greatly appreciate it.
+VAL | [edit_personal_details] | ACCEPT | Reason: N/A | Original: I just had a wedding and I want to take my spouses name. | Augmented: I recently got married and I'd like to update my personal details to reflect my new married name.
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: ... | Original: Can you tell me which cards and currencies are supported? | Augmented: We'd be happy to inform you about the cards and currencies we currently accept.
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: can you express my card to me? | Augmented: Can you provide an estimate for the delivery of my card?
+VAL | [verify_top_up] | ACCEPT | Reason: N/A | Original: I would like to receive instructions showing the verification process for top up cards.. | Augmented: I'd appreciate guidance on the steps to confirm the top-up process for my prepaid cards.
+VAL | [terminate_account] | ACCEPT | Reason: N/A | Original: Can you please disable my current account. | Augmented: Can you assist me in closing my active account?
+VAL | [edit_personal_details] | ACCEPT | Reason: Both phrases indicate a need to change or correct personal information in a banking context. | Original: details need to be modified | Augmented: information needs to be updated
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: I'm in the EU. Can I get one of your cards? | Augmented: I'm a resident of the European Union. Can I obtain one of your credit cards?
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: I am in the EU. Can I get one of your cards? | Augmented: I am a resident in the European Union. Can I obtain one of your credit cards?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: Why can't I buy cryptocurrency on the app? | Augmented: Why am I unable to purchase cryptocurrency through the mobile application?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: I'm trying to purchase crypto via the app. I haven't been able to get it to go through. Am I doing something wrong? | Augmented: I'm having trouble completing a crypto purchase through the app. Can you help me figure out what's preventing it from processing?
+VAL | [virtual_card_not_working] | ACCEPT | Reason: ... | Original: My Virtual card was rejected for a car rental. Why? | Augmented: My virtual card was declined for a car rental, and I'm wondering why.
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: Hi, is everything in good standing with my card? I am receiving multiple "decline" messages. | Augmented: Hi, I'm getting a few "decline" notifications regarding my card. Is everything okay with my account?
+VAL | [card_about_to_expire] | UNKNOWN | Reason: N/A | Original: How can I get a card sent to China? | Augmented: What steps can I take to have a card delivered to China?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: My daughter needs to open account. | Augmented: A minor is seeking to establish a new account.
+VAL | [disposable_card_limits] | ACCEPT | Reason: ... | Original: i tried using a virtual card for a hotel but it didn't work, why not | Augmented: I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: I would love one of the virtual cards! | Augmented: I'd like to obtain a virtual card, please.
+VAL | [activate_my_card] | ACCEPT | Reason: N/A | Original: I need to actuate my card. | Augmented: I'd like to activate my card.
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: Will you accept my credit card? | Augmented: Do you support credit card payments?
+VAL_SUMMARY | ACCEPT: 36 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 2 | Accept Rate: 0.9474

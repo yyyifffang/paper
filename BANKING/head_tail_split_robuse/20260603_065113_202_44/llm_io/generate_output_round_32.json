@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "why isn't my account balance updated after I made a transfer?",
+    "I've reviewed my account information to confirm everything is accurate, and I'm still waiting for a pending transfer to process.",
+    "If I receive a bank transfer from someone, will I be charged a fee?",
+    "The incorrect account was mistakenly used for a transfer.",
+    "Can I set up recurring automatic top-ups?",
+    "I'm having trouble accessing the app and need help recovering my phone.",
+    "I'm having trouble using my physical card",
+    "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?",
+    "I'm having trouble withdrawing cash from the ATM and I'm certain I entered my PIN correctly. Can you assist me with this issue?",
+    "I've double-checked the account number to ensure it's accurate, as I initiated a domestic transfer yesterday. However, the recipient hasn't received the funds yet. Can you investigate this issue for me?",
+    "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system.",
+    "I made a purchase, but it looks like I've been charged twice, even though my card was declined.",
+    "A payment has not been successfully processed yet.",
+    "Must I set a limit on my top-up transactions?",
+    "Can you assist me in resolving the issue with my card not functioning properly?",
+    "Is there a maximum amount I'm allowed to top up within a specific timeframe?",
+    "If I've damaged my card, what should I do?",
+    "What steps should I take once my credit card's expiration date has passed?",
+    "I'd like to replace a faulty card.",
+    "I'm having trouble finalizing a transaction. I'm attempting to buy some cryptocurrency, but the app is preventing me from doing so. Can you help me understand what's blocking this process?",
+    "I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?",
+    "Where can I use my card?",
+    "I accidentally left my phone behind, and now I'm unable to access the app. Does this mean I'm unable to use my card?",
+    "My cash withdrawal was declined at the ATM in Notting Hill, and I'm wondering if there's an issue with my card.",
+    "I'd like to connect my card to my account.",
+    "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.",
+    "I'd like to initiate a refund for a recent transaction on my account.",
+    "Why hasn't my account balance been updated after the recent bank transfer?",
+    "I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?",
+    "I made a payment to top up my account, but the funds are still pending, can you tell me what's going on?",
+    "How long does it take for a cheque to clear before I can use it to top up my account?",
+    "I'm having trouble using my card. Can you assist me?",
+    "I tried to enter my PIN multiple times.",
+    "I'd like to know if you support cards issued in the United States.",
+    "This direct debit payment is not recognized as my transaction. How can I retrieve my funds?",
+    "I'd like to cancel my transaction and seek a refund."
+  ],
+  "generated_labels": [
+    5,
+    48,
+    56,
+    8,
+    4,
+    42,
+    14,
+    59,
+    26,
+    66,
+    61,
+    63,
+    45,
+    60,
+    14,
+    60,
+    14,
+    9,
+    14,
+    7,
+    61,
+    10,
+    42,
+    26,
+    13,
+    20,
+    52,
+    5,
+    59,
+    47,
+    58,
+    14,
+    49,
+    54,
+    28,
+    52
+  ],
+  "source_texts": [
+    "how do i see what i transferred",
+    "Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet.",
+    "If someone sends me money, will I be charged?",
+    "The wrong account was used during a transaction.",
+    "Can I schedule future top ups?",
+    "What do I do if I cannot access the app?",
+    "I can't get my actual card to work",
+    "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+    "Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money.",
+    "I've checked multiple times to make sure the account number listed is the right one after attempting to make a transfer within the country the day before yesterday. The transfer is still not available so can you please find out what is going on?",
+    "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+    "My card was declined but it shows as multiple charges?",
+    "There is a payment that has not processed.",
+    "Do I need to use a limit on top-ups?",
+    "Need help to get my card to work.",
+    "Is there a top-up limit that I have to stay under during a given period of time?",
+    "What do I do if i accidentally broke my card?",
+    "Tell me what I should do after my card expires.",
+    "How do I re-order a damaged card?",
+    "I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here?",
+    "I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that?",
+    "How do I know where I can use my card?",
+    "I misplaced my phone so I can't use the app! Does this mean I can't use my card?",
+    "My card didn't work at the ATM in Notting Hill.  Is my card working?",
+    "I would like to link my card to my account.",
+    "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+    "How do I reverse a transaction on my account?",
+    "Where is the transfer that I did?",
+    "I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",
+    "I already paid to top-up but the funds aren't available yet, where are they?",
+    "How long before a check I send clears?",
+    "I can't seem to use my card. Can you help?",
+    "I attempted to enter my pin to many times.",
+    "I have another card from the U.S. Will you be able to accept that one?",
+    "This debit is not my transcation. How do I get my money out back?",
+    "I would like to retract my purchase."
+  ],
+  "records": [
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "how do i see what i transferred",
+      "generated": "why isn't my account balance updated after I made a transfer?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet.",
+      "generated": "I've reviewed my account information to confirm everything is accurate, and I'm still waiting for a pending transfer to process."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "If someone sends me money, will I be charged?",
+      "generated": "If I receive a bank transfer from someone, will I be charged a fee?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "The wrong account was used during a transaction.",
+      "generated": "The incorrect account was mistakenly used for a transfer."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I schedule future top ups?",
+      "generated": "Can I set up recurring automatic top-ups?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "What do I do if I cannot access the app?",
+      "generated": "I'm having trouble accessing the app and need help recovering my phone."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't get my actual card to work",
+      "generated": "I'm having trouble using my physical card"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+      "generated": "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money.",
+      "generated": "I'm having trouble withdrawing cash from the ATM and I'm certain I entered my PIN correctly. Can you assist me with this issue?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I've checked multiple times to make sure the account number listed is the right one after attempting to make a transfer within the country the day before yesterday. The transfer is still not available so can you please find out what is going on?",
+      "generated": "I've double-checked the account number to ensure it's accurate, as I initiated a domestic transfer yesterday. However, the recipient hasn't received the funds yet. Can you investigate this issue for me?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+      "generated": "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My card was declined but it shows as multiple charges?",
+      "generated": "I made a purchase, but it looks like I've been charged twice, even though my card was declined."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "There is a payment that has not processed.",
+      "generated": "A payment has not been successfully processed yet."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Do I need to use a limit on top-ups?",
+      "generated": "Must I set a limit on my top-up transactions?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Need help to get my card to work.",
+      "generated": "Can you assist me in resolving the issue with my card not functioning properly?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is there a top-up limit that I have to stay under during a given period of time?",
+      "generated": "Is there a maximum amount I'm allowed to top up within a specific timeframe?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What do I do if i accidentally broke my card?",
+      "generated": "If I've damaged my card, what should I do?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Tell me what I should do after my card expires.",
+      "generated": "What steps should I take once my credit card's expiration date has passed?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I re-order a damaged card?",
+      "generated": "I'd like to replace a faulty card."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here?",
+      "generated": "I'm having trouble finalizing a transaction. I'm attempting to buy some cryptocurrency, but the app is preventing me from doing so. Can you help me understand what's blocking this process?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that?",
+      "generated": "I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "How do I know where I can use my card?",
+      "generated": "Where can I use my card?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I misplaced my phone so I can't use the app! Does this mean I can't use my card?",
+      "generated": "I accidentally left my phone behind, and now I'm unable to access the app. Does this mean I'm unable to use my card?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "My card didn't work at the ATM in Notting Hill.  Is my card working?",
+      "generated": "My cash withdrawal was declined at the ATM in Notting Hill, and I'm wondering if there's an issue with my card."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I would like to link my card to my account.",
+      "generated": "I'd like to connect my card to my account."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+      "generated": "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "How do I reverse a transaction on my account?",
+      "generated": "I'd like to initiate a refund for a recent transaction on my account."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Where is the transfer that I did?",
+      "generated": "Why hasn't my account balance been updated after the recent bank transfer?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",
+      "generated": "I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I already paid to top-up but the funds aren't available yet, where are they?",
+      "generated": "I made a payment to top up my account, but the funds are still pending, can you tell me what's going on?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How long before a check I send clears?",
+      "generated": "How long does it take for a cheque to clear before I can use it to top up my account?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't seem to use my card. Can you help?",
+      "generated": "I'm having trouble using my card. Can you assist me?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I attempted to enter my pin to many times.",
+      "generated": "I tried to enter my PIN multiple times."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I have another card from the U.S. Will you be able to accept that one?",
+      "generated": "I'd like to know if you support cards issued in the United States."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "This debit is not my transcation. How do I get my money out back?",
+      "generated": "This direct debit payment is not recognized as my transaction. How can I retrieve my funds?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I would like to retract my purchase.",
+      "generated": "I'd like to cancel my transaction and seek a refund."
+    }
+  ]
+}

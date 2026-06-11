@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "Can you assist me in locating the recent transfer I made?",
+    "I'm having trouble logging in because I've forgotten my passcode.",
+    "Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination.",
+    "If someone wants to add funds to my account, can they do so using my card?",
+    "Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time.",
+    "I'm trying to figure out where this payment is coming from.",
+    "Why was my cash withdrawal request denied?",
+    "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance.",
+    "I was attempting to deduct a sum from my account and now my card is inaccessible.",
+    "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?",
+    "I require an immediate refund, but the refund amount is not showing up in my account.",
+    "Can I initiate a currency exchange through the app?",
+    "I'm unable to locate the transfer receipt.",
+    "We're having trouble verifying your identity through our system.",
+    "This payment made with the card is not being recognized.",
+    "How can I use my credit card to make a payment or add funds to my account?",
+    "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?",
+    "Will I be charged a fee when I top up my account using a bank transfer?",
+    "I was left with no funds and couldn't afford to fill up my tank.",
+    "Can you assist me in retrieving my swallowed card?",
+    "I'm experiencing an issue with an unauthorized cash withdrawal that was made on my account. I still have my card in my possession, but the transaction doesn't seem to be recognized by the system.",
+    "I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?",
+    "Can I receive a physical card to carry with me?",
+    "What is the timeframe for disputing payments on my statement after it's been received?",
+    "The system is unable to confirm that the user is the account holder.",
+    "Why isn't my bank transfer reflected in my account balance?",
+    "It seems that my request to top up was unsuccessful.",
+    "what is the charge for topping up my account using my card?",
+    "I'm having difficulty with the app verifying my identity.",
+    "Can I switch the currency I'm using through your app?",
+    "What kind of payment card will I be issued?",
+    "I'd like to terminate my recent purchase and initiate a refund process.",
+    "Is the card accepted by all parties involved?",
+    "The system is unable to confirm your identity.",
+    "I mistakenly entered an incorrect account number."
+  ],
+  "generated_labels": [
+    5,
+    44,
+    5,
+    62,
+    48,
+    16,
+    26,
+    17,
+    18,
+    46,
+    51,
+    33,
+    66,
+    68,
+    16,
+    62,
+    63,
+    56,
+    62,
+    18,
+    20,
+    33,
+    43,
+    28,
+    68,
+    5,
+    59,
+    57,
+    68,
+    33,
+    73,
+    52,
+    10,
+    68,
+    8
+  ],
+  "source_texts": [
+    "Help me find the transfer that I did.",
+    "I can't access my account.",
+    "Please check to see if the band transfer I made a while ago from my UK account has safely arrived.",
+    "If I want a friend to top off my account, can they?",
+    "As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far.",
+    "I need to know where this charge is coming from?",
+    "Why can't I take money from my account?",
+    "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+    "I was removing a dollar amount from my account and now don't have access to my card.",
+    "Why is the app showing a still pending message on a withdraw that has already been done?",
+    "i need a refund right away but the funds aren't available in my account",
+    "Can i add a new currency to my account?",
+    "I dont see my reciept",
+    "I am not recognized by the app.",
+    "This card payment isn't is recognition.",
+    "Hoe do i use my credit card to transfer money?",
+    "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+    "Will there be a charge when money is added to my account?",
+    "My money I had was gone and I could not get gas!",
+    "Will you please help me get my card back?",
+    "There are incorrect charges on my account, there was a WD that was made by someone else.  I still have my card though.",
+    "I may no longer need GBP, but instead I will need AUD, how can I go about making this change?",
+    "Do I get a card to keep in my wallet?",
+    "How long after I receive my statement can I dispute payments on it?",
+    "The app is not able to realize that it is me.",
+    "How can I fix my bank transfer to show up on my bank account?",
+    "It does not appear that my message went through.",
+    "how much does it cost to add money",
+    "I am having trouble with the app recognizing me.",
+    "Do you support changing the currency I use?",
+    "Which type of card will I receive?",
+    "Canceling my order is what I need to do right now.",
+    "Is the card welcomed by everybody?",
+    "The app doesn't believe its me.",
+    "I used the wrong account number!"
+  ],
+  "records": [
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Help me find the transfer that I did.",
+      "generated": "Can you assist me in locating the recent transfer I made?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't access my account.",
+      "generated": "I'm having trouble logging in because I've forgotten my passcode."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Please check to see if the band transfer I made a while ago from my UK account has safely arrived.",
+      "generated": "Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "If I want a friend to top off my account, can they?",
+      "generated": "If someone wants to add funds to my account, can they do so using my card?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far.",
+      "generated": "Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to know where this charge is coming from?",
+      "generated": "I'm trying to figure out where this payment is coming from."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I take money from my account?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+      "generated": "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I was removing a dollar amount from my account and now don't have access to my card.",
+      "generated": "I was attempting to deduct a sum from my account and now my card is inaccessible."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why is the app showing a still pending message on a withdraw that has already been done?",
+      "generated": "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "i need a refund right away but the funds aren't available in my account",
+      "generated": "I require an immediate refund, but the refund amount is not showing up in my account."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can i add a new currency to my account?",
+      "generated": "Can I initiate a currency exchange through the app?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I dont see my reciept",
+      "generated": "I'm unable to locate the transfer receipt."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I am not recognized by the app.",
+      "generated": "We're having trouble verifying your identity through our system."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "This card payment isn't is recognition.",
+      "generated": "This payment made with the card is not being recognized."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Hoe do i use my credit card to transfer money?",
+      "generated": "How can I use my credit card to make a payment or add funds to my account?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+      "generated": "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will there be a charge when money is added to my account?",
+      "generated": "Will I be charged a fee when I top up my account using a bank transfer?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My money I had was gone and I could not get gas!",
+      "generated": "I was left with no funds and couldn't afford to fill up my tank."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "Will you please help me get my card back?",
+      "generated": "Can you assist me in retrieving my swallowed card?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There are incorrect charges on my account, there was a WD that was made by someone else.  I still have my card though.",
+      "generated": "I'm experiencing an issue with an unauthorized cash withdrawal that was made on my account. I still have my card in my possession, but the transaction doesn't seem to be recognized by the system."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I may no longer need GBP, but instead I will need AUD, how can I go about making this change?",
+      "generated": "I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do I get a card to keep in my wallet?",
+      "generated": "Can I receive a physical card to carry with me?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "How long after I receive my statement can I dispute payments on it?",
+      "generated": "What is the timeframe for disputing payments on my statement after it's been received?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app is not able to realize that it is me.",
+      "generated": "The system is unable to confirm that the user is the account holder."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How can I fix my bank transfer to show up on my bank account?",
+      "generated": "Why isn't my bank transfer reflected in my account balance?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "It does not appear that my message went through.",
+      "generated": "It seems that my request to top up was unsuccessful."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how much does it cost to add money",
+      "generated": "what is the charge for topping up my account using my card?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I am having trouble with the app recognizing me.",
+      "generated": "I'm having difficulty with the app verifying my identity."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Do you support changing the currency I use?",
+      "generated": "Can I switch the currency I'm using through your app?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Which type of card will I receive?",
+      "generated": "What kind of payment card will I be issued?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Canceling my order is what I need to do right now.",
+      "generated": "I'd like to terminate my recent purchase and initiate a refund process."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is the card welcomed by everybody?",
+      "generated": "Is the card accepted by all parties involved?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't believe its me.",
+      "generated": "The system is unable to confirm your identity."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I used the wrong account number!",
+      "generated": "I mistakenly entered an incorrect account number."
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "generated_texts": [
+    "I'd like to activate my card and begin making transactions.",
+    "What should I do if a direct debit payment is not recognized by our system?",
+    "Will the automatic top-up feature trigger a refill when my account balance reaches zero?",
+    "Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time.",
+    "I made a transfer, but my account balance hasn't been updated.",
+    "I'm confused, I've always been able to make transfers without any issues, but when I tried to make a recent purchase, my card was declined. I've tried a few times, but the result is the same - my transfer is being declined.",
+    "I'd like to confirm the origin of a recent deposit.",
+    "Can I reissue my card? I previously reported it lost, but I've since located it and would like to reactivate it.",
+    "It seems that my request to top up was unsuccessful.",
+    "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?",
+    "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet.",
+    "what is the charge for topping up my account using my card?",
+    "I'm having trouble with Google Pay functioning properly.",
+    "I recently got a new phone, do I need to set up a new account?",
+    "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?",
+    "Can I use my smartwatch to make a payment for fuel?",
+    "I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.",
+    "I'm confused, I've been making transfers without any issues, but just now, when I tried to make another one, it got declined. I've tried a few times, but the result is the same. Can you help me figure out what's going on?",
+    "I'm experiencing an issue with a transfer to another account, and I keep receiving a decline notification. Despite verifying the information multiple times, I'm still getting the same error message.",
+    "Why hasn't my account balance been updated after the recent bank transfer?",
+    "I'm trying to figure out where this payment is coming from.",
+    "Will I incur a charge when using an international card to add funds to my account?",
+    "Will you charge me extra fees if I make a payment using an international credit/debit card?",
+    "Can you help me avoid the payment fee that was charged on my card?",
+    "I'm experiencing an issue with a duplicate charge on my card. I've reviewed my transactions and noticed that a recent charge from a restaurant I visited earlier this week appears to be duplicated. Could you assist me in correcting this and removing the extra charge?",
+    "what is the charge for topping up my account using my card?",
+    "I've been waiting for two days for a transfer to be credited to a retailer's account, and I'm starting to worry that it might take even longer.",
+    "What is the verification code for the top-up process?",
+    "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place.",
+    "I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?",
+    "When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?",
+    "Why hasn't my account balance been updated to reflect the recent transfer I made?"
+  ],
+  "generated_labels": [
+    0,
+    28,
+    4,
+    48,
+    5,
+    27,
+    70,
+    13,
+    59,
+    5,
+    48,
+    57,
+    2,
+    42,
+    2,
+    2,
+    37,
+    27,
+    27,
+    5,
+    16,
+    57,
+    57,
+    15,
+    63,
+    57,
+    66,
+    71,
+    76,
+    5,
+    19,
+    5
+  ],
+  "source_texts": [
+    "I want to start using my card.",
+    "What do I do if there is an electronic debit that is not correct?",
+    "Will the system automatically update once there is no more money left?",
+    "As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far.",
+    "I did a transfer but the balance is the same.",
+    "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined . I tried couple of times already  but same thing is happening .",
+    "i need to trace a deposit",
+    "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+    "It does not appear that my message went through.",
+    "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+    "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+    "how much does it cost to add money",
+    "I can't get google pay to work right.",
+    "I just replaced my phone so do I have to make a new account?",
+    "what can I do if I got my American Express in Apple Bay but top up is not working?",
+    "Can I use my Apple Watch to pay for gas?",
+    "I have heard about these disposable virtual cards but don't understand how they work.",
+    "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening.",
+    "I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.",
+    "Why is  my balance not updated?",
+    "I need to know where this charge is coming from?",
+    "Will I get charged for topping up with an international card?",
+    "Will you assess me more fees if I top up with an international card?",
+    "Is there a  way to  get around fees",
+    "Hi. Please can you help me fix a double charge on my card? I'm looking at my transactions and this restaurant I went to earlier in the week has charged me twice! Please remove the additional charge for me.",
+    "how much is the fee for topping by card",
+    "i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer.",
+    "What is the top up code for?",
+    "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+    "Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.",
+    "Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now?",
+    "Why hasn't my account updated to reflect my current balance?"
+  ],
+  "records": [
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I want to start using my card.",
+      "generated": "I'd like to activate my card and begin making transactions."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "What do I do if there is an electronic debit that is not correct?",
+      "generated": "What should I do if a direct debit payment is not recognized by our system?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Will the system automatically update once there is no more money left?",
+      "generated": "Will the automatic top-up feature trigger a refill when my account balance reaches zero?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far.",
+      "generated": "Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I did a transfer but the balance is the same.",
+      "generated": "I made a transfer, but my account balance hasn't been updated."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined . I tried couple of times already  but same thing is happening .",
+      "generated": "I'm confused, I've always been able to make transfers without any issues, but when I tried to make a recent purchase, my card was declined. I've tried a few times, but the result is the same - my transfer is being declined."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "i need to trace a deposit",
+      "generated": "I'd like to confirm the origin of a recent deposit."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+      "generated": "Can I reissue my card? I previously reported it lost, but I've since located it and would like to reactivate it."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "It does not appear that my message went through.",
+      "generated": "It seems that my request to top up was unsuccessful."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+      "generated": "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+      "generated": "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how much does it cost to add money",
+      "generated": "what is the charge for topping up my account using my card?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I can't get google pay to work right.",
+      "generated": "I'm having trouble with Google Pay functioning properly."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I just replaced my phone so do I have to make a new account?",
+      "generated": "I recently got a new phone, do I need to set up a new account?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "what can I do if I got my American Express in Apple Bay but top up is not working?",
+      "generated": "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I use my Apple Watch to pay for gas?",
+      "generated": "Can I use my smartwatch to make a payment for fuel?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I have heard about these disposable virtual cards but don't understand how they work.",
+      "generated": "I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening.",
+      "generated": "I'm confused, I've been making transfers without any issues, but just now, when I tried to make another one, it got declined. I've tried a few times, but the result is the same. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.",
+      "generated": "I'm experiencing an issue with a transfer to another account, and I keep receiving a decline notification. Despite verifying the information multiple times, I'm still getting the same error message."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why is  my balance not updated?",
+      "generated": "Why hasn't my account balance been updated after the recent bank transfer?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to know where this charge is coming from?",
+      "generated": "I'm trying to figure out where this payment is coming from."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Will I get charged for topping up with an international card?",
+      "generated": "Will I incur a charge when using an international card to add funds to my account?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Will you assess me more fees if I top up with an international card?",
+      "generated": "Will you charge me extra fees if I make a payment using an international credit/debit card?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Is there a  way to  get around fees",
+      "generated": "Can you help me avoid the payment fee that was charged on my card?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Hi. Please can you help me fix a double charge on my card? I'm looking at my transactions and this restaurant I went to earlier in the week has charged me twice! Please remove the additional charge for me.",
+      "generated": "I'm experiencing an issue with a duplicate charge on my card. I've reviewed my transactions and noticed that a recent charge from a restaurant I visited earlier this week appears to be duplicated. Could you assist me in correcting this and removing the extra charge?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how much is the fee for topping by card",
+      "generated": "what is the charge for topping up my account using my card?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer.",
+      "generated": "I've been waiting for two days for a transfer to be credited to a retailer's account, and I'm starting to worry that it might take even longer."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What is the top up code for?",
+      "generated": "What is the verification code for the top-up process?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+      "generated": "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.",
+      "generated": "I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now?",
+      "generated": "When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why hasn't my account updated to reflect my current balance?",
+      "generated": "Why hasn't my account balance been updated to reflect the recent transfer I made?"
+    }
+  ]
+}

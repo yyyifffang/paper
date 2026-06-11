@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I need to update my PIN immediately.",
+    "Require an update to my personal information, specifically my address.",
+    "If I've misplaced or had my phone stolen, what steps can I take to regain access to the app?",
+    "I'd like to cancel my transaction and seek a refund.",
+    "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?",
+    "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?",
+    "We're experiencing technical difficulties, and our system is unable to recognize your identity.",
+    "I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.",
+    "Can I accept payment in a different currency?",
+    "Why was my payment to the designated beneficiary rejected?",
+    "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?",
+    "Can you assist me in getting a refund for a recent purchase credited back to my account?",
+    "I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate.",
+    "I'd like to request a reversal of this fee from my account.",
+    "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge.",
+    "I'm having trouble recalling a payment I made through the app.",
+    "Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?",
+    "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?",
+    "I made a domestic transfer a few days ago, but the recipient hasn't received it yet. Could you look into this and let me know what's causing the delay, as I've double-checked the account number to ensure it's correct.",
+    "What is the typical processing speed for international transfers from Europe?",
+    "Why isn't my payment showing up?",
+    "I've been attempting to process a payment, but it's consistently being rejected.",
+    "Will my account reflect my latest paycheck?",
+    "I've been actively utilizing my account to manage international payments for my vacation property, and I'm surprised to see exorbitant fees cropping up. Shouldn't my loyalty as a frequent user be recognized?",
+    "A payment has been recorded in the app that I did not authorize.",
+    "We're unable to identify a recognized card payment.",
+    "Why hasn't my account balance been updated after the recent bank transfer?",
+    "Is there a charge for topping up my account using my card?",
+    "Can you expedite the delivery of my card as soon as possible?",
+    "We've noticed a transaction on your statement that's causing some confusion. It appears to be a direct debit payment that we can't identify. The date is a few weeks old, and I'm not familiar with the business that made the charge. I'm wondering if you could help us investigate this further and determine if it was a legitimate transaction or not.",
+    "I'm unable to locate a payment in my account records.",
+    "Can my account be accessed by an unauthorized person? I had my phone stolen.",
+    "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?",
+    "Why is my designated recipient not functioning properly?",
+    "I'm having issues sending funds to a designated recipient."
+  ],
+  "generated_labels": [
+    21,
+    30,
+    42,
+    52,
+    76,
+    64,
+    68,
+    37,
+    50,
+    7,
+    28,
+    52,
+    76,
+    52,
+    63,
+    16,
+    29,
+    75,
+    66,
+    67,
+    53,
+    25,
+    50,
+    64,
+    16,
+    16,
+    5,
+    57,
+    12,
+    28,
+    16,
+    42,
+    27,
+    7,
+    7
+  ],
+  "source_texts": [
+    "I must change my PIN as soon as possible.",
+    "Need to report a change of address.",
+    "What do I do if I can't access the app?",
+    "I would like to retract my purchase.",
+    "Can you check the exchange rate on a cash transaction I did overseas",
+    "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+    "app malfunctioning, does not know its me",
+    "I have heard about these disposable virtual cards but don't understand how they work.",
+    "Can I receive payment in another currency?",
+    "Why wasn't my payment to beneficiary X approved?",
+    "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+    "Is there a way you can have money from a purchase I made refunded to my account.",
+    "I was needing you to see if the exchange rate is correct from when i got cash",
+    "I want this fee reversed from my account.",
+    "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+    "Help! In the app there is a payment that I don't remember.",
+    "A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?",
+    "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+    "I have done a transfer within the country a couple days ago, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that several times already.",
+    "How fast are transfers from Europe?",
+    "How come I can't find my payment?",
+    "I keep trying to make a payment, but it doesn't work.",
+    "Will my GPB update my salary",
+    "So I've been using my account frequently to manage payments for my vacation house in a different country, and now I'm getting hit with ridiculously high fees! What's with that? Ought not I be rewarded as a frequent user?",
+    "There is a payment in the app that I did not approve",
+    "Why is there an unknown card payment?",
+    "Where is the transfer that I did?",
+    "Is topping up free?",
+    "Send me my card now! ASAP",
+    "I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain?",
+    "I do not recongize a payment in my account.",
+    "Can my account me accessed by a thief?  I was mugged.",
+    "How can I find a way to transfer money without it being rejected?",
+    "Why is my beneficiary not working?",
+    "I am having trouble transferring money to a beneficiery."
+  ],
+  "records": [
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I must change my PIN as soon as possible.",
+      "generated": "I need to update my PIN immediately."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Need to report a change of address.",
+      "generated": "Require an update to my personal information, specifically my address."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "What do I do if I can't access the app?",
+      "generated": "If I've misplaced or had my phone stolen, what steps can I take to regain access to the app?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I would like to retract my purchase.",
+      "generated": "I'd like to cancel my transaction and seek a refund."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can you check the exchange rate on a cash transaction I did overseas",
+      "generated": "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+      "generated": "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "app malfunctioning, does not know its me",
+      "generated": "We're experiencing technical difficulties, and our system is unable to recognize your identity."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I have heard about these disposable virtual cards but don't understand how they work.",
+      "generated": "I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I receive payment in another currency?",
+      "generated": "Can I accept payment in a different currency?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why wasn't my payment to beneficiary X approved?",
+      "generated": "Why was my payment to the designated beneficiary rejected?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+      "generated": "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Is there a way you can have money from a purchase I made refunded to my account.",
+      "generated": "Can you assist me in getting a refund for a recent purchase credited back to my account?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I was needing you to see if the exchange rate is correct from when i got cash",
+      "generated": "I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I want this fee reversed from my account.",
+      "generated": "I'd like to request a reversal of this fee from my account."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+      "generated": "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Help! In the app there is a payment that I don't remember.",
+      "generated": "I'm having trouble recalling a payment I made through the app."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?",
+      "generated": "Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+      "generated": "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I have done a transfer within the country a couple days ago, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that several times already.",
+      "generated": "I made a domestic transfer a few days ago, but the recipient hasn't received it yet. Could you look into this and let me know what's causing the delay, as I've double-checked the account number to ensure it's correct."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How fast are transfers from Europe?",
+      "generated": "What is the typical processing speed for international transfers from Europe?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "How come I can't find my payment?",
+      "generated": "Why isn't my payment showing up?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I keep trying to make a payment, but it doesn't work.",
+      "generated": "I've been attempting to process a payment, but it's consistently being rejected."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Will my GPB update my salary",
+      "generated": "Will my account reflect my latest paycheck?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "So I've been using my account frequently to manage payments for my vacation house in a different country, and now I'm getting hit with ridiculously high fees! What's with that? Ought not I be rewarded as a frequent user?",
+      "generated": "I've been actively utilizing my account to manage international payments for my vacation property, and I'm surprised to see exorbitant fees cropping up. Shouldn't my loyalty as a frequent user be recognized?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There is a payment in the app that I did not approve",
+      "generated": "A payment has been recorded in the app that I did not authorize."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is there an unknown card payment?",
+      "generated": "We're unable to identify a recognized card payment."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Where is the transfer that I did?",
+      "generated": "Why hasn't my account balance been updated after the recent bank transfer?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is topping up free?",
+      "generated": "Is there a charge for topping up my account using my card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Send me my card now! ASAP",
+      "generated": "Can you expedite the delivery of my card as soon as possible?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain?",
+      "generated": "We've noticed a transaction on your statement that's causing some confusion. It appears to be a direct debit payment that we can't identify. The date is a few weeks old, and I'm not familiar with the business that made the charge. I'm wondering if you could help us investigate this further and determine if it was a legitimate transaction or not."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recongize a payment in my account.",
+      "generated": "I'm unable to locate a payment in my account records."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Can my account me accessed by a thief?  I was mugged.",
+      "generated": "Can my account be accessed by an unauthorized person? I had my phone stolen."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How can I find a way to transfer money without it being rejected?",
+      "generated": "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is my beneficiary not working?",
+      "generated": "Why is my designated recipient not functioning properly?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I am having trouble transferring money to a beneficiery.",
+      "generated": "I'm having issues sending funds to a designated recipient."
+    }
+  ]
+}

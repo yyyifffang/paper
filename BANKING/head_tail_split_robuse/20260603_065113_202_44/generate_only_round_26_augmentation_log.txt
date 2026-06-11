@@ -1,0 +1,36 @@
+GEN | [wrong_amount_of_cash_received] | Orig: I couldn't get the money I needed. -> Aug: I didn't receive the correct amount of cash.
+GEN | [cancel_transfer] | Orig: Hey i need help urgently. I just realised I sent my payment to the wrong account number, there is a typo! Please cancel it immediately, I can't do it anymore from the app -> Aug: I urgently need assistance. I've just discovered that I mistakenly sent a payment to the incorrect account number, and there's a typo involved. Could you please cancel the transfer as soon as possible? I'm unable to do so through the app.
+GEN | [declined_transfer] | Orig: How do I contact customer support about my declined transfer? -> Aug: I'd like to know how to reach out to your customer support team regarding the transfer that was declined.
+GEN | [virtual_card_not_working] | Orig: My virtual card is just not going through. -> Aug: My virtual card is experiencing technical difficulties.
+GEN | [beneficiary_not_allowed] | Orig: Why is my beneficiary not working? -> Aug: Why is my designated recipient not functioning properly?
+GEN | [transfer_timing] | Orig: How long does it take to get my money -> Aug: What's the typical timeframe for processing my transfer?
+GEN | [card_swallowed] | Orig: The ATM didnt return my card! -> Aug: The ATM swallowed my card!
+GEN | [apple_pay_or_google_pay] | Orig: Can I use my Apple watch to fill my gas tank? -> Aug: Can I use my Apple Pay-enabled device to fill my gas tank?
+GEN | [change_pin] | Orig: I must change my PIN as soon as possible. -> Aug: I need to update my PIN immediately.
+GEN | [top_up_by_card_charge] | Orig: Are there still fees for european top-ups? -> Aug: Are there any charges for making a top-up payment using my card in Europe?
+GEN | [transfer_not_received_by_recipient] | Orig: Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check? -> Aug: I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?
+GEN | [pin_blocked] | Orig: How do I unblock my card? -> Aug: What steps can I take to reactivate my blocked card?
+GEN | [change_pin] | Orig: I am on vacation in Spain and need to change my pin. -> Aug: I'm currently traveling in Spain and would like to modify my PIN.
+GEN | [pin_blocked] | Orig: My card got blocked, how do I reset? -> Aug: My PIN has been blocked, what's the process to unblock it?
+GEN | [cash_withdrawal_charge] | Orig: Could you explain your rules for ATM fees? -> Aug: What are the charges for withdrawing cash from an ATM?
+GEN | [card_payment_not_recognised] | Orig: I didn't make a payment at this business. -> Aug: We didn't process a payment at this merchant.
+GEN | [pending_cash_withdrawal] | Orig: Why is the app showing a still pending message on a withdraw that has already been done? -> Aug: Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?
+GEN | [topping_up_by_card] | Orig: Am I the only one who can top-up my account? -> Aug: Can I perform a card-based account replenishment myself?
+GEN | [change_pin] | Orig: Do I need to go to a physical bank to change my PIN? -> Aug: Can I change my PIN at a bank branch or do I need to use an alternative method?
+GEN | [change_pin] | Orig: I want to change my PIN - do I need to be in a bank? -> Aug: I'd like to modify my PIN - must I visit a bank branch to do so?
+GEN | [supported_cards_and_currencies] | Orig: What cards do you support -> Aug: We accept a range of payment cards
+GEN | [cash_withdrawal_charge] | Orig: I hate this ATM, it charged me an extra fee, Why did it charge? -> Aug: I'm really frustrated with this ATM, it slapped me with an unexpected fee, Can you tell me why it did that?
+GEN | [virtual_card_not_working] | Orig: I can't use my virtual disposable card -> Aug: I'm having trouble accessing my virtual prepaid card
+GEN | [card_linking] | Orig: I just got my card.  It's not linked yet--how do I do that? -> Aug: I recently received my new card, but it's not currently linked to my account. Can you guide me on the process to link it?
+GEN | [top_up_by_card_charge] | Orig: Is topping up free? -> Aug: Is there a charge for topping up my account using my card?
+GEN | [declined_cash_withdrawal] | Orig: When I tried to access my cash, I wasn't allowed! -> Aug: Unfortunately, I was unable to withdraw cash from my account.
+GEN | [why_verify_identity] | Orig: Do you think you're asking for too much information about me? -> Aug: Are you feeling overwhelmed by the amount of personal details we're asking you to provide?
+GEN | [supported_cards_and_currencies] | Orig: Do I have to top up in euros if I use a card, or can I use a different currency? -> Aug: Can I use a different currency when making a payment with a card, or do I need to use euros?
+GEN | [change_pin] | Orig: Do I have to go to an actual bank to change my PIN? -> Aug: Can I only change my PIN by visiting a physical bank location?
+GEN | [cash_withdrawal_charge] | Orig: I was charged for getting cash. -> Aug: I was charged a fee for withdrawing cash.
+GEN | [cash_withdrawal_charge] | Orig: How much can I withdrawal in one month without incurring fees? -> Aug: What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?
+GEN | [transfer_not_received_by_recipient] | Orig: I have done a transfer within the country a couple days ago, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that several times already. -> Aug: I made a domestic transfer a few days ago, but the recipient hasn't received it yet. Could you look into this and let me know what's causing the delay, as I've double-checked the account number to ensure it's correct.
+GEN | [card_linking] | Orig: how do I get my card to show in the app? -> Aug: why isn't my card visible in the app?
+GEN | [terminate_account] | Orig: I would like to invalidate my account.  I am very disappointed with your services. -> Aug: I'd like to cancel my account due to dissatisfaction with your services.
+GEN | [get_disposable_virtual_card] | Orig: Please send me a disposable virtual card. -> Aug: Please provide me with a temporary virtual credit card.
+GEN | [cash_withdrawal_charge] | Orig: Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now? -> Aug: When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?

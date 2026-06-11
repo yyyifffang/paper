@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I made a payment and didn't receive a confirmation",
+    "I'm really frustrated with this ATM, it slapped me with an unexpected fee, Can you tell me why it did that?",
+    "Is there a charge for topping up my account using my card?",
+    "I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction.",
+    "I'm still waiting for my credit card to arrive.",
+    "I require my card as soon as possible.",
+    "What is the maximum amount I can add to my card balance at one time?",
+    "Can I perform a card-based account replenishment myself?",
+    "I'm still seeing a pending charge of $1 on my account and I'd like to understand what it's for.",
+    "I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?",
+    "Can I set up automatic top-ups to add funds at regular intervals while I'm traveling?",
+    "Do you have a minimum age requirement I need to meet?",
+    "how can I charge my card to add funds?",
+    "I made a transfer to my family on Friday, but they haven't received it yet.",
+    "Must I set a limit on my top-up transactions?",
+    "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?",
+    "Are there any fees associated with exchanging foreign currency for local currency?",
+    "Please provide instructions on how to deposit funds into my account using the transfer feature",
+    "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?",
+    "My statement has a pending charge for £1 that I don't recognize. Can you help me understand what this transaction is about?",
+    "Will I get the full amount credited to my account when I top up by bank transfer charge?",
+    "Despite not being based in the UK, can I still obtain a card?",
+    "What's the maximum amount I can top up my account?",
+    "Can you help me find my missing card?",
+    "I've been making international transactions from this account lately. Are there any new or changed fees I should be aware of?",
+    "What is the charge for exchanging currency from a foreign country?",
+    "May I assist you in reactivating your card?",
+    "Can I use a Mastercard instead, or is it specifically a Visa requirement?",
+    "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?",
+    "I've attempted to use my card at various merchants, but it's no longer functioning properly.",
+    "Can I arrange for a card to be delivered to China?",
+    "Can you please provide me with my top-up code?",
+    "What can I do to avoid incurring a charge when withdrawing cash from an ATM?",
+    "Why is there a pending payment on my credit card still?",
+    "What types of identification documents are accepted for verification?",
+    "looking to replace my expiring card, what are the associated fees?"
+  ],
+  "generated_labels": [
+    66,
+    19,
+    57,
+    76,
+    11,
+    12,
+    60,
+    62,
+    34,
+    20,
+    4,
+    1,
+    57,
+    66,
+    60,
+    59,
+    31,
+    65,
+    45,
+    34,
+    56,
+    24,
+    60,
+    41,
+    64,
+    31,
+    13,
+    73,
+    28,
+    14,
+    9,
+    71,
+    19,
+    45,
+    69,
+    9
+  ],
+  "source_texts": [
+    "I did a money transaction and dont have a receipt",
+    "I hate this ATM, it charged me an extra fee, Why did it charge?",
+    "Is topping up free?",
+    "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.",
+    "I haven't gotten my credit card in the mail.",
+    "I need my card right away.",
+    "What is the top-up limit on my cards?",
+    "Am I the only one who can top-up my account?",
+    "I had a dollar charged to my account that's still pending and wanted to know what the charge is for?",
+    "I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out?",
+    "When traveling, is it possible for it to add money at specific time intervals?",
+    "Is there a certain age I need to be?",
+    "how should i add money to my card",
+    "I sent money to my family last Friday but they don't have it.",
+    "Do I need to use a limit on top-ups?",
+    "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+    "Is there any cost to change foreign money to local?",
+    "Please provide details on how to top up my account using transfer option",
+    "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+    "My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about.",
+    "Will I receive all the money sent to my account by SEPA transfer?",
+    "Although I am not located in the UK area, may i still receive a card?",
+    "Tell me if there is a top-up limit.",
+    "Are you able to guide me to my card's location?",
+    "I have used this account overseas recently. Has there been an increase in fees that I am unaware of?",
+    "What is the fee for accepting money from a foreign country?",
+    "Can you please reactivate my card?",
+    "Can I get a Visa or does it have to be something else.",
+    "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+    "I tried using my card at multiple vendors and now it's not working.",
+    "Am I able to have a card sent to China?",
+    "Where's my top up code?",
+    "How do I avoid a fee to use an ATM?",
+    "Why is their a charge pending on my card still?",
+    "What form of identification is accepted?",
+    "want a new card what are the fees"
+  ],
+  "records": [
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I did a money transaction and dont have a receipt",
+      "generated": "I made a payment and didn't receive a confirmation"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I hate this ATM, it charged me an extra fee, Why did it charge?",
+      "generated": "I'm really frustrated with this ATM, it slapped me with an unexpected fee, Can you tell me why it did that?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is topping up free?",
+      "generated": "Is there a charge for topping up my account using my card?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.",
+      "generated": "I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I haven't gotten my credit card in the mail.",
+      "generated": "I'm still waiting for my credit card to arrive."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card right away.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What is the top-up limit on my cards?",
+      "generated": "What is the maximum amount I can add to my card balance at one time?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Am I the only one who can top-up my account?",
+      "generated": "Can I perform a card-based account replenishment myself?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I had a dollar charged to my account that's still pending and wanted to know what the charge is for?",
+      "generated": "I'm still seeing a pending charge of $1 on my account and I'd like to understand what it's for."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out?",
+      "generated": "I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "When traveling, is it possible for it to add money at specific time intervals?",
+      "generated": "Can I set up automatic top-ups to add funds at regular intervals while I'm traveling?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Is there a certain age I need to be?",
+      "generated": "Do you have a minimum age requirement I need to meet?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how should i add money to my card",
+      "generated": "how can I charge my card to add funds?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I sent money to my family last Friday but they don't have it.",
+      "generated": "I made a transfer to my family on Friday, but they haven't received it yet."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Do I need to use a limit on top-ups?",
+      "generated": "Must I set a limit on my top-up transactions?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+      "generated": "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Is there any cost to change foreign money to local?",
+      "generated": "Are there any fees associated with exchanging foreign currency for local currency?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Please provide details on how to top up my account using transfer option",
+      "generated": "Please provide instructions on how to deposit funds into my account using the transfer feature"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+      "generated": "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about.",
+      "generated": "My statement has a pending charge for £1 that I don't recognize. Can you help me understand what this transaction is about?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will I receive all the money sent to my account by SEPA transfer?",
+      "generated": "Will I get the full amount credited to my account when I top up by bank transfer charge?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Although I am not located in the UK area, may i still receive a card?",
+      "generated": "Despite not being based in the UK, can I still obtain a card?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Tell me if there is a top-up limit.",
+      "generated": "What's the maximum amount I can top up my account?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Are you able to guide me to my card's location?",
+      "generated": "Can you help me find my missing card?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I have used this account overseas recently. Has there been an increase in fees that I am unaware of?",
+      "generated": "I've been making international transactions from this account lately. Are there any new or changed fees I should be aware of?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "What is the fee for accepting money from a foreign country?",
+      "generated": "What is the charge for exchanging currency from a foreign country?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can you please reactivate my card?",
+      "generated": "May I assist you in reactivating your card?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get a Visa or does it have to be something else.",
+      "generated": "Can I use a Mastercard instead, or is it specifically a Visa requirement?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+      "generated": "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I tried using my card at multiple vendors and now it's not working.",
+      "generated": "I've attempted to use my card at various merchants, but it's no longer functioning properly."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Am I able to have a card sent to China?",
+      "generated": "Can I arrange for a card to be delivered to China?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Where's my top up code?",
+      "generated": "Can you please provide me with my top-up code?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How do I avoid a fee to use an ATM?",
+      "generated": "What can I do to avoid incurring a charge when withdrawing cash from an ATM?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why is their a charge pending on my card still?",
+      "generated": "Why is there a pending payment on my credit card still?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "What form of identification is accepted?",
+      "generated": "What types of identification documents are accepted for verification?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "want a new card what are the fees",
+      "generated": "looking to replace my expiring card, what are the associated fees?"
+    }
+  ]
+}

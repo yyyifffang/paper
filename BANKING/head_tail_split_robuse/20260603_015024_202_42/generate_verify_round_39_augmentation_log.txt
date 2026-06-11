@@ -1,0 +1,67 @@
+GEN | [transaction_charged_twice] | Orig: My card was declined but it shows as multiple charges? -> Aug: I made a purchase, but it looks like I've been charged twice, even though my card was declined.
+GEN | [top_up_failed] | Orig: I did a bank transfer to top up, but the money is not available. -> Aug: I attempted to make a transfer to add funds, but the funds are still unavailable.
+GEN | [order_physical_card] | Orig: What fees do you charge for the standard card? -> Aug: What are the charges for a standard physical card?
+GEN | [transfer_timing] | Orig: How long does it take for the money to show up in my account? -> Aug: When can I expect the funds to be credited to my account?
+GEN | [wrong_amount_of_cash_received] | Orig: I haven't received my cash yet. -> Aug: I'm still waiting to receive the cash.
+GEN | [receiving_money] | Orig: I received a transfer in GBP how do I change it to a different currency? -> Aug: I was sent a payment in British Pounds, can I convert it to a different currency?
+GEN | [pending_transfer] | Orig: why have I got a pending transfer? I'm confused!! -> Aug: I'm not sure why I'm seeing a pending transfer in my account. Can you help me understand what's going on?
+GEN | [top_up_by_cash_or_cheque] | Orig: I'll send a check to top up my account -> Aug: I'll dispatch a cheque to replenish my account balance
+GEN | [card_not_working] | Orig: I can't seem to use my card. Can you help? -> Aug: I'm having trouble using my card. Can you assist me?
+GEN | [transfer_not_received_by_recipient] | Orig: I don't see the transaction I made to a friend on my account. -> Aug: I'm unable to locate the transfer I sent to a friend from my account.
+GEN | [request_refund] | Orig: My statement has a charge that shouldn't have been made. -> Aug: I'd like to dispute a charge on my statement that was incorrectly applied.
+GEN | [transfer_timing] | Orig: When will the money show in my account? -> Aug: When can I expect the funds to be credited to my account?
+GEN | [fiat_currency_support] | Orig: I need to know which flat currencies are supported by you. -> Aug: I'm looking for information on the fiat currencies your bank accepts.
+GEN | [card_payment_not_recognised] | Orig: A random charge got added to my card -> Aug: A mysterious transaction appeared on my card statement
+GEN | [transaction_charged_twice] | Orig: I have been overcharged. -> Aug: I've been mistakenly charged twice.
+GEN | [cash_withdrawal_charge] | Orig: Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this. -> Aug: Are there any fees associated with withdrawing cash from my account? I recall making a withdrawal recently and being charged for it.
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I top up online? -> Aug: Can I make a cash or cheque deposit online?
+GEN | [disposable_card_limits] | Orig: How many payments can I make using a virtual card? -> Aug: What is the maximum number of transactions I can make with a disposable card?
+GEN | [topping_up_by_card] | Orig: show me how to top up -> Aug: please demonstrate the process of adding funds using my card
+GEN | [apple_pay_or_google_pay] | Orig: Am I able to Top Up with Apply Pay? -> Aug: Can I use Apple Pay to add funds to my account?
+GEN | [lost_or_stolen_card] | Orig: I cant find my card. -> Aug: I've misplaced my card.
+GEN | [card_not_working] | Orig: Why can't I use my card? -> Aug: Why is my card not functioning properly?
+GEN | [cancel_transfer] | Orig: A payment I made is for a wrong amount can you help me correct the mistake. -> Aug: I'd like to cancel the transfer as it was made in error and I'd like to rectify the mistake.
+GEN | [top_up_by_cash_or_cheque] | Orig: What types of top-up methods do you accept? -> Aug: You can top up your account using either cash or cheque.
+GEN | [card_payment_wrong_exchange_rate] | Orig: Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate -> Aug: Why did you apply an incorrect exchange rate for my international transaction? I was expecting a more competitive rate for the foreign currency.
+GEN | [pending_cash_withdrawal] | Orig: i withdrew cash and dont see it reflected on the balance -> Aug: I made a cash withdrawal, but it's not showing up on my account balance.
+GEN | [apple_pay_or_google_pay] | Orig: What services can I use to top up? -> Aug: What payment methods can I use to add funds?
+GEN | [reverted_card_payment?] | Orig: I think the payment from my card was revereted -> Aug: I believe the payment made from my card was reversed
+GEN | [transfer_fee_charged] | Orig: I got an unexpected charge on my transfers. How can I correct this? -> Aug: I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?
+GEN | [supported_cards_and_currencies] | Orig: How can I top up my account and which currency can I use? -> Aug: What methods are available for adding funds to my account, and what currencies are accepted for transactions?
+GEN | [cancel_transfer] | Orig: The wrong account was used during a transaction. -> Aug: The incorrect account was mistakenly used for a transfer.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: the balance has not changed, but I have deposited some money -> Aug: The balance remains the same, despite the recent deposit.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: How long do deposits take to appear? I've been waiting for more than a week and need the money! -> Aug: Why hasn't my account balance been updated after a recent cheque or cash deposit? I've been waiting for an extended period and would like to know when I can expect the funds to reflect in my account.
+VAL | [transaction_charged_twice] | ACCEPT | Reason: N/A | Original: My card was declined but it shows as multiple charges? | Augmented: I made a purchase, but it looks like I've been charged twice, even though my card was declined.
+VAL | [top_up_failed] | ACCEPT | Reason: N/A | Original: I did a bank transfer to top up, but the money is not available. | Augmented: I attempted to make a transfer to add funds, but the funds are still unavailable.
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: What fees do you charge for the standard card? | Augmented: What are the charges for a standard physical card?
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: How long does it take for the money to show up in my account? | Augmented: When can I expect the funds to be credited to my account?
+VAL | [wrong_amount_of_cash_received] | UNKNOWN | Reason: N/A | Original: I haven't received my cash yet. | Augmented: I'm still waiting to receive the cash.
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: I received a transfer in GBP how do I change it to a different currency? | Augmented: I was sent a payment in British Pounds, can I convert it to a different currency?
+VAL | [pending_transfer] | ACCEPT | Reason: ... | Original: why have I got a pending transfer? I'm confused!! | Augmented: I'm not sure why I'm seeing a pending transfer in my account. Can you help me understand what's going on?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: I'll send a check to top up my account | Augmented: I'll dispatch a cheque to replenish my account balance
+VAL | [card_not_working] | ACCEPT | Reason: ... | Original: I can't seem to use my card. Can you help? | Augmented: I'm having trouble using my card. Can you assist me?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: ... | Original: I don't see the transaction I made to a friend on my account. | Augmented: I'm unable to locate the transfer I sent to a friend from my account.
+VAL | [request_refund] | ACCEPT | Reason: N/A | Original: My statement has a charge that shouldn't have been made. | Augmented: I'd like to dispute a charge on my statement that was incorrectly applied.
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: When will the money show in my account? | Augmented: When can I expect the funds to be credited to my account?
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: I need to know which flat currencies are supported by you. | Augmented: I'm looking for information on the fiat currencies your bank accepts.
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: A random charge got added to my card | Augmented: A mysterious transaction appeared on my card statement
+VAL | [transaction_charged_twice] | ACCEPT | Reason: N/A | Original: I have been overcharged. | Augmented: I've been mistakenly charged twice.
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this. | Augmented: Are there any fees associated with withdrawing cash from my account? I recall making a withdrawal recently and being charged for it.
+VAL | [top_up_by_cash_or_cheque] | UNKNOWN | Reason: N/A | Original: Can I top up online? | Augmented: Can I make a cash or cheque deposit online?
+VAL | [disposable_card_limits] | ACCEPT | Reason: N/A | Original: How many payments can I make using a virtual card? | Augmented: What is the maximum number of transactions I can make with a disposable card?
+VAL | [topping_up_by_card] | ACCEPT | Reason: ... | Original: show me how to top up | Augmented: please demonstrate the process of adding funds using my card
+VAL | [apple_pay_or_google_pay] | ACCEPT | Reason: ... | Original: Am I able to Top Up with Apply Pay? | Augmented: Can I use Apple Pay to add funds to my account?
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: N/A | Original: I cant find my card. | Augmented: I've misplaced my card.
+VAL | [card_not_working] | ACCEPT | Reason: ... | Original: Why can't I use my card? | Augmented: Why is my card not functioning properly?
+VAL | [cancel_transfer] | ACCEPT | Reason: N/A | Original: A payment I made is for a wrong amount can you help me correct the mistake. | Augmented: I'd like to cancel the transfer as it was made in error and I'd like to rectify the mistake.
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: What types of top-up methods do you accept? | Augmented: You can top up your account using either cash or cheque.
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: ... | Original: Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate | Augmented: Why did you apply an incorrect exchange rate for my international transaction? I was expecting a more competitive rate for the foreign currency.
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: ... | Original: i withdrew cash and dont see it reflected on the balance | Augmented: I made a cash withdrawal, but it's not showing up on my account balance.
+VAL | [apple_pay_or_google_pay] | ACCEPT | Reason: N/A | Original: What services can I use to top up? | Augmented: What payment methods can I use to add funds?
+VAL | [reverted_card_payment?] | ACCEPT | Reason: ... | Original: I think the payment from my card was revereted | Augmented: I believe the payment made from my card was reversed
+VAL | [transfer_fee_charged] | ACCEPT | Reason: N/A | Original: I got an unexpected charge on my transfers. How can I correct this? | Augmented: I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: How can I top up my account and which currency can I use? | Augmented: What methods are available for adding funds to my account, and what currencies are accepted for transactions?
+VAL | [cancel_transfer] | ACCEPT | Reason: N/A | Original: The wrong account was used during a transaction. | Augmented: The incorrect account was mistakenly used for a transfer.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: N/A | Original: the balance has not changed, but I have deposited some money | Augmented: The balance remains the same, despite the recent deposit.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: N/A | Original: How long do deposits take to appear? I've been waiting for more than a week and need the money! | Augmented: Why hasn't my account balance been updated after a recent cheque or cash deposit? I've been waiting for an extended period and would like to know when I can expect the funds to reflect in my account.
+VAL_SUMMARY | ACCEPT: 31 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 2 | Accept Rate: 0.9394

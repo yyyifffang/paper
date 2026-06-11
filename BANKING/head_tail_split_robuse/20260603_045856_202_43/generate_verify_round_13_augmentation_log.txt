@@ -1,0 +1,77 @@
+GEN | [card_acceptance] | Orig: Is there anywhere I can't use my card? -> Aug: Are there any specific places or situations where my card won't be accepted?
+GEN | [verify_source_of_funds] | Orig: What kind of security protects my money? -> Aug: We want to ensure the origin of your funds is legitimate and secure.
+GEN | [card_not_working] | Orig: Is my card frozen? -> Aug: Is my credit card not functioning properly?
+GEN | [lost_or_stolen_card] | Orig: I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card? -> Aug: I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card?
+GEN | [declined_cash_withdrawal] | Orig: I'm trying to take money from my account but its not letting me. Help! -> Aug: I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?
+GEN | [extra_charge_on_statement] | Orig: What is the dollar that I have pending on my statement there? -> Aug: What is the additional charge that I see on my statement?
+GEN | [country_support] | Orig: Who gets support? -> Aug: Who is eligible for assistance?
+GEN | [lost_or_stolen_card] | Orig: Has there been any activity on my card today? -> Aug: Has there been any recent use or transactions on my card?
+GEN | [passcode_forgotten] | Orig: I can't log in with this passocde -> Aug: I'm having trouble accessing my account because I've forgotten my passcode.
+GEN | [declined_transfer] | Orig: What do I do with my "decline" message on a transfer? -> Aug: What can I do about the transfer that was declined?
+GEN | [contactless_not_working] | Orig: Should i uninstall the app before i try it again? -> Aug: Is it necessary to remove the app before attempting to use the contactless payment feature again?
+GEN | [pending_transfer] | Orig: I have an outgoing transfer -> Aug: I have a pending outgoing transaction
+GEN | [transfer_not_received_by_recipient] | Orig: wheres my money receipt -> Aug: I haven't received the transfer yet.
+GEN | [top_up_reverted] | Orig: It's only been a few weeks my my top-up got cancelled -> Aug: My recent top-up reversal has just occurred, and it's only been a few weeks since it happened.
+GEN | [card_payment_wrong_exchange_rate] | Orig: I'm going on a trip soon and I needed to convert my Russian ruble to UK pounds, but when I did, your company charged me above the exchange rate. Did you mess up my transaction? -> Aug: I'm planning a trip and attempted to exchange my Russian rubles for UK pounds, but your company's exchange rate was higher than expected. Was there an error with my transaction?
+GEN | [exchange_charge] | Orig: Do I have to pay more for exchanges? -> Aug: Are there additional fees for exchanging funds?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: help my money isnt showing up -> Aug: my account balance isn't reflecting the recent transfer
+GEN | [cancel_transfer] | Orig: I used the wrong account number! -> Aug: I mistakenly entered an incorrect account number.
+GEN | [top_up_by_card_charge] | Orig: Are there any charges for topping up a US-issued card? -> Aug: Is there a fee associated with recharging a US-issued card?
+GEN | [top_up_by_card_charge] | Orig: Will you charge me more if I use a European bank card for a top up? -> Aug: Will there be an additional fee if I use a European bank card to make a top-up payment?
+GEN | [pending_cash_withdrawal] | Orig: Explain pending transactions. -> Aug: Describe outstanding cash withdrawal requests.
+GEN | [card_linking] | Orig: If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it? -> Aug: If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?
+GEN | [card_payment_wrong_exchange_rate] | Orig: I believe you charged me too much to exchange my money -> Aug: I think the exchange rate used for my card payment was incorrect and I was overcharged
+GEN | [transaction_charged_twice] | Orig: My card is showing the same transaction over and over again. -> Aug: I'm seeing the same transaction repeatedly on my card statement.
+GEN | [card_acceptance] | Orig: Are there any places that won't take my card? -> Aug: Are there any locations that don't accept my card?
+GEN | [top_up_reverted] | Orig: What if my top up is reverted? -> Aug: What happens if my top-up transaction is reversed?
+GEN | [automatic_top_up] | Orig: Can I have money transferred into my account at different intervals along my trip? -> Aug: Can I set up recurring transfers to my account during my trip?
+GEN | [compromised_card] | Orig: Should I order a new card before I freeze my original one? -> Aug: Should I request a replacement card before securing my compromised card?
+GEN | [top_up_by_card_charge] | Orig: Are there still fees for european top-ups? -> Aug: Are there any charges for making a top-up payment using my card in Europe?
+GEN | [transfer_not_received_by_recipient] | Orig: Where is my last money transaction -> Aug: I haven't received my recent transfer.
+GEN | [edit_personal_details] | Orig: How do I input a new address? -> Aug: How can I update my address information?
+GEN | [apple_pay_or_google_pay] | Orig: my google pay seems to be acting up. -> Aug: my apple pay is malfunctioning
+GEN | [cancel_transfer] | Orig: stop the transaction -> Aug: halt the transfer
+GEN | [transfer_timing] | Orig: Help! I need to transfer something to China. -> Aug: Can you assist me with arranging a transfer to China?
+GEN | [top_up_failed] | Orig: My money I added isn't on my card. -> Aug: The funds I attempted to add are not showing up on my card.
+GEN | [declined_cash_withdrawal] | Orig: I can't get any money from my account. -> Aug: I'm unable to access my account funds.
+GEN | [top_up_failed] | Orig: I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly. -> Aug: I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible.
+GEN | [cash_withdrawal_not_recognised] | Orig: Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP! -> Aug: I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Is there anywhere I can't use my card? | Augmented: Are there any specific places or situations where my card won't be accepted?
+VAL | [verify_source_of_funds] | UNKNOWN | Reason: N/A | Original: What kind of security protects my money? | Augmented: We want to ensure the origin of your funds is legitimate and secure.
+VAL | [card_not_working] | ACCEPT | Reason: N/A | Original: Is my card frozen? | Augmented: Is my credit card not functioning properly?
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: N/A | Original: I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card? | Augmented: I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card?
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: ... | Original: I'm trying to take money from my account but its not letting me. Help! | Augmented: I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: What is the dollar that I have pending on my statement there? | Augmented: What is the additional charge that I see on my statement?
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: Who gets support? | Augmented: Who is eligible for assistance?
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: N/A | Original: Has there been any activity on my card today? | Augmented: Has there been any recent use or transactions on my card?
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I can't log in with this passocde | Augmented: I'm having trouble accessing my account because I've forgotten my passcode.
+VAL | [declined_transfer] | ACCEPT | Reason: N/A | Original: What do I do with my "decline" message on a transfer? | Augmented: What can I do about the transfer that was declined?
+VAL | [contactless_not_working] | ACCEPT | Reason: N/A | Original: Should i uninstall the app before i try it again? | Augmented: Is it necessary to remove the app before attempting to use the contactless payment feature again?
+VAL | [pending_transfer] | ACCEPT | Reason: ... | Original: I have an outgoing transfer | Augmented: I have a pending outgoing transaction
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: wheres my money receipt | Augmented: I haven't received the transfer yet.
+VAL | [top_up_reverted] | ACCEPT | Reason: ... | Original: It's only been a few weeks my my top-up got cancelled | Augmented: My recent top-up reversal has just occurred, and it's only been a few weeks since it happened.
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: The augmented text preserves the essence of the original intent without changing the core issue or adding any unsupported information. It retains the context of a planned trip and the use of a credit card for an exchange, which are key elements of the original intent. | Original: I'm going on a trip soon and I needed to convert my Russian ruble to UK pounds, but when I did, your company charged me above the exchange rate. Did you mess up my transaction? | Augmented: I'm planning a trip and attempted to exchange my Russian rubles for UK pounds, but your company's exchange rate was higher than expected. Was there an error with my transaction?
+VAL | [exchange_charge] | ACCEPT | Reason: N/A | Original: Do I have to pay more for exchanges? | Augmented: Are there additional fees for exchanging funds?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: ... | Original: help my money isnt showing up | Augmented: my account balance isn't reflecting the recent transfer
+VAL | [cancel_transfer] | ACCEPT | Reason: N/A | Original: I used the wrong account number! | Augmented: I mistakenly entered an incorrect account number.
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: Both texts are asking about the presence of fees or charges for topping up a US-issued card, which aligns with the target intent 'top_up_by_card_charge'. | Original: Are there any charges for topping up a US-issued card? | Augmented: Is there a fee associated with recharging a US-issued card?
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: Both texts are asking about potential additional charges when using a European bank card for a top-up payment. The wording is slightly different but the core intent remains the same. | Original: Will you charge me more if I use a European bank card for a top up? | Augmented: Will there be an additional fee if I use a European bank card to make a top-up payment?
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: N/A | Original: Explain pending transactions. | Augmented: Describe outstanding cash withdrawal requests.
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it? | Augmented: If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: The augmented text preserves the same banking intent by indicating that the user believes the exchange rate used for their card payment was incorrect, resulting in an overcharge. This is a direct paraphrase of the original text without changing the core issue. | Original: I believe you charged me too much to exchange my money | Augmented: I think the exchange rate used for my card payment was incorrect and I was overcharged
+VAL | [transaction_charged_twice] | ACCEPT | Reason: ... | Original: My card is showing the same transaction over and over again. | Augmented: I'm seeing the same transaction repeatedly on my card statement.
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Are there any places that won't take my card? | Augmented: Are there any locations that don't accept my card?
+VAL | [top_up_reverted] | ACCEPT | Reason: N/A | Original: What if my top up is reverted? | Augmented: What happens if my top-up transaction is reversed?
+VAL | [automatic_top_up] | ACCEPT | Reason: N/A | Original: Can I have money transferred into my account at different intervals along my trip? | Augmented: Can I set up recurring transfers to my account during my trip?
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: Should I order a new card before I freeze my original one? | Augmented: Should I request a replacement card before securing my compromised card?
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: Are there still fees for european top-ups? | Augmented: Are there any charges for making a top-up payment using my card in Europe?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: Where is my last money transaction | Augmented: I haven't received my recent transfer.
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: How do I input a new address? | Augmented: How can I update my address information?
+VAL | [apple_pay_or_google_pay] | UNKNOWN | Reason: N/A | Original: my google pay seems to be acting up. | Augmented: my apple pay is malfunctioning
+VAL | [cancel_transfer] | ACCEPT | Reason: Both "stop the transaction" and "halt the transfer" convey the same action of terminating a financial transfer. | Original: stop the transaction | Augmented: halt the transfer
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: Help! I need to transfer something to China. | Augmented: Can you assist me with arranging a transfer to China?
+VAL | [top_up_failed] | ACCEPT | Reason: N/A | Original: My money I added isn't on my card. | Augmented: The funds I attempted to add are not showing up on my card.
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: N/A | Original: I can't get any money from my account. | Augmented: I'm unable to access my account funds.
+VAL | [top_up_failed] | ACCEPT | Reason: ... | Original: I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly. | Augmented: I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible.
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP! | Augmented: I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!
+VAL_SUMMARY | ACCEPT: 36 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 2 | Accept Rate: 0.9474

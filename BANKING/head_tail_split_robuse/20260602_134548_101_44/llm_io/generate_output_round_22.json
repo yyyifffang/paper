@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "What is the origin of the funds you'd like to deposit into your account?",
+    "My card payments have ceased.",
+    "Can I use my smartwatch to make a payment for fuel?",
+    "Can I use cash to top up my account at a physical location?",
+    "I made a transfer, but my account balance hasn't been updated.",
+    "Is there a fee for topping up my account via bank transfer?",
+    "I'm surprised to see a fee applied to my transfer.",
+    "Why hasn't my account balance been updated after I deposited a cheque or cash?",
+    "I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?",
+    "I'd like to activate my card and begin making transactions.",
+    "Why was the amount of cash I received not in line with the expected exchange rate?",
+    "The recipient's account does not show the transferred funds.",
+    "I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?",
+    "Can I use Apple Pay or Google Pay to pay for my gas?",
+    "I'm not sure what's meant by the outstanding payment.",
+    "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?",
+    "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance.",
+    "Can I move some money from another account into my current account?",
+    "To facilitate a transfer, could you please provide me with your bank account information?",
+    "Can I see my latest refund reflected in my account statement?",
+    "I'm trying to figure out where this payment is coming from.",
+    "Can I use my Apple Pay-enabled device to fill my gas tank?",
+    "I'm noticing some suspicious activity on my account, showing up in the app without my permission.",
+    "why hasn't my account balance been updated after the deposit I made this morning?",
+    "What's the reason for the fee deducted from my account for the recent transfer?",
+    "display the process for transferring funds into my account",
+    "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance.",
+    "What can I do to avoid incurring a charge when withdrawing cash from an ATM?",
+    "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place.",
+    "I made a transfer to my landlord a few days ago, but he's telling me he didn't receive it. I've double-checked the account number and it's correct. Can you assist me in resolving this issue?",
+    "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?",
+    "I accidentally left my credit card in the ATM machine.",
+    "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?",
+    "Can you help me understand how the payment was processed on my account?",
+    "What are the steps to obtain my physical card?",
+    "I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account.",
+    "You can use cash to top up at any of our physical locations.",
+    "Can I send a check to deposit funds into my account?"
+  ],
+  "generated_labels": [
+    70,
+    53,
+    2,
+    58,
+    5,
+    56,
+    64,
+    6,
+    51,
+    0,
+    76,
+    66,
+    40,
+    2,
+    45,
+    75,
+    75,
+    65,
+    65,
+    51,
+    16,
+    2,
+    20,
+    6,
+    64,
+    65,
+    17,
+    19,
+    76,
+    66,
+    64,
+    18,
+    5,
+    16,
+    38,
+    8,
+    58,
+    58
+  ],
+  "source_texts": [
+    "who can put money in my account?",
+    "My card payments have stopped.",
+    "Can I use my Apple Watch to pay for gas?",
+    "Can cash be used in physical locations to top up?",
+    "I did a transfer but the balance is the same.",
+    "Does it cost me to add cash?",
+    "I shouldn't be charged any fee for transferring .",
+    "Why hasn't my account updated?",
+    "I need my refund as soon as possible. What else do I have to do?",
+    "I want to start using my card.",
+    "Why did I only receive this much currency?",
+    "Money is not in recipients account.",
+    "I need to make a purchase online, where is my virtual card?",
+    "Can I pay for my gas using my Apple watch?",
+    "I don't know what pending transaction means.",
+    "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+    "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+    "Help! My account doesn't show any funds. Is transferring funds an option I can use?",
+    "What are my bank details so I can do a transfer?",
+    "Can I check my recent refund in my statement?",
+    "I need to know where this charge is coming from?",
+    "Can I use my Apple watch to fill my gas tank?",
+    "I am seeing unathorized transactions in the app, on my account.",
+    "where is my money from this morning",
+    "Why was money taken for a transfer?",
+    "show me how to transfer to my account",
+    "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+    "How do I avoid a fee to use an ATM?",
+    "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+    "Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out?",
+    "I usually don't get charged for transfers, why was I this month?",
+    "I have lost my credit card in the ATM!",
+    "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+    "Is there any way to know how the transaction got on my account?",
+    "How do I get started when I get my card?",
+    "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+    "What physical locations can I use cash to top up?",
+    "Is there somewhere I can send a check to add to my account?"
+  ],
+  "records": [
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "who can put money in my account?",
+      "generated": "What is the origin of the funds you'd like to deposit into your account?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My card payments have stopped.",
+      "generated": "My card payments have ceased."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I use my Apple Watch to pay for gas?",
+      "generated": "Can I use my smartwatch to make a payment for fuel?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can cash be used in physical locations to top up?",
+      "generated": "Can I use cash to top up my account at a physical location?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I did a transfer but the balance is the same.",
+      "generated": "I made a transfer, but my account balance hasn't been updated."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Does it cost me to add cash?",
+      "generated": "Is there a fee for topping up my account via bank transfer?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I shouldn't be charged any fee for transferring .",
+      "generated": "I'm surprised to see a fee applied to my transfer."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why hasn't my account updated?",
+      "generated": "Why hasn't my account balance been updated after I deposited a cheque or cash?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I need my refund as soon as possible. What else do I have to do?",
+      "generated": "I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I want to start using my card.",
+      "generated": "I'd like to activate my card and begin making transactions."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why did I only receive this much currency?",
+      "generated": "Why was the amount of cash I received not in line with the expected exchange rate?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Money is not in recipients account.",
+      "generated": "The recipient's account does not show the transferred funds."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I need to make a purchase online, where is my virtual card?",
+      "generated": "I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I pay for my gas using my Apple watch?",
+      "generated": "Can I use Apple Pay or Google Pay to pay for my gas?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I don't know what pending transaction means.",
+      "generated": "I'm not sure what's meant by the outstanding payment."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+      "generated": "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+      "generated": "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Help! My account doesn't show any funds. Is transferring funds an option I can use?",
+      "generated": "Can I move some money from another account into my current account?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are my bank details so I can do a transfer?",
+      "generated": "To facilitate a transfer, could you please provide me with your bank account information?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Can I check my recent refund in my statement?",
+      "generated": "Can I see my latest refund reflected in my account statement?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to know where this charge is coming from?",
+      "generated": "I'm trying to figure out where this payment is coming from."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I use my Apple watch to fill my gas tank?",
+      "generated": "Can I use my Apple Pay-enabled device to fill my gas tank?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I am seeing unathorized transactions in the app, on my account.",
+      "generated": "I'm noticing some suspicious activity on my account, showing up in the app without my permission."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "where is my money from this morning",
+      "generated": "why hasn't my account balance been updated after the deposit I made this morning?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Why was money taken for a transfer?",
+      "generated": "What's the reason for the fee deducted from my account for the recent transfer?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "show me how to transfer to my account",
+      "generated": "display the process for transferring funds into my account"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+      "generated": "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How do I avoid a fee to use an ATM?",
+      "generated": "What can I do to avoid incurring a charge when withdrawing cash from an ATM?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+      "generated": "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out?",
+      "generated": "I made a transfer to my landlord a few days ago, but he's telling me he didn't receive it. I've double-checked the account number and it's correct. Can you assist me in resolving this issue?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I usually don't get charged for transfers, why was I this month?",
+      "generated": "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I have lost my credit card in the ATM!",
+      "generated": "I accidentally left my credit card in the ATM machine."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+      "generated": "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Is there any way to know how the transaction got on my account?",
+      "generated": "Can you help me understand how the payment was processed on my account?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "How do I get started when I get my card?",
+      "generated": "What are the steps to obtain my physical card?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+      "generated": "I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What physical locations can I use cash to top up?",
+      "generated": "You can use cash to top up at any of our physical locations."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Is there somewhere I can send a check to add to my account?",
+      "generated": "Can I send a check to deposit funds into my account?"
+    }
+  ]
+}

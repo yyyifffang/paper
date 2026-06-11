@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "What kind of payment card will I be issued?",
+    "I haven't received my card within a week. Should I be concerned?",
+    "Why did my contactless payment fail to work at the metro station?",
+    "How many spare cards can I have issued to me?",
+    "I'm currently traveling in Spain and would like to modify my PIN.",
+    "Can you provide an estimate for the delivery of my card within a 2-day timeframe?",
+    "Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?",
+    "What's the maximum amount I can top up?",
+    "How many times can I increase my limits through top-ups?",
+    "I'm concerned that someone may have discovered my PIN and I'm currently in Spain, can I modify it at a local ATM?",
+    "As I'm currently in Spain, I'm concerned that someone might have seen my PIN and I'd like to change it; can I do so at an ATM here or is there another option available?",
+    "Complete my top-up transaction",
+    "What steps can I take to have a card delivered to China?",
+    "I was unable to make a transfer to a different account.",
+    "I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.",
+    "Can you confirm if my top-up was unsuccessful? It appears it didn't go through.",
+    "Where can I access cash from an ATM?",
+    "What is the verification code for the top-up process?",
+    "It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement.",
+    "I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible.",
+    "Are there any additional fees associated with exchanging funds?",
+    "What kind of payment card will I be issued?",
+    "I'm concerned about a payment I made that was initially deducted from my account, but then reversed. The seller has informed me that they didn't receive the payment. Can you look into this and resolve the issue as soon as possible?",
+    "The system is unable to confirm your identity.",
+    "Why hasn't the recipient received my money transfer?",
+    "I'd like to obtain a Mastercard",
+    "Can I request a replacement card for my daughter's account?",
+    "Can you provide a replacement card for me in China?",
+    "My card balance isn't showing the recent top-up.",
+    "What are the charges for withdrawing cash from an ATM?",
+    "Are there any fees associated with receiving a bank transfer to top up my account?",
+    "Can I transfer funds to specific accounts, or are there limitations in place?",
+    "When can I expect the pending cash withdrawal to be processed?",
+    "Is the exchange rate fee subject to change?"
+  ],
+  "generated_labels": [
+    73,
+    11,
+    23,
+    39,
+    21,
+    12,
+    29,
+    60,
+    60,
+    21,
+    21,
+    59,
+    9,
+    7,
+    37,
+    59,
+    3,
+    71,
+    51,
+    59,
+    31,
+    73,
+    53,
+    68,
+    66,
+    73,
+    39,
+    9,
+    62,
+    19,
+    56,
+    7,
+    46,
+    17
+  ],
+  "source_texts": [
+    "Which type of card will I receive?",
+    "I don't have my card in 1 week.  Should I be worried?",
+    "Why wasn't my contactless accepted at the metro?",
+    "What's the limit on total number of cards I can have?",
+    "I am on vacation in Spain and need to change my pin.",
+    "how much to get my card in 2 days?",
+    "A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?",
+    "Whats the limit on my top up",
+    "How many top-ups am I allowed to do?",
+    "I think someone saw my PIN and I am on vacation in Spain, can I change it locally at an ATM?",
+    "While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain?",
+    "Fix my top up",
+    "How can I get a card sent to China?",
+    "I was unable to transfer to another account.",
+    "I have heard about these disposable virtual cards but don't understand how they work.",
+    "Can I tell if my top off didn't work?  It doesn't seem to have.",
+    "Where should I withdraw money from?",
+    "What is the top up code for?",
+    "It's been more than a week since I had a return charged to my card, why hasn't it showed up?",
+    "I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",
+    "Do exchanges cost more?",
+    "What type of card will I receive?",
+    "I was just contacted by a seller that let me know they didn't get my money even though I'm very sure it was removed from my account. Now it's back in my account. Get this resolved quickly.",
+    "The app does not know it is me.",
+    "How can I the person see my money transaction?",
+    "I want to get a Visa",
+    "My daughter need a card from this account. Is that possible?",
+    "Will you send me a new card in China?",
+    "My top up isn't in my wallet.",
+    "Could you explain your rules for ATM fees?",
+    "Is there a cost to receive money?",
+    "Are there restrictions to transfers to certain accounts?",
+    "Do you know when the withdrawal will show?",
+    "Does the fee for exchange change?"
+  ],
+  "records": [
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Which type of card will I receive?",
+      "generated": "What kind of payment card will I be issued?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I don't have my card in 1 week.  Should I be worried?",
+      "generated": "I haven't received my card within a week. Should I be concerned?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Why wasn't my contactless accepted at the metro?",
+      "generated": "Why did my contactless payment fail to work at the metro station?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "What's the limit on total number of cards I can have?",
+      "generated": "How many spare cards can I have issued to me?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I am on vacation in Spain and need to change my pin.",
+      "generated": "I'm currently traveling in Spain and would like to modify my PIN."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "how much to get my card in 2 days?",
+      "generated": "Can you provide an estimate for the delivery of my card within a 2-day timeframe?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?",
+      "generated": "Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Whats the limit on my top up",
+      "generated": "What's the maximum amount I can top up?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How many top-ups am I allowed to do?",
+      "generated": "How many times can I increase my limits through top-ups?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I think someone saw my PIN and I am on vacation in Spain, can I change it locally at an ATM?",
+      "generated": "I'm concerned that someone may have discovered my PIN and I'm currently in Spain, can I modify it at a local ATM?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain?",
+      "generated": "As I'm currently in Spain, I'm concerned that someone might have seen my PIN and I'd like to change it; can I do so at an ATM here or is there another option available?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Fix my top up",
+      "generated": "Complete my top-up transaction"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How can I get a card sent to China?",
+      "generated": "What steps can I take to have a card delivered to China?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I was unable to transfer to another account.",
+      "generated": "I was unable to make a transfer to a different account."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I have heard about these disposable virtual cards but don't understand how they work.",
+      "generated": "I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Can I tell if my top off didn't work?  It doesn't seem to have.",
+      "generated": "Can you confirm if my top-up was unsuccessful? It appears it didn't go through."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where should I withdraw money from?",
+      "generated": "Where can I access cash from an ATM?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What is the top up code for?",
+      "generated": "What is the verification code for the top-up process?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "It's been more than a week since I had a return charged to my card, why hasn't it showed up?",
+      "generated": "It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",
+      "generated": "I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do exchanges cost more?",
+      "generated": "Are there any additional fees associated with exchanging funds?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "What type of card will I receive?",
+      "generated": "What kind of payment card will I be issued?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I was just contacted by a seller that let me know they didn't get my money even though I'm very sure it was removed from my account. Now it's back in my account. Get this resolved quickly.",
+      "generated": "I'm concerned about a payment I made that was initially deducted from my account, but then reversed. The seller has informed me that they didn't receive the payment. Can you look into this and resolve the issue as soon as possible?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app does not know it is me.",
+      "generated": "The system is unable to confirm your identity."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How can I the person see my money transaction?",
+      "generated": "Why hasn't the recipient received my money transfer?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I want to get a Visa",
+      "generated": "I'd like to obtain a Mastercard"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "My daughter need a card from this account. Is that possible?",
+      "generated": "Can I request a replacement card for my daughter's account?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Will you send me a new card in China?",
+      "generated": "Can you provide a replacement card for me in China?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My top up isn't in my wallet.",
+      "generated": "My card balance isn't showing the recent top-up."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Could you explain your rules for ATM fees?",
+      "generated": "What are the charges for withdrawing cash from an ATM?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a cost to receive money?",
+      "generated": "Are there any fees associated with receiving a bank transfer to top up my account?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Are there restrictions to transfers to certain accounts?",
+      "generated": "Can I transfer funds to specific accounts, or are there limitations in place?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Do you know when the withdrawal will show?",
+      "generated": "When can I expect the pending cash withdrawal to be processed?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the fee for exchange change?",
+      "generated": "Is the exchange rate fee subject to change?"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "Do I need to fund my account before placing an order for a physical card?",
+    "I'm still waiting for the ID verification process to complete, so can I use my account already?",
+    "I'd like to add funds to my card, will there be a fee involved?",
+    "Confirming the top-up process appears to be a bit of a chore.",
+    "What can I do to resolve the PIN block issue?",
+    "How can I arrange for automatic top-ups to my card while I'm abroad?",
+    "Can I proceed with logging in even though my identity has not been verified yet?",
+    "Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?",
+    "I'd like to put a hold on my card as there are unauthorized transactions showing up on my statement. The charges have been appearing over the past couple of days. Can I get these unauthorized charges reversed and the funds returned to my account?",
+    "Can I have this card about to expire sent to China?",
+    "The expiration date of my credit card is approaching",
+    "How do I modify my PIN?",
+    "I'm having difficulty locating the verification code for my top-up card.",
+    "Can you assist me in enabling contactless transactions?",
+    "how long will it take for my top-up to be processed?",
+    "My bank card has reached its expiration date, what steps can I take to obtain a replacement physical card?",
+    "Is there an option to expedite the delivery of my card for an additional fee?",
+    "What steps can I take to remove the block on my card?",
+    "I'm unable to locate my virtual card. Can you help me understand why it's not showing up?",
+    "If I were to make a top-up payment using a European bank card, would I be charged a fee?",
+    "Why can't I use my American Express card to fund my account?",
+    "I'd like to inquire about the possibility of expedited shipping for my card delivery.",
+    "I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card usage.",
+    "I'd like to understand the fees associated with making a payment using a European card for a top-up transaction.",
+    "I mistakenly selected GBP for the exchange, but I'd like to switch to AUD instead. Can I modify the exchange rate?",
+    "Is there a fee associated with recharging a US-issued card?",
+    "Do you need assistance?",
+    "Can you please explain why I need to confirm my top-up card details?",
+    "What happens when my credit card is about to expire, and I'm nearing the end of its validity period?",
+    "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.",
+    "What steps can I take to get a replacement bank card before my current one expires?",
+    "My recent top-up reversal has just occurred, and it's only been a few weeks since it happened.",
+    "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?",
+    "Is the exchange rate fee subject to change?",
+    "I'd like to inquire about any available discounts for regular exchange transactions, as they happen quite often."
+  ],
+  "generated_labels": [
+    43,
+    74,
+    57,
+    71,
+    49,
+    4,
+    74,
+    12,
+    16,
+    9,
+    9,
+    21,
+    71,
+    23,
+    47,
+    9,
+    12,
+    49,
+    40,
+    57,
+    54,
+    12,
+    16,
+    57,
+    33,
+    57,
+    24,
+    71,
+    9,
+    15,
+    9,
+    61,
+    74,
+    17,
+    31
+  ],
+  "source_texts": [
+    "do i need to add money before i order a card",
+    "I'm waiting for the ID verification to go through still, so is it too soon to use my account?",
+    "I am wanting to refill my card, is there a charge?",
+    "Verifying the top-up seems like a hassle.",
+    "How do I get unblocked?",
+    "How do I get refills to my card when I'm traveling?",
+    "Is it possible to go ahead and log in, although I have not been confirmed yet?",
+    "Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.",
+    "I need to freeze my card. There are charges on there that i did not authorize. They've been coming out for a couple of days. Can i get this money back?",
+    "Am I able to get this shipped to China?",
+    "The date my card expires is coming up",
+    "How can I change my Rowlock ?",
+    "I am having trouble finding the top-up card verification code.",
+    "Help me to set up contactless payments.",
+    "how long should i expect to wait when i add money",
+    "My bank card has expired, how can I get a new physical card?",
+    "Can I pay more to get it deliver quicker?",
+    "How do I take a block off my card?",
+    "I look but I see no virtual card. Why is that?",
+    "If I were to use a European bank card for a top up, will I incur a charge?",
+    "why don't you accept american express for adding money to my account",
+    "i need to add express delivery if that's an option",
+    "I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card.",
+    "I need to know what charges I will incur for using a European card for top up.",
+    "I accidentally chose to exchange GBP, but I need to pick AUD. How can I change it?",
+    "Are there any charges for topping up a US-issued card?",
+    "Can I get support?",
+    "Why do i have to verify my top-up card?",
+    "What do I do when I get close to the expiration date of my card?",
+    "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+    "How do I go about ordering a new bank card?",
+    "It's only been a few weeks my my top-up got cancelled",
+    "My ID verification hasn't gone through yet, but can I use my account anyway?",
+    "Does the fee for exchange change?",
+    "I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently."
+  ],
+  "records": [
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "do i need to add money before i order a card",
+      "generated": "Do I need to fund my account before placing an order for a physical card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I'm waiting for the ID verification to go through still, so is it too soon to use my account?",
+      "generated": "I'm still waiting for the ID verification process to complete, so can I use my account already?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I am wanting to refill my card, is there a charge?",
+      "generated": "I'd like to add funds to my card, will there be a fee involved?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Verifying the top-up seems like a hassle.",
+      "generated": "Confirming the top-up process appears to be a bit of a chore."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I get unblocked?",
+      "generated": "What can I do to resolve the PIN block issue?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How do I get refills to my card when I'm traveling?",
+      "generated": "How can I arrange for automatic top-ups to my card while I'm abroad?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Is it possible to go ahead and log in, although I have not been confirmed yet?",
+      "generated": "Can I proceed with logging in even though my identity has not been verified yet?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.",
+      "generated": "Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to freeze my card. There are charges on there that i did not authorize. They've been coming out for a couple of days. Can i get this money back?",
+      "generated": "I'd like to put a hold on my card as there are unauthorized transactions showing up on my statement. The charges have been appearing over the past couple of days. Can I get these unauthorized charges reversed and the funds returned to my account?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Am I able to get this shipped to China?",
+      "generated": "Can I have this card about to expire sent to China?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "The date my card expires is coming up",
+      "generated": "The expiration date of my credit card is approaching"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "How can I change my Rowlock ?",
+      "generated": "How do I modify my PIN?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I am having trouble finding the top-up card verification code.",
+      "generated": "I'm having difficulty locating the verification code for my top-up card."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Help me to set up contactless payments.",
+      "generated": "Can you assist me in enabling contactless transactions?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "how long should i expect to wait when i add money",
+      "generated": "how long will it take for my top-up to be processed?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My bank card has expired, how can I get a new physical card?",
+      "generated": "My bank card has reached its expiration date, what steps can I take to obtain a replacement physical card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I pay more to get it deliver quicker?",
+      "generated": "Is there an option to expedite the delivery of my card for an additional fee?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I take a block off my card?",
+      "generated": "What steps can I take to remove the block on my card?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I look but I see no virtual card. Why is that?",
+      "generated": "I'm unable to locate my virtual card. Can you help me understand why it's not showing up?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "If I were to use a European bank card for a top up, will I incur a charge?",
+      "generated": "If I were to make a top-up payment using a European bank card, would I be charged a fee?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why don't you accept american express for adding money to my account",
+      "generated": "Why can't I use my American Express card to fund my account?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i need to add express delivery if that's an option",
+      "generated": "I'd like to inquire about the possibility of expedited shipping for my card delivery."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card.",
+      "generated": "I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card usage."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I need to know what charges I will incur for using a European card for top up.",
+      "generated": "I'd like to understand the fees associated with making a payment using a European card for a top-up transaction."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I accidentally chose to exchange GBP, but I need to pick AUD. How can I change it?",
+      "generated": "I mistakenly selected GBP for the exchange, but I'd like to switch to AUD instead. Can I modify the exchange rate?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are there any charges for topping up a US-issued card?",
+      "generated": "Is there a fee associated with recharging a US-issued card?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I get support?",
+      "generated": "Do you need assistance?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Why do i have to verify my top-up card?",
+      "generated": "Can you please explain why I need to confirm my top-up card details?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What do I do when I get close to the expiration date of my card?",
+      "generated": "What happens when my credit card is about to expire, and I'm nearing the end of its validity period?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+      "generated": "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How do I go about ordering a new bank card?",
+      "generated": "What steps can I take to get a replacement bank card before my current one expires?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "It's only been a few weeks my my top-up got cancelled",
+      "generated": "My recent top-up reversal has just occurred, and it's only been a few weeks since it happened."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "My ID verification hasn't gone through yet, but can I use my account anyway?",
+      "generated": "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the fee for exchange change?",
+      "generated": "Is the exchange rate fee subject to change?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently.",
+      "generated": "I'd like to inquire about any available discounts for regular exchange transactions, as they happen quite often."
+    }
+  ]
+}

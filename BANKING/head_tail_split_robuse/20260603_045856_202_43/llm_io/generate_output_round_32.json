@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I've noticed duplicate transactions on my account.",
+    "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?",
+    "I recently made a deposit, but it seems to have been reversed. Can you help me understand why this happened?",
+    "Duplicate transaction appearing on my account statement.",
+    "I attempted to add funds to my card, but the transaction was reversed.",
+    "I attempted to perform a crypto top-up using your service, but it appears to have been unsuccessful. The funds have been debited from my account, and I'd appreciate it if you could investigate this issue.",
+    "I mistakenly initiated a transfer to the wrong account.",
+    "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?",
+    "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account.",
+    "My credit card's expiration date is approaching, will you automatically issue a new one for me?",
+    "I require a replacement card.",
+    "How can I stop a pending transfer?",
+    "I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?",
+    "Why hasn't my account balance been updated after the recent bank transfer?",
+    "I'm unable to locate the recent card top-up in my digital wallet.",
+    "I'm cancelling the payment as I haven't received the item I purchased from them a while back.",
+    "My recent card payment isn't reflected in my wallet balance.",
+    "How long does it take for a cheque to clear before I can use it to top up my account?",
+    "I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize.",
+    "We're trying to investigate why a direct debit payment was made from your account without your consent.",
+    "I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?",
+    "I'm having trouble entering my passcode, it's not recognizing it.",
+    "I'm unhappy with the services and would like to discontinue my account.",
+    "Can I change my PIN at a bank branch instead of online?",
+    "The ATM swallowed my card!",
+    "I observed an unexpected fee when I withdrew my cash.",
+    "Why was the payment for one of my transactions reversed and credited back to my account?",
+    "can you help me resolve the issue with my top-up attempt?",
+    "I'm missing a withdrawal from my account.",
+    "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?",
+    "I'd like to replace a faulty card.",
+    "I made a single transaction, yet it's been duplicated on my statement.",
+    "I've forgotten my passcode and need a new one",
+    "I'd like to cancel a recent purchase and obtain a refund. Could you assist me in reversing the transaction so I can retrieve the funds? It's crucial that I get the refund as soon as possible.",
+    "Could you kindly inform me if the refund for my recent large purchase has been processed and credited to my account? I've been waiting for a while, as I requested it from the merchant a few days ago, but I haven't received any update yet.",
+    "We've noticed some transactions on your bank statement that don't match any payments you've made.",
+    "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?",
+    "The payment I initiated has not been fully processed."
+  ],
+  "generated_labels": [
+    63,
+    53,
+    61,
+    63,
+    61,
+    61,
+    8,
+    27,
+    8,
+    9,
+    39,
+    8,
+    61,
+    5,
+    62,
+    52,
+    62,
+    58,
+    20,
+    28,
+    52,
+    44,
+    55,
+    21,
+    18,
+    19,
+    53,
+    59,
+    20,
+    63,
+    14,
+    63,
+    44,
+    52,
+    51,
+    28,
+    49,
+    45
+  ],
+  "source_texts": [
+    "I have multiple of the same transaction",
+    "The money is still in my account even though I already paid -- I don't understand what happened.",
+    "I put some money in my account the other day but now its gone? Why is this?",
+    "Transaction showing up many times.",
+    "I went to top up my card and it was cancelled.",
+    "I thought crypto top up with something you offer. This is not working. The money has been deducted from my account. Can you find out what's going on?",
+    "I submitted a transaction but it was for the incorrect account.",
+    "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+    "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+    "My card expires soon, will you send me one automatically?",
+    "I need a new card.",
+    "How do i cancel a charge?",
+    "I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that?",
+    "Why is  my balance not updated?",
+    "I can't see my top up in my wallet!",
+    "I'm cancelling this charge. I still have not received what I bought from these people a while ago.",
+    "My wallet doesn't show my recent top up.",
+    "How long before a check I send clears?",
+    "I believe my card has been compromised as there are funds showing that I did not receive.",
+    "Is there a way for you to find out why my account was deducted from a seller when I didn't approve of it?",
+    "I just bought an item and would like to stop payment can you tell me if the item has been sent yet?",
+    "My passcode is not being accepted",
+    "i'm not satisfied with the services and no longer want to be a customer",
+    "\nDo I need to go to a physical bank to change my PIN?",
+    "The ATM didnt return my card!",
+    "I noticed a different charge while I was taking my money out.",
+    "Why did the funds for one of my purchase come back to my account?",
+    "is there a way to fix my top up",
+    "There is money missing from my account.",
+    "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+    "How do I re-order a damaged card?",
+    "I only made one transaction at this place, but it's appearing multiple times.",
+    "I need a new login code",
+    "Hello, I have recently made a purchase and have decided to cancel my purchase. Is there any way that you can cancel that transaction for me so I can get the money back? It's very important.",
+    "Please update me on whether you have received the funds for the refund of the large purchase I made recently. I have requested this from the merchant days ago but still haven't got anything.",
+    "Purchases I did not make are appearing in my bank statement?",
+    "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+    "I made a payment that is not yet complete."
+  ],
+  "records": [
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have multiple of the same transaction",
+      "generated": "I've noticed duplicate transactions on my account."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "The money is still in my account even though I already paid -- I don't understand what happened.",
+      "generated": "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I put some money in my account the other day but now its gone? Why is this?",
+      "generated": "I recently made a deposit, but it seems to have been reversed. Can you help me understand why this happened?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Transaction showing up many times.",
+      "generated": "Duplicate transaction appearing on my account statement."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I went to top up my card and it was cancelled.",
+      "generated": "I attempted to add funds to my card, but the transaction was reversed."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I thought crypto top up with something you offer. This is not working. The money has been deducted from my account. Can you find out what's going on?",
+      "generated": "I attempted to perform a crypto top-up using your service, but it appears to have been unsuccessful. The funds have been debited from my account, and I'd appreciate it if you could investigate this issue."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I submitted a transaction but it was for the incorrect account.",
+      "generated": "I mistakenly initiated a transfer to the wrong account."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+      "generated": "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+      "generated": "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card expires soon, will you send me one automatically?",
+      "generated": "My credit card's expiration date is approaching, will you automatically issue a new one for me?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I need a new card.",
+      "generated": "I require a replacement card."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "How do i cancel a charge?",
+      "generated": "How can I stop a pending transfer?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that?",
+      "generated": "I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why is  my balance not updated?",
+      "generated": "Why hasn't my account balance been updated after the recent bank transfer?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I can't see my top up in my wallet!",
+      "generated": "I'm unable to locate the recent card top-up in my digital wallet."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I'm cancelling this charge. I still have not received what I bought from these people a while ago.",
+      "generated": "I'm cancelling the payment as I haven't received the item I purchased from them a while back."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My wallet doesn't show my recent top up.",
+      "generated": "My recent card payment isn't reflected in my wallet balance."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How long before a check I send clears?",
+      "generated": "How long does it take for a cheque to clear before I can use it to top up my account?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I believe my card has been compromised as there are funds showing that I did not receive.",
+      "generated": "I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Is there a way for you to find out why my account was deducted from a seller when I didn't approve of it?",
+      "generated": "We're trying to investigate why a direct debit payment was made from your account without your consent."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I just bought an item and would like to stop payment can you tell me if the item has been sent yet?",
+      "generated": "I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "My passcode is not being accepted",
+      "generated": "I'm having trouble entering my passcode, it's not recognizing it."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "i'm not satisfied with the services and no longer want to be a customer",
+      "generated": "I'm unhappy with the services and would like to discontinue my account."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "\nDo I need to go to a physical bank to change my PIN?",
+      "generated": "Can I change my PIN at a bank branch instead of online?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "The ATM didnt return my card!",
+      "generated": "The ATM swallowed my card!"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I noticed a different charge while I was taking my money out.",
+      "generated": "I observed an unexpected fee when I withdrew my cash."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why did the funds for one of my purchase come back to my account?",
+      "generated": "Why was the payment for one of my transactions reversed and credited back to my account?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "is there a way to fix my top up",
+      "generated": "can you help me resolve the issue with my top-up attempt?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There is money missing from my account.",
+      "generated": "I'm missing a withdrawal from my account."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+      "generated": "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I re-order a damaged card?",
+      "generated": "I'd like to replace a faulty card."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I only made one transaction at this place, but it's appearing multiple times.",
+      "generated": "I made a single transaction, yet it's been duplicated on my statement."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I need a new login code",
+      "generated": "I've forgotten my passcode and need a new one"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Hello, I have recently made a purchase and have decided to cancel my purchase. Is there any way that you can cancel that transaction for me so I can get the money back? It's very important.",
+      "generated": "I'd like to cancel a recent purchase and obtain a refund. Could you assist me in reversing the transaction so I can retrieve the funds? It's crucial that I get the refund as soon as possible."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Please update me on whether you have received the funds for the refund of the large purchase I made recently. I have requested this from the merchant days ago but still haven't got anything.",
+      "generated": "Could you kindly inform me if the refund for my recent large purchase has been processed and credited to my account? I've been waiting for a while, as I requested it from the merchant a few days ago, but I haven't received any update yet."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Purchases I did not make are appearing in my bank statement?",
+      "generated": "We've noticed some transactions on your bank statement that don't match any payments you've made."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+      "generated": "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a payment that is not yet complete.",
+      "generated": "The payment I initiated has not been fully processed."
+    }
+  ]
+}

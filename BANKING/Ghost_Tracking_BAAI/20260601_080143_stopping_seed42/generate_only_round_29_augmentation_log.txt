@@ -1,0 +1,38 @@
+GEN | [card_payment_wrong_exchange_rate] | Orig: I was charged the wing amount for an item. -> Aug: I was overcharged for the item, and the amount doesn't match the expected exchange rate.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Where is my cash deposit in my balance? -> Aug: Why hasn't my account balance been updated to reflect the cash deposit I made?
+GEN | [extra_charge_on_statement] | Orig: Why is there a pending hold on one pound on my statement? -> Aug: What's the reason for the extra charge showing up on my statement?
+GEN | [failed_transfer] | Orig: I am trying to transfer money and something is going wrong. -> Aug: I'm having trouble completing a transfer and it's not going through as expected.
+GEN | [pending_cash_withdrawal] | Orig: Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash. -> Aug: Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.
+GEN | [extra_charge_on_statement] | Orig: My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about. -> Aug: My statement has a pending charge for £1 that I don't recognize. Can you help me understand what this transaction is about?
+GEN | [pending_transfer] | Orig: Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet. -> Aug: I've reviewed my account information to confirm everything is accurate, and I'm still waiting for a pending transfer to process.
+GEN | [getting_virtual_card] | Orig: I need to order a new card, can you please direct me to the virtual cards? -> Aug: I'd like to request a new virtual card, could you guide me on how to obtain one?
+GEN | [beneficiary_not_allowed] | Orig: I cant transfer money into my account -> Aug: I'm unable to add funds to my account.
+GEN | [verify_top_up] | Orig: Where's my top up code? -> Aug: Can you please provide me with my top-up code?
+GEN | [declined_cash_withdrawal] | Orig: Why did the ATM cancel my transaction -> Aug: Why was my cash withdrawal declined at the ATM?
+GEN | [transfer_not_received_by_recipient] | Orig: I did a money transaction and dont have a receipt -> Aug: I made a payment and didn't receive a confirmation
+GEN | [wrong_amount_of_cash_received] | Orig: how come when i asked for 100 it only gave me 20.00 in the app -> Aug: I was expecting to receive the full amount of $100, but instead, I only got $20.
+GEN | [order_physical_card] | Orig: What fees do you charge for the standard card? -> Aug: What are the charges for a standard physical card?
+GEN | [receiving_money] | Orig: Who can send me money? -> Aug: Who can transfer funds to me?
+GEN | [card_payment_fee_charged] | Orig: What can i pay with out  fees -> Aug: How can I make a payment without incurring any charges?
+GEN | [card_payment_fee_charged] | Orig: Why did I have to pay extra because I paid with my card? -> Aug: Why was I charged an additional fee when I used my card to make the payment?
+GEN | [pending_transfer] | Orig: i put in money for vacation and its not showing. i need that money today, how long will it take -> Aug: I initiated a transfer for my vacation fund, but it's still pending. Can you please let me know when I can expect the funds to be available?
+GEN | [direct_debit_payment_not_recognised] | Orig: I haven't used my card all day but there is a payment showing in the app. Please cancel it! -> Aug: I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can third party fees affect a transfer? -> Aug: Are there any charges associated with bank transfers that I should be aware of?
+GEN | [top_up_by_card_charge] | Orig: Are their fee's for top ups? -> Aug: Are there any charges associated with making a top-up payment using my card?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Why is it taking so long for my money to appear in my account? I have been waiting a week! -> Aug: Why hasn't my account balance been updated after I deposited a cheque or cash? I've been waiting for a while now.
+GEN | [top_up_by_card_charge] | Orig: What are the fees for using a European bank card? -> Aug: What are the charges for making a payment using a European bank card?
+GEN | [age_limit] | Orig: Can I get an account for my son? -> Aug: Can I open an account for my child?
+GEN | [card_about_to_expire] | Orig: Can I keep using my card after it expires? -> Aug: Can I continue to use my credit card after its expiration date?
+GEN | [card_acceptance] | Orig: How do I know where I can use my card? -> Aug: Where can I use my card?
+GEN | [declined_transfer] | Orig: How can I find a way to transfer money without it being rejected? -> Aug: I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?
+GEN | [pending_cash_withdrawal] | Orig: I have the cash already, my account still shows up as pending.  How can my account be still pending? -> Aug: I've already deposited the cash, yet my account remains pending. Why is my account still showing a pending status?
+GEN | [pending_top_up] | Orig: Is there a problem with the top up system? My transaction hasn't gone through properly -> Aug: Why hasn't my top-up request been processed successfully?
+GEN | [failed_transfer] | Orig: I couldnt transfer money from my account. -> Aug: I was unable to complete a transfer from my account.
+GEN | [transfer_fee_charged] | Orig: I got an unexpected charge on my transfers. How can I correct this? -> Aug: I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?
+GEN | [supported_cards_and_currencies] | Orig: can i use my mastercard to add money to my account -> Aug: Can I use my Mastercard to fund my account?
+GEN | [transfer_fee_charged] | Orig: There is a fee from a transfer that is not supposed to be here! -> Aug: A surprise fee has appeared on a transfer that shouldn't have had one.
+GEN | [top_up_by_card_charge] | Orig: I was wondering if you will take any fees in exchange for top ups? -> Aug: Are there any charges involved when I top up my account using my card?
+GEN | [transfer_fee_charged] | Orig: A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened? -> Aug: A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?
+GEN | [extra_charge_on_statement] | Orig: I had a dollar charged to my account that's still pending and wanted to know what the charge is for? -> Aug: I'm still seeing a pending charge of $1 on my account and I'd like to understand what it's for.
+GEN | [declined_cash_withdrawal] | Orig: Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM. -> Aug: I'm having trouble using my card at ATMs. I've tried to withdraw cash from two different machines, but it's been declined each time.
+GEN | [cancel_transfer] | Orig: There was a transaction this morning that I'd like to reverse. -> Aug: I'd like to cancel a transaction that occurred earlier today.

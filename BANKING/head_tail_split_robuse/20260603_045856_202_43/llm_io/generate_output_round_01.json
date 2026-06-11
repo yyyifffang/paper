@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "Why was my top-up transaction unsuccessful?",
+    "Required urgent top-up, experiencing a 30-minute delay. Please resolve this issue as soon as possible!",
+    "My account balance remains unchanged despite the recent transfer I made, and I'm expecting it to be updated accordingly.",
+    "When can I expect my card to arrive?",
+    "I failed to retrieve my card from the ATM.",
+    "I'm still waiting for the outcome of a pending card payment. Could you please inform me about the expected timeframe for its completion?",
+    "I initiated a cross-border transfer and it's still pending. Can you please provide an update on the expected processing time?",
+    "I'd like to cancel the transfer I initiated this morning.",
+    "Is there a charge for ordering a physical debit/credit card?",
+    "I'd like to resolve the issue with the double billing on my account.",
+    "Are there any bank transfer charges applicable when topping up my account?",
+    "Can I use my Apple Watch to add funds to my account?",
+    "This top-up verification process is really frustrating.",
+    "I'd like to reverse a recent transfer that was mistakenly initiated from my account. Can you assist me in canceling this transaction as soon as possible?",
+    "Can I get my local currency at an ATM? I'm traveling and need some cash, but I'm worried about the exchange rate being incorrect, which might result in an unexpected fee. Is it possible to withdraw some cash without incurring extra charges?",
+    "I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?",
+    "My payment using my card was not accepted.",
+    "Why was my payment rejected?",
+    "What happens when my credit card's expiration date arrives?",
+    "Can I utilize my paycheck for this purpose?",
+    "When I made a cash withdrawal, I was surprised to see an additional charge on my account. Can you clarify what this fee is for?",
+    "My credit card is not functioning properly.",
+    "I'm trying to transfer funds to my account, but it's not possible.",
+    "How can I troubleshoot the issue with my card not functioning properly?",
+    "I recently got married and I'd like to update my personal details to reflect my new married name.",
+    "I'm concerned about the funds I transferred through a recent top-up. I'm certain they were deposited into my account, but now they're gone. Can you help me figure out what went wrong?",
+    "The recipient is unable to view the transferred funds.",
+    "I'm confused about the extra charge on my recent payment. I'm not used to seeing extra fees added to my transactions.",
+    "My funds vanished when I attempted to add more using my card.",
+    "How can I get my physical card delivered?",
+    "Can you explain why the top-up needs to be verified before it can be processed?",
+    "Are there any limitations or restrictions associated with the disposable cards?",
+    "How do I obtain a temporary virtual credit card?",
+    "I'm not sure why I was assessed an additional charge when making a payment with my card.",
+    "I made a bank transfer, but my account balance hasn't been updated.",
+    "My funds have been restored to my account, and the seller has informed me that they didn't receive the payment. I'm certain the transaction was debited from my account. Can you resolve this issue promptly?",
+    "Can I link a card to the app again?",
+    "I'm wondering why I was assessed a transfer fee when I moved my money, can you explain?"
+  ],
+  "generated_labels": [
+    59,
+    47,
+    5,
+    11,
+    18,
+    45,
+    48,
+    8,
+    43,
+    63,
+    56,
+    2,
+    71,
+    8,
+    76,
+    51,
+    25,
+    53,
+    9,
+    50,
+    19,
+    14,
+    7,
+    14,
+    30,
+    61,
+    66,
+    15,
+    62,
+    43,
+    71,
+    29,
+    37,
+    15,
+    5,
+    53,
+    13,
+    64
+  ],
+  "source_texts": [
+    "Why has my top-up been denied?",
+    "Needed gas, been delayed for half an hour.Please fix it!",
+    "My account balance has not updated to reflect my recent transfer.",
+    "What is the status of my card's delivery?",
+    "I didn't get my card back from the ATM.",
+    "Hi, status of one of my card payment is still pending from a while. Please let e know how much time it will take to complete.",
+    "I sent payment with EU transfer and they still haven't received it. How long does it take?",
+    "My morning transaction needs to be canceled.",
+    "Will there be a fee to receive a physical card?",
+    "How do I get my money back for a duplicated charge?",
+    "Will I be charged any fee for receiving money?",
+    "Will be Apple Watch be able to let me top up?",
+    "this verifying the top up is annoying",
+    "A transfer has been made in my account that I need to cancel.  This was a mistake on my part and I hope we can get this resolved quickly.",
+    "Can I get money in my home currency at an ATM? I'm on vacation and don't have cash with me. This is cause for a bit of concern. Is it possible to withdraw here without additional cost?",
+    "I need my refund as soon as possible. What else do I have to do?",
+    "My card payment wasn't declined",
+    "My payment has not been accepted.",
+    "What should I do when my card reaches its expiry date?",
+    "Can I use my salary for this?",
+    "When I got cash I was charged an extra fee!  Explain!",
+    "My card won't physically work.",
+    "I need to transfer to my account and cant.",
+    "What are ways to test why my card might not be working?",
+    "I just had a wedding and I want to take my spouses name.",
+    "Did you lose my money? I had added funds through top-up not long ago and I know they were in my account, but they seem to have disappeared. What happened?",
+    "Why can't the person I sent the money transfer to see it?",
+    "Why was there an additional fee on the payment I just made? I don't usually have additional fees applied to my payments.",
+    "My money disappeared right when I tried to top up",
+    "How to receive the actual card",
+    "Tell me why I need top-up to be verified?",
+    "Do the disposable cards have any restrictions on them?",
+    "Can you tell me about these disposable virtual cards?",
+    "Why was I charged an extra fee when using the card?",
+    "I did a bank transfer and my balance isn't current.",
+    "My money is back in my account after a seller contacted me stating they never received payment. I am positive it was deducted out of my account. Please get this sorted out right away.",
+    "Can I add a card back to the app?",
+    "I was charged a fee when I transferred my funds, why?"
+  ],
+  "records": [
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Why has my top-up been denied?",
+      "generated": "Why was my top-up transaction unsuccessful?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Needed gas, been delayed for half an hour.Please fix it!",
+      "generated": "Required urgent top-up, experiencing a 30-minute delay. Please resolve this issue as soon as possible!"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "My account balance has not updated to reflect my recent transfer.",
+      "generated": "My account balance remains unchanged despite the recent transfer I made, and I'm expecting it to be updated accordingly."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "What is the status of my card's delivery?",
+      "generated": "When can I expect my card to arrive?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I didn't get my card back from the ATM.",
+      "generated": "I failed to retrieve my card from the ATM."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Hi, status of one of my card payment is still pending from a while. Please let e know how much time it will take to complete.",
+      "generated": "I'm still waiting for the outcome of a pending card payment. Could you please inform me about the expected timeframe for its completion?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I sent payment with EU transfer and they still haven't received it. How long does it take?",
+      "generated": "I initiated a cross-border transfer and it's still pending. Can you please provide an update on the expected processing time?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "My morning transaction needs to be canceled.",
+      "generated": "I'd like to cancel the transfer I initiated this morning."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Will there be a fee to receive a physical card?",
+      "generated": "Is there a charge for ordering a physical debit/credit card?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "How do I get my money back for a duplicated charge?",
+      "generated": "I'd like to resolve the issue with the double billing on my account."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will I be charged any fee for receiving money?",
+      "generated": "Are there any bank transfer charges applicable when topping up my account?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Will be Apple Watch be able to let me top up?",
+      "generated": "Can I use my Apple Watch to add funds to my account?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "this verifying the top up is annoying",
+      "generated": "This top-up verification process is really frustrating."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "A transfer has been made in my account that I need to cancel.  This was a mistake on my part and I hope we can get this resolved quickly.",
+      "generated": "I'd like to reverse a recent transfer that was mistakenly initiated from my account. Can you assist me in canceling this transaction as soon as possible?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can I get money in my home currency at an ATM? I'm on vacation and don't have cash with me. This is cause for a bit of concern. Is it possible to withdraw here without additional cost?",
+      "generated": "Can I get my local currency at an ATM? I'm traveling and need some cash, but I'm worried about the exchange rate being incorrect, which might result in an unexpected fee. Is it possible to withdraw some cash without incurring extra charges?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I need my refund as soon as possible. What else do I have to do?",
+      "generated": "I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card payment wasn't declined",
+      "generated": "My payment using my card was not accepted."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My payment has not been accepted.",
+      "generated": "Why was my payment rejected?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What should I do when my card reaches its expiry date?",
+      "generated": "What happens when my credit card's expiration date arrives?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I use my salary for this?",
+      "generated": "Can I utilize my paycheck for this purpose?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "When I got cash I was charged an extra fee!  Explain!",
+      "generated": "When I made a cash withdrawal, I was surprised to see an additional charge on my account. Can you clarify what this fee is for?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "My card won't physically work.",
+      "generated": "My credit card is not functioning properly."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I need to transfer to my account and cant.",
+      "generated": "I'm trying to transfer funds to my account, but it's not possible."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What are ways to test why my card might not be working?",
+      "generated": "How can I troubleshoot the issue with my card not functioning properly?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I just had a wedding and I want to take my spouses name.",
+      "generated": "I recently got married and I'd like to update my personal details to reflect my new married name."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Did you lose my money? I had added funds through top-up not long ago and I know they were in my account, but they seem to have disappeared. What happened?",
+      "generated": "I'm concerned about the funds I transferred through a recent top-up. I'm certain they were deposited into my account, but now they're gone. Can you help me figure out what went wrong?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why can't the person I sent the money transfer to see it?",
+      "generated": "The recipient is unable to view the transferred funds."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why was there an additional fee on the payment I just made? I don't usually have additional fees applied to my payments.",
+      "generated": "I'm confused about the extra charge on my recent payment. I'm not used to seeing extra fees added to my transactions."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My money disappeared right when I tried to top up",
+      "generated": "My funds vanished when I attempted to add more using my card."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "How to receive the actual card",
+      "generated": "How can I get my physical card delivered?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Tell me why I need top-up to be verified?",
+      "generated": "Can you explain why the top-up needs to be verified before it can be processed?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Do the disposable cards have any restrictions on them?",
+      "generated": "Are there any limitations or restrictions associated with the disposable cards?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Can you tell me about these disposable virtual cards?",
+      "generated": "How do I obtain a temporary virtual credit card?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why was I charged an extra fee when using the card?",
+      "generated": "I'm not sure why I was assessed an additional charge when making a payment with my card."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I did a bank transfer and my balance isn't current.",
+      "generated": "I made a bank transfer, but my account balance hasn't been updated."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My money is back in my account after a seller contacted me stating they never received payment. I am positive it was deducted out of my account. Please get this sorted out right away.",
+      "generated": "My funds have been restored to my account, and the seller has informed me that they didn't receive the payment. I'm certain the transaction was debited from my account. Can you resolve this issue promptly?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can I add a card back to the app?",
+      "generated": "Can I link a card to the app again?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I was charged a fee when I transferred my funds, why?",
+      "generated": "I'm wondering why I was assessed a transfer fee when I moved my money, can you explain?"
+    }
+  ]
+}

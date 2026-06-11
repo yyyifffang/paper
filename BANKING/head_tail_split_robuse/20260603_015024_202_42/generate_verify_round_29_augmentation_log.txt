@@ -1,0 +1,71 @@
+GEN | [pending_card_payment] | Orig: What is the cause of the delay in applying my card payment to my account? -> Aug: Why is there a holdup in processing my card payment for my account?
+GEN | [supported_cards_and_currencies] | Orig: Will you accept my credit card, it my only one. -> Aug: Can you accept my credit card, as it's the only one I have?
+GEN | [lost_or_stolen_card] | Orig: I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away. -> Aug: I'd like to report my card as stolen and request that it be immediately suspended or deactivated to prevent any unauthorized transactions.
+GEN | [activate_my_card] | Orig: I couldn't complete card activation. -> Aug: I'm having trouble finishing the activation process for my card.
+GEN | [declined_card_payment] | Orig: My card did not go through in a shop -> Aug: My payment was declined at the store.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: How can I fix my bank transfer to show up on my bank account? -> Aug: Why isn't my bank transfer reflected in my account balance?
+GEN | [transfer_not_received_by_recipient] | Orig: I sent money to my family last Friday but they don't have it. -> Aug: I made a transfer to my family on Friday, but they haven't received it yet.
+GEN | [virtual_card_not_working] | Orig: Please help me.  My disposable virtual card won't work right. -> Aug: Please assist me. My temporary virtual card is not functioning properly.
+GEN | [verify_my_identity] | Orig: Tell me what the steps for the identity checks are -> Aug: Explain the process for verifying my identity
+GEN | [declined_card_payment] | Orig: I couldn't pay with my card -> Aug: The payment was not processed due to a card issue.
+GEN | [transfer_not_received_by_recipient] | Orig: I did a money transaction and dont have a receipt -> Aug: I made a payment and didn't receive a confirmation
+GEN | [direct_debit_payment_not_recognised] | Orig: I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money? -> Aug: I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?
+GEN | [get_physical_card] | Orig: Does the PIN come under separate cover? -> Aug: Is the PIN card separate from the physical card?
+GEN | [card_about_to_expire] | Orig: Can I order a new card with the app? -> Aug: Can I request a replacement card before my current one expires?
+GEN | [why_verify_identity] | Orig: what I need to verify my account -> Aug: to confirm my account information
+GEN | [automatic_top_up] | Orig: I know there's an auto-top option but I can not locate it when I look? -> Aug: I'm having trouble finding the automatic top-up feature, can you help me locate it?
+GEN | [order_physical_card] | Orig: Is payment required to get a card of my own? -> Aug: Do I need to make a payment to obtain a physical card?
+GEN | [top_up_limits] | Orig: How many times can I make a top-up? -> Aug: How often can I increase my limits through top-ups?
+GEN | [card_about_to_expire] | Orig: My card expires soon, will you send me one automatically? -> Aug: My credit card's expiration date is approaching, will you automatically issue a new one for me?
+GEN | [topping_up_by_card] | Orig: my top up isnt there yet where do i find it -> Aug: my card top-up is still pending, where can I locate it?
+GEN | [getting_spare_card] | Orig: How many different cards can I have for my account? -> Aug: Can I have multiple cards linked to my account?
+GEN | [order_physical_card] | Orig: Card delivery services? Where? -> Aug: How do I get my physical card delivered?
+GEN | [pending_card_payment] | Orig: There is a payment that has not processed. -> Aug: A payment has not been successfully processed yet.
+GEN | [unable_to_verify_identity] | Orig: The app isn't letting me log in, but my info is correct. -> Aug: We're having trouble verifying your identity, despite your login credentials being accurate.
+GEN | [card_not_working] | Orig: How do I re-order a damaged card? -> Aug: I'd like to replace a faulty card.
+GEN | [getting_spare_card] | Orig: I lost my card and need a new one, will it cost me? -> Aug: I misplaced my card and require a replacement, what's the fee for a new one?
+GEN | [card_arrival] | Orig: I haven't gotten my credit card in the mail. -> Aug: I'm still waiting for my credit card to arrive.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I've transferred money into my account but the balance is the same -> Aug: I've made a deposit, but my account balance hasn't been updated
+GEN | [getting_spare_card] | Orig: how is it possible to add another card to account -> Aug: Can I get a spare card added to my account?
+GEN | [pending_cash_withdrawal] | Orig: Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash. -> Aug: Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.
+GEN | [direct_debit_payment_not_recognised] | Orig: I haven't used my card all day but there is a payment showing in the app. Please cancel it! -> Aug: I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?
+GEN | [getting_spare_card] | Orig: If I need more than cards will I have to pay a fee to receive them? -> Aug: If I require additional cards, will I be charged a fee for obtaining them?
+GEN | [compromised_card] | Orig: How can I tell if someone else is using my card? -> Aug: How can I determine if my card has been compromised and is being used by someone else?
+GEN | [topping_up_by_card] | Orig: I can't see my top up in my wallet! -> Aug: I'm unable to locate the recent card top-up in my digital wallet.
+GEN | [visa_or_mastercard] | Orig: What credit cards do you carry -> Aug: What types of payment cards do you accept?
+VAL | [pending_card_payment] | ACCEPT | Reason: ... | Original: What is the cause of the delay in applying my card payment to my account? | Augmented: Why is there a holdup in processing my card payment for my account?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: Will you accept my credit card, it my only one. | Augmented: Can you accept my credit card, as it's the only one I have?
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: N/A | Original: I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away. | Augmented: I'd like to report my card as stolen and request that it be immediately suspended or deactivated to prevent any unauthorized transactions.
+VAL | [activate_my_card] | ACCEPT | Reason: ... | Original: I couldn't complete card activation. | Augmented: I'm having trouble finishing the activation process for my card.
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: My card did not go through in a shop | Augmented: My payment was declined at the store.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: ... | Original: How can I fix my bank transfer to show up on my bank account? | Augmented: Why isn't my bank transfer reflected in my account balance?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: I sent money to my family last Friday but they don't have it. | Augmented: I made a transfer to my family on Friday, but they haven't received it yet.
+VAL | [virtual_card_not_working] | ACCEPT | Reason: N/A | Original: Please help me.  My disposable virtual card won't work right. | Augmented: Please assist me. My temporary virtual card is not functioning properly.
+VAL | [verify_my_identity] | ACCEPT | Reason: N/A | Original: Tell me what the steps for the identity checks are | Augmented: Explain the process for verifying my identity
+VAL | [declined_card_payment] | ACCEPT | Reason: N/A | Original: I couldn't pay with my card | Augmented: The payment was not processed due to a card issue.
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: I did a money transaction and dont have a receipt | Augmented: I made a payment and didn't receive a confirmation
+VAL | [direct_debit_payment_not_recognised] | UNKNOWN | Reason: N/A | Original: I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money? | Augmented: I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: Does the PIN come under separate cover? | Augmented: Is the PIN card separate from the physical card?
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: Can I order a new card with the app? | Augmented: Can I request a replacement card before my current one expires?
+VAL | [why_verify_identity] | ACCEPT | Reason: N/A | Original: what I need to verify my account | Augmented: to confirm my account information
+VAL | [automatic_top_up] | ACCEPT | Reason: The augmented text maintains the user's request for assistance in locating the automatic top-up feature, which is consistent with the original intent. | Original: I know there's an auto-top option but I can not locate it when I look? | Augmented: I'm having trouble finding the automatic top-up feature, can you help me locate it?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Is payment required to get a card of my own? | Augmented: Do I need to make a payment to obtain a physical card?
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: How many times can I make a top-up? | Augmented: How often can I increase my limits through top-ups?
+VAL | [card_about_to_expire] | ACCEPT | Reason: ... | Original: My card expires soon, will you send me one automatically? | Augmented: My credit card's expiration date is approaching, will you automatically issue a new one for me?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: my top up isnt there yet where do i find it | Augmented: my card top-up is still pending, where can I locate it?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: How many different cards can I have for my account? | Augmented: Can I have multiple cards linked to my account?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Card delivery services? Where? | Augmented: How do I get my physical card delivered?
+VAL | [pending_card_payment] | ACCEPT | Reason: N/A | Original: There is a payment that has not processed. | Augmented: A payment has not been successfully processed yet.
+VAL | [unable_to_verify_identity] | ACCEPT | Reason: N/A | Original: The app isn't letting me log in, but my info is correct. | Augmented: We're having trouble verifying your identity, despite your login credentials being accurate.
+VAL | [card_not_working] | ACCEPT | Reason: N/A | Original: How do I re-order a damaged card? | Augmented: I'd like to replace a faulty card.
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: I lost my card and need a new one, will it cost me? | Augmented: I misplaced my card and require a replacement, what's the fee for a new one?
+VAL | [card_arrival] | ACCEPT | Reason: ... | Original: I haven't gotten my credit card in the mail. | Augmented: I'm still waiting for my credit card to arrive.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: ... | Original: I've transferred money into my account but the balance is the same | Augmented: I've made a deposit, but my account balance hasn't been updated
+VAL | [getting_spare_card] | ACCEPT | Reason: ... | Original: how is it possible to add another card to account | Augmented: Can I get a spare card added to my account?
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: N/A | Original: Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash. | Augmented: Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: The augmented text preserves the same banking intent as the original text, indicating an unrecognized direct debit payment and seeking assistance to stop it. | Original: I haven't used my card all day but there is a payment showing in the app. Please cancel it! | Augmented: I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?
+VAL | [getting_spare_card] | ACCEPT | Reason: Both texts are asking about the possibility of needing more than one card and the associated fees. | Original: If I need more than cards will I have to pay a fee to receive them? | Augmented: If I require additional cards, will I be charged a fee for obtaining them?
+VAL | [compromised_card] | ACCEPT | Reason: ... | Original: How can I tell if someone else is using my card? | Augmented: How can I determine if my card has been compromised and is being used by someone else?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: I can't see my top up in my wallet! | Augmented: I'm unable to locate the recent card top-up in my digital wallet.
+VAL | [visa_or_mastercard] | UNKNOWN | Reason: N/A | Original: What credit cards do you carry | Augmented: What types of payment cards do you accept?
+VAL_SUMMARY | ACCEPT: 33 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 2 | Accept Rate: 0.9429

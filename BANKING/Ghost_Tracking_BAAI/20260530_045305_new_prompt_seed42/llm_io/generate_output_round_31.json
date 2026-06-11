@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "Is my British pound salary eligible for direct deposit into my account without conversion?",
+    "What steps can I take to reactivate my blocked card?",
+    "Are there any charges involved when I top up my account using my card?",
+    "I'm missing a withdrawal from my account.",
+    "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.",
+    "I'm having trouble making a payment with my new card, as it keeps getting declined. I'm quite frustrated with this situation.",
+    "My temporary virtual card was declined",
+    "How often can I increase my limits through top-ups?",
+    "describe the rate at which banks exchange one currency for another",
+    "Adding funds to your account using your credit card",
+    "It's been a while since the top-up was replenished.",
+    "Are there any charges associated with making a top-up payment using my card?",
+    "Can you deliver your physical cards to any location?",
+    "Is there an issue with your system or network? I've attempted to initiate a standard transfer multiple times, but it's not going through.",
+    "What are Interbank's current exchange rates?",
+    "How can I add funds to my account using my credit card?",
+    "Why isn't my Apple Pay account functioning properly?",
+    "Has my new card been dispatched already?",
+    "Where can I use my card?",
+    "I'd like to learn about topping up my account using my credit card.",
+    "A payment has not been successfully processed yet.",
+    "What are the charges for making a payment using a European bank card?",
+    "Are there any charges associated with topping up a US-issued card?",
+    "Why did my recent transfer fail to process as expected?",
+    "I'd like to connect my card to my account.",
+    "Please provide instructions on how to deposit funds into my account using the transfer feature",
+    "Is there a charge for topping up my account using my card?",
+    "Are there any fees associated with exchanging foreign currency for local currency?",
+    "I was informed by a merchant that they didn't receive the payment, despite the fact that it was deducted from my account. The funds have since been reversed and credited back to my account. Can you look into this matter urgently?",
+    "I attempted to make a payment using my debit card, but it was unsuccessful.",
+    "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.",
+    "I'm unable to locate a payment in my account records.",
+    "can you help me resolve the issue with my top-up attempt?",
+    "How do I reactivate my new credit card?",
+    "I'd like to add funds to my account using my credit card.",
+    "Can I check the status of a card that has already been dispatched?",
+    "How do you handle physical card delivery?"
+  ],
+  "generated_labels": [
+    50,
+    49,
+    57,
+    20,
+    20,
+    25,
+    72,
+    60,
+    32,
+    62,
+    47,
+    57,
+    43,
+    35,
+    32,
+    62,
+    2,
+    11,
+    10,
+    62,
+    45,
+    57,
+    57,
+    35,
+    13,
+    65,
+    57,
+    31,
+    53,
+    53,
+    20,
+    16,
+    59,
+    0,
+    62,
+    11,
+    43
+  ],
+  "source_texts": [
+    "My salary is in GBP, do I need to exchange it before putting it into my account?",
+    "How do I unblock my card?",
+    "I was wondering if you will take any fees in exchange for top ups?",
+    "There is money missing from my account.",
+    "there is money in my account that i didnt put there",
+    "Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.",
+    "My disposable virtual card got rejected",
+    "How many times can I make a top-up?",
+    "explain the interbank exchange rate",
+    "Transferring money using credit card",
+    "It's been some time since refilled the top-up.",
+    "Are their fee's for top ups?",
+    "Do you ship your cards anywhere?",
+    "Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere.",
+    "What are Interbanks current exchange rates?",
+    "How do I transfer funds directly from my credit card?",
+    "Can you explain why my Google Pay Top isn't working?",
+    "Have you sent out my card yet?",
+    "How do I know where I can use my card?",
+    "I want to know how to transfer money with my credit card",
+    "There is a payment that has not processed.",
+    "What are the fees for using a European bank card?",
+    "Is there a top charge for US cards?",
+    "Can you tell my why my funds transfer did not work properly?",
+    "I would like to link my card to my account.",
+    "Please provide details on how to top up my account using transfer option",
+    "Is topping up free?",
+    "Is there any cost to change foreign money to local?",
+    "I received a message from a seller stating they hadn't received my money even though it definitely came out of my account. The money has now been deposited back into my account. Please get this resolved as soon as possible.",
+    "I tried to use my debit card, but the payment did not work.",
+    "I did not get the cash that is showing up in my app.",
+    "I do not recongize a payment in my account.",
+    "is there a way to fix my top up",
+    "Tell me how to renew my new card?",
+    "I need to transfer some money, can I use my credit card?",
+    "Am I able to track a card that has already been sent?",
+    "Where do you deliver cards to?"
+  ],
+  "records": [
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My salary is in GBP, do I need to exchange it before putting it into my account?",
+      "generated": "Is my British pound salary eligible for direct deposit into my account without conversion?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I unblock my card?",
+      "generated": "What steps can I take to reactivate my blocked card?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I was wondering if you will take any fees in exchange for top ups?",
+      "generated": "Are there any charges involved when I top up my account using my card?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There is money missing from my account.",
+      "generated": "I'm missing a withdrawal from my account."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "there is money in my account that i didnt put there",
+      "generated": "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.",
+      "generated": "I'm having trouble making a payment with my new card, as it keeps getting declined. I'm quite frustrated with this situation."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card got rejected",
+      "generated": "My temporary virtual card was declined"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How many times can I make a top-up?",
+      "generated": "How often can I increase my limits through top-ups?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "explain the interbank exchange rate",
+      "generated": "describe the rate at which banks exchange one currency for another"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Transferring money using credit card",
+      "generated": "Adding funds to your account using your credit card"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "It's been some time since refilled the top-up.",
+      "generated": "It's been a while since the top-up was replenished."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are their fee's for top ups?",
+      "generated": "Are there any charges associated with making a top-up payment using my card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do you ship your cards anywhere?",
+      "generated": "Can you deliver your physical cards to any location?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere.",
+      "generated": "Is there an issue with your system or network? I've attempted to initiate a standard transfer multiple times, but it's not going through."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What are Interbanks current exchange rates?",
+      "generated": "What are Interbank's current exchange rates?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I transfer funds directly from my credit card?",
+      "generated": "How can I add funds to my account using my credit card?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can you explain why my Google Pay Top isn't working?",
+      "generated": "Why isn't my Apple Pay account functioning properly?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Have you sent out my card yet?",
+      "generated": "Has my new card been dispatched already?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "How do I know where I can use my card?",
+      "generated": "Where can I use my card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I want to know how to transfer money with my credit card",
+      "generated": "I'd like to learn about topping up my account using my credit card."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "There is a payment that has not processed.",
+      "generated": "A payment has not been successfully processed yet."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "What are the fees for using a European bank card?",
+      "generated": "What are the charges for making a payment using a European bank card?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is there a top charge for US cards?",
+      "generated": "Are there any charges associated with topping up a US-issued card?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Can you tell my why my funds transfer did not work properly?",
+      "generated": "Why did my recent transfer fail to process as expected?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I would like to link my card to my account.",
+      "generated": "I'd like to connect my card to my account."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Please provide details on how to top up my account using transfer option",
+      "generated": "Please provide instructions on how to deposit funds into my account using the transfer feature"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is topping up free?",
+      "generated": "Is there a charge for topping up my account using my card?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Is there any cost to change foreign money to local?",
+      "generated": "Are there any fees associated with exchanging foreign currency for local currency?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I received a message from a seller stating they hadn't received my money even though it definitely came out of my account. The money has now been deposited back into my account. Please get this resolved as soon as possible.",
+      "generated": "I was informed by a merchant that they didn't receive the payment, despite the fact that it was deducted from my account. The funds have since been reversed and credited back to my account. Can you look into this matter urgently?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to use my debit card, but the payment did not work.",
+      "generated": "I attempted to make a payment using my debit card, but it was unsuccessful."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I did not get the cash that is showing up in my app.",
+      "generated": "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recongize a payment in my account.",
+      "generated": "I'm unable to locate a payment in my account records."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "is there a way to fix my top up",
+      "generated": "can you help me resolve the issue with my top-up attempt?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Tell me how to renew my new card?",
+      "generated": "How do I reactivate my new credit card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I need to transfer some money, can I use my credit card?",
+      "generated": "I'd like to add funds to my account using my credit card."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Am I able to track a card that has already been sent?",
+      "generated": "Can I check the status of a card that has already been dispatched?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Where do you deliver cards to?",
+      "generated": "How do you handle physical card delivery?"
+    }
+  ]
+}

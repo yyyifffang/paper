@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Who is the source of the funds being used to make this transaction?",
+    "Has the GBP salary been deposited into the correct account? If not, do you need assistance transferring it to a different location?",
+    "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction.",
+    "I noticed a charge for a fee from my last card transaction.",
+    "Can I make purchases with my card in Austria?",
+    "What types of fiat currencies can I store in my account?",
+    "My statement has a pending charge for £1 that I don't recognize. Can you help me understand what this transaction is about?",
+    "Why isn't my bank transfer reflected in my account balance?",
+    "Why is my card not allowing me to make online transactions? I've been trying for two weeks now.",
+    "Can I use my card to add funds to my account from someone else's account?",
+    "Can you expedite the delivery of my card as soon as possible?",
+    "A withdrawal was processed on my account, but I didn't initiate it and I still have my card in my possession. What should I do?",
+    "I'm hesitant to confirm my identity.",
+    "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet.",
+    "Can I request priority shipping for my card delivery?",
+    "Can I have my account replenished by my friends using their cards?",
+    "I made a purchase recently, but the payment is still pending. Can you help me understand why it's not showing as processed yet?",
+    "I was unexpectedly billed an additional amount in a recent transaction.",
+    "I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?",
+    "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?",
+    "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it.",
+    "I recently got married and would like to update my personal information to reflect my new married name.",
+    "I'm trying to understand why my international bank transfer to France hasn't been reflected in my account balance yet, as it was initiated a few days ago.",
+    "What's the typical timeframe for processing my transfer?",
+    "A transfer is currently in the process of being processed",
+    "I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?",
+    "Despite not being based in the UK, can I still obtain a card?",
+    "Can I initiate a currency exchange through the app?",
+    "We accept a range of payment cards",
+    "I'm frustrated because my recently issued card was repeatedly declined when I tried to use it. Can you please explain why this is happening and what steps I can take to resolve the issue and avoid future declines?",
+    "Is my card still active? It's not functioning properly.",
+    "Can I perform a card-based account replenishment myself?",
+    "I made a cash deposit, but my account balance hasn't been updated.",
+    "I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?",
+    "What happens if I make a cash deposit or deposit a cheque by mistake?",
+    "How do you facilitate transfers into an account?"
+  ],
+  "generated_labels": [
+    70,
+    50,
+    28,
+    15,
+    24,
+    36,
+    34,
+    5,
+    53,
+    62,
+    12,
+    20,
+    74,
+    48,
+    11,
+    62,
+    45,
+    34,
+    20,
+    63,
+    15,
+    30,
+    5,
+    67,
+    48,
+    20,
+    24,
+    33,
+    54,
+    25,
+    14,
+    62,
+    6,
+    66,
+    6,
+    65
+  ],
+  "source_texts": [
+    "Who is giving me my money?",
+    "Salary in GBP has been received. Does it need to be configured into another place?",
+    "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+    "I have a fee showing from last time I used my card.",
+    "Can I use my card in Austria?",
+    "What kind of money can I hold?",
+    "My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about.",
+    "How can I fix my bank transfer to show up on my bank account?",
+    "Can you tell me why my card isn't letting me make purchases online? It's been 2 weeks I've been trying.",
+    "Is my account able to be topped up by my friends?",
+    "Send me my card now! ASAP",
+    "A WD was just made on my account, but it was not me and I still have my card.  What to do?",
+    "I am not comfortable verifying my indentity.",
+    "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+    "Is there a way I can get my card expedited?",
+    "Can my account be topped-up by friends of mine.",
+    "I purchases several items today. Why are they still showing pending?",
+    "I was charged $1 in a transaction.",
+    "I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?",
+    "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+    "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+    "I just got married and need to change my name on the account",
+    "How long do transfers to international banks take? I made one to france a couple of days ago, but it's still not there.",
+    "How long does it take to get my money",
+    "I have a pending transaction",
+    "I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out?",
+    "Although I am not located in the UK area, may i still receive a card?",
+    "Can i add a new currency to my account?",
+    "What cards do you support",
+    "I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?",
+    "Did you deactivate my card it's not working anymore",
+    "Am I the only one who can top-up my account?",
+    "I put cash in my account, but I don't see it.",
+    "Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?",
+    "What happens if I deposit a cheque accidentally?",
+    "What transfer methods do you accept?"
+  ],
+  "records": [
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Who is giving me my money?",
+      "generated": "Who is the source of the funds being used to make this transaction?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Salary in GBP has been received. Does it need to be configured into another place?",
+      "generated": "Has the GBP salary been deposited into the correct account? If not, do you need assistance transferring it to a different location?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+      "generated": "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I have a fee showing from last time I used my card.",
+      "generated": "I noticed a charge for a fee from my last card transaction."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I use my card in Austria?",
+      "generated": "Can I make purchases with my card in Austria?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What kind of money can I hold?",
+      "generated": "What types of fiat currencies can I store in my account?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about.",
+      "generated": "My statement has a pending charge for £1 that I don't recognize. Can you help me understand what this transaction is about?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How can I fix my bank transfer to show up on my bank account?",
+      "generated": "Why isn't my bank transfer reflected in my account balance?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Can you tell me why my card isn't letting me make purchases online? It's been 2 weeks I've been trying.",
+      "generated": "Why is my card not allowing me to make online transactions? I've been trying for two weeks now."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Is my account able to be topped up by my friends?",
+      "generated": "Can I use my card to add funds to my account from someone else's account?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Send me my card now! ASAP",
+      "generated": "Can you expedite the delivery of my card as soon as possible?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "A WD was just made on my account, but it was not me and I still have my card.  What to do?",
+      "generated": "A withdrawal was processed on my account, but I didn't initiate it and I still have my card in my possession. What should I do?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I am not comfortable verifying my indentity.",
+      "generated": "I'm hesitant to confirm my identity."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+      "generated": "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Is there a way I can get my card expedited?",
+      "generated": "Can I request priority shipping for my card delivery?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can my account be topped-up by friends of mine.",
+      "generated": "Can I have my account replenished by my friends using their cards?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I purchases several items today. Why are they still showing pending?",
+      "generated": "I made a purchase recently, but the payment is still pending. Can you help me understand why it's not showing as processed yet?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I was charged $1 in a transaction.",
+      "generated": "I was unexpectedly billed an additional amount in a recent transaction."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?",
+      "generated": "I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+      "generated": "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+      "generated": "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I just got married and need to change my name on the account",
+      "generated": "I recently got married and would like to update my personal information to reflect my new married name."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How long do transfers to international banks take? I made one to france a couple of days ago, but it's still not there.",
+      "generated": "I'm trying to understand why my international bank transfer to France hasn't been reflected in my account balance yet, as it was initiated a few days ago."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take to get my money",
+      "generated": "What's the typical timeframe for processing my transfer?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have a pending transaction",
+      "generated": "A transfer is currently in the process of being processed"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out?",
+      "generated": "I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Although I am not located in the UK area, may i still receive a card?",
+      "generated": "Despite not being based in the UK, can I still obtain a card?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can i add a new currency to my account?",
+      "generated": "Can I initiate a currency exchange through the app?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What cards do you support",
+      "generated": "We accept a range of payment cards"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?",
+      "generated": "I'm frustrated because my recently issued card was repeatedly declined when I tried to use it. Can you please explain why this is happening and what steps I can take to resolve the issue and avoid future declines?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Did you deactivate my card it's not working anymore",
+      "generated": "Is my card still active? It's not functioning properly."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Am I the only one who can top-up my account?",
+      "generated": "Can I perform a card-based account replenishment myself?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I put cash in my account, but I don't see it.",
+      "generated": "I made a cash deposit, but my account balance hasn't been updated."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?",
+      "generated": "I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "What happens if I deposit a cheque accidentally?",
+      "generated": "What happens if I make a cash deposit or deposit a cheque by mistake?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What transfer methods do you accept?",
+      "generated": "How do you facilitate transfers into an account?"
+    }
+  ]
+}

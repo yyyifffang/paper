@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I attempted to perform a crypto top-up using your service, but it appears to have been unsuccessful. The funds have been debited from my account, and I'd appreciate it if you could investigate this issue.",
+    "Can you explain the process for utilizing the virtual disposable cards?",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate.",
+    "I made a top-up and tried to make a purchase, but it's showing that my funds are still pending. Can you help me expedite this process?",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution.",
+    "Can I use a Mastercard instead, or is it specifically a Visa requirement?",
+    "I'm having trouble finding the automatic top-up feature, can you help me locate it?",
+    "I need to update my PIN immediately.",
+    "The exchange rate you're using seems incorrect. It's not the standard interbank rate.",
+    "When can I expect my funds to be deposited into my account?",
+    "How many transactions can I make with a disposable card?",
+    "Why are my transactions from this morning still awaiting processing?",
+    "What information can you provide about the disposable card limits, such as the descriptions associated with them?",
+    "The exchange rate used for my recent transaction appears to be incorrect.",
+    "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?",
+    "What happens if my card payment was reversed?",
+    "My credit card's expiration date is approaching, will you automatically issue a new one for me?",
+    "May I assist you in reactivating your card?",
+    "What are the spending limits for a disposable card?",
+    "My top-up request is still pending.",
+    "Duplicate transaction appearing on my account statement.",
+    "Why was the payment made to my account if the seller claims they haven't received it? Can you clarify when the payment will be reversed?",
+    "Can I take advantage of any bulk discounts for frequent currency exchange transactions?",
+    "I recently made a transfer, but the recipient's account was credited with a lower amount than expected. I've since made an additional transfer to cover the difference. Could you please investigate this discrepancy?",
+    "I'm trying to retrieve the cash I didn't receive from the ATM transaction.",
+    "Why are the purchases I made earlier today still pending for payment?",
+    "Need assistance with the exchange fee?",
+    "I'd like to reissue my card that I previously reported as lost, as I've since found it.",
+    "Please provide instructions on how to deposit funds into my account using the transfer feature",
+    "How long does it typically take for pending top-ups to be processed?",
+    "I'd like to know the transaction limit for my disposable card.",
+    "Can you help me identify the source of my available funds?",
+    "I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me.",
+    "Can my spouse create an account and deposit funds?",
+    "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from."
+  ],
+  "generated_labels": [
+    61,
+    37,
+    17,
+    47,
+    17,
+    73,
+    4,
+    21,
+    17,
+    67,
+    29,
+    45,
+    29,
+    17,
+    45,
+    53,
+    9,
+    13,
+    29,
+    47,
+    63,
+    53,
+    31,
+    64,
+    75,
+    45,
+    31,
+    13,
+    65,
+    47,
+    29,
+    70,
+    13,
+    50,
+    20
+  ],
+  "source_texts": [
+    "I thought crypto top up with something you offer. This is not working. The money has been deducted from my account. Can you find out what's going on?",
+    "Will you tell me how I am supposed to use the disposable cards?",
+    "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+    "I topped up and went to buy something, but it says that my funds are pending. Is there a way to quicken this process?",
+    "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+    "Can I get a Visa or does it have to be something else.",
+    "I know there's an auto-top option but I can not locate it when I look?",
+    "I must change my PIN as soon as possible.",
+    "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+    "When will my money be in my account?",
+    "What is the number of transactions I get with a disposable card?",
+    "Why are my purchases from this morning still pending?",
+    "Where can I find a list of descriptions the disposable cards have?",
+    "my exchange rate looks wrong for my last payment",
+    "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+    "What should I do if my card payment was cancelled?",
+    "My card expires soon, will you send me one automatically?",
+    "Can you please reactivate my card?",
+    "Is there a transaction limit on a disposable card?",
+    "My top is still pending.",
+    "Transaction showing up many times.",
+    "HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?",
+    "Do I get any sort of discount on volume for a lot fo currency exchanges?",
+    "Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+    "How can I get my money that I didn't get from the ATM?",
+    "Why are the things I bought earlier today still showing as pending?",
+    "Exchange fee help?",
+    "I would like to reactivate my card that I previously reported lost. I located the card this morning.",
+    "Please provide details on how to top up my account using transfer option",
+    "How long do top-ups take to go through",
+    "I have a disposable card, how many transactions can I make?",
+    "How can I look at where my available cash is coming from?",
+    "I found my card that I thought I had lost, I need to reactive it, please help.",
+    "can my husband open an account and transfer money",
+    "there is money in my account that i didnt put there"
+  ],
+  "records": [
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I thought crypto top up with something you offer. This is not working. The money has been deducted from my account. Can you find out what's going on?",
+      "generated": "I attempted to perform a crypto top-up using your service, but it appears to have been unsuccessful. The funds have been debited from my account, and I'd appreciate it if you could investigate this issue."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Will you tell me how I am supposed to use the disposable cards?",
+      "generated": "Can you explain the process for utilizing the virtual disposable cards?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I topped up and went to buy something, but it says that my funds are pending. Is there a way to quicken this process?",
+      "generated": "I made a top-up and tried to make a purchase, but it's showing that my funds are still pending. Can you help me expedite this process?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get a Visa or does it have to be something else.",
+      "generated": "Can I use a Mastercard instead, or is it specifically a Visa requirement?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I know there's an auto-top option but I can not locate it when I look?",
+      "generated": "I'm having trouble finding the automatic top-up feature, can you help me locate it?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I must change my PIN as soon as possible.",
+      "generated": "I need to update my PIN immediately."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems incorrect. It's not the standard interbank rate."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will my money be in my account?",
+      "generated": "When can I expect my funds to be deposited into my account?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "What is the number of transactions I get with a disposable card?",
+      "generated": "How many transactions can I make with a disposable card?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why are my purchases from this morning still pending?",
+      "generated": "Why are my transactions from this morning still awaiting processing?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Where can I find a list of descriptions the disposable cards have?",
+      "generated": "What information can you provide about the disposable card limits, such as the descriptions associated with them?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "my exchange rate looks wrong for my last payment",
+      "generated": "The exchange rate used for my recent transaction appears to be incorrect."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+      "generated": "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "What should I do if my card payment was cancelled?",
+      "generated": "What happens if my card payment was reversed?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card expires soon, will you send me one automatically?",
+      "generated": "My credit card's expiration date is approaching, will you automatically issue a new one for me?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can you please reactivate my card?",
+      "generated": "May I assist you in reactivating your card?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Is there a transaction limit on a disposable card?",
+      "generated": "What are the spending limits for a disposable card?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "My top is still pending.",
+      "generated": "My top-up request is still pending."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Transaction showing up many times.",
+      "generated": "Duplicate transaction appearing on my account statement."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?",
+      "generated": "Why was the payment made to my account if the seller claims they haven't received it? Can you clarify when the payment will be reversed?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do I get any sort of discount on volume for a lot fo currency exchanges?",
+      "generated": "Can I take advantage of any bulk discounts for frequent currency exchange transactions?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+      "generated": "I recently made a transfer, but the recipient's account was credited with a lower amount than expected. I've since made an additional transfer to cover the difference. Could you please investigate this discrepancy?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "How can I get my money that I didn't get from the ATM?",
+      "generated": "I'm trying to retrieve the cash I didn't receive from the ATM transaction."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why are the things I bought earlier today still showing as pending?",
+      "generated": "Why are the purchases I made earlier today still pending for payment?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Exchange fee help?",
+      "generated": "Need assistance with the exchange fee?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I would like to reactivate my card that I previously reported lost. I located the card this morning.",
+      "generated": "I'd like to reissue my card that I previously reported as lost, as I've since found it."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Please provide details on how to top up my account using transfer option",
+      "generated": "Please provide instructions on how to deposit funds into my account using the transfer feature"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "How long do top-ups take to go through",
+      "generated": "How long does it typically take for pending top-ups to be processed?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "I have a disposable card, how many transactions can I make?",
+      "generated": "I'd like to know the transaction limit for my disposable card."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I look at where my available cash is coming from?",
+      "generated": "Can you help me identify the source of my available funds?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I found my card that I thought I had lost, I need to reactive it, please help.",
+      "generated": "I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "can my husband open an account and transfer money",
+      "generated": "Can my spouse create an account and deposit funds?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "there is money in my account that i didnt put there",
+      "generated": "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from."
+    }
+  ]
+}

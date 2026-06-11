@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "What ATMs can I use to withdraw cash?",
+    "I received a portion of the cash I withdrew from the ATM",
+    "where can I find an ATM to withdraw cash?",
+    "I was under the impression that I wouldn't be charged a fee for withdrawing cash from the ATM.",
+    "Could you please explain this cash withdrawal to me?",
+    "Can I use an ATM from a different bank than my own?",
+    "You can top up your account by cash or cheque.",
+    "The ATM dispensed an incorrect amount, and I'd like to know how to initiate a cash return. The amount I selected on the app was correct, but the machine gave me the wrong amount.",
+    "I didn't receive the full amount of cash from the ATM.",
+    "Where can I access cash from an ATM?",
+    "I recently visited the ATM to withdraw some cash, but when I checked my transaction, I found that I was given less than the amount I requested. Specifically, I asked for 100 pounds, but only received 80. I have the receipt as proof and would like to know how to retrieve the remaining amount.",
+    "This cash transaction on my statement is not recognized by me.",
+    "We've detected an unauthorised cash withdrawal attempt.",
+    "I'm trying to understand the cash withdrawal charge that's been appearing on my account. I've been using your ATMs for years, and I'm surprised to see this fee. Can you clarify the policy behind it?",
+    "A pending cash withdrawal refers to a transaction that has been initiated but not yet processed or completed.",
+    "I didn't receive the correct amount of cash.",
+    "I'm looking at my statement and I see a cash withdrawal listed. Can you explain why it's there?",
+    "I'm trying to retrieve the cash I didn't receive from the ATM transaction.",
+    "I'm trying to recall a cash withdrawal I made, but I've forgotten the details.",
+    "I'm looking for an ATM location where I can withdraw cash.",
+    "The ATM dispensed an incorrect amount of cash, but the mobile app is indicating that the transaction was processed correctly. How can I resolve this discrepancy and get the correct amount of cash returned to me?",
+    "Where can I access cash from an ATM?",
+    "The ATM dispensed an insufficient amount of money.",
+    "Unidentified direct debit payment",
+    "I'm having trouble identifying a cash withdrawal on my statement.",
+    "Can you confirm the origin of the funds that are readily available in my account?",
+    "I'm showing a cash withdrawal on my account statement, but I'm not sure if I actually made this transaction.",
+    "Where can I access cash from?",
+    "Where can I access cash from an ATM or a bank branch?",
+    "The ATM dispensed the amount I withdrew, but I didn't receive the correct amount of cash.",
+    "I've reviewed my statement and noticed a charge for using an ATM. Can you explain why I was charged for this transaction?",
+    "You're asking about the status of a cash withdrawal that's still in the process of being processed.",
+    "I'm currently abroad and attempted to withdraw some cash, but the amount I received was not what I expected.",
+    "The ATM dispensed less cash than I had asked for.",
+    "can you confirm the origin of the funds?",
+    "I'd like to know more about the charge for withdrawing cash from my account.",
+    "I'm trying to process a cash withdrawal, but it's not showing up in my records.",
+    "The ATM dispensed an incorrect amount of money."
+  ],
+  "generated_labels": [
+    3,
+    75,
+    3,
+    19,
+    20,
+    3,
+    58,
+    75,
+    75,
+    3,
+    75,
+    20,
+    20,
+    19,
+    46,
+    75,
+    20,
+    75,
+    20,
+    3,
+    75,
+    3,
+    75,
+    28,
+    20,
+    70,
+    20,
+    3,
+    3,
+    75,
+    19,
+    46,
+    76,
+    75,
+    70,
+    19,
+    20,
+    75
+  ],
+  "source_texts": [
+    "Which ATMs am I allowed to get money from?",
+    "I only got some of the cash I requested from the ATM",
+    "how do I know where I can get money withdrawn?",
+    "This is not right, I was told I could take out cash at the ATM for free?",
+    "Can you tell me what this cash withdrawal is?",
+    "Can I use a different bank ATM than my own?",
+    "What is your check-cashing policy?",
+    "What do I need to do to request cash back? The ATM actually just gave me the wrong amount. The app I actually chose the right amount.",
+    "I did not get all the cash at ATM.",
+    "Where should I withdraw money from?",
+    "So I just went to the ATM to get some cash.  I input that I needed 100 pounds but I only got 80.  I have the receipt  and I am in need of the extra money.  How do I go about obtaining the missing amount?",
+    "What is this cash withdrawal on my statement?",
+    "There's an unauthorized cash withdraw",
+    "Hello, I wanted to get some more information about ATM Withdraw Fee. I have been withdrawing money for years and notice this charge on my account. I always thought it was no fee since its you guys ATM company that I am withdrawing. Can you please explain?",
+    "What is a pending cash withdrawal?",
+    "My cash withdrawal was short.",
+    "I have a cash withdrawal in my statement. Why is that?",
+    "How can I get my money that I didn't get from the ATM?",
+    "There is a cash withdrawl I don't remember.",
+    "I need to know where I can withdraw money.",
+    "What do I need to do to get cash back? The ATM gave me the wrong amount that I requested but the app is showing the amount to be correct.",
+    "Which locations can I withdraw money from?",
+    "The atm didn't give me all my cash",
+    "Unusual direct deposit",
+    "I have a cash withdrawal on my statement that I am unsure of.",
+    "Can you tell me where my readily available cash has come from?",
+    "There is a cash withdrawal from an ATM listed but I don't remember making this withdrawal.",
+    "\nWhere can I withdraw money from?",
+    "Where can I withdraw money from?",
+    "The ATM shows a withdraw of the amount of money I requested but I didn't revieve that amount in cash.",
+    "I just had a look at my statement. Why have I been changed for using the ATM?",
+    "What does it mean to have a pending cash withdrawal?",
+    "I am travelling and I tried to withdraw cash but didn't get what I was supposed to get.",
+    "The ATM did not give me as much cash as I requested.",
+    "need to verify source of funds",
+    "I have a question about fee for cash withdraw.",
+    "I have a cash withdrawal that I do not recognise.",
+    "The atm didn'y give me all the cash"
+  ],
+  "records": [
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Which ATMs am I allowed to get money from?",
+      "generated": "What ATMs can I use to withdraw cash?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I only got some of the cash I requested from the ATM",
+      "generated": "I received a portion of the cash I withdrew from the ATM"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "how do I know where I can get money withdrawn?",
+      "generated": "where can I find an ATM to withdraw cash?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "This is not right, I was told I could take out cash at the ATM for free?",
+      "generated": "I was under the impression that I wouldn't be charged a fee for withdrawing cash from the ATM."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Can you tell me what this cash withdrawal is?",
+      "generated": "Could you please explain this cash withdrawal to me?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I use a different bank ATM than my own?",
+      "generated": "Can I use an ATM from a different bank than my own?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What is your check-cashing policy?",
+      "generated": "You can top up your account by cash or cheque."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "What do I need to do to request cash back? The ATM actually just gave me the wrong amount. The app I actually chose the right amount.",
+      "generated": "The ATM dispensed an incorrect amount, and I'd like to know how to initiate a cash return. The amount I selected on the app was correct, but the machine gave me the wrong amount."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I did not get all the cash at ATM.",
+      "generated": "I didn't receive the full amount of cash from the ATM."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where should I withdraw money from?",
+      "generated": "Where can I access cash from an ATM?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "So I just went to the ATM to get some cash.  I input that I needed 100 pounds but I only got 80.  I have the receipt  and I am in need of the extra money.  How do I go about obtaining the missing amount?",
+      "generated": "I recently visited the ATM to withdraw some cash, but when I checked my transaction, I found that I was given less than the amount I requested. Specifically, I asked for 100 pounds, but only received 80. I have the receipt as proof and would like to know how to retrieve the remaining amount."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "What is this cash withdrawal on my statement?",
+      "generated": "This cash transaction on my statement is not recognized by me."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There's an unauthorized cash withdraw",
+      "generated": "We've detected an unauthorised cash withdrawal attempt."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Hello, I wanted to get some more information about ATM Withdraw Fee. I have been withdrawing money for years and notice this charge on my account. I always thought it was no fee since its you guys ATM company that I am withdrawing. Can you please explain?",
+      "generated": "I'm trying to understand the cash withdrawal charge that's been appearing on my account. I've been using your ATMs for years, and I'm surprised to see this fee. Can you clarify the policy behind it?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "What is a pending cash withdrawal?",
+      "generated": "A pending cash withdrawal refers to a transaction that has been initiated but not yet processed or completed."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "My cash withdrawal was short.",
+      "generated": "I didn't receive the correct amount of cash."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I have a cash withdrawal in my statement. Why is that?",
+      "generated": "I'm looking at my statement and I see a cash withdrawal listed. Can you explain why it's there?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "How can I get my money that I didn't get from the ATM?",
+      "generated": "I'm trying to retrieve the cash I didn't receive from the ATM transaction."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There is a cash withdrawl I don't remember.",
+      "generated": "I'm trying to recall a cash withdrawal I made, but I've forgotten the details."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need to know where I can withdraw money.",
+      "generated": "I'm looking for an ATM location where I can withdraw cash."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "What do I need to do to get cash back? The ATM gave me the wrong amount that I requested but the app is showing the amount to be correct.",
+      "generated": "The ATM dispensed an incorrect amount of cash, but the mobile app is indicating that the transaction was processed correctly. How can I resolve this discrepancy and get the correct amount of cash returned to me?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Which locations can I withdraw money from?",
+      "generated": "Where can I access cash from an ATM?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "The atm didn't give me all my cash",
+      "generated": "The ATM dispensed an insufficient amount of money."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Unusual direct deposit",
+      "generated": "Unidentified direct debit payment"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I have a cash withdrawal on my statement that I am unsure of.",
+      "generated": "I'm having trouble identifying a cash withdrawal on my statement."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can you tell me where my readily available cash has come from?",
+      "generated": "Can you confirm the origin of the funds that are readily available in my account?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There is a cash withdrawal from an ATM listed but I don't remember making this withdrawal.",
+      "generated": "I'm showing a cash withdrawal on my account statement, but I'm not sure if I actually made this transaction."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "\nWhere can I withdraw money from?",
+      "generated": "Where can I access cash from?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where can I withdraw money from?",
+      "generated": "Where can I access cash from an ATM or a bank branch?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "The ATM shows a withdraw of the amount of money I requested but I didn't revieve that amount in cash.",
+      "generated": "The ATM dispensed the amount I withdrew, but I didn't receive the correct amount of cash."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I just had a look at my statement. Why have I been changed for using the ATM?",
+      "generated": "I've reviewed my statement and noticed a charge for using an ATM. Can you explain why I was charged for this transaction?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "What does it mean to have a pending cash withdrawal?",
+      "generated": "You're asking about the status of a cash withdrawal that's still in the process of being processed."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I am travelling and I tried to withdraw cash but didn't get what I was supposed to get.",
+      "generated": "I'm currently abroad and attempted to withdraw some cash, but the amount I received was not what I expected."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "The ATM did not give me as much cash as I requested.",
+      "generated": "The ATM dispensed less cash than I had asked for."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "need to verify source of funds",
+      "generated": "can you confirm the origin of the funds?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I have a question about fee for cash withdraw.",
+      "generated": "I'd like to know more about the charge for withdrawing cash from my account."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I have a cash withdrawal that I do not recognise.",
+      "generated": "I'm trying to process a cash withdrawal, but it's not showing up in my records."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "The atm didn'y give me all the cash",
+      "generated": "The ATM dispensed an incorrect amount of money."
+    }
+  ]
+}

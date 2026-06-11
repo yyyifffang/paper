@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "How can I link a new card to my account?",
+    "Will you charge me extra fees if I make a payment using an international credit/debit card?",
+    "We accept a range of currencies for top-ups, including but not limited to the following: USD, EUR, JPY, and more.",
+    "What steps can a US citizen take to obtain a new credit card?",
+    "what's the estimated timeframe for processing new contactless payment cards?",
+    "Can I use my card for purchases at any location?",
+    "Is there a fee associated with transferring funds?",
+    "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.",
+    "How can I use my card for payment?",
+    "Can you accept my other credit card issued in the United States? It's the only other one I possess.",
+    "I'm unable to identify a transaction on my credit card statement.",
+    "If I make a card deposit, what payment methods and currencies are available to me?",
+    "Will I be charged a fee for a card-based top-up from a European bank?",
+    "A pending cash withdrawal is currently being processed.",
+    "You claim there's no charge for card payments, but I've been charged a fee on my statement.",
+    "Can I perform a bank transfer to top up my account?",
+    "A payment made from my account was not recognized.",
+    "Why haven't I received the funds after topping up my account?",
+    "If I obtain a replacement card, what charges can I expect to incur?",
+    "I'd like to request a replacement card",
+    "I'm having trouble using my card. Can you assist me?",
+    "My recently opened account is not allowing me to make a top-up transaction.",
+    "Has my new card been dispatched already?",
+    "I'm trying to figure out what's going on with my recently issued card.",
+    "Why is my card not functioning properly?",
+    "Are there any charges associated with topping up a US-issued card?",
+    "Why was I charged an additional fee when I used my card to make the payment?",
+    "What steps can I take to activate my card?",
+    "Can you provide information about the card's arrival status?",
+    "I'm concerned about the charges associated with adding funds to my card.",
+    "May I assist you in reactivating your card?",
+    "What methods are available for adding funds to my account, and what currencies are accepted for transactions?",
+    "I attempted to add funds, but the transaction was declined.",
+    "I recently reported my card as missing, but I've since located it. Can I still use it?",
+    "Hi, I'd like to inquire about my UK account. I've recently made a transfer, but my account balance hasn't been updated yet. Could you please look into this and let me know what's going on?",
+    "I'm attempting to reverse a transfer I initiated earlier today",
+    "I'm showing a payment in my account that I didn't initiate. I haven't used that card at all today, so I'm not sure why it's showing up. Can you investigate and refund the amount?",
+    "We've noticed an unexpected payment on your statement. Can you help us understand what this payment is for?"
+  ],
+  "generated_labels": [
+    13,
+    57,
+    54,
+    24,
+    23,
+    10,
+    64,
+    20,
+    10,
+    54,
+    16,
+    54,
+    57,
+    46,
+    15,
+    56,
+    28,
+    47,
+    39,
+    39,
+    14,
+    47,
+    11,
+    11,
+    14,
+    57,
+    15,
+    0,
+    11,
+    57,
+    13,
+    54,
+    59,
+    13,
+    5,
+    8,
+    28,
+    16
+  ],
+  "source_texts": [
+    "Where do I go to add a new card?",
+    "Will you assess me more fees if I top up with an international card?",
+    "What currency is acceptable for a top up?",
+    "How does a US resident go about acquiring a new card?",
+    "how many days processing new card?",
+    "Can I pay with my card anywhere?",
+    "Are money transfers free?",
+    "there is money in my account that i didnt put there",
+    "Where can I pay with my card?",
+    "Can you accept my other card from the U.S.?  It is the only other one I have.",
+    "i dont recognize a charge on my card",
+    "If I top up by card, what options do I have re: currency and card type?",
+    "Do I get charged for a top up from a European bank?",
+    "There is a withdrawal waiting.",
+    "You advertise no fee when paying with a card then my statement shows a fee.",
+    "Am I able to do a SWIFT transfer?",
+    "Someone else charged my card!",
+    "Where are my funds? I topped off my car but it didn't seem to complete.",
+    "If I get another card, what kind of fees am I looking at?",
+    "I'd like to order another card",
+    "I can't seem to use my card. Can you help?",
+    "My account is  new  why can I  not top up",
+    "Have you sent out my card yet?",
+    "I want to find out what happened to my new card?",
+    "Why can't I use my card?",
+    "Is there a top charge for US cards?",
+    "Why did I have to pay extra because I paid with my card?",
+    "How can i make my card active?",
+    "Do you have info about the card on delivery?",
+    "I am worried about fees for top up cards?",
+    "Can you please reactivate my card?",
+    "How can I top up my account and which currency can I use?",
+    "I just topped up, and the app denied it.",
+    "I recently reported my card as missing/lost, and I just found it. Can I still use it?",
+    "Hello I have a UK account.  Can you please check if everything is alright with it?  I made a transfer a couple hours ago but it doesn't show up yet.",
+    "I am trying to revert a transcation I did this morning",
+    "There is a payment in my app that I did not make.  I have not used that card all day  Please reimburse my money.",
+    "Why is there a random payment in my statement?"
+  ],
+  "records": [
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Where do I go to add a new card?",
+      "generated": "How can I link a new card to my account?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Will you assess me more fees if I top up with an international card?",
+      "generated": "Will you charge me extra fees if I make a payment using an international credit/debit card?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What currency is acceptable for a top up?",
+      "generated": "We accept a range of currencies for top-ups, including but not limited to the following: USD, EUR, JPY, and more."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "How does a US resident go about acquiring a new card?",
+      "generated": "What steps can a US citizen take to obtain a new credit card?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "how many days processing new card?",
+      "generated": "what's the estimated timeframe for processing new contactless payment cards?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I pay with my card anywhere?",
+      "generated": "Can I use my card for purchases at any location?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Are money transfers free?",
+      "generated": "Is there a fee associated with transferring funds?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "there is money in my account that i didnt put there",
+      "generated": "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where can I pay with my card?",
+      "generated": "How can I use my card for payment?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you accept my other card from the U.S.?  It is the only other one I have.",
+      "generated": "Can you accept my other credit card issued in the United States? It's the only other one I possess."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i dont recognize a charge on my card",
+      "generated": "I'm unable to identify a transaction on my credit card statement."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "If I top up by card, what options do I have re: currency and card type?",
+      "generated": "If I make a card deposit, what payment methods and currencies are available to me?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Do I get charged for a top up from a European bank?",
+      "generated": "Will I be charged a fee for a card-based top-up from a European bank?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "There is a withdrawal waiting.",
+      "generated": "A pending cash withdrawal is currently being processed."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "You advertise no fee when paying with a card then my statement shows a fee.",
+      "generated": "You claim there's no charge for card payments, but I've been charged a fee on my statement."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I able to do a SWIFT transfer?",
+      "generated": "Can I perform a bank transfer to top up my account?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Someone else charged my card!",
+      "generated": "A payment made from my account was not recognized."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Where are my funds? I topped off my car but it didn't seem to complete.",
+      "generated": "Why haven't I received the funds after topping up my account?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "If I get another card, what kind of fees am I looking at?",
+      "generated": "If I obtain a replacement card, what charges can I expect to incur?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I'd like to order another card",
+      "generated": "I'd like to request a replacement card"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't seem to use my card. Can you help?",
+      "generated": "I'm having trouble using my card. Can you assist me?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "My account is  new  why can I  not top up",
+      "generated": "My recently opened account is not allowing me to make a top-up transaction."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Have you sent out my card yet?",
+      "generated": "Has my new card been dispatched already?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I want to find out what happened to my new card?",
+      "generated": "I'm trying to figure out what's going on with my recently issued card."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why can't I use my card?",
+      "generated": "Why is my card not functioning properly?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is there a top charge for US cards?",
+      "generated": "Are there any charges associated with topping up a US-issued card?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why did I have to pay extra because I paid with my card?",
+      "generated": "Why was I charged an additional fee when I used my card to make the payment?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can i make my card active?",
+      "generated": "What steps can I take to activate my card?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Do you have info about the card on delivery?",
+      "generated": "Can you provide information about the card's arrival status?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I am worried about fees for top up cards?",
+      "generated": "I'm concerned about the charges associated with adding funds to my card."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can you please reactivate my card?",
+      "generated": "May I assist you in reactivating your card?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "How can I top up my account and which currency can I use?",
+      "generated": "What methods are available for adding funds to my account, and what currencies are accepted for transactions?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I just topped up, and the app denied it.",
+      "generated": "I attempted to add funds, but the transaction was declined."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I recently reported my card as missing/lost, and I just found it. Can I still use it?",
+      "generated": "I recently reported my card as missing, but I've since located it. Can I still use it?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Hello I have a UK account.  Can you please check if everything is alright with it?  I made a transfer a couple hours ago but it doesn't show up yet.",
+      "generated": "Hi, I'd like to inquire about my UK account. I've recently made a transfer, but my account balance hasn't been updated yet. Could you please look into this and let me know what's going on?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I am trying to revert a transcation I did this morning",
+      "generated": "I'm attempting to reverse a transfer I initiated earlier today"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "There is a payment in my app that I did not make.  I have not used that card all day  Please reimburse my money.",
+      "generated": "I'm showing a payment in my account that I didn't initiate. I haven't used that card at all today, so I'm not sure why it's showing up. Can you investigate and refund the amount?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is there a random payment in my statement?",
+      "generated": "We've noticed an unexpected payment on your statement. Can you help us understand what this payment is for?"
+    }
+  ]
+}

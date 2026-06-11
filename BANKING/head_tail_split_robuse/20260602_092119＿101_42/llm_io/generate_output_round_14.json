@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "Is there an option to expedite the delivery of my card for an additional fee?",
+    "Can you provide an estimated delivery date for the card?",
+    "When can I expect the funds to be credited to my account?",
+    "Is my credit card accepted for online transactions?",
+    "My top-up reversal was processed and I would like to confirm if I still need to complete the 3D Secure authentication process before resubmitting the request.",
+    "Who is the source of the funds being used to make this transaction?",
+    "Can I make an electronic transfer into my account using my American Express card?",
+    "what is the source of the funds being transferred",
+    "I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?",
+    "What's the process for obtaining a disposable virtual card?",
+    "Why hasn't the recipient received my money transfer?",
+    "Are there any fees associated with receiving a bank transfer to top up my account?",
+    "Can you provide an estimate for the delivery of my card within a 2-day timeframe?",
+    "Can I move funds to my card through a bank transfer?",
+    "Why isn't my refund showing up in my account?",
+    "I'm showing a cash withdrawal in my app, but it's not reflecting in my account.",
+    "Is there an additional fee for exchanging funds?",
+    "Are there any specific places or situations where my card won't be accepted?",
+    "We're planning to establish a savings plan for my child's future education expenses.",
+    "What are the details about my limit for making top-ups?",
+    "What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?",
+    "Are there any limitations on the locations where I can use my card?",
+    "Why did I get a refund for my payment after a week?",
+    "Can I use my card at any location, or are there specific places where it won't be accepted?",
+    "A charge is showing for a transfer transaction.",
+    "How do you receive your physical credit cards?",
+    "Will I be charged a fee when I receive a bank transfer to top up my account?",
+    "How can I configure my credit card to facilitate card-based transactions?",
+    "Can I transfer funds from my bank account to add more money to it?",
+    "Is it possible for my friend to transfer funds to me?",
+    "I require guidance on the maximum amount I can increase my limits.",
+    "Are there any fees associated with transferring funds to my account?",
+    "I'm concerned about potential security risks. Can you confirm my identity to ensure my account is secure?",
+    "I haven't received my recent transfer.",
+    "Do I need to fund my account before placing an order for a physical card?",
+    "Will I be charged a fee for receiving a top-up via bank transfer?",
+    "how can I learn about incoming transactions?"
+  ],
+  "generated_labels": [
+    12,
+    12,
+    67,
+    10,
+    61,
+    70,
+    54,
+    70,
+    26,
+    37,
+    66,
+    56,
+    12,
+    65,
+    51,
+    20,
+    31,
+    10,
+    1,
+    60,
+    19,
+    10,
+    53,
+    10,
+    64,
+    43,
+    56,
+    62,
+    65,
+    50,
+    60,
+    56,
+    69,
+    66,
+    43,
+    56,
+    50
+  ],
+  "source_texts": [
+    "Can I pay more to get it deliver quicker?",
+    "Can I have it by a certain date?",
+    "When will the money be made available in my account?",
+    "Can I use my card for online payments?",
+    "My top-up was cancelled and I am writing to ask if I need to complete the 3D Secure authentication section before I submit it.",
+    "Who is giving me my money?",
+    "Can I electronically transfer funds into my account from my American Express?",
+    "where are the transfers originating",
+    "I'm trying to take money from my account but its not letting me. Help!",
+    "how do the cards work?",
+    "How can I the person see my money transaction?",
+    "Is there a cost to receive money?",
+    "how much to get my card in 2 days?",
+    "Can I transfer money to my card via bank-transfer?",
+    "Why hasn't my return cleared my account?",
+    "I see cash in my app but I did not get it.",
+    "Do I pay extra for exchange?",
+    "Is there anywhere I can't use my card?",
+    "We want to start a college fund for my daughter.",
+    "How can I information on my limit for top-ups?",
+    "How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month.",
+    "Is there restrictions on where I can use my card?",
+    "Why have I received a rebate for my payment after a week?",
+    "Are there limits as to where my card will be accepted?",
+    "I have a fee listed for a transfer.",
+    "Where do you export the cards to?",
+    "Do I get charged if I get money?",
+    "How do i set up my credit card to send transfers?",
+    "Can I use my bank account to send me more money?",
+    "My friend wants to send me money, can she?",
+    "I need someone to assist me with explaining how much I can top-up.",
+    "Is there a charge for getting my money?",
+    "im worried about fraud how do you protect my account",
+    "Where is my last money transaction",
+    "do i need to add money before i order a card",
+    "Am I going to be charged for receiving  money?",
+    "how do i find out about transfers"
+  ],
+  "records": [
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I pay more to get it deliver quicker?",
+      "generated": "Is there an option to expedite the delivery of my card for an additional fee?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I have it by a certain date?",
+      "generated": "Can you provide an estimated delivery date for the card?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will the money be made available in my account?",
+      "generated": "When can I expect the funds to be credited to my account?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I use my card for online payments?",
+      "generated": "Is my credit card accepted for online transactions?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "My top-up was cancelled and I am writing to ask if I need to complete the 3D Secure authentication section before I submit it.",
+      "generated": "My top-up reversal was processed and I would like to confirm if I still need to complete the 3D Secure authentication process before resubmitting the request."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Who is giving me my money?",
+      "generated": "Who is the source of the funds being used to make this transaction?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can I electronically transfer funds into my account from my American Express?",
+      "generated": "Can I make an electronic transfer into my account using my American Express card?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "where are the transfers originating",
+      "generated": "what is the source of the funds being transferred"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I'm trying to take money from my account but its not letting me. Help!",
+      "generated": "I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "how do the cards work?",
+      "generated": "What's the process for obtaining a disposable virtual card?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How can I the person see my money transaction?",
+      "generated": "Why hasn't the recipient received my money transfer?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a cost to receive money?",
+      "generated": "Are there any fees associated with receiving a bank transfer to top up my account?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "how much to get my card in 2 days?",
+      "generated": "Can you provide an estimate for the delivery of my card within a 2-day timeframe?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can I transfer money to my card via bank-transfer?",
+      "generated": "Can I move funds to my card through a bank transfer?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Why hasn't my return cleared my account?",
+      "generated": "Why isn't my refund showing up in my account?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I see cash in my app but I did not get it.",
+      "generated": "I'm showing a cash withdrawal in my app, but it's not reflecting in my account."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do I pay extra for exchange?",
+      "generated": "Is there an additional fee for exchanging funds?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is there anywhere I can't use my card?",
+      "generated": "Are there any specific places or situations where my card won't be accepted?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "We want to start a college fund for my daughter.",
+      "generated": "We're planning to establish a savings plan for my child's future education expenses."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How can I information on my limit for top-ups?",
+      "generated": "What are the details about my limit for making top-ups?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month.",
+      "generated": "What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is there restrictions on where I can use my card?",
+      "generated": "Are there any limitations on the locations where I can use my card?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why have I received a rebate for my payment after a week?",
+      "generated": "Why did I get a refund for my payment after a week?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Are there limits as to where my card will be accepted?",
+      "generated": "Can I use my card at any location, or are there specific places where it won't be accepted?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I have a fee listed for a transfer.",
+      "generated": "A charge is showing for a transfer transaction."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Where do you export the cards to?",
+      "generated": "How do you receive your physical credit cards?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do I get charged if I get money?",
+      "generated": "Will I be charged a fee when I receive a bank transfer to top up my account?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do i set up my credit card to send transfers?",
+      "generated": "How can I configure my credit card to facilitate card-based transactions?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can I use my bank account to send me more money?",
+      "generated": "Can I transfer funds from my bank account to add more money to it?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My friend wants to send me money, can she?",
+      "generated": "Is it possible for my friend to transfer funds to me?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "I need someone to assist me with explaining how much I can top-up.",
+      "generated": "I require guidance on the maximum amount I can increase my limits."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a charge for getting my money?",
+      "generated": "Are there any fees associated with transferring funds to my account?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "im worried about fraud how do you protect my account",
+      "generated": "I'm concerned about potential security risks. Can you confirm my identity to ensure my account is secure?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Where is my last money transaction",
+      "generated": "I haven't received my recent transfer."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "do i need to add money before i order a card",
+      "generated": "Do I need to fund my account before placing an order for a physical card?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I going to be charged for receiving  money?",
+      "generated": "Will I be charged a fee for receiving a top-up via bank transfer?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "how do i find out about transfers",
+      "generated": "how can I learn about incoming transactions?"
+    }
+  ]
+}

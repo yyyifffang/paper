@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "What can I do about the transfer that was declined?",
+    "I'd like to make a payment using my credit card.",
+    "What's the reason for the extra charge showing up on my statement?",
+    "I'd like to add funds to my account using my credit card.",
+    "Can you facilitate bank transfers for topping up my account?",
+    "How do you facilitate transfers into an account?",
+    "I've been charged twice for the same transaction, and I'm expecting only one charge.",
+    "Can I stop the transfer I initiated?",
+    "I'd like to transfer funds from another account to this account.",
+    "How can I use my credit card to make a payment or add funds to my account?",
+    "I'd like to add funds to my account using my credit card.",
+    "How can I add funds to my account using my credit card?",
+    "May I terminate a transfer I initiated?",
+    "The transfer I attempted did not go through.",
+    "Could you please explain why I'm being charged an additional fee for initiating a transfer?",
+    "Why am I unable to process multiple transactions using my virtual card?",
+    "Why hasn't my account balance been updated to reflect the cash deposit I made?",
+    "How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?",
+    "Adding funds to your account using your credit card",
+    "Can you assist me in terminating the transfer I initiated?",
+    "I'd like to make a payment using my credit card.",
+    "Can I initiate a bank transfer to top up my account with you?",
+    "Can I stop a transfer I initiated recently?",
+    "Can I perform a bank transfer to top up my account?",
+    "Can we bypass the identity verification process?",
+    "can I recharge my account using a card charge instead?",
+    "How can I guarantee that my transfer won't be declined due to an unsupported merchant?",
+    "I need to confirm the origin of my funds.",
+    "Can you accept bank transfers via international wire transfer?",
+    "Can you please provide information to confirm the origin of the funds used for this transaction?",
+    "How do I obtain a disposable virtual card and use it for transactions?",
+    "halt the transfer",
+    "Can you assist me in enabling contactless transactions?",
+    "Can you facilitate bank transfers via SWIFT or other international payment methods?",
+    "Can I make a bank transfer to top up my account?",
+    "What's the reason behind the additional fee that's showing up on my statement?",
+    "We need to confirm the origin of your funds."
+  ],
+  "generated_labels": [
+    27,
+    62,
+    34,
+    62,
+    56,
+    65,
+    63,
+    8,
+    65,
+    62,
+    62,
+    62,
+    8,
+    35,
+    64,
+    72,
+    6,
+    51,
+    62,
+    8,
+    62,
+    56,
+    8,
+    56,
+    74,
+    57,
+    27,
+    70,
+    56,
+    70,
+    37,
+    8,
+    23,
+    56,
+    56,
+    34,
+    70
+  ],
+  "source_texts": [
+    "What do I do with my \"decline\" message on a transfer?",
+    "With my credit card i would like to transfer money.",
+    "Why is there a pending hold on one pound on my statement?",
+    "I want to transfer money using my credit card.",
+    "Do you offer SWIFT transfers?",
+    "What transfer methods do you accept?",
+    "Why do I have two charges It should only be one charge?",
+    "Is there any way to cancel my transfer",
+    "I need to move money from one of my other accounts to this one.",
+    "Hoe do i use my credit card to transfer money?",
+    "I want to transfer money with my credit card.",
+    "How do I transfer funds directly from my credit card?",
+    "Can I cancel a transfer I made",
+    "The transger I tried to make failed.",
+    "Can you elaborate on why I have an extra charge just for transferring?",
+    "Why can't I make multiple payments with my virtual card?",
+    "Where is my cash deposit in my balance?",
+    "how does my statement get updated so i know when a refund will reflect on my balance",
+    "Transferring money using credit card",
+    "How can I cancel my transfer?",
+    "I'd like to transfer funds using my credit card.",
+    "Am I able to do a SWIFT transfer with you?",
+    "Am I able to cancel a transfer I just made",
+    "Am I able to do a SWIFT transfer?",
+    "Can we skip verifying?",
+    "should i add money via bank transfer instead",
+    "How do I make sure my transfer isn't goin to an unsupported merchant?",
+    "I require verification of my source of funds.",
+    "Do you take SWIFT transfers?",
+    "How can I receive verification for the source of my funds?",
+    "What is the procedure for depositing a virtual card",
+    "stop the transaction",
+    "Help me to set up contactless payments.",
+    "Do you process SWIFT transfers?",
+    "Can I do a SWIFT transfer?",
+    "Why is there an extra pound charge that is pending?",
+    "My source of funds need verification."
+  ],
+  "records": [
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What do I do with my \"decline\" message on a transfer?",
+      "generated": "What can I do about the transfer that was declined?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "With my credit card i would like to transfer money.",
+      "generated": "I'd like to make a payment using my credit card."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is there a pending hold on one pound on my statement?",
+      "generated": "What's the reason for the extra charge showing up on my statement?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I want to transfer money using my credit card.",
+      "generated": "I'd like to add funds to my account using my credit card."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do you offer SWIFT transfers?",
+      "generated": "Can you facilitate bank transfers for topping up my account?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What transfer methods do you accept?",
+      "generated": "How do you facilitate transfers into an account?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why do I have two charges It should only be one charge?",
+      "generated": "I've been charged twice for the same transaction, and I'm expecting only one charge."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Is there any way to cancel my transfer",
+      "generated": "Can I stop the transfer I initiated?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need to move money from one of my other accounts to this one.",
+      "generated": "I'd like to transfer funds from another account to this account."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Hoe do i use my credit card to transfer money?",
+      "generated": "How can I use my credit card to make a payment or add funds to my account?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I want to transfer money with my credit card.",
+      "generated": "I'd like to add funds to my account using my credit card."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I transfer funds directly from my credit card?",
+      "generated": "How can I add funds to my account using my credit card?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Can I cancel a transfer I made",
+      "generated": "May I terminate a transfer I initiated?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "The transger I tried to make failed.",
+      "generated": "The transfer I attempted did not go through."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Can you elaborate on why I have an extra charge just for transferring?",
+      "generated": "Could you please explain why I'm being charged an additional fee for initiating a transfer?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Why can't I make multiple payments with my virtual card?",
+      "generated": "Why am I unable to process multiple transactions using my virtual card?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Where is my cash deposit in my balance?",
+      "generated": "Why hasn't my account balance been updated to reflect the cash deposit I made?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "how does my statement get updated so i know when a refund will reflect on my balance",
+      "generated": "How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Transferring money using credit card",
+      "generated": "Adding funds to your account using your credit card"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "How can I cancel my transfer?",
+      "generated": "Can you assist me in terminating the transfer I initiated?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I'd like to transfer funds using my credit card.",
+      "generated": "I'd like to make a payment using my credit card."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I able to do a SWIFT transfer with you?",
+      "generated": "Can I initiate a bank transfer to top up my account with you?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Am I able to cancel a transfer I just made",
+      "generated": "Can I stop a transfer I initiated recently?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I able to do a SWIFT transfer?",
+      "generated": "Can I perform a bank transfer to top up my account?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can we skip verifying?",
+      "generated": "Can we bypass the identity verification process?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "should i add money via bank transfer instead",
+      "generated": "can I recharge my account using a card charge instead?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How do I make sure my transfer isn't goin to an unsupported merchant?",
+      "generated": "How can I guarantee that my transfer won't be declined due to an unsupported merchant?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I require verification of my source of funds.",
+      "generated": "I need to confirm the origin of my funds."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do you take SWIFT transfers?",
+      "generated": "Can you accept bank transfers via international wire transfer?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I receive verification for the source of my funds?",
+      "generated": "Can you please provide information to confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "What is the procedure for depositing a virtual card",
+      "generated": "How do I obtain a disposable virtual card and use it for transactions?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "stop the transaction",
+      "generated": "halt the transfer"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Help me to set up contactless payments.",
+      "generated": "Can you assist me in enabling contactless transactions?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do you process SWIFT transfers?",
+      "generated": "Can you facilitate bank transfers via SWIFT or other international payment methods?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can I do a SWIFT transfer?",
+      "generated": "Can I make a bank transfer to top up my account?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is there an extra pound charge that is pending?",
+      "generated": "What's the reason behind the additional fee that's showing up on my statement?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My source of funds need verification.",
+      "generated": "We need to confirm the origin of your funds."
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "I was left with no funds and couldn't afford to fill up my tank.",
+    "I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?",
+    "Unfortunately, I was unable to withdraw cash from my account.",
+    "I'd like to continue using my account, but I haven't completed the verification process. Is that acceptable?",
+    "I expected my new card to arrive by now.",
+    "I'm wondering if I was incorrectly charged a fee for a recent cash withdrawal, perhaps related to a recent purchase or transaction?",
+    "I'm having trouble locating the funds I recently deposited.",
+    "Are you unable to process certain cryptocurrency transactions? I attempted to perform a top-up, but the funds vanished. I'm unsure what's happening or what I'm doing incorrectly, could you please assist me?",
+    "I'm not sure what my card balance is after the recent top-up.",
+    "The transfer I attempted did not go through.",
+    "I was unable to make a transfer to a different account.",
+    "In what currencies can I exchange and hold my funds?",
+    "still need to obtain my physical card",
+    "I haven't received my card yet, and it's been a week. What should I do now?",
+    "My funds vanished! Can you assist me with this issue?",
+    "Can I reactivate my existing card or do I need to request a new one for use with the app?",
+    "Is the card accepted by all parties involved?",
+    "I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?",
+    "I require a one-time use virtual card for online transactions",
+    "If my identity verification process hasn't been completed, can I still access my account?",
+    "The virtual payment card I was using wouldn't accept my transaction.",
+    "Do you allow me to choose between Visa and Mastercard, or do you automatically select the card type for me?",
+    "why can't you simply process a refund for me instead of waiting for the merchant to initiate it?",
+    "I'd like to request a physical card that I can physically possess, how can I go about ordering one?",
+    "I attempted to withdraw some cash, but the ATM was malfunctioning. The transaction appears to be still pending. Could you look into this matter and ensure I'm not charged for the amount I didn't receive?",
+    "Could you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for a while now.",
+    "The cash transfer I initiated hasn't been reflected on the recipient's end.",
+    "We've noticed an unusual direct debit payment on your account that doesn't seem to match any of your authorized transactions. I'm concerned it might have been an unauthorized transaction. Can you please let us know if you'd like to dispute this payment, as it's already been processed?",
+    "Can I receive the physical card separately?",
+    "I'm trying to stop a direct debit payment that was made from my account.",
+    "Are there any plans to expand the list of supported fiat currencies in the future?",
+    "What are the ways to identify a Mastercard ATM?",
+    "Can I grant permission to someone else to access my account to make a card-based top-up?",
+    "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?",
+    "Can I receive a physical card to carry with me?",
+    "I'm unable to add funds to my account.",
+    "i didn't deposit that amount into my account",
+    "I urgently require access to an ATM.",
+    "I was overcharged for the item, and the amount doesn't match the expected exchange rate."
+  ],
+  "generated_labels": [
+    62,
+    72,
+    26,
+    74,
+    11,
+    19,
+    47,
+    61,
+    62,
+    35,
+    7,
+    36,
+    38,
+    11,
+    61,
+    13,
+    10,
+    7,
+    37,
+    74,
+    72,
+    73,
+    51,
+    43,
+    46,
+    47,
+    66,
+    28,
+    38,
+    28,
+    36,
+    3,
+    62,
+    74,
+    43,
+    7,
+    20,
+    3,
+    17
+  ],
+  "source_texts": [
+    "My money I had was gone and I could not get gas!",
+    "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?",
+    "When I tried to access my cash, I wasn't allowed!",
+    "I still want to use my account but haven't verified is that OK?",
+    "I thought I would have received my new card at this point.",
+    "I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now?",
+    "Help, I don't see my money i just added.",
+    "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help.",
+    "I cannot tell what my top up currently is.",
+    "The transger I tried to make failed.",
+    "I was unable to transfer to another account.",
+    "In the exchange and holding, what fiat is allowed?",
+    "still need to get card pin",
+    "I don't have my card after 1 week. What are my next steps?",
+    "My money disappeared! Please help??",
+    "Will I need a new card or can I put my old card back into the app?",
+    "Is the card welcomed by everybody?",
+    "Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong?",
+    "I need a single use card for shopping online",
+    "If my identy verifacation hasn't gone through can I use my account?",
+    "My disposable virtual card wouldn't process my payment?",
+    "Can I select my card scheme or do you choose it for me?",
+    "why cant you just refund me instead of a merchant",
+    "I need an actual card that I can hold in my hand, how do I do that?",
+    "I tried to get some money but the machine was not working .The transaction still seems in progress! Can you please check what's going on.I don't want to be charged for money that I did not received.",
+    "Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour.",
+    "My cash transaction isn't showing on my receipt",
+    "Hi, i was checking my old statements and found a discrepancy with a large amount transaction. I am sure it was not done by me. Please let me know if i could raise a dispute as its very late.",
+    "Is the PIN sent in another message?",
+    "I need to cancel a transaction on my debit card.",
+    "Will you be adding more currencies in the future?",
+    "How do I know it is a Mastercard ATM?",
+    "Can I let other people have access to my account in order to top up?",
+    "My ID verification hasn't gone through yet, but can I use my account anyway?",
+    "Do I get a card to keep in my wallet?",
+    "I cant transfer money into my account",
+    "i didnt put that money in my account",
+    "I need an ATM right now!",
+    "I was charged the wing amount for an item."
+  ],
+  "records": [
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My money I had was gone and I could not get gas!",
+      "generated": "I was left with no funds and couldn't afford to fill up my tank."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?",
+      "generated": "I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "When I tried to access my cash, I wasn't allowed!",
+      "generated": "Unfortunately, I was unable to withdraw cash from my account."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I still want to use my account but haven't verified is that OK?",
+      "generated": "I'd like to continue using my account, but I haven't completed the verification process. Is that acceptable?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I thought I would have received my new card at this point.",
+      "generated": "I expected my new card to arrive by now."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now?",
+      "generated": "I'm wondering if I was incorrectly charged a fee for a recent cash withdrawal, perhaps related to a recent purchase or transaction?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Help, I don't see my money i just added.",
+      "generated": "I'm having trouble locating the funds I recently deposited."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help.",
+      "generated": "Are you unable to process certain cryptocurrency transactions? I attempted to perform a top-up, but the funds vanished. I'm unsure what's happening or what I'm doing incorrectly, could you please assist me?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I cannot tell what my top up currently is.",
+      "generated": "I'm not sure what my card balance is after the recent top-up."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "The transger I tried to make failed.",
+      "generated": "The transfer I attempted did not go through."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I was unable to transfer to another account.",
+      "generated": "I was unable to make a transfer to a different account."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "In the exchange and holding, what fiat is allowed?",
+      "generated": "In what currencies can I exchange and hold my funds?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "still need to get card pin",
+      "generated": "still need to obtain my physical card"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I don't have my card after 1 week. What are my next steps?",
+      "generated": "I haven't received my card yet, and it's been a week. What should I do now?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "My money disappeared! Please help??",
+      "generated": "My funds vanished! Can you assist me with this issue?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Will I need a new card or can I put my old card back into the app?",
+      "generated": "Can I reactivate my existing card or do I need to request a new one for use with the app?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is the card welcomed by everybody?",
+      "generated": "Is the card accepted by all parties involved?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong?",
+      "generated": "I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I need a single use card for shopping online",
+      "generated": "I require a one-time use virtual card for online transactions"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "If my identy verifacation hasn't gone through can I use my account?",
+      "generated": "If my identity verification process hasn't been completed, can I still access my account?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card wouldn't process my payment?",
+      "generated": "The virtual payment card I was using wouldn't accept my transaction."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I select my card scheme or do you choose it for me?",
+      "generated": "Do you allow me to choose between Visa and Mastercard, or do you automatically select the card type for me?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "why cant you just refund me instead of a merchant",
+      "generated": "why can't you simply process a refund for me instead of waiting for the merchant to initiate it?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need an actual card that I can hold in my hand, how do I do that?",
+      "generated": "I'd like to request a physical card that I can physically possess, how can I go about ordering one?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to get some money but the machine was not working .The transaction still seems in progress! Can you please check what's going on.I don't want to be charged for money that I did not received.",
+      "generated": "I attempted to withdraw some cash, but the ATM was malfunctioning. The transaction appears to be still pending. Could you look into this matter and ensure I'm not charged for the amount I didn't receive?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour.",
+      "generated": "Could you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for a while now."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "My cash transaction isn't showing on my receipt",
+      "generated": "The cash transfer I initiated hasn't been reflected on the recipient's end."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Hi, i was checking my old statements and found a discrepancy with a large amount transaction. I am sure it was not done by me. Please let me know if i could raise a dispute as its very late.",
+      "generated": "We've noticed an unusual direct debit payment on your account that doesn't seem to match any of your authorized transactions. I'm concerned it might have been an unauthorized transaction. Can you please let us know if you'd like to dispute this payment, as it's already been processed?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Is the PIN sent in another message?",
+      "generated": "Can I receive the physical card separately?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I need to cancel a transaction on my debit card.",
+      "generated": "I'm trying to stop a direct debit payment that was made from my account."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Will you be adding more currencies in the future?",
+      "generated": "Are there any plans to expand the list of supported fiat currencies in the future?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How do I know it is a Mastercard ATM?",
+      "generated": "What are the ways to identify a Mastercard ATM?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can I let other people have access to my account in order to top up?",
+      "generated": "Can I grant permission to someone else to access my account to make a card-based top-up?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "My ID verification hasn't gone through yet, but can I use my account anyway?",
+      "generated": "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do I get a card to keep in my wallet?",
+      "generated": "Can I receive a physical card to carry with me?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I cant transfer money into my account",
+      "generated": "I'm unable to add funds to my account."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "i didnt put that money in my account",
+      "generated": "i didn't deposit that amount into my account"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need an ATM right now!",
+      "generated": "I urgently require access to an ATM."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I was charged the wing amount for an item.",
+      "generated": "I was overcharged for the item, and the amount doesn't match the expected exchange rate."
+    }
+  ]
+}

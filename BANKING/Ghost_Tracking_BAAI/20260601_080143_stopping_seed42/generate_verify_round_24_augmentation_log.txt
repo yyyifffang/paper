@@ -1,0 +1,71 @@
+GEN | [passcode_forgotten] | Orig: I'm locked out of my account as I can't remember my code, what do I do now? -> Aug: I've forgotten my passcode and can't access my account, what should I do to regain access?
+GEN | [card_not_working] | Orig: Did you deactivate my card it's not working anymore -> Aug: Is my card still active? It's not functioning properly.
+GEN | [passcode_forgotten] | Orig: I forgot my code -> Aug: I've misplaced my passcode
+GEN | [why_verify_identity] | Orig: If my identy verifacation hasn't gone through can I use my account? -> Aug: If my identity verification process hasn't been completed, can I still access my account?
+GEN | [transfer_not_received_by_recipient] | Orig: How can I the person see my money transaction? -> Aug: Why hasn't the recipient received my money transfer?
+GEN | [direct_debit_payment_not_recognised] | Orig: Why is there a direct debit set up in my name? -> Aug: We've noticed a direct debit payment that doesn't seem to be recognized in your account records.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Where is my cash deposit in my balance? -> Aug: Why hasn't my account balance been updated to reflect the cash deposit I made?
+GEN | [transfer_not_received_by_recipient] | Orig: Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out? -> Aug: I made a transfer to my landlord a few days ago, but he's telling me he didn't receive it. I've double-checked the account number and it's correct. Can you assist me in resolving this issue?
+GEN | [card_not_working] | Orig: Why doesn't my card work for any transactions? -> Aug: Why is my card unable to process any transactions?
+GEN | [card_delivery_estimate] | Orig: are you sending me my card? -> Aug: Can you confirm when I can expect to receive my card?
+GEN | [fiat_currency_support] | Orig: Will you be adding more currencies in the future? -> Aug: Are there any plans to expand the list of supported fiat currencies in the future?
+GEN | [passcode_forgotten] | Orig: I can't log in -> Aug: I'm having trouble accessing my account because I've forgotten my passcode.
+GEN | [card_payment_not_recognised] | Orig: I don't think I made this transaction on my statement -> Aug: I'm not sure if I authorized this payment on my recent statement.
+GEN | [passcode_forgotten] | Orig: I can't log in with this passocde -> Aug: I'm having trouble accessing my account because I've forgotten my passcode.
+GEN | [card_arrival] | Orig: Where is my credit card that was to be mailed? -> Aug: When can I expect to receive my credit card, which was supposed to be sent to me?
+GEN | [card_payment_not_recognised] | Orig: I need to know where this charge is coming from? -> Aug: I'm trying to figure out where this payment is coming from.
+GEN | [edit_personal_details] | Orig: I just got married and need to change my name on the account -> Aug: I recently got married and would like to update my personal information to reflect my new married name.
+GEN | [apple_pay_or_google_pay] | Orig: what can I do if I got my American Express in Apple Bay but top up is not working? -> Aug: What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?
+GEN | [passcode_forgotten] | Orig: Can you lookup my password? -> Aug: Can you retrieve my forgotten passcode?
+GEN | [verify_source_of_funds] | Orig: Where is my top-up generated from? -> Aug: Can you please confirm the source of the funds used for the recent top-up?
+GEN | [verify_source_of_funds] | Orig: where are the transfers originating -> Aug: what is the source of the funds being transferred
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Dude I put money in the ATM last week but it ain't there! I need the money now figure this out! -> Aug: I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?
+GEN | [declined_cash_withdrawal] | Orig: I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this? -> Aug: I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?
+GEN | [pin_blocked] | Orig: My card got blocked, how do I reset? -> Aug: My PIN has been blocked, what's the process to unblock it?
+GEN | [getting_spare_card] | Orig: How many active cards can I have? -> Aug: How many spare cards can I have issued to me?
+GEN | [country_support] | Orig: Although I am not located in the UK area, may i still receive a card? -> Aug: Despite not being based in the UK, can I still obtain a card?
+GEN | [card_not_working] | Orig: I am unable to use my card. -> Aug: I'm having trouble using my card.
+GEN | [declined_cash_withdrawal] | Orig: Why can I not take out cash? -> Aug: Why was my cash withdrawal request denied?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Please check to see if the band transfer I made a while ago from my UK account has safely arrived. -> Aug: Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination.
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're planning to establish a savings plan for my child's future education expenses.
+GEN | [apple_pay_or_google_pay] | Orig: I seem to be having trouble with my Google Pay Top. Can you please help? -> Aug: I'm experiencing an issue with my Apple Pay account. Can you assist me with that?
+GEN | [card_payment_wrong_exchange_rate] | Orig: my exchange rate looks wrong for my last payment -> Aug: The exchange rate used for my recent transaction appears to be incorrect.
+GEN | [edit_personal_details] | Orig: I need to change my data. -> Aug: I'd like to update my personal information.
+GEN | [top_up_by_card_charge] | Orig: Will you assess me more fees if I top up with an international card? -> Aug: Will you charge me extra fees if I make a payment using an international credit/debit card?
+GEN | [transfer_timing] | Orig: How long do I have to wait for Europe transfers? -> Aug: What is the typical timeframe for international transfers to Europe?
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I'm locked out of my account as I can't remember my code, what do I do now? | Augmented: I've forgotten my passcode and can't access my account, what should I do to regain access?
+VAL | [card_not_working] | REVIEW | Reason: N/A | Original: Did you deactivate my card it's not working anymore | Augmented: Is my card still active? It's not functioning properly.
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I forgot my code | Augmented: I've misplaced my passcode
+VAL | [why_verify_identity] | ACCEPT | Reason: ... | Original: If my identy verifacation hasn't gone through can I use my account? | Augmented: If my identity verification process hasn't been completed, can I still access my account?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: How can I the person see my money transaction? | Augmented: Why hasn't the recipient received my money transfer?
+VAL | [direct_debit_payment_not_recognised] | UNKNOWN | Reason: N/A | Original: Why is there a direct debit set up in my name? | Augmented: We've noticed a direct debit payment that doesn't seem to be recognized in your account records.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: ... | Original: Where is my cash deposit in my balance? | Augmented: Why hasn't my account balance been updated to reflect the cash deposit I made?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: ... | Original: Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out? | Augmented: I made a transfer to my landlord a few days ago, but he's telling me he didn't receive it. I've double-checked the account number and it's correct. Can you assist me in resolving this issue?
+VAL | [card_not_working] | ACCEPT | Reason: ... | Original: Why doesn't my card work for any transactions? | Augmented: Why is my card unable to process any transactions?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: are you sending me my card? | Augmented: Can you confirm when I can expect to receive my card?
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: Will you be adding more currencies in the future? | Augmented: Are there any plans to expand the list of supported fiat currencies in the future?
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I can't log in | Augmented: I'm having trouble accessing my account because I've forgotten my passcode.
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I don't think I made this transaction on my statement | Augmented: I'm not sure if I authorized this payment on my recent statement.
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I can't log in with this passocde | Augmented: I'm having trouble accessing my account because I've forgotten my passcode.
+VAL | [card_arrival] | ACCEPT | Reason: ... | Original: Where is my credit card that was to be mailed? | Augmented: When can I expect to receive my credit card, which was supposed to be sent to me?
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I need to know where this charge is coming from? | Augmented: I'm trying to figure out where this payment is coming from.
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: I just got married and need to change my name on the account | Augmented: I recently got married and would like to update my personal information to reflect my new married name.
+VAL | [apple_pay_or_google_pay] | ACCEPT | Reason: N/A | Original: what can I do if I got my American Express in Apple Bay but top up is not working? | Augmented: What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: Can you lookup my password? | Augmented: Can you retrieve my forgotten passcode?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: ... | Original: Where is my top-up generated from? | Augmented: Can you please confirm the source of the funds used for the recent top-up?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: ... | Original: where are the transfers originating | Augmented: what is the source of the funds being transferred
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: The augmented text preserves the same issue of a deposit not updating the account balance, which aligns with the target intent. It is specific about the timing (last week) and the method (ATM), and it seeks assistance, which is consistent with the original text. | Original: Dude I put money in the ATM last week but it ain't there! I need the money now figure this out! | Augmented: I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?
+VAL | [declined_cash_withdrawal] | UNKNOWN | Reason: N/A | Original: I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this? | Augmented: I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: My card got blocked, how do I reset? | Augmented: My PIN has been blocked, what's the process to unblock it?
+VAL | [getting_spare_card] | REJECT | Reason: N/A | Original: How many active cards can I have? | Augmented: How many spare cards can I have issued to me?
+VAL | [country_support] | ACCEPT | Reason: ... | Original: Although I am not located in the UK area, may i still receive a card? | Augmented: Despite not being based in the UK, can I still obtain a card?
+VAL | [card_not_working] | ACCEPT | Reason: ... | Original: I am unable to use my card. | Augmented: I'm having trouble using my card.
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: ... | Original: Why can I not take out cash? | Augmented: Why was my cash withdrawal request denied?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: Please check to see if the band transfer I made a while ago from my UK account has safely arrived. | Augmented: Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: We want to start a college fund for my daughter. | Augmented: We're planning to establish a savings plan for my child's future education expenses.
+VAL | [apple_pay_or_google_pay] | UNKNOWN | Reason: N/A | Original: I seem to be having trouble with my Google Pay Top. Can you please help? | Augmented: I'm experiencing an issue with my Apple Pay account. Can you assist me with that?
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: ... | Original: my exchange rate looks wrong for my last payment | Augmented: The exchange rate used for my recent transaction appears to be incorrect.
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: I need to change my data. | Augmented: I'd like to update my personal information.
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: ... | Original: Will you assess me more fees if I top up with an international card? | Augmented: Will you charge me extra fees if I make a payment using an international credit/debit card?
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: How long do I have to wait for Europe transfers? | Augmented: What is the typical timeframe for international transfers to Europe?
+VAL_SUMMARY | ACCEPT: 30 | REVIEW: 1 | REJECT: 1 | UNKNOWN: 3 | Accept Rate: 0.8571

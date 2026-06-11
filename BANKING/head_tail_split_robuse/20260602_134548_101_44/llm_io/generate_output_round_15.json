@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "information needs to be updated",
+    "My card requires a recharge.",
+    "Are there any digital cards available instead of traditional physical cards?",
+    "How do you receive your physical credit cards?",
+    "What should I do if I reach the maximum number of PIN attempts allowed?",
+    "I shouldn't be charged a fee if my credit card was stolen.",
+    "Can you provide an estimated delivery date for the card?",
+    "Can I initiate transactions before completing the identity verification process?",
+    "How can I use my debit or credit card for payment?",
+    "Are physical cards a fee-based service?",
+    "can I allow others to use the app to deposit funds into my account using their card?",
+    "I was charged a fee for using my card to make the payment.",
+    "The exchange rate applied to my card payment appears to be inaccurate.",
+    "I've forgotten the passcode for the mobile banking app.",
+    "Are there any fees associated with transferring funds to my account?",
+    "What methods are available for depositing funds into my account using my American Express card?",
+    "I require a large quantity of disposable cards daily, and I'd like the ability to discard them as needed.",
+    "How much does the bank charge for issuing a new physical card if my original one is lost or stolen?",
+    "I'm wondering if there's a fee associated with adding funds to my card?",
+    "I've forgotten my passcode and need a new one",
+    "Who is eligible to make a card-based account top-up for me?",
+    "Is it possible to make an online payment using my credit/debit card?",
+    "I'd like to request an expedited delivery for my card.",
+    "How can I confirm the details of my top-up card?",
+    "Are there any exceptions or waivers for card payment fees?",
+    "I require assistance with topping up my account using cash.",
+    "How can I add funds to my account using my card?",
+    "what steps do i need to take to access my account and modify my personal information?",
+    "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.",
+    "What should I do if I already have an existing card linked with your bank?",
+    "my apple pay is malfunctioning",
+    "I've misplaced my passcode",
+    "I'd like to modify my personal information.",
+    "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge.",
+    "I'm concerned that someone has compromised my card information, as I've noticed an unauthorized transaction on my app from a location that's not near my usual shopping spots. I'm counting on getting that refund to cover my rent payment.",
+    "I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?",
+    "I'd like to receive my card as soon as possible.",
+    "Can someone else add funds to my account using my card?"
+  ],
+  "generated_labels": [
+    30,
+    62,
+    40,
+    43,
+    49,
+    41,
+    12,
+    74,
+    10,
+    43,
+    62,
+    15,
+    17,
+    44,
+    56,
+    54,
+    29,
+    43,
+    57,
+    44,
+    62,
+    10,
+    12,
+    71,
+    15,
+    58,
+    62,
+    30,
+    22,
+    13,
+    2,
+    44,
+    30,
+    63,
+    28,
+    22,
+    12,
+    62
+  ],
+  "source_texts": [
+    "details need to be modified",
+    "My card needs to be topped up.",
+    "And do you have virtual cards instead of physical ones?",
+    "Where do you export the cards to?",
+    "What should I do if I exceed my PIN tries?",
+    "A fee shouldn't apply to me if my card was stolen.",
+    "Can I have it by a certain date?",
+    "Can i make transactions before identity verification?",
+    "Where do I pay with my debit or credit card?",
+    "Do physical cards cost money?",
+    "can other people use the app to add money to my account",
+    "I had to pay money for paying with my card.",
+    "It seems that the rate I got is incorrect.",
+    "I don't know the code for the app.",
+    "Is there a charge for getting my money?",
+    "How can I get funds into my account from my American Express?",
+    "I need several cards per day. And I need to be able to throw away all of the cards I make.",
+    "What does the bank charge for lost or stolen card replacements?",
+    "I topped off my card is that something you will charge me for?",
+    "I need a new login code",
+    "Who can have access to top up my account?",
+    "Can I pay online with my card?",
+    "i need to expedite my card",
+    "How do i secure a top-up card?",
+    "Is there an allowance on cards?",
+    "I need a hand here, I need to top up cash.",
+    "My friends would like to add to my account. What is the procedure?",
+    "how do i get into my account and edit my details",
+    "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+    "What do I do if I already had a card with you guys?",
+    "my google pay seems to be acting up.",
+    "I can't find my code",
+    "I need to update my demographics.",
+    "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+    "hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent.",
+    "I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more?",
+    "I need my card as quick as possible",
+    "Can somebody else top up my account?"
+  ],
+  "records": [
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "details need to be modified",
+      "generated": "information needs to be updated"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My card needs to be topped up.",
+      "generated": "My card requires a recharge."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "And do you have virtual cards instead of physical ones?",
+      "generated": "Are there any digital cards available instead of traditional physical cards?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Where do you export the cards to?",
+      "generated": "How do you receive your physical credit cards?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "What should I do if I exceed my PIN tries?",
+      "generated": "What should I do if I reach the maximum number of PIN attempts allowed?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "A fee shouldn't apply to me if my card was stolen.",
+      "generated": "I shouldn't be charged a fee if my credit card was stolen."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I have it by a certain date?",
+      "generated": "Can you provide an estimated delivery date for the card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can i make transactions before identity verification?",
+      "generated": "Can I initiate transactions before completing the identity verification process?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my debit or credit card?",
+      "generated": "How can I use my debit or credit card for payment?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do physical cards cost money?",
+      "generated": "Are physical cards a fee-based service?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "can other people use the app to add money to my account",
+      "generated": "can I allow others to use the app to deposit funds into my account using their card?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I had to pay money for paying with my card.",
+      "generated": "I was charged a fee for using my card to make the payment."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "It seems that the rate I got is incorrect.",
+      "generated": "The exchange rate applied to my card payment appears to be inaccurate."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I don't know the code for the app.",
+      "generated": "I've forgotten the passcode for the mobile banking app."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a charge for getting my money?",
+      "generated": "Are there any fees associated with transferring funds to my account?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "How can I get funds into my account from my American Express?",
+      "generated": "What methods are available for depositing funds into my account using my American Express card?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "I need several cards per day. And I need to be able to throw away all of the cards I make.",
+      "generated": "I require a large quantity of disposable cards daily, and I'd like the ability to discard them as needed."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What does the bank charge for lost or stolen card replacements?",
+      "generated": "How much does the bank charge for issuing a new physical card if my original one is lost or stolen?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I topped off my card is that something you will charge me for?",
+      "generated": "I'm wondering if there's a fee associated with adding funds to my card?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I need a new login code",
+      "generated": "I've forgotten my passcode and need a new one"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Who can have access to top up my account?",
+      "generated": "Who is eligible to make a card-based account top-up for me?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I pay online with my card?",
+      "generated": "Is it possible to make an online payment using my credit/debit card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i need to expedite my card",
+      "generated": "I'd like to request an expedited delivery for my card."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "How do i secure a top-up card?",
+      "generated": "How can I confirm the details of my top-up card?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Is there an allowance on cards?",
+      "generated": "Are there any exceptions or waivers for card payment fees?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I need a hand here, I need to top up cash.",
+      "generated": "I require assistance with topping up my account using cash."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My friends would like to add to my account. What is the procedure?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "how do i get into my account and edit my details",
+      "generated": "what steps do i need to take to access my account and modify my personal information?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+      "generated": "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "What do I do if I already had a card with you guys?",
+      "generated": "What should I do if I already have an existing card linked with your bank?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "my google pay seems to be acting up.",
+      "generated": "my apple pay is malfunctioning"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't find my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I need to update my demographics.",
+      "generated": "I'd like to modify my personal information."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+      "generated": "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent.",
+      "generated": "I'm concerned that someone has compromised my card information, as I've noticed an unauthorized transaction on my app from a location that's not near my usual shopping spots. I'm counting on getting that refund to cover my rent payment."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more?",
+      "generated": "I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card as quick as possible",
+      "generated": "I'd like to receive my card as soon as possible."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can somebody else top up my account?",
+      "generated": "Can someone else add funds to my account using my card?"
+    }
+  ]
+}

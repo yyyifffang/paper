@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "The rate used for the foreign currency conversion was incorrect, resulting in an unexpected amount being charged to my card.",
+    "Is my new card ready for use?",
+    "Do I need to pay an additional fee to exchange currency?",
+    "I'm still waiting for my domestic transfer to be credited to the recipient's account. I double-checked the account details a few days ago, but the payment hasn't been processed yet.",
+    "I need a replacement card",
+    "I'm having trouble using my card.",
+    "Can I get a new card? I'd like to purchase an additional one.",
+    "Could you please let me know when I can expect my new card to arrive?",
+    "I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?",
+    "I'm having an issue with a transfer I made, and I'm wondering if you can assist me. I've confirmed that I sent the payment to the correct account, but the recipient claims they haven't received it, despite it showing as complete on my end.",
+    "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?",
+    "How do I go about terminating a transfer I initiated earlier?",
+    "I'm experiencing issues with my physical credit card.",
+    "Can I make changes to my personal information?",
+    "Can I continue to use my credit card after its expiration date?",
+    "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?",
+    "How can I stop a pending transfer?",
+    "what is the charge for topping up my account using my card?",
+    "My card balance isn't showing the recent top-up.",
+    "What's the typical timeframe for processing my transfer?",
+    "Can I check the status of my card delivery?",
+    "I'm still waiting to receive my virtual card.",
+    "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?",
+    "When can I expect to receive my virtual card after ordering it?",
+    "Why hasn't my account balance been updated after the recent bank transfer?",
+    "what's the estimated timeframe for processing new contactless payment cards?",
+    "I believe I've been incorrectly billed for a transfer fee.",
+    "What types of fiat currencies can I store in my account?",
+    "How often can I increase my limits through top-ups?",
+    "Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?",
+    "Can others deposit funds into my account or transfer money to me?",
+    "Can you assist me? My physical bank card is malfunctioning.",
+    "May I request a physical version of my digital card?",
+    "Can my friend transfer funds to me in a currency other than US dollars?",
+    "Is there a fee for topping up my account via bank transfer?",
+    "How can I get my physical card to function properly?",
+    "I require a replacement card and I am a resident of the United States.",
+    "I'm still waiting for my virtual card to be issued"
+  ],
+  "generated_labels": [
+    17,
+    0,
+    31,
+    66,
+    39,
+    14,
+    39,
+    11,
+    66,
+    66,
+    40,
+    8,
+    14,
+    30,
+    9,
+    5,
+    8,
+    57,
+    62,
+    67,
+    11,
+    40,
+    64,
+    40,
+    5,
+    23,
+    64,
+    36,
+    60,
+    29,
+    50,
+    14,
+    43,
+    50,
+    56,
+    14,
+    24,
+    40
+  ],
+  "source_texts": [
+    "Why was the exchange wrong for the item I purchased?",
+    "Can I use my new card?",
+    "Will I have to pay extra to exchange money?",
+    "Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet.",
+    "I want a new card",
+    "I am unable to use my card.",
+    "How much is it to buy another card? I was hoping to buy another one.",
+    "Can I get an update on my replacement card?",
+    "Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?",
+    "Could you please help me?  I made my rent payment and have double checked that I sent it to the right account.  The person receiving it says he has not received it but it shows complete on my side.",
+    "I haven't received my virtual card yet, do yo know why?",
+    "What are the steps I need to take to cancel a transaction?",
+    "I am having problems with my physical card.",
+    "Am I able to modify my account details?",
+    "Can I keep using my card after it expires?",
+    "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+    "How do i cancel a charge?",
+    "how much does it cost to add money",
+    "My top up isn't in my wallet.",
+    "How long does it take to get my money",
+    "Is there a way to track my card?",
+    "I haven't received my virtual card yet!!",
+    "I usually don't get charged for transfers, why was I this month?",
+    "How long do you have to wait to see your virtual card your ordered?",
+    "Why is  my balance not updated?",
+    "how many days processing new card?",
+    "I think I have an extra transfer charge.",
+    "What kind of money can I hold?",
+    "How many times can I make a top-up?",
+    "A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?",
+    "Are there ways for other people to send me money?",
+    "Please help me!  My physical card isn't working right.",
+    "Can I have a tangible form of my virtual card.",
+    "Can my friend send me money if it is not in US dollars?",
+    "Does it cost me to add cash?",
+    "What can I do to make my physical card work?",
+    "I need a new card and I live in the United States.",
+    "I ordered a virtual card but it hasn't come through yet"
+  ],
+  "records": [
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why was the exchange wrong for the item I purchased?",
+      "generated": "The rate used for the foreign currency conversion was incorrect, resulting in an unexpected amount being charged to my card."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Can I use my new card?",
+      "generated": "Is my new card ready for use?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Will I have to pay extra to exchange money?",
+      "generated": "Do I need to pay an additional fee to exchange currency?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet.",
+      "generated": "I'm still waiting for my domestic transfer to be credited to the recipient's account. I double-checked the account details a few days ago, but the payment hasn't been processed yet."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I want a new card",
+      "generated": "I need a replacement card"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I am unable to use my card.",
+      "generated": "I'm having trouble using my card."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How much is it to buy another card? I was hoping to buy another one.",
+      "generated": "Can I get a new card? I'd like to purchase an additional one."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Can I get an update on my replacement card?",
+      "generated": "Could you please let me know when I can expect my new card to arrive?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?",
+      "generated": "I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Could you please help me?  I made my rent payment and have double checked that I sent it to the right account.  The person receiving it says he has not received it but it shows complete on my side.",
+      "generated": "I'm having an issue with a transfer I made, and I'm wondering if you can assist me. I've confirmed that I sent the payment to the correct account, but the recipient claims they haven't received it, despite it showing as complete on my end."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I haven't received my virtual card yet, do yo know why?",
+      "generated": "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "What are the steps I need to take to cancel a transaction?",
+      "generated": "How do I go about terminating a transfer I initiated earlier?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I am having problems with my physical card.",
+      "generated": "I'm experiencing issues with my physical credit card."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Am I able to modify my account details?",
+      "generated": "Can I make changes to my personal information?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I keep using my card after it expires?",
+      "generated": "Can I continue to use my credit card after its expiration date?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+      "generated": "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "How do i cancel a charge?",
+      "generated": "How can I stop a pending transfer?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how much does it cost to add money",
+      "generated": "what is the charge for topping up my account using my card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My top up isn't in my wallet.",
+      "generated": "My card balance isn't showing the recent top-up."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take to get my money",
+      "generated": "What's the typical timeframe for processing my transfer?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Is there a way to track my card?",
+      "generated": "Can I check the status of my card delivery?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I haven't received my virtual card yet!!",
+      "generated": "I'm still waiting to receive my virtual card."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I usually don't get charged for transfers, why was I this month?",
+      "generated": "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "How long do you have to wait to see your virtual card your ordered?",
+      "generated": "When can I expect to receive my virtual card after ordering it?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why is  my balance not updated?",
+      "generated": "Why hasn't my account balance been updated after the recent bank transfer?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "how many days processing new card?",
+      "generated": "what's the estimated timeframe for processing new contactless payment cards?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I think I have an extra transfer charge.",
+      "generated": "I believe I've been incorrectly billed for a transfer fee."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What kind of money can I hold?",
+      "generated": "What types of fiat currencies can I store in my account?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How many times can I make a top-up?",
+      "generated": "How often can I increase my limits through top-ups?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?",
+      "generated": "Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Are there ways for other people to send me money?",
+      "generated": "Can others deposit funds into my account or transfer money to me?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Please help me!  My physical card isn't working right.",
+      "generated": "Can you assist me? My physical bank card is malfunctioning."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can I have a tangible form of my virtual card.",
+      "generated": "May I request a physical version of my digital card?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can my friend send me money if it is not in US dollars?",
+      "generated": "Can my friend transfer funds to me in a currency other than US dollars?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Does it cost me to add cash?",
+      "generated": "Is there a fee for topping up my account via bank transfer?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What can I do to make my physical card work?",
+      "generated": "How can I get my physical card to function properly?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I need a new card and I live in the United States.",
+      "generated": "I require a replacement card and I am a resident of the United States."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I ordered a virtual card but it hasn't come through yet",
+      "generated": "I'm still waiting for my virtual card to be issued"
+    }
+  ]
+}

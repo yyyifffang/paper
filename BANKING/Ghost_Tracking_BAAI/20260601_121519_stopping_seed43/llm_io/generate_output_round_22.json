@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "We've received a payment attempt from your debit card, but it's not being recognized.",
+    "The system is unable to confirm your identity.",
+    "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?",
+    "The system is unable to confirm that the user is the account holder.",
+    "We're having trouble confirming your identity, and we need a bit more time to complete the verification process.",
+    "What is the verification code for the top-up process?",
+    "What are the details about my limit for making top-ups?",
+    "My card balance isn't showing the recent top-up.",
+    "I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?",
+    "I'm still waiting to receive my virtual card.",
+    "Could you provide a discount for me, as I regularly need to exchange currencies?",
+    "My account statement displays conflicting transaction timestamps.",
+    "I'm having an issue with a transfer I made, and I'm wondering if you can assist me. I've confirmed that I sent the payment to the correct account, but the recipient claims they haven't received it, despite it showing as complete on my end.",
+    "Can I obtain a Mastercard from you instead?",
+    "Can I reactivate my existing card or do I need to request a new one for use with the app?",
+    "We're experiencing technical difficulties, and our system is unable to recognize your identity.",
+    "We're having trouble confirming your identity through our system.",
+    "to confirm my account information",
+    "I'd like to terminate my recent purchase and initiate a refund process.",
+    "I made a purchase and settled the payment, but the item is still missing.",
+    "Can you walk me through the process of verifying my identity?",
+    "Can you help me understand why my online transactions are being declined, even though my card payment is initially accepted, only to be reversed later?",
+    "I'd like to obtain a Mastercard",
+    "I haven't received my card within a week. Should I be concerned?",
+    "My phone was stolen and I'm wondering if I can still access this app.",
+    "Can I modify my PIN at any ATM location?",
+    "I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully",
+    "When will the transfer be processed and reflected in my account balance?",
+    "When can I expect to receive my credit card, which was supposed to be sent to me?",
+    "I'm planning a trip and need to convert some currency. Can I exchange my money for Euros through the app?",
+    "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now.",
+    "I'm not seeing any update to my account balance.",
+    "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?",
+    "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?",
+    "The system is unable to confirm your identity.",
+    "What kind of payment card will I be issued?",
+    "I'm concerned about a payment I made to my new landlord. Although it's reflected in my account, they're claiming they haven't received it. Can you confirm that the transfer has been successfully processed?"
+  ],
+  "generated_labels": [
+    28,
+    68,
+    40,
+    68,
+    68,
+    71,
+    60,
+    62,
+    7,
+    40,
+    31,
+    63,
+    66,
+    73,
+    13,
+    68,
+    68,
+    74,
+    52,
+    53,
+    69,
+    53,
+    73,
+    11,
+    42,
+    21,
+    62,
+    48,
+    11,
+    33,
+    15,
+    5,
+    76,
+    2,
+    68,
+    73,
+    66
+  ],
+  "source_texts": [
+    "People are using my debit card - help!",
+    "The app does not know it is me.",
+    "I haven't received my virtual card yet, do yo know why?",
+    "The app is not able to realize that it is me.",
+    "How long will it take to verify my account?",
+    "What is the top up code for?",
+    "How can I information on my limit for top-ups?",
+    "My top up isn't in my wallet.",
+    "Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong?",
+    "I haven't received my virtual card yet!!",
+    "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+    "My statement shows different transaction times.",
+    "Could you please help me?  I made my rent payment and have double checked that I sent it to the right account.  The person receiving it says he has not received it but it shows complete on my side.",
+    "Can I get a Visa from you?",
+    "Will I need a new card or can I put my old card back into the app?",
+    "app malfunctioning, does not know its me",
+    "The app doesn't think it's me.",
+    "what I need to verify my account",
+    "Canceling my order is what I need to do right now.",
+    "I bought something and already paid for it but now I don't see it.",
+    "Let me know what the steps for the identity checks are",
+    "Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.",
+    "I want to get a Visa",
+    "I don't have my card in 1 week.  Should I be worried?",
+    "My things were stolen and I need to know if I can still use this app.",
+    "Can I change my in at all ATM's?",
+    "I tried topping off my account with a card, but the money is not in my account despite the charge going through",
+    "When will the transaction post to my account?",
+    "Where is my credit card that was to be mailed?",
+    "I need to get some Euros for my holiday. Am I able to exchange some of my money?",
+    "i have used my card online before and wasn't charged, why am i charged now",
+    "I don't see any change in my balance.",
+    "Can you check the exchange rate on a cash transaction I did overseas",
+    "what can I do if I got my American Express in Apple Bay but top up is not working?",
+    "The app doesn't believe its me.",
+    "What type of card will I receive?",
+    "I need to verify a payment to my new landlord. I transferred the first rent payment a few days ago. While it shows on my side, the landlord is saying he hasn't received it yet. Can you verify that it has processed?"
+  ],
+  "records": [
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "People are using my debit card - help!",
+      "generated": "We've received a payment attempt from your debit card, but it's not being recognized."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app does not know it is me.",
+      "generated": "The system is unable to confirm your identity."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I haven't received my virtual card yet, do yo know why?",
+      "generated": "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app is not able to realize that it is me.",
+      "generated": "The system is unable to confirm that the user is the account holder."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "How long will it take to verify my account?",
+      "generated": "We're having trouble confirming your identity, and we need a bit more time to complete the verification process."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What is the top up code for?",
+      "generated": "What is the verification code for the top-up process?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How can I information on my limit for top-ups?",
+      "generated": "What are the details about my limit for making top-ups?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My top up isn't in my wallet.",
+      "generated": "My card balance isn't showing the recent top-up."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong?",
+      "generated": "I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I haven't received my virtual card yet!!",
+      "generated": "I'm still waiting to receive my virtual card."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+      "generated": "Could you provide a discount for me, as I regularly need to exchange currencies?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My statement shows different transaction times.",
+      "generated": "My account statement displays conflicting transaction timestamps."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Could you please help me?  I made my rent payment and have double checked that I sent it to the right account.  The person receiving it says he has not received it but it shows complete on my side.",
+      "generated": "I'm having an issue with a transfer I made, and I'm wondering if you can assist me. I've confirmed that I sent the payment to the correct account, but the recipient claims they haven't received it, despite it showing as complete on my end."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get a Visa from you?",
+      "generated": "Can I obtain a Mastercard from you instead?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Will I need a new card or can I put my old card back into the app?",
+      "generated": "Can I reactivate my existing card or do I need to request a new one for use with the app?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "app malfunctioning, does not know its me",
+      "generated": "We're experiencing technical difficulties, and our system is unable to recognize your identity."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't think it's me.",
+      "generated": "We're having trouble confirming your identity through our system."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "what I need to verify my account",
+      "generated": "to confirm my account information"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Canceling my order is what I need to do right now.",
+      "generated": "I'd like to terminate my recent purchase and initiate a refund process."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I bought something and already paid for it but now I don't see it.",
+      "generated": "I made a purchase and settled the payment, but the item is still missing."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Let me know what the steps for the identity checks are",
+      "generated": "Can you walk me through the process of verifying my identity?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.",
+      "generated": "Can you help me understand why my online transactions are being declined, even though my card payment is initially accepted, only to be reversed later?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I want to get a Visa",
+      "generated": "I'd like to obtain a Mastercard"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I don't have my card in 1 week.  Should I be worried?",
+      "generated": "I haven't received my card within a week. Should I be concerned?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "My things were stolen and I need to know if I can still use this app.",
+      "generated": "My phone was stolen and I'm wondering if I can still access this app."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my in at all ATM's?",
+      "generated": "Can I modify my PIN at any ATM location?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I tried topping off my account with a card, but the money is not in my account despite the charge going through",
+      "generated": "I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "When will the transaction post to my account?",
+      "generated": "When will the transfer be processed and reflected in my account balance?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Where is my credit card that was to be mailed?",
+      "generated": "When can I expect to receive my credit card, which was supposed to be sent to me?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I need to get some Euros for my holiday. Am I able to exchange some of my money?",
+      "generated": "I'm planning a trip and need to convert some currency. Can I exchange my money for Euros through the app?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "i have used my card online before and wasn't charged, why am i charged now",
+      "generated": "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I don't see any change in my balance.",
+      "generated": "I'm not seeing any update to my account balance."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can you check the exchange rate on a cash transaction I did overseas",
+      "generated": "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "what can I do if I got my American Express in Apple Bay but top up is not working?",
+      "generated": "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't believe its me.",
+      "generated": "The system is unable to confirm your identity."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "What type of card will I receive?",
+      "generated": "What kind of payment card will I be issued?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I need to verify a payment to my new landlord. I transferred the first rent payment a few days ago. While it shows on my side, the landlord is saying he hasn't received it yet. Can you verify that it has processed?",
+      "generated": "I'm concerned about a payment I made to my new landlord. Although it's reflected in my account, they're claiming they haven't received it. Can you confirm that the transfer has been successfully processed?"
+    }
+  ]
+}

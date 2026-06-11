@@ -1,0 +1,67 @@
+GEN | [top_up_limits] | Orig: What is the daily limit on my card? -> Aug: What is the daily spending limit on my credit card?
+GEN | [declined_card_payment] | Orig: Hi, is everything in good standing with my card? I am receiving multiple "decline" messages. -> Aug: Hi, I'm getting a few "decline" notifications regarding my card. Is everything okay with my account?
+GEN | [automatic_top_up] | Orig: How low does the balance have to be before the system updates? -> Aug: At what point does the account balance need to reach before the automatic top-up feature kicks in?
+GEN | [card_not_working] | Orig: HOW LONG THE CARD VALIDITY -> Aug: What's the current status of my card's expiration date?
+GEN | [declined_transfer] | Orig: What does the decline message mean -> Aug: The transfer was not successfully processed due to an issue.
+GEN | [request_refund] | Orig: Can I exchange an item for a refund? -> Aug: May I return an item for a refund instead?
+GEN | [request_refund] | Orig: Are purchases returnable for full refund? -> Aug: Can I get a full refund for my purchase?
+GEN | [fiat_currency_support] | Orig: How can I solve my issue with holding multiple currencies? -> Aug: What steps can I take to resolve the problem of managing multiple fiat currencies?
+GEN | [request_refund] | Orig: Can you explain your refund policy, please? -> Aug: Could you provide information about your refund procedure?
+GEN | [transaction_charged_twice] | Orig: Why do I have two charges It should only be one charge? -> Aug: I've been charged twice for the same transaction, and I'm expecting only one charge.
+GEN | [wrong_amount_of_cash_received] | Orig: i asked for 100 only got 80 -> Aug: i requested $100, but I was given $80 instead
+GEN | [request_refund] | Orig: Can I have my money refunded for an item -> Aug: I'd like to request a refund for the item I purchased.
+GEN | [Refund_not_showing_up] | Orig: why cant you just refund me instead of a merchant -> Aug: why can't you simply process a refund for me instead of waiting for the merchant to initiate it?
+GEN | [direct_debit_payment_not_recognised] | Orig: I want a refund on a direct debit. -> Aug: I'm seeking a refund for a direct debit payment that hasn't been recognized.
+GEN | [Refund_not_showing_up] | Orig: how does my statement get updated so i know when a refund will reflect on my balance -> Aug: How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?
+GEN | [request_refund] | Orig: Can you help me process a refund? -> Aug: I'd like to initiate a refund procedure, please.
+GEN | [request_refund] | Orig: Are refunds allowed for certain items. -> Aug: Can I get a refund for specific products?
+GEN | [request_refund] | Orig: I want to know about your refund policy. -> Aug: I'd like to inquire about the process for requesting a refund.
+GEN | [virtual_card_not_working] | Orig: Why can't I make multiple payments with my virtual card? -> Aug: Why am I unable to process multiple transactions using my virtual card?
+GEN | [disposable_card_limits] | Orig: On my disposable card, is there a transaction limit? -> Aug: Can I know the spending limit on my disposable card?
+GEN | [request_refund] | Orig: Do you have a return policy? -> Aug: Can I initiate a return and request a refund?
+GEN | [request_refund] | Orig: How do I return something for a full refund? -> Aug: I'd like to initiate a full refund for the item I've purchased.
+GEN | [request_refund] | Orig: Would I be able to refund an item? -> Aug: Can I initiate a refund for the item?
+GEN | [request_refund] | Orig: How do I begin the process of a refund? -> Aug: What are the steps to initiate a refund?
+GEN | [virtual_card_not_working] | Orig: What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym? -> Aug: The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me.
+GEN | [cash_withdrawal_charge] | Orig: How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month. -> Aug: What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?
+GEN | [request_refund] | Orig: If I bought something I didn't like, can I get a refund? -> Aug: I'd like to inquire about returning an item and receiving a refund since I'm not satisfied with my purchase.
+GEN | [card_payment_not_recognised] | Orig: i disagree with a charge -> Aug: I'm disputing a transaction
+GEN | [request_refund] | Orig: Is it possible to get a refund? -> Aug: Can I request a refund?
+GEN | [Refund_not_showing_up] | Orig: I need my refund as soon as possible. What else do I have to do? -> Aug: I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?
+GEN | [request_refund] | Orig: Am I able to get a refund for something I bought? -> Aug: Can I request a refund for a purchase I made?
+GEN | [failed_transfer] | Orig: I have made 5 attempts to make a very standard survey, yet I can't get it to work. What is the problem? Is there an issue related to your system? -> Aug: I've tried multiple times to complete a routine transaction, but it keeps failing. Is there a technical issue with your platform that's preventing it from going through?
+GEN | [fiat_currency_support] | Orig: Does my account have the option to hold multiple currencies? -> Aug: Can I hold multiple types of fiat currencies in my account?
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: What is the daily limit on my card? | Augmented: What is the daily spending limit on my credit card?
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: Hi, is everything in good standing with my card? I am receiving multiple "decline" messages. | Augmented: Hi, I'm getting a few "decline" notifications regarding my card. Is everything okay with my account?
+VAL | [automatic_top_up] | ACCEPT | Reason: N/A | Original: How low does the balance have to be before the system updates? | Augmented: At what point does the account balance need to reach before the automatic top-up feature kicks in?
+VAL | [card_not_working] | UNKNOWN | Reason: N/A | Original: HOW LONG THE CARD VALIDITY | Augmented: What's the current status of my card's expiration date?
+VAL | [declined_transfer] | ACCEPT | Reason: N/A | Original: What does the decline message mean | Augmented: The transfer was not successfully processed due to an issue.
+VAL | [request_refund] | ACCEPT | Reason: N/A | Original: Can I exchange an item for a refund? | Augmented: May I return an item for a refund instead?
+VAL | [request_refund] | ACCEPT | Reason: Both texts are asking about the possibility of a full refund for a purchase, preserving the same intent. | Original: Are purchases returnable for full refund? | Augmented: Can I get a full refund for my purchase?
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: How can I solve my issue with holding multiple currencies? | Augmented: What steps can I take to resolve the problem of managing multiple fiat currencies?
+VAL | [request_refund] | ACCEPT | Reason: ... | Original: Can you explain your refund policy, please? | Augmented: Could you provide information about your refund procedure?
+VAL | [transaction_charged_twice] | ACCEPT | Reason: ... | Original: Why do I have two charges It should only be one charge? | Augmented: I've been charged twice for the same transaction, and I'm expecting only one charge.
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: i asked for 100 only got 80 | Augmented: i requested $100, but I was given $80 instead
+VAL | [request_refund] | ACCEPT | Reason: ... | Original: Can I have my money refunded for an item | Augmented: I'd like to request a refund for the item I purchased.
+VAL | [Refund_not_showing_up] | ACCEPT | Reason: N/A | Original: why cant you just refund me instead of a merchant | Augmented: why can't you simply process a refund for me instead of waiting for the merchant to initiate it?
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: ... | Original: I want a refund on a direct debit. | Augmented: I'm seeking a refund for a direct debit payment that hasn't been recognized.
+VAL | [Refund_not_showing_up] | REVIEW | Reason: ... | Original: how does my statement get updated so i know when a refund will reflect on my balance | Augmented: How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?
+VAL | [request_refund] | ACCEPT | Reason: ... | Original: Can you help me process a refund? | Augmented: I'd like to initiate a refund procedure, please.
+VAL | [request_refund] | ACCEPT | Reason: N/A | Original: Are refunds allowed for certain items. | Augmented: Can I get a refund for specific products?
+VAL | [request_refund] | ACCEPT | Reason: ... | Original: I want to know about your refund policy. | Augmented: I'd like to inquire about the process for requesting a refund.
+VAL | [virtual_card_not_working] | ACCEPT | Reason: ... | Original: Why can't I make multiple payments with my virtual card? | Augmented: Why am I unable to process multiple transactions using my virtual card?
+VAL | [disposable_card_limits] | ACCEPT | Reason: ... | Original: On my disposable card, is there a transaction limit? | Augmented: Can I know the spending limit on my disposable card?
+VAL | [request_refund] | ACCEPT | Reason: N/A | Original: Do you have a return policy? | Augmented: Can I initiate a return and request a refund?
+VAL | [request_refund] | ACCEPT | Reason: N/A | Original: How do I return something for a full refund? | Augmented: I'd like to initiate a full refund for the item I've purchased.
+VAL | [request_refund] | ACCEPT | Reason: ... | Original: Would I be able to refund an item? | Augmented: Can I initiate a refund for the item?
+VAL | [request_refund] | ACCEPT | Reason: Both texts are asking about the process to start a refund, preserving the target intent. | Original: How do I begin the process of a refund? | Augmented: What are the steps to initiate a refund?
+VAL | [virtual_card_not_working] | ACCEPT | Reason: ... | Original: What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym? | Augmented: The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me.
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: N/A | Original: How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month. | Augmented: What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?
+VAL | [request_refund] | ACCEPT | Reason: ... | Original: If I bought something I didn't like, can I get a refund? | Augmented: I'd like to inquire about returning an item and receiving a refund since I'm not satisfied with my purchase.
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: i disagree with a charge | Augmented: I'm disputing a transaction
+VAL | [request_refund] | ACCEPT | Reason: Both texts are seeking to understand the possibility of a refund, which is consistent with the target intent. | Original: Is it possible to get a refund? | Augmented: Can I request a refund?
+VAL | [Refund_not_showing_up] | ACCEPT | Reason: N/A | Original: I need my refund as soon as possible. What else do I have to do? | Augmented: I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?
+VAL | [request_refund] | ACCEPT | Reason: ... | Original: Am I able to get a refund for something I bought? | Augmented: Can I request a refund for a purchase I made?
+VAL | [failed_transfer] | ACCEPT | Reason: N/A | Original: I have made 5 attempts to make a very standard survey, yet I can't get it to work. What is the problem? Is there an issue related to your system? | Augmented: I've tried multiple times to complete a routine transaction, but it keeps failing. Is there a technical issue with your platform that's preventing it from going through?
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: Does my account have the option to hold multiple currencies? | Augmented: Can I hold multiple types of fiat currencies in my account?
+VAL_SUMMARY | ACCEPT: 31 | REVIEW: 1 | REJECT: 0 | UNKNOWN: 1 | Accept Rate: 0.9394

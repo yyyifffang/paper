@@ -1,0 +1,73 @@
+GEN | [pending_top_up] | Orig: I think something is wrong with your top up.  I've been waiting a little over an hour for this to go through, can you send it through for me? -> Aug: I'm having an issue with my top-up, and I've been waiting for over an hour for it to process. Could you please expedite it for me?
+GEN | [order_physical_card] | Orig: Does it cost anyting to get my own card? -> Aug: Is there a fee associated with ordering a physical card for myself?
+GEN | [extra_charge_on_statement] | Orig: $1 charge in transaction. -> Aug: A fee has been added to your statement.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: It has been a couple of hours but I do not see my balance updated, can you help? -> Aug: I've been waiting for a bit, but my account balance still hasn't reflected the recent transfer, could you assist me with this issue?
+GEN | [top_up_limits] | Orig: Can I use as many top-ups as I want? -> Aug: Can I make unlimited top-ups to my account limits?
+GEN | [top_up_limits] | Orig: Is the top-up amount unlimited? -> Aug: Can the top-up limit be increased without any restrictions?
+GEN | [card_swallowed] | Orig: Why did the ATM take my card and keep it? -> Aug: The ATM swallowed my card, and I want to know why it's holding onto it.
+GEN | [card_payment_not_recognised] | Orig: A random charge got added to my card -> Aug: A mysterious transaction appeared on my card statement
+GEN | [card_payment_wrong_exchange_rate] | Orig: I am being charged the wrong amount on my card. -> Aug: I'm being overcharged on my card transaction.
+GEN | [beneficiary_not_allowed] | Orig: Why is my beneficiary not working? -> Aug: Why is my designated recipient not functioning properly?
+GEN | [transfer_fee_charged] | Orig: I need to know how much it costs to transfer funds. -> Aug: I'd like to inquire about the transfer fee associated with moving funds.
+GEN | [pending_top_up] | Orig: Isn't my top-up supposed to mean its complete? -> Aug: Why hasn't my top-up been processed yet?
+GEN | [card_swallowed] | Orig: I didn't get my card back from the ATM. -> Aug: I failed to retrieve my card from the ATM.
+GEN | [top_up_by_card_charge] | Orig: Are their fee's for top ups? -> Aug: Are there any charges associated with making a top-up payment using my card?
+GEN | [top_up_limits] | Orig: How many top-ups can I use? -> Aug: How many limit increases can I perform?
+GEN | [top_up_failed] | Orig: I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly. -> Aug: I'm unable to access my funds. Could it be due to an issue with the recent top-up attempt? I'm certain I entered the details correctly.
+GEN | [supported_cards_and_currencies] | Orig: Can I use any card and currency? -> Aug: What types of cards and currencies do you support?
+GEN | [order_physical_card] | Orig: Card delivery services? Where? -> Aug: How do I get my physical card delivered?
+GEN | [order_physical_card] | Orig: How to order my card? -> Aug: How can I place an order for a physical card?
+GEN | [card_payment_fee_charged] | Orig: Please tell me why I was charged additionally when I used the card. -> Aug: Please explain why I was assessed an extra fee when I made the payment using my card.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Why didn't the money I transferred into my account get added to my balance? -> Aug: Why hasn't my account balance been updated after I made a transfer from another bank account?
+GEN | [pending_top_up] | Orig: How long after a failed topup will funds refurn to account -> Aug: When will the funds be returned to my account after a failed top-up attempt?
+GEN | [order_physical_card] | Orig: What's the procedure for getting a card? -> Aug: How do I obtain a physical bank card?
+GEN | [declined_card_payment] | Orig: My card couldn't pay in a shop. -> Aug: My payment was declined at a store.
+GEN | [top_up_by_cash_or_cheque] | Orig: Is there somewhere I can send a check to add to my account? -> Aug: Can I send a check to deposit funds into my account?
+GEN | [verify_source_of_funds] | Orig: Can I see where my money is being transferred from? -> Aug: Can you confirm the origin of the funds being transferred to my account?
+GEN | [passcode_forgotten] | Orig: I forgot my code -> Aug: I've misplaced my passcode
+GEN | [verify_source_of_funds] | Orig: Can you tell me where my readily available cash has come from? -> Aug: Can you confirm the origin of the funds that are readily available in my account?
+GEN | [order_physical_card] | Orig: What do I need to do in order to get a new card? -> Aug: How can I obtain a physical card?
+GEN | [extra_charge_on_statement] | Orig: Why did a transaction I made charge me $1? -> Aug: I'm wondering why I was charged an additional fee on my recent statement.
+GEN | [transfer_timing] | Orig: How long does it take for the money to show up in my account? -> Aug: When can I expect the funds to be credited to my account?
+GEN | [card_about_to_expire] | Orig: Can I order a new card by phone? -> Aug: Can I request a replacement card over the phone?
+GEN | [order_physical_card] | Orig: I'm interested in getting a card. How does one go about doing that? -> Aug: I'd like to place an order for a physical card. Can you guide me through the process?
+GEN | [supported_cards_and_currencies] | Orig: If I top up by card, what options do I have re: currency and card type? -> Aug: If I make a card deposit, what payment methods and currencies are available to me?
+GEN | [apple_pay_or_google_pay] | Orig: Am I able to Top Up with Apply Pay? -> Aug: Can I use Apple Pay to add funds to my account?
+GEN | [top_up_limits] | Orig: What number of times can I top-up? -> Aug: How many times can I increase my limits?
+VAL | [pending_top_up] | ACCEPT | Reason: N/A | Original: I think something is wrong with your top up.  I've been waiting a little over an hour for this to go through, can you send it through for me? | Augmented: I'm having an issue with my top-up, and I've been waiting for over an hour for it to process. Could you please expedite it for me?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Does it cost anyting to get my own card? | Augmented: Is there a fee associated with ordering a physical card for myself?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: $1 charge in transaction. | Augmented: A fee has been added to your statement.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: ... | Original: It has been a couple of hours but I do not see my balance updated, can you help? | Augmented: I've been waiting for a bit, but my account balance still hasn't reflected the recent transfer, could you assist me with this issue?
+VAL | [top_up_limits] | ACCEPT | Reason: ... | Original: Can I use as many top-ups as I want? | Augmented: Can I make unlimited top-ups to my account limits?
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: Is the top-up amount unlimited? | Augmented: Can the top-up limit be increased without any restrictions?
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: Why did the ATM take my card and keep it? | Augmented: The ATM swallowed my card, and I want to know why it's holding onto it.
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: A random charge got added to my card | Augmented: A mysterious transaction appeared on my card statement
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: N/A | Original: I am being charged the wrong amount on my card. | Augmented: I'm being overcharged on my card transaction.
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: Why is my beneficiary not working? | Augmented: Why is my designated recipient not functioning properly?
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: I need to know how much it costs to transfer funds. | Augmented: I'd like to inquire about the transfer fee associated with moving funds.
+VAL | [pending_top_up] | ACCEPT | Reason: N/A | Original: Isn't my top-up supposed to mean its complete? | Augmented: Why hasn't my top-up been processed yet?
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: I didn't get my card back from the ATM. | Augmented: I failed to retrieve my card from the ATM.
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: Are their fee's for top ups? | Augmented: Are there any charges associated with making a top-up payment using my card?
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: How many top-ups can I use? | Augmented: How many limit increases can I perform?
+VAL | [top_up_failed] | ACCEPT | Reason: N/A | Original: I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly. | Augmented: I'm unable to access my funds. Could it be due to an issue with the recent top-up attempt? I'm certain I entered the details correctly.
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: ... | Original: Can I use any card and currency? | Augmented: What types of cards and currencies do you support?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Card delivery services? Where? | Augmented: How do I get my physical card delivered?
+VAL | [order_physical_card] | ACCEPT | Reason: Both texts are asking about the process of ordering a physical card from a bank, so the intent remains unchanged. | Original: How to order my card? | Augmented: How can I place an order for a physical card?
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: ... | Original: Please tell me why I was charged additionally when I used the card. | Augmented: Please explain why I was assessed an extra fee when I made the payment using my card.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: ... | Original: Why didn't the money I transferred into my account get added to my balance? | Augmented: Why hasn't my account balance been updated after I made a transfer from another bank account?
+VAL | [pending_top_up] | ACCEPT | Reason: ... | Original: How long after a failed topup will funds refurn to account | Augmented: When will the funds be returned to my account after a failed top-up attempt?
+VAL | [order_physical_card] | ACCEPT | Reason: Both texts are asking about the process of obtaining a physical bank card, thus preserving the same intent. | Original: What's the procedure for getting a card? | Augmented: How do I obtain a physical bank card?
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: My card couldn't pay in a shop. | Augmented: My payment was declined at a store.
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: Is there somewhere I can send a check to add to my account? | Augmented: Can I send a check to deposit funds into my account?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: Can I see where my money is being transferred from? | Augmented: Can you confirm the origin of the funds being transferred to my account?
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I forgot my code | Augmented: I've misplaced my passcode
+VAL | [verify_source_of_funds] | ACCEPT | Reason: ... | Original: Can you tell me where my readily available cash has come from? | Augmented: Can you confirm the origin of the funds that are readily available in my account?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: What do I need to do in order to get a new card? | Augmented: How can I obtain a physical card?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: Why did a transaction I made charge me $1? | Augmented: I'm wondering why I was charged an additional fee on my recent statement.
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: How long does it take for the money to show up in my account? | Augmented: When can I expect the funds to be credited to my account?
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: Can I order a new card by phone? | Augmented: Can I request a replacement card over the phone?
+VAL | [order_physical_card] | ACCEPT | Reason: ... | Original: I'm interested in getting a card. How does one go about doing that? | Augmented: I'd like to place an order for a physical card. Can you guide me through the process?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: If I top up by card, what options do I have re: currency and card type? | Augmented: If I make a card deposit, what payment methods and currencies are available to me?
+VAL | [apple_pay_or_google_pay] | ACCEPT | Reason: ... | Original: Am I able to Top Up with Apply Pay? | Augmented: Can I use Apple Pay to add funds to my account?
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: What number of times can I top-up? | Augmented: How many times can I increase my limits?
+VAL_SUMMARY | ACCEPT: 36 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 0 | Accept Rate: 1.0000

@@ -1,0 +1,36 @@
+GEN | [top_up_by_cash_or_cheque] | Orig: What types of top-up methods do you accept? -> Aug: You can top up your account using either cash or cheque.
+GEN | [supported_cards_and_currencies] | Orig: Can I use any card and currency? -> Aug: What types of cards and currencies do you support?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can you tell me the cost of a transfer? -> Aug: What is the fee for a bank transfer top-up?
+GEN | [getting_spare_card] | Orig: If I want to be able to give my daughter a card for my account, would I be allowed to get one for her? -> Aug: Can I obtain a spare card for my account to gift it to my daughter?
+GEN | [receiving_money] | Orig: Do I need to convert my currency from GBP before transferring? -> Aug: Do I need to exchange my British pounds for another currency before making a transfer?
+GEN | [verify_source_of_funds] | Orig: Can you tell me where my readily available cash has come from? -> Aug: Can you confirm the origin of the funds that are readily available in my account?
+GEN | [reverted_card_payment?] | Orig: Why wasn't my payment accepted by the app -> Aug: Why was my payment rejected by the app?
+GEN | [transfer_not_received_by_recipient] | Orig: Where did the money transfer go? -> Aug: The recipient didn't receive the transferred funds.
+GEN | [order_physical_card] | Orig: I need to order a new card. -> Aug: I'd like to request a new physical card.
+GEN | [pending_cash_withdrawal] | Orig: Why hasn't my withdrawal shown on my statement? -> Aug: Why is my pending cash withdrawal not reflected on my account statement?
+GEN | [beneficiary_not_allowed] | Orig: the transfer to an account wasn't allowed is there any other way for me to do it -> Aug: The transfer to a designated recipient was not permitted; is there an alternative method I can use to complete the transaction?
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I top up online? -> Aug: Can I make a cash or cheque deposit online?
+GEN | [beneficiary_not_allowed] | Orig: why didnt a transfer to my account process -> Aug: why was I unable to receive a transfer into my account?
+GEN | [beneficiary_not_allowed] | Orig: I couldn't transfer money to my bank, why not? -> Aug: I'm unable to make a transfer to my account, what's the reason?
+GEN | [supported_cards_and_currencies] | Orig: What currency is acceptable for a top up? -> Aug: We accept a range of currencies for top-ups, including but not limited to the following: USD, EUR, JPY, and more.
+GEN | [card_arrival] | Orig: Am I able to track a card that has already been sent? -> Aug: Can I check the status of a card that has already been dispatched?
+GEN | [transfer_not_received_by_recipient] | Orig: Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me? -> Aug: I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?
+GEN | [declined_transfer] | Orig: Why do you keep declining my transfers? It's been working well so far, but when I just tried to buy something, the card got declined. I tried it a few times, but same thing happened every try. -> Aug: I'm confused, as I've been able to make transfers successfully in the past, but my recent attempts have been declined. I've tried multiple times, but the outcome is the same - my card is being rejected. Can you help me understand why this is happening?
+GEN | [pending_cash_withdrawal] | Orig: Why is the cash transaction still showing as not completed? -> Aug: Why is the cash withdrawal still pending and not showing as completed?
+GEN | [top_up_by_card_charge] | Orig: I am worried about fees for top up cards? -> Aug: I'm concerned about the charges associated with adding funds to my card.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: How long do deposits take to appear? I've been waiting for more than a week and need the money! -> Aug: Why hasn't my account balance been updated after a recent cheque or cash deposit? I've been waiting for an extended period and would like to know when I can expect the funds to reflect in my account.
+GEN | [getting_spare_card] | Orig: How many different cards can I have for my account? -> Aug: Can I have multiple cards linked to my account?
+GEN | [supported_cards_and_currencies] | Orig: What cards do you support -> Aug: We accept a range of payment cards
+GEN | [wrong_amount_of_cash_received] | Orig: I haven't received my cash yet. -> Aug: I'm still waiting to receive the cash.
+GEN | [pending_transfer] | Orig: why have I got a pending transfer? I'm confused!! -> Aug: I'm not sure why I'm seeing a pending transfer in my account. Can you help me understand what's going on?
+GEN | [wrong_amount_of_cash_received] | Orig: Hi, Please help me to request cash back. As i have been withdrawn money from ATM, but i got wrong amount. in Application its showing the amount i have been charged through. -> Aug: I'm having an issue with a recent ATM withdrawal. I took out some cash, but the amount I received was incorrect. The app shows the amount I was charged, but it's not what I actually got.
+GEN | [transfer_into_account] | Orig: How does it work when I transfer money into my account? -> Aug: What's the process for depositing funds into my account?
+GEN | [card_about_to_expire] | Orig: I think my card is expiring, what happens then? -> Aug: I'm concerned that my credit card is nearing its expiration date, what are the consequences?
+GEN | [request_refund] | Orig: Hello, I have recently made a purchase and have decided to cancel my purchase. Is there any way that you can cancel that transaction for me so I can get the money back? It's very important. -> Aug: I'd like to cancel a recent purchase and obtain a refund. Could you assist me in reversing the transaction so I can retrieve the funds? It's crucial that I get the refund as soon as possible.
+GEN | [top_up_by_card_charge] | Orig: Is there a top charge for US cards? -> Aug: Are there any charges associated with topping up a US-issued card?
+GEN | [transfer_fee_charged] | Orig: There is a fee from a transfer that is not supposed to be here! -> Aug: A surprise fee has appeared on a transfer that shouldn't have had one.
+GEN | [declined_card_payment] | Orig: My card couldn't pay in a shop. -> Aug: My payment was declined at a store.
+GEN | [atm_support] | Orig: Can I use a different bank ATM than my own? -> Aug: Can I use an ATM from a different bank than my own?
+GEN | [card_linking] | Orig: I recently reported my card as missing/lost, and I just found it. Can I still use it? -> Aug: I recently reported my card as missing, but I've since located it. Can I still use it?
+GEN | [cancel_transfer] | Orig: I goofed up and used the wrong account.  Please help. -> Aug: I made an error and used the incorrect account. Can you assist me?
+GEN | [cancel_transfer] | Orig: The wrong account was used during a transaction. -> Aug: The incorrect account was mistakenly used for a transfer.

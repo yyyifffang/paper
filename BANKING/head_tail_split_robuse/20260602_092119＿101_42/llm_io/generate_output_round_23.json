@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I was overcharged for the item, and the amount doesn't match the expected exchange rate.",
+    "The recipient's account does not show the transferred funds.",
+    "Are you able to assist with transactions involving the Euro currency?",
+    "Can my friend transfer funds to me in a currency other than US dollars?",
+    "Are there any fees associated with a new card?",
+    "What is the fee for receiving funds via bank transfer?",
+    "My friend wants to transfer funds to me. What methods can they use to do so?",
+    "How do I receive money from a friend?",
+    "How can I obtain a physical credit card?",
+    "I'm still waiting for my domestic transfer to be credited to the recipient's account. I double-checked the account details a few days ago, but the payment hasn't been processed yet.",
+    "I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts.",
+    "A duplicate transaction appears on my account.",
+    "Can my spouse create an account and deposit funds?",
+    "I'm a parent with minors. Can they access this service?",
+    "What charges do I need to pay when I process a payment?",
+    "I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds.",
+    "At what age can someone utilize your service?",
+    "Why does it take a while for my account balance to update after an international bank transfer is made?",
+    "Can you guide me on how my friend can transfer funds to me?",
+    "Is my new card ready for use?",
+    "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined.",
+    "Can I get a new card? I'd like to purchase an additional one.",
+    "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?",
+    "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?",
+    "A store I frequent refused to accept my payment.",
+    "I believe I've been incorrectly billed for a transfer fee.",
+    "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction.",
+    "I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?",
+    "is there a restriction preventing me from initiating transactions",
+    "Will the value of my money remain the same when I travel internationally?",
+    "I need a replacement card",
+    "I've stopped making payments on this card.",
+    "I'd like to set up an automatic transfer to top up my account whenever I'm abroad.",
+    "Why was my transfer not processed successfully?",
+    "I didn't receive the correct amount of cash."
+  ],
+  "generated_labels": [
+    17,
+    66,
+    36,
+    50,
+    23,
+    56,
+    50,
+    50,
+    43,
+    66,
+    7,
+    63,
+    50,
+    1,
+    15,
+    4,
+    1,
+    5,
+    50,
+    0,
+    35,
+    39,
+    27,
+    64,
+    25,
+    64,
+    28,
+    19,
+    7,
+    32,
+    39,
+    53,
+    4,
+    35,
+    75
+  ],
+  "source_texts": [
+    "I was charged the wing amount for an item.",
+    "Money is not in recipients account.",
+    "Do you deal with EUR?",
+    "Can my friend send me money if it is not in US dollars?",
+    "Any charges applicable for new card?",
+    "How much is it to receive money?",
+    "My friend would like to send me money. What are the options available to them?",
+    "What are the steps for getting money from a friend?",
+    "what steps do i do to get a real card",
+    "Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet.",
+    "I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages.",
+    "There is a transaction showing up several times.",
+    "can my husband open an account and transfer money",
+    "I have young kids. Can they use this service?",
+    "What are the fees imposed when I make a transaction?",
+    "I have a trip coming up and want to add money automatically.",
+    "How old can one use your service?",
+    "Is there a longer processing time for international bank transfers?",
+    "Please show me how my friend can send me money.",
+    "Can I use my new card?",
+    "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+    "How much is it to buy another card? I was hoping to buy another one.",
+    "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+    "I usually don't get charged for transfers, why was I this month?",
+    "A shop I go to didn't let me pay.",
+    "I think I have an extra transfer charge.",
+    "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+    "I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?",
+    "is there something blocking me from making transfers",
+    "Will my money be of equal value when I travel abroad?",
+    "I want a new card",
+    "I have cancelled payments to this card.",
+    "I want to add money automatically when I travel.",
+    "Why was my transaction not approved?",
+    "I couldn't get the money I needed."
+  ],
+  "records": [
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I was charged the wing amount for an item.",
+      "generated": "I was overcharged for the item, and the amount doesn't match the expected exchange rate."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Money is not in recipients account.",
+      "generated": "The recipient's account does not show the transferred funds."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you deal with EUR?",
+      "generated": "Are you able to assist with transactions involving the Euro currency?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can my friend send me money if it is not in US dollars?",
+      "generated": "Can my friend transfer funds to me in a currency other than US dollars?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Any charges applicable for new card?",
+      "generated": "Are there any fees associated with a new card?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much is it to receive money?",
+      "generated": "What is the fee for receiving funds via bank transfer?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My friend would like to send me money. What are the options available to them?",
+      "generated": "My friend wants to transfer funds to me. What methods can they use to do so?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What are the steps for getting money from a friend?",
+      "generated": "How do I receive money from a friend?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "what steps do i do to get a real card",
+      "generated": "How can I obtain a physical credit card?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet.",
+      "generated": "I'm still waiting for my domestic transfer to be credited to the recipient's account. I double-checked the account details a few days ago, but the payment hasn't been processed yet."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages.",
+      "generated": "I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "There is a transaction showing up several times.",
+      "generated": "A duplicate transaction appears on my account."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "can my husband open an account and transfer money",
+      "generated": "Can my spouse create an account and deposit funds?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "I have young kids. Can they use this service?",
+      "generated": "I'm a parent with minors. Can they access this service?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "What are the fees imposed when I make a transaction?",
+      "generated": "What charges do I need to pay when I process a payment?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I have a trip coming up and want to add money automatically.",
+      "generated": "I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "How old can one use your service?",
+      "generated": "At what age can someone utilize your service?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Is there a longer processing time for international bank transfers?",
+      "generated": "Why does it take a while for my account balance to update after an international bank transfer is made?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Please show me how my friend can send me money.",
+      "generated": "Can you guide me on how my friend can transfer funds to me?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Can I use my new card?",
+      "generated": "Is my new card ready for use?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+      "generated": "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How much is it to buy another card? I was hoping to buy another one.",
+      "generated": "Can I get a new card? I'd like to purchase an additional one."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+      "generated": "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I usually don't get charged for transfers, why was I this month?",
+      "generated": "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "A shop I go to didn't let me pay.",
+      "generated": "A store I frequent refused to accept my payment."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I think I have an extra transfer charge.",
+      "generated": "I believe I've been incorrectly billed for a transfer fee."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+      "generated": "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?",
+      "generated": "I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "is there something blocking me from making transfers",
+      "generated": "is there a restriction preventing me from initiating transactions"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Will my money be of equal value when I travel abroad?",
+      "generated": "Will the value of my money remain the same when I travel internationally?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I want a new card",
+      "generated": "I need a replacement card"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I have cancelled payments to this card.",
+      "generated": "I've stopped making payments on this card."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I want to add money automatically when I travel.",
+      "generated": "I'd like to set up an automatic transfer to top up my account whenever I'm abroad."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why was my transaction not approved?",
+      "generated": "Why was my transfer not processed successfully?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I couldn't get the money I needed.",
+      "generated": "I didn't receive the correct amount of cash."
+    }
+  ]
+}

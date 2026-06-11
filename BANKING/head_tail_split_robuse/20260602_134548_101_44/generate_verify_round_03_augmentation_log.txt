@@ -1,0 +1,77 @@
+GEN | [age_limit] | Orig: What is the youngest age for an account? -> Aug: At what minimum age can I open an account?
+GEN | [age_limit] | Orig: Is my child too young to sign up? -> Aug: Is my youngster eligible to register?
+GEN | [age_limit] | Orig: Can I open an account for my offspring? -> Aug: Can I establish an account for my minor child?
+GEN | [age_limit] | Orig: How old do my kids need to be to open an account? -> Aug: What is the minimum age requirement for opening an account for my children?
+GEN | [age_limit] | Orig: What is the appropriate age for my child to be able to open an account? -> Aug: At what age can my child start opening a bank account?
+GEN | [age_limit] | Orig: How old do kids have to be to open an account? -> Aug: What is the minimum age requirement for a child to open a bank account?
+GEN | [age_limit] | Orig: How old does my daughter have to be to open an account? -> Aug: At what age can my child open an account with our bank?
+GEN | [age_limit] | Orig: Is there a possibility to open an account for my sons and daughters? -> Aug: Can I open accounts for my children?
+GEN | [age_limit] | Orig: What's the youngest I can be to open an account? -> Aug: At what age can I start opening an account?
+GEN | [age_limit] | Orig: DO I have to be 18 to open an account? -> Aug: Can I open an account if I'm under 18 years old?
+GEN | [age_limit] | Orig: Is there an age limit to open an account -> Aug: Are there any age restrictions for opening an account?
+GEN | [age_limit] | Orig: Do you have to be 18 to make an account? -> Aug: Are you required to be at least 18 years old to open an account?
+GEN | [age_limit] | Orig: Is my daughter eligible to open an account? -> Aug: Can my child, who is of a certain age, be allowed to establish a new account?
+GEN | [age_limit] | Orig: Am I able to open an account for my children? -> Aug: Can I establish an account for my minors?
+GEN | [age_limit] | Orig: what is the age limit for opening a new account -> Aug: what is the minimum age requirement for opening a new account
+GEN | [age_limit] | Orig: Is there an age limit to get an account? -> Aug: Are there any age restrictions for opening an account?
+GEN | [age_limit] | Orig: Could my daughter open an account? -> Aug: Can my child create an account?
+GEN | [age_limit] | Orig: I want to open an account for my children -> Aug: I'm interested in opening an account for my minors.
+GEN | [visa_or_mastercard] | Orig: Can I get a Visa or does it have to be something else. -> Aug: Can I use a Mastercard instead, or is it specifically a Visa requirement?
+GEN | [age_limit] | Orig: Would I be able to open an account for my daughter? -> Aug: Can I establish an account for my child?
+GEN | [age_limit] | Orig: Could I open an account for children? -> Aug: Can I open an account for minors?
+GEN | [age_limit] | Orig: Is there a minimum age for having an account? -> Aug: What is the minimum age requirement to open an account?
+GEN | [age_limit] | Orig: How old must I be to open an account? -> Aug: What is the minimum age requirement to establish an account?
+GEN | [age_limit] | Orig: I want to open an account for my child. -> Aug: I'm looking to establish a savings account for my minor child.
+GEN | [age_limit] | Orig: Is there an age limit for opening an account? -> Aug: Are there any age restrictions for creating a new account?
+GEN | [age_limit] | Orig: Can I open an account for my children? -> Aug: Can I establish an account for my minors?
+GEN | [age_limit] | Orig: How old do you have to be to open an account? -> Aug: What is the minimum age requirement to establish an account?
+GEN | [age_limit] | Orig: Is it possible for me to set up separate accounts for my kids? -> Aug: Can I create individual accounts for my children?
+GEN | [age_limit] | Orig: Can my 8 year old grandson open an account at the bank? -> Aug: Can my 7-year-old grandson be eligible to open an account at the bank?
+GEN | [age_limit] | Orig: How old do you need to be to open an account? -> Aug: What is the minimum age requirement to establish an account?
+GEN | [age_limit] | Orig: Is there any way I could open an account for my daughter? -> Aug: Can I open an account for my child?
+GEN | [age_limit] | Orig: At what age can I open an account? -> Aug: What is the minimum age requirement to open an account?
+GEN | [why_verify_identity] | Orig: Can I use my account before my Identity verification has passed? -> Aug: Can I access my account services before my identity verification process is completed?
+GEN | [age_limit] | Orig: Can my children get an account? -> Aug: Can my minors open an account?
+GEN | [age_limit] | Orig: My daughter needs to open account. -> Aug: A minor is seeking to establish a new account.
+GEN | [age_limit] | Orig: I would like to get an account for my child. -> Aug: I'd like to open an account for my minor.
+GEN | [age_limit] | Orig: How old do you need to be to have an account? -> Aug: What is the minimum age requirement to open an account?
+GEN | [age_limit] | Orig: Is there a limit for age? -> Aug: Are there any age restrictions in place?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: What is the youngest age for an account? | Augmented: At what minimum age can I open an account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Is my child too young to sign up? | Augmented: Is my youngster eligible to register?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Can I open an account for my offspring? | Augmented: Can I establish an account for my minor child?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: How old do my kids need to be to open an account? | Augmented: What is the minimum age requirement for opening an account for my children?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: What is the appropriate age for my child to be able to open an account? | Augmented: At what age can my child start opening a bank account?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: How old do kids have to be to open an account? | Augmented: What is the minimum age requirement for a child to open a bank account?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: How old does my daughter have to be to open an account? | Augmented: At what age can my child open an account with our bank?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Is there a possibility to open an account for my sons and daughters? | Augmented: Can I open accounts for my children?
+VAL | [age_limit] | ACCEPT | Reason: Both texts are asking about the minimum age requirement for opening an account, preserving the 'age_limit' intent. | Original: What's the youngest I can be to open an account? | Augmented: At what age can I start opening an account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: DO I have to be 18 to open an account? | Augmented: Can I open an account if I'm under 18 years old?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Is there an age limit to open an account | Augmented: Are there any age restrictions for opening an account?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Do you have to be 18 to make an account? | Augmented: Are you required to be at least 18 years old to open an account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Is my daughter eligible to open an account? | Augmented: Can my child, who is of a certain age, be allowed to establish a new account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Am I able to open an account for my children? | Augmented: Can I establish an account for my minors?
+VAL | [age_limit] | ACCEPT | Reason: Both texts are asking about the age requirement to open a new account, preserving the 'age_limit' intent. | Original: what is the age limit for opening a new account | Augmented: what is the minimum age requirement for opening a new account
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Is there an age limit to get an account? | Augmented: Are there any age restrictions for opening an account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Could my daughter open an account? | Augmented: Can my child create an account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: I want to open an account for my children | Augmented: I'm interested in opening an account for my minors.
+VAL | [visa_or_mastercard] | ACCEPT | Reason: ... | Original: Can I get a Visa or does it have to be something else. | Augmented: Can I use a Mastercard instead, or is it specifically a Visa requirement?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Would I be able to open an account for my daughter? | Augmented: Can I establish an account for my child?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Could I open an account for children? | Augmented: Can I open an account for minors?
+VAL | [age_limit] | ACCEPT | Reason: Both texts are asking about the age limit for opening an account, preserving the 'age_limit' intent. | Original: Is there a minimum age for having an account? | Augmented: What is the minimum age requirement to open an account?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: How old must I be to open an account? | Augmented: What is the minimum age requirement to establish an account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: I want to open an account for my child. | Augmented: I'm looking to establish a savings account for my minor child.
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Is there an age limit for opening an account? | Augmented: Are there any age restrictions for creating a new account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Can I open an account for my children? | Augmented: Can I establish an account for my minors?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: How old do you have to be to open an account? | Augmented: What is the minimum age requirement to establish an account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Is it possible for me to set up separate accounts for my kids? | Augmented: Can I create individual accounts for my children?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Can my 8 year old grandson open an account at the bank? | Augmented: Can my 7-year-old grandson be eligible to open an account at the bank?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: How old do you need to be to open an account? | Augmented: What is the minimum age requirement to establish an account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Is there any way I could open an account for my daughter? | Augmented: Can I open an account for my child?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: At what age can I open an account? | Augmented: What is the minimum age requirement to open an account?
+VAL | [why_verify_identity] | ACCEPT | Reason: ... | Original: Can I use my account before my Identity verification has passed? | Augmented: Can I access my account services before my identity verification process is completed?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Can my children get an account? | Augmented: Can my minors open an account?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: My daughter needs to open account. | Augmented: A minor is seeking to establish a new account.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: I would like to get an account for my child. | Augmented: I'd like to open an account for my minor.
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: How old do you need to be to have an account? | Augmented: What is the minimum age requirement to open an account?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Is there a limit for age? | Augmented: Are there any age restrictions in place?
+VAL_SUMMARY | ACCEPT: 38 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 0 | Accept Rate: 1.0000

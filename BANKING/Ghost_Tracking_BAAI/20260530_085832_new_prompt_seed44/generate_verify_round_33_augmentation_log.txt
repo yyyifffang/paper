@@ -1,0 +1,79 @@
+GEN | [apple_pay_or_google_pay] | Orig: Can you explain why my Google Pay Top isn't working? -> Aug: Why isn't my Apple Pay account functioning properly?
+GEN | [cash_withdrawal_not_recognised] | Orig: There is money missing from my account. -> Aug: I'm missing a withdrawal from my account.
+GEN | [pin_blocked] | Orig: I logged in wrong and am blocked, how do I log in? -> Aug: I mistakenly entered my PIN and now I'm unable to access my account, can you help me log in?
+GEN | [cash_withdrawal_not_recognised] | Orig: there is money in my account that i didnt put there -> Aug: I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.
+GEN | [wrong_amount_of_cash_received] | Orig: my atm transaction was wrong -> Aug: the amount I received from my ATM transaction was incorrect
+GEN | [visa_or_mastercard] | Orig: I need a Visa card -> Aug: I require a Mastercard
+GEN | [atm_support] | Orig: I need to withdraw money. Where can I do that? -> Aug: I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?
+GEN | [cash_withdrawal_not_recognised] | Orig: I got a message saying I made a withdrawal from the bank machine, but I did not. -> Aug: I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.
+GEN | [top_up_reverted] | Orig: I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that? -> Aug: I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: The balance has not been updated. -> Aug: The account balance remains unchanged.
+GEN | [beneficiary_not_allowed] | Orig: I cant transfer money into my account -> Aug: I'm unable to add funds to my account.
+GEN | [visa_or_mastercard] | Orig: Do I have to pick a creditcard brand? -> Aug: Must I choose between Visa or Mastercard?
+GEN | [top_up_by_cash_or_cheque] | Orig: How long before a check I send clears? -> Aug: How long does it take for a cheque to clear before I can use it to top up my account?
+GEN | [verify_source_of_funds] | Orig: How can I look at where my available cash is coming from? -> Aug: Can you help me identify the source of my available funds?
+GEN | [declined_cash_withdrawal] | Orig: Why can't I get cash out? -> Aug: Why was my cash withdrawal request denied?
+GEN | [wrong_amount_of_cash_received] | Orig: I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem? -> Aug: I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?
+GEN | [pending_cash_withdrawal] | Orig: Why does it still charge me even though I was unable to withdraw money from the ATM? -> Aug: Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?
+GEN | [supported_cards_and_currencies] | Orig: Do I have to top up in euros if I use a card, or can I use a different currency? -> Aug: Can I use a different currency when making a payment with a card, or do I need to use euros?
+GEN | [visa_or_mastercard] | Orig: Please help me get a Visa card. -> Aug: Please assist me in obtaining a Mastercard.
+GEN | [card_acceptance] | Orig: Are there businesses that don't accept this card? -> Aug: Can you tell me if there are any merchants that don't accept this particular card?
+GEN | [pending_cash_withdrawal] | Orig: So much time has gone by, the pending status shouldn't still be there shouldn't it? -> Aug: It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?
+GEN | [request_refund] | Orig: I just bought an item and would like to stop payment can you tell me if the item has been sent yet? -> Aug: I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?
+GEN | [transfer_fee_charged] | Orig: Should I be seeing a fee applied for my money transfer? -> Aug: Am I supposed to be charged a fee for the transfer of funds?
+GEN | [pending_transfer] | Orig: Why is the transaction not posting? -> Aug: Why is the transfer still pending?
+GEN | [card_linking] | Orig: I received my card, how do I get it to work in the app? -> Aug: I got my new card, can you help me link it to my account so I can use it in the app?
+GEN | [topping_up_by_card] | Orig: I need to transfer some money, can I use my credit card? -> Aug: I'd like to add funds to my account using my credit card.
+GEN | [exchange_charge] | Orig: is there a frequent currency discount? -> Aug: are there any regular exchange rate promotions available?
+GEN | [apple_pay_or_google_pay] | Orig: Can I use my Apple watch to fill my gas tank? -> Aug: Can I use my Apple Pay-enabled device to fill my gas tank?
+GEN | [supported_cards_and_currencies] | Orig: use my credit to add money -> Aug: utilize your credit to top up your account
+GEN | [atm_support] | Orig: 
+Where can I withdraw money from? -> Aug: Where can I access cash from?
+GEN | [atm_support] | Orig: Where can I withdraw money from? -> Aug: Where can I access cash from an ATM or a bank branch?
+GEN | [card_linking] | Orig: I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card. -> Aug: I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong? -> Aug: I'm having an issue with my account. I deposited cash yesterday, but my balance hasn't been updated. Could you please investigate and let me know what's going on?
+GEN | [declined_card_payment] | Orig: why couldn't I use my card at a store? -> Aug: Why was my card payment declined at the store?
+GEN | [topping_up_by_card] | Orig: Transferring money using credit card -> Aug: Adding funds to your account using your credit card
+GEN | [top_up_failed] | Orig: I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong? -> Aug: I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?
+GEN | [cash_withdrawal_not_recognised] | Orig: I believe my card has been compromised as there are funds showing that I did not receive. -> Aug: I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize.
+GEN | [supported_cards_and_currencies] | Orig: What currency is acceptable for a top up? -> Aug: We accept a range of currencies for top-ups, including but not limited to the following: USD, EUR, JPY, and more.
+VAL | [apple_pay_or_google_pay] | REJECT | Reason: N/A | Original: Can you explain why my Google Pay Top isn't working? | Augmented: Why isn't my Apple Pay account functioning properly?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: There is money missing from my account. | Augmented: I'm missing a withdrawal from my account.
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: I logged in wrong and am blocked, how do I log in? | Augmented: I mistakenly entered my PIN and now I'm unable to access my account, can you help me log in?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: there is money in my account that i didnt put there | Augmented: I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: N/A | Original: my atm transaction was wrong | Augmented: the amount I received from my ATM transaction was incorrect
+VAL | [visa_or_mastercard] | REVIEW | Reason: N/A | Original: I need a Visa card | Augmented: I require a Mastercard
+VAL | [atm_support] | ACCEPT | Reason: ... | Original: I need to withdraw money. Where can I do that? | Augmented: I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: ... | Original: I got a message saying I made a withdrawal from the bank machine, but I did not. | Augmented: I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.
+VAL | [top_up_reverted] | ACCEPT | Reason: ... | Original: I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that? | Augmented: I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: The balance has not been updated. | Augmented: The account balance remains unchanged.
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: I cant transfer money into my account | Augmented: I'm unable to add funds to my account.
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: Do I have to pick a creditcard brand? | Augmented: Must I choose between Visa or Mastercard?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: How long before a check I send clears? | Augmented: How long does it take for a cheque to clear before I can use it to top up my account?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: How can I look at where my available cash is coming from? | Augmented: Can you help me identify the source of my available funds?
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: ... | Original: Why can't I get cash out? | Augmented: Why was my cash withdrawal request denied?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem? | Augmented: I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: ... | Original: Why does it still charge me even though I was unable to withdraw money from the ATM? | Augmented: Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: Do I have to top up in euros if I use a card, or can I use a different currency? | Augmented: Can I use a different currency when making a payment with a card, or do I need to use euros?
+VAL | [visa_or_mastercard] | UNKNOWN | Reason: N/A | Original: Please help me get a Visa card. | Augmented: Please assist me in obtaining a Mastercard.
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Are there businesses that don't accept this card? | Augmented: Can you tell me if there are any merchants that don't accept this particular card?
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: ... | Original: So much time has gone by, the pending status shouldn't still be there shouldn't it? | Augmented: It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?
+VAL | [request_refund] | ACCEPT | Reason: N/A | Original: I just bought an item and would like to stop payment can you tell me if the item has been sent yet? | Augmented: I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: Should I be seeing a fee applied for my money transfer? | Augmented: Am I supposed to be charged a fee for the transfer of funds?
+VAL | [pending_transfer] | ACCEPT | Reason: ... | Original: Why is the transaction not posting? | Augmented: Why is the transfer still pending?
+VAL | [card_linking] | ACCEPT | Reason: ... | Original: I received my card, how do I get it to work in the app? | Augmented: I got my new card, can you help me link it to my account so I can use it in the app?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: I need to transfer some money, can I use my credit card? | Augmented: I'd like to add funds to my account using my credit card.
+VAL | [exchange_charge] | ACCEPT | Reason: N/A | Original: is there a frequent currency discount? | Augmented: are there any regular exchange rate promotions available?
+VAL | [apple_pay_or_google_pay] | ACCEPT | Reason: N/A | Original: Can I use my Apple watch to fill my gas tank? | Augmented: Can I use my Apple Pay-enabled device to fill my gas tank?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: use my credit to add money | Augmented: utilize your credit to top up your account
+VAL | [atm_support] | ACCEPT | Reason: N/A | Original: 
+Where can I withdraw money from? | Augmented: Where can I access cash from?
+VAL | [atm_support] | ACCEPT | Reason: N/A | Original: Where can I withdraw money from? | Augmented: Where can I access cash from an ATM or a bank branch?
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card. | Augmented: I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: N/A | Original: i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong? | Augmented: I'm having an issue with my account. I deposited cash yesterday, but my balance hasn't been updated. Could you please investigate and let me know what's going on?
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: why couldn't I use my card at a store? | Augmented: Why was my card payment declined at the store?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: Transferring money using credit card | Augmented: Adding funds to your account using your credit card
+VAL | [top_up_failed] | ACCEPT | Reason: ... | Original: I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong? | Augmented: I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: I believe my card has been compromised as there are funds showing that I did not receive. | Augmented: I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize.
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: What currency is acceptable for a top up? | Augmented: We accept a range of currencies for top-ups, including but not limited to the following: USD, EUR, JPY, and more.
+VAL_SUMMARY | ACCEPT: 35 | REVIEW: 1 | REJECT: 1 | UNKNOWN: 1 | Accept Rate: 0.9211

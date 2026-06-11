@@ -1,0 +1,77 @@
+GEN | [why_verify_identity] | Orig: I'm waiting for the ID verification to go through still, so is it too soon to use my account? -> Aug: I'm still waiting for the ID verification process to complete, so can I use my account already?
+GEN | [card_delivery_estimate] | Orig: i need to add express delivery if that's an option -> Aug: I'd like to inquire about the possibility of expedited shipping for my card delivery.
+GEN | [beneficiary_not_allowed] | Orig: Why won't you let me name X as a beneficiary? -> Aug: You're asking why we're not permitting X to be designated as a beneficiary.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you see my new balance yet? -> Aug: Have you checked my account balance recently?
+GEN | [verify_my_identity] | Orig: why do I need to show ID -> Aug: what's the purpose of verifying my identity
+GEN | [virtual_card_not_working] | Orig: Why can't I make multiple payments with my virtual card? -> Aug: Why am I unable to process multiple transactions using my virtual card?
+GEN | [pending_transfer] | Orig: I have an outgoing transaction -> Aug: I have a pending transfer
+GEN | [change_pin] | Orig: Can I change my in at all ATM's? -> Aug: Can I modify my PIN at any ATM location?
+GEN | [beneficiary_not_allowed] | Orig: Why can't I use this beneficiary? -> Aug: Why is this beneficiary not eligible for use?
+GEN | [top_up_by_bank_transfer_charge] | Orig: What does it cost to receive a SEPA transfer? -> Aug: What is the charge for receiving a bank transfer via SEPA?
+GEN | [atm_support] | Orig: How can I tell if an AMT will take this card? -> Aug: What's the best way to determine if an ATM will accept my card?
+GEN | [top_up_by_bank_transfer_charge] | Orig: How much will it cost me for a SEPA transfer? -> Aug: What is the fee for a bank transfer using the Single Euro Payments Area (SEPA) system?
+GEN | [card_payment_fee_charged] | Orig: how do i avoid charges in the future -> Aug: what can I do to prevent being charged a fee on my card in the future?
+GEN | [wrong_amount_of_cash_received] | Orig: Why can't I take $100 out -> Aug: I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you process SWIFT transfers? -> Aug: Can you facilitate bank transfers via SWIFT or other international payment methods?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: My rate is not right when I used my card in a different country's money. -> Aug: The exchange rate was incorrect when I made a cash withdrawal using my card in a foreign country.
+GEN | [topping_up_by_card] | Orig: What information am I going to have to have in order to do a transfer with my card? -> Aug: What details do I need to provide to complete a card-based transfer?
+GEN | [wrong_amount_of_cash_received] | Orig: There was a limited amount of money available at the time of my transaction. -> Aug: There was insufficient cash available at the time of my transaction.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: what are weekend rates for getting cash -> Aug: what is the exchange rate for a cash withdrawal on a weekend?
+GEN | [beneficiary_not_allowed] | Orig: Why is my beneficiary not being allowed to get payment services? -> Aug: Why is my designated recipient unable to access payment services?
+GEN | [card_acceptance] | Orig: Can I use my card for online payments? -> Aug: Is my credit card accepted for online transactions?
+GEN | [beneficiary_not_allowed] | Orig: Why can't I use my beneficiary? -> Aug: Why am I not allowed to designate a beneficiary for my account?
+GEN | [top_up_by_card_charge] | Orig: I topped off my card is that something you will charge me for? -> Aug: I'm wondering if there's a fee associated with adding funds to my card?
+GEN | [passcode_forgotten] | Orig: I can't log in with this passocde -> Aug: I'm having trouble accessing my account because I've forgotten my passcode.
+GEN | [exchange_via_app] | Orig: I accidentally chose to exchange GBP, but I need to pick AUD. How can I change it? -> Aug: I mistakenly selected GBP for the exchange, but I'd like to switch to AUD instead. Can I modify the exchange rate?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I going to see a charge for a SEPA transfer? -> Aug: Will I be charged a fee for a bank transfer using the Single Euro Payments Area (SEPA) system?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: When will my cheque be processed? -> Aug: When will my cash deposit be reflected in my account balance?
+GEN | [card_delivery_estimate] | Orig: Can I get my card fast tracked? -> Aug: Can I expedite the delivery of my card?
+GEN | [beneficiary_not_allowed] | Orig: I have been trying to exchange this for crypto but the app won't work could you please help me? -> Aug: I'm having trouble converting this to cryptocurrency, but the app is not allowing me to proceed. Can you assist me with this issue?
+GEN | [top_up_by_bank_transfer_charge] | Orig: What is the charge for receiving a SEPA transfer? -> Aug: What is the fee for processing a bank transfer via SEPA?
+GEN | [reverted_card_payment?] | Orig: Why has my money been returned back to my card. -> Aug: Why was my payment reversed and credited back to my card?
+GEN | [card_acceptance] | Orig: Can I pay online with my card? -> Aug: Is it possible to make an online payment using my credit/debit card?
+GEN | [card_delivery_estimate] | Orig: Can I pay more to get it deliver quicker? -> Aug: Is there an option to expedite the delivery of my card for an additional fee?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you offer SWIFT transfers? -> Aug: Can you facilitate bank transfers for topping up my account?
+GEN | [terminate_account] | Orig: What are the steps to finishing up with this account? -> Aug: How do I go about closing this account?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can I Transfer from SWIFT? -> Aug: Can I make a bank transfer to top up my account?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are SWIFT transfers supported? -> Aug: Can I use a bank transfer to top up my account?
+GEN | [topping_up_by_card] | Orig: what happened to the money after i put in the wrong info and it got declined -> Aug: what happened to the funds after I entered incorrect details and the transaction was declined using my card?
+VAL | [why_verify_identity] | ACCEPT | Reason: N/A | Original: I'm waiting for the ID verification to go through still, so is it too soon to use my account? | Augmented: I'm still waiting for the ID verification process to complete, so can I use my account already?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: i need to add express delivery if that's an option | Augmented: I'd like to inquire about the possibility of expedited shipping for my card delivery.
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: ... | Original: Why won't you let me name X as a beneficiary? | Augmented: You're asking why we're not permitting X to be designated as a beneficiary.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: Can you see my new balance yet? | Augmented: Have you checked my account balance recently?
+VAL | [verify_my_identity] | REVIEW | Reason: N/A | Original: why do I need to show ID | Augmented: what's the purpose of verifying my identity
+VAL | [virtual_card_not_working] | ACCEPT | Reason: ... | Original: Why can't I make multiple payments with my virtual card? | Augmented: Why am I unable to process multiple transactions using my virtual card?
+VAL | [pending_transfer] | ACCEPT | Reason: N/A | Original: I have an outgoing transaction | Augmented: I have a pending transfer
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: Can I change my in at all ATM's? | Augmented: Can I modify my PIN at any ATM location?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: ... | Original: Why can't I use this beneficiary? | Augmented: Why is this beneficiary not eligible for use?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: What does it cost to receive a SEPA transfer? | Augmented: What is the charge for receiving a bank transfer via SEPA?
+VAL | [atm_support] | ACCEPT | Reason: ... | Original: How can I tell if an AMT will take this card? | Augmented: What's the best way to determine if an ATM will accept my card?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: How much will it cost me for a SEPA transfer? | Augmented: What is the fee for a bank transfer using the Single Euro Payments Area (SEPA) system?
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: N/A | Original: how do i avoid charges in the future | Augmented: what can I do to prevent being charged a fee on my card in the future?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: N/A | Original: Why can't I take $100 out | Augmented: I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount.
+VAL | [top_up_by_bank_transfer_charge] | UNKNOWN | Reason: N/A | Original: Do you process SWIFT transfers? | Augmented: Can you facilitate bank transfers via SWIFT or other international payment methods?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | ACCEPT | Reason: N/A | Original: My rate is not right when I used my card in a different country's money. | Augmented: The exchange rate was incorrect when I made a cash withdrawal using my card in a foreign country.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: What information am I going to have to have in order to do a transfer with my card? | Augmented: What details do I need to provide to complete a card-based transfer?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: N/A | Original: There was a limited amount of money available at the time of my transaction. | Augmented: There was insufficient cash available at the time of my transaction.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | UNKNOWN | Reason: N/A | Original: what are weekend rates for getting cash | Augmented: what is the exchange rate for a cash withdrawal on a weekend?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: Why is my beneficiary not being allowed to get payment services? | Augmented: Why is my designated recipient unable to access payment services?
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Can I use my card for online payments? | Augmented: Is my credit card accepted for online transactions?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: ... | Original: Why can't I use my beneficiary? | Augmented: Why am I not allowed to designate a beneficiary for my account?
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: I topped off my card is that something you will charge me for? | Augmented: I'm wondering if there's a fee associated with adding funds to my card?
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I can't log in with this passocde | Augmented: I'm having trouble accessing my account because I've forgotten my passcode.
+VAL | [exchange_via_app] | ACCEPT | Reason: N/A | Original: I accidentally chose to exchange GBP, but I need to pick AUD. How can I change it? | Augmented: I mistakenly selected GBP for the exchange, but I'd like to switch to AUD instead. Can I modify the exchange rate?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: Am I going to see a charge for a SEPA transfer? | Augmented: Will I be charged a fee for a bank transfer using the Single Euro Payments Area (SEPA) system?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: N/A | Original: When will my cheque be processed? | Augmented: When will my cash deposit be reflected in my account balance?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: Can I get my card fast tracked? | Augmented: Can I expedite the delivery of my card?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: I have been trying to exchange this for crypto but the app won't work could you please help me? | Augmented: I'm having trouble converting this to cryptocurrency, but the app is not allowing me to proceed. Can you assist me with this issue?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: What is the charge for receiving a SEPA transfer? | Augmented: What is the fee for processing a bank transfer via SEPA?
+VAL | [reverted_card_payment?] | ACCEPT | Reason: N/A | Original: Why has my money been returned back to my card. | Augmented: Why was my payment reversed and credited back to my card?
+VAL | [card_acceptance] | ACCEPT | Reason: N/A | Original: Can I pay online with my card? | Augmented: Is it possible to make an online payment using my credit/debit card?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: Can I pay more to get it deliver quicker? | Augmented: Is there an option to expedite the delivery of my card for an additional fee?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: Do you offer SWIFT transfers? | Augmented: Can you facilitate bank transfers for topping up my account?
+VAL | [terminate_account] | ACCEPT | Reason: Both texts are asking about the process of ending an account relationship, which aligns with the target intent of 'terminate_account'. There is no contradiction, and the text is specific enough. | Original: What are the steps to finishing up with this account? | Augmented: How do I go about closing this account?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: Can I Transfer from SWIFT? | Augmented: Can I make a bank transfer to top up my account?
+VAL | [top_up_by_bank_transfer_charge] | REVIEW | Reason: N/A | Original: Are SWIFT transfers supported? | Augmented: Can I use a bank transfer to top up my account?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: what happened to the money after i put in the wrong info and it got declined | Augmented: what happened to the funds after I entered incorrect details and the transaction was declined using my card?
+VAL_SUMMARY | ACCEPT: 34 | REVIEW: 2 | REJECT: 0 | UNKNOWN: 2 | Accept Rate: 0.8947

@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I've received my new card, but I need to know how to turn it on.",
+    "I'm wondering if there's a transfer fee involved?",
+    "We're showing an unusual cash withdrawal on your statement, and we'd like to clarify what it's for.",
+    "How many spare cards can I obtain?",
+    "I'm concerned about a transfer I initiated to a recipient, but it hasn't been received yet. Can you tell me how long it typically takes for a transfer to be processed?",
+    "A pending cash withdrawal refers to a transaction that has been initiated but not yet processed or completed.",
+    "Hello, I'm a new customer and attempted to make my first top-up. Your system should have processed it instantly, but it's still showing as pending. Can you help me understand why this is the case?",
+    "I'm surprised to see a charge for cash withdrawals now. I needed some cash after buying groceries and was surprised to find a new fee.",
+    "Why hasn't my account balance been updated after I deposited cash?",
+    "I received less cash than expected",
+    "where can I find an ATM to withdraw cash?",
+    "We've detected an unusual direct debit transaction on your account that we're unable to verify.",
+    "What are the steps to obtain a physical copy of my card?",
+    "Please clarify any restrictions associated with disposable cards.",
+    "I'd like to know the process for requesting a refund for an item I ordered, as I haven't received it and would like to cancel the order and receive a refund.",
+    "It appears that an unauthorized party has used my card to make a purchase, what steps can I take?",
+    "In the app, how can I access the recently added card?",
+    "We've noticed an unusual payment on your statement.",
+    "When can I expect a pending card payment to be processed and move to an authorized status?",
+    "I'm trying to identify a payment made with my card, but I didn't initiate it. The payment details are unfamiliar to me.",
+    "I'm showing a cash withdrawal on my statement that I didn't actually make.",
+    "How can I exchange my currency from British Pounds (GBP) to Australian Dollars (AUD)?",
+    "Can I initiate a refund for the item?",
+    "I'm unable to process the transfer due to the recipient's account restrictions.",
+    "Are there any fees associated with exchanging foreign currency?",
+    "I previously initiated a transfer to another account, but I've changed my mind and would like to cancel it. Can you guide me through the process?",
+    "I'm having trouble identifying a direct debit payment in the app that I'm not familiar with.",
+    "How do I confirm my top-up transaction?",
+    "I've received the item, but the payment was reversed?",
+    "Can I initiate a currency exchange through the app?",
+    "can i reach out to customer support if i'm having trouble updating my personal information?",
+    "Will I be charged a fee when I receive funds through bank transfer?",
+    "Can I modify my PIN without visiting a bank branch?",
+    "I'm not sure what my card balance is after the recent top-up.",
+    "What's causing the payment to be rejected?"
+  ],
+  "generated_labels": [
+    0,
+    64,
+    20,
+    39,
+    66,
+    46,
+    47,
+    19,
+    6,
+    75,
+    3,
+    28,
+    43,
+    29,
+    52,
+    22,
+    13,
+    16,
+    45,
+    16,
+    20,
+    33,
+    52,
+    7,
+    31,
+    8,
+    28,
+    71,
+    53,
+    33,
+    30,
+    56,
+    21,
+    62,
+    25
+  ],
+  "source_texts": [
+    "I have my card now how do I activate it?",
+    "I found a transfer fee - is that correct?",
+    "What is the strange cash withdrawal on my statement?",
+    "How many cards can I have?",
+    "How long does it take for money to transfer?  I sent some to a friend and it hasn't gone through yet.",
+    "What does a pending cash withdrawal mean?",
+    "Hello, I am a new customer, and just tried topping up for the first time. According to your information, the transaction should be instant - why does it still show as pending?",
+    "Why is there now a charge for making cash withdrawals? I wanted some cash after I went to the grocery store, and there's a new fee!",
+    "What happened to my cash deposit?",
+    "I did not get enough cash",
+    "how do I know where I can get money withdrawn?",
+    "There is a potentially fraudulent direct debit on my account.",
+    "How do I order my card?",
+    "Please specify any limitations that come along with disposable cards.",
+    "How does on apply fora refund on an item he ordered? I ordere an item and have not received it yet so i want to cancel it and get a refund",
+    "It looks like someone besides me ordered something with my card, what should I do?",
+    "In the app, how can I make it show the new card that arrived?",
+    "I have an odd payment in my statement",
+    "How long does it take for a purchase to go from pending to authorised?",
+    "There's a payment with my card that I didn't perform. I don't know that name shown.",
+    "I did not make a cash withdrawal that is on my statement",
+    "How do I change to AUD from GBP?",
+    "Would I be able to refund an item?",
+    "I couldn't transfer to an account.",
+    "Is there a charge for exchanging foreign currency?",
+    "I wanted to transfer money to another account, but now I don't have to so I'd like to cancel said transfer. How can I do that?",
+    "Please help me regarding a direct debit in the app that I don't recognize.",
+    "How can I verify my top up?",
+    "I already got my item but just got my money back",
+    "Can i add a new currency to my account?",
+    "should i contact customer support if i can't edit details",
+    "Do I get charged if I am receiving money?",
+    "How can I change my PIN without going to the bank?",
+    "I cannot tell what my top up currently is.",
+    "Why am I being declined?"
+  ],
+  "records": [
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I have my card now how do I activate it?",
+      "generated": "I've received my new card, but I need to know how to turn it on."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I found a transfer fee - is that correct?",
+      "generated": "I'm wondering if there's a transfer fee involved?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "What is the strange cash withdrawal on my statement?",
+      "generated": "We're showing an unusual cash withdrawal on your statement, and we'd like to clarify what it's for."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many cards can I have?",
+      "generated": "How many spare cards can I obtain?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long does it take for money to transfer?  I sent some to a friend and it hasn't gone through yet.",
+      "generated": "I'm concerned about a transfer I initiated to a recipient, but it hasn't been received yet. Can you tell me how long it typically takes for a transfer to be processed?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "What does a pending cash withdrawal mean?",
+      "generated": "A pending cash withdrawal refers to a transaction that has been initiated but not yet processed or completed."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Hello, I am a new customer, and just tried topping up for the first time. According to your information, the transaction should be instant - why does it still show as pending?",
+      "generated": "Hello, I'm a new customer and attempted to make my first top-up. Your system should have processed it instantly, but it's still showing as pending. Can you help me understand why this is the case?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Why is there now a charge for making cash withdrawals? I wanted some cash after I went to the grocery store, and there's a new fee!",
+      "generated": "I'm surprised to see a charge for cash withdrawals now. I needed some cash after buying groceries and was surprised to find a new fee."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "What happened to my cash deposit?",
+      "generated": "Why hasn't my account balance been updated after I deposited cash?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I did not get enough cash",
+      "generated": "I received less cash than expected"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "how do I know where I can get money withdrawn?",
+      "generated": "where can I find an ATM to withdraw cash?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "There is a potentially fraudulent direct debit on my account.",
+      "generated": "We've detected an unusual direct debit transaction on your account that we're unable to verify."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "How do I order my card?",
+      "generated": "What are the steps to obtain a physical copy of my card?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Please specify any limitations that come along with disposable cards.",
+      "generated": "Please clarify any restrictions associated with disposable cards."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "How does on apply fora refund on an item he ordered? I ordere an item and have not received it yet so i want to cancel it and get a refund",
+      "generated": "I'd like to know the process for requesting a refund for an item I ordered, as I haven't received it and would like to cancel the order and receive a refund."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "It looks like someone besides me ordered something with my card, what should I do?",
+      "generated": "It appears that an unauthorized party has used my card to make a purchase, what steps can I take?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "In the app, how can I make it show the new card that arrived?",
+      "generated": "In the app, how can I access the recently added card?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I have an odd payment in my statement",
+      "generated": "We've noticed an unusual payment on your statement."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it take for a purchase to go from pending to authorised?",
+      "generated": "When can I expect a pending card payment to be processed and move to an authorized status?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There's a payment with my card that I didn't perform. I don't know that name shown.",
+      "generated": "I'm trying to identify a payment made with my card, but I didn't initiate it. The payment details are unfamiliar to me."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I did not make a cash withdrawal that is on my statement",
+      "generated": "I'm showing a cash withdrawal on my statement that I didn't actually make."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "How do I change to AUD from GBP?",
+      "generated": "How can I exchange my currency from British Pounds (GBP) to Australian Dollars (AUD)?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Would I be able to refund an item?",
+      "generated": "Can I initiate a refund for the item?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I couldn't transfer to an account.",
+      "generated": "I'm unable to process the transfer due to the recipient's account restrictions."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Is there a charge for exchanging foreign currency?",
+      "generated": "Are there any fees associated with exchanging foreign currency?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I wanted to transfer money to another account, but now I don't have to so I'd like to cancel said transfer. How can I do that?",
+      "generated": "I previously initiated a transfer to another account, but I've changed my mind and would like to cancel it. Can you guide me through the process?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Please help me regarding a direct debit in the app that I don't recognize.",
+      "generated": "I'm having trouble identifying a direct debit payment in the app that I'm not familiar with."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "How can I verify my top up?",
+      "generated": "How do I confirm my top-up transaction?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I already got my item but just got my money back",
+      "generated": "I've received the item, but the payment was reversed?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can i add a new currency to my account?",
+      "generated": "Can I initiate a currency exchange through the app?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "should i contact customer support if i can't edit details",
+      "generated": "can i reach out to customer support if i'm having trouble updating my personal information?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do I get charged if I am receiving money?",
+      "generated": "Will I be charged a fee when I receive funds through bank transfer?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "How can I change my PIN without going to the bank?",
+      "generated": "Can I modify my PIN without visiting a bank branch?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I cannot tell what my top up currently is.",
+      "generated": "I'm not sure what my card balance is after the recent top-up."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Why am I being declined?",
+      "generated": "What's causing the payment to be rejected?"
+    }
+  ]
+}

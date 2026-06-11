@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "Can I use a Mastercard instead, or is it specifically a Visa requirement?",
+    "How do I obtain a virtual card, and what is its purpose?",
+    "I would rather use Mastercard.",
+    "I'd like to update my residential address.",
+    "Can I modify my PIN in Austria?",
+    "Can I obtain a Mastercard from you instead?",
+    "I'd like to opt for a Visa, if possible?",
+    "Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?",
+    "I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?",
+    "Can I modify my PIN at a bank's location?",
+    "Can I modify my PIN while I'm away on vacation?",
+    "I'd like to update my residential address.",
+    "information needs to be updated",
+    "Can I modify my PIN at a nearby bank branch?",
+    "You are not permitted to add a specific beneficiary.",
+    "What are the restrictions on beneficiary designations?",
+    "I'd like to obtain a Mastercard",
+    "What should I do if I reach the maximum number of PIN attempts allowed?",
+    "You can top up your account by cash or cheque.",
+    "Can I request assistance from a representative to modify my personal identification number (PIN)?",
+    "May I pay using cash or by cheque?",
+    "You're asking why we're not permitting X to be designated as a beneficiary.",
+    "Why am I unable to add a particular beneficiary to my account?",
+    "I'd like to inquire about the possibility of expedited shipping for my card delivery.",
+    "This account has become too burdensome, and I'd prefer to shut it down and move on.",
+    "I need to update my PIN immediately.",
+    "How do I modify my PIN?",
+    "where can i make a deposit by cheque",
+    "I need to update my residential information.",
+    "Assist me in updating my PIN.",
+    "What happens if I enter my PIN incorrectly multiple times?",
+    "Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?",
+    "I'd like to cancel my account immediately.",
+    "How can I receive my salary payment through this channel?",
+    "I require both a Visa and a Mastercard from your institution.",
+    "I'd like to modify my PIN - must I visit a bank branch to do so?",
+    "We accept various forms of identification. Which one would you like to provide?",
+    "Can you accept payments by cheque or cash?",
+    "Can you guide me through the process of updating my personal information?"
+  ],
+  "generated_labels": [
+    73,
+    40,
+    73,
+    30,
+    21,
+    73,
+    73,
+    12,
+    21,
+    21,
+    21,
+    30,
+    30,
+    21,
+    7,
+    7,
+    73,
+    49,
+    58,
+    21,
+    58,
+    7,
+    7,
+    12,
+    55,
+    21,
+    21,
+    58,
+    30,
+    21,
+    49,
+    12,
+    55,
+    50,
+    73,
+    21,
+    69,
+    58,
+    30
+  ],
+  "source_texts": [
+    "Can I get a Visa or does it have to be something else.",
+    "what is a virtual and how do i get one",
+    "I prefer Mastecard.",
+    "I am here to change my adress.",
+    "Can I change my PIN in Austria?",
+    "Can I get a Visa from you?",
+    "I prefer Visa, can I get that instead?",
+    "Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.",
+    "I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country?",
+    "Do I have to change my PIN at a bank?",
+    "Can I change my PIN on holiday?",
+    "I am looking to change my adress.",
+    "details need to be modified",
+    "Can I change my PIN at my local bank?",
+    "Why am I not allowed to add a certain beneficiary?",
+    "What are then rules on beneficiaries?",
+    "I want to get a Visa",
+    "What should I do if I exceed my PIN tries?",
+    "What is your check-cashing policy?",
+    "Do I need to speak to a representative to change my pin?",
+    "Can I purchase with cash or cheque?",
+    "Why won't you let me name X as a beneficiary?",
+    "What is preventing me from adding a specific beneficiary?",
+    "i need to add express delivery if that's an option",
+    "This place has been too much work so I'd just like to close out my account & be done.",
+    "I must change my PIN as soon as possible.",
+    "How can I change my Rowlock ?",
+    "where can i deposit a check",
+    "I must change my address.",
+    "Help me with a PIN change.",
+    "What if I type in the wrong PIN too many times?",
+    "can the delivery be specific to my needs?",
+    "I want to close my account now.",
+    "What do I need to do to get my salary through this?",
+    "I need a Visa and a Mastercard from you.",
+    "I want to change my PIN - do I need to be in a bank?",
+    "What type of ID do you accept?",
+    "Do you take checks?",
+    "Talk me through modifying my details."
+  ],
+  "records": [
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get a Visa or does it have to be something else.",
+      "generated": "Can I use a Mastercard instead, or is it specifically a Visa requirement?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "what is a virtual and how do i get one",
+      "generated": "How do I obtain a virtual card, and what is its purpose?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I prefer Mastecard.",
+      "generated": "I would rather use Mastercard."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I am here to change my adress.",
+      "generated": "I'd like to update my residential address."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my PIN in Austria?",
+      "generated": "Can I modify my PIN in Austria?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get a Visa from you?",
+      "generated": "Can I obtain a Mastercard from you instead?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I prefer Visa, can I get that instead?",
+      "generated": "I'd like to opt for a Visa, if possible?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.",
+      "generated": "Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country?",
+      "generated": "I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Do I have to change my PIN at a bank?",
+      "generated": "Can I modify my PIN at a bank's location?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my PIN on holiday?",
+      "generated": "Can I modify my PIN while I'm away on vacation?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I am looking to change my adress.",
+      "generated": "I'd like to update my residential address."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "details need to be modified",
+      "generated": "information needs to be updated"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my PIN at my local bank?",
+      "generated": "Can I modify my PIN at a nearby bank branch?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why am I not allowed to add a certain beneficiary?",
+      "generated": "You are not permitted to add a specific beneficiary."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "What are then rules on beneficiaries?",
+      "generated": "What are the restrictions on beneficiary designations?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I want to get a Visa",
+      "generated": "I'd like to obtain a Mastercard"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "What should I do if I exceed my PIN tries?",
+      "generated": "What should I do if I reach the maximum number of PIN attempts allowed?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What is your check-cashing policy?",
+      "generated": "You can top up your account by cash or cheque."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Do I need to speak to a representative to change my pin?",
+      "generated": "Can I request assistance from a representative to modify my personal identification number (PIN)?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I purchase with cash or cheque?",
+      "generated": "May I pay using cash or by cheque?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why won't you let me name X as a beneficiary?",
+      "generated": "You're asking why we're not permitting X to be designated as a beneficiary."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "What is preventing me from adding a specific beneficiary?",
+      "generated": "Why am I unable to add a particular beneficiary to my account?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i need to add express delivery if that's an option",
+      "generated": "I'd like to inquire about the possibility of expedited shipping for my card delivery."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "This place has been too much work so I'd just like to close out my account & be done.",
+      "generated": "This account has become too burdensome, and I'd prefer to shut it down and move on."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I must change my PIN as soon as possible.",
+      "generated": "I need to update my PIN immediately."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "How can I change my Rowlock ?",
+      "generated": "How do I modify my PIN?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "where can i deposit a check",
+      "generated": "where can i make a deposit by cheque"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I must change my address.",
+      "generated": "I need to update my residential information."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Help me with a PIN change.",
+      "generated": "Assist me in updating my PIN."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "What if I type in the wrong PIN too many times?",
+      "generated": "What happens if I enter my PIN incorrectly multiple times?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "can the delivery be specific to my needs?",
+      "generated": "Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I want to close my account now.",
+      "generated": "I'd like to cancel my account immediately."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What do I need to do to get my salary through this?",
+      "generated": "How can I receive my salary payment through this channel?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I need a Visa and a Mastercard from you.",
+      "generated": "I require both a Visa and a Mastercard from your institution."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I want to change my PIN - do I need to be in a bank?",
+      "generated": "I'd like to modify my PIN - must I visit a bank branch to do so?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "What type of ID do you accept?",
+      "generated": "We accept various forms of identification. Which one would you like to provide?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Do you take checks?",
+      "generated": "Can you accept payments by cheque or cash?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Talk me through modifying my details.",
+      "generated": "Can you guide me through the process of updating my personal information?"
+    }
+  ]
+}

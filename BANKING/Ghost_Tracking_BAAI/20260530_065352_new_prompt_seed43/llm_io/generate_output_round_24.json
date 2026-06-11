@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "How are physical cards shipped or delivered?",
+    "Can I initiate transactions before completing the identity verification process?",
+    "Is there a fee for topping up my account via bank transfer?",
+    "looking to replace my expiring card, what are the associated fees?",
+    "I'm trying to stop a direct debit payment that was made from my account.",
+    "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account.",
+    "Can you help me find my missing card?",
+    "what is the charge for topping up my account using my card?",
+    "Can you confirm when I can expect to receive my card?",
+    "I was surprised to see a payment processing fee on my account. Can I request an exception since I wasn't aware of the fee beforehand?",
+    "I'm still seeing a pending charge of $1 on my account and I'd like to understand what it's for.",
+    "I'm trying to complete a transaction to secure a new property and require the funds for my initial mortgage payment. However, I'm encountering an issue and receiving an error message. Could you investigate the cause and assist me in resolving the transfer problem?",
+    "Can I modify my settings for receiving my salary in GBP?",
+    "Is my new card ready for use?",
+    "My cash withdrawal attempt was declined.",
+    "Can you accept payments by cheque or cash?",
+    "The seller informed me that they didn't receive the payment. Upon checking my account, I noticed that the payment was initially deducted, but it was then reversed and credited back to my account. Can you assist me with resolving this issue as soon as possible?",
+    "Can I initiate a currency exchange through the app?",
+    "What currencies can I exchange through the app?",
+    "How can I obtain a physical credit card?",
+    "I noticed an additional fee on my statement. Can you help me understand what it's for?",
+    "can I place a physical card order through the mobile app?",
+    "Why isn't my refund appearing in my account statement?",
+    "Is the exchange rate fee subject to change?",
+    "is there a charge for topping up my card balance?",
+    "Why is there a pending payment on my credit card still?",
+    "My statement has a pending charge for £1 that I don't recognize. Can you help me understand what this transaction is about?",
+    "What charges do I need to pay when I process a payment?",
+    "What are the charges for a standard physical card?",
+    "Is my credit card being rejected anywhere?",
+    "Can I cancel a transfer that's already been initiated?",
+    "describe the rate at which banks exchange one currency for another",
+    "Could you please let me know when I can expect my new card to arrive?",
+    "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet.",
+    "Will I be charged a fee when I top up my account using a bank transfer?",
+    "What currencies are accepted for international transactions with this service?"
+  ],
+  "generated_labels": [
+    43,
+    74,
+    56,
+    9,
+    28,
+    34,
+    41,
+    57,
+    12,
+    15,
+    34,
+    35,
+    50,
+    0,
+    26,
+    58,
+    53,
+    33,
+    33,
+    43,
+    34,
+    43,
+    51,
+    17,
+    57,
+    45,
+    34,
+    15,
+    43,
+    10,
+    8,
+    32,
+    11,
+    48,
+    56,
+    36
+  ],
+  "source_texts": [
+    "Where are the cards transported to?",
+    "Can I make transfers before my identity verification?",
+    "Does it cost me to add cash?",
+    "want a new card what are the fees",
+    "I need to cancel a transaction on my debit card.",
+    "Why is it showing that my account has been charged a dollar that is showing as pending?",
+    "Are you able to guide me to my card's location?",
+    "how much does it cost to add money",
+    "are you sending me my card?",
+    "I got charged a service fee on my account. Can it be waived since I didn't know about it before?",
+    "I had a dollar charged to my account that's still pending and wanted to know what the charge is for?",
+    "I need to know what is going on. I'm attempting to purchase a flat and need the money to pay on my initial mortgage payment. I'm only getting an error. Can you find out what's going on and help in making the transfer?",
+    "My salary comes in GBP can I change my options somewhere?",
+    "Can I use my new card?",
+    "My ATM transaction was cancelled.",
+    "Do you take checks?",
+    "The seller just told me he didn't get paid. After reviewing my account it did subtract the balance but now it has added it back to my account. I need you to please take care of this promptly.",
+    "Can i add a new currency to my account?",
+    "What currences are available for exchange?",
+    "what steps do i do to get a real card",
+    "There is an extra small charge on my card! What do I do?",
+    "can i order cards on the app",
+    "When will my returned transaction show up on my account?",
+    "Does the fee for exchange change?",
+    "is it free to add money to my card",
+    "Why is their a charge pending on my card still?",
+    "My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about.",
+    "What are the fees imposed when I make a transaction?",
+    "What fees do you charge for the standard card?",
+    "Is my card denied anywhere?",
+    "Is it possible for a transaction to be cancelled?",
+    "explain the interbank exchange rate",
+    "Can I get an update on my replacement card?",
+    "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+    "Will there be a charge when money is added to my account?",
+    "What types of foreign money can be used with this service.?"
+  ],
+  "records": [
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Where are the cards transported to?",
+      "generated": "How are physical cards shipped or delivered?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can I make transfers before my identity verification?",
+      "generated": "Can I initiate transactions before completing the identity verification process?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Does it cost me to add cash?",
+      "generated": "Is there a fee for topping up my account via bank transfer?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "want a new card what are the fees",
+      "generated": "looking to replace my expiring card, what are the associated fees?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I need to cancel a transaction on my debit card.",
+      "generated": "I'm trying to stop a direct debit payment that was made from my account."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is it showing that my account has been charged a dollar that is showing as pending?",
+      "generated": "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Are you able to guide me to my card's location?",
+      "generated": "Can you help me find my missing card?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how much does it cost to add money",
+      "generated": "what is the charge for topping up my account using my card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "are you sending me my card?",
+      "generated": "Can you confirm when I can expect to receive my card?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I got charged a service fee on my account. Can it be waived since I didn't know about it before?",
+      "generated": "I was surprised to see a payment processing fee on my account. Can I request an exception since I wasn't aware of the fee beforehand?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I had a dollar charged to my account that's still pending and wanted to know what the charge is for?",
+      "generated": "I'm still seeing a pending charge of $1 on my account and I'd like to understand what it's for."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I need to know what is going on. I'm attempting to purchase a flat and need the money to pay on my initial mortgage payment. I'm only getting an error. Can you find out what's going on and help in making the transfer?",
+      "generated": "I'm trying to complete a transaction to secure a new property and require the funds for my initial mortgage payment. However, I'm encountering an issue and receiving an error message. Could you investigate the cause and assist me in resolving the transfer problem?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My salary comes in GBP can I change my options somewhere?",
+      "generated": "Can I modify my settings for receiving my salary in GBP?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Can I use my new card?",
+      "generated": "Is my new card ready for use?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "My ATM transaction was cancelled.",
+      "generated": "My cash withdrawal attempt was declined."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Do you take checks?",
+      "generated": "Can you accept payments by cheque or cash?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "The seller just told me he didn't get paid. After reviewing my account it did subtract the balance but now it has added it back to my account. I need you to please take care of this promptly.",
+      "generated": "The seller informed me that they didn't receive the payment. Upon checking my account, I noticed that the payment was initially deducted, but it was then reversed and credited back to my account. Can you assist me with resolving this issue as soon as possible?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can i add a new currency to my account?",
+      "generated": "Can I initiate a currency exchange through the app?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "What currences are available for exchange?",
+      "generated": "What currencies can I exchange through the app?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "what steps do i do to get a real card",
+      "generated": "How can I obtain a physical credit card?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is an extra small charge on my card! What do I do?",
+      "generated": "I noticed an additional fee on my statement. Can you help me understand what it's for?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "can i order cards on the app",
+      "generated": "can I place a physical card order through the mobile app?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "When will my returned transaction show up on my account?",
+      "generated": "Why isn't my refund appearing in my account statement?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the fee for exchange change?",
+      "generated": "Is the exchange rate fee subject to change?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "is it free to add money to my card",
+      "generated": "is there a charge for topping up my card balance?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why is their a charge pending on my card still?",
+      "generated": "Why is there a pending payment on my credit card still?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about.",
+      "generated": "My statement has a pending charge for £1 that I don't recognize. Can you help me understand what this transaction is about?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "What are the fees imposed when I make a transaction?",
+      "generated": "What charges do I need to pay when I process a payment?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What fees do you charge for the standard card?",
+      "generated": "What are the charges for a standard physical card?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is my card denied anywhere?",
+      "generated": "Is my credit card being rejected anywhere?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Is it possible for a transaction to be cancelled?",
+      "generated": "Can I cancel a transfer that's already been initiated?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "explain the interbank exchange rate",
+      "generated": "describe the rate at which banks exchange one currency for another"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Can I get an update on my replacement card?",
+      "generated": "Could you please let me know when I can expect my new card to arrive?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+      "generated": "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will there be a charge when money is added to my account?",
+      "generated": "Will I be charged a fee when I top up my account using a bank transfer?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What types of foreign money can be used with this service.?",
+      "generated": "What currencies are accepted for international transactions with this service?"
+    }
+  ]
+}

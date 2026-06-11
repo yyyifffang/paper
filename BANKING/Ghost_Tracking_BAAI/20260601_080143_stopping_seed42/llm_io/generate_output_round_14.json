@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I require my funds in a different currency",
+    "I'm unable to complete any transactions with this virtual card.",
+    "The virtual payment card I was using wouldn't accept my transaction.",
+    "The recipient's account does not show the transferred funds.",
+    "Please assist me. My temporary virtual card is not functioning properly.",
+    "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?",
+    "What steps can I take to verify the security settings on my card through the mobile app?",
+    "The rate you're using for currency conversion is quite inaccurate. It's making me think about canceling my account.",
+    "My payment is still pending, what's the next step?",
+    "Can I use a cheque to make a payment?",
+    "What is the typical timeframe for transferring funds from China?",
+    "Are there additional fees for exchanging funds?",
+    "I'm having trouble understanding how to obtain a disposable virtual card. Can you assist me?",
+    "I require a large quantity of disposable cards daily, and I'd like the ability to discard them as needed.",
+    "What is the limit on the number of top-ups that can be processed?",
+    "Unidentified direct debit payment",
+    "We want to ensure the origin of your funds is legitimate and secure.",
+    "The app has cancelled the recent top-up I made. What should I do now?",
+    "What is the timing for transferring funds to China?",
+    "what happened to the funds after I entered incorrect details and the transaction was declined using my card?",
+    "Why haven't my card payment cleared yet?",
+    "The cash transfer I initiated hasn't been reflected on the recipient's end.",
+    "If the ATM or payment terminal declines my card, what should I do next?",
+    "Can you tell me about the quickest way to initiate a transfer?",
+    "Is it possible for my friend to transfer funds to me?",
+    "Can I still make a deposit into my account using a bank transfer, even though my account is currently empty?",
+    "I'm having some issues with my card, I'm not sure what's going on, I attempted to use the ATM earlier but it didn't work, and it appears that the cash withdrawal is still pending, could you please assist me in canceling it?",
+    "Who is eligible for assistance?",
+    "My transfers are consistently failing, and I've experienced this issue at least 5 times.",
+    "The recipient of my money transfer is unable to view the transaction.",
+    "my phone is currently at a hotel, can I still access the app?",
+    "Why isn't my refund showing up in my account?",
+    "Could you provide a discount for me, as I regularly need to exchange currencies?",
+    "I'm unable to make any transactions with my card.",
+    "I'm not aware of the status of the transfer.",
+    "The app is not displaying my recent transactions"
+  ],
+  "generated_labels": [
+    50,
+    72,
+    72,
+    66,
+    72,
+    17,
+    14,
+    17,
+    45,
+    58,
+    67,
+    31,
+    37,
+    29,
+    60,
+    28,
+    70,
+    61,
+    67,
+    62,
+    45,
+    66,
+    14,
+    67,
+    50,
+    65,
+    46,
+    24,
+    35,
+    66,
+    42,
+    51,
+    31,
+    14,
+    66,
+    66
+  ],
+  "source_texts": [
+    "I need my payment in another currency",
+    "I can't do any business with this virtual card.",
+    "My disposable virtual card wouldn't process my payment?",
+    "Money is not in recipients account.",
+    "Please help me.  My disposable virtual card won't work right.",
+    "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+    "How do I check security settings using the app?",
+    "The exchange rate used on your app is really bad. I'm considering closing my account because of it.",
+    "My card has been pending for a while, what should I do?",
+    "Will a cheque suffice?",
+    "How fast can I transfer something from China?",
+    "Do I have to pay more for exchanges?",
+    "I'm not sure how disposable virtual cards work. Please help.",
+    "I need several cards per day. And I need to be able to throw away all of the cards I make.",
+    "How many top-ups can be approved?",
+    "Unusual direct deposit",
+    "What kind of security protects my money?",
+    "The app reversed a top off I had.  What should I do?",
+    "How quickly can I transfer something to China?",
+    "what happened to the money after i put in the wrong info and it got declined",
+    "Why aren't my payment funds available to me?",
+    "My cash transaction isn't showing on my receipt",
+    "What do I do if the machine rejects my card?",
+    "How do i transfer something faster than normal?",
+    "My friend wants to send me money, can she?",
+    "My account is devoid of funds. Am I permitted to submit additional money via bank transfer?",
+    "Hello, I'm having trouble with my card, I don't understand what's happening, I tried using the ATM machine earlier but it wasn't working but seems like the transactions is still in progress, can you cancel it for me?",
+    "Who gets support?",
+    "Your system is broken. My transfers keep failing, 5 times now.",
+    "Why can't the recepient of my money transaction see it?",
+    "phone is at a hotel, can i still use app",
+    "Why hasn't my return cleared my account?",
+    "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+    "I can't use my card for anything",
+    "I do not know where the transaction is.",
+    "The app isn't showing my transactions"
+  ],
+  "records": [
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I need my payment in another currency",
+      "generated": "I require my funds in a different currency"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't do any business with this virtual card.",
+      "generated": "I'm unable to complete any transactions with this virtual card."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card wouldn't process my payment?",
+      "generated": "The virtual payment card I was using wouldn't accept my transaction."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Money is not in recipients account.",
+      "generated": "The recipient's account does not show the transferred funds."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Please help me.  My disposable virtual card won't work right.",
+      "generated": "Please assist me. My temporary virtual card is not functioning properly."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+      "generated": "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I check security settings using the app?",
+      "generated": "What steps can I take to verify the security settings on my card through the mobile app?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate used on your app is really bad. I'm considering closing my account because of it.",
+      "generated": "The rate you're using for currency conversion is quite inaccurate. It's making me think about canceling my account."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "My card has been pending for a while, what should I do?",
+      "generated": "My payment is still pending, what's the next step?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Will a cheque suffice?",
+      "generated": "Can I use a cheque to make a payment?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How fast can I transfer something from China?",
+      "generated": "What is the typical timeframe for transferring funds from China?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do I have to pay more for exchanges?",
+      "generated": "Are there additional fees for exchanging funds?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I'm not sure how disposable virtual cards work. Please help.",
+      "generated": "I'm having trouble understanding how to obtain a disposable virtual card. Can you assist me?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "I need several cards per day. And I need to be able to throw away all of the cards I make.",
+      "generated": "I require a large quantity of disposable cards daily, and I'd like the ability to discard them as needed."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How many top-ups can be approved?",
+      "generated": "What is the limit on the number of top-ups that can be processed?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Unusual direct deposit",
+      "generated": "Unidentified direct debit payment"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What kind of security protects my money?",
+      "generated": "We want to ensure the origin of your funds is legitimate and secure."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "The app reversed a top off I had.  What should I do?",
+      "generated": "The app has cancelled the recent top-up I made. What should I do now?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How quickly can I transfer something to China?",
+      "generated": "What is the timing for transferring funds to China?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "what happened to the money after i put in the wrong info and it got declined",
+      "generated": "what happened to the funds after I entered incorrect details and the transaction was declined using my card?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why aren't my payment funds available to me?",
+      "generated": "Why haven't my card payment cleared yet?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "My cash transaction isn't showing on my receipt",
+      "generated": "The cash transfer I initiated hasn't been reflected on the recipient's end."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What do I do if the machine rejects my card?",
+      "generated": "If the ATM or payment terminal declines my card, what should I do next?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How do i transfer something faster than normal?",
+      "generated": "Can you tell me about the quickest way to initiate a transfer?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My friend wants to send me money, can she?",
+      "generated": "Is it possible for my friend to transfer funds to me?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "My account is devoid of funds. Am I permitted to submit additional money via bank transfer?",
+      "generated": "Can I still make a deposit into my account using a bank transfer, even though my account is currently empty?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hello, I'm having trouble with my card, I don't understand what's happening, I tried using the ATM machine earlier but it wasn't working but seems like the transactions is still in progress, can you cancel it for me?",
+      "generated": "I'm having some issues with my card, I'm not sure what's going on, I attempted to use the ATM earlier but it didn't work, and it appears that the cash withdrawal is still pending, could you please assist me in canceling it?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Who gets support?",
+      "generated": "Who is eligible for assistance?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Your system is broken. My transfers keep failing, 5 times now.",
+      "generated": "My transfers are consistently failing, and I've experienced this issue at least 5 times."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why can't the recepient of my money transaction see it?",
+      "generated": "The recipient of my money transfer is unable to view the transaction."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "phone is at a hotel, can i still use app",
+      "generated": "my phone is currently at a hotel, can I still access the app?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Why hasn't my return cleared my account?",
+      "generated": "Why isn't my refund showing up in my account?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+      "generated": "Could you provide a discount for me, as I regularly need to exchange currencies?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't use my card for anything",
+      "generated": "I'm unable to make any transactions with my card."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I do not know where the transaction is.",
+      "generated": "I'm not aware of the status of the transfer."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "The app isn't showing my transactions",
+      "generated": "The app is not displaying my recent transactions"
+    }
+  ]
+}

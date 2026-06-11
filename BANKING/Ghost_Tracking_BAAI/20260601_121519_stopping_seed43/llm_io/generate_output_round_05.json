@@ -1,0 +1,370 @@
+{
+  "generated_texts": [
+    "what's the purpose of verifying my identity",
+    "Is there a tracking number I can use to monitor the status of my card arrival?",
+    "I've misplaced my passcode",
+    "We're verifying your identity to ensure the security and integrity of your account.",
+    "What is the daily spending limit on my credit card?",
+    "Can I know the spending limit on my disposable card?",
+    "Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?",
+    "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.",
+    "What's the purpose behind all these inquiries about my identity?",
+    "How many transactions can I make with a disposable card?",
+    "Describe the virtual card process",
+    "How long will it take to resolve the issue with my card not working?",
+    "How do I obtain a disposable virtual card and use it for transactions?",
+    "I'm unsure if my top-up was successfully processed.",
+    "I've forgotten the passcode for the mobile banking app.",
+    "Are there any digital cards available instead of traditional physical cards?",
+    "What is the maximum number of transactions I can make with a disposable card?",
+    "We're asking for this information to ensure your identity is verified accurately.",
+    "I've misplaced my phone and can't access my account information to make the payment.",
+    "How long does it take for the courier to deliver the card?",
+    "Can you provide an estimate for the delivery of my card?",
+    "I attempted to book a flight online this morning, but my credit card details aren't being accepted. Is there an issue with my account?",
+    "We're verifying your identity to ensure the security and integrity of your account.",
+    "At what point does the account balance need to reach before the automatic top-up feature kicks in?",
+    "We're unable to identify a Direct Debit payment in your account records.",
+    "I'm being requested to provide a verification code. Can you please guide me on how to obtain it?",
+    "I've missed a payment and I'm providing the payment now.",
+    "Can you please confirm your identity by providing your identification documents?",
+    "Can you confirm if it's possible to arrange for the card delivery on a specific date?",
+    "I'd like to obtain a virtual card, please.",
+    "I have a preference for Mastercard.",
+    "Have you checked my account balance recently?",
+    "What's the purpose of verifying my identity?",
+    "May I request information about the verification process for your identity?",
+    "We've noticed a direct debit payment that doesn't seem to be recognized in your account records.",
+    "We're having trouble confirming your identity",
+    "Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?",
+    "The system is unable to confirm that the information provided matches your identity.",
+    "Is there an option to expedite the delivery of my card for an additional fee?",
+    "can you provide the tracking number for my card?"
+  ],
+  "generated_labels": [
+    69,
+    11,
+    44,
+    74,
+    60,
+    29,
+    12,
+    15,
+    74,
+    29,
+    40,
+    14,
+    37,
+    59,
+    44,
+    40,
+    29,
+    74,
+    42,
+    11,
+    12,
+    14,
+    74,
+    4,
+    28,
+    71,
+    16,
+    69,
+    12,
+    40,
+    73,
+    5,
+    74,
+    69,
+    28,
+    68,
+    12,
+    68,
+    12,
+    11
+  ],
+  "source_texts": [
+    "why do I need to show ID",
+    "Was there a number to track that I could get?",
+    "I can't find my code",
+    "Why do I have to give you my drivers license",
+    "What is the daily limit on my card?",
+    "On my disposable card, is there a transaction limit?",
+    "Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.",
+    "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+    "Why are you asking so many questions about who I am",
+    "What is the number of transactions I get with a disposable card?",
+    "explain the virtual card",
+    "HOW LONG TO TAKE THE TIME TO SOLVE",
+    "What is the procedure for depositing a virtual card",
+    "I'm not sure if my pop-up went through.",
+    "I don't know the code for the app.",
+    "And do you have virtual cards instead of physical ones?",
+    "How many payments can I make using a virtual card?",
+    "Why do you need so much id info from me?",
+    "I don't have my mobile device and am unable to make the payment because I forgot my details.",
+    "maximum how many days get the courier?",
+    "can you express my card to me?",
+    "I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account?",
+    "Why do you need my name and ID",
+    "How low does the balance have to be before the system updates?",
+    "I don't recognise a Direct Debit payment",
+    "I'm being asked for a verification code. Where do I find it?",
+    "I didn't do a payment and I have it now.",
+    "why do I have to show my ID",
+    "If I need delivery on a certain day, is that something that could be accommodated?",
+    "I would love one of the virtual cards!",
+    "Mastercard is preferred to me.",
+    "Can you see my new balance yet?",
+    "Why does it matter that I prove my identity?",
+    "Can I get information on the identity checks?",
+    "Why is there a direct debit set up in my name?",
+    "I am having a problem proving who I am",
+    "can the delivery be specific to my needs?",
+    "The app does not believe that I am myself",
+    "Can I pay more to get it deliver quicker?",
+    "can you share card tracking number?"
+  ],
+  "records": [
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "why do I need to show ID",
+      "generated": "what's the purpose of verifying my identity"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Was there a number to track that I could get?",
+      "generated": "Is there a tracking number I can use to monitor the status of my card arrival?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't find my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why do I have to give you my drivers license",
+      "generated": "We're verifying your identity to ensure the security and integrity of your account."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What is the daily limit on my card?",
+      "generated": "What is the daily spending limit on my credit card?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "On my disposable card, is there a transaction limit?",
+      "generated": "Can I know the spending limit on my disposable card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.",
+      "generated": "Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+      "generated": "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why are you asking so many questions about who I am",
+      "generated": "What's the purpose behind all these inquiries about my identity?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "What is the number of transactions I get with a disposable card?",
+      "generated": "How many transactions can I make with a disposable card?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "explain the virtual card",
+      "generated": "Describe the virtual card process"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "HOW LONG TO TAKE THE TIME TO SOLVE",
+      "generated": "How long will it take to resolve the issue with my card not working?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "What is the procedure for depositing a virtual card",
+      "generated": "How do I obtain a disposable virtual card and use it for transactions?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I'm not sure if my pop-up went through.",
+      "generated": "I'm unsure if my top-up was successfully processed."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I don't know the code for the app.",
+      "generated": "I've forgotten the passcode for the mobile banking app."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "And do you have virtual cards instead of physical ones?",
+      "generated": "Are there any digital cards available instead of traditional physical cards?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "How many payments can I make using a virtual card?",
+      "generated": "What is the maximum number of transactions I can make with a disposable card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why do you need so much id info from me?",
+      "generated": "We're asking for this information to ensure your identity is verified accurately."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I don't have my mobile device and am unable to make the payment because I forgot my details.",
+      "generated": "I've misplaced my phone and can't access my account information to make the payment."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "maximum how many days get the courier?",
+      "generated": "How long does it take for the courier to deliver the card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "can you express my card to me?",
+      "generated": "Can you provide an estimate for the delivery of my card?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account?",
+      "generated": "I attempted to book a flight online this morning, but my credit card details aren't being accepted. Is there an issue with my account?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why do you need my name and ID",
+      "generated": "We're verifying your identity to ensure the security and integrity of your account."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How low does the balance have to be before the system updates?",
+      "generated": "At what point does the account balance need to reach before the automatic top-up feature kicks in?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I don't recognise a Direct Debit payment",
+      "generated": "We're unable to identify a Direct Debit payment in your account records."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I'm being asked for a verification code. Where do I find it?",
+      "generated": "I'm being requested to provide a verification code. Can you please guide me on how to obtain it?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I didn't do a payment and I have it now.",
+      "generated": "I've missed a payment and I'm providing the payment now."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "why do I have to show my ID",
+      "generated": "Can you please confirm your identity by providing your identification documents?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "If I need delivery on a certain day, is that something that could be accommodated?",
+      "generated": "Can you confirm if it's possible to arrange for the card delivery on a specific date?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I would love one of the virtual cards!",
+      "generated": "I'd like to obtain a virtual card, please."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Mastercard is preferred to me.",
+      "generated": "I have a preference for Mastercard."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you see my new balance yet?",
+      "generated": "Have you checked my account balance recently?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why does it matter that I prove my identity?",
+      "generated": "What's the purpose of verifying my identity?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Can I get information on the identity checks?",
+      "generated": "May I request information about the verification process for your identity?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Why is there a direct debit set up in my name?",
+      "generated": "We've noticed a direct debit payment that doesn't seem to be recognized in your account records."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I am having a problem proving who I am",
+      "generated": "We're having trouble confirming your identity"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "can the delivery be specific to my needs?",
+      "generated": "Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app does not believe that I am myself",
+      "generated": "The system is unable to confirm that the information provided matches your identity."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I pay more to get it deliver quicker?",
+      "generated": "Is there an option to expedite the delivery of my card for an additional fee?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "can you share card tracking number?",
+      "generated": "can you provide the tracking number for my card?"
+    }
+  ]
+}

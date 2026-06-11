@@ -1,0 +1,37 @@
+GEN | [unable_to_verify_identity] | Orig: The app failed to verify me. -> Aug: The system was unable to confirm my identity.
+GEN | [country_support] | Orig: I just moved to the US how do I get a card? -> Aug: I've recently relocated to the United States and would like to obtain a new card.
+GEN | [card_acceptance] | Orig: Do you have a list of businesses that accept this card? -> Aug: Can you provide a list of merchants that accept this particular card?
+GEN | [card_payment_fee_charged] | Orig: I was charged and shouldn't have been charged when using my card! -> Aug: I was unexpectedly billed a fee for using my card, which I believe was an error.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you check if my money has reached my account since it is not showing up yet? -> Aug: Can you investigate why my account balance is not reflecting the recent bank transfer I made, as it's not updating yet?
+GEN | [direct_debit_payment_not_recognised] | Orig: Someone else charged my card! -> Aug: A payment made from my account was not recognized.
+GEN | [card_acceptance] | Orig: Who accepts the card? -> Aug: What financial institutions or merchants accept the card?
+GEN | [verify_source_of_funds] | Orig: How can I look at where my available cash is coming from? -> Aug: Can you help me identify the source of my available funds?
+GEN | [pending_transfer] | Orig: How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately? -> Aug: How long does it typically take for a seller to receive a pending transfer after I initiate the payment immediately?
+GEN | [transfer_fee_charged] | Orig: I need to know how much it costs to transfer funds. -> Aug: I'd like to inquire about the transfer fee associated with moving funds.
+GEN | [pending_card_payment] | Orig: I made a payment with my card and it hasn't changed. How long do you think this will take? -> Aug: I authorized a payment using my card, but the status remains pending. Can you tell me when I can expect it to be processed?
+GEN | [top_up_failed] | Orig: I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please? -> Aug: I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?
+GEN | [pending_card_payment] | Orig: I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending. -> Aug: I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?
+GEN | [passcode_forgotten] | Orig: I can't remember my app code, can you reset it? -> Aug: I've forgotten my passcode, could you please reset it for me?
+GEN | [passcode_forgotten] | Orig: Can my password be reset if I do not have it? -> Aug: Can I recover my passcode if I've forgotten it?
+GEN | [topping_up_by_card] | Orig: Can I get my friends to add money to my account? -> Aug: Can I have my friends use their cards to top up my account?
+GEN | [visa_or_mastercard] | Orig: Can I get a Visa or does it have to be something else. -> Aug: Can I use a Mastercard instead, or is it specifically a Visa requirement?
+GEN | [card_payment_not_recognised] | Orig: There are a couple payments with my card shown in the app that i really didn't make myself. What's happenning with this, does someone has access to my card?! -> Aug: I'm seeing some transactions on my card in the app that I didn't authorize. Can you help me figure out what's going on? Is someone else using my card without my permission?
+GEN | [pending_card_payment] | Orig: I was wondering how long does it take for a payment to go thru? It seems my last payment is stuck and hasn't moved. -> Aug: I'm concerned about the status of my recent payment. Can you please let me know when I can expect it to be processed?
+GEN | [compromised_card] | Orig: I think my card has been used by somebody else since I was never in the little town where some transactions on this bill have come from. Please stop this right away. -> Aug: I believe someone else has used my card, as I've never been to the location where some transactions on my statement are from. Please take immediate action to resolve this issue.
+GEN | [card_linking] | Orig: I don't see my card anywhere in the app. -> Aug: I'm unable to locate my card within the app.
+GEN | [edit_personal_details] | Orig: my identity hasn't been verified and i can't edit my details, what's next -> Aug: since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?
+GEN | [country_support] | Orig: Can an American resident apply to get a card? -> Aug: Is a US citizen eligible to apply for a credit card?
+GEN | [getting_spare_card] | Orig: I need a new card. -> Aug: I require a replacement card.
+GEN | [pin_blocked] | Orig: I logged in wrong and am blocked, how do I log in? -> Aug: I mistakenly entered my PIN and now I'm unable to access my account, can you help me log in?
+GEN | [card_acceptance] | Orig: Where can I pay with my card? -> Aug: How can I use my card for payment?
+GEN | [topping_up_by_card] | Orig: Can a friend top up my account -> Aug: Can someone add funds to my account using their card?
+GEN | [transfer_not_received_by_recipient] | Orig: When are you going to transfer the money? -> Aug: When will the transfer be delivered to the recipient?
+GEN | [wrong_amount_of_cash_received] | Orig: Yikes!  I didn't get the amount of money that I requested.  What do I do now? -> Aug: I'm shortchanged! I received less cash than I was supposed to get. How do I resolve this issue?
+GEN | [Refund_not_showing_up] | Orig: I returned an item but don't see it on my account? -> Aug: I sent back a product, but the refund isn't showing up on my statement.
+GEN | [top_up_failed] | Orig: How can correct Top up with the app to work correctly? -> Aug: Why is the top-up process not functioning properly when attempting to use the app?
+GEN | [card_linking] | Orig: Card has been received, how will it show up on the app? -> Aug: How will the newly received card be reflected in the app?
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I top up online? -> Aug: Can I make a cash or cheque deposit online?
+GEN | [exchange_via_app] | Orig: Can I use this app for both USD and GBP? -> Aug: Can I make exchanges through this app for both US dollars and British pounds?
+GEN | [extra_charge_on_statement] | Orig: I was charged $1 in a transaction. -> Aug: I was unexpectedly billed an additional amount in a recent transaction.
+GEN | [transaction_charged_twice] | Orig: My card was declined but it shows as multiple charges? -> Aug: I made a purchase, but it looks like I've been charged twice, even though my card was declined.
+GEN | [order_physical_card] | Orig: I would like to request a card. -> Aug: I'd like to place an order for a physical card.

@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "In what currencies can I exchange and hold my funds?",
+    "My temporary virtual card was declined",
+    "I'd like to make an online purchase without using my credit card. Can you explain how a temporary virtual card works and where I can obtain one for this transaction?",
+    "What are the details about my limit for making top-ups?",
+    "If I require additional cards, will I be charged a fee for obtaining them?",
+    "why hasn't my account balance been updated after the deposit I made this morning?",
+    "I misplaced my card and require a replacement, what's the fee for a new one?",
+    "how can I charge my card to add funds?",
+    "What is the process and timeline for replacing an expiring card?",
+    "I'm concerned that someone might have unauthorized access to my card. I've checked my app and noticed a few transactions that I'm certain I didn't make. Could you investigate this issue and let me know what's happening?",
+    "If I make a top-up payment via bank transfer, are there any charges involved?",
+    "I'd like to request additional physical debit/credit cards, could you please inform me about my available limit?",
+    "How can I get my payroll deposited into my account?",
+    "can I recharge my account using a card charge instead?",
+    "I require a replacement card as my previous one has been stolen.",
+    "Can you please inform me about the payment methods you accept, specifically the cards you support?",
+    "I'm looking for information on the fiat currencies your bank accepts.",
+    "I'm currently traveling in Spain and I'm concerned that someone might have noticed my PIN. Can I modify it at a nearby ATM?",
+    "I'd like to request a new physical card.",
+    "Where can I access cash from an ATM?",
+    "I'm concerned about the security of my card.",
+    "I'm unable to locate a payment in my account records.",
+    "I require a replacement card.",
+    "I was mistakenly paid in a foreign currency. Can you help me convert this to the correct one?",
+    "Can I set up recurring automatic top-ups?",
+    "We've never processed a payment from that merchant before. This transaction appears to be unauthorized.",
+    "I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?",
+    "Where can I place an order for a physical card?",
+    "I was unable to complete a transfer from my account.",
+    "I encountered an error while attempting to make a top-up, and it was cancelled.",
+    "We accept a range of payment cards",
+    "Why hasn't my account balance been updated to reflect the recent transfer I made?",
+    "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well.",
+    "Can I switch the currency I'm using through your app?",
+    "Can you explain the process for utilizing the virtual disposable cards?",
+    "Does your bank support transactions in my local currency?",
+    "Was my card payment reversed?",
+    "I'm confused about the status of my account. I thought I had successfully topped up my account using cryptocurrency, but it appears the transaction was reversed, and the funds have been deducted from my account without my consent.",
+    "Which ATMs accept this card?"
+  ],
+  "generated_labels": [
+    36,
+    72,
+    37,
+    60,
+    39,
+    6,
+    39,
+    57,
+    9,
+    16,
+    56,
+    39,
+    50,
+    57,
+    41,
+    54,
+    36,
+    21,
+    43,
+    3,
+    22,
+    16,
+    39,
+    50,
+    4,
+    16,
+    6,
+    43,
+    35,
+    61,
+    54,
+    5,
+    41,
+    33,
+    37,
+    36,
+    53,
+    61,
+    3
+  ],
+  "source_texts": [
+    "In the exchange and holding, what fiat is allowed?",
+    "My disposable virtual card got rejected",
+    "I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?",
+    "How can I information on my limit for top-ups?",
+    "If I need more than cards will I have to pay a fee to receive them?",
+    "where is my money from this morning",
+    "I lost my card and need a new one, will it cost me?",
+    "how should i add money to my card",
+    "What is the cost and time frame of getting a new card?",
+    "Is it possible someone has access to my card? I noticed that there are a couple of payments in the app I'm sure I did not make. Can you find out what's going on here?",
+    "If I top-up by using a trasfer are there charges that applied?",
+    "I would like some more physical cards, what is my limit?",
+    "What do I need to do to receive my payroll in the account?",
+    "should i add money via bank transfer instead",
+    "I need to order a new card as my other one was stolen.",
+    "Top up my card please, which y'all support?",
+    "I need to know which flat currencies are supported by you.",
+    "I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM?",
+    "I need to order a new card.",
+    "Where should I withdraw money from?",
+    "am suspicious of my card's security",
+    "I do not recongize a payment in my account.",
+    "I need a new card.",
+    "I received my salary in the wrong currency. How do I change this?",
+    "Can I schedule future top ups?",
+    "I've never been to that store.  That's a fraudulent charge.",
+    "I put some money in my account the other day and it's not gone in yet, can you help with this?",
+    "Show me where to order my card.",
+    "I couldnt transfer money from my account.",
+    "I got an cancellation error when I was topping up.",
+    "What cards do you support",
+    "Why hasn't my account updated to reflect my current balance?",
+    "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+    "Do you support changing the currency I use?",
+    "Will you tell me how I am supposed to use the disposable cards?",
+    "Is my country's currency supported by your system?",
+    "I didn't cancel my card payment.",
+    "I need to know what's going on. I was under the impression you offered cryto top up which doesn't seem to be working and money has just vanished from my account.",
+    "What cash stations take this card?"
+  ],
+  "records": [
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "In the exchange and holding, what fiat is allowed?",
+      "generated": "In what currencies can I exchange and hold my funds?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card got rejected",
+      "generated": "My temporary virtual card was declined"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?",
+      "generated": "I'd like to make an online purchase without using my credit card. Can you explain how a temporary virtual card works and where I can obtain one for this transaction?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How can I information on my limit for top-ups?",
+      "generated": "What are the details about my limit for making top-ups?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "If I need more than cards will I have to pay a fee to receive them?",
+      "generated": "If I require additional cards, will I be charged a fee for obtaining them?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "where is my money from this morning",
+      "generated": "why hasn't my account balance been updated after the deposit I made this morning?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I lost my card and need a new one, will it cost me?",
+      "generated": "I misplaced my card and require a replacement, what's the fee for a new one?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how should i add money to my card",
+      "generated": "how can I charge my card to add funds?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What is the cost and time frame of getting a new card?",
+      "generated": "What is the process and timeline for replacing an expiring card?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Is it possible someone has access to my card? I noticed that there are a couple of payments in the app I'm sure I did not make. Can you find out what's going on here?",
+      "generated": "I'm concerned that someone might have unauthorized access to my card. I've checked my app and noticed a few transactions that I'm certain I didn't make. Could you investigate this issue and let me know what's happening?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "If I top-up by using a trasfer are there charges that applied?",
+      "generated": "If I make a top-up payment via bank transfer, are there any charges involved?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I would like some more physical cards, what is my limit?",
+      "generated": "I'd like to request additional physical debit/credit cards, could you please inform me about my available limit?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What do I need to do to receive my payroll in the account?",
+      "generated": "How can I get my payroll deposited into my account?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "should i add money via bank transfer instead",
+      "generated": "can I recharge my account using a card charge instead?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I need to order a new card as my other one was stolen.",
+      "generated": "I require a replacement card as my previous one has been stolen."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Top up my card please, which y'all support?",
+      "generated": "Can you please inform me about the payment methods you accept, specifically the cards you support?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "I need to know which flat currencies are supported by you.",
+      "generated": "I'm looking for information on the fiat currencies your bank accepts."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM?",
+      "generated": "I'm currently traveling in Spain and I'm concerned that someone might have noticed my PIN. Can I modify it at a nearby ATM?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need to order a new card.",
+      "generated": "I'd like to request a new physical card."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where should I withdraw money from?",
+      "generated": "Where can I access cash from an ATM?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "am suspicious of my card's security",
+      "generated": "I'm concerned about the security of my card."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recongize a payment in my account.",
+      "generated": "I'm unable to locate a payment in my account records."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I need a new card.",
+      "generated": "I require a replacement card."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I received my salary in the wrong currency. How do I change this?",
+      "generated": "I was mistakenly paid in a foreign currency. Can you help me convert this to the correct one?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I schedule future top ups?",
+      "generated": "Can I set up recurring automatic top-ups?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I've never been to that store.  That's a fraudulent charge.",
+      "generated": "We've never processed a payment from that merchant before. This transaction appears to be unauthorized."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I put some money in my account the other day and it's not gone in yet, can you help with this?",
+      "generated": "I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Show me where to order my card.",
+      "generated": "Where can I place an order for a physical card?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I couldnt transfer money from my account.",
+      "generated": "I was unable to complete a transfer from my account."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I got an cancellation error when I was topping up.",
+      "generated": "I encountered an error while attempting to make a top-up, and it was cancelled."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What cards do you support",
+      "generated": "We accept a range of payment cards"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why hasn't my account updated to reflect my current balance?",
+      "generated": "Why hasn't my account balance been updated to reflect the recent transfer I made?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+      "generated": "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Do you support changing the currency I use?",
+      "generated": "Can I switch the currency I'm using through your app?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Will you tell me how I am supposed to use the disposable cards?",
+      "generated": "Can you explain the process for utilizing the virtual disposable cards?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Is my country's currency supported by your system?",
+      "generated": "Does your bank support transactions in my local currency?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I didn't cancel my card payment.",
+      "generated": "Was my card payment reversed?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I need to know what's going on. I was under the impression you offered cryto top up which doesn't seem to be working and money has just vanished from my account.",
+      "generated": "I'm confused about the status of my account. I thought I had successfully topped up my account using cryptocurrency, but it appears the transaction was reversed, and the funds have been deducted from my account without my consent."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "What cash stations take this card?",
+      "generated": "Which ATMs accept this card?"
+    }
+  ]
+}

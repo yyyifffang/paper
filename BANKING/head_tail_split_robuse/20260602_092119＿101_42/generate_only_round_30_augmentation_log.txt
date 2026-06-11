@@ -1,0 +1,38 @@
+GEN | [card_about_to_expire] | Orig: My card expires soon, will you send me one automatically? -> Aug: My credit card's expiration date is approaching, will you automatically issue a new one for me?
+GEN | [compromised_card] | Orig: my card details could be stolen, as i didnt make these transactions -> Aug: my personal card information might have been compromised, since I didn't authorize these transactions
+GEN | [cash_withdrawal_not_recognised] | Orig: I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me? -> Aug: I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?
+GEN | [get_physical_card] | Orig: I've been waiting ages and my PIN hasn't gotten here. -> Aug: I've been waiting for a while and my physical card still hasn't arrived.
+GEN | [lost_or_stolen_phone] | Orig: Can my account me accessed by a thief?  I was mugged. -> Aug: Can my account be accessed by an unauthorized person? I had my phone stolen.
+GEN | [beneficiary_not_allowed] | Orig: I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here? -> Aug: I'm having trouble finalizing a transaction. I'm attempting to buy some cryptocurrency, but the app is preventing me from doing so. Can you help me understand what's blocking this process?
+GEN | [pin_blocked] | Orig: I attempted to enter my pin to many times. -> Aug: I tried to enter my PIN multiple times.
+GEN | [cash_withdrawal_charge] | Orig: Could you explain your rules for ATM fees? -> Aug: What are the charges for withdrawing cash from an ATM?
+GEN | [card_acceptance] | Orig: How do I know where I can use my card? -> Aug: Where can I use my card?
+GEN | [failed_transfer] | Orig: I am trying to transfer money and something is going wrong. -> Aug: I'm having trouble completing a transfer and it's not going through as expected.
+GEN | [card_payment_not_recognised] | Orig: I don't think I made this transaction on my statement -> Aug: I'm not sure if I authorized this payment on my recent statement.
+GEN | [transfer_fee_charged] | Orig: I have used this account overseas recently. Has there been an increase in fees that I am unaware of? -> Aug: I've been making international transactions from this account lately. Are there any new or changed fees I should be aware of?
+GEN | [country_support] | Orig: Although I am not located in the UK area, may i still receive a card? -> Aug: Despite not being based in the UK, can I still obtain a card?
+GEN | [cancel_transfer] | Orig: How do i cancel a charge? -> Aug: How can I stop a pending transfer?
+GEN | [activate_my_card] | Orig: How long does it take to activate the card, as it does not look like its working? -> Aug: How long does it take to enable my card, as it appears to be inactive?
+GEN | [wrong_amount_of_cash_received] | Orig: How can I get my money that I didn't get from the ATM? -> Aug: I'm trying to retrieve the cash I didn't receive from the ATM transaction.
+GEN | [cash_withdrawal_not_recognised] | Orig: I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out? -> Aug: I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?
+GEN | [cash_withdrawal_charge] | Orig: I hate this ATM, it charged me an extra fee, Why did it charge? -> Aug: I'm really frustrated with this ATM, it slapped me with an unexpected fee, Can you tell me why it did that?
+GEN | [top_up_by_card_charge] | Orig: What are the fees for using a European bank card? -> Aug: What are the charges for making a payment using a European bank card?
+GEN | [cancel_transfer] | Orig: My morning transaction needs to be canceled. -> Aug: I'd like to cancel the transfer I initiated this morning.
+GEN | [supported_cards_and_currencies] | Orig: Do I have to top up in euros if I use a card, or can I use a different currency? -> Aug: Can I use a different currency when making a payment with a card, or do I need to use euros?
+GEN | [card_swallowed] | Orig: Why did the ATM take my card and keep it? -> Aug: The ATM swallowed my card, and I want to know why it's holding onto it.
+GEN | [card_swallowed] | Orig: I need a new card because the ATM took mine. -> Aug: I require a replacement card because I accidentally swallowed my original one.
+GEN | [failed_transfer] | Orig: Can you tell my why my funds transfer did not work properly? -> Aug: Why did my recent transfer fail to process as expected?
+GEN | [cash_withdrawal_charge] | Orig: Why is there a charge when I took out money? -> Aug: Why am I being charged for the cash withdrawal?
+GEN | [verify_source_of_funds] | Orig: I need to see where my money came from. -> Aug: I'd like to confirm the origin of the funds in my account.
+GEN | [beneficiary_not_allowed] | Orig: I cant transfer money into my account -> Aug: I'm unable to add funds to my account.
+GEN | [failed_transfer] | Orig: I couldnt transfer money from my account. -> Aug: I was unable to complete a transfer from my account.
+GEN | [top_up_by_card_charge] | Orig: Are there still fees for european top-ups? -> Aug: Are there any charges for making a top-up payment using my card in Europe?
+GEN | [virtual_card_not_working] | Orig: My disposable virtual card got rejected -> Aug: My temporary virtual card was declined
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn. -> Aug: I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction.
+GEN | [cash_withdrawal_charge] | Orig: Explain the extra ATM fees. -> Aug: What are the additional charges for withdrawing cash from an ATM?
+GEN | [card_payment_not_recognised] | Orig: I've never been to that store.  That's a fraudulent charge. -> Aug: We've never processed a payment from that merchant before. This transaction appears to be unauthorized.
+GEN | [order_physical_card] | Orig: Do you ship your cards anywhere? -> Aug: Can you deliver your physical cards to any location?
+GEN | [card_about_to_expire] | Orig: What is the cost and time frame of getting a new card? -> Aug: What is the process and timeline for replacing an expiring card?
+GEN | [transfer_not_received_by_recipient] | Orig: I've checked multiple times to make sure the account number listed is the right one after attempting to make a transfer within the country the day before yesterday. The transfer is still not available so can you please find out what is going on? -> Aug: I've double-checked the account number to ensure it's accurate, as I initiated a domestic transfer yesterday. However, the recipient hasn't received the funds yet. Can you investigate this issue for me?
+GEN | [failed_transfer] | Orig: please help my transfer go through -> Aug: can you assist me in completing my transfer?
+GEN | [compromised_card] | Orig: How do I stop fraud to my card? -> Aug: What steps can I take to prevent unauthorized transactions on my compromised card?

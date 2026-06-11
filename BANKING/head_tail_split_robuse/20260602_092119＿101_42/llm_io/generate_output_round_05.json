@@ -1,0 +1,307 @@
+{
+  "generated_texts": [
+    "WHY IS MY CARD NOT FUNCTIONING?",
+    "The contactless payment method is currently unavailable.",
+    "I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process?",
+    "Can you assist me in enabling contactless transactions?",
+    "What's the reason for the extra charge showing up on my statement?",
+    "How long will the extra charge appear as pending on my statement?",
+    "Is the £1 charge on my statement an error or an incorrect entry?",
+    "We're having trouble identifying your direct debit payment.",
+    "What is the additional charge that I see on my statement?",
+    "I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed.",
+    "Why hasn't my account balance been updated to reflect the recent transfer I made?",
+    "I require my funds in a different currency",
+    "Can you confirm the origin of the funds in my account before I check my balance?",
+    "I've noticed a mysterious £1 charge showing up as pending on my statement. Can you help me figure out what it's for? I'm certain I didn't make any purchases for that amount.",
+    "Why hasn't my account balance been updated after a recent deposit?",
+    "I mistakenly selected GBP for the exchange, but I'd like to switch to AUD instead. Can I modify the exchange rate?",
+    "Will this automatically top up my account when the time is suitable?",
+    "I'm a new customer and I was wondering if there are any extra charges or fees I should know about. I noticed something about fee-free transactions in the app, but I'm not entirely sure what it means.",
+    "Can I request a replacement bank card to be delivered to China?",
+    "I have a pending transfer",
+    "Your account balance has not been updated after the recent bank transfer.",
+    "WHY IS MY CARD NOT FUNCTIONING PROPERLY?",
+    "How long does it typically take for a pending card payment to clear? I have one that's been pending for a few days now and it's not showing any progress.",
+    "I have a pending outgoing transaction",
+    "What steps can I take to verify if the merchant is not supported for my transfer attempt?",
+    "Can I use my fiat currency for both holding and exchanging purposes?",
+    "I'm concerned about an issue with my account. I deposited a cheque yesterday, but my balance hasn't been updated yet. Can you look into this and let me know why it's taking so long?",
+    "Why hasn't my account balance been updated to reflect the cash deposit I made?",
+    "Can you help me avoid the payment fee that was charged on my card?",
+    "I'd like to request an expedited delivery for my card.",
+    "I'm puzzled as to why my contactless payment method isn't functioning properly.",
+    "I'd like to modify a transfer.",
+    "I made a transfer, but my account balance hasn't been updated."
+  ],
+  "generated_labels": [
+    14,
+    23,
+    33,
+    23,
+    34,
+    34,
+    34,
+    28,
+    34,
+    35,
+    5,
+    50,
+    70,
+    34,
+    6,
+    33,
+    4,
+    15,
+    9,
+    48,
+    5,
+    14,
+    45,
+    48,
+    27,
+    36,
+    6,
+    6,
+    15,
+    12,
+    23,
+    8,
+    5
+  ],
+  "source_texts": [
+    "WHAT IS THE REASON FOR THAT",
+    "The contactless payments are not working.",
+    "I'm having difficulties changing AUD for GBP. How do I do this?",
+    "Help me to set up contactless payments.",
+    "Why is there a pending hold on one pound on my statement?",
+    "How long will the $1 charge show as pending?",
+    "Is the 1 pound charge I can see an error or an incorrect entry?",
+    "what is the matter?",
+    "What is the dollar that I have pending on my statement there?",
+    "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+    "Why hasn't my account updated to reflect my current balance?",
+    "I need my payment in another currency",
+    "Is there a way for me to check my balance?",
+    "There is some odd 1£ charge that appears as pending on my statement. What's that about? Pretty sure I haven't purchased anything for a pound there.",
+    "When will my balance reflect a deposit?",
+    "I accidentally chose to exchange GBP, but I need to pick AUD. How can I change it?",
+    "When the time is right will this automatically replenish my balance?",
+    "Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances.",
+    "Where can I have a new bank card sent to China?",
+    "I have an outgoing transaction",
+    "Balance is not up to date.",
+    "WHAT IS THE MAIN REASON OF THIS PROBLEM",
+    "How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move",
+    "I have an outgoing transfer",
+    "How can I check for an unsupported merchant for my transfer request?",
+    "Is my fiat currency supported for both hold and exchange?",
+    "I need my account checked because it appears there is a problem. I attempted to update my balance yesterday using cheque but it doesn't seem to have worked.  Should this not be faster than this?",
+    "Where is my cash deposit in my balance?",
+    "Is there a  way to  get around fees",
+    "i need to expedite my card",
+    "I'm confused ass to why my contactless is not working.",
+    "I need to change a transfer.",
+    "I did a transfer but the balance is the same."
+  ],
+  "records": [
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "WHAT IS THE REASON FOR THAT",
+      "generated": "WHY IS MY CARD NOT FUNCTIONING?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "The contactless payments are not working.",
+      "generated": "The contactless payment method is currently unavailable."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I'm having difficulties changing AUD for GBP. How do I do this?",
+      "generated": "I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Help me to set up contactless payments.",
+      "generated": "Can you assist me in enabling contactless transactions?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is there a pending hold on one pound on my statement?",
+      "generated": "What's the reason for the extra charge showing up on my statement?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "How long will the $1 charge show as pending?",
+      "generated": "How long will the extra charge appear as pending on my statement?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Is the 1 pound charge I can see an error or an incorrect entry?",
+      "generated": "Is the £1 charge on my statement an error or an incorrect entry?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "what is the matter?",
+      "generated": "We're having trouble identifying your direct debit payment."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What is the dollar that I have pending on my statement there?",
+      "generated": "What is the additional charge that I see on my statement?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+      "generated": "I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why hasn't my account updated to reflect my current balance?",
+      "generated": "Why hasn't my account balance been updated to reflect the recent transfer I made?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I need my payment in another currency",
+      "generated": "I require my funds in a different currency"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Is there a way for me to check my balance?",
+      "generated": "Can you confirm the origin of the funds in my account before I check my balance?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is some odd 1£ charge that appears as pending on my statement. What's that about? Pretty sure I haven't purchased anything for a pound there.",
+      "generated": "I've noticed a mysterious £1 charge showing up as pending on my statement. Can you help me figure out what it's for? I'm certain I didn't make any purchases for that amount."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "When will my balance reflect a deposit?",
+      "generated": "Why hasn't my account balance been updated after a recent deposit?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I accidentally chose to exchange GBP, but I need to pick AUD. How can I change it?",
+      "generated": "I mistakenly selected GBP for the exchange, but I'd like to switch to AUD instead. Can I modify the exchange rate?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "When the time is right will this automatically replenish my balance?",
+      "generated": "Will this automatically top up my account when the time is suitable?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances.",
+      "generated": "I'm a new customer and I was wondering if there are any extra charges or fees I should know about. I noticed something about fee-free transactions in the app, but I'm not entirely sure what it means."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Where can I have a new bank card sent to China?",
+      "generated": "Can I request a replacement bank card to be delivered to China?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have an outgoing transaction",
+      "generated": "I have a pending transfer"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Balance is not up to date.",
+      "generated": "Your account balance has not been updated after the recent bank transfer."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "WHAT IS THE MAIN REASON OF THIS PROBLEM",
+      "generated": "WHY IS MY CARD NOT FUNCTIONING PROPERLY?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move",
+      "generated": "How long does it typically take for a pending card payment to clear? I have one that's been pending for a few days now and it's not showing any progress."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have an outgoing transfer",
+      "generated": "I have a pending outgoing transaction"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How can I check for an unsupported merchant for my transfer request?",
+      "generated": "What steps can I take to verify if the merchant is not supported for my transfer attempt?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Is my fiat currency supported for both hold and exchange?",
+      "generated": "Can I use my fiat currency for both holding and exchanging purposes?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I need my account checked because it appears there is a problem. I attempted to update my balance yesterday using cheque but it doesn't seem to have worked.  Should this not be faster than this?",
+      "generated": "I'm concerned about an issue with my account. I deposited a cheque yesterday, but my balance hasn't been updated yet. Can you look into this and let me know why it's taking so long?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Where is my cash deposit in my balance?",
+      "generated": "Why hasn't my account balance been updated to reflect the cash deposit I made?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Is there a  way to  get around fees",
+      "generated": "Can you help me avoid the payment fee that was charged on my card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i need to expedite my card",
+      "generated": "I'd like to request an expedited delivery for my card."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "I'm confused ass to why my contactless is not working.",
+      "generated": "I'm puzzled as to why my contactless payment method isn't functioning properly."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I need to change a transfer.",
+      "generated": "I'd like to modify a transfer."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I did a transfer but the balance is the same.",
+      "generated": "I made a transfer, but my account balance hasn't been updated."
+    }
+  ]
+}

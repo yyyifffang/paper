@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Can I close my account through the app or do I need to speak with a representative to terminate it?",
+    "Are there any special deals or promotions available for customers who regularly exchange currencies?",
+    "What steps can I take to review the security settings on my card?",
+    "We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?",
+    "I was attempting to deduct a sum from my account and now my card is inaccessible.",
+    "Why did my contactless payment fail to work at the metro station?",
+    "I can see the funds in my account, but the balance hasn't been updated after I made a transfer.",
+    "My payment is still pending, what's the next step?",
+    "What are the transaction limits for a disposable card?",
+    "The card is not functioning properly and won't be recognized by the payment terminal.",
+    "What should I do since my card is not functioning properly?",
+    "My temporary virtual card is not functioning properly.",
+    "We're happy to provide information on the countries we support.",
+    "Can you tell me about the quickest way to initiate a transfer?",
+    "Can you assist me in confirming the card information used for a recent top-up transaction?",
+    "I must have keyed in my PIN incorrectly.",
+    "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm starting to get frustrated. It's surprising that international transfers can take so long, especially in this day and age.",
+    "If I suspect that my credit card has been compromised, what steps should I take to address the situation?",
+    "The payment was not processed due to a card issue.",
+    "Can I still use your services if I've misplaced my phone and can't access the app?",
+    "The app has cancelled the recent top-up I made. What should I do now?",
+    "What is the timeframe for disputing payments on my statement after it's been received?",
+    "Must I only use bank-recommended ATMs?",
+    "Can you please confirm the source of the funds used for the recent top-up?",
+    "Could you provide a discount for me, as I regularly need to exchange currencies?",
+    "The card's security has been compromised.",
+    "A store I frequent refused to accept my payment.",
+    "What is the typical timeframe for transferring funds from China? Is there an expedited option available, as I require the transfer to be processed as soon as possible?",
+    "I misplaced my wallet, which contained all my credit cards.",
+    "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening.",
+    "I'm in a state of distress - I've misplaced my card and I need assistance!",
+    "i didn't deposit that amount into my account",
+    "My PIN has been blocked, what's the process to unblock it?",
+    "I'm having trouble logging in because I've forgotten my passcode.",
+    "Why hasn't my transfer arrived yet? It's been an unacceptable delay.",
+    "Can you assist me? My physical bank card is malfunctioning."
+  ],
+  "generated_labels": [
+    55,
+    31,
+    14,
+    28,
+    18,
+    23,
+    5,
+    45,
+    29,
+    14,
+    14,
+    72,
+    24,
+    67,
+    71,
+    49,
+    48,
+    22,
+    25,
+    42,
+    61,
+    28,
+    3,
+    70,
+    31,
+    22,
+    25,
+    67,
+    41,
+    25,
+    41,
+    20,
+    49,
+    44,
+    66,
+    14
+  ],
+  "source_texts": [
+    "do i have to talk to someone to close an account or can i in the app",
+    "Do you offer a discount for those who perform frequent currency exchanges?",
+    "How do I check security settings on my card?",
+    "If I found an error in my account for a transaction I didn't make, how long to I have to dispute it?",
+    "I was removing a dollar amount from my account and now don't have access to my card.",
+    "Why wasn't my contactless accepted at the metro?",
+    "I can still see money in my account after making a payment",
+    "My card has been pending for a while, what should I do?",
+    "Show me the amount of transactions I can do with a disposable card.",
+    "Why won't the machine accept my card anymore?",
+    "What do I do now that I can't use this card?",
+    "My throwaway virtual card won't work",
+    "As far as courtries go which ones are supported?",
+    "How do i transfer something faster than normal?",
+    "Help me verify the card used on a top-up.",
+    "I must have entered my PIN wrong.",
+    "Hey I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It's not that difficult to transfer money to another country in 2018 is it?",
+    "What do I do if I believe to be a victim of credit card fraud?",
+    "I couldn't pay with my card",
+    "Can I use your services without access to the app?",
+    "The app reversed a top off I had.  What should I do?",
+    "How long after I receive my statement can I dispute payments on it?",
+    "Do I have to use bank approved ATM's",
+    "Where is my top-up generated from?",
+    "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+    "The card has suffered a security breach.",
+    "A shop I go to didn't let me pay.",
+    "How long does it take to transfer from china? Is there a way to transfer it quickly, I need it urgently?",
+    "I lost my wallet and all my cards were in it.",
+    "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+    "I'm panicking!  I lost my card!  Help!",
+    "i didnt put that money in my account",
+    "My card got blocked, how do I reset?",
+    "I can't access my account.",
+    "When will I get my money? It's been too long.",
+    "Please help me!  My physical card isn't working right."
+  ],
+  "records": [
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "do i have to talk to someone to close an account or can i in the app",
+      "generated": "Can I close my account through the app or do I need to speak with a representative to terminate it?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do you offer a discount for those who perform frequent currency exchanges?",
+      "generated": "Are there any special deals or promotions available for customers who regularly exchange currencies?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I check security settings on my card?",
+      "generated": "What steps can I take to review the security settings on my card?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "If I found an error in my account for a transaction I didn't make, how long to I have to dispute it?",
+      "generated": "We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I was removing a dollar amount from my account and now don't have access to my card.",
+      "generated": "I was attempting to deduct a sum from my account and now my card is inaccessible."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Why wasn't my contactless accepted at the metro?",
+      "generated": "Why did my contactless payment fail to work at the metro station?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I can still see money in my account after making a payment",
+      "generated": "I can see the funds in my account, but the balance hasn't been updated after I made a transfer."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "My card has been pending for a while, what should I do?",
+      "generated": "My payment is still pending, what's the next step?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Show me the amount of transactions I can do with a disposable card.",
+      "generated": "What are the transaction limits for a disposable card?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why won't the machine accept my card anymore?",
+      "generated": "The card is not functioning properly and won't be recognized by the payment terminal."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What do I do now that I can't use this card?",
+      "generated": "What should I do since my card is not functioning properly?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My throwaway virtual card won't work",
+      "generated": "My temporary virtual card is not functioning properly."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "As far as courtries go which ones are supported?",
+      "generated": "We're happy to provide information on the countries we support."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How do i transfer something faster than normal?",
+      "generated": "Can you tell me about the quickest way to initiate a transfer?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Help me verify the card used on a top-up.",
+      "generated": "Can you assist me in confirming the card information used for a recent top-up transaction?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I must have entered my PIN wrong.",
+      "generated": "I must have keyed in my PIN incorrectly."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Hey I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It's not that difficult to transfer money to another country in 2018 is it?",
+      "generated": "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm starting to get frustrated. It's surprising that international transfers can take so long, especially in this day and age."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What do I do if I believe to be a victim of credit card fraud?",
+      "generated": "If I suspect that my credit card has been compromised, what steps should I take to address the situation?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I couldn't pay with my card",
+      "generated": "The payment was not processed due to a card issue."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Can I use your services without access to the app?",
+      "generated": "Can I still use your services if I've misplaced my phone and can't access the app?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "The app reversed a top off I had.  What should I do?",
+      "generated": "The app has cancelled the recent top-up I made. What should I do now?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "How long after I receive my statement can I dispute payments on it?",
+      "generated": "What is the timeframe for disputing payments on my statement after it's been received?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Do I have to use bank approved ATM's",
+      "generated": "Must I only use bank-recommended ATMs?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Where is my top-up generated from?",
+      "generated": "Can you please confirm the source of the funds used for the recent top-up?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+      "generated": "Could you provide a discount for me, as I regularly need to exchange currencies?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "The card has suffered a security breach.",
+      "generated": "The card's security has been compromised."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "A shop I go to didn't let me pay.",
+      "generated": "A store I frequent refused to accept my payment."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take to transfer from china? Is there a way to transfer it quickly, I need it urgently?",
+      "generated": "What is the typical timeframe for transferring funds from China? Is there an expedited option available, as I require the transfer to be processed as soon as possible?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I lost my wallet and all my cards were in it.",
+      "generated": "I misplaced my wallet, which contained all my credit cards."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+      "generated": "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I'm panicking!  I lost my card!  Help!",
+      "generated": "I'm in a state of distress - I've misplaced my card and I need assistance!"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "i didnt put that money in my account",
+      "generated": "i didn't deposit that amount into my account"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "My card got blocked, how do I reset?",
+      "generated": "My PIN has been blocked, what's the process to unblock it?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't access my account.",
+      "generated": "I'm having trouble logging in because I've forgotten my passcode."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "When will I get my money? It's been too long.",
+      "generated": "Why hasn't my transfer arrived yet? It's been an unacceptable delay."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Please help me!  My physical card isn't working right.",
+      "generated": "Can you assist me? My physical bank card is malfunctioning."
+    }
+  ]
+}

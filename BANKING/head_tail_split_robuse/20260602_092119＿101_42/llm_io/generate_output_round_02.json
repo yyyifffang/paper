@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "How long will it take to resolve the issue with my card not working?",
+    "I'm concerned about a recent transfer from the UK, as I haven't received the update in my account yet. Can you please confirm when I can expect the transfer to reflect in my balance?",
+    "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.",
+    "At what age can my children start using this service?",
+    "I'm looking at my statement and I see a charge from a business I didn't visit, and I'm not sure why I was billed.",
+    "I made a cash withdrawal at an ATM, but the transaction is still listed as pending in the app. Can you explain why it's still pending if I've already received the cash?",
+    "When can I expect to receive this card?",
+    "I need to move funds from an existing account to this one, can you guide me on the process?",
+    "What steps can I take to confirm my identity?",
+    "A charge was applied to my statement for using my credit/debit card.",
+    "I would like to obtain a Mastercard",
+    "Why was my credit card payment rejected when I attempted to make a top-up?",
+    "How can I obtain my virtual card?",
+    "What other payment cards are accepted by our bank?",
+    "I'm unhappy with the service and would like to cancel my account.",
+    "what steps can I take to regain access to my passcode",
+    "This morning, I attempted to withdraw cash from my card, but the transaction was declined. Despite being functional previously, it seems there's an issue with my card. Could you kindly investigate the matter?",
+    "What is the minimum age requirement to open an account?",
+    "I'm concerned about a suspicious cash withdrawal of $200 on my statement.",
+    "I'd like to update my personal information to reflect my new residential address.",
+    "What went wrong with my recent top-up attempt?",
+    "What was the reason for the cash withdrawal being declined?",
+    "I'd like to cancel my account. Can you guide me through the process?",
+    "My phone was taken from me yesterday, and I'm worried about what I need to do next.",
+    "How long does it take for the courier to deliver the card?",
+    "I'd like to initiate a refund for my recent purchase.",
+    "I'm positive I didn't initiate a cash withdrawal transaction.",
+    "Why is my pending top-up still not being processed?",
+    "Are there any fees associated with making a cash withdrawal?",
+    "I'd like to know which ATMs I can use with this card.",
+    "I'm wondering where the transfer fee I was charged came from.",
+    "My pending card payment has been stuck in limbo for an eternity, can you please help me figure out what's causing the delay and when it will finally process?",
+    "I attempted to initiate a transfer, but it didn't go through. Can you help me identify the issue?",
+    "A transaction appears to have been charged twice.",
+    "I reside in the European Union. Can I purchase one of your credit cards?",
+    "I accidentally entered the wrong PIN and now my account is blocked. Can you please unblock it for me?",
+    "Why was an additional fee applied when I used my card for the payment?",
+    "Can you confirm the source of the funds in my account before I check my available balance?"
+  ],
+  "generated_labels": [
+    14,
+    5,
+    22,
+    1,
+    16,
+    46,
+    12,
+    65,
+    69,
+    15,
+    73,
+    59,
+    40,
+    54,
+    55,
+    44,
+    26,
+    1,
+    20,
+    30,
+    59,
+    26,
+    55,
+    42,
+    11,
+    52,
+    20,
+    47,
+    19,
+    3,
+    64,
+    45,
+    35,
+    63,
+    24,
+    49,
+    15,
+    70
+  ],
+  "source_texts": [
+    "HOW LONG TO TAKE THE TIME TO SOLVE",
+    "How long does a transfer from the United Kingdom take? I haven't seen it show up yet in my bank account and want to make sure I get the transfer.",
+    "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+    "How old do my kids have to be use this?",
+    "I see a payment on my statement for  a place I didn't make a purchase at.",
+    "I Withdrew cash from an ATM earlier but it shows up as pending in the app. How can this still be pending, I received the cash already?",
+    "How long will this take to get to me?",
+    "I am in desperate need to transfer funds from another account that i have into this one, how do i do that?",
+    "How do I verify my identity?",
+    "Why was a fee added to my bill when I used my card?",
+    "I would like to get a Visa card",
+    "Can you tell me why my credit card was declined while trying to top-up?",
+    "What do I have to do to get my virtual card?",
+    "What other credit cards can I use?",
+    "I'm dissatisfied with the service and would like to terminate the account.",
+    "how to recover my passcode",
+    "Hi, In morning, i was trying to withdraw money from my card, but it got declined. So far it was working fine. Could you please check my card.",
+    "Whats the minimum age to have an account",
+    "There's a $200 withdrawal on my statement that seems fishy to me.",
+    "I moved and need to change my address.",
+    "Why did my top-up fail?",
+    "Why was my withdrawal declined",
+    "I want to delete my account. How do I do this?",
+    "Yesterday my phone was stolen from me :( What do i need to do about it?",
+    "maximum how many days get the courier?",
+    "I want to cancel my purchase",
+    "There's a cash withdrawal I am certain I did not make",
+    "Is there a reason that my top-up is still pending?",
+    "Do I get charged for withdrawals?",
+    "I can use this card at which ATMs?",
+    "I was charged a fee for a transfer. Where did it come from?",
+    "My card payment is just showing up as pending since forever, what's going on with that, it should be going through at some point?",
+    "I tried and tried, but I could not complete my transfer. Tell me what is wrong.",
+    "A transaction shows duplicate times.",
+    "I live in the EU.  Can I order one of your cards?",
+    "I mistook my pin and now I am locked.  Can you unlock me?",
+    "Why, when paying with the card, was I charged an extra fee?",
+    "Can I see my available money?"
+  ],
+  "records": [
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "HOW LONG TO TAKE THE TIME TO SOLVE",
+      "generated": "How long will it take to resolve the issue with my card not working?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How long does a transfer from the United Kingdom take? I haven't seen it show up yet in my bank account and want to make sure I get the transfer.",
+      "generated": "I'm concerned about a recent transfer from the UK, as I haven't received the update in my account yet. Can you please confirm when I can expect the transfer to reflect in my balance?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+      "generated": "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "How old do my kids have to be use this?",
+      "generated": "At what age can my children start using this service?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I see a payment on my statement for  a place I didn't make a purchase at.",
+      "generated": "I'm looking at my statement and I see a charge from a business I didn't visit, and I'm not sure why I was billed."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I Withdrew cash from an ATM earlier but it shows up as pending in the app. How can this still be pending, I received the cash already?",
+      "generated": "I made a cash withdrawal at an ATM, but the transaction is still listed as pending in the app. Can you explain why it's still pending if I've already received the cash?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "How long will this take to get to me?",
+      "generated": "When can I expect to receive this card?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I am in desperate need to transfer funds from another account that i have into this one, how do i do that?",
+      "generated": "I need to move funds from an existing account to this one, can you guide me on the process?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How do I verify my identity?",
+      "generated": "What steps can I take to confirm my identity?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why was a fee added to my bill when I used my card?",
+      "generated": "A charge was applied to my statement for using my credit/debit card."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I would like to get a Visa card",
+      "generated": "I would like to obtain a Mastercard"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Can you tell me why my credit card was declined while trying to top-up?",
+      "generated": "Why was my credit card payment rejected when I attempted to make a top-up?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "What do I have to do to get my virtual card?",
+      "generated": "How can I obtain my virtual card?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What other credit cards can I use?",
+      "generated": "What other payment cards are accepted by our bank?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I'm dissatisfied with the service and would like to terminate the account.",
+      "generated": "I'm unhappy with the service and would like to cancel my account."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "how to recover my passcode",
+      "generated": "what steps can I take to regain access to my passcode"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Hi, In morning, i was trying to withdraw money from my card, but it got declined. So far it was working fine. Could you please check my card.",
+      "generated": "This morning, I attempted to withdraw cash from my card, but the transaction was declined. Despite being functional previously, it seems there's an issue with my card. Could you kindly investigate the matter?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Whats the minimum age to have an account",
+      "generated": "What is the minimum age requirement to open an account?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There's a $200 withdrawal on my statement that seems fishy to me.",
+      "generated": "I'm concerned about a suspicious cash withdrawal of $200 on my statement."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I moved and need to change my address.",
+      "generated": "I'd like to update my personal information to reflect my new residential address."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Why did my top-up fail?",
+      "generated": "What went wrong with my recent top-up attempt?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why was my withdrawal declined",
+      "generated": "What was the reason for the cash withdrawal being declined?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I want to delete my account. How do I do this?",
+      "generated": "I'd like to cancel my account. Can you guide me through the process?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Yesterday my phone was stolen from me :( What do i need to do about it?",
+      "generated": "My phone was taken from me yesterday, and I'm worried about what I need to do next."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "maximum how many days get the courier?",
+      "generated": "How long does it take for the courier to deliver the card?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I want to cancel my purchase",
+      "generated": "I'd like to initiate a refund for my recent purchase."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There's a cash withdrawal I am certain I did not make",
+      "generated": "I'm positive I didn't initiate a cash withdrawal transaction."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Is there a reason that my top-up is still pending?",
+      "generated": "Why is my pending top-up still not being processed?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Do I get charged for withdrawals?",
+      "generated": "Are there any fees associated with making a cash withdrawal?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I can use this card at which ATMs?",
+      "generated": "I'd like to know which ATMs I can use with this card."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I was charged a fee for a transfer. Where did it come from?",
+      "generated": "I'm wondering where the transfer fee I was charged came from."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "My card payment is just showing up as pending since forever, what's going on with that, it should be going through at some point?",
+      "generated": "My pending card payment has been stuck in limbo for an eternity, can you please help me figure out what's causing the delay and when it will finally process?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I tried and tried, but I could not complete my transfer. Tell me what is wrong.",
+      "generated": "I attempted to initiate a transfer, but it didn't go through. Can you help me identify the issue?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "A transaction shows duplicate times.",
+      "generated": "A transaction appears to have been charged twice."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I live in the EU.  Can I order one of your cards?",
+      "generated": "I reside in the European Union. Can I purchase one of your credit cards?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I mistook my pin and now I am locked.  Can you unlock me?",
+      "generated": "I accidentally entered the wrong PIN and now my account is blocked. Can you please unblock it for me?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why, when paying with the card, was I charged an extra fee?",
+      "generated": "Why was an additional fee applied when I used my card for the payment?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I see my available money?",
+      "generated": "Can you confirm the source of the funds in my account before I check my available balance?"
+    }
+  ]
+}

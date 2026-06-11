@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "I'd like to modify a transfer.",
+    "I'd like to inquire about the possibility of expedited shipping for my card delivery.",
+    "Can I obtain a replacement card with a fresh expiration date while I'm in China?",
+    "My credit card's expiration date is approaching soon, should I request a replacement card?",
+    "I'm in need of a new card as my current one is nearing its expiration date. Can you please inform me about the process of getting a replacement and what the associated fee is?",
+    "I require my funds in a different currency",
+    "I'm concerned that my card is nearing its expiration date. Can you please let me know how quickly I can obtain a replacement and what the cost will be?",
+    "Can this card be delivered to any location within the European Union, or are there specific areas where it cannot be delivered?",
+    "Can I request a replacement bank card to be delivered to China?",
+    "Assist me in obtaining a replacement card that's nearing its expiration date.",
+    "Has the GBP salary been deposited into the correct account? If not, do you need assistance transferring it to a different location?",
+    "Can I request priority shipping for my card delivery?",
+    "My residential address requires an update.",
+    "My credit card is nearing its expiration date. Can you tell me how quickly I can obtain a replacement and what the associated fee will be?",
+    "My current card is nearing its expiration date and I'd like to request a replacement.",
+    "My credit card's expiration date is approaching.",
+    "I'm currently abroad in China and require a replacement card as my existing one is nearing its expiration date. Can you assist me with this request?",
+    "I'd like to exchange my AUD for GBP, is there a way to do this through the app?",
+    "Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?",
+    "Can you accept my other credit card issued in the United States? It's the only other one I possess.",
+    "Can I update my personal information to reflect a new address?",
+    "At what point does the account balance need to reach before the automatic top-up feature kicks in?",
+    "Can you provide me with a Mastercard instead of a Visa?",
+    "Please provide me with a Visa or Mastercard.",
+    "I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process?",
+    "How can I get my salary payment?",
+    "My credit card's expiration date is approaching, will you automatically issue a new one for me?",
+    "Can you please confirm the origin of the funds currently available in my account?",
+    "Is there a significant delay or fee associated with obtaining a replacement card, as my current one is nearing its expiration date?",
+    "I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?",
+    "I'm currently traveling in Spain and would like to modify my PIN.",
+    "Can I request a replacement card before my current one expires?",
+    "My credit card is nearing its expiration date, what will happen if it expires?",
+    "Can I set up recurring transfers to my account during my trip?",
+    "Will this automatically top up my account when the time is suitable?",
+    "What happens when my credit card is about to expire, and I'm nearing the end of its validity period?",
+    "Can I receive my paycheck here?",
+    "My credit card is nearing its expiration date.",
+    "May I update my personal information, specifically my address?"
+  ],
+  "generated_labels": [
+    8,
+    12,
+    9,
+    9,
+    9,
+    50,
+    9,
+    24,
+    9,
+    9,
+    50,
+    11,
+    30,
+    9,
+    9,
+    9,
+    9,
+    33,
+    12,
+    54,
+    30,
+    4,
+    73,
+    73,
+    33,
+    50,
+    9,
+    70,
+    9,
+    21,
+    21,
+    9,
+    9,
+    4,
+    4,
+    9,
+    50,
+    9,
+    30
+  ],
+  "source_texts": [
+    "I need to change a transfer.",
+    "i need to add express delivery if that's an option",
+    "Can I get a new card with new expiration date in China?",
+    "My card's expiring a month from now, should I place an order for the new card?",
+    "I will need a new card because mine is almost expired.  How fast do I get a replacement and what is the cost?",
+    "I need my payment in another currency",
+    "My card is expiring so how fast can I get a new one and how much will it be?",
+    "Is there anywhere  In the  Eu  this card can not be delivered in",
+    "Where can I have a new bank card sent to China?",
+    "Help me order a new card that's going to be expired soon.",
+    "Salary in GBP has been received. Does it need to be configured into another place?",
+    "Is there a way I can get my card expedited?",
+    "My address needs to be changed.",
+    "My card is almost expired.  How fast will I get a new one and what is the cost?",
+    "Need a new card, mine is expiring.",
+    "My card is expiring soon.",
+    "I'm in China and need a new card. Please help.",
+    "I no longer need AUD, I need GBP instead, how can I make this happen?",
+    "Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.",
+    "Can you accept my other card from the U.S.?  It is the only other one I have.",
+    "Is it possible to change my address?",
+    "How low does the balance have to be before the system updates?",
+    "Can you send me a Mastercard, instead of a Visa?",
+    "Please give me a Mastercard instead.",
+    "I'm having difficulties changing AUD for GBP. How do I do this?",
+    "What can I use to receive my salary?",
+    "My card expires soon, will you send me one automatically?",
+    "How can I lookup the source for my available money?",
+    "Does it cost much or take long to get a new card? Mine is about to expire.",
+    "I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here?",
+    "I am on vacation in Spain and need to change my pin.",
+    "Can I order a new card to China?",
+    "My card is about to expired what will happen?",
+    "Can I have money transferred into my account at different intervals along my trip?",
+    "When the time is right will this automatically replenish my balance?",
+    "What do I do when I get close to the expiration date of my card?",
+    "Can my salary be received here?",
+    "My card is almost going to expire.",
+    "Can I change my address?"
+  ],
+  "records": [
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I need to change a transfer.",
+      "generated": "I'd like to modify a transfer."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i need to add express delivery if that's an option",
+      "generated": "I'd like to inquire about the possibility of expedited shipping for my card delivery."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I get a new card with new expiration date in China?",
+      "generated": "Can I obtain a replacement card with a fresh expiration date while I'm in China?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card's expiring a month from now, should I place an order for the new card?",
+      "generated": "My credit card's expiration date is approaching soon, should I request a replacement card?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "I will need a new card because mine is almost expired.  How fast do I get a replacement and what is the cost?",
+      "generated": "I'm in need of a new card as my current one is nearing its expiration date. Can you please inform me about the process of getting a replacement and what the associated fee is?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I need my payment in another currency",
+      "generated": "I require my funds in a different currency"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card is expiring so how fast can I get a new one and how much will it be?",
+      "generated": "I'm concerned that my card is nearing its expiration date. Can you please let me know how quickly I can obtain a replacement and what the cost will be?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Is there anywhere  In the  Eu  this card can not be delivered in",
+      "generated": "Can this card be delivered to any location within the European Union, or are there specific areas where it cannot be delivered?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Where can I have a new bank card sent to China?",
+      "generated": "Can I request a replacement bank card to be delivered to China?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Help me order a new card that's going to be expired soon.",
+      "generated": "Assist me in obtaining a replacement card that's nearing its expiration date."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Salary in GBP has been received. Does it need to be configured into another place?",
+      "generated": "Has the GBP salary been deposited into the correct account? If not, do you need assistance transferring it to a different location?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Is there a way I can get my card expedited?",
+      "generated": "Can I request priority shipping for my card delivery?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "My address needs to be changed.",
+      "generated": "My residential address requires an update."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card is almost expired.  How fast will I get a new one and what is the cost?",
+      "generated": "My credit card is nearing its expiration date. Can you tell me how quickly I can obtain a replacement and what the associated fee will be?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Need a new card, mine is expiring.",
+      "generated": "My current card is nearing its expiration date and I'd like to request a replacement."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card is expiring soon.",
+      "generated": "My credit card's expiration date is approaching."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "I'm in China and need a new card. Please help.",
+      "generated": "I'm currently abroad in China and require a replacement card as my existing one is nearing its expiration date. Can you assist me with this request?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I no longer need AUD, I need GBP instead, how can I make this happen?",
+      "generated": "I'd like to exchange my AUD for GBP, is there a way to do this through the app?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.",
+      "generated": "Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you accept my other card from the U.S.?  It is the only other one I have.",
+      "generated": "Can you accept my other credit card issued in the United States? It's the only other one I possess."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Is it possible to change my address?",
+      "generated": "Can I update my personal information to reflect a new address?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How low does the balance have to be before the system updates?",
+      "generated": "At what point does the account balance need to reach before the automatic top-up feature kicks in?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can you send me a Mastercard, instead of a Visa?",
+      "generated": "Can you provide me with a Mastercard instead of a Visa?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Please give me a Mastercard instead.",
+      "generated": "Please provide me with a Visa or Mastercard."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I'm having difficulties changing AUD for GBP. How do I do this?",
+      "generated": "I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What can I use to receive my salary?",
+      "generated": "How can I get my salary payment?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card expires soon, will you send me one automatically?",
+      "generated": "My credit card's expiration date is approaching, will you automatically issue a new one for me?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I lookup the source for my available money?",
+      "generated": "Can you please confirm the origin of the funds currently available in my account?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Does it cost much or take long to get a new card? Mine is about to expire.",
+      "generated": "Is there a significant delay or fee associated with obtaining a replacement card, as my current one is nearing its expiration date?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here?",
+      "generated": "I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I am on vacation in Spain and need to change my pin.",
+      "generated": "I'm currently traveling in Spain and would like to modify my PIN."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I order a new card to China?",
+      "generated": "Can I request a replacement card before my current one expires?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card is about to expired what will happen?",
+      "generated": "My credit card is nearing its expiration date, what will happen if it expires?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I have money transferred into my account at different intervals along my trip?",
+      "generated": "Can I set up recurring transfers to my account during my trip?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "When the time is right will this automatically replenish my balance?",
+      "generated": "Will this automatically top up my account when the time is suitable?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What do I do when I get close to the expiration date of my card?",
+      "generated": "What happens when my credit card is about to expire, and I'm nearing the end of its validity period?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can my salary be received here?",
+      "generated": "Can I receive my paycheck here?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card is almost going to expire.",
+      "generated": "My credit card is nearing its expiration date."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Can I change my address?",
+      "generated": "May I update my personal information, specifically my address?"
+    }
+  ]
+}

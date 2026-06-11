@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "We'd be happy to provide you with a list of the payment cards and currencies we currently support.",
+    "What types of payment methods and currencies are accepted with my account?",
+    "Can I get some information on the availability of the Euro currency for my transaction?",
+    "We'd be happy to inform you about the cards and currencies we currently accept.",
+    "We'd be happy to provide you with a list of the currencies and cards we currently support. Can you please confirm which information you'd like to know?",
+    "What is the daily spending limit on my credit card?",
+    "How can I prevent my card from being swallowed by the ATM? What steps can I take to ensure it's returned safely?",
+    "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.",
+    "Will the automatic top-up feature trigger a refill when my account balance reaches zero?",
+    "Can I initiate a return and request a refund?",
+    "How long will it take to resolve the issue with my card not working?",
+    "Do you need assistance?",
+    "How long does it take to enable my card, as it appears to be inactive?",
+    "Is your card accepted?",
+    "We accept a range of currencies and cards for transactions, including a variety of payment methods.",
+    "What methods of payment do you accept?",
+    "Can I hold multiple types of fiat currencies in my account?",
+    "How do you ensure my security when using a disposable virtual card for daily transactions?",
+    "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time",
+    "If I'm not actively using my account, should I cancel it or simply leave it inactive?",
+    "Why is my card payment being declined when I try to use it?",
+    "We accept a range of cards and facilitate transactions in various currencies. Which specific cards and currencies are you interested in knowing about?",
+    "I've been trying to use my card for a week, but it's still not functioning properly.",
+    "I'm having trouble using my new card to make payments, and it keeps getting declined. I've tried to use it multiple times to pay for gas at the Shell station near my home, but it's not working. I'm really frustrated about this issue with my new card.",
+    "We accept a range of payment cards",
+    "Which fiat currencies are restricted for holding a large amount, and what are the limitations?",
+    "Can I use a cheque to top up my account?",
+    "How do I confirm my card details for a top-up?",
+    "Why have my recent online transactions been declined, and my payment kept reverting back to my account, despite my card being active and in good standing?",
+    "Can I use my card at any location, or are there specific places where it won't be accepted?",
+    "I am a resident of Portugal. Do you have a presence in this country?",
+    "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?",
+    "Can I maintain multiple fiat currency accounts?",
+    "I'm having trouble finishing the activation process for my card.",
+    "I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction appears to be pending, and I'm concerned that I might be charged for a transaction I didn't authorize.",
+    "Is there an option to expedite the delivery of my card for an additional fee?"
+  ],
+  "generated_labels": [
+    54,
+    54,
+    36,
+    54,
+    54,
+    60,
+    18,
+    15,
+    4,
+    52,
+    14,
+    24,
+    0,
+    10,
+    54,
+    54,
+    36,
+    37,
+    26,
+    55,
+    25,
+    54,
+    14,
+    25,
+    54,
+    36,
+    58,
+    71,
+    53,
+    10,
+    24,
+    59,
+    36,
+    0,
+    46,
+    12
+  ],
+  "source_texts": [
+    "Do you have a list of the cards and currencies supported?",
+    "What are the currencies and cards that are supported with my account?",
+    "Do you have EUR currency available for me?",
+    "Can you tell me which cards and currencies are supported?",
+    "I want to know which currencies and cards are supported, can you provide a list?",
+    "What is the daily limit on my card?",
+    "how can the money machine keep my card what do i need to do?",
+    "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+    "Will the system automatically update once there is no more money left?",
+    "Do you have a return policy?",
+    "HOW LONG TO TAKE THE TIME TO SOLVE",
+    "Can I get support?",
+    "How long does it take to activate the card, as it does not look like its working?",
+    "You accepts my card?",
+    "What are the various currencies and cards that you offer support for?",
+    "What are my payment options?",
+    "Does my account have the option to hold multiple currencies?",
+    "What systems do you have in place for my security when using my card for everyday purchases?",
+    "Is my card actually working? It's the first time I tried using it",
+    "if im not using my account should i close it or just let it sit",
+    "When I use my card, it says decline?",
+    "Can you tell me what cards and currencies you support?",
+    "For a week now, I have tried to use my card and it is still not working.",
+    "Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working.",
+    "What cards do you support",
+    "What currencies can I not hold many in, if so what are they?",
+    "Can I use a check to get gas?",
+    "What is the verification process for my card?",
+    "Ive been trying to use my card for two weeks now to purchase somethings online but nothing is going through. It keeps returning my payment to my account. There shouldn't be anything wrong with my account, is it the card?",
+    "Are there limits as to where my card will be accepted?",
+    "i live in portugal. do you operate here?",
+    "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+    "Can I hold more than one currency?",
+    "I couldn't complete card activation.",
+    "I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make.",
+    "Can I pay more to get it deliver quicker?"
+  ],
+  "records": [
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do you have a list of the cards and currencies supported?",
+      "generated": "We'd be happy to provide you with a list of the payment cards and currencies we currently support."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are the currencies and cards that are supported with my account?",
+      "generated": "What types of payment methods and currencies are accepted with my account?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you have EUR currency available for me?",
+      "generated": "Can I get some information on the availability of the Euro currency for my transaction?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you tell me which cards and currencies are supported?",
+      "generated": "We'd be happy to inform you about the cards and currencies we currently accept."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I want to know which currencies and cards are supported, can you provide a list?",
+      "generated": "We'd be happy to provide you with a list of the currencies and cards we currently support. Can you please confirm which information you'd like to know?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What is the daily limit on my card?",
+      "generated": "What is the daily spending limit on my credit card?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "how can the money machine keep my card what do i need to do?",
+      "generated": "How can I prevent my card from being swallowed by the ATM? What steps can I take to ensure it's returned safely?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+      "generated": "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Will the system automatically update once there is no more money left?",
+      "generated": "Will the automatic top-up feature trigger a refill when my account balance reaches zero?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Do you have a return policy?",
+      "generated": "Can I initiate a return and request a refund?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "HOW LONG TO TAKE THE TIME TO SOLVE",
+      "generated": "How long will it take to resolve the issue with my card not working?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I get support?",
+      "generated": "Do you need assistance?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How long does it take to activate the card, as it does not look like its working?",
+      "generated": "How long does it take to enable my card, as it appears to be inactive?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "You accepts my card?",
+      "generated": "Is your card accepted?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are the various currencies and cards that you offer support for?",
+      "generated": "We accept a range of currencies and cards for transactions, including a variety of payment methods."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are my payment options?",
+      "generated": "What methods of payment do you accept?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Does my account have the option to hold multiple currencies?",
+      "generated": "Can I hold multiple types of fiat currencies in my account?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "What systems do you have in place for my security when using my card for everyday purchases?",
+      "generated": "How do you ensure my security when using a disposable virtual card for daily transactions?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Is my card actually working? It's the first time I tried using it",
+      "generated": "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "if im not using my account should i close it or just let it sit",
+      "generated": "If I'm not actively using my account, should I cancel it or simply leave it inactive?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "When I use my card, it says decline?",
+      "generated": "Why is my card payment being declined when I try to use it?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you tell me what cards and currencies you support?",
+      "generated": "We accept a range of cards and facilitate transactions in various currencies. Which specific cards and currencies are you interested in knowing about?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "For a week now, I have tried to use my card and it is still not working.",
+      "generated": "I've been trying to use my card for a week, but it's still not functioning properly."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working.",
+      "generated": "I'm having trouble using my new card to make payments, and it keeps getting declined. I've tried to use it multiple times to pay for gas at the Shell station near my home, but it's not working. I'm really frustrated about this issue with my new card."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What cards do you support",
+      "generated": "We accept a range of payment cards"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What currencies can I not hold many in, if so what are they?",
+      "generated": "Which fiat currencies are restricted for holding a large amount, and what are the limitations?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I use a check to get gas?",
+      "generated": "Can I use a cheque to top up my account?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What is the verification process for my card?",
+      "generated": "How do I confirm my card details for a top-up?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Ive been trying to use my card for two weeks now to purchase somethings online but nothing is going through. It keeps returning my payment to my account. There shouldn't be anything wrong with my account, is it the card?",
+      "generated": "Why have my recent online transactions been declined, and my payment kept reverting back to my account, despite my card being active and in good standing?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Are there limits as to where my card will be accepted?",
+      "generated": "Can I use my card at any location, or are there specific places where it won't be accepted?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "i live in portugal. do you operate here?",
+      "generated": "I am a resident of Portugal. Do you have a presence in this country?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+      "generated": "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can I hold more than one currency?",
+      "generated": "Can I maintain multiple fiat currency accounts?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I couldn't complete card activation.",
+      "generated": "I'm having trouble finishing the activation process for my card."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make.",
+      "generated": "I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction appears to be pending, and I'm concerned that I might be charged for a transaction I didn't authorize."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I pay more to get it deliver quicker?",
+      "generated": "Is there an option to expedite the delivery of my card for an additional fee?"
+    }
+  ]
+}

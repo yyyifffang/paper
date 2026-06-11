@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "Can I use my card at an ATM belonging to a different bank or financial institution?",
+    "I'm trying to add funds, but I'm being asked to confirm some information before I can proceed. Can you help me with that?",
+    "How do the rules work for increasing my credit limit?",
+    "Can I use my smartwatch to make a payment for fuel?",
+    "Can you provide a list of merchants that accept this particular card?",
+    "I'm puzzled as to why there's a cash withdrawal that I didn't initiate showing up in my account.",
+    "I'd like to open an account for my child, what's the process for doing so?",
+    "I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds.",
+    "What financial institutions or merchants accept the card?",
+    "I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize.",
+    "I'm experiencing an extra verification step after attempting to make a top-up, can you help me understand why?",
+    "I'd like to cancel the transfer I initiated this morning.",
+    "I believe there's been an error with the transfer I initiated",
+    "I'd like to set up an automatic transfer to top up my account whenever I'm abroad.",
+    "Can I set up automatic top-ups for my card while I'm traveling?",
+    "Can the top-up limit be increased without any restrictions?",
+    "How can I reactivate my new card?",
+    "I was unable to withdraw cash from the ATM.",
+    "How can I activate this card?",
+    "How do I go about closing my account?",
+    "Regarding the physical card's PIN information?",
+    "Why hasn't my international transfer from France been reflected in my account yet? I initiated the transfer two days ago, but my balance still hasn't been updated.",
+    "Need assistance with the exchange fee?",
+    "I attempted to make a cash withdrawal using my card, but it was unsuccessful. What are my options for retrieving my funds?",
+    "Can you provide the physical card separately?",
+    "When can I expect to receive my credit card, which was supposed to be sent to me?",
+    "How will the newly received card be reflected in the app?",
+    "Can you accept my other credit card issued in the United States? It's the only other one I possess.",
+    "How can I obtain a replacement card?",
+    "Can I use Apple Pay or Google Pay to pay for my gas?",
+    "We're having trouble confirming your identity.",
+    "I require a Mastercard",
+    "I recently received an email confirming a purchase made with my card, but when I checked my account on the mobile app, I discovered several unauthorized transactions. It appears that someone has compromised my card information and made these fraudulent purchases. I would like to have these transactions reversed and my card temporarily suspended.",
+    "We've noticed an unusual payment on your account, made by a merchant you don't have a record of. Could you please confirm if this is a direct debit payment that was not recognized by our system?",
+    "I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?",
+    "I tried to enter my PIN multiple times.",
+    "Please assist me in obtaining a Mastercard."
+  ],
+  "generated_labels": [
+    3,
+    71,
+    60,
+    2,
+    10,
+    20,
+    1,
+    4,
+    10,
+    20,
+    71,
+    8,
+    27,
+    4,
+    4,
+    60,
+    0,
+    26,
+    0,
+    55,
+    38,
+    5,
+    31,
+    26,
+    38,
+    11,
+    13,
+    54,
+    39,
+    2,
+    68,
+    73,
+    22,
+    28,
+    66,
+    49,
+    73
+  ],
+  "source_texts": [
+    "Can I use my card in another institutions ATM?",
+    "I just want to top-up, why do I need to verify anything?",
+    "What are the rules for a top-up?",
+    "Can I use my Apple Watch to pay for gas?",
+    "Do you have a list of businesses that accept this card?",
+    "I am confused why there is cash I did not accept in my account",
+    "I need to set up an account for my daughter, how would I do that?",
+    "I have a trip coming up and want to add money automatically.",
+    "Who accepts the card?",
+    "I believe my card has been compromised as there are funds showing that I did not receive.",
+    "I just tried to top-up and now I'm getting an additional verification message, why?",
+    "My morning transaction needs to be canceled.",
+    "I think there has been a mistake with my transfer",
+    "I want to add money automatically when I travel.",
+    "Can I add money to my card automatically during a trip?",
+    "Is the top-up amount unlimited?",
+    "How can my new card be renewed?",
+    "I could not access my money at the ATM",
+    "How do I active this card?",
+    "What's the process for terminating an account?",
+    "In regards to the PIN of the card?",
+    "Do international transfers take longer?? I made a transfer from France 2 days ago but it's still not there yet...",
+    "Exchange fee help?",
+    "I tried to withdraw some funds from my card, but was declined. How can I get my money?",
+    "Can you deliver the PIN separately?",
+    "Where is my credit card that was to be mailed?",
+    "Card has been received, how will it show up on the app?",
+    "Can you accept my other card from the U.S.?  It is the only other one I have.",
+    "What steps do I need to get another card?",
+    "Can I pay for my gas using my Apple watch?",
+    "I dont have identification",
+    "I need a Visa card",
+    "I just got an email in confirming my purchase with my card. I login to the mobile app on the card and found out there are several purchase were made without me aware of it. Evidently someone had stole my card information and made these fraudulent purchase. I need the transaction to be reverse and have my card suspended.",
+    "There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.",
+    "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?",
+    "I attempted to enter my pin to many times.",
+    "Please help me get a Visa card."
+  ],
+  "records": [
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I use my card in another institutions ATM?",
+      "generated": "Can I use my card at an ATM belonging to a different bank or financial institution?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I just want to top-up, why do I need to verify anything?",
+      "generated": "I'm trying to add funds, but I'm being asked to confirm some information before I can proceed. Can you help me with that?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What are the rules for a top-up?",
+      "generated": "How do the rules work for increasing my credit limit?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I use my Apple Watch to pay for gas?",
+      "generated": "Can I use my smartwatch to make a payment for fuel?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Do you have a list of businesses that accept this card?",
+      "generated": "Can you provide a list of merchants that accept this particular card?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I am confused why there is cash I did not accept in my account",
+      "generated": "I'm puzzled as to why there's a cash withdrawal that I didn't initiate showing up in my account."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "I need to set up an account for my daughter, how would I do that?",
+      "generated": "I'd like to open an account for my child, what's the process for doing so?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I have a trip coming up and want to add money automatically.",
+      "generated": "I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Who accepts the card?",
+      "generated": "What financial institutions or merchants accept the card?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I believe my card has been compromised as there are funds showing that I did not receive.",
+      "generated": "I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I just tried to top-up and now I'm getting an additional verification message, why?",
+      "generated": "I'm experiencing an extra verification step after attempting to make a top-up, can you help me understand why?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "My morning transaction needs to be canceled.",
+      "generated": "I'd like to cancel the transfer I initiated this morning."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I think there has been a mistake with my transfer",
+      "generated": "I believe there's been an error with the transfer I initiated"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I want to add money automatically when I travel.",
+      "generated": "I'd like to set up an automatic transfer to top up my account whenever I'm abroad."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money to my card automatically during a trip?",
+      "generated": "Can I set up automatic top-ups for my card while I'm traveling?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is the top-up amount unlimited?",
+      "generated": "Can the top-up limit be increased without any restrictions?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can my new card be renewed?",
+      "generated": "How can I reactivate my new card?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I could not access my money at the ATM",
+      "generated": "I was unable to withdraw cash from the ATM."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How do I active this card?",
+      "generated": "How can I activate this card?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "What's the process for terminating an account?",
+      "generated": "How do I go about closing my account?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "In regards to the PIN of the card?",
+      "generated": "Regarding the physical card's PIN information?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Do international transfers take longer?? I made a transfer from France 2 days ago but it's still not there yet...",
+      "generated": "Why hasn't my international transfer from France been reflected in my account yet? I initiated the transfer two days ago, but my balance still hasn't been updated."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Exchange fee help?",
+      "generated": "Need assistance with the exchange fee?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I tried to withdraw some funds from my card, but was declined. How can I get my money?",
+      "generated": "I attempted to make a cash withdrawal using my card, but it was unsuccessful. What are my options for retrieving my funds?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Can you deliver the PIN separately?",
+      "generated": "Can you provide the physical card separately?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Where is my credit card that was to be mailed?",
+      "generated": "When can I expect to receive my credit card, which was supposed to be sent to me?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Card has been received, how will it show up on the app?",
+      "generated": "How will the newly received card be reflected in the app?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you accept my other card from the U.S.?  It is the only other one I have.",
+      "generated": "Can you accept my other credit card issued in the United States? It's the only other one I possess."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "What steps do I need to get another card?",
+      "generated": "How can I obtain a replacement card?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I pay for my gas using my Apple watch?",
+      "generated": "Can I use Apple Pay or Google Pay to pay for my gas?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I dont have identification",
+      "generated": "We're having trouble confirming your identity."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I need a Visa card",
+      "generated": "I require a Mastercard"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I just got an email in confirming my purchase with my card. I login to the mobile app on the card and found out there are several purchase were made without me aware of it. Evidently someone had stole my card information and made these fraudulent purchase. I need the transaction to be reverse and have my card suspended.",
+      "generated": "I recently received an email confirming a purchase made with my card, but when I checked my account on the mobile app, I discovered several unauthorized transactions. It appears that someone has compromised my card information and made these fraudulent purchases. I would like to have these transactions reversed and my card temporarily suspended."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.",
+      "generated": "We've noticed an unusual payment on your account, made by a merchant you don't have a record of. Could you please confirm if this is a direct debit payment that was not recognized by our system?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?",
+      "generated": "I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I attempted to enter my pin to many times.",
+      "generated": "I tried to enter my PIN multiple times."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Please help me get a Visa card.",
+      "generated": "Please assist me in obtaining a Mastercard."
+    }
+  ]
+}

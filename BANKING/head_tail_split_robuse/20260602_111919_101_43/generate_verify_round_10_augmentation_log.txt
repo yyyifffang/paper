@@ -1,0 +1,71 @@
+GEN | [exchange_charge] | Orig: I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently. -> Aug: I'd like to inquire about any available discounts for regular exchange transactions, as they happen quite often.
+GEN | [getting_spare_card] | Orig: I would like to get additional physical cards at this time -> Aug: I'd like to obtain extra physical debit/credit cards right now
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are SWIFT Transfers available at this bank? -> Aug: Can I use bank transfer to top up my account at this bank?
+GEN | [supported_cards_and_currencies] | Orig: What are my payment options? -> Aug: What methods of payment do you accept?
+GEN | [exchange_via_app] | Orig: Can I use this app to change money? -> Aug: Can I make a currency exchange using this mobile app?
+GEN | [declined_transfer] | Orig: I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate. -> Aug: I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct.
+GEN | [getting_virtual_card] | Orig: And do you have virtual cards instead of physical ones? -> Aug: Are there any digital cards available instead of traditional physical cards?
+GEN | [lost_or_stolen_card] | Orig: What's the phone number to freeze a card? -> Aug: What's the phone number to report a lost or stolen card?
+GEN | [topping_up_by_card] | Orig: What information am I going to have to have in order to do a transfer with my card? -> Aug: What details do I need to provide to complete a card-based transfer?
+GEN | [exchange_via_app] | Orig: My plans may change so I may need to change from GBP to AUD. -> Aug: My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: what are weekend rates for getting cash -> Aug: what is the exchange rate for a cash withdrawal on a weekend?
+GEN | [declined_transfer] | Orig: How do I make sure my transfer isn't goin to an unsupported merchant? -> Aug: How can I guarantee that my transfer won't be declined due to an unsupported merchant?
+GEN | [pin_blocked] | Orig: How do I get unblocked? -> Aug: What can I do to resolve the PIN block issue?
+GEN | [age_limit] | Orig: What about my children? -> Aug: What about my minors?
+GEN | [activate_my_card] | Orig: I need to actuate my card. -> Aug: I'd like to activate my card.
+GEN | [order_physical_card] | Orig: What does the bank charge for lost or stolen card replacements? -> Aug: How much does the bank charge for issuing a new physical card if my original one is lost or stolen?
+GEN | [order_physical_card] | Orig: do i need to add money before i order a card -> Aug: Do I need to fund my account before placing an order for a physical card?
+GEN | [country_support] | Orig: Who gets support? -> Aug: Who is eligible for assistance?
+GEN | [card_arrival] | Orig: I thought I would have received my new card at this point. -> Aug: I expected my new card to arrive by now.
+GEN | [card_not_working] | Orig: I seem to be unable to make any transactions. -> Aug: I'm having trouble making any transactions.
+GEN | [declined_card_payment] | Orig: When I use my card, it says decline? -> Aug: Why is my card payment being declined when I try to use it?
+GEN | [card_swallowed] | Orig: How do I get my card back quickly from a bank machine that it? -> Aug: How can I retrieve my card from a bank machine as soon as possible?
+GEN | [getting_virtual_card] | Orig: Please let me know how to place an order for a virtual card -> Aug: Please inform me about the process of acquiring a virtual card
+GEN | [exchange_rate] | Orig: What's the process for exchanges? -> Aug: How do I initiate an exchange?
+GEN | [declined_cash_withdrawal] | Orig: Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined. -> Aug: Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined.
+GEN | [reverted_card_payment?] | Orig: What happens if a merchant doesn't accept  you payment? -> Aug: What happens if a payment to a merchant is declined or reversed?
+GEN | [getting_spare_card] | Orig: Can you send me more cards for my account? -> Aug: Could you please provide me with additional cards for my account?
+GEN | [getting_spare_card] | Orig: My daughter would like a card from my account?  Can I do this? -> Aug: Can I request a replacement card for my account, so my daughter can use it?
+GEN | [receiving_money] | Orig: Can I receive payment in another currency? -> Aug: Can I accept payment in a different currency?
+GEN | [declined_cash_withdrawal] | Orig: why would i be declined if i had money iin my account -> Aug: You're wondering why your cash withdrawal was declined despite having sufficient funds in your account.
+GEN | [declined_transfer] | Orig: How can I check for an unsupported merchant for my transfer request? -> Aug: What steps can I take to verify if the merchant is not supported for my transfer attempt?
+GEN | [transaction_charged_twice] | Orig: I have multiple of the same transaction -> Aug: I've noticed duplicate transactions on my account.
+GEN | [receiving_money] | Orig: Will my GPB update my salary -> Aug: Will my account reflect my latest paycheck?
+GEN | [exchange_via_app] | Orig: Can this convert money? -> Aug: Can I make an exchange using the app?
+GEN | [supported_cards_and_currencies] | Orig: I have another card from the U.S. Will you be able to accept that one? -> Aug: I'd like to know if you support cards issued in the United States.
+VAL | [exchange_charge] | ACCEPT | Reason: N/A | Original: I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently. | Augmented: I'd like to inquire about any available discounts for regular exchange transactions, as they happen quite often.
+VAL | [getting_spare_card] | ACCEPT | Reason: ... | Original: I would like to get additional physical cards at this time | Augmented: I'd like to obtain extra physical debit/credit cards right now
+VAL | [top_up_by_bank_transfer_charge] | UNKNOWN | Reason: N/A | Original: Are SWIFT Transfers available at this bank? | Augmented: Can I use bank transfer to top up my account at this bank?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: What are my payment options? | Augmented: What methods of payment do you accept?
+VAL | [exchange_via_app] | ACCEPT | Reason: ... | Original: Can I use this app to change money? | Augmented: Can I make a currency exchange using this mobile app?
+VAL | [declined_transfer] | ACCEPT | Reason: ... | Original: I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate. | Augmented: I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct.
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: And do you have virtual cards instead of physical ones? | Augmented: Are there any digital cards available instead of traditional physical cards?
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: N/A | Original: What's the phone number to freeze a card? | Augmented: What's the phone number to report a lost or stolen card?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: What information am I going to have to have in order to do a transfer with my card? | Augmented: What details do I need to provide to complete a card-based transfer?
+VAL | [exchange_via_app] | ACCEPT | Reason: N/A | Original: My plans may change so I may need to change from GBP to AUD. | Augmented: My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | UNKNOWN | Reason: N/A | Original: what are weekend rates for getting cash | Augmented: what is the exchange rate for a cash withdrawal on a weekend?
+VAL | [declined_transfer] | ACCEPT | Reason: ... | Original: How do I make sure my transfer isn't goin to an unsupported merchant? | Augmented: How can I guarantee that my transfer won't be declined due to an unsupported merchant?
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: How do I get unblocked? | Augmented: What can I do to resolve the PIN block issue?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: What about my children? | Augmented: What about my minors?
+VAL | [activate_my_card] | ACCEPT | Reason: N/A | Original: I need to actuate my card. | Augmented: I'd like to activate my card.
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: What does the bank charge for lost or stolen card replacements? | Augmented: How much does the bank charge for issuing a new physical card if my original one is lost or stolen?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: do i need to add money before i order a card | Augmented: Do I need to fund my account before placing an order for a physical card?
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: Who gets support? | Augmented: Who is eligible for assistance?
+VAL | [card_arrival] | ACCEPT | Reason: ... | Original: I thought I would have received my new card at this point. | Augmented: I expected my new card to arrive by now.
+VAL | [card_not_working] | ACCEPT | Reason: N/A | Original: I seem to be unable to make any transactions. | Augmented: I'm having trouble making any transactions.
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: When I use my card, it says decline? | Augmented: Why is my card payment being declined when I try to use it?
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: How do I get my card back quickly from a bank machine that it? | Augmented: How can I retrieve my card from a bank machine as soon as possible?
+VAL | [getting_virtual_card] | ACCEPT | Reason: N/A | Original: Please let me know how to place an order for a virtual card | Augmented: Please inform me about the process of acquiring a virtual card
+VAL | [exchange_rate] | ACCEPT | Reason: N/A | Original: What's the process for exchanges? | Augmented: How do I initiate an exchange?
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: N/A | Original: Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined. | Augmented: Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined.
+VAL | [reverted_card_payment?] | REVIEW | Reason: N/A | Original: What happens if a merchant doesn't accept  you payment? | Augmented: What happens if a payment to a merchant is declined or reversed?
+VAL | [getting_spare_card] | ACCEPT | Reason: ... | Original: Can you send me more cards for my account? | Augmented: Could you please provide me with additional cards for my account?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: My daughter would like a card from my account?  Can I do this? | Augmented: Can I request a replacement card for my account, so my daughter can use it?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Can I receive payment in another currency? | Augmented: Can I accept payment in a different currency?
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: ... | Original: why would i be declined if i had money iin my account | Augmented: You're wondering why your cash withdrawal was declined despite having sufficient funds in your account.
+VAL | [declined_transfer] | ACCEPT | Reason: N/A | Original: How can I check for an unsupported merchant for my transfer request? | Augmented: What steps can I take to verify if the merchant is not supported for my transfer attempt?
+VAL | [transaction_charged_twice] | ACCEPT | Reason: N/A | Original: I have multiple of the same transaction | Augmented: I've noticed duplicate transactions on my account.
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Will my GPB update my salary | Augmented: Will my account reflect my latest paycheck?
+VAL | [exchange_via_app] | ACCEPT | Reason: N/A | Original: Can this convert money? | Augmented: Can I make an exchange using the app?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: I have another card from the U.S. Will you be able to accept that one? | Augmented: I'd like to know if you support cards issued in the United States.
+VAL_SUMMARY | ACCEPT: 32 | REVIEW: 1 | REJECT: 0 | UNKNOWN: 2 | Accept Rate: 0.9143

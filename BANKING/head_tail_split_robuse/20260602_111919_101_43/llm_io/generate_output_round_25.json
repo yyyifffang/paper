@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Can you confirm the source of the funds in my account before I check my available balance?",
+    "The ATM is refusing to dispense my card, and I urgently require it to be returned to me.",
+    "Why was there an additional charge when I used my credit card to make the payment?",
+    "Do you have a minimum age requirement I need to meet?",
+    "How do I add funds to my card using my card?",
+    "What kind of payment card will I be issued?",
+    "How are physical cards shipped or delivered?",
+    "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?",
+    "If I suspect that my credit card has been compromised, what steps should I take to address the situation?",
+    "Who is the source of the funds being used to make this transaction?",
+    "Unfortunately, I was unable to withdraw cash from my account.",
+    "A withdrawal was processed on my account, but I didn't initiate it and I still have my card in my possession. What should I do?",
+    "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction.",
+    "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet.",
+    "I'm having trouble adding funds to my account using a cheque, but it's not processing.",
+    "Are there any fees associated with using a credit or debit card for payment?",
+    "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it.",
+    "We've noticed a transaction on your statement that's causing some confusion. It appears to be a direct debit payment that we can't identify. The date is a few weeks old, and I'm not familiar with the business that made the charge. I'm wondering if you could help us investigate this further and determine if it was a legitimate transaction or not.",
+    "Can you please confirm the source of the funds used for the recent top-up?",
+    "I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?",
+    "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?",
+    "I've stopped making payments on this card.",
+    "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time",
+    "I recently received my card, but I'm having trouble adding funds to it. I'm considering canceling my account due to this issue. Can you help me resolve this problem?",
+    "I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?",
+    "Is there an option to expedite the delivery of my card for an additional fee?",
+    "I require an immediate refund, but the refund amount is not showing up in my account.",
+    "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?",
+    "I'm curious about the reason behind the failed transfer.",
+    "Why was my transfer not processed successfully?",
+    "Why isn't my refund appearing in my account statement?",
+    "Despite not being based in the UK, can I still obtain a card?",
+    "I'm hesitant to confirm my identity through this process.",
+    "Why do I have to pay a fee to withdraw cash from the ATM?",
+    "to confirm my account information",
+    "I noticed an additional fee on my statement. Can you help me understand what it's for?"
+  ],
+  "generated_labels": [
+    70,
+    18,
+    15,
+    1,
+    62,
+    73,
+    43,
+    63,
+    22,
+    70,
+    26,
+    20,
+    28,
+    48,
+    58,
+    15,
+    15,
+    28,
+    70,
+    26,
+    59,
+    53,
+    26,
+    59,
+    26,
+    12,
+    51,
+    41,
+    27,
+    35,
+    51,
+    24,
+    74,
+    19,
+    74,
+    34
+  ],
+  "source_texts": [
+    "Can I see my available money?",
+    "The ATM won't give me my card back. I need it back now!",
+    "Why was the price higher when I paid with my card?",
+    "Is there a certain age I need to be?",
+    "What's the process for topping up my card?",
+    "What type of card will I receive?",
+    "Where are the cards transported to?",
+    "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+    "What do I do if I believe to be a victim of credit card fraud?",
+    "Who is giving me my money?",
+    "When I tried to access my cash, I wasn't allowed!",
+    "A WD was just made on my account, but it was not me and I still have my card.  What to do?",
+    "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+    "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+    "i have been trying to top up my account with a check but it won't work",
+    "Do you have charges now when you pay with a card?",
+    "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+    "I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain?",
+    "Where is my top-up generated from?",
+    "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+    "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+    "I have cancelled payments to this card.",
+    "Is my card actually working? It's the first time I tried using it",
+    "I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on?",
+    "I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this?",
+    "Can I pay more to get it deliver quicker?",
+    "i need a refund right away but the funds aren't available in my account",
+    "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+    "I wanted to know why my transaction didn't go through.",
+    "Why was my transaction not approved?",
+    "When will my returned transaction show up on my account?",
+    "Although I am not located in the UK area, may i still receive a card?",
+    "I don't want to use this method to identify myself.",
+    "How come I got to pay to get my money from the ATM?",
+    "what I need to verify my account",
+    "There is an extra small charge on my card! What do I do?"
+  ],
+  "records": [
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I see my available money?",
+      "generated": "Can you confirm the source of the funds in my account before I check my available balance?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "The ATM won't give me my card back. I need it back now!",
+      "generated": "The ATM is refusing to dispense my card, and I urgently require it to be returned to me."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why was the price higher when I paid with my card?",
+      "generated": "Why was there an additional charge when I used my credit card to make the payment?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Is there a certain age I need to be?",
+      "generated": "Do you have a minimum age requirement I need to meet?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What's the process for topping up my card?",
+      "generated": "How do I add funds to my card using my card?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "What type of card will I receive?",
+      "generated": "What kind of payment card will I be issued?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Where are the cards transported to?",
+      "generated": "How are physical cards shipped or delivered?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+      "generated": "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What do I do if I believe to be a victim of credit card fraud?",
+      "generated": "If I suspect that my credit card has been compromised, what steps should I take to address the situation?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Who is giving me my money?",
+      "generated": "Who is the source of the funds being used to make this transaction?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "When I tried to access my cash, I wasn't allowed!",
+      "generated": "Unfortunately, I was unable to withdraw cash from my account."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "A WD was just made on my account, but it was not me and I still have my card.  What to do?",
+      "generated": "A withdrawal was processed on my account, but I didn't initiate it and I still have my card in my possession. What should I do?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+      "generated": "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+      "generated": "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "i have been trying to top up my account with a check but it won't work",
+      "generated": "I'm having trouble adding funds to my account using a cheque, but it's not processing."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Do you have charges now when you pay with a card?",
+      "generated": "Are there any fees associated with using a credit or debit card for payment?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+      "generated": "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain?",
+      "generated": "We've noticed a transaction on your statement that's causing some confusion. It appears to be a direct debit payment that we can't identify. The date is a few weeks old, and I'm not familiar with the business that made the charge. I'm wondering if you could help us investigate this further and determine if it was a legitimate transaction or not."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Where is my top-up generated from?",
+      "generated": "Can you please confirm the source of the funds used for the recent top-up?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+      "generated": "I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+      "generated": "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I have cancelled payments to this card.",
+      "generated": "I've stopped making payments on this card."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Is my card actually working? It's the first time I tried using it",
+      "generated": "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on?",
+      "generated": "I recently received my card, but I'm having trouble adding funds to it. I'm considering canceling my account due to this issue. Can you help me resolve this problem?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this?",
+      "generated": "I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I pay more to get it deliver quicker?",
+      "generated": "Is there an option to expedite the delivery of my card for an additional fee?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "i need a refund right away but the funds aren't available in my account",
+      "generated": "I require an immediate refund, but the refund amount is not showing up in my account."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+      "generated": "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I wanted to know why my transaction didn't go through.",
+      "generated": "I'm curious about the reason behind the failed transfer."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why was my transaction not approved?",
+      "generated": "Why was my transfer not processed successfully?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "When will my returned transaction show up on my account?",
+      "generated": "Why isn't my refund appearing in my account statement?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Although I am not located in the UK area, may i still receive a card?",
+      "generated": "Despite not being based in the UK, can I still obtain a card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I don't want to use this method to identify myself.",
+      "generated": "I'm hesitant to confirm my identity through this process."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How come I got to pay to get my money from the ATM?",
+      "generated": "Why do I have to pay a fee to withdraw cash from the ATM?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "what I need to verify my account",
+      "generated": "to confirm my account information"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is an extra small charge on my card! What do I do?",
+      "generated": "I noticed an additional fee on my statement. Can you help me understand what it's for?"
+    }
+  ]
+}

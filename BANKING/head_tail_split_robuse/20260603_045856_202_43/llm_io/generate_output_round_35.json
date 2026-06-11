@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I believe there's been an error with the transfer I initiated",
+    "You can replenish your account by making a cash deposit.",
+    "We didn't recognize this payment from you.",
+    "I'd like to increase my account balance by transferring funds into my account.",
+    "You can find information on topping up your account by cash deposit or cheque through our website or by visiting one of our branches.",
+    "Can I make a cash deposit to top up my account?",
+    "Why am I unable to deposit funds into my account?",
+    "I'll dispatch a cheque to replenish my account balance",
+    "Can we bypass the identity verification process?",
+    "I've recently relocated abroad and I've noticed an increase in the transfer fees. As a long-time customer, I'm surprised by this change in policy.",
+    "I've made a deposit, but my account balance hasn't been updated",
+    "How can my boss deposit funds directly to my card?",
+    "Can you please guide me on how to replenish my account balance? I'd like to know the process for depositing a check.",
+    "Can I send a check to deposit funds into my account?",
+    "Can I get my card delivered to a country outside of the United Kingdom?",
+    "May I request information about the verification process for your identity?",
+    "I've recently relocated to the United States and would like to obtain a new card.",
+    "You can find information on how to top up your account by cash or cheque.",
+    "How can I top up my account by cash or cheque?",
+    "Why hasn't my account balance been updated after I made a transfer from another bank account?",
+    "How long does it take to enable my card, as it appears to be inactive?",
+    "I recently made a purchase and the vendor informed me that the transfer is still pending. The transaction was in euros. Can you please provide an estimate of how long it usually takes for the funds to be received?",
+    "What restrictions are in place for the disposable cards?",
+    "I'd like to understand the process of moving funds into my account.",
+    "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?",
+    "How will the newly received card be reflected in the app?",
+    "What's the current exchange rate for my money?",
+    "We're showing a direct debit payment that we haven't recognized as yours. Can you help us figure out what's going on?",
+    "I require my card as soon as possible.",
+    "I've exhausted my PIN attempts. What's the next step I should take?",
+    "Are you able to issue cards to individuals residing outside of the United Kingdom?",
+    "How do the rules work for increasing my credit limit?",
+    "Why is the transfer still pending?",
+    "decided to switch to another option and update my personal information",
+    "I'm having trouble accessing my account due to a PIN issue."
+  ],
+  "generated_labels": [
+    27,
+    58,
+    16,
+    65,
+    58,
+    58,
+    65,
+    58,
+    74,
+    64,
+    5,
+    50,
+    58,
+    58,
+    24,
+    69,
+    24,
+    58,
+    58,
+    5,
+    0,
+    48,
+    29,
+    65,
+    35,
+    13,
+    32,
+    28,
+    12,
+    49,
+    24,
+    60,
+    48,
+    30,
+    49
+  ],
+  "source_texts": [
+    "I think there has been a mistake with my transfer",
+    "How do I deposit cash?",
+    "i didnt do this charge",
+    "I need more money in my account. Can I add more by transferring?",
+    "Can you tell me where to find top up by cash deposit?",
+    "Is topping up with cash allowed?",
+    "Why can I not transfer money into my account?",
+    "I'll send a check to top up my account",
+    "Can we skip verifying?",
+    "I just moved overseas and I noticed that you are charging me more fees.  I am a loyal customer, is this how you expect to keep customers?",
+    "I've transferred money into my account but the balance is the same",
+    "How can my boss pay me directly to the card?",
+    "Help, I need to top up my account. Where do I send a check?",
+    "Is there somewhere I can send a check to add to my account?",
+    "Any chance of getting the card outside the UK?",
+    "Can I get information on the identity checks?",
+    "I just moved to the US how do I get a card?",
+    "Where do I look for cash top up?",
+    "What are the steps for depositing cash into my account?",
+    "Why didn't the money I transferred into my account get added to my balance?",
+    "How long does it take to activate the card, as it does not look like its working?",
+    "I recently purchased something and the seller says my money has not arrived yet. It was in EU's. How long does this take?",
+    "What limits are there on the virtual cards?",
+    "I'd like to know how transferring my money into my account works.",
+    "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+    "Card has been received, how will it show up on the app?",
+    "What value can I get for my currency?",
+    "what is this charge i didnt do it what can i do",
+    "I need my card right away.",
+    "I have used all of my PIN tries. What should I do now?",
+    "Do you provide cards to people not in the UK?",
+    "What are the rules for a top-up?",
+    "Why is the transaction not posting?",
+    "went somewhere else, need to change details",
+    "I cannot use my PIN."
+  ],
+  "records": [
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I think there has been a mistake with my transfer",
+      "generated": "I believe there's been an error with the transfer I initiated"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How do I deposit cash?",
+      "generated": "You can replenish your account by making a cash deposit."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i didnt do this charge",
+      "generated": "We didn't recognize this payment from you."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need more money in my account. Can I add more by transferring?",
+      "generated": "I'd like to increase my account balance by transferring funds into my account."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can you tell me where to find top up by cash deposit?",
+      "generated": "You can find information on topping up your account by cash deposit or cheque through our website or by visiting one of our branches."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Is topping up with cash allowed?",
+      "generated": "Can I make a cash deposit to top up my account?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Why can I not transfer money into my account?",
+      "generated": "Why am I unable to deposit funds into my account?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I'll send a check to top up my account",
+      "generated": "I'll dispatch a cheque to replenish my account balance"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can we skip verifying?",
+      "generated": "Can we bypass the identity verification process?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I just moved overseas and I noticed that you are charging me more fees.  I am a loyal customer, is this how you expect to keep customers?",
+      "generated": "I've recently relocated abroad and I've noticed an increase in the transfer fees. As a long-time customer, I'm surprised by this change in policy."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I've transferred money into my account but the balance is the same",
+      "generated": "I've made a deposit, but my account balance hasn't been updated"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can my boss pay me directly to the card?",
+      "generated": "How can my boss deposit funds directly to my card?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Help, I need to top up my account. Where do I send a check?",
+      "generated": "Can you please guide me on how to replenish my account balance? I'd like to know the process for depositing a check."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Is there somewhere I can send a check to add to my account?",
+      "generated": "Can I send a check to deposit funds into my account?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Any chance of getting the card outside the UK?",
+      "generated": "Can I get my card delivered to a country outside of the United Kingdom?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Can I get information on the identity checks?",
+      "generated": "May I request information about the verification process for your identity?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I just moved to the US how do I get a card?",
+      "generated": "I've recently relocated to the United States and would like to obtain a new card."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Where do I look for cash top up?",
+      "generated": "You can find information on how to top up your account by cash or cheque."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What are the steps for depositing cash into my account?",
+      "generated": "How can I top up my account by cash or cheque?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why didn't the money I transferred into my account get added to my balance?",
+      "generated": "Why hasn't my account balance been updated after I made a transfer from another bank account?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How long does it take to activate the card, as it does not look like its working?",
+      "generated": "How long does it take to enable my card, as it appears to be inactive?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I recently purchased something and the seller says my money has not arrived yet. It was in EU's. How long does this take?",
+      "generated": "I recently made a purchase and the vendor informed me that the transfer is still pending. The transaction was in euros. Can you please provide an estimate of how long it usually takes for the funds to be received?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "What limits are there on the virtual cards?",
+      "generated": "What restrictions are in place for the disposable cards?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I'd like to know how transferring my money into my account works.",
+      "generated": "I'd like to understand the process of moving funds into my account."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+      "generated": "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Card has been received, how will it show up on the app?",
+      "generated": "How will the newly received card be reflected in the app?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What value can I get for my currency?",
+      "generated": "What's the current exchange rate for my money?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "what is this charge i didnt do it what can i do",
+      "generated": "We're showing a direct debit payment that we haven't recognized as yours. Can you help us figure out what's going on?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card right away.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I have used all of my PIN tries. What should I do now?",
+      "generated": "I've exhausted my PIN attempts. What's the next step I should take?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Do you provide cards to people not in the UK?",
+      "generated": "Are you able to issue cards to individuals residing outside of the United Kingdom?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What are the rules for a top-up?",
+      "generated": "How do the rules work for increasing my credit limit?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Why is the transaction not posting?",
+      "generated": "Why is the transfer still pending?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "went somewhere else, need to change details",
+      "generated": "decided to switch to another option and update my personal information"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I cannot use my PIN.",
+      "generated": "I'm having trouble accessing my account due to a PIN issue."
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "Is your card accepted?",
+    "Can I request a spare card in my daughter's name, which will be linked to my account?",
+    "I require my card as soon as possible.",
+    "Will the value of my money remain the same when I travel internationally?",
+    "To facilitate a transfer, could you please provide me with your bank account information?",
+    "I'd like to order a physical card.",
+    "I'm still waiting for the refund from Next, which they claimed to have processed last Wednesday, but it's been almost a week and I haven't received it yet. Can you help me figure out what's going on?",
+    "Please provide instructions on how to deposit funds into my account using the transfer feature",
+    "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with.",
+    "Can I track the status of my card as it's being delivered to me?",
+    "Why hasn't the recipient received my money transfer?",
+    "How can I confirm the details of my card?",
+    "If my identity verification process hasn't been completed, can I still access my account?",
+    "I'm concerned about the security of my card.",
+    "Are there any charges involved when I top up my account using my card?",
+    "This top-up verification process is really frustrating.",
+    "Why isn't my refund appearing in my account statement?",
+    "I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully",
+    "How do you facilitate transfers into an account?",
+    "Can you provide a replacement card?",
+    "I need a replacement card",
+    "Can I request priority shipping for my card delivery?",
+    "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?",
+    "Is my credit card being rejected anywhere?",
+    "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction.",
+    "I recently got married and would like to update my personal information to reflect my new married name.",
+    "Could you kindly inform me if the refund for my recent large purchase has been processed and credited to my account? I've been waiting for a while, as I requested it from the merchant a few days ago, but I haven't received any update yet.",
+    "Will I incur a charge for topping up my account via bank transfer?",
+    "Can you assist me in locating the recent transfer I made?",
+    "I recently made a card payment, but it appears to be pending. Can you tell me what the usual processing time is for a payment like this?",
+    "I initiated a transfer for my vacation fund, but it's still pending. Can you please let me know when I can expect the funds to be available?",
+    "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?",
+    "I made a purchase recently, but the payment is still pending. Can you help me understand why it's not showing as processed yet?",
+    "Can you assist me in retrieving my swallowed card?",
+    "This transaction requires both a Visa and a Mastercard."
+  ],
+  "generated_labels": [
+    10,
+    39,
+    12,
+    32,
+    65,
+    43,
+    51,
+    65,
+    20,
+    11,
+    66,
+    71,
+    74,
+    22,
+    57,
+    71,
+    51,
+    62,
+    65,
+    39,
+    39,
+    11,
+    5,
+    10,
+    28,
+    30,
+    51,
+    56,
+    5,
+    45,
+    48,
+    63,
+    45,
+    18,
+    73
+  ],
+  "source_texts": [
+    "You accepts my card?",
+    "Can my daughter also have a card issued in her name, but linked to my account?",
+    "I need my card ASAP!",
+    "Will my money be of equal value when I travel abroad?",
+    "What are my bank details so I can do a transfer?",
+    "I would like a card please.",
+    "I requested a refund from Next because the dress I purchased had three arm holes. They said they sent the refund last Wednesday which is nearly a week ago and I still don't have it.  Why not?",
+    "Please provide details on how to top up my account using transfer option",
+    "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+    "Is there a way I can check on the card on route to me?",
+    "How can I the person see my money transaction?",
+    "What can I do to verify my card?",
+    "If my identy verifacation hasn't gone through can I use my account?",
+    "am suspicious of my card's security",
+    "I was wondering if you will take any fees in exchange for top ups?",
+    "this verifying the top up is annoying",
+    "When will my returned transaction show up on my account?",
+    "I tried topping off my account with a card, but the money is not in my account despite the charge going through",
+    "What transfer methods do you accept?",
+    "Do you send duplicate cards?",
+    "I want a new card",
+    "Is there a way I can get my card expedited?",
+    "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+    "Is my card denied anywhere?",
+    "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+    "I just got married and need to change my name on the account",
+    "Please update me on whether you have received the funds for the refund of the large purchase I made recently. I have requested this from the merchant days ago but still haven't got anything.",
+    "Will I be fined for topping up by transfer?",
+    "Help me find the transfer that I did.",
+    "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?",
+    "i put in money for vacation and its not showing. i need that money today, how long will it take",
+    "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+    "I purchases several items today. Why are they still showing pending?",
+    "Will you please help me get my card back?",
+    "This transaction needs both a Visa and a Mastercard."
+  ],
+  "records": [
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "You accepts my card?",
+      "generated": "Is your card accepted?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can my daughter also have a card issued in her name, but linked to my account?",
+      "generated": "Can I request a spare card in my daughter's name, which will be linked to my account?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card ASAP!",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Will my money be of equal value when I travel abroad?",
+      "generated": "Will the value of my money remain the same when I travel internationally?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are my bank details so I can do a transfer?",
+      "generated": "To facilitate a transfer, could you please provide me with your bank account information?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I would like a card please.",
+      "generated": "I'd like to order a physical card."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I requested a refund from Next because the dress I purchased had three arm holes. They said they sent the refund last Wednesday which is nearly a week ago and I still don't have it.  Why not?",
+      "generated": "I'm still waiting for the refund from Next, which they claimed to have processed last Wednesday, but it's been almost a week and I haven't received it yet. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Please provide details on how to top up my account using transfer option",
+      "generated": "Please provide instructions on how to deposit funds into my account using the transfer feature"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+      "generated": "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Is there a way I can check on the card on route to me?",
+      "generated": "Can I track the status of my card as it's being delivered to me?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How can I the person see my money transaction?",
+      "generated": "Why hasn't the recipient received my money transfer?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What can I do to verify my card?",
+      "generated": "How can I confirm the details of my card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "If my identy verifacation hasn't gone through can I use my account?",
+      "generated": "If my identity verification process hasn't been completed, can I still access my account?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "am suspicious of my card's security",
+      "generated": "I'm concerned about the security of my card."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I was wondering if you will take any fees in exchange for top ups?",
+      "generated": "Are there any charges involved when I top up my account using my card?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "this verifying the top up is annoying",
+      "generated": "This top-up verification process is really frustrating."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "When will my returned transaction show up on my account?",
+      "generated": "Why isn't my refund appearing in my account statement?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I tried topping off my account with a card, but the money is not in my account despite the charge going through",
+      "generated": "I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What transfer methods do you accept?",
+      "generated": "How do you facilitate transfers into an account?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Do you send duplicate cards?",
+      "generated": "Can you provide a replacement card?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I want a new card",
+      "generated": "I need a replacement card"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Is there a way I can get my card expedited?",
+      "generated": "Can I request priority shipping for my card delivery?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+      "generated": "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is my card denied anywhere?",
+      "generated": "Is my credit card being rejected anywhere?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+      "generated": "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I just got married and need to change my name on the account",
+      "generated": "I recently got married and would like to update my personal information to reflect my new married name."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Please update me on whether you have received the funds for the refund of the large purchase I made recently. I have requested this from the merchant days ago but still haven't got anything.",
+      "generated": "Could you kindly inform me if the refund for my recent large purchase has been processed and credited to my account? I've been waiting for a while, as I requested it from the merchant a few days ago, but I haven't received any update yet."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will I be fined for topping up by transfer?",
+      "generated": "Will I incur a charge for topping up my account via bank transfer?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Help me find the transfer that I did.",
+      "generated": "Can you assist me in locating the recent transfer I made?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?",
+      "generated": "I recently made a card payment, but it appears to be pending. Can you tell me what the usual processing time is for a payment like this?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "i put in money for vacation and its not showing. i need that money today, how long will it take",
+      "generated": "I initiated a transfer for my vacation fund, but it's still pending. Can you please let me know when I can expect the funds to be available?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+      "generated": "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I purchases several items today. Why are they still showing pending?",
+      "generated": "I made a purchase recently, but the payment is still pending. Can you help me understand why it's not showing as processed yet?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "Will you please help me get my card back?",
+      "generated": "Can you assist me in retrieving my swallowed card?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "This transaction needs both a Visa and a Mastercard.",
+      "generated": "This transaction requires both a Visa and a Mastercard."
+    }
+  ]
+}

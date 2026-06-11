@@ -1,0 +1,280 @@
+{
+  "generated_texts": [
+    "I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?",
+    "I'm experiencing an issue with a transfer to another account, and I keep receiving a decline notification. Despite verifying the information multiple times, I'm still getting the same error message.",
+    "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?",
+    "How long does it take for a cheque to clear before I can use it to top up my account?",
+    "I require my card as soon as possible.",
+    "I'm curious about the status of a transfer I initiated, which is currently pending.",
+    "A recipient informed me that they didn't receive the full transfer I initiated, and the amount was short. I'll need to make an additional transfer to cover the shortfall. Could you please investigate this discrepancy and get back to me?",
+    "I'd like to report a missing credit card.",
+    "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account.",
+    "can you assist me in completing my transfer?",
+    "My account appears to be experiencing some unusual activity, with duplicate charges showing up.",
+    "Can I use a bank transfer to top up my account?",
+    "can you help me resolve the issue with my top-up attempt?",
+    "Can I get a spare card added to my account?",
+    "The payment I initiated has not been fully processed.",
+    "A recipient informed me that they didn't receive the full transfer I initiated, and it was actually short by a small amount. To rectify the situation, I need to make an additional transfer to cover the shortfall. Could you please investigate this matter and provide an update?",
+    "I'm having an issue with my account. I deposited cash yesterday, but my balance hasn't been updated. Could you please investigate and let me know what's going on?",
+    "I recently reported my card as missing, but I've since located it. Can I still use it?",
+    "When will my transfer be processed and no longer be in a pending state?",
+    "What are the charges for a standard physical card?",
+    "Can you facilitate additional deposits?",
+    "The top-up amount has been successfully added to your card, but the status remains pending.",
+    "I require my card as soon as possible.",
+    "I was unexpectedly billed a fee for using my card, which I believe was an error.",
+    "I'm having trouble with Google Pay functioning properly.",
+    "I recently made a deposit, but it seems to have been reversed. Can you help me understand why this happened?",
+    "utilize your credit to top up your account",
+    "Could you please guide me on how to obtain a disposable virtual card? I'm having trouble locating it.",
+    "I believe I've been mistakenly billed twice for a purchase - what's the recommended timeframe for bringing this to your attention?",
+    "I attempted to add funds to my card, but the transaction was reversed."
+  ],
+  "generated_labels": [
+    61,
+    27,
+    35,
+    58,
+    12,
+    48,
+    64,
+    41,
+    34,
+    35,
+    63,
+    56,
+    59,
+    39,
+    45,
+    64,
+    6,
+    13,
+    48,
+    43,
+    61,
+    47,
+    12,
+    15,
+    2,
+    61,
+    54,
+    37,
+    63,
+    61
+  ],
+  "source_texts": [
+    "I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that?",
+    "I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.",
+    "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+    "How long before a check I send clears?",
+    "I need my card right away.",
+    "I wanted to know why there is a transfer of mine pending.",
+    "A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?",
+    "Who can I speak with regarding a lost card?",
+    "Why is it showing that my account has been charged a dollar that is showing as pending?",
+    "please help my transfer go through",
+    "My account seems a bit off and getting weird charges.",
+    "Are SWIFT transfers supported?",
+    "is there a way to fix my top up",
+    "how is it possible to add another card to account",
+    "I made a payment that is not yet complete.",
+    "A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?",
+    "i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong?",
+    "I recently reported my card as missing/lost, and I just found it. Can I still use it?",
+    "When will my transfer move out of pending stage?",
+    "What fees do you charge for the standard card?",
+    "Do you support top ups?",
+    "Top-up is loaded into the card and no update.",
+    "I need my card soon.",
+    "I was charged and shouldn't have been charged when using my card!",
+    "I can't get google pay to work right.",
+    "I put some money in my account the other day but now its gone? Why is this?",
+    "use my credit to add money",
+    "Can you point me in the right direction of where to go to roder a disposable virtual card, I can't seem to find it.",
+    "I think I was charged double for something I bought - how long should I wait before reporting this?",
+    "I went to top up my card and it was cancelled."
+  ],
+  "records": [
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that?",
+      "generated": "I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.",
+      "generated": "I'm experiencing an issue with a transfer to another account, and I keep receiving a decline notification. Despite verifying the information multiple times, I'm still getting the same error message."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+      "generated": "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How long before a check I send clears?",
+      "generated": "How long does it take for a cheque to clear before I can use it to top up my account?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card right away.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I wanted to know why there is a transfer of mine pending.",
+      "generated": "I'm curious about the status of a transfer I initiated, which is currently pending."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?",
+      "generated": "A recipient informed me that they didn't receive the full transfer I initiated, and the amount was short. I'll need to make an additional transfer to cover the shortfall. Could you please investigate this discrepancy and get back to me?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Who can I speak with regarding a lost card?",
+      "generated": "I'd like to report a missing credit card."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is it showing that my account has been charged a dollar that is showing as pending?",
+      "generated": "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "please help my transfer go through",
+      "generated": "can you assist me in completing my transfer?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My account seems a bit off and getting weird charges.",
+      "generated": "My account appears to be experiencing some unusual activity, with duplicate charges showing up."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT transfers supported?",
+      "generated": "Can I use a bank transfer to top up my account?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "is there a way to fix my top up",
+      "generated": "can you help me resolve the issue with my top-up attempt?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "how is it possible to add another card to account",
+      "generated": "Can I get a spare card added to my account?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a payment that is not yet complete.",
+      "generated": "The payment I initiated has not been fully processed."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?",
+      "generated": "A recipient informed me that they didn't receive the full transfer I initiated, and it was actually short by a small amount. To rectify the situation, I need to make an additional transfer to cover the shortfall. Could you please investigate this matter and provide an update?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong?",
+      "generated": "I'm having an issue with my account. I deposited cash yesterday, but my balance hasn't been updated. Could you please investigate and let me know what's going on?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I recently reported my card as missing/lost, and I just found it. Can I still use it?",
+      "generated": "I recently reported my card as missing, but I've since located it. Can I still use it?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "When will my transfer move out of pending stage?",
+      "generated": "When will my transfer be processed and no longer be in a pending state?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What fees do you charge for the standard card?",
+      "generated": "What are the charges for a standard physical card?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you support top ups?",
+      "generated": "Can you facilitate additional deposits?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Top-up is loaded into the card and no update.",
+      "generated": "The top-up amount has been successfully added to your card, but the status remains pending."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card soon.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I was charged and shouldn't have been charged when using my card!",
+      "generated": "I was unexpectedly billed a fee for using my card, which I believe was an error."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I can't get google pay to work right.",
+      "generated": "I'm having trouble with Google Pay functioning properly."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I put some money in my account the other day but now its gone? Why is this?",
+      "generated": "I recently made a deposit, but it seems to have been reversed. Can you help me understand why this happened?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "use my credit to add money",
+      "generated": "utilize your credit to top up your account"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Can you point me in the right direction of where to go to roder a disposable virtual card, I can't seem to find it.",
+      "generated": "Could you please guide me on how to obtain a disposable virtual card? I'm having trouble locating it."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I think I was charged double for something I bought - how long should I wait before reporting this?",
+      "generated": "I believe I've been mistakenly billed twice for a purchase - what's the recommended timeframe for bringing this to your attention?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I went to top up my card and it was cancelled.",
+      "generated": "I attempted to add funds to my card, but the transaction was reversed."
+    }
+  ]
+}

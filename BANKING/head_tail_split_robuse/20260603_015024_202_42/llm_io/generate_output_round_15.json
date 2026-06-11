@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "What is the additional charge that I see on my statement?",
+    "I recently made a deposit, but my account balance hasn't been updated yet. Could you please help me with this issue?",
+    "I haven't received my card yet, and it's been a week. What should I do now?",
+    "I attempted to withdraw cash earlier, but the ATM appears to be malfunctioning. Upon checking, I noticed that the transaction is still pending. Can you investigate this issue and ensure I'm not charged for the funds I haven't received?",
+    "Can you assist me? My physical bank card is malfunctioning.",
+    "Why isn't my card visible in the app?",
+    "A pending cash withdrawal is awaiting processing.",
+    "I tried to withdraw some cash from the ATM earlier, but it didn't go through. Now, when I check the transaction, it still shows as pending. I'd appreciate it if someone could investigate this and let me know what's happening. I don't want to be charged for cash I never got.",
+    "I was expecting to receive some cash, but instead, I was debited without any funds being transferred.",
+    "If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?",
+    "I'm experiencing issues with my physical credit card.",
+    "Is there an additional fee for a physical card?",
+    "What should I do if I already have an existing card linked with your bank?",
+    "What charges can I anticipate when ordering a physical card from your institution?",
+    "I didn't receive the funds I attempted to add to my card.",
+    "Is there an additional fee for exchanging funds?",
+    "How can I confirm my account's default currency, as I receive payments in British Pounds?",
+    "What steps can I take to verify the security settings on my card through the mobile app?",
+    "Can I use a cheque to make a payment?",
+    "I'm disputing a transaction",
+    "We'd be happy to provide you with a list of the payment cards and currencies we currently support.",
+    "Can I expect any additional charges if I opt for expedited delivery of my new card?",
+    "Hi, I've noticed that the payment for an item I bought online has been reversed and credited back to my checking account. Could you help me understand if there was a problem with the merchant accepting my payment or if the bank had an issue processing the transaction?",
+    "I'm showing a cash withdrawal in my app, but it's not reflecting in my account.",
+    "why can't you simply process a refund for me instead of waiting for the merchant to initiate it?",
+    "We want to ensure the origin of your funds is legitimate and secure.",
+    "What are the ways to identify a Mastercard ATM?",
+    "Are there any limitations on issuing new cards in China?",
+    "What can I do about the transfer that was declined?",
+    "Why isn't my card visible in the app?",
+    "How can I obtain my physical credit card?",
+    "Can I use my card at any location?",
+    "I made a cash deposit, but my account balance hasn't been updated yet. Is there an issue with the transaction?",
+    "How long does it typically take for a pending card payment to clear? I have one that's been pending for a few days now and it's not showing any progress.",
+    "why isn't my card visible in the app?"
+  ],
+  "generated_labels": [
+    34,
+    6,
+    11,
+    46,
+    14,
+    13,
+    46,
+    46,
+    75,
+    13,
+    14,
+    43,
+    13,
+    43,
+    59,
+    31,
+    50,
+    14,
+    58,
+    16,
+    54,
+    9,
+    53,
+    20,
+    51,
+    70,
+    3,
+    9,
+    27,
+    13,
+    43,
+    10,
+    6,
+    45,
+    13
+  ],
+  "source_texts": [
+    "What is the dollar that I have pending on my statement there?",
+    "I made a deposit a couple of days back it's, as of yet, not gone in! It would be ideal if you assist me with this",
+    "I don't have my card after 1 week. What are my next steps?",
+    "I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got.",
+    "Please help me!  My physical card isn't working right.",
+    "How can I make my card show up in the app?",
+    "I have a withdrawal waiting to go through.",
+    "I tempted to get some money out of the machine earlier and it did not work.Looking now, the transaction actually shows to still be in progress. I would certainly appreciate someone look into this and let me know what's going on. I definitely do not want to be charged for money I never received.",
+    "i did not get any money but still was charged",
+    "If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?",
+    "I am having problems with my physical card.",
+    "Is a physical charge extra",
+    "What do I do if I already had a card with you guys?",
+    "Can you tell me exactly what fees I will expect to see in regards to your cards?",
+    "I didn't see the money I added to my card.",
+    "Do I pay extra for exchange?",
+    "How do I know what my account is set to, I am paid in GBP?",
+    "How do I check security settings using the app?",
+    "Will a cheque suffice?",
+    "i disagree with a charge",
+    "Do you have a list of the cards and currencies supported?",
+    "Are there any express fees if i want my new card faster?",
+    "Hello,  I noticed the money for an item I purchased online and have already received has been returned to my checking account. Was there an issue with the merchant accepting my payment? Or, possibly, with the bank sending it?",
+    "I see cash in my app but I did not get it.",
+    "why cant you just refund me instead of a merchant",
+    "What kind of security protects my money?",
+    "How do I know it is a Mastercard ATM?",
+    "Are there restrictions on new cards in China?",
+    "What do I do with my \"decline\" message on a transfer?",
+    "How do I make my card show up in the app?",
+    "What do I do to get ahold of my own card?",
+    "Is my card accepted anywhere?",
+    "I tried using a check to update my balance, but it isn't work? Is something wrong?",
+    "How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move",
+    "how do I get my card to show in the app?"
+  ],
+  "records": [
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What is the dollar that I have pending on my statement there?",
+      "generated": "What is the additional charge that I see on my statement?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I made a deposit a couple of days back it's, as of yet, not gone in! It would be ideal if you assist me with this",
+      "generated": "I recently made a deposit, but my account balance hasn't been updated yet. Could you please help me with this issue?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I don't have my card after 1 week. What are my next steps?",
+      "generated": "I haven't received my card yet, and it's been a week. What should I do now?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got.",
+      "generated": "I attempted to withdraw cash earlier, but the ATM appears to be malfunctioning. Upon checking, I noticed that the transaction is still pending. Can you investigate this issue and ensure I'm not charged for the funds I haven't received?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Please help me!  My physical card isn't working right.",
+      "generated": "Can you assist me? My physical bank card is malfunctioning."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "How can I make my card show up in the app?",
+      "generated": "Why isn't my card visible in the app?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I have a withdrawal waiting to go through.",
+      "generated": "A pending cash withdrawal is awaiting processing."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tempted to get some money out of the machine earlier and it did not work.Looking now, the transaction actually shows to still be in progress. I would certainly appreciate someone look into this and let me know what's going on. I definitely do not want to be charged for money I never received.",
+      "generated": "I tried to withdraw some cash from the ATM earlier, but it didn't go through. Now, when I check the transaction, it still shows as pending. I'd appreciate it if someone could investigate this and let me know what's happening. I don't want to be charged for cash I never got."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "i did not get any money but still was charged",
+      "generated": "I was expecting to receive some cash, but instead, I was debited without any funds being transferred."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?",
+      "generated": "If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I am having problems with my physical card.",
+      "generated": "I'm experiencing issues with my physical credit card."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Is a physical charge extra",
+      "generated": "Is there an additional fee for a physical card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "What do I do if I already had a card with you guys?",
+      "generated": "What should I do if I already have an existing card linked with your bank?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can you tell me exactly what fees I will expect to see in regards to your cards?",
+      "generated": "What charges can I anticipate when ordering a physical card from your institution?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I didn't see the money I added to my card.",
+      "generated": "I didn't receive the funds I attempted to add to my card."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do I pay extra for exchange?",
+      "generated": "Is there an additional fee for exchanging funds?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How do I know what my account is set to, I am paid in GBP?",
+      "generated": "How can I confirm my account's default currency, as I receive payments in British Pounds?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I check security settings using the app?",
+      "generated": "What steps can I take to verify the security settings on my card through the mobile app?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Will a cheque suffice?",
+      "generated": "Can I use a cheque to make a payment?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i disagree with a charge",
+      "generated": "I'm disputing a transaction"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do you have a list of the cards and currencies supported?",
+      "generated": "We'd be happy to provide you with a list of the payment cards and currencies we currently support."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Are there any express fees if i want my new card faster?",
+      "generated": "Can I expect any additional charges if I opt for expedited delivery of my new card?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Hello,  I noticed the money for an item I purchased online and have already received has been returned to my checking account. Was there an issue with the merchant accepting my payment? Or, possibly, with the bank sending it?",
+      "generated": "Hi, I've noticed that the payment for an item I bought online has been reversed and credited back to my checking account. Could you help me understand if there was a problem with the merchant accepting my payment or if the bank had an issue processing the transaction?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I see cash in my app but I did not get it.",
+      "generated": "I'm showing a cash withdrawal in my app, but it's not reflecting in my account."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "why cant you just refund me instead of a merchant",
+      "generated": "why can't you simply process a refund for me instead of waiting for the merchant to initiate it?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What kind of security protects my money?",
+      "generated": "We want to ensure the origin of your funds is legitimate and secure."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How do I know it is a Mastercard ATM?",
+      "generated": "What are the ways to identify a Mastercard ATM?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Are there restrictions on new cards in China?",
+      "generated": "Are there any limitations on issuing new cards in China?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What do I do with my \"decline\" message on a transfer?",
+      "generated": "What can I do about the transfer that was declined?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "How do I make my card show up in the app?",
+      "generated": "Why isn't my card visible in the app?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What do I do to get ahold of my own card?",
+      "generated": "How can I obtain my physical credit card?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is my card accepted anywhere?",
+      "generated": "Can I use my card at any location?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I tried using a check to update my balance, but it isn't work? Is something wrong?",
+      "generated": "I made a cash deposit, but my account balance hasn't been updated yet. Is there an issue with the transaction?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move",
+      "generated": "How long does it typically take for a pending card payment to clear? I have one that's been pending for a few days now and it's not showing any progress."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "how do I get my card to show in the app?",
+      "generated": "why isn't my card visible in the app?"
+    }
+  ]
+}

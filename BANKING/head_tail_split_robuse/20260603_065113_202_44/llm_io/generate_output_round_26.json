@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "Can I request a spare card in my daughter's name, which will be linked to my account?",
+    "I need a replacement card",
+    "Can I still access my phone from the hotel?",
+    "My virtual card is experiencing technical difficulties.",
+    "What is the process and timeline for replacing an expiring card?",
+    "We didn't process a payment at this merchant.",
+    "Can you provide me with a list of locations where I can use my card for transactions?",
+    "It's been a while since the top-up was replenished.",
+    "I've forgotten my passcode and can't access my account, what should I do to regain access?",
+    "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.",
+    "I'd like to order a physical card.",
+    "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?",
+    "Can you provide a replacement card?",
+    "The amount of cash I received is not what I was expecting.",
+    "Can I see my latest refund reflected in my account statement?",
+    "I require a replacement card and I am a resident of the United States.",
+    "We're unable to identify a recognized card payment.",
+    "I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible.",
+    "I'm having trouble using my virtual card to make transactions.",
+    "The payment was not processed due to a card issue.",
+    "Please dispatch my refund immediately.",
+    "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.",
+    "I believe I've been incorrectly billed for a transfer fee.",
+    "We're experiencing technical difficulties, and our system is unable to recognize your identity.",
+    "I'm having trouble accessing my virtual prepaid card",
+    "Can I have multiple cards linked to my account?",
+    "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?",
+    "I misplaced my card and require a replacement, what's the fee for a new one?",
+    "I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?",
+    "reversal of a top-up request",
+    "I have sufficient funds, yet I'm unable to complete my top-up.",
+    "My temporary virtual card was declined",
+    "I'm having trouble adding funds to my account using a cheque, but it's not processing.",
+    "I'm curious about the reason behind the failed transfer.",
+    "Can I track the card that was sent to me?",
+    "Is the exchange rate offered by this app identical to those provided by other third-party services?",
+    "I'll dispatch a cheque to replenish my account balance"
+  ],
+  "generated_labels": [
+    39,
+    39,
+    42,
+    72,
+    9,
+    16,
+    10,
+    47,
+    44,
+    46,
+    43,
+    64,
+    39,
+    75,
+    51,
+    24,
+    16,
+    75,
+    72,
+    25,
+    51,
+    20,
+    64,
+    68,
+    72,
+    39,
+    40,
+    39,
+    75,
+    61,
+    59,
+    72,
+    58,
+    27,
+    11,
+    32,
+    58
+  ],
+  "source_texts": [
+    "Can my daughter also have a card issued in her name, but linked to my account?",
+    "I want a new card",
+    "Is it possible to access my phone from the hotel/",
+    "My virtual card is just not going through.",
+    "What is the cost and time frame of getting a new card?",
+    "I didn't make a payment at this business.",
+    "Is there a list of where I can use my card?",
+    "It's been some time since refilled the top-up.",
+    "I'm locked out of my account as I can't remember my code, what do I do now?",
+    "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+    "I would like a card please.",
+    "I usually don't get charged for transfers, why was I this month?",
+    "Do you send duplicate cards?",
+    "My cash received does not match what has been requested",
+    "Can I check my recent refund in my statement?",
+    "I need a new card and I live in the United States.",
+    "Why is there an unknown card payment?",
+    "I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!",
+    "I can't make purchases with my virtual card.",
+    "I couldn't pay with my card",
+    "Please send my refund now.",
+    "I did not get the cash that is showing up in my app.",
+    "I think I have an extra transfer charge.",
+    "app malfunctioning, does not know its me",
+    "I can't use my virtual disposable card",
+    "How many different cards can I have for my account?",
+    "I haven't received my virtual card yet, do yo know why?",
+    "I lost my card and need a new one, will it cost me?",
+    "I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?",
+    "top up cancellation",
+    "I have the funds, why can I not use my top-up?",
+    "My disposable virtual card got rejected",
+    "i have been trying to top up my account with a check but it won't work",
+    "I wanted to know why my transaction didn't go through.",
+    "Can the card was sen to me be tracked?",
+    "Does this app have the same exchange rate as third parties?",
+    "I'll send a check to top up my account"
+  ],
+  "records": [
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can my daughter also have a card issued in her name, but linked to my account?",
+      "generated": "Can I request a spare card in my daughter's name, which will be linked to my account?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I want a new card",
+      "generated": "I need a replacement card"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Is it possible to access my phone from the hotel/",
+      "generated": "Can I still access my phone from the hotel?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My virtual card is just not going through.",
+      "generated": "My virtual card is experiencing technical difficulties."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What is the cost and time frame of getting a new card?",
+      "generated": "What is the process and timeline for replacing an expiring card?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I didn't make a payment at this business.",
+      "generated": "We didn't process a payment at this merchant."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is there a list of where I can use my card?",
+      "generated": "Can you provide me with a list of locations where I can use my card for transactions?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "It's been some time since refilled the top-up.",
+      "generated": "It's been a while since the top-up was replenished."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I'm locked out of my account as I can't remember my code, what do I do now?",
+      "generated": "I've forgotten my passcode and can't access my account, what should I do to regain access?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+      "generated": "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I would like a card please.",
+      "generated": "I'd like to order a physical card."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I usually don't get charged for transfers, why was I this month?",
+      "generated": "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Do you send duplicate cards?",
+      "generated": "Can you provide a replacement card?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "My cash received does not match what has been requested",
+      "generated": "The amount of cash I received is not what I was expecting."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Can I check my recent refund in my statement?",
+      "generated": "Can I see my latest refund reflected in my account statement?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I need a new card and I live in the United States.",
+      "generated": "I require a replacement card and I am a resident of the United States."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is there an unknown card payment?",
+      "generated": "We're unable to identify a recognized card payment."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!",
+      "generated": "I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't make purchases with my virtual card.",
+      "generated": "I'm having trouble using my virtual card to make transactions."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I couldn't pay with my card",
+      "generated": "The payment was not processed due to a card issue."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Please send my refund now.",
+      "generated": "Please dispatch my refund immediately."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I did not get the cash that is showing up in my app.",
+      "generated": "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I think I have an extra transfer charge.",
+      "generated": "I believe I've been incorrectly billed for a transfer fee."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "app malfunctioning, does not know its me",
+      "generated": "We're experiencing technical difficulties, and our system is unable to recognize your identity."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't use my virtual disposable card",
+      "generated": "I'm having trouble accessing my virtual prepaid card"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many different cards can I have for my account?",
+      "generated": "Can I have multiple cards linked to my account?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I haven't received my virtual card yet, do yo know why?",
+      "generated": "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I lost my card and need a new one, will it cost me?",
+      "generated": "I misplaced my card and require a replacement, what's the fee for a new one?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?",
+      "generated": "I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "top up cancellation",
+      "generated": "reversal of a top-up request"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I have the funds, why can I not use my top-up?",
+      "generated": "I have sufficient funds, yet I'm unable to complete my top-up."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card got rejected",
+      "generated": "My temporary virtual card was declined"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "i have been trying to top up my account with a check but it won't work",
+      "generated": "I'm having trouble adding funds to my account using a cheque, but it's not processing."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I wanted to know why my transaction didn't go through.",
+      "generated": "I'm curious about the reason behind the failed transfer."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Can the card was sen to me be tracked?",
+      "generated": "Can I track the card that was sent to me?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Does this app have the same exchange rate as third parties?",
+      "generated": "Is the exchange rate offered by this app identical to those provided by other third-party services?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I'll send a check to top up my account",
+      "generated": "I'll dispatch a cheque to replenish my account balance"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+GEN | [top_up_failed] | Orig: Why has my top-up been denied? -> Aug: Why was my top-up transaction unsuccessful?
+GEN | [pending_top_up] | Orig: Needed gas, been delayed for half an hour.Please fix it! -> Aug: Required urgent top-up, experiencing a 30-minute delay. Please resolve this issue as soon as possible!
+GEN | [balance_not_updated_after_bank_transfer] | Orig: My account balance has not updated to reflect my recent transfer. -> Aug: My account balance remains unchanged despite the recent transfer I made, and I'm expecting it to be updated accordingly.
+GEN | [card_arrival] | Orig: What is the status of my card's delivery? -> Aug: When can I expect my card to arrive?
+GEN | [card_swallowed] | Orig: I didn't get my card back from the ATM. -> Aug: I failed to retrieve my card from the ATM.
+GEN | [pending_card_payment] | Orig: Hi, status of one of my card payment is still pending from a while. Please let e know how much time it will take to complete. -> Aug: I'm still waiting for the outcome of a pending card payment. Could you please inform me about the expected timeframe for its completion?
+GEN | [pending_transfer] | Orig: I sent payment with EU transfer and they still haven't received it. How long does it take? -> Aug: I initiated a cross-border transfer and it's still pending. Can you please provide an update on the expected processing time?
+GEN | [cancel_transfer] | Orig: My morning transaction needs to be canceled. -> Aug: I'd like to cancel the transfer I initiated this morning.
+GEN | [order_physical_card] | Orig: Will there be a fee to receive a physical card? -> Aug: Is there a charge for ordering a physical debit/credit card?
+GEN | [transaction_charged_twice] | Orig: How do I get my money back for a duplicated charge? -> Aug: I'd like to resolve the issue with the double billing on my account.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will I be charged any fee for receiving money? -> Aug: Are there any bank transfer charges applicable when topping up my account?
+GEN | [apple_pay_or_google_pay] | Orig: Will be Apple Watch be able to let me top up? -> Aug: Can I use my Apple Watch to add funds to my account?
+GEN | [verify_top_up] | Orig: this verifying the top up is annoying -> Aug: This top-up verification process is really frustrating.
+GEN | [cancel_transfer] | Orig: A transfer has been made in my account that I need to cancel.  This was a mistake on my part and I hope we can get this resolved quickly. -> Aug: I'd like to reverse a recent transfer that was mistakenly initiated from my account. Can you assist me in canceling this transaction as soon as possible?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Can I get money in my home currency at an ATM? I'm on vacation and don't have cash with me. This is cause for a bit of concern. Is it possible to withdraw here without additional cost? -> Aug: Can I get my local currency at an ATM? I'm traveling and need some cash, but I'm worried about the exchange rate being incorrect, which might result in an unexpected fee. Is it possible to withdraw some cash without incurring extra charges?
+GEN | [Refund_not_showing_up] | Orig: I need my refund as soon as possible. What else do I have to do? -> Aug: I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?
+GEN | [declined_card_payment] | Orig: My card payment wasn't declined -> Aug: My payment using my card was not accepted.
+GEN | [reverted_card_payment?] | Orig: My payment has not been accepted. -> Aug: Why was my payment rejected?
+GEN | [card_about_to_expire] | Orig: What should I do when my card reaches its expiry date? -> Aug: What happens when my credit card's expiration date arrives?
+GEN | [receiving_money] | Orig: Can I use my salary for this? -> Aug: Can I utilize my paycheck for this purpose?
+GEN | [cash_withdrawal_charge] | Orig: When I got cash I was charged an extra fee!  Explain! -> Aug: When I made a cash withdrawal, I was surprised to see an additional charge on my account. Can you clarify what this fee is for?
+GEN | [card_not_working] | Orig: My card won't physically work. -> Aug: My credit card is not functioning properly.
+GEN | [beneficiary_not_allowed] | Orig: I need to transfer to my account and cant. -> Aug: I'm trying to transfer funds to my account, but it's not possible.
+GEN | [card_not_working] | Orig: What are ways to test why my card might not be working? -> Aug: How can I troubleshoot the issue with my card not functioning properly?
+GEN | [edit_personal_details] | Orig: I just had a wedding and I want to take my spouses name. -> Aug: I recently got married and I'd like to update my personal details to reflect my new married name.
+GEN | [top_up_reverted] | Orig: Did you lose my money? I had added funds through top-up not long ago and I know they were in my account, but they seem to have disappeared. What happened? -> Aug: I'm concerned about the funds I transferred through a recent top-up. I'm certain they were deposited into my account, but now they're gone. Can you help me figure out what went wrong?
+GEN | [transfer_not_received_by_recipient] | Orig: Why can't the person I sent the money transfer to see it? -> Aug: The recipient is unable to view the transferred funds.
+GEN | [card_payment_fee_charged] | Orig: Why was there an additional fee on the payment I just made? I don't usually have additional fees applied to my payments. -> Aug: I'm confused about the extra charge on my recent payment. I'm not used to seeing extra fees added to my transactions.
+GEN | [topping_up_by_card] | Orig: My money disappeared right when I tried to top up -> Aug: My funds vanished when I attempted to add more using my card.
+GEN | [order_physical_card] | Orig: How to receive the actual card -> Aug: How can I get my physical card delivered?
+GEN | [verify_top_up] | Orig: Tell me why I need top-up to be verified? -> Aug: Can you explain why the top-up needs to be verified before it can be processed?
+GEN | [disposable_card_limits] | Orig: Do the disposable cards have any restrictions on them? -> Aug: Are there any limitations or restrictions associated with the disposable cards?
+GEN | [get_disposable_virtual_card] | Orig: Can you tell me about these disposable virtual cards? -> Aug: How do I obtain a temporary virtual credit card?
+GEN | [card_payment_fee_charged] | Orig: Why was I charged an extra fee when using the card? -> Aug: I'm not sure why I was assessed an additional charge when making a payment with my card.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I did a bank transfer and my balance isn't current. -> Aug: I made a bank transfer, but my account balance hasn't been updated.
+GEN | [reverted_card_payment?] | Orig: My money is back in my account after a seller contacted me stating they never received payment. I am positive it was deducted out of my account. Please get this sorted out right away. -> Aug: My funds have been restored to my account, and the seller has informed me that they didn't receive the payment. I'm certain the transaction was debited from my account. Can you resolve this issue promptly?
+GEN | [card_linking] | Orig: Can I add a card back to the app? -> Aug: Can I link a card to the app again?
+GEN | [transfer_fee_charged] | Orig: I was charged a fee when I transferred my funds, why? -> Aug: I'm wondering why I was assessed a transfer fee when I moved my money, can you explain?

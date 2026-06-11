@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "Can I close my account through the app or do I need to speak with a representative to terminate it?",
+    "Can my spouse create an account and deposit funds?",
+    "At what age can someone utilize your service?",
+    "I'm still waiting for my new card to arrive.",
+    "Why do I need to confirm the top-up?",
+    "I'm experiencing an issue with topping up my card, as it's been declined repeatedly. Could you assist me in resolving this issue or suggest an alternative solution, please?",
+    "I noticed an additional fee on my statement. Can you help me understand what it's for?",
+    "I encountered an error while attempting to make a top-up, and it was cancelled.",
+    "Can I retrieve a physical credit card?",
+    "When will the funds be returned to my account after a failed top-up attempt?",
+    "my card top-up is still pending, where can I locate it?",
+    "I'm still seeing a pending charge of $1 on my account and I'd like to understand what it's for.",
+    "I misplaced my card and require a replacement, what's the fee for a new one?",
+    "Can you provide a replacement card?",
+    "What steps does your app take to move funds into another account?",
+    "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?",
+    "I didn't receive the correct amount of cash.",
+    "My bank card has reached its expiration date, what steps can I take to obtain a replacement physical card?",
+    "If I require additional cards, will I be charged a fee for obtaining them?",
+    "I made a transfer, but my account balance hasn't been updated.",
+    "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account.",
+    "Can you expedite the processing of my pending top-up? It's been waiting for an hour now, and I urgently need the funds to be credited to my account.",
+    "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?",
+    "Will I be charged for requesting additional cards?",
+    "Do I need to pay an additional fee to exchange currency?",
+    "What financial institutions or merchants accept the card?",
+    "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well.",
+    "My cash withdrawal attempt was declined.",
+    "How can I exchange my currency for the currency used in another country through the app?",
+    "I'd like to transfer funds from a foreign account to this account.",
+    "I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?",
+    "Can you please inform me about the payment methods you accept, specifically the cards you support?",
+    "Can you help me find my missing card?",
+    "I made a payment to top up my account, but the funds are still pending, can you tell me what's going on?",
+    "I'm confused, I've been making transfers without any issues, but just now, when I tried to make another one, it got declined. I've tried a few times, but the result is the same. Can you help me figure out what's going on?",
+    "Confirming the top-up process appears to be a bit of a chore.",
+    "Can you please provide me with my top-up code?",
+    "I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card."
+  ],
+  "generated_labels": [
+    55,
+    50,
+    1,
+    11,
+    71,
+    59,
+    34,
+    61,
+    43,
+    47,
+    62,
+    34,
+    39,
+    39,
+    65,
+    59,
+    75,
+    9,
+    39,
+    5,
+    34,
+    47,
+    46,
+    39,
+    31,
+    10,
+    41,
+    26,
+    33,
+    65,
+    22,
+    54,
+    41,
+    47,
+    27,
+    71,
+    71,
+    13
+  ],
+  "source_texts": [
+    "do i have to talk to someone to close an account or can i in the app",
+    "can my husband open an account and transfer money",
+    "How old can one use your service?",
+    "I was expecting my new card by now.",
+    "For what reason must I authenticate the top up?",
+    "I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives",
+    "There is an extra small charge on my card! What do I do?",
+    "I got an cancellation error when I was topping up.",
+    "Can I revive a physical card.",
+    "How long after a failed topup will funds refurn to account",
+    "my top up isnt there yet where do i find it",
+    "I had a dollar charged to my account that's still pending and wanted to know what the charge is for?",
+    "I lost my card and need a new one, will it cost me?",
+    "Do you send duplicate cards?",
+    "How does your app transfer the money",
+    "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+    "I couldn't get the money I needed.",
+    "My bank card has expired, how can I get a new physical card?",
+    "If I need more than cards will I have to pay a fee to receive them?",
+    "I did a transfer but the balance is the same.",
+    "Why is it showing that my account has been charged a dollar that is showing as pending?",
+    "Sort your top up out please! It's been pending since an hour already, can you please make this go through asap I really need the money",
+    "Why is the app showing a still pending message on a withdraw that has already been done?",
+    "Am I gonna be charged for sending out more cards?",
+    "Will I have to pay extra to exchange money?",
+    "Who accepts the card?",
+    "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+    "My ATM transaction was cancelled.",
+    "How to I switch my money for the money used in another country?",
+    "I have money in a foreign account that I want to send to this account.",
+    "I have some transactions on my account I did not make. Can you cancel my card and prevent further use.",
+    "Top up my card please, which y'all support?",
+    "Are you able to guide me to my card's location?",
+    "I already paid to top-up but the funds aren't available yet, where are they?",
+    "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening.",
+    "Verifying the top-up seems like a hassle.",
+    "Where's my top up code?",
+    "I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card."
+  ],
+  "records": [
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "do i have to talk to someone to close an account or can i in the app",
+      "generated": "Can I close my account through the app or do I need to speak with a representative to terminate it?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "can my husband open an account and transfer money",
+      "generated": "Can my spouse create an account and deposit funds?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "How old can one use your service?",
+      "generated": "At what age can someone utilize your service?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I was expecting my new card by now.",
+      "generated": "I'm still waiting for my new card to arrive."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "For what reason must I authenticate the top up?",
+      "generated": "Why do I need to confirm the top-up?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives",
+      "generated": "I'm experiencing an issue with topping up my card, as it's been declined repeatedly. Could you assist me in resolving this issue or suggest an alternative solution, please?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is an extra small charge on my card! What do I do?",
+      "generated": "I noticed an additional fee on my statement. Can you help me understand what it's for?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I got an cancellation error when I was topping up.",
+      "generated": "I encountered an error while attempting to make a top-up, and it was cancelled."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can I revive a physical card.",
+      "generated": "Can I retrieve a physical credit card?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "How long after a failed topup will funds refurn to account",
+      "generated": "When will the funds be returned to my account after a failed top-up attempt?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "my top up isnt there yet where do i find it",
+      "generated": "my card top-up is still pending, where can I locate it?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I had a dollar charged to my account that's still pending and wanted to know what the charge is for?",
+      "generated": "I'm still seeing a pending charge of $1 on my account and I'd like to understand what it's for."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I lost my card and need a new one, will it cost me?",
+      "generated": "I misplaced my card and require a replacement, what's the fee for a new one?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Do you send duplicate cards?",
+      "generated": "Can you provide a replacement card?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "How does your app transfer the money",
+      "generated": "What steps does your app take to move funds into another account?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+      "generated": "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I couldn't get the money I needed.",
+      "generated": "I didn't receive the correct amount of cash."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My bank card has expired, how can I get a new physical card?",
+      "generated": "My bank card has reached its expiration date, what steps can I take to obtain a replacement physical card?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "If I need more than cards will I have to pay a fee to receive them?",
+      "generated": "If I require additional cards, will I be charged a fee for obtaining them?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I did a transfer but the balance is the same.",
+      "generated": "I made a transfer, but my account balance hasn't been updated."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is it showing that my account has been charged a dollar that is showing as pending?",
+      "generated": "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Sort your top up out please! It's been pending since an hour already, can you please make this go through asap I really need the money",
+      "generated": "Can you expedite the processing of my pending top-up? It's been waiting for an hour now, and I urgently need the funds to be credited to my account."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why is the app showing a still pending message on a withdraw that has already been done?",
+      "generated": "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Am I gonna be charged for sending out more cards?",
+      "generated": "Will I be charged for requesting additional cards?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Will I have to pay extra to exchange money?",
+      "generated": "Do I need to pay an additional fee to exchange currency?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Who accepts the card?",
+      "generated": "What financial institutions or merchants accept the card?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+      "generated": "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "My ATM transaction was cancelled.",
+      "generated": "My cash withdrawal attempt was declined."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "How to I switch my money for the money used in another country?",
+      "generated": "How can I exchange my currency for the currency used in another country through the app?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I have money in a foreign account that I want to send to this account.",
+      "generated": "I'd like to transfer funds from a foreign account to this account."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I have some transactions on my account I did not make. Can you cancel my card and prevent further use.",
+      "generated": "I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Top up my card please, which y'all support?",
+      "generated": "Can you please inform me about the payment methods you accept, specifically the cards you support?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Are you able to guide me to my card's location?",
+      "generated": "Can you help me find my missing card?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I already paid to top-up but the funds aren't available yet, where are they?",
+      "generated": "I made a payment to top up my account, but the funds are still pending, can you tell me what's going on?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening.",
+      "generated": "I'm confused, I've been making transfers without any issues, but just now, when I tried to make another one, it got declined. I've tried a few times, but the result is the same. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Verifying the top-up seems like a hassle.",
+      "generated": "Confirming the top-up process appears to be a bit of a chore."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Where's my top up code?",
+      "generated": "Can you please provide me with my top-up code?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.",
+      "generated": "I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card."
+    }
+  ]
+}

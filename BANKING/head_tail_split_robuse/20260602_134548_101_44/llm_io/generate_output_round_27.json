@@ -1,0 +1,298 @@
+{
+  "generated_texts": [
+    "Can others deposit funds into my account or transfer money to me?",
+    "Can I review the origin of the funds?",
+    "My friend wants to transfer funds to me. What methods can they use to do so?",
+    "I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?",
+    "Why isn't my bank transfer reflected in my account balance?",
+    "What's the process for converting currencies?",
+    "When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?",
+    "Are there any charges involved when I top up my account using my card?",
+    "I'd like to report a missing credit card.",
+    "Why is there a holdup in processing my card payment for my account?",
+    "When will my pending top-up be processed?",
+    "Can I use a bank transfer to top up my account?",
+    "Do I need to make a payment to obtain a physical card?",
+    "If I make a top-up payment via bank transfer, are there any charges involved?",
+    "I'm experiencing problems with making contactless transactions, is it possible that my card is faulty?",
+    "what's the estimated timeframe for processing new contactless payment cards?",
+    "I'd like to receive my salary in pesos.",
+    "I'm having trouble making a payment with my new card, as it keeps getting declined. I'm quite frustrated with this situation.",
+    "I attempted to make a payment using my debit card, but it was unsuccessful.",
+    "Can I set up recurring automatic top-ups?",
+    "What steps can I take to have a card delivered to China?",
+    "Is there a charge for topping up my account using my card?",
+    "I'd like to report my card as stolen and request that it be immediately suspended or deactivated to prevent any unauthorized transactions.",
+    "We've received a payment attempt from your debit card, but it's not being recognized.",
+    "When did you begin being charged for cash withdrawals? What's the current fee amount? I'm surprised to hear it's no longer free.",
+    "Can I deposit funds into my account if you don't accept cash?",
+    "I'm trying to check if the refund for my recent purchase has been processed and credited to my account. I've already reached out to the merchant, but they haven't confirmed any updates on the status of the refund. Can you please let me know if the funds have been received?",
+    "I made a cash deposit, but my account balance hasn't been updated.",
+    "I've attempted to use my card at various merchants, but it's no longer functioning properly.",
+    "Can my account be accessed by an unauthorized person? I had my phone stolen.",
+    "I'm trying to understand why my international bank transfer to France hasn't been reflected in my account balance yet, as it was initiated a few days ago.",
+    "It appears that an unauthorized party has used my card to make a purchase, what steps can I take?"
+  ],
+  "generated_labels": [
+    50,
+    70,
+    50,
+    22,
+    5,
+    32,
+    19,
+    57,
+    41,
+    45,
+    47,
+    56,
+    43,
+    56,
+    23,
+    23,
+    50,
+    25,
+    53,
+    4,
+    9,
+    57,
+    41,
+    28,
+    19,
+    58,
+    51,
+    6,
+    14,
+    42,
+    5,
+    22
+  ],
+  "source_texts": [
+    "Are there ways for other people to send me money?",
+    "Can I track history on funds?",
+    "My friend would like to send me money. What are the options available to them?",
+    "I have some transactions on my account I did not make. Can you cancel my card and prevent further use.",
+    "How can I fix my bank transfer to show up on my bank account?",
+    "How do you do exchanges?",
+    "Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now?",
+    "I was wondering if you will take any fees in exchange for top ups?",
+    "Who can I speak with regarding a lost card?",
+    "What is the cause of the delay in applying my card payment to my account?",
+    "When will my top up be approved?",
+    "Are SWIFT transfers supported?",
+    "Is payment required to get a card of my own?",
+    "If I top-up by using a trasfer are there charges that applied?",
+    "I am having issues using contactless payments, could my card be damaged?",
+    "how many days processing new card?",
+    "i want to get my salary deposited as pesos?",
+    "Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.",
+    "I tried to use my debit card, but the payment did not work.",
+    "Can I schedule future top ups?",
+    "How can I get a card sent to China?",
+    "Is topping up free?",
+    "I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.",
+    "People are using my debit card - help!",
+    "When did you start charging to make a withdrawal? How much is it now? I always thought it was free.",
+    "how can i add money to my account if you don't accept cash",
+    "Hello. Please, would you tell me if you have or have not received funds for a refund that I recently requested for a big purchase? I've contacted the merchant, but I can't tell that they have taken any action on it.",
+    "I put cash in my account, but I don't see it.",
+    "I tried using my card at multiple vendors and now it's not working.",
+    "Can my account me accessed by a thief?  I was mugged.",
+    "How long do transfers to international banks take? I made one to france a couple of days ago, but it's still not there.",
+    "It looks like someone besides me ordered something with my card, what should I do?"
+  ],
+  "records": [
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Are there ways for other people to send me money?",
+      "generated": "Can others deposit funds into my account or transfer money to me?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I track history on funds?",
+      "generated": "Can I review the origin of the funds?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My friend would like to send me money. What are the options available to them?",
+      "generated": "My friend wants to transfer funds to me. What methods can they use to do so?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I have some transactions on my account I did not make. Can you cancel my card and prevent further use.",
+      "generated": "I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How can I fix my bank transfer to show up on my bank account?",
+      "generated": "Why isn't my bank transfer reflected in my account balance?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "How do you do exchanges?",
+      "generated": "What's the process for converting currencies?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now?",
+      "generated": "When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I was wondering if you will take any fees in exchange for top ups?",
+      "generated": "Are there any charges involved when I top up my account using my card?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Who can I speak with regarding a lost card?",
+      "generated": "I'd like to report a missing credit card."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "What is the cause of the delay in applying my card payment to my account?",
+      "generated": "Why is there a holdup in processing my card payment for my account?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "When will my top up be approved?",
+      "generated": "When will my pending top-up be processed?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT transfers supported?",
+      "generated": "Can I use a bank transfer to top up my account?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Is payment required to get a card of my own?",
+      "generated": "Do I need to make a payment to obtain a physical card?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "If I top-up by using a trasfer are there charges that applied?",
+      "generated": "If I make a top-up payment via bank transfer, are there any charges involved?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "I am having issues using contactless payments, could my card be damaged?",
+      "generated": "I'm experiencing problems with making contactless transactions, is it possible that my card is faulty?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "how many days processing new card?",
+      "generated": "what's the estimated timeframe for processing new contactless payment cards?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "i want to get my salary deposited as pesos?",
+      "generated": "I'd like to receive my salary in pesos."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.",
+      "generated": "I'm having trouble making a payment with my new card, as it keeps getting declined. I'm quite frustrated with this situation."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to use my debit card, but the payment did not work.",
+      "generated": "I attempted to make a payment using my debit card, but it was unsuccessful."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I schedule future top ups?",
+      "generated": "Can I set up recurring automatic top-ups?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How can I get a card sent to China?",
+      "generated": "What steps can I take to have a card delivered to China?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is topping up free?",
+      "generated": "Is there a charge for topping up my account using my card?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.",
+      "generated": "I'd like to report my card as stolen and request that it be immediately suspended or deactivated to prevent any unauthorized transactions."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "People are using my debit card - help!",
+      "generated": "We've received a payment attempt from your debit card, but it's not being recognized."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "When did you start charging to make a withdrawal? How much is it now? I always thought it was free.",
+      "generated": "When did you begin being charged for cash withdrawals? What's the current fee amount? I'm surprised to hear it's no longer free."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how can i add money to my account if you don't accept cash",
+      "generated": "Can I deposit funds into my account if you don't accept cash?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Hello. Please, would you tell me if you have or have not received funds for a refund that I recently requested for a big purchase? I've contacted the merchant, but I can't tell that they have taken any action on it.",
+      "generated": "I'm trying to check if the refund for my recent purchase has been processed and credited to my account. I've already reached out to the merchant, but they haven't confirmed any updates on the status of the refund. Can you please let me know if the funds have been received?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I put cash in my account, but I don't see it.",
+      "generated": "I made a cash deposit, but my account balance hasn't been updated."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I tried using my card at multiple vendors and now it's not working.",
+      "generated": "I've attempted to use my card at various merchants, but it's no longer functioning properly."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Can my account me accessed by a thief?  I was mugged.",
+      "generated": "Can my account be accessed by an unauthorized person? I had my phone stolen."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How long do transfers to international banks take? I made one to france a couple of days ago, but it's still not there.",
+      "generated": "I'm trying to understand why my international bank transfer to France hasn't been reflected in my account balance yet, as it was initiated a few days ago."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "It looks like someone besides me ordered something with my card, what should I do?",
+      "generated": "It appears that an unauthorized party has used my card to make a purchase, what steps can I take?"
+    }
+  ]
+}

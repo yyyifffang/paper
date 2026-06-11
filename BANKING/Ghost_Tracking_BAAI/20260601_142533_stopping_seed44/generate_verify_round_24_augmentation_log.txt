@@ -1,0 +1,79 @@
+GEN | [topping_up_by_card] | Orig: How do I to up by card? -> Aug: How can I add funds to my account using my card?
+GEN | [activate_my_card] | Orig: I tried activating my plug-in and it didn't piece of work -> Aug: I attempted to activate my card, but it didn't function properly
+GEN | [card_acceptance] | Orig: Where do I pay with my card? -> Aug: How can I use my card for payment?
+GEN | [lost_or_stolen_phone] | Orig: Can I use your services without access to the app? -> Aug: Can I still use your services if I've misplaced my phone and can't access the app?
+GEN | [exchange_charge] | Orig: Do exchanges cost more? -> Aug: Are there any additional fees associated with exchanging funds?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are SWIFT transfers supported? -> Aug: Can I use a bank transfer to top up my account?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I was needing you to see if the exchange rate is correct from when i got cash -> Aug: I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate.
+GEN | [activate_my_card] | Orig: I would like to get help from someone in your customer service department with assisting me with activating my card. -> Aug: I need assistance from your customer service team to activate my card.
+GEN | [unable_to_verify_identity] | Orig: The app doesn't think it's me. -> Aug: We're having trouble confirming your identity through our system.
+GEN | [card_about_to_expire] | Orig: I think my card is expiring, what happens then? -> Aug: I'm concerned that my credit card is nearing its expiration date, what are the consequences?
+GEN | [cash_withdrawal_charge] | Orig: Could you explain your rules for ATM fees? -> Aug: What are the charges for withdrawing cash from an ATM?
+GEN | [pin_blocked] | Orig: I used my pin too many times. -> Aug: I've exceeded the allowed attempts to enter my PIN.
+GEN | [card_not_working] | Orig: Did you deactivate my card it's not working anymore -> Aug: Is my card still active? It's not functioning properly.
+GEN | [unable_to_verify_identity] | Orig: The app does not know it is me. -> Aug: The system is unable to confirm your identity.
+GEN | [topping_up_by_card] | Orig: Is it simple to transfer money using my credit card? -> Aug: Can I easily fund my account using my credit card?
+GEN | [direct_debit_payment_not_recognised] | Orig: Why is there a direct debit set up in my name? -> Aug: We've noticed a direct debit payment that doesn't seem to be recognized in your account records.
+GEN | [card_about_to_expire] | Orig: How can I get a card sent to China? -> Aug: What steps can I take to have a card delivered to China?
+GEN | [declined_cash_withdrawal] | Orig: I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this? -> Aug: I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?
+GEN | [transfer_fee_charged] | Orig: I usually don't get charged for transfers, why was I this month? -> Aug: I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?
+GEN | [order_physical_card] | Orig: can i order cards on the app -> Aug: can I place a physical card order through the mobile app?
+GEN | [pin_blocked] | Orig: I attempted to enter my pin to many times. -> Aug: I tried to enter my PIN multiple times.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will there be a charge when money is added to my account? -> Aug: Will I be charged a fee when I top up my account using a bank transfer?
+GEN | [receiving_money] | Orig: how do i find out about transfers -> Aug: how can I learn about incoming transactions?
+GEN | [card_about_to_expire] | Orig: My card's expiration date is close. -> Aug: My credit card's expiration date is approaching.
+GEN | [wrong_amount_of_cash_received] | Orig: I couldn't get the money I needed. -> Aug: I didn't receive the correct amount of cash.
+GEN | [receiving_money] | Orig: can my husband open an account and transfer money -> Aug: Can my spouse create an account and deposit funds?
+GEN | [card_payment_not_recognised] | Orig: I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back? -> Aug: I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?
+GEN | [exchange_charge] | Orig: Will I have to pay extra to exchange money? -> Aug: Do I need to pay an additional fee to exchange currency?
+GEN | [verify_my_identity] | Orig: Can I get a full list of instructions for identity checks? -> Aug: Could you please provide me with a comprehensive guide on how to verify my identity?
+GEN | [card_payment_wrong_exchange_rate] | Orig: Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me? -> Aug: I think there's an error with the exchange rate applied to my card transaction. Could you verify the current interbank exchange rate for me, please?
+GEN | [order_physical_card] | Orig: IS there anywhere that a card cannot be delivered? -> Aug: Are there any specific locations or areas where a physical card cannot be delivered?
+GEN | [terminate_account] | Orig: I am not happy with your service and request that my account be terminated! -> Aug: I'm extremely dissatisfied with your service and would like to cancel my account.
+GEN | [card_not_working] | Orig: Please help me!  My physical card isn't working right. -> Aug: Can you assist me? My physical bank card is malfunctioning.
+GEN | [order_physical_card] | Orig: Where are the cards transported to? -> Aug: How are physical cards shipped or delivered?
+GEN | [card_not_working] | Orig: I can't get my actual card to work -> Aug: I'm having trouble using my physical card
+GEN | [change_pin] | Orig: Can I change my in at all ATM's? -> Aug: Can I modify my PIN at any ATM location?
+GEN | [cash_withdrawal_charge] | Orig: I was charged for getting cash. -> Aug: I was charged a fee for withdrawing cash.
+GEN | [top_up_by_cash_or_cheque] | Orig: What are my payment options for topping off my account? -> Aug: You can replenish your account balance using either cash or cheque payment methods.
+GEN | [lost_or_stolen_card] | Orig: A fee shouldn't apply to me if my card was stolen. -> Aug: I shouldn't be charged a fee if my credit card was stolen.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: How do I to up by card? | Augmented: How can I add funds to my account using my card?
+VAL | [activate_my_card] | ACCEPT | Reason: N/A | Original: I tried activating my plug-in and it didn't piece of work | Augmented: I attempted to activate my card, but it didn't function properly
+VAL | [card_acceptance] | ACCEPT | Reason: N/A | Original: Where do I pay with my card? | Augmented: How can I use my card for payment?
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: Can I use your services without access to the app? | Augmented: Can I still use your services if I've misplaced my phone and can't access the app?
+VAL | [exchange_charge] | ACCEPT | Reason: ... | Original: Do exchanges cost more? | Augmented: Are there any additional fees associated with exchanging funds?
+VAL | [top_up_by_bank_transfer_charge] | REVIEW | Reason: N/A | Original: Are SWIFT transfers supported? | Augmented: Can I use a bank transfer to top up my account?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | ACCEPT | Reason: ... | Original: I was needing you to see if the exchange rate is correct from when i got cash | Augmented: I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate.
+VAL | [activate_my_card] | ACCEPT | Reason: ... | Original: I would like to get help from someone in your customer service department with assisting me with activating my card. | Augmented: I need assistance from your customer service team to activate my card.
+VAL | [unable_to_verify_identity] | ACCEPT | Reason: N/A | Original: The app doesn't think it's me. | Augmented: We're having trouble confirming your identity through our system.
+VAL | [card_about_to_expire] | ACCEPT | Reason: ... | Original: I think my card is expiring, what happens then? | Augmented: I'm concerned that my credit card is nearing its expiration date, what are the consequences?
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: N/A | Original: Could you explain your rules for ATM fees? | Augmented: What are the charges for withdrawing cash from an ATM?
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: I used my pin too many times. | Augmented: I've exceeded the allowed attempts to enter my PIN.
+VAL | [card_not_working] | REVIEW | Reason: N/A | Original: Did you deactivate my card it's not working anymore | Augmented: Is my card still active? It's not functioning properly.
+VAL | [unable_to_verify_identity] | ACCEPT | Reason: N/A | Original: The app does not know it is me. | Augmented: The system is unable to confirm your identity.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: Is it simple to transfer money using my credit card? | Augmented: Can I easily fund my account using my credit card?
+VAL | [direct_debit_payment_not_recognised] | UNKNOWN | Reason: N/A | Original: Why is there a direct debit set up in my name? | Augmented: We've noticed a direct debit payment that doesn't seem to be recognized in your account records.
+VAL | [card_about_to_expire] | UNKNOWN | Reason: N/A | Original: How can I get a card sent to China? | Augmented: What steps can I take to have a card delivered to China?
+VAL | [declined_cash_withdrawal] | UNKNOWN | Reason: N/A | Original: I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this? | Augmented: I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: I usually don't get charged for transfers, why was I this month? | Augmented: I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?
+VAL | [order_physical_card] | ACCEPT | Reason: ... | Original: can i order cards on the app | Augmented: can I place a physical card order through the mobile app?
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: I attempted to enter my pin to many times. | Augmented: I tried to enter my PIN multiple times.
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: ... | Original: Will there be a charge when money is added to my account? | Augmented: Will I be charged a fee when I top up my account using a bank transfer?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: how do i find out about transfers | Augmented: how can I learn about incoming transactions?
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: My card's expiration date is close. | Augmented: My credit card's expiration date is approaching.
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: N/A | Original: I couldn't get the money I needed. | Augmented: I didn't receive the correct amount of cash.
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: can my husband open an account and transfer money | Augmented: Can my spouse create an account and deposit funds?
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back? | Augmented: I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?
+VAL | [exchange_charge] | ACCEPT | Reason: ... | Original: Will I have to pay extra to exchange money? | Augmented: Do I need to pay an additional fee to exchange currency?
+VAL | [verify_my_identity] | ACCEPT | Reason: N/A | Original: Can I get a full list of instructions for identity checks? | Augmented: Could you please provide me with a comprehensive guide on how to verify my identity?
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: N/A | Original: Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me? | Augmented: I think there's an error with the exchange rate applied to my card transaction. Could you verify the current interbank exchange rate for me, please?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: IS there anywhere that a card cannot be delivered? | Augmented: Are there any specific locations or areas where a physical card cannot be delivered?
+VAL | [terminate_account] | ACCEPT | Reason: ... | Original: I am not happy with your service and request that my account be terminated! | Augmented: I'm extremely dissatisfied with your service and would like to cancel my account.
+VAL | [card_not_working] | ACCEPT | Reason: ... | Original: Please help me!  My physical card isn't working right. | Augmented: Can you assist me? My physical bank card is malfunctioning.
+VAL | [order_physical_card] | UNKNOWN | Reason: N/A | Original: Where are the cards transported to? | Augmented: How are physical cards shipped or delivered?
+VAL | [card_not_working] | ACCEPT | Reason: N/A | Original: I can't get my actual card to work | Augmented: I'm having trouble using my physical card
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: Can I change my in at all ATM's? | Augmented: Can I modify my PIN at any ATM location?
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: I was charged for getting cash. | Augmented: I was charged a fee for withdrawing cash.
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: What are my payment options for topping off my account? | Augmented: You can replenish your account balance using either cash or cheque payment methods.
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: ... | Original: A fee shouldn't apply to me if my card was stolen. | Augmented: I shouldn't be charged a fee if my credit card was stolen.
+VAL_SUMMARY | ACCEPT: 33 | REVIEW: 2 | REJECT: 0 | UNKNOWN: 4 | Accept Rate: 0.8462

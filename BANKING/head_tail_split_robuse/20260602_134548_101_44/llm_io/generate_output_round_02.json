@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I need help with activating my credit card.",
+    "A supplementary fee was applied during the transfer process",
+    "I made a cash withdrawal and was charged a fee, could you clarify the reason?",
+    "How can I obtain my physical card's PIN code?",
+    "I'm concerned about a transfer I initiated to a recipient, but it hasn't been received yet. Can you tell me how long it typically takes for a transfer to be processed?",
+    "Your card payment is currently in a pending state.",
+    "Could you please help me understand why the top-up transaction is still in a pending state?",
+    "Why was I charged a fee for withdrawing cash?",
+    "The recent bank transfer is not reflected in my account balance.",
+    "I received less cash than expected",
+    "Can I make a withdrawal at any ATM location?",
+    "I'm noticing a direct debit payment in the app that doesn't belong to me.",
+    "I recently made a cash withdrawal at an ATM using my card, but I was surprised to see an unexpected charge on my statement. I'm not sure why I'm being charged a fee for using an ATM, as I thought it was supposed to be a free service.",
+    "I misplaced my mobile device and I'm worried about my card's accessibility.",
+    "I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?",
+    "I'd like to initiate a refund for the item",
+    "Can you tell me where I can modify my PIN?",
+    "May I request a specific date for the delivery of my card?",
+    "I'm showing an unknown charge on my account.",
+    "I've misplaced my passcode",
+    "The payment shown in my app is not a transaction I authorized.",
+    "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with.",
+    "I'm having trouble removing the block on my PIN. Can you assist me with that?",
+    "How do you determine your exchange rates?",
+    "I'd like to terminate my recent purchase and initiate a refund process.",
+    "I deposited a cheque, but my account balance hasn't been updated to reflect the deposit since the cash hasn't cleared yet.",
+    "I'd like to update my personal details.",
+    "Can I transfer funds to specific accounts, or are there limitations in place?",
+    "A recent transaction on my account appears to be unauthorised, as I'm certain I didn't initiate it. I'd appreciate it if you could investigate this matter further.",
+    "How do I confirm my top-up transaction?",
+    "Why was my card payment reversed?",
+    "I'd like to make an exchange through the app. Can you tell me what currencies are available for exchange?",
+    "How many disposable cards can I have in total?",
+    "How can I terminate my account, as I'm no longer satisfied with the service?",
+    "I'm seeing a cash withdrawal that I didn't initiate.",
+    "Can I use my card at any ATM or are there specific machines I'm restricted to?",
+    "I attempted to add funds using my card, but the transaction seems to have failed and the amount was not credited.",
+    "I reside in the United States and I'm interested in obtaining a card. Can you please guide me on the process of acquiring one?"
+  ],
+  "generated_labels": [
+    0,
+    64,
+    19,
+    38,
+    66,
+    45,
+    47,
+    19,
+    5,
+    75,
+    3,
+    28,
+    19,
+    42,
+    28,
+    52,
+    21,
+    12,
+    16,
+    44,
+    16,
+    20,
+    49,
+    32,
+    52,
+    6,
+    30,
+    7,
+    28,
+    71,
+    53,
+    33,
+    29,
+    55,
+    20,
+    3,
+    62,
+    24
+  ],
+  "source_texts": [
+    "I would like to have assistance with activating my card.",
+    "Extra charge during transfer",
+    "I withdrew money and got a fee, please explain",
+    "Where can I get my card PIN?",
+    "How long does it take for money to transfer?  I sent some to a friend and it hasn't gone through yet.",
+    "Card payment is showing as pending",
+    "Can you explain to me why a top-up would still be pending?",
+    "Why did you charge me for taking out cash?",
+    "The transfer on my account is not showing up.",
+    "I did not get enough cash",
+    "Can I withdraw from any ATM?",
+    "I am seeing in the App a diret debit that its not mine",
+    "I used my card the other day to get cash from an ATM and was charged an extra fee. I don't understand why I am being charged a fee all of a sudden. I thought it was free to withdraw from an ATM?",
+    "I lost my phone! Will my card still work?",
+    "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+    "I would like to get an item refunded",
+    "Is there a location where I can change my PIN?",
+    "Can I specify a day for my card to be delivered?",
+    "There is  a charge I don't recognize.",
+    "I forgot my code",
+    "My app is displaying a payment I didn't make",
+    "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+    "I can't figure out how to unblock my pin number. Can you help me?",
+    "What is the basis of your exchange rates?",
+    "Canceling my order is what I need to do right now.",
+    "I made a check deposit but the cash hasn't arrived in my account yet.",
+    "I would like to edit my personal information .",
+    "Are there restrictions to transfers to certain accounts?",
+    "A few weeks ago, a strange transaction was made on my account by a seller I don't know. I am quite sure I didn't do it and will like for you to check it for me.",
+    "How can I verify my top up?",
+    "Why would my card payment be cancelled?",
+    "I would like to exchange currency  What types are there?",
+    "Is there a limit to the number of disposable cards I can have?",
+    "How do I close my account, since I'm dissatisfied?",
+    "I see money go out that I didn't withdraw.",
+    "Am I limited to what ATM I can use my card?",
+    "I tried to top off using the card, but the money just disappeared?",
+    "I live in the US and I would like to get a card. How do I go about getting one?"
+  ],
+  "records": [
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I would like to have assistance with activating my card.",
+      "generated": "I need help with activating my credit card."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Extra charge during transfer",
+      "generated": "A supplementary fee was applied during the transfer process"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I withdrew money and got a fee, please explain",
+      "generated": "I made a cash withdrawal and was charged a fee, could you clarify the reason?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Where can I get my card PIN?",
+      "generated": "How can I obtain my physical card's PIN code?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long does it take for money to transfer?  I sent some to a friend and it hasn't gone through yet.",
+      "generated": "I'm concerned about a transfer I initiated to a recipient, but it hasn't been received yet. Can you tell me how long it typically takes for a transfer to be processed?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Card payment is showing as pending",
+      "generated": "Your card payment is currently in a pending state."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Can you explain to me why a top-up would still be pending?",
+      "generated": "Could you please help me understand why the top-up transaction is still in a pending state?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Why did you charge me for taking out cash?",
+      "generated": "Why was I charged a fee for withdrawing cash?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "The transfer on my account is not showing up.",
+      "generated": "The recent bank transfer is not reflected in my account balance."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I did not get enough cash",
+      "generated": "I received less cash than expected"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I withdraw from any ATM?",
+      "generated": "Can I make a withdrawal at any ATM location?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I am seeing in the App a diret debit that its not mine",
+      "generated": "I'm noticing a direct debit payment in the app that doesn't belong to me."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I used my card the other day to get cash from an ATM and was charged an extra fee. I don't understand why I am being charged a fee all of a sudden. I thought it was free to withdraw from an ATM?",
+      "generated": "I recently made a cash withdrawal at an ATM using my card, but I was surprised to see an unexpected charge on my statement. I'm not sure why I'm being charged a fee for using an ATM, as I thought it was supposed to be a free service."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I lost my phone! Will my card still work?",
+      "generated": "I misplaced my mobile device and I'm worried about my card's accessibility."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+      "generated": "I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I would like to get an item refunded",
+      "generated": "I'd like to initiate a refund for the item"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Is there a location where I can change my PIN?",
+      "generated": "Can you tell me where I can modify my PIN?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I specify a day for my card to be delivered?",
+      "generated": "May I request a specific date for the delivery of my card?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There is  a charge I don't recognize.",
+      "generated": "I'm showing an unknown charge on my account."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I forgot my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "My app is displaying a payment I didn't make",
+      "generated": "The payment shown in my app is not a transaction I authorized."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+      "generated": "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I can't figure out how to unblock my pin number. Can you help me?",
+      "generated": "I'm having trouble removing the block on my PIN. Can you assist me with that?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What is the basis of your exchange rates?",
+      "generated": "How do you determine your exchange rates?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Canceling my order is what I need to do right now.",
+      "generated": "I'd like to terminate my recent purchase and initiate a refund process."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I made a check deposit but the cash hasn't arrived in my account yet.",
+      "generated": "I deposited a cheque, but my account balance hasn't been updated to reflect the deposit since the cash hasn't cleared yet."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I would like to edit my personal information .",
+      "generated": "I'd like to update my personal details."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Are there restrictions to transfers to certain accounts?",
+      "generated": "Can I transfer funds to specific accounts, or are there limitations in place?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "A few weeks ago, a strange transaction was made on my account by a seller I don't know. I am quite sure I didn't do it and will like for you to check it for me.",
+      "generated": "A recent transaction on my account appears to be unauthorised, as I'm certain I didn't initiate it. I'd appreciate it if you could investigate this matter further."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "How can I verify my top up?",
+      "generated": "How do I confirm my top-up transaction?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why would my card payment be cancelled?",
+      "generated": "Why was my card payment reversed?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I would like to exchange currency  What types are there?",
+      "generated": "I'd like to make an exchange through the app. Can you tell me what currencies are available for exchange?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Is there a limit to the number of disposable cards I can have?",
+      "generated": "How many disposable cards can I have in total?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "How do I close my account, since I'm dissatisfied?",
+      "generated": "How can I terminate my account, as I'm no longer satisfied with the service?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I see money go out that I didn't withdraw.",
+      "generated": "I'm seeing a cash withdrawal that I didn't initiate."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Am I limited to what ATM I can use my card?",
+      "generated": "Can I use my card at any ATM or are there specific machines I'm restricted to?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I tried to top off using the card, but the money just disappeared?",
+      "generated": "I attempted to add funds using my card, but the transaction seems to have failed and the amount was not credited."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I live in the US and I would like to get a card. How do I go about getting one?",
+      "generated": "I reside in the United States and I'm interested in obtaining a card. Can you please guide me on the process of acquiring one?"
+    }
+  ]
+}

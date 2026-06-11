@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "Why is the beneficiary not eligible to receive the allowance?",
+    "Can I get a digital card instead of a physical one?",
+    "Will I be charged a fee when I receive funds through bank transfer?",
+    "I'd like to know how to reach out to your customer support team regarding the transfer that was declined.",
+    "What is the fee for receiving funds via bank transfer?",
+    "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?",
+    "What restrictions are in place for the disposable cards?",
+    "I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate.",
+    "My cash withdrawal attempt was declined.",
+    "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?",
+    "Are there any specific locations or areas where a physical card cannot be delivered?",
+    "Can I receive a physical card?",
+    "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?",
+    "Why was the amount of cash I received not in line with the expected exchange rate?",
+    "Why was my transfer not processed successfully?",
+    "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place.",
+    "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?",
+    "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance.",
+    "I urgently need assistance. I've just discovered that I mistakenly sent a payment to the incorrect account number, and there's a typo involved. Could you please cancel the transfer as soon as possible? I'm unable to do so through the app.",
+    "What's the process for exchanging foreign currencies for cash transfers?",
+    "Please provide me with a temporary virtual credit card.",
+    "I didn't receive the correct amount of cash.",
+    "I'd like a physical credit card.",
+    "Is my new card ready for use?",
+    "Do I incur a fee when someone transfers money to my account?",
+    "I'm unable to add funds to my account.",
+    "I'd like to transfer funds into my account.",
+    "Why do I need to confirm the top-up?",
+    "Are there any fees associated with withdrawing cash?",
+    "I'm attempting to reverse a transfer I initiated earlier today",
+    "How can I get my physical card to function properly?",
+    "The ATM swallowed my card!",
+    "I mistakenly entered the wrong account number, resulting in a transfer to the wrong account. I'm unable to reverse the transaction through the app. Can you assist me in canceling this transfer as soon as possible?",
+    "where can I find an ATM to withdraw cash?",
+    "The funds I attempted to deposit were reversed.",
+    "I'm concerned that my credit card is nearing its expiration date, what are the consequences?",
+    "can I recharge my account using a card charge instead?"
+  ],
+  "generated_labels": [
+    7,
+    40,
+    56,
+    27,
+    56,
+    6,
+    29,
+    76,
+    26,
+    46,
+    43,
+    43,
+    27,
+    76,
+    35,
+    76,
+    76,
+    17,
+    8,
+    32,
+    37,
+    75,
+    43,
+    0,
+    56,
+    7,
+    65,
+    71,
+    19,
+    8,
+    14,
+    18,
+    8,
+    3,
+    61,
+    9,
+    57
+  ],
+  "source_texts": [
+    "Why is allowance not being given to my beneficiary?",
+    "Is there an alternative to a physical card?",
+    "Do I get charged if I am receiving money?",
+    "How do I contact customer support about my declined transfer?",
+    "How much is it to receive money?",
+    "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+    "What limits are there on the virtual cards?",
+    "I was needing you to see if the exchange rate is correct from when i got cash",
+    "My ATM transaction was cancelled.",
+    "Why is the app showing a still pending message on a withdraw that has already been done?",
+    "IS there anywhere that a card cannot be delivered?",
+    "Do I get a real card?",
+    "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+    "Why did I only receive this much currency?",
+    "Why was my transaction not approved?",
+    "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+    "Can you check the exchange rate on a cash transaction I did overseas",
+    "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+    "Hey i need help urgently. I just realised I sent my payment to the wrong account number, there is a typo! Please cancel it immediately, I can't do it anymore from the app",
+    "If I need to cash foreign transfers, how does that work?",
+    "Please send me a disposable virtual card.",
+    "I couldn't get the money I needed.",
+    "I want a real card",
+    "Can I use my new card?",
+    "Am I charged for receiving money?",
+    "I cant transfer money into my account",
+    "I need to deposit money to my account",
+    "For what reason must I authenticate the top up?",
+    "Is there a charge for getting cash?",
+    "I am trying to revert a transcation I did this morning",
+    "What can I do to make my physical card work?",
+    "The ATM didnt return my card!",
+    "I made a terrible mistake when typing in my account number.  I accidently sent money to the wrong account.  I noticed the app won't allow me to void the transaction.  Can someone help me with this immediately?",
+    "how do I know where I can get money withdrawn?",
+    "For some reason, the money I added was returned.",
+    "I think my card is expiring, what happens then?",
+    "should i add money via bank transfer instead"
+  ],
+  "records": [
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is allowance not being given to my beneficiary?",
+      "generated": "Why is the beneficiary not eligible to receive the allowance?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "Is there an alternative to a physical card?",
+      "generated": "Can I get a digital card instead of a physical one?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do I get charged if I am receiving money?",
+      "generated": "Will I be charged a fee when I receive funds through bank transfer?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How do I contact customer support about my declined transfer?",
+      "generated": "I'd like to know how to reach out to your customer support team regarding the transfer that was declined."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much is it to receive money?",
+      "generated": "What is the fee for receiving funds via bank transfer?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+      "generated": "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "What limits are there on the virtual cards?",
+      "generated": "What restrictions are in place for the disposable cards?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I was needing you to see if the exchange rate is correct from when i got cash",
+      "generated": "I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "My ATM transaction was cancelled.",
+      "generated": "My cash withdrawal attempt was declined."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why is the app showing a still pending message on a withdraw that has already been done?",
+      "generated": "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "IS there anywhere that a card cannot be delivered?",
+      "generated": "Are there any specific locations or areas where a physical card cannot be delivered?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do I get a real card?",
+      "generated": "Can I receive a physical card?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+      "generated": "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why did I only receive this much currency?",
+      "generated": "Why was the amount of cash I received not in line with the expected exchange rate?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why was my transaction not approved?",
+      "generated": "Why was my transfer not processed successfully?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+      "generated": "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can you check the exchange rate on a cash transaction I did overseas",
+      "generated": "Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+      "generated": "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Hey i need help urgently. I just realised I sent my payment to the wrong account number, there is a typo! Please cancel it immediately, I can't do it anymore from the app",
+      "generated": "I urgently need assistance. I've just discovered that I mistakenly sent a payment to the incorrect account number, and there's a typo involved. Could you please cancel the transfer as soon as possible? I'm unable to do so through the app."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "If I need to cash foreign transfers, how does that work?",
+      "generated": "What's the process for exchanging foreign currencies for cash transfers?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Please send me a disposable virtual card.",
+      "generated": "Please provide me with a temporary virtual credit card."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I couldn't get the money I needed.",
+      "generated": "I didn't receive the correct amount of cash."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I want a real card",
+      "generated": "I'd like a physical credit card."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Can I use my new card?",
+      "generated": "Is my new card ready for use?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I charged for receiving money?",
+      "generated": "Do I incur a fee when someone transfers money to my account?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I cant transfer money into my account",
+      "generated": "I'm unable to add funds to my account."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need to deposit money to my account",
+      "generated": "I'd like to transfer funds into my account."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "For what reason must I authenticate the top up?",
+      "generated": "Why do I need to confirm the top-up?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Is there a charge for getting cash?",
+      "generated": "Are there any fees associated with withdrawing cash?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I am trying to revert a transcation I did this morning",
+      "generated": "I'm attempting to reverse a transfer I initiated earlier today"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What can I do to make my physical card work?",
+      "generated": "How can I get my physical card to function properly?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "The ATM didnt return my card!",
+      "generated": "The ATM swallowed my card!"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I made a terrible mistake when typing in my account number.  I accidently sent money to the wrong account.  I noticed the app won't allow me to void the transaction.  Can someone help me with this immediately?",
+      "generated": "I mistakenly entered the wrong account number, resulting in a transfer to the wrong account. I'm unable to reverse the transaction through the app. Can you assist me in canceling this transfer as soon as possible?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "how do I know where I can get money withdrawn?",
+      "generated": "where can I find an ATM to withdraw cash?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "For some reason, the money I added was returned.",
+      "generated": "The funds I attempted to deposit were reversed."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "I think my card is expiring, what happens then?",
+      "generated": "I'm concerned that my credit card is nearing its expiration date, what are the consequences?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "should i add money via bank transfer instead",
+      "generated": "can I recharge my account using a card charge instead?"
+    }
+  ]
+}

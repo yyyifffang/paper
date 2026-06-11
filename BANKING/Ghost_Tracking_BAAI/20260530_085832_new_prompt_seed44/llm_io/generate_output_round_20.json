@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "We'd be happy to provide you with a list of the payment cards and currencies we currently support.",
+    "I'm hesitant to confirm my identity.",
+    "What's the process for exchanging foreign currencies for cash transfers?",
+    "If I notice suspicious activity on my compromised card, what steps should I take?",
+    "How do I receive money from a friend?",
+    "Can you help me understand how the payment was processed on my account?",
+    "are there any geographical limitations or restrictions in place?",
+    "My friend wants to transfer funds to me. What methods can they use to do so?",
+    "Why did the payment from the merchant get reversed and credited back to my account?",
+    "I've made a cash deposit to my account, but my account balance hasn't been updated yet.",
+    "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.",
+    "Can you confirm your date of birth with me?",
+    "I'm not sure what's meant by the outstanding payment.",
+    "There's an unexpected cash amount appearing on my account.",
+    "Can others deposit funds into my account or transfer money to me?",
+    "Why was the payment made to my account if the seller claims they haven't received it? Can you clarify when the payment will be reversed?",
+    "Can I use bank transfer to top up my account at this bank?",
+    "which locations do you have in your country?",
+    "Which countries do your accounts support international transactions to and from?",
+    "If I receive a bank transfer from someone, will I be charged a fee?",
+    "We accept various forms of identification. Which one would you like to provide?",
+    "Will my new card be functional in countries outside the European Union?",
+    "Why is my pending top-up for my new account not processed immediately?",
+    "When can I expect my recent card payment to be processed and credited to my account, as it's been a few days since I made the payment and it's still pending?",
+    "Can I make purchases with my card in Austria?",
+    "I made a purchase and got the item, but the payment hasn't been deducted from my account yet?",
+    "I made a purchase and settled the payment, but the item is still missing.",
+    "Why hasn't the recipient received my money transfer?",
+    "Why is there a holdup in processing my card payment for my account?",
+    "Will the value of my money remain the same when I travel internationally?",
+    "The card is not functioning properly and won't be recognized by the payment terminal.",
+    "I'd like to transfer funds into my account.",
+    "The ATM wasn't functioning properly when I tried to withdraw cash, and now my account shows a pending transaction. Can you help me understand why it's still processing?",
+    "A store I frequent refused to accept my payment.",
+    "Is the exchange rate offered by this app identical to those provided by other third-party services?",
+    "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?",
+    "A transfer is currently in the process of being processed",
+    "I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?"
+  ],
+  "generated_labels": [
+    54,
+    74,
+    32,
+    22,
+    50,
+    16,
+    24,
+    50,
+    53,
+    6,
+    22,
+    74,
+    45,
+    20,
+    50,
+    53,
+    56,
+    24,
+    24,
+    56,
+    69,
+    24,
+    47,
+    45,
+    24,
+    53,
+    53,
+    66,
+    45,
+    32,
+    14,
+    65,
+    46,
+    25,
+    32,
+    40,
+    48,
+    20
+  ],
+  "source_texts": [
+    "Do you have a list of the cards and currencies supported?",
+    "I am not comfortable verifying my indentity.",
+    "If I need to cash foreign transfers, how does that work?",
+    "What do I do if I detect fraudulent use on my car?",
+    "What are the steps for getting money from a friend?",
+    "Is there any way to know how the transaction got on my account?",
+    "are there any country restrictions?",
+    "My friend would like to send me money. What are the options available to them?",
+    "How come the money from the merchant appeared back into my account?",
+    "I have cash deposit to my account but it is experiencing a problem",
+    "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+    "Do you need my birthdate?",
+    "I don't know what pending transaction means.",
+    "THere is some cash that is showing up on my app.",
+    "Are there ways for other people to send me money?",
+    "HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?",
+    "Are SWIFT Transfers available at this bank?",
+    "where do you have locations at",
+    "What countries do your accounts send and receive to?",
+    "If someone sends me money, will I be charged?",
+    "What type of ID do you accept?",
+    "Will my new card work outside of the EU?",
+    "Why is  my  top  up for  my  new account  not  instant",
+    "How long does it actually take my card payment to make it to the account? I've made a payment a couple of days ago but it hasn't moved since.",
+    "Can I use my card in Austria?",
+    "I purchased something and already received it, why hasn't the money taken out?",
+    "I bought something and already paid for it but now I don't see it.",
+    "How can I the person see my money transaction?",
+    "What is the cause of the delay in applying my card payment to my account?",
+    "Will my money be of equal value when I travel abroad?",
+    "Why won't the machine accept my card anymore?",
+    "I need to deposit money to my account",
+    "The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why?",
+    "A shop I go to didn't let me pay.",
+    "Does this app have the same exchange rate as third parties?",
+    "I haven't received my virtual card yet, do yo know why?",
+    "I have a pending transaction",
+    "I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?"
+  ],
+  "records": [
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do you have a list of the cards and currencies supported?",
+      "generated": "We'd be happy to provide you with a list of the payment cards and currencies we currently support."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I am not comfortable verifying my indentity.",
+      "generated": "I'm hesitant to confirm my identity."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "If I need to cash foreign transfers, how does that work?",
+      "generated": "What's the process for exchanging foreign currencies for cash transfers?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What do I do if I detect fraudulent use on my car?",
+      "generated": "If I notice suspicious activity on my compromised card, what steps should I take?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What are the steps for getting money from a friend?",
+      "generated": "How do I receive money from a friend?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Is there any way to know how the transaction got on my account?",
+      "generated": "Can you help me understand how the payment was processed on my account?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "are there any country restrictions?",
+      "generated": "are there any geographical limitations or restrictions in place?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My friend would like to send me money. What are the options available to them?",
+      "generated": "My friend wants to transfer funds to me. What methods can they use to do so?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "How come the money from the merchant appeared back into my account?",
+      "generated": "Why did the payment from the merchant get reversed and credited back to my account?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I have cash deposit to my account but it is experiencing a problem",
+      "generated": "I've made a cash deposit to my account, but my account balance hasn't been updated yet."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+      "generated": "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Do you need my birthdate?",
+      "generated": "Can you confirm your date of birth with me?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I don't know what pending transaction means.",
+      "generated": "I'm not sure what's meant by the outstanding payment."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "THere is some cash that is showing up on my app.",
+      "generated": "There's an unexpected cash amount appearing on my account."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Are there ways for other people to send me money?",
+      "generated": "Can others deposit funds into my account or transfer money to me?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?",
+      "generated": "Why was the payment made to my account if the seller claims they haven't received it? Can you clarify when the payment will be reversed?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT Transfers available at this bank?",
+      "generated": "Can I use bank transfer to top up my account at this bank?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "where do you have locations at",
+      "generated": "which locations do you have in your country?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "What countries do your accounts send and receive to?",
+      "generated": "Which countries do your accounts support international transactions to and from?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "If someone sends me money, will I be charged?",
+      "generated": "If I receive a bank transfer from someone, will I be charged a fee?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "What type of ID do you accept?",
+      "generated": "We accept various forms of identification. Which one would you like to provide?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Will my new card work outside of the EU?",
+      "generated": "Will my new card be functional in countries outside the European Union?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Why is  my  top  up for  my  new account  not  instant",
+      "generated": "Why is my pending top-up for my new account not processed immediately?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it actually take my card payment to make it to the account? I've made a payment a couple of days ago but it hasn't moved since.",
+      "generated": "When can I expect my recent card payment to be processed and credited to my account, as it's been a few days since I made the payment and it's still pending?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I use my card in Austria?",
+      "generated": "Can I make purchases with my card in Austria?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I purchased something and already received it, why hasn't the money taken out?",
+      "generated": "I made a purchase and got the item, but the payment hasn't been deducted from my account yet?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I bought something and already paid for it but now I don't see it.",
+      "generated": "I made a purchase and settled the payment, but the item is still missing."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How can I the person see my money transaction?",
+      "generated": "Why hasn't the recipient received my money transfer?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "What is the cause of the delay in applying my card payment to my account?",
+      "generated": "Why is there a holdup in processing my card payment for my account?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Will my money be of equal value when I travel abroad?",
+      "generated": "Will the value of my money remain the same when I travel internationally?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why won't the machine accept my card anymore?",
+      "generated": "The card is not functioning properly and won't be recognized by the payment terminal."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need to deposit money to my account",
+      "generated": "I'd like to transfer funds into my account."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why?",
+      "generated": "The ATM wasn't functioning properly when I tried to withdraw cash, and now my account shows a pending transaction. Can you help me understand why it's still processing?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "A shop I go to didn't let me pay.",
+      "generated": "A store I frequent refused to accept my payment."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Does this app have the same exchange rate as third parties?",
+      "generated": "Is the exchange rate offered by this app identical to those provided by other third-party services?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I haven't received my virtual card yet, do yo know why?",
+      "generated": "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have a pending transaction",
+      "generated": "A transfer is currently in the process of being processed"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?",
+      "generated": "I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?"
+    }
+  ]
+}

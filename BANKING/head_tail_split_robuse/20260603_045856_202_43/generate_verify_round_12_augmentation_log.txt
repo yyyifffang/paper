@@ -1,0 +1,77 @@
+GEN | [getting_virtual_card] | Orig: Please let me know how to place an order for a virtual card -> Aug: Please inform me about the process of acquiring a virtual card
+GEN | [getting_virtual_card] | Orig: Which part of the app do I order virtual cards from? -> Aug: Where can I find the option to request a virtual card within the app?
+GEN | [card_acceptance] | Orig: Are there limits as to where my card will be accepted? -> Aug: Can I use my card at any location, or are there specific places where it won't be accepted?
+GEN | [direct_debit_payment_not_recognised] | Orig: What do I do if there is an electronic debit that is not correct? -> Aug: What should I do if a direct debit payment is not recognized by our system?
+GEN | [getting_virtual_card] | Orig: I would love one of the virtual cards! -> Aug: I'd like to obtain a virtual card, please.
+GEN | [virtual_card_not_working] | Orig: What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym? -> Aug: The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me.
+GEN | [country_support] | Orig: i live in portugal. do you operate here? -> Aug: I am a resident of Portugal. Do you have a presence in this country?
+GEN | [why_verify_identity] | Orig: What is the first step I need to make for being able to access my account? -> Aug: What do I need to do to verify my identity before accessing my account?
+GEN | [getting_spare_card] | Orig: Can another family member hold a card for this account in addition to mine? -> Aug: Can I have a spare card issued for this account, in addition to the one I already have?
+GEN | [declined_cash_withdrawal] | Orig: why would i be declined if i had money iin my account -> Aug: You're wondering why your cash withdrawal was declined despite having sufficient funds in your account.
+GEN | [transfer_not_received_by_recipient] | Orig: i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer. -> Aug: I've been waiting for two days for a transfer to be credited to a retailer's account, and I'm starting to worry that it might take even longer.
+GEN | [visa_or_mastercard] | Orig: If I can't choose my card type will I be able to use it everywhere? -> Aug: If I'm unable to select my preferred payment method, will I still be able to make purchases with my Visa or Mastercard at any merchant?
+GEN | [Refund_not_showing_up] | Orig: Why hasn't my return cleared my account? -> Aug: Why isn't my refund showing up in my account?
+GEN | [order_physical_card] | Orig: Where do you export the cards to? -> Aug: How do you receive your physical credit cards?
+GEN | [reverted_card_payment?] | Orig: What happens if a merchant doesn't accept  you payment? -> Aug: What happens if a payment to a merchant is declined or reversed?
+GEN | [wrong_amount_of_cash_received] | Orig: Why can't I take $100 out -> Aug: I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount.
+GEN | [getting_virtual_card] | Orig: I want one of the virtual cards! -> Aug: I'd like to obtain a virtual card.
+GEN | [transfer_not_received_by_recipient] | Orig: Why can't the recepient of my money transaction see it? -> Aug: The recipient of my money transfer is unable to view the transaction.
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I purchase with cash or cheque? -> Aug: May I pay using cash or by cheque?
+GEN | [declined_card_payment] | Orig: I'm sure I have enough money so why didn't the store accept my card? -> Aug: I'm certain I have sufficient funds, yet the merchant refused to accept my payment method.
+GEN | [verify_my_identity] | Orig: why do I need to show ID -> Aug: what's the purpose of verifying my identity
+GEN | [getting_virtual_card] | Orig: I need to make a purchase online, where is my virtual card? -> Aug: I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?
+GEN | [activate_my_card] | Orig: How can I make my card ready to use? -> Aug: What steps can I take to activate my card and start using it?
+GEN | [activate_my_card] | Orig: I need to actuate my card. -> Aug: I'd like to activate my card.
+GEN | [cash_withdrawal_charge] | Orig: How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month. -> Aug: What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?
+GEN | [transfer_not_received_by_recipient] | Orig: When will I get my money? It's been too long. -> Aug: Why hasn't my transfer arrived yet? It's been an unacceptable delay.
+GEN | [get_disposable_virtual_card] | Orig: how do the cards work? -> Aug: What's the process for obtaining a disposable virtual card?
+GEN | [direct_debit_payment_not_recognised] | Orig: If I found an error in my account for a transaction I didn't make, how long to I have to dispute it? -> Aug: We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?
+GEN | [card_delivery_estimate] | Orig: My card is needed soon -> Aug: I require my card to be delivered shortly.
+GEN | [transfer_timing] | Orig: How long do I have to wait for Europe transfers? -> Aug: What is the typical timeframe for international transfers to Europe?
+GEN | [getting_spare_card] | Orig: Is it possible to give a second card from my account to my daughter? -> Aug: Can I obtain a spare card for my daughter from my account?
+GEN | [card_delivery_estimate] | Orig: Can I have it by a certain date? -> Aug: Can you provide an estimated delivery date for the card?
+GEN | [card_delivery_estimate] | Orig: Give me my card, I need it now! -> Aug: Can you expedite the delivery of my card, please? I require it urgently.
+GEN | [reverted_card_payment?] | Orig: Was my transaction reverted with my card? -> Aug: Did my card payment get reversed?
+GEN | [card_payment_not_recognised] | Orig: This card payment isn't is recognition. -> Aug: This payment made with the card is not being recognized.
+GEN | [getting_virtual_card] | Orig: I want to get my hands on one of those virtual cards! -> Aug: I'd like to obtain a virtual card.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: My rate is not right when I used my card in a different country's money. -> Aug: The exchange rate was incorrect when I made a cash withdrawal using my card in a foreign country.
+GEN | [fiat_currency_support] | Orig: Do you have EUR currency available for me? -> Aug: Can I get some information on the availability of the Euro currency for my transaction?
+VAL | [getting_virtual_card] | ACCEPT | Reason: N/A | Original: Please let me know how to place an order for a virtual card | Augmented: Please inform me about the process of acquiring a virtual card
+VAL | [getting_virtual_card] | ACCEPT | Reason: The augmented text does not change the intent; it merely rephrases the question to ask about finding the option to request a virtual card within the app. | Original: Which part of the app do I order virtual cards from? | Augmented: Where can I find the option to request a virtual card within the app?
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Are there limits as to where my card will be accepted? | Augmented: Can I use my card at any location, or are there specific places where it won't be accepted?
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: N/A | Original: What do I do if there is an electronic debit that is not correct? | Augmented: What should I do if a direct debit payment is not recognized by our system?
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: I would love one of the virtual cards! | Augmented: I'd like to obtain a virtual card, please.
+VAL | [virtual_card_not_working] | ACCEPT | Reason: ... | Original: What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym? | Augmented: The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me.
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: i live in portugal. do you operate here? | Augmented: I am a resident of Portugal. Do you have a presence in this country?
+VAL | [why_verify_identity] | ACCEPT | Reason: N/A | Original: What is the first step I need to make for being able to access my account? | Augmented: What do I need to do to verify my identity before accessing my account?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: Can another family member hold a card for this account in addition to mine? | Augmented: Can I have a spare card issued for this account, in addition to the one I already have?
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: ... | Original: why would i be declined if i had money iin my account | Augmented: You're wondering why your cash withdrawal was declined despite having sufficient funds in your account.
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer. | Augmented: I've been waiting for two days for a transfer to be credited to a retailer's account, and I'm starting to worry that it might take even longer.
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: If I can't choose my card type will I be able to use it everywhere? | Augmented: If I'm unable to select my preferred payment method, will I still be able to make purchases with my Visa or Mastercard at any merchant?
+VAL | [Refund_not_showing_up] | ACCEPT | Reason: ... | Original: Why hasn't my return cleared my account? | Augmented: Why isn't my refund showing up in my account?
+VAL | [order_physical_card] | UNKNOWN | Reason: N/A | Original: Where do you export the cards to? | Augmented: How do you receive your physical credit cards?
+VAL | [reverted_card_payment?] | REVIEW | Reason: N/A | Original: What happens if a merchant doesn't accept  you payment? | Augmented: What happens if a payment to a merchant is declined or reversed?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: N/A | Original: Why can't I take $100 out | Augmented: I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount.
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: I want one of the virtual cards! | Augmented: I'd like to obtain a virtual card.
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: ... | Original: Why can't the recepient of my money transaction see it? | Augmented: The recipient of my money transfer is unable to view the transaction.
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: Both texts are asking about the possibility of paying for something using cash or cheque, preserving the same intent. | Original: Can I purchase with cash or cheque? | Augmented: May I pay using cash or by cheque?
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: I'm sure I have enough money so why didn't the store accept my card? | Augmented: I'm certain I have sufficient funds, yet the merchant refused to accept my payment method.
+VAL | [verify_my_identity] | REVIEW | Reason: N/A | Original: why do I need to show ID | Augmented: what's the purpose of verifying my identity
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: I need to make a purchase online, where is my virtual card? | Augmented: I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?
+VAL | [activate_my_card] | ACCEPT | Reason: ... | Original: How can I make my card ready to use? | Augmented: What steps can I take to activate my card and start using it?
+VAL | [activate_my_card] | ACCEPT | Reason: N/A | Original: I need to actuate my card. | Augmented: I'd like to activate my card.
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: N/A | Original: How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month. | Augmented: What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: ... | Original: When will I get my money? It's been too long. | Augmented: Why hasn't my transfer arrived yet? It's been an unacceptable delay.
+VAL | [get_disposable_virtual_card] | ACCEPT | Reason: N/A | Original: how do the cards work? | Augmented: What's the process for obtaining a disposable virtual card?
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: N/A | Original: If I found an error in my account for a transaction I didn't make, how long to I have to dispute it? | Augmented: We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: My card is needed soon | Augmented: I require my card to be delivered shortly.
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: How long do I have to wait for Europe transfers? | Augmented: What is the typical timeframe for international transfers to Europe?
+VAL | [getting_spare_card] | ACCEPT | Reason: ... | Original: Is it possible to give a second card from my account to my daughter? | Augmented: Can I obtain a spare card for my daughter from my account?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: Can I have it by a certain date? | Augmented: Can you provide an estimated delivery date for the card?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: Give me my card, I need it now! | Augmented: Can you expedite the delivery of my card, please? I require it urgently.
+VAL | [reverted_card_payment?] | ACCEPT | Reason: N/A | Original: Was my transaction reverted with my card? | Augmented: Did my card payment get reversed?
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: ... | Original: This card payment isn't is recognition. | Augmented: This payment made with the card is not being recognized.
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: I want to get my hands on one of those virtual cards! | Augmented: I'd like to obtain a virtual card.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | ACCEPT | Reason: N/A | Original: My rate is not right when I used my card in a different country's money. | Augmented: The exchange rate was incorrect when I made a cash withdrawal using my card in a foreign country.
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: Do you have EUR currency available for me? | Augmented: Can I get some information on the availability of the Euro currency for my transaction?
+VAL_SUMMARY | ACCEPT: 35 | REVIEW: 2 | REJECT: 0 | UNKNOWN: 1 | Accept Rate: 0.9211

@@ -1,0 +1,32 @@
+GEN | [direct_debit_payment_not_recognised] | Orig: what is the word? -> Aug: We're unable to identify the direct debit payment you're referring to.
+GEN | [transfer_fee_charged] | Orig: why was i chargged -> Aug: why was a fee charged on my transfer?
+GEN | [pin_blocked] | Orig: I attempted to enter my pin to many times. -> Aug: I tried to enter my PIN multiple times.
+GEN | [country_support] | Orig: I live in Germany. Is that one of the countries you are in? What other countries are you in? -> Aug: I reside in Germany. Are you a financial institution that operates in multiple countries, including Germany? Can you provide a list of all the countries you support?
+GEN | [passcode_forgotten] | Orig: passcode retrieval -> Aug: forgot passcode
+GEN | [pin_blocked] | Orig: I used my pin too many times. -> Aug: I've exceeded the allowed attempts to enter my PIN.
+GEN | [direct_debit_payment_not_recognised] | Orig: hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent. -> Aug: I'm concerned that someone has compromised my card information, as I've noticed an unauthorized transaction on my app from a location that's not near my usual shopping spots. I'm counting on getting that refund to cover my rent payment.
+GEN | [lost_or_stolen_phone] | Orig: I have lost my phone or it has been stolen. -> Aug: I've misplaced my phone or it's been taken from me.
+GEN | [request_refund] | Orig: I want to know about your refund policy. -> Aug: I'd like to inquire about the process for requesting a refund.
+GEN | [pin_blocked] | Orig: What should I do if I exceed my PIN tries? -> Aug: What should I do if I reach the maximum number of PIN attempts allowed?
+GEN | [transaction_charged_twice] | Orig: I was charged multiple times at the same location at the same time -> Aug: I was double-billed at the same location during the same transaction period
+GEN | [wrong_amount_of_cash_received] | Orig: i asked for 100 only got 80 -> Aug: i requested $100, but I was given $80 instead
+GEN | [pin_blocked] | Orig: How come I got blocked for entering wrong pins? -> Aug: I'm confused as to why I was restricted from accessing my account due to incorrect PIN attempts.
+GEN | [get_physical_card] | Orig: Is the PIN sent in another message? -> Aug: Can I receive the physical card separately?
+GEN | [declined_transfer] | Orig: What does the decline message mean -> Aug: The transfer was not successfully processed due to an issue.
+GEN | [get_physical_card] | Orig: I dont have a pin -> Aug: I'm missing my physical card.
+GEN | [pin_blocked] | Orig: I must have entered my PIN wrong. -> Aug: I must have keyed in my PIN incorrectly.
+GEN | [pin_blocked] | Orig: How many times can I enter a wrong PIN before it is blocked? -> Aug: What is the limit on the number of incorrect PIN attempts before my account is blocked?
+GEN | [request_refund] | Orig: Do you have a return policy? -> Aug: Can I initiate a return and request a refund?
+GEN | [compromised_card] | Orig: I think that someone may be using my card, but I'm not sure,. -> Aug: I suspect that my card might be compromised, but I'm not entirely certain.
+GEN | [declined_cash_withdrawal] | Orig: i entered my pin in wrong and got it frozen. how many tries do i have -> Aug: Unfortunately, due to an incorrect PIN entry, your cash withdrawal has been declined.
+GEN | [compromised_card] | Orig: What do I do if I detect fraudulent use on my car? -> Aug: If I notice suspicious activity on my compromised card, what steps should I take?
+GEN | [compromised_card] | Orig: I can't be sure, but I think that someone may be using my card. -> Aug: I'm worried that my card might have been compromised and someone is using it.
+GEN | [exchange_charge] | Orig: I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently. -> Aug: I'd like to inquire about any available discounts for regular exchange transactions, as they happen quite often.
+GEN | [request_refund] | Orig: Can you explain your refund policy, please? -> Aug: Could you provide information about your refund procedure?
+GEN | [get_physical_card] | Orig: I can't find the PIN. -> Aug: I've misplaced the PIN on my physical card.
+GEN | [card_arrival] | Orig: Was there a way for me to get tracking for that? -> Aug: Could you please provide me with tracking information for my card arrival?
+GEN | [get_physical_card] | Orig: Does the PIN come under separate cover? -> Aug: Is the PIN card separate from the physical card?
+GEN | [get_physical_card] | Orig: Is the PIN separately delivered? -> Aug: Can I get my physical card separately, including the PIN?
+GEN | [compromised_card] | Orig: am afraid someone may have gained access to the info on my card. -> Aug: I'm worried that someone might have obtained unauthorized access to my card's information.
+GEN | [compromised_card] | Orig: I think someone may be using my card. -> Aug: I suspect my credit card has been compromised.
+GEN | [lost_or_stolen_phone] | Orig: I can not find my phone or it has been stolen. -> Aug: I've misplaced my phone or it's been taken from me.

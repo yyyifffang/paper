@@ -1,0 +1,38 @@
+GEN | [failed_transfer] | Orig: Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there. -> Aug: I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?
+GEN | [card_not_working] | Orig: I can't get my actual card to work -> Aug: I'm having trouble using my physical card
+GEN | [cash_withdrawal_not_recognised] | Orig: I got a message saying I made a withdrawal from the bank machine, but I did not. -> Aug: I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.
+GEN | [transfer_not_received_by_recipient] | Orig: What happens when I money transaction doesn't show up on the receiving side? -> Aug: Why hasn't the money transfer been credited to the recipient's account?
+GEN | [fiat_currency_support] | Orig: Can I exchange my money for EUR? -> Aug: Can I convert my funds to euros?
+GEN | [age_limit] | Orig: Do you have a limit for someone's age? -> Aug: Is there an age restriction in place?
+GEN | [virtual_card_not_working] | Orig: Please help me.  My disposable virtual card won't work right. -> Aug: Please assist me. My temporary virtual card is not functioning properly.
+GEN | [card_linking] | Orig: I would like to link my card to my account. -> Aug: I'd like to connect my card to my account.
+GEN | [wrong_amount_of_cash_received] | Orig: I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now! -> Aug: I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible.
+GEN | [card_arrival] | Orig: How long should it take for my new card to arrive in them mail? What should I do if I never receive it? -> Aug: When can I expect my new card to arrive by mail? What should I do if it doesn't show up?
+GEN | [transfer_not_received_by_recipient] | Orig: When are you going to transfer the money? -> Aug: When will the transfer be delivered to the recipient?
+GEN | [getting_virtual_card] | Orig: I have lost my card, but need to place an online order! How do I get a virtual card instantly? -> Aug: I've misplaced my physical card, and I urgently need to make an online purchase. Can I obtain a virtual card immediately to complete the transaction?
+GEN | [card_not_working] | Orig: I can't seem to use my card. Can you help? -> Aug: I'm having trouble using my card. Can you assist me?
+GEN | [age_limit] | Orig: Is it possible for me to set up separate accounts for my kids? -> Aug: Can I create individual accounts for my children?
+GEN | [topping_up_by_card] | Orig: Can my account be topped-up by friends of mine. -> Aug: Can I have my account replenished by my friends using their cards?
+GEN | [getting_virtual_card] | Orig: I need to order a new virtual card, how do I do that? -> Aug: I'd like to request a new virtual card, can you guide me through the process?
+GEN | [fiat_currency_support] | Orig: Is my country's currency supported by your system? -> Aug: Does your bank support transactions in my local currency?
+GEN | [pin_blocked] | Orig: I logged in wrong and am blocked, how do I log in? -> Aug: I mistakenly entered my PIN and now I'm unable to access my account, can you help me log in?
+GEN | [pending_transfer] | Orig: Why is the transaction not posting? -> Aug: Why is the transfer still pending?
+GEN | [cash_withdrawal_not_recognised] | Orig: I just lost my wallet and I think someone is using my card to withdraw my money. Can you please cancel or freeze my card?!! -> Aug: I'm concerned that my card has been compromised and someone is attempting to make unauthorized cash withdrawals. Can you assist me in suspending my card's activity or canceling it altogether?
+GEN | [failed_transfer] | Orig: I was unable to transfer money from my account. -> Aug: The transfer of funds from my account was unsuccessful.
+GEN | [getting_spare_card] | Orig: If I need more than cards will I have to pay a fee to receive them? -> Aug: If I require additional cards, will I be charged a fee for obtaining them?
+GEN | [top_up_reverted] | Orig: I went to top up my card and it was cancelled. -> Aug: I attempted to add funds to my card, but the transaction was reversed.
+GEN | [pending_transfer] | Orig: I recently purchased something and the seller says my money has not arrived yet. It was in EU's. How long does this take? -> Aug: I recently made a purchase and the vendor informed me that the transfer is still pending. The transaction was in euros. Can you please provide an estimate of how long it usually takes for the funds to be received?
+GEN | [age_limit] | Orig: I need to set up an account for my daughter, how would I do that? -> Aug: I'd like to open an account for my child, what's the process for doing so?
+GEN | [transfer_not_received_by_recipient] | Orig: Why is my transaction taking so long to complete? -> Aug: Why hasn't my transfer been received by the recipient yet?
+GEN | [card_payment_fee_charged] | Orig: I was charged and shouldn't have been charged when using my card! -> Aug: I was unexpectedly billed a fee for using my card, which I believe was an error.
+GEN | [reverted_card_payment?] | Orig: I tried to use my debit card, but the payment did not work. -> Aug: I attempted to make a payment using my debit card, but it was unsuccessful.
+GEN | [terminate_account] | Orig: I no longer want this account, what should I do? -> Aug: I'd like to cancel my account, please.
+GEN | [top_up_by_card_charge] | Orig: What do I need to know about topping up? -> Aug: What are the requirements for charging my card for a top-up?
+GEN | [beneficiary_not_allowed] | Orig: My account transfer was blocked. -> Aug: The transfer to my account was halted due to the beneficiary not being allowed.
+GEN | [declined_cash_withdrawal] | Orig: Why did the ATM cancel my transaction -> Aug: Why was my cash withdrawal declined at the ATM?
+GEN | [card_not_working] | Orig: Need help to get my card to work. -> Aug: Can you assist me in resolving the issue with my card not functioning properly?
+GEN | [wrong_amount_of_cash_received] | Orig: Hi, Please help me to request cash back. As i have been withdrawn money from ATM, but i got wrong amount. in Application its showing the amount i have been charged through. -> Aug: I'm having an issue with a recent ATM withdrawal. I took out some cash, but the amount I received was incorrect. The app shows the amount I was charged, but it's not what I actually got.
+GEN | [transfer_into_account] | Orig: How is my money transferred to the account -> Aug: What steps can I take to move my funds into the account?
+GEN | [card_payment_wrong_exchange_rate] | Orig: My card payment had the wrong exchange rate -> Aug: The exchange rate used for my card payment was incorrect
+GEN | [transfer_timing] | Orig: I desperately need to transfer something from China, Please give me the wait time. -> Aug: I urgently require a transfer from China, Could you please provide the estimated wait time?
+GEN | [topping_up_by_card] | Orig: Can somebody else top up my account? -> Aug: Can someone else add funds to my account using my card?

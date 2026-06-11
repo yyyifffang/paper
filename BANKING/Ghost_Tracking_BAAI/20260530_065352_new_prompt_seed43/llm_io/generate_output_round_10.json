@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "If I already have a credit card account with your bank, how do I go about linking it to my profile?",
+    "How do I initiate an exchange?",
+    "How can I utilize the automatic top-up feature?",
+    "Has there been any recent use or transactions on my card?",
+    "I've successfully completed the 3D secure authentication process, but the crypto top-up still isn't functioning for me. I'm also confused about what happened to the funds in my account.",
+    "How do I obtain additional cards for my account?",
+    "Can I expedite the delivery of my card?",
+    "I've been charged twice for the same transaction on my card.",
+    "Can I still make a deposit into my account using a bank transfer, even though my account is currently empty?",
+    "I've just got a new card and I'm having trouble topping it up. I attempted to add funds about half an hour ago, but the transaction is still pending. Can you help me resolve this issue?",
+    "What steps can I take to verify if the merchant is not supported for my transfer attempt?",
+    "I had my phone stolen and I'm wondering if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account.",
+    "Could you please provide me with additional cards for my account?",
+    "You're wondering why your cash withdrawal was declined despite having sufficient funds in your account.",
+    "I haven't received the transfer yet.",
+    "How can I add funds to my account using my credit card?",
+    "Can I have a spare card issued for this account, in addition to the one I already have?",
+    "I'd like to obtain extra physical debit/credit cards right now",
+    "Why can't I use my American Express card to fund my account?",
+    "What do I need to do to verify my identity before accessing my account?",
+    "Why can't I use my American Express card to top up my account?",
+    "I have no balance in my account. Can I deposit more funds through a bank transfer?",
+    "I've noticed duplicate transactions on my account.",
+    "how can I charge my card to add funds?",
+    "Can you assist me in retrieving the card I already possess so I can access its information?",
+    "Could you provide me with a replacement card for this account?",
+    "Reasons for reversal of top-up transaction.",
+    "How can I add funds to my account using my credit card?",
+    "I am expecting a payment to be cleared",
+    "I'm having trouble completing a crypto purchase through the app. Can you help me figure out what's preventing it from processing?",
+    "What's the process for obtaining a disposable virtual card?",
+    "We want to ensure the origin of your funds is legitimate and secure.",
+    "I'm still waiting for the transfer to be successfully delivered to the recipient.",
+    "I'm seeing the same transaction repeatedly on my card statement.",
+    "I'm noticing some suspicious activity on my account, showing up in the app without my permission.",
+    "How can I access funds from my card?"
+  ],
+  "generated_labels": [
+    13,
+    32,
+    4,
+    41,
+    61,
+    39,
+    12,
+    63,
+    65,
+    47,
+    27,
+    42,
+    39,
+    26,
+    66,
+    62,
+    39,
+    39,
+    54,
+    74,
+    54,
+    65,
+    63,
+    57,
+    13,
+    39,
+    61,
+    62,
+    45,
+    7,
+    37,
+    70,
+    66,
+    63,
+    20,
+    3
+  ],
+  "source_texts": [
+    "If I have a credit card with you how I get set up to link to it?",
+    "What's the process for exchanges?",
+    "How can I Use thereto-top option?",
+    "Has there been any activity on my card today?",
+    "Hae, I already completed my 3D secure authentication when I tried the crypto top up but it's still not working for me. I also don't understand what happened to the money in my account",
+    "What is the procedure for me to get more cards on my account?",
+    "Can I get my card fast tracked?",
+    "I've got a repeated tranasaction on my card.",
+    "My account is devoid of funds. Am I permitted to submit additional money via bank transfer?",
+    "I have a new card and I can't add money to it.  I tried about 30 minutes ago and it is still pending.  What do I do?",
+    "How can I check for an unsupported merchant for my transfer request?",
+    "I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user?",
+    "Can you send me more cards for my account?",
+    "why would i be declined if i had money iin my account",
+    "wheres my money receipt",
+    "How do I transfer funds directly from my credit card?",
+    "Can another family member hold a card for this account in addition to mine?",
+    "I would like to get additional physical cards at this time",
+    "why don't you accept american express for adding money to my account",
+    "What is the first step I need to make for being able to access my account?",
+    "why wont my american express work to add money",
+    "I have zero dollars in my account. Can I submit additional funds via bank transfer?",
+    "I have multiple of the same transaction",
+    "how should i add money to my card",
+    "Help me access the card I already got so I can information from it.",
+    "Can I have a spare card for this account please?",
+    "Reasons for top up cancellation.",
+    "What steps do I do to transfer money using my credit card?",
+    "I am waiting for a payment to be processed",
+    "I'm trying to purchase crypto via the app. I haven't been able to get it to go through. Am I doing something wrong?",
+    "how do the cards work?",
+    "What kind of security protects my money?",
+    "I am just waiting on the completion of the transaction.",
+    "My card is showing the same transaction over and over again.",
+    "I am seeing unathorized transactions in the app, on my account.",
+    "Where can I get money from my card?"
+  ],
+  "records": [
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "If I have a credit card with you how I get set up to link to it?",
+      "generated": "If I already have a credit card account with your bank, how do I go about linking it to my profile?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What's the process for exchanges?",
+      "generated": "How do I initiate an exchange?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How can I Use thereto-top option?",
+      "generated": "How can I utilize the automatic top-up feature?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Has there been any activity on my card today?",
+      "generated": "Has there been any recent use or transactions on my card?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hae, I already completed my 3D secure authentication when I tried the crypto top up but it's still not working for me. I also don't understand what happened to the money in my account",
+      "generated": "I've successfully completed the 3D secure authentication process, but the crypto top-up still isn't functioning for me. I'm also confused about what happened to the funds in my account."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "What is the procedure for me to get more cards on my account?",
+      "generated": "How do I obtain additional cards for my account?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I get my card fast tracked?",
+      "generated": "Can I expedite the delivery of my card?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I've got a repeated tranasaction on my card.",
+      "generated": "I've been charged twice for the same transaction on my card."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "My account is devoid of funds. Am I permitted to submit additional money via bank transfer?",
+      "generated": "Can I still make a deposit into my account using a bank transfer, even though my account is currently empty?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I have a new card and I can't add money to it.  I tried about 30 minutes ago and it is still pending.  What do I do?",
+      "generated": "I've just got a new card and I'm having trouble topping it up. I attempted to add funds about half an hour ago, but the transaction is still pending. Can you help me resolve this issue?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How can I check for an unsupported merchant for my transfer request?",
+      "generated": "What steps can I take to verify if the merchant is not supported for my transfer attempt?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user?",
+      "generated": "I had my phone stolen and I'm wondering if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can you send me more cards for my account?",
+      "generated": "Could you please provide me with additional cards for my account?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "why would i be declined if i had money iin my account",
+      "generated": "You're wondering why your cash withdrawal was declined despite having sufficient funds in your account."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "wheres my money receipt",
+      "generated": "I haven't received the transfer yet."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I transfer funds directly from my credit card?",
+      "generated": "How can I add funds to my account using my credit card?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can another family member hold a card for this account in addition to mine?",
+      "generated": "Can I have a spare card issued for this account, in addition to the one I already have?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I would like to get additional physical cards at this time",
+      "generated": "I'd like to obtain extra physical debit/credit cards right now"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why don't you accept american express for adding money to my account",
+      "generated": "Why can't I use my American Express card to fund my account?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "What is the first step I need to make for being able to access my account?",
+      "generated": "What do I need to do to verify my identity before accessing my account?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why wont my american express work to add money",
+      "generated": "Why can't I use my American Express card to top up my account?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I have zero dollars in my account. Can I submit additional funds via bank transfer?",
+      "generated": "I have no balance in my account. Can I deposit more funds through a bank transfer?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have multiple of the same transaction",
+      "generated": "I've noticed duplicate transactions on my account."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how should i add money to my card",
+      "generated": "how can I charge my card to add funds?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Help me access the card I already got so I can information from it.",
+      "generated": "Can you assist me in retrieving the card I already possess so I can access its information?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can I have a spare card for this account please?",
+      "generated": "Could you provide me with a replacement card for this account?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Reasons for top up cancellation.",
+      "generated": "Reasons for reversal of top-up transaction."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What steps do I do to transfer money using my credit card?",
+      "generated": "How can I add funds to my account using my credit card?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I am waiting for a payment to be processed",
+      "generated": "I am expecting a payment to be cleared"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I'm trying to purchase crypto via the app. I haven't been able to get it to go through. Am I doing something wrong?",
+      "generated": "I'm having trouble completing a crypto purchase through the app. Can you help me figure out what's preventing it from processing?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "how do the cards work?",
+      "generated": "What's the process for obtaining a disposable virtual card?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What kind of security protects my money?",
+      "generated": "We want to ensure the origin of your funds is legitimate and secure."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I am just waiting on the completion of the transaction.",
+      "generated": "I'm still waiting for the transfer to be successfully delivered to the recipient."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My card is showing the same transaction over and over again.",
+      "generated": "I'm seeing the same transaction repeatedly on my card statement."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I am seeing unathorized transactions in the app, on my account.",
+      "generated": "I'm noticing some suspicious activity on my account, showing up in the app without my permission."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where can I get money from my card?",
+      "generated": "How can I access funds from my card?"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "If I notice suspicious activity on my compromised card, what steps should I take?",
+    "why hasn't my account balance been updated after the deposit I made this morning?",
+    "I'm trying to stop a direct debit payment that was made from my account.",
+    "My funds vanished! Can you assist me with this issue?",
+    "I'd like to correct a mistake I made with a recent transaction. Could you please reverse the transfer? I need it resolved by tomorrow.",
+    "Which countries do your accounts support international transactions to and from?",
+    "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time",
+    "how can I learn about incoming transactions?",
+    "I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?",
+    "To facilitate a transfer, could you please provide me with your bank account information?",
+    "I'm really disappointed. My payment was declined, and I'm not sure why.",
+    "What's the reason for the fee deducted from my account for the recent transfer?",
+    "The ATM wasn't functioning properly when I tried to withdraw cash, and now my account shows a pending transaction. Can you help me understand why it's still processing?",
+    "I've stopped making payments on this card.",
+    "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now.",
+    "Will the value of my money remain the same when I travel internationally?",
+    "Can you assist me in locating the recent transfer I made?",
+    "It appears that an unauthorized party has used my card to make a purchase, what steps can I take?",
+    "How can I confirm the details of my card?",
+    "There's an unexpected cash amount appearing on my account.",
+    "I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?",
+    "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?",
+    "Can I initiate a bank transfer to top up my account with you?",
+    "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?",
+    "I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?",
+    "How long does it typically take for a pending card payment to clear? I have one that's been pending for a few days now and it's not showing any progress.",
+    "Why was I charged an additional fee when I used my card to make the payment?",
+    "what is the source of the funds being transferred",
+    "I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?",
+    "I'm unable to locate the transfer receipt.",
+    "Can you accept direct deposits from my employer's payroll department?",
+    "We've noticed a direct debit payment that doesn't seem to be recognized in your account records.",
+    "Will all ATMs reject my card?",
+    "I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?",
+    "The card is not functioning properly and won't be recognized by the payment terminal."
+  ],
+  "generated_labels": [
+    22,
+    6,
+    28,
+    61,
+    8,
+    24,
+    26,
+    50,
+    5,
+    65,
+    25,
+    64,
+    46,
+    53,
+    15,
+    32,
+    5,
+    22,
+    71,
+    20,
+    19,
+    64,
+    56,
+    41,
+    26,
+    45,
+    15,
+    70,
+    22,
+    66,
+    50,
+    28,
+    3,
+    16,
+    14
+  ],
+  "source_texts": [
+    "What do I do if I detect fraudulent use on my car?",
+    "where is my money from this morning",
+    "I need to cancel a transaction on my debit card.",
+    "My money disappeared! Please help??",
+    "Hi , I just came to know I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow.",
+    "What countries do your accounts send and receive to?",
+    "Is my card actually working? It's the first time I tried using it",
+    "how do i find out about transfers",
+    "Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.",
+    "What are my bank details so I can do a transfer?",
+    "I was so embarrassed. Why didn't my payment clear?",
+    "Why was money taken for a transfer?",
+    "The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why?",
+    "I have cancelled payments to this card.",
+    "i have used my card online before and wasn't charged, why am i charged now",
+    "Will my money be of equal value when I travel abroad?",
+    "Help me find the transfer that I did.",
+    "It looks like someone besides me ordered something with my card, what should I do?",
+    "What can I do to verify my card?",
+    "THere is some cash that is showing up on my app.",
+    "I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?",
+    "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+    "Am I able to do a SWIFT transfer with you?",
+    "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+    "I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this?",
+    "How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move",
+    "Why did I have to pay extra because I paid with my card?",
+    "where are the transfers originating",
+    "I have some transactions on my account I did not make. Can you cancel my card and prevent further use.",
+    "I dont see my reciept",
+    "Do you support direct deposits from my employer?",
+    "Why is there a direct debit set up in my name?",
+    "Will any ATM's decline my card?",
+    "I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?",
+    "Why won't the machine accept my card anymore?"
+  ],
+  "records": [
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What do I do if I detect fraudulent use on my car?",
+      "generated": "If I notice suspicious activity on my compromised card, what steps should I take?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "where is my money from this morning",
+      "generated": "why hasn't my account balance been updated after the deposit I made this morning?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I need to cancel a transaction on my debit card.",
+      "generated": "I'm trying to stop a direct debit payment that was made from my account."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "My money disappeared! Please help??",
+      "generated": "My funds vanished! Can you assist me with this issue?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Hi , I just came to know I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow.",
+      "generated": "I'd like to correct a mistake I made with a recent transaction. Could you please reverse the transfer? I need it resolved by tomorrow."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "What countries do your accounts send and receive to?",
+      "generated": "Which countries do your accounts support international transactions to and from?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Is my card actually working? It's the first time I tried using it",
+      "generated": "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "how do i find out about transfers",
+      "generated": "how can I learn about incoming transactions?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.",
+      "generated": "I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are my bank details so I can do a transfer?",
+      "generated": "To facilitate a transfer, could you please provide me with your bank account information?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I was so embarrassed. Why didn't my payment clear?",
+      "generated": "I'm really disappointed. My payment was declined, and I'm not sure why."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Why was money taken for a transfer?",
+      "generated": "What's the reason for the fee deducted from my account for the recent transfer?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "The machine didn't work earlier when I went to get money out and now my account says transaction in progress.Why?",
+      "generated": "The ATM wasn't functioning properly when I tried to withdraw cash, and now my account shows a pending transaction. Can you help me understand why it's still processing?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I have cancelled payments to this card.",
+      "generated": "I've stopped making payments on this card."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "i have used my card online before and wasn't charged, why am i charged now",
+      "generated": "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Will my money be of equal value when I travel abroad?",
+      "generated": "Will the value of my money remain the same when I travel internationally?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Help me find the transfer that I did.",
+      "generated": "Can you assist me in locating the recent transfer I made?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "It looks like someone besides me ordered something with my card, what should I do?",
+      "generated": "It appears that an unauthorized party has used my card to make a purchase, what steps can I take?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What can I do to verify my card?",
+      "generated": "How can I confirm the details of my card?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "THere is some cash that is showing up on my app.",
+      "generated": "There's an unexpected cash amount appearing on my account."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?",
+      "generated": "I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+      "generated": "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I able to do a SWIFT transfer with you?",
+      "generated": "Can I initiate a bank transfer to top up my account with you?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+      "generated": "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this?",
+      "generated": "I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move",
+      "generated": "How long does it typically take for a pending card payment to clear? I have one that's been pending for a few days now and it's not showing any progress."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why did I have to pay extra because I paid with my card?",
+      "generated": "Why was I charged an additional fee when I used my card to make the payment?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "where are the transfers originating",
+      "generated": "what is the source of the funds being transferred"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I have some transactions on my account I did not make. Can you cancel my card and prevent further use.",
+      "generated": "I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I dont see my reciept",
+      "generated": "I'm unable to locate the transfer receipt."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do you support direct deposits from my employer?",
+      "generated": "Can you accept direct deposits from my employer's payroll department?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Why is there a direct debit set up in my name?",
+      "generated": "We've noticed a direct debit payment that doesn't seem to be recognized in your account records."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Will any ATM's decline my card?",
+      "generated": "Will all ATMs reject my card?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?",
+      "generated": "I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why won't the machine accept my card anymore?",
+      "generated": "The card is not functioning properly and won't be recognized by the payment terminal."
+    }
+  ]
+}

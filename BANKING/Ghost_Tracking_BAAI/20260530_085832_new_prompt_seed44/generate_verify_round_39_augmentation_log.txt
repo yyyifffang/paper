@@ -1,0 +1,77 @@
+GEN | [topping_up_by_card] | Orig: With my credit card i would like to transfer money. -> Aug: I'd like to make a payment using my credit card.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: What happens if I deposit a cheque accidentally? -> Aug: What happens if I make a cash deposit or deposit a cheque by mistake?
+GEN | [direct_debit_payment_not_recognised] | Orig: I didn't set up a direct debit payment on my account. -> Aug: We didn't find a direct debit payment arrangement linked to your account.
+GEN | [card_payment_not_recognised] | Orig: Why is there a random payment in my statement? -> Aug: We've noticed an unexpected payment on your statement. Can you help us understand what this payment is for?
+GEN | [direct_debit_payment_not_recognised] | Orig: Someone else charged my card! -> Aug: A payment made from my account was not recognized.
+GEN | [getting_virtual_card] | Orig: Do I get to have one of those virtual cards I've heard about? -> Aug: Can I obtain a virtual card, like the ones I've been told about?
+GEN | [lost_or_stolen_phone] | Orig: How can I stop someone from using my card after I lost it yesterday. -> Aug: How can I prevent someone from using my card after I misplaced it yesterday?
+GEN | [order_physical_card] | Orig: What do I need to do in order to get a new card? -> Aug: How can I obtain a physical card?
+GEN | [fiat_currency_support] | Orig: In the exchange and holding, what fiat is allowed? -> Aug: In what currencies can I exchange and hold my funds?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: the balance has not changed, but I have deposited some money -> Aug: The balance remains the same, despite the recent deposit.
+GEN | [change_pin] | Orig: Can I change my PIN at a nearby ATM when in Spain? I think someone saw my PIN and I need to change it but am on vacation. -> Aug: Can I modify my PIN at a nearby ATM while I'm in Spain? I'm concerned someone may have observed my PIN and I'd like to update it, but I'm currently on vacation.
+GEN | [card_payment_not_recognised] | Orig: There is a payment in the app that I did not approve -> Aug: A payment has been recorded in the app that I did not authorize.
+GEN | [pending_card_payment] | Orig: Why are my purchases from this morning still pending? -> Aug: Why are my transactions from this morning still awaiting processing?
+GEN | [top_up_by_card_charge] | Orig: How much does it cost to us US cards? -> Aug: What is the charge for topping up using a US-issued card?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I need an accurate exchange rate, when I make my withdrawals. -> Aug: I require a correct exchange rate for my cash withdrawals.
+GEN | [verify_source_of_funds] | Orig: where exactly does money come from -> Aug: what is the origin of the funds
+GEN | [wrong_amount_of_cash_received] | Orig: I haven't received my cash yet. -> Aug: I'm still waiting to receive the cash.
+GEN | [top_up_limits] | Orig: Is there a top-up limit that I have to stay under during a given period of time? -> Aug: Is there a maximum amount I'm allowed to top up within a specific timeframe?
+GEN | [compromised_card] | Orig: I think my card has been used by somebody else since I was never in the little town where some transactions on this bill have come from. Please stop this right away. -> Aug: I believe someone else has used my card, as I've never been to the location where some transactions on my statement are from. Please take immediate action to resolve this issue.
+GEN | [reverted_card_payment?] | Orig: How come I can't find my payment? -> Aug: Why isn't my payment showing up?
+GEN | [lost_or_stolen_phone] | Orig: What do I do if I cannot access the app? -> Aug: I'm having trouble accessing the app and need help recovering my phone.
+GEN | [transfer_not_received_by_recipient] | Orig: When are you going to transfer the money? -> Aug: When will the transfer be delivered to the recipient?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: The balance does not appear to have updated. -> Aug: The balance seems to be stuck and hasn't reflected the recent bank transfer.
+GEN | [transfer_fee_charged] | Orig: I need to know how much it costs to transfer funds. -> Aug: I'd like to inquire about the transfer fee associated with moving funds.
+GEN | [supported_cards_and_currencies] | Orig: What cards do you support -> Aug: We accept a range of payment cards
+GEN | [topping_up_by_card] | Orig: Can I get my friends to add money to my account? -> Aug: Can I have my friends use their cards to top up my account?
+GEN | [exchange_charge] | Orig: Will I get charged on a foreign currencies exchange? -> Aug: Will I be charged for exchanging foreign currencies?
+GEN | [transfer_timing] | Orig: How fast are transfers from Europe? -> Aug: What is the typical processing speed for international transfers from Europe?
+GEN | [declined_cash_withdrawal] | Orig: I tried to get funds in hard cash but it was rejected! -> Aug: I attempted to withdraw cash, but the transaction was declined.
+GEN | [disposable_card_limits] | Orig: Where can I find a list of descriptions the disposable cards have? -> Aug: What information can you provide about the disposable card limits, such as the descriptions associated with them?
+GEN | [topping_up_by_card] | Orig: I want to transfer money using my credit card. -> Aug: I'd like to add funds to my account using my credit card.
+GEN | [order_physical_card] | Orig: What fees do you charge for the standard card? -> Aug: What are the charges for a standard physical card?
+GEN | [receiving_money] | Orig: Do I need to convert my currency from GBP before transferring? -> Aug: Do I need to exchange my British pounds for another currency before making a transfer?
+GEN | [getting_virtual_card] | Orig: how many virtual cards can i have, i want 8 -> Aug: How many virtual cards can I have? I'd like to have a total of 8.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Why hasn't my cheque processed? -> Aug: Why hasn't my cash deposit been reflected in my account balance?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: It has been a couple of hours but I do not see my balance updated, can you help? -> Aug: I've been waiting for a bit, but my account balance still hasn't reflected the recent transfer, could you assist me with this issue?
+GEN | [top_up_limits] | Orig: Can I use as many top-ups as I want? -> Aug: Can I make unlimited top-ups to my account limits?
+GEN | [compromised_card] | Orig: There are fraudulent charges that I didn't make on my card. Can you please put in the safeguards necessary to stop this from happening anymore? -> Aug: I've noticed some unauthorized transactions on my card. Could you please take steps to prevent any further unauthorized activity?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: With my credit card i would like to transfer money. | Augmented: I'd like to make a payment using my credit card.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: N/A | Original: What happens if I deposit a cheque accidentally? | Augmented: What happens if I make a cash deposit or deposit a cheque by mistake?
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I didn't set up a direct debit payment on my account. | Augmented: We didn't find a direct debit payment arrangement linked to your account.
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: Why is there a random payment in my statement? | Augmented: We've noticed an unexpected payment on your statement. Can you help us understand what this payment is for?
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: N/A | Original: Someone else charged my card! | Augmented: A payment made from my account was not recognized.
+VAL | [getting_virtual_card] | ACCEPT | Reason: Both texts are asking about obtaining a virtual card and do not introduce any new or contradictory information. | Original: Do I get to have one of those virtual cards I've heard about? | Augmented: Can I obtain a virtual card, like the ones I've been told about?
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: How can I stop someone from using my card after I lost it yesterday. | Augmented: How can I prevent someone from using my card after I misplaced it yesterday?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: What do I need to do in order to get a new card? | Augmented: How can I obtain a physical card?
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: In the exchange and holding, what fiat is allowed? | Augmented: In what currencies can I exchange and hold my funds?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: N/A | Original: the balance has not changed, but I have deposited some money | Augmented: The balance remains the same, despite the recent deposit.
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: Can I change my PIN at a nearby ATM when in Spain? I think someone saw my PIN and I need to change it but am on vacation. | Augmented: Can I modify my PIN at a nearby ATM while I'm in Spain? I'm concerned someone may have observed my PIN and I'd like to update it, but I'm currently on vacation.
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: There is a payment in the app that I did not approve | Augmented: A payment has been recorded in the app that I did not authorize.
+VAL | [pending_card_payment] | ACCEPT | Reason: ... | Original: Why are my purchases from this morning still pending? | Augmented: Why are my transactions from this morning still awaiting processing?
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: How much does it cost to us US cards? | Augmented: What is the charge for topping up using a US-issued card?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | ACCEPT | Reason: N/A | Original: I need an accurate exchange rate, when I make my withdrawals. | Augmented: I require a correct exchange rate for my cash withdrawals.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: where exactly does money come from | Augmented: what is the origin of the funds
+VAL | [wrong_amount_of_cash_received] | UNKNOWN | Reason: N/A | Original: I haven't received my cash yet. | Augmented: I'm still waiting to receive the cash.
+VAL | [top_up_limits] | ACCEPT | Reason: Both texts are asking about the limits on top-ups within a certain period, which aligns with the target intent of 'top_up_limits'. The wording is changed but the core banking intent remains the same. | Original: Is there a top-up limit that I have to stay under during a given period of time? | Augmented: Is there a maximum amount I'm allowed to top up within a specific timeframe?
+VAL | [compromised_card] | ACCEPT | Reason: ... | Original: I think my card has been used by somebody else since I was never in the little town where some transactions on this bill have come from. Please stop this right away. | Augmented: I believe someone else has used my card, as I've never been to the location where some transactions on my statement are from. Please take immediate action to resolve this issue.
+VAL | [reverted_card_payment?] | ACCEPT | Reason: Both texts are essentially asking why a payment has not been recorded or recognized by the system. | Original: How come I can't find my payment? | Augmented: Why isn't my payment showing up?
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: What do I do if I cannot access the app? | Augmented: I'm having trouble accessing the app and need help recovering my phone.
+VAL | [transfer_not_received_by_recipient] | UNKNOWN | Reason: N/A | Original: When are you going to transfer the money? | Augmented: When will the transfer be delivered to the recipient?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: ... | Original: The balance does not appear to have updated. | Augmented: The balance seems to be stuck and hasn't reflected the recent bank transfer.
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: I need to know how much it costs to transfer funds. | Augmented: I'd like to inquire about the transfer fee associated with moving funds.
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: What cards do you support | Augmented: We accept a range of payment cards
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: Can I get my friends to add money to my account? | Augmented: Can I have my friends use their cards to top up my account?
+VAL | [exchange_charge] | ACCEPT | Reason: ... | Original: Will I get charged on a foreign currencies exchange? | Augmented: Will I be charged for exchanging foreign currencies?
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: How fast are transfers from Europe? | Augmented: What is the typical processing speed for international transfers from Europe?
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: ... | Original: I tried to get funds in hard cash but it was rejected! | Augmented: I attempted to withdraw cash, but the transaction was declined.
+VAL | [disposable_card_limits] | ACCEPT | Reason: N/A | Original: Where can I find a list of descriptions the disposable cards have? | Augmented: What information can you provide about the disposable card limits, such as the descriptions associated with them?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: I want to transfer money using my credit card. | Augmented: I'd like to add funds to my account using my credit card.
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: What fees do you charge for the standard card? | Augmented: What are the charges for a standard physical card?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Do I need to convert my currency from GBP before transferring? | Augmented: Do I need to exchange my British pounds for another currency before making a transfer?
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: how many virtual cards can i have, i want 8 | Augmented: How many virtual cards can I have? I'd like to have a total of 8.
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: N/A | Original: Why hasn't my cheque processed? | Augmented: Why hasn't my cash deposit been reflected in my account balance?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: ... | Original: It has been a couple of hours but I do not see my balance updated, can you help? | Augmented: I've been waiting for a bit, but my account balance still hasn't reflected the recent transfer, could you assist me with this issue?
+VAL | [top_up_limits] | ACCEPT | Reason: ... | Original: Can I use as many top-ups as I want? | Augmented: Can I make unlimited top-ups to my account limits?
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: There are fraudulent charges that I didn't make on my card. Can you please put in the safeguards necessary to stop this from happening anymore? | Augmented: I've noticed some unauthorized transactions on my card. Could you please take steps to prevent any further unauthorized activity?
+VAL_SUMMARY | ACCEPT: 36 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 2 | Accept Rate: 0.9474

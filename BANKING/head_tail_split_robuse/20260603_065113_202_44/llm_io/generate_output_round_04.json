@@ -1,0 +1,298 @@
+{
+  "generated_texts": [
+    "What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?",
+    "Hi, I need immediate assistance. Someone has made an unauthorized cash withdrawal using my card in a distant location, and I didn't authorize it. Please, can you freeze my card as soon as possible?",
+    "It's an emergency. Please cancel my card immediately. Someone in a distant location has made an unauthorized cash withdrawal using my card, and I didn't make the transaction myself.",
+    "I'd like to add funds to my card, will there be a fee involved?",
+    "My credit card's expiration date is approaching.",
+    "What should I do about my jammed ATM card?",
+    "I'm having trouble using my card to top up because the funds I loaded onto it are no longer available.",
+    "I attempted to withdraw some cash from the ATM, but the transaction is still pending. I'm concerned about being charged for this.",
+    "Can you put a hold on my card right away?",
+    "I'm concerned about the charges associated with adding funds to my card.",
+    "Please provide me with a Visa or Mastercard.",
+    "Can I know the spending limit on my disposable card?",
+    "How can I prevent my card from being swallowed by the ATM? What steps can I take to ensure it's returned safely?",
+    "My credit card is nearing its expiration date.",
+    "My credit card was compromised and unauthorized transactions were made. I need you to temporarily suspend my card to prevent further misuse.",
+    "I attempted to withdraw cash from an ATM, but the machine is malfunctioning and indicates that the transaction is still pending. Could you please verify the status of my withdrawal to ensure I'm not charged for the unsuccessful attempt?",
+    "I'm wondering if you support any other credit cards besides the one I'm using, specifically one from the United States.",
+    "What should I do since my card is stuck in the ATM?",
+    "I attempted to withdraw cash from an ATM in the city centre earlier, but the machine refused my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?",
+    "The funds I attempted to add are not showing up on my card.",
+    "If my card gets sucked into the ATM, what should I do next?",
+    "I'm reaching out about a fee that recently caught my attention on my account statement. I'm wondering why I'm being charged for cash withdrawals at an ATM. I've never noticed this fee before, and I'd appreciate it if you could clarify the reason behind it.",
+    "My top-up reversal was processed and I would like to confirm if I still need to complete the 3D Secure authentication process before resubmitting the request.",
+    "I'm concerned about an issue with my account. I deposited a cheque yesterday, but my balance hasn't been updated yet. Can you look into this and let me know why it's taking so long?",
+    "Is there a fee associated with topping up my card balance?",
+    "What is the daily spending limit on my credit card?",
+    "You have a supplementary credit card issued in the United States. Can you use it for transactions with us?",
+    "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with.",
+    "What's the reason for the extra charge showing up on my statement?",
+    "What are the charges for a standard physical card?",
+    "I'm having an issue with a recent transaction, I'm certain your bank allows cryptocurrency deposits, but I'm unable to complete the process. After adding funds to my account, the amount seems to have vanished, and I'm unsure what happened to it.",
+    "How long does it typically take for a transfer to be processed?"
+  ],
+  "generated_labels": [
+    19,
+    20,
+    20,
+    57,
+    9,
+    18,
+    62,
+    46,
+    41,
+    57,
+    73,
+    29,
+    18,
+    9,
+    22,
+    46,
+    54,
+    18,
+    46,
+    59,
+    18,
+    19,
+    61,
+    6,
+    57,
+    60,
+    54,
+    20,
+    34,
+    43,
+    61,
+    48
+  ],
+  "source_texts": [
+    "How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month.",
+    "Hi, It's urgent, please freeze my card. As someone has withdrawn money using my card in odd remote town. Since i have not done this withdrawal. Do it fast.",
+    "It is urgency. Please freeze my card now. As someone in some odd remote town has withdrawn some money by using my card. As i did not withdraw any money.",
+    "I am wanting to refill my card, is there a charge?",
+    "My card is expiring soon.",
+    "What should I do with my stuck ATM?",
+    "I wasn't able to use my top up card because the money I put on there wasn't there anymore",
+    "Hello, I tried to take out some money out of the ATM, but it's still showing that it's pending? I really don't want to be charged for this.",
+    "Could you please freeze my card immediately?",
+    "I am worried about fees for top up cards?",
+    "Please give me a Mastercard instead.",
+    "On my disposable card, is there a transaction limit?",
+    "how can the money machine keep my card what do i need to do?",
+    "My card is almost going to expire.",
+    "My card was stolen and used to make several purchases. Please freeze my card so no one can use it.",
+    "Hi, I tried to withdraw some money from an ATM and the machine was broken.  It says that the transaction is still in progress.  Can you double check to see what's happening? I don't want to be charged since I was not able to withdraw the money.",
+    "I only have one other credit card from the US. Do you accept that?",
+    "What should I do since my card is trapped in the ATM?",
+    "I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!",
+    "My money I added isn't on my card.",
+    "What should I do if the atm eats my card?",
+    "Hello, I have a question concerning an unfamiliar fee that I notice on my account. I see that you guys charge for ATM withdrawal. Never notice this fee until now. Can you please explain?",
+    "My top-up was cancelled and I am writing to ask if I need to complete the 3D Secure authentication section before I submit it.",
+    "I need my account checked because it appears there is a problem. I attempted to update my balance yesterday using cheque but it doesn't seem to have worked.  Should this not be faster than this?",
+    "Does it cost to add money to my card?",
+    "What is the daily limit on my card?",
+    "I have a second credit card from the US. Will you take it?",
+    "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+    "Why is there a pending hold on one pound on my statement?",
+    "What fees do you charge for the standard card?",
+    "I need some help, I thought you guys accepted crypto top ups?? It won't seem to let me do it. I put money in my account and now it's gone and I didn't spend it. Where did it go??",
+    "What is the average pending time for a transaction?"
+  ],
+  "records": [
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month.",
+      "generated": "What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Hi, It's urgent, please freeze my card. As someone has withdrawn money using my card in odd remote town. Since i have not done this withdrawal. Do it fast.",
+      "generated": "Hi, I need immediate assistance. Someone has made an unauthorized cash withdrawal using my card in a distant location, and I didn't authorize it. Please, can you freeze my card as soon as possible?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "It is urgency. Please freeze my card now. As someone in some odd remote town has withdrawn some money by using my card. As i did not withdraw any money.",
+      "generated": "It's an emergency. Please cancel my card immediately. Someone in a distant location has made an unauthorized cash withdrawal using my card, and I didn't make the transaction myself."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I am wanting to refill my card, is there a charge?",
+      "generated": "I'd like to add funds to my card, will there be a fee involved?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card is expiring soon.",
+      "generated": "My credit card's expiration date is approaching."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "What should I do with my stuck ATM?",
+      "generated": "What should I do about my jammed ATM card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I wasn't able to use my top up card because the money I put on there wasn't there anymore",
+      "generated": "I'm having trouble using my card to top up because the funds I loaded onto it are no longer available."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hello, I tried to take out some money out of the ATM, but it's still showing that it's pending? I really don't want to be charged for this.",
+      "generated": "I attempted to withdraw some cash from the ATM, but the transaction is still pending. I'm concerned about being charged for this."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Could you please freeze my card immediately?",
+      "generated": "Can you put a hold on my card right away?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I am worried about fees for top up cards?",
+      "generated": "I'm concerned about the charges associated with adding funds to my card."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Please give me a Mastercard instead.",
+      "generated": "Please provide me with a Visa or Mastercard."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "On my disposable card, is there a transaction limit?",
+      "generated": "Can I know the spending limit on my disposable card?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "how can the money machine keep my card what do i need to do?",
+      "generated": "How can I prevent my card from being swallowed by the ATM? What steps can I take to ensure it's returned safely?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card is almost going to expire.",
+      "generated": "My credit card is nearing its expiration date."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "My card was stolen and used to make several purchases. Please freeze my card so no one can use it.",
+      "generated": "My credit card was compromised and unauthorized transactions were made. I need you to temporarily suspend my card to prevent further misuse."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hi, I tried to withdraw some money from an ATM and the machine was broken.  It says that the transaction is still in progress.  Can you double check to see what's happening? I don't want to be charged since I was not able to withdraw the money.",
+      "generated": "I attempted to withdraw cash from an ATM, but the machine is malfunctioning and indicates that the transaction is still pending. Could you please verify the status of my withdrawal to ensure I'm not charged for the unsuccessful attempt?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I only have one other credit card from the US. Do you accept that?",
+      "generated": "I'm wondering if you support any other credit cards besides the one I'm using, specifically one from the United States."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "What should I do since my card is trapped in the ATM?",
+      "generated": "What should I do since my card is stuck in the ATM?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!",
+      "generated": "I attempted to withdraw cash from an ATM in the city centre earlier, but the machine refused my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "My money I added isn't on my card.",
+      "generated": "The funds I attempted to add are not showing up on my card."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "What should I do if the atm eats my card?",
+      "generated": "If my card gets sucked into the ATM, what should I do next?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Hello, I have a question concerning an unfamiliar fee that I notice on my account. I see that you guys charge for ATM withdrawal. Never notice this fee until now. Can you please explain?",
+      "generated": "I'm reaching out about a fee that recently caught my attention on my account statement. I'm wondering why I'm being charged for cash withdrawals at an ATM. I've never noticed this fee before, and I'd appreciate it if you could clarify the reason behind it."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "My top-up was cancelled and I am writing to ask if I need to complete the 3D Secure authentication section before I submit it.",
+      "generated": "My top-up reversal was processed and I would like to confirm if I still need to complete the 3D Secure authentication process before resubmitting the request."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I need my account checked because it appears there is a problem. I attempted to update my balance yesterday using cheque but it doesn't seem to have worked.  Should this not be faster than this?",
+      "generated": "I'm concerned about an issue with my account. I deposited a cheque yesterday, but my balance hasn't been updated yet. Can you look into this and let me know why it's taking so long?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Does it cost to add money to my card?",
+      "generated": "Is there a fee associated with topping up my card balance?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What is the daily limit on my card?",
+      "generated": "What is the daily spending limit on my credit card?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I have a second credit card from the US. Will you take it?",
+      "generated": "You have a supplementary credit card issued in the United States. Can you use it for transactions with us?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+      "generated": "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is there a pending hold on one pound on my statement?",
+      "generated": "What's the reason for the extra charge showing up on my statement?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What fees do you charge for the standard card?",
+      "generated": "What are the charges for a standard physical card?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I need some help, I thought you guys accepted crypto top ups?? It won't seem to let me do it. I put money in my account and now it's gone and I didn't spend it. Where did it go??",
+      "generated": "I'm having an issue with a recent transaction, I'm certain your bank allows cryptocurrency deposits, but I'm unable to complete the process. After adding funds to my account, the amount seems to have vanished, and I'm unsure what happened to it."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "What is the average pending time for a transaction?",
+      "generated": "How long does it typically take for a transfer to be processed?"
+    }
+  ]
+}

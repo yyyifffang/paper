@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "May I return an item for a refund instead?",
+    "Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?",
+    "Can I get a refund for specific products?",
+    "How do I obtain a virtual card, and what is its purpose?",
+    "Can I get a full refund for my purchase?",
+    "May I pay using cash or by cheque?",
+    "Can I modify my PIN while I'm away on vacation?",
+    "Can I use a bank transfer to top up my account?",
+    "Can I arrange for my salary to be deposited directly into my account?",
+    "Can I set up recurring transfers to my account during my trip?",
+    "What are the steps to initiate a refund?",
+    "How do I modify my PIN?",
+    "Can I make a bank transfer to top up my account?",
+    "I'd like to inquire about the possibility of expedited shipping for my card delivery.",
+    "How do you facilitate transfers into an account?",
+    "Can I use a Mastercard instead, or is it specifically a Visa requirement?",
+    "Can I use a cheque to make a payment?",
+    "Can I deposit my paycheck into my bank account?",
+    "How can I get my salary payment?",
+    "When can I expect a pending card payment to be processed and move to an authorized status?",
+    "where can i make a deposit by cheque",
+    "Can I receive payment through this system?",
+    "Can I initiate a return for a refund on the item?",
+    "Can I request assistance from a representative to modify my personal identification number (PIN)?",
+    "How long does it take to obtain my physical card?",
+    "At what point does the account balance need to reach before the automatic top-up feature kicks in?",
+    "How can I receive my salary payment through this channel?",
+    "I'd like to opt for a Visa, if possible?",
+    "Can I modify my PIN at a bank's location?",
+    "Can I perform a bank transfer to top up my account?",
+    "Can I get a refund?",
+    "I'd like to inquire about the process for requesting a refund.",
+    "I'd like to inquire about the process for requesting a refund.",
+    "I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?",
+    "Can I modify my PIN at a nearby bank branch?",
+    "I would prefer to settle the payment via cheque.",
+    "Can you facilitate bank transfers for top-ups?"
+  ],
+  "generated_labels": [
+    52,
+    12,
+    52,
+    40,
+    52,
+    58,
+    21,
+    56,
+    50,
+    4,
+    52,
+    21,
+    56,
+    12,
+    65,
+    73,
+    58,
+    50,
+    50,
+    45,
+    58,
+    50,
+    52,
+    21,
+    38,
+    4,
+    50,
+    73,
+    21,
+    56,
+    52,
+    52,
+    52,
+    21,
+    21,
+    58,
+    56
+  ],
+  "source_texts": [
+    "Can I exchange an item for a refund?",
+    "Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.",
+    "Are refunds allowed for certain items.",
+    "what is a virtual and how do i get one",
+    "Are purchases returnable for full refund?",
+    "Can I purchase with cash or cheque?",
+    "Can I change my PIN on holiday?",
+    "are SWIFT transfers an option?",
+    "Can my job deposit my wages directly into the account.",
+    "Can I have money transferred into my account at different intervals along my trip?",
+    "How do I begin the process of a refund?",
+    "How can I change my Rowlock ?",
+    "Can I do a SWIFT transfer?",
+    "i need to add express delivery if that's an option",
+    "What transfer methods do you accept?",
+    "Can I get a Visa or does it have to be something else.",
+    "Will a cheque suffice?",
+    "Can I transfer my payroll to the bank?",
+    "What can I use to receive my salary?",
+    "How long does it take for a purchase to go from pending to authorised?",
+    "where can i deposit a check",
+    "Can i get payed through this system?",
+    "Am I able to return an item for a refund?",
+    "Do I need to speak to a representative to change my pin?",
+    "How long does it take for me to get my pin",
+    "How low does the balance have to be before the system updates?",
+    "What do I need to do to get my salary through this?",
+    "I prefer Visa, can I get that instead?",
+    "Do I have to change my PIN at a bank?",
+    "Am I able to do a SWIFT transfer?",
+    "Do you give refunds?",
+    "Where do I go for a refund?",
+    "I want to know about your refund policy.",
+    "I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country?",
+    "Can I change my PIN at my local bank?",
+    "I would like to pay by cheque.",
+    "Do you accept SWIFT transfers?"
+  ],
+  "records": [
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Can I exchange an item for a refund?",
+      "generated": "May I return an item for a refund instead?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.",
+      "generated": "Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Are refunds allowed for certain items.",
+      "generated": "Can I get a refund for specific products?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "what is a virtual and how do i get one",
+      "generated": "How do I obtain a virtual card, and what is its purpose?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Are purchases returnable for full refund?",
+      "generated": "Can I get a full refund for my purchase?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I purchase with cash or cheque?",
+      "generated": "May I pay using cash or by cheque?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my PIN on holiday?",
+      "generated": "Can I modify my PIN while I'm away on vacation?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "are SWIFT transfers an option?",
+      "generated": "Can I use a bank transfer to top up my account?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can my job deposit my wages directly into the account.",
+      "generated": "Can I arrange for my salary to be deposited directly into my account?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I have money transferred into my account at different intervals along my trip?",
+      "generated": "Can I set up recurring transfers to my account during my trip?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "How do I begin the process of a refund?",
+      "generated": "What are the steps to initiate a refund?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "How can I change my Rowlock ?",
+      "generated": "How do I modify my PIN?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can I do a SWIFT transfer?",
+      "generated": "Can I make a bank transfer to top up my account?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i need to add express delivery if that's an option",
+      "generated": "I'd like to inquire about the possibility of expedited shipping for my card delivery."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What transfer methods do you accept?",
+      "generated": "How do you facilitate transfers into an account?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get a Visa or does it have to be something else.",
+      "generated": "Can I use a Mastercard instead, or is it specifically a Visa requirement?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Will a cheque suffice?",
+      "generated": "Can I use a cheque to make a payment?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I transfer my payroll to the bank?",
+      "generated": "Can I deposit my paycheck into my bank account?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What can I use to receive my salary?",
+      "generated": "How can I get my salary payment?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it take for a purchase to go from pending to authorised?",
+      "generated": "When can I expect a pending card payment to be processed and move to an authorized status?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "where can i deposit a check",
+      "generated": "where can i make a deposit by cheque"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can i get payed through this system?",
+      "generated": "Can I receive payment through this system?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Am I able to return an item for a refund?",
+      "generated": "Can I initiate a return for a refund on the item?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Do I need to speak to a representative to change my pin?",
+      "generated": "Can I request assistance from a representative to modify my personal identification number (PIN)?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "How long does it take for me to get my pin",
+      "generated": "How long does it take to obtain my physical card?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How low does the balance have to be before the system updates?",
+      "generated": "At what point does the account balance need to reach before the automatic top-up feature kicks in?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What do I need to do to get my salary through this?",
+      "generated": "How can I receive my salary payment through this channel?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I prefer Visa, can I get that instead?",
+      "generated": "I'd like to opt for a Visa, if possible?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Do I have to change my PIN at a bank?",
+      "generated": "Can I modify my PIN at a bank's location?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I able to do a SWIFT transfer?",
+      "generated": "Can I perform a bank transfer to top up my account?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Do you give refunds?",
+      "generated": "Can I get a refund?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Where do I go for a refund?",
+      "generated": "I'd like to inquire about the process for requesting a refund."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I want to know about your refund policy.",
+      "generated": "I'd like to inquire about the process for requesting a refund."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country?",
+      "generated": "I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my PIN at my local bank?",
+      "generated": "Can I modify my PIN at a nearby bank branch?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I would like to pay by cheque.",
+      "generated": "I would prefer to settle the payment via cheque."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do you accept SWIFT transfers?",
+      "generated": "Can you facilitate bank transfers for top-ups?"
+    }
+  ]
+}

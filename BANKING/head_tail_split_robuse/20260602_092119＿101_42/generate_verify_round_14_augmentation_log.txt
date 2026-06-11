@@ -1,0 +1,75 @@
+GEN | [card_delivery_estimate] | Orig: Can I pay more to get it deliver quicker? -> Aug: Is there an option to expedite the delivery of my card for an additional fee?
+GEN | [card_delivery_estimate] | Orig: Can I have it by a certain date? -> Aug: Can you provide an estimated delivery date for the card?
+GEN | [transfer_timing] | Orig: When will the money be made available in my account? -> Aug: When can I expect the funds to be credited to my account?
+GEN | [card_acceptance] | Orig: Can I use my card for online payments? -> Aug: Is my credit card accepted for online transactions?
+GEN | [top_up_reverted] | Orig: My top-up was cancelled and I am writing to ask if I need to complete the 3D Secure authentication section before I submit it. -> Aug: My top-up reversal was processed and I would like to confirm if I still need to complete the 3D Secure authentication process before resubmitting the request.
+GEN | [verify_source_of_funds] | Orig: Who is giving me my money? -> Aug: Who is the source of the funds being used to make this transaction?
+GEN | [supported_cards_and_currencies] | Orig: Can I electronically transfer funds into my account from my American Express? -> Aug: Can I make an electronic transfer into my account using my American Express card?
+GEN | [verify_source_of_funds] | Orig: where are the transfers originating -> Aug: what is the source of the funds being transferred
+GEN | [declined_cash_withdrawal] | Orig: I'm trying to take money from my account but its not letting me. Help! -> Aug: I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?
+GEN | [get_disposable_virtual_card] | Orig: how do the cards work? -> Aug: What's the process for obtaining a disposable virtual card?
+GEN | [transfer_not_received_by_recipient] | Orig: How can I the person see my money transaction? -> Aug: Why hasn't the recipient received my money transfer?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Is there a cost to receive money? -> Aug: Are there any fees associated with receiving a bank transfer to top up my account?
+GEN | [card_delivery_estimate] | Orig: how much to get my card in 2 days? -> Aug: Can you provide an estimate for the delivery of my card within a 2-day timeframe?
+GEN | [transfer_into_account] | Orig: Can I transfer money to my card via bank-transfer? -> Aug: Can I move funds to my card through a bank transfer?
+GEN | [Refund_not_showing_up] | Orig: Why hasn't my return cleared my account? -> Aug: Why isn't my refund showing up in my account?
+GEN | [cash_withdrawal_not_recognised] | Orig: I see cash in my app but I did not get it. -> Aug: I'm showing a cash withdrawal in my app, but it's not reflecting in my account.
+GEN | [exchange_charge] | Orig: Do I pay extra for exchange? -> Aug: Is there an additional fee for exchanging funds?
+GEN | [card_acceptance] | Orig: Is there anywhere I can't use my card? -> Aug: Are there any specific places or situations where my card won't be accepted?
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're planning to establish a savings plan for my child's future education expenses.
+GEN | [top_up_limits] | Orig: How can I information on my limit for top-ups? -> Aug: What are the details about my limit for making top-ups?
+GEN | [cash_withdrawal_charge] | Orig: How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month. -> Aug: What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?
+GEN | [card_acceptance] | Orig: Is there restrictions on where I can use my card? -> Aug: Are there any limitations on the locations where I can use my card?
+GEN | [reverted_card_payment?] | Orig: Why have I received a rebate for my payment after a week? -> Aug: Why did I get a refund for my payment after a week?
+GEN | [card_acceptance] | Orig: Are there limits as to where my card will be accepted? -> Aug: Can I use my card at any location, or are there specific places where it won't be accepted?
+GEN | [transfer_fee_charged] | Orig: I have a fee listed for a transfer. -> Aug: A charge is showing for a transfer transaction.
+GEN | [order_physical_card] | Orig: Where do you export the cards to? -> Aug: How do you receive your physical credit cards?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do I get charged if I get money? -> Aug: Will I be charged a fee when I receive a bank transfer to top up my account?
+GEN | [topping_up_by_card] | Orig: How do i set up my credit card to send transfers? -> Aug: How can I configure my credit card to facilitate card-based transactions?
+GEN | [transfer_into_account] | Orig: Can I use my bank account to send me more money? -> Aug: Can I transfer funds from my bank account to add more money to it?
+GEN | [receiving_money] | Orig: My friend wants to send me money, can she? -> Aug: Is it possible for my friend to transfer funds to me?
+GEN | [top_up_limits] | Orig: I need someone to assist me with explaining how much I can top-up. -> Aug: I require guidance on the maximum amount I can increase my limits.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Is there a charge for getting my money? -> Aug: Are there any fees associated with transferring funds to my account?
+GEN | [verify_my_identity] | Orig: im worried about fraud how do you protect my account -> Aug: I'm concerned about potential security risks. Can you confirm my identity to ensure my account is secure?
+GEN | [transfer_not_received_by_recipient] | Orig: Where is my last money transaction -> Aug: I haven't received my recent transfer.
+GEN | [order_physical_card] | Orig: do i need to add money before i order a card -> Aug: Do I need to fund my account before placing an order for a physical card?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I going to be charged for receiving  money? -> Aug: Will I be charged a fee for receiving a top-up via bank transfer?
+GEN | [receiving_money] | Orig: how do i find out about transfers -> Aug: how can I learn about incoming transactions?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: Can I pay more to get it deliver quicker? | Augmented: Is there an option to expedite the delivery of my card for an additional fee?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: Can I have it by a certain date? | Augmented: Can you provide an estimated delivery date for the card?
+VAL | [transfer_timing] | ACCEPT | Reason: Both texts are asking about the timing of a transfer and when the funds will be accessible in the recipient's account. | Original: When will the money be made available in my account? | Augmented: When can I expect the funds to be credited to my account?
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Can I use my card for online payments? | Augmented: Is my credit card accepted for online transactions?
+VAL | [top_up_reverted] | ACCEPT | Reason: N/A | Original: My top-up was cancelled and I am writing to ask if I need to complete the 3D Secure authentication section before I submit it. | Augmented: My top-up reversal was processed and I would like to confirm if I still need to complete the 3D Secure authentication process before resubmitting the request.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: Who is giving me my money? | Augmented: Who is the source of the funds being used to make this transaction?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: Can I electronically transfer funds into my account from my American Express? | Augmented: Can I make an electronic transfer into my account using my American Express card?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: ... | Original: where are the transfers originating | Augmented: what is the source of the funds being transferred
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: ... | Original: I'm trying to take money from my account but its not letting me. Help! | Augmented: I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?
+VAL | [get_disposable_virtual_card] | ACCEPT | Reason: N/A | Original: how do the cards work? | Augmented: What's the process for obtaining a disposable virtual card?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: How can I the person see my money transaction? | Augmented: Why hasn't the recipient received my money transfer?
+VAL | [top_up_by_bank_transfer_charge] | UNKNOWN | Reason: N/A | Original: Is there a cost to receive money? | Augmented: Are there any fees associated with receiving a bank transfer to top up my account?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: how much to get my card in 2 days? | Augmented: Can you provide an estimate for the delivery of my card within a 2-day timeframe?
+VAL | [transfer_into_account] | ACCEPT | Reason: N/A | Original: Can I transfer money to my card via bank-transfer? | Augmented: Can I move funds to my card through a bank transfer?
+VAL | [Refund_not_showing_up] | ACCEPT | Reason: ... | Original: Why hasn't my return cleared my account? | Augmented: Why isn't my refund showing up in my account?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: The augmented text maintains the core issue of a cash withdrawal being recognized in the app but not reflected in the account, which is consistent with the original intent. | Original: I see cash in my app but I did not get it. | Augmented: I'm showing a cash withdrawal in my app, but it's not reflecting in my account.
+VAL | [exchange_charge] | ACCEPT | Reason: ... | Original: Do I pay extra for exchange? | Augmented: Is there an additional fee for exchanging funds?
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Is there anywhere I can't use my card? | Augmented: Are there any specific places or situations where my card won't be accepted?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: We want to start a college fund for my daughter. | Augmented: We're planning to establish a savings plan for my child's future education expenses.
+VAL | [top_up_limits] | ACCEPT | Reason: Both texts are asking for information about the top-up limit, preserving the intent of getting details about the top-up limits. | Original: How can I information on my limit for top-ups? | Augmented: What are the details about my limit for making top-ups?
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: N/A | Original: How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month. | Augmented: What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Is there restrictions on where I can use my card? | Augmented: Are there any limitations on the locations where I can use my card?
+VAL | [reverted_card_payment?] | ACCEPT | Reason: ... | Original: Why have I received a rebate for my payment after a week? | Augmented: Why did I get a refund for my payment after a week?
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Are there limits as to where my card will be accepted? | Augmented: Can I use my card at any location, or are there specific places where it won't be accepted?
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: I have a fee listed for a transfer. | Augmented: A charge is showing for a transfer transaction.
+VAL | [order_physical_card] | UNKNOWN | Reason: N/A | Original: Where do you export the cards to? | Augmented: How do you receive your physical credit cards?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: Do I get charged if I get money? | Augmented: Will I be charged a fee when I receive a bank transfer to top up my account?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: How do i set up my credit card to send transfers? | Augmented: How can I configure my credit card to facilitate card-based transactions?
+VAL | [transfer_into_account] | ACCEPT | Reason: N/A | Original: Can I use my bank account to send me more money? | Augmented: Can I transfer funds from my bank account to add more money to it?
+VAL | [receiving_money] | ACCEPT | Reason: ... | Original: My friend wants to send me money, can she? | Augmented: Is it possible for my friend to transfer funds to me?
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: I need someone to assist me with explaining how much I can top-up. | Augmented: I require guidance on the maximum amount I can increase my limits.
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: Is there a charge for getting my money? | Augmented: Are there any fees associated with transferring funds to my account?
+VAL | [verify_my_identity] | ACCEPT | Reason: The augmented text maintains the core request for identity verification to ensure account security, which is consistent with the original intent. | Original: im worried about fraud how do you protect my account | Augmented: I'm concerned about potential security risks. Can you confirm my identity to ensure my account is secure?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: Where is my last money transaction | Augmented: I haven't received my recent transfer.
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: do i need to add money before i order a card | Augmented: Do I need to fund my account before placing an order for a physical card?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: Am I going to be charged for receiving  money? | Augmented: Will I be charged a fee for receiving a top-up via bank transfer?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: how do i find out about transfers | Augmented: how can I learn about incoming transactions?
+VAL_SUMMARY | ACCEPT: 35 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 2 | Accept Rate: 0.9459

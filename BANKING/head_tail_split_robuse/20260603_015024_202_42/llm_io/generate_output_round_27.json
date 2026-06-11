@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?",
+    "What are the steps to obtain my physical card?",
+    "I'm trying to stop a direct debit payment that was made from my account.",
+    "I believe I've been incorrectly billed for a transfer fee.",
+    "Can my spouse create an account and deposit funds?",
+    "I recently made a transfer, but the recipient's account was credited with a lower amount than expected. I've since made an additional transfer to cover the difference. Could you please investigate this discrepancy?",
+    "I'm still waiting to see the refund from a recent transaction with a merchant. Can you check if it's been credited to my account yet?",
+    "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP.",
+    "A fee has been added to your statement.",
+    "What's the process for exchanging foreign currencies for cash transfers?",
+    "Must I include my income?",
+    "how can I charge my card to add funds?",
+    "I've reviewed my account information to confirm everything is accurate, and I'm still waiting for a pending transfer to process.",
+    "How do I reactivate my new credit card?",
+    "I'd like to reactivate my card, as I previously reported it lost, but I've since found it.",
+    "Require an update to my personal information, specifically my address.",
+    "Are there any fees associated with receiving a bank transfer to top up my account?",
+    "which locations do you have in your country?",
+    "My statement has a pending charge for £1 that I don't recognize. Can you help me understand what this transaction is about?",
+    "Why is my cash withdrawal pending and not showing up?",
+    "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?",
+    "I'd like to request a reversal of this fee from my account.",
+    "What methods are available for transferring funds from my American Express card?",
+    "What kind of payment card will I be issued?",
+    "I recently made a purchase, but there's a problem. I received one item, but the payment was reversed and the amount was credited back to my account. What's going on?",
+    "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well.",
+    "Will I be charged a fee for receiving a top-up via bank transfer?",
+    "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place.",
+    "Can I arrange for a card to be delivered to China?",
+    "I made a domestic transfer a few days ago, but the recipient hasn't received it yet. Could you look into this and let me know what's causing the delay, as I've double-checked the account number to ensure it's correct.",
+    "Why do I need to confirm the top-up?",
+    "Can I initiate transactions before completing the identity verification process?",
+    "Can I still access the app without my phone?",
+    "I'm expecting my transfer to be received by the recipient.",
+    "I'd like to report an issue with an unauthorized payment. I've reviewed my account activity and noticed some transactions that I'm not familiar with. Can you look into this and help me recover the funds?",
+    "Can I use a different currency when making a payment with a card, or do I need to use euros?",
+    "Where can I use my card?",
+    "May I assist you in reactivating your card?"
+  ],
+  "generated_labels": [
+    46,
+    38,
+    28,
+    64,
+    50,
+    64,
+    51,
+    20,
+    34,
+    32,
+    50,
+    57,
+    48,
+    0,
+    13,
+    30,
+    56,
+    24,
+    34,
+    46,
+    40,
+    52,
+    54,
+    73,
+    53,
+    41,
+    56,
+    76,
+    9,
+    66,
+    71,
+    74,
+    42,
+    66,
+    16,
+    54,
+    10,
+    13
+  ],
+  "source_texts": [
+    "Why is the app showing a still pending message on a withdraw that has already been done?",
+    "How do I get started when I get my card?",
+    "I need to cancel a transaction on my debit card.",
+    "I think I have an extra transfer charge.",
+    "can my husband open an account and transfer money",
+    "Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+    "Are the funds I requested from a merchant a few days ago in my account? I do not see them.",
+    "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+    "$1 charge in transaction.",
+    "If I need to cash foreign transfers, how does that work?",
+    "Do I need to add my salary?",
+    "how should i add money to my card",
+    "Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet.",
+    "Tell me how to renew my new card?",
+    "I would like to re-activate my card, it was previously reported  lost but I found it this morning.",
+    "Need to report a change of address.",
+    "Is there a cost to receive money?",
+    "where do you have locations at",
+    "My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about.",
+    "How do I get my cash withdrawal to show?",
+    "I haven't received my virtual card yet, do yo know why?",
+    "I want this fee reversed from my account.",
+    "how can i transfer money from american express card",
+    "What type of card will I receive?",
+    "Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?",
+    "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+    "Am I going to be charged for receiving  money?",
+    "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+    "Am I able to have a card sent to China?",
+    "I have done a transfer within the country a couple days ago, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that several times already.",
+    "For what reason must I authenticate the top up?",
+    "Can I make transfers before my identity verification?",
+    "Do I need my phone to use the app?",
+    "I'm waiting for my transaction to complete.",
+    "I need to freeze my card as soon as possible. I just checked my account and saw that there have been several payments that I don't recognize over the course of a few days. Can we investigate and get my money back?",
+    "Do I have to top up in euros if I use a card, or can I use a different currency?",
+    "How do I know where I can use my card?",
+    "Can you please reactivate my card?"
+  ],
+  "records": [
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why is the app showing a still pending message on a withdraw that has already been done?",
+      "generated": "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "How do I get started when I get my card?",
+      "generated": "What are the steps to obtain my physical card?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I need to cancel a transaction on my debit card.",
+      "generated": "I'm trying to stop a direct debit payment that was made from my account."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I think I have an extra transfer charge.",
+      "generated": "I believe I've been incorrectly billed for a transfer fee."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "can my husband open an account and transfer money",
+      "generated": "Can my spouse create an account and deposit funds?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+      "generated": "I recently made a transfer, but the recipient's account was credited with a lower amount than expected. I've since made an additional transfer to cover the difference. Could you please investigate this discrepancy?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Are the funds I requested from a merchant a few days ago in my account? I do not see them.",
+      "generated": "I'm still waiting to see the refund from a recent transaction with a merchant. Can you check if it's been credited to my account yet?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+      "generated": "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "$1 charge in transaction.",
+      "generated": "A fee has been added to your statement."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "If I need to cash foreign transfers, how does that work?",
+      "generated": "What's the process for exchanging foreign currencies for cash transfers?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do I need to add my salary?",
+      "generated": "Must I include my income?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how should i add money to my card",
+      "generated": "how can I charge my card to add funds?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet.",
+      "generated": "I've reviewed my account information to confirm everything is accurate, and I'm still waiting for a pending transfer to process."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Tell me how to renew my new card?",
+      "generated": "How do I reactivate my new credit card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I would like to re-activate my card, it was previously reported  lost but I found it this morning.",
+      "generated": "I'd like to reactivate my card, as I previously reported it lost, but I've since found it."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Need to report a change of address.",
+      "generated": "Require an update to my personal information, specifically my address."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a cost to receive money?",
+      "generated": "Are there any fees associated with receiving a bank transfer to top up my account?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "where do you have locations at",
+      "generated": "which locations do you have in your country?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about.",
+      "generated": "My statement has a pending charge for £1 that I don't recognize. Can you help me understand what this transaction is about?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How do I get my cash withdrawal to show?",
+      "generated": "Why is my cash withdrawal pending and not showing up?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I haven't received my virtual card yet, do yo know why?",
+      "generated": "I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I want this fee reversed from my account.",
+      "generated": "I'd like to request a reversal of this fee from my account."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "how can i transfer money from american express card",
+      "generated": "What methods are available for transferring funds from my American Express card?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "What type of card will I receive?",
+      "generated": "What kind of payment card will I be issued?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?",
+      "generated": "I recently made a purchase, but there's a problem. I received one item, but the payment was reversed and the amount was credited back to my account. What's going on?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+      "generated": "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I going to be charged for receiving  money?",
+      "generated": "Will I be charged a fee for receiving a top-up via bank transfer?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it.",
+      "generated": "I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Am I able to have a card sent to China?",
+      "generated": "Can I arrange for a card to be delivered to China?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I have done a transfer within the country a couple days ago, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that several times already.",
+      "generated": "I made a domestic transfer a few days ago, but the recipient hasn't received it yet. Could you look into this and let me know what's causing the delay, as I've double-checked the account number to ensure it's correct."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "For what reason must I authenticate the top up?",
+      "generated": "Why do I need to confirm the top-up?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can I make transfers before my identity verification?",
+      "generated": "Can I initiate transactions before completing the identity verification process?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Do I need my phone to use the app?",
+      "generated": "Can I still access the app without my phone?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I'm waiting for my transaction to complete.",
+      "generated": "I'm expecting my transfer to be received by the recipient."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to freeze my card as soon as possible. I just checked my account and saw that there have been several payments that I don't recognize over the course of a few days. Can we investigate and get my money back?",
+      "generated": "I'd like to report an issue with an unauthorized payment. I've reviewed my account activity and noticed some transactions that I'm not familiar with. Can you look into this and help me recover the funds?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do I have to top up in euros if I use a card, or can I use a different currency?",
+      "generated": "Can I use a different currency when making a payment with a card, or do I need to use euros?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "How do I know where I can use my card?",
+      "generated": "Where can I use my card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can you please reactivate my card?",
+      "generated": "May I assist you in reactivating your card?"
+    }
+  ]
+}

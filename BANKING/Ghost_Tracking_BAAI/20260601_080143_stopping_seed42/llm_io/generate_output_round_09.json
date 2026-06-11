@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I'm having trouble linking one of my cards to my account.",
+    "What details do I need to provide to complete a card-based transfer?",
+    "What steps should my friend take to transfer funds to my account?",
+    "How do I convert my funds from British Pounds (GBP) to Australian Dollars (AUD) using the app?",
+    "What is the fee for a bank transfer using the Single Euro Payments Area (SEPA) system?",
+    "What is the fee for topping up my account using a bank transfer via SEPA?",
+    "I'm looking to convert my AUD to GBP through the app, can you guide me on the process?",
+    "Can you confirm the origin of the funds in my account before I check my balance?",
+    "Is there a charge for topping up my account via bank transfer?",
+    "If I already have a credit card account with your bank, how do I go about linking it to my profile?",
+    "What steps can I take to remove the block on my card?",
+    "Why can't I use my American Express card to fund my account?",
+    "Can I use international bank transfers to top up my account?",
+    "How can I add funds to my account using my card?",
+    "I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process?",
+    "what's the purpose of verifying my identity",
+    "How can my boss deposit funds directly to my card?",
+    "Might I request a card, as I am a resident of the European Union?",
+    "What is the charge for receiving a bank transfer via SEPA?",
+    "Can I use a bank transfer to top up my account?",
+    "Is my credit card accepted for online transactions?",
+    "Can I make a bank transfer to top up my account?",
+    "May I pay using cash or by cheque?",
+    "Can I make a currency exchange using this mobile app?",
+    "I'm having trouble converting my GBP to AUD, can you help me with that?",
+    "The transfer I attempted did not go through.",
+    "Can I deposit funds into my account if you don't accept cash?",
+    "Will there be a charge if I top up my account via bank transfer?",
+    "Can I make an exchange using the app?",
+    "How do I confirm my card details for a top-up?",
+    "Are there any charges associated with a bank transfer for topping up my account?",
+    "I'm a resident of the European Union. Can I obtain one of your credit cards?",
+    "How can I get my payroll deposited into my account?",
+    "Could you please reactivate my card, as I initially misplaced it but have since located it in my jacket pocket?",
+    "I've just got a new card and I'm having trouble topping it up. I attempted to add funds about half an hour ago, but the transaction is still pending. Can you help me resolve this issue?",
+    "Can I make an electronic transfer into my account using my American Express card?",
+    "Is the type of credit card I use significant?"
+  ],
+  "generated_labels": [
+    13,
+    62,
+    50,
+    33,
+    56,
+    56,
+    33,
+    70,
+    56,
+    13,
+    49,
+    54,
+    56,
+    62,
+    33,
+    69,
+    50,
+    24,
+    56,
+    56,
+    10,
+    56,
+    58,
+    33,
+    33,
+    35,
+    58,
+    56,
+    33,
+    71,
+    56,
+    24,
+    50,
+    13,
+    47,
+    54,
+    73
+  ],
+  "source_texts": [
+    "I have one of your cards, but I don't know how to link it.",
+    "What information am I going to have to have in order to do a transfer with my card?",
+    "Do I need to do anything special for my friend to send money to my account?",
+    "What's the process of changing from GBP to AUD?",
+    "How much will it cost me for a SEPA transfer?",
+    "How much will it be in order to pay with a bank transfer using SEPA?",
+    "I am trying to exchange AUD for GBP, how do I do that?",
+    "Is there a way for me to check my balance?",
+    "Are there fees for receiving a SEPA transfer?",
+    "If I have a credit card with you how I get set up to link to it?",
+    "How do I take a block off my card?",
+    "why don't you accept american express for adding money to my account",
+    "Would I be able to use SWIFT transfers?",
+    "My friends would like to add to my account. What is the procedure?",
+    "I'm having difficulties changing AUD for GBP. How do I do this?",
+    "why do I need to show ID",
+    "How can my boss pay me directly to the card?",
+    "May I get one of your cards?  I live in the EU.",
+    "What does it cost to receive a SEPA transfer?",
+    "are SWIFT transfers an option?",
+    "Can I use my card for online payments?",
+    "Can I Transfer from SWIFT?",
+    "Can I purchase with cash or cheque?",
+    "Can I use this app to change money?",
+    "I can't figure out how to change GBP to AUD, what do I do?",
+    "The transger I tried to make failed.",
+    "how can i add money to my account if you don't accept cash",
+    "Will there be a fee if I receive a SEPA transfer",
+    "Can this convert money?",
+    "What is the verification process for my card?",
+    "Is there a fee for a SEPA transfer",
+    "I'm in the EU. Can I get one of your cards?",
+    "What do I need to do to receive my payroll in the account?",
+    "Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket.",
+    "I have a new card and I can't add money to it.  I tried about 30 minutes ago and it is still pending.  What do I do?",
+    "Can I electronically transfer funds into my account from my American Express?",
+    "Does it matter which card I use"
+  ],
+  "records": [
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I have one of your cards, but I don't know how to link it.",
+      "generated": "I'm having trouble linking one of my cards to my account."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What information am I going to have to have in order to do a transfer with my card?",
+      "generated": "What details do I need to provide to complete a card-based transfer?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do I need to do anything special for my friend to send money to my account?",
+      "generated": "What steps should my friend take to transfer funds to my account?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "What's the process of changing from GBP to AUD?",
+      "generated": "How do I convert my funds from British Pounds (GBP) to Australian Dollars (AUD) using the app?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much will it cost me for a SEPA transfer?",
+      "generated": "What is the fee for a bank transfer using the Single Euro Payments Area (SEPA) system?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much will it be in order to pay with a bank transfer using SEPA?",
+      "generated": "What is the fee for topping up my account using a bank transfer via SEPA?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I am trying to exchange AUD for GBP, how do I do that?",
+      "generated": "I'm looking to convert my AUD to GBP through the app, can you guide me on the process?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Is there a way for me to check my balance?",
+      "generated": "Can you confirm the origin of the funds in my account before I check my balance?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are there fees for receiving a SEPA transfer?",
+      "generated": "Is there a charge for topping up my account via bank transfer?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "If I have a credit card with you how I get set up to link to it?",
+      "generated": "If I already have a credit card account with your bank, how do I go about linking it to my profile?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I take a block off my card?",
+      "generated": "What steps can I take to remove the block on my card?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why don't you accept american express for adding money to my account",
+      "generated": "Why can't I use my American Express card to fund my account?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Would I be able to use SWIFT transfers?",
+      "generated": "Can I use international bank transfers to top up my account?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My friends would like to add to my account. What is the procedure?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I'm having difficulties changing AUD for GBP. How do I do this?",
+      "generated": "I'm having trouble exchanging Australian dollars for British pounds. Can you guide me through the process?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "why do I need to show ID",
+      "generated": "what's the purpose of verifying my identity"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can my boss pay me directly to the card?",
+      "generated": "How can my boss deposit funds directly to my card?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "May I get one of your cards?  I live in the EU.",
+      "generated": "Might I request a card, as I am a resident of the European Union?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "What does it cost to receive a SEPA transfer?",
+      "generated": "What is the charge for receiving a bank transfer via SEPA?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "are SWIFT transfers an option?",
+      "generated": "Can I use a bank transfer to top up my account?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I use my card for online payments?",
+      "generated": "Is my credit card accepted for online transactions?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can I Transfer from SWIFT?",
+      "generated": "Can I make a bank transfer to top up my account?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I purchase with cash or cheque?",
+      "generated": "May I pay using cash or by cheque?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app to change money?",
+      "generated": "Can I make a currency exchange using this mobile app?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I can't figure out how to change GBP to AUD, what do I do?",
+      "generated": "I'm having trouble converting my GBP to AUD, can you help me with that?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "The transger I tried to make failed.",
+      "generated": "The transfer I attempted did not go through."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how can i add money to my account if you don't accept cash",
+      "generated": "Can I deposit funds into my account if you don't accept cash?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will there be a fee if I receive a SEPA transfer",
+      "generated": "Will there be a charge if I top up my account via bank transfer?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can this convert money?",
+      "generated": "Can I make an exchange using the app?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What is the verification process for my card?",
+      "generated": "How do I confirm my card details for a top-up?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a fee for a SEPA transfer",
+      "generated": "Are there any charges associated with a bank transfer for topping up my account?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I'm in the EU. Can I get one of your cards?",
+      "generated": "I'm a resident of the European Union. Can I obtain one of your credit cards?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What do I need to do to receive my payroll in the account?",
+      "generated": "How can I get my payroll deposited into my account?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket.",
+      "generated": "Could you please reactivate my card, as I initially misplaced it but have since located it in my jacket pocket?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I have a new card and I can't add money to it.  I tried about 30 minutes ago and it is still pending.  What do I do?",
+      "generated": "I've just got a new card and I'm having trouble topping it up. I attempted to add funds about half an hour ago, but the transaction is still pending. Can you help me resolve this issue?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can I electronically transfer funds into my account from my American Express?",
+      "generated": "Can I make an electronic transfer into my account using my American Express card?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Does it matter which card I use",
+      "generated": "Is the type of credit card I use significant?"
+    }
+  ]
+}

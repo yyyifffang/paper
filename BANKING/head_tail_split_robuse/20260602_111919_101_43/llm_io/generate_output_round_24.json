@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "The refund for my card is missing from my latest statement.",
+    "I've been attempting to process a payment, but it's consistently being rejected.",
+    "Is my credit card being rejected anywhere?",
+    "Could you walk me through the process of transferring funds into an account?",
+    "How long does it typically take to process a pending cash withdrawal request?",
+    "I'm trying to figure out where this payment is coming from.",
+    "What steps can I take to reactivate my blocked card?",
+    "I'm trying to complete a transaction to secure a new property and require the funds for my initial mortgage payment. However, I'm encountering an issue and receiving an error message. Could you investigate the cause and assist me in resolving the transfer problem?",
+    "I misplaced my card and require a replacement.",
+    "Why hasn't the recipient received my money transfer?",
+    "Will I be charged a fee when I top up my account using a bank transfer?",
+    "My PIN has been blocked, what's the process to unblock it?",
+    "What's the reason for the fee deducted from my account for the recent transfer?",
+    "I got my new card, can you help me link it to my account so I can use it in the app?",
+    "When can I expect my funds to be deposited into my account?",
+    "When can I expect the pending cash withdrawal to be processed?",
+    "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?",
+    "I made a purchase recently, but the payment is still pending. Can you help me understand why it's not showing as processed yet?",
+    "My physical card has not been delivered. Can I request a new one or cancel the existing order?",
+    "I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?",
+    "What is the fee for receiving funds via bank transfer?",
+    "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?",
+    "What is the timing for transferring funds to China?",
+    "I'm having trouble finishing the activation process for my card.",
+    "I didn't receive the correct amount of cash.",
+    "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?",
+    "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?",
+    "I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts.",
+    "Can my spouse create an account and deposit funds?",
+    "I'd like to understand the fees associated with making a payment using a European card for a top-up transaction.",
+    "To facilitate a transfer, could you please provide me with your bank account information?",
+    "I'd like to understand the process of moving funds into my account.",
+    "I'm still waiting for the outcome of a pending card payment. Could you please inform me about the expected timeframe for its completion?",
+    "I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?",
+    "Can I move some money from another account into my current account?",
+    "I'd like to terminate my recent purchase and initiate a refund process.",
+    "looking to replace my expiring card, what are the associated fees?",
+    "Is my card still active? It's not functioning properly."
+  ],
+  "generated_labels": [
+    51,
+    25,
+    10,
+    65,
+    46,
+    16,
+    49,
+    35,
+    41,
+    66,
+    56,
+    49,
+    64,
+    13,
+    67,
+    46,
+    6,
+    45,
+    38,
+    21,
+    56,
+    46,
+    67,
+    0,
+    75,
+    2,
+    27,
+    7,
+    50,
+    57,
+    65,
+    65,
+    45,
+    33,
+    65,
+    52,
+    9,
+    14
+  ],
+  "source_texts": [
+    "Card refund is not showing up in my statement.",
+    "I keep trying to make a payment, but it doesn't work.",
+    "Is my card denied anywhere?",
+    "Can you please explain the topping up transfer process?",
+    "How long does it take to verify a cash withdraw?",
+    "I need to know where this charge is coming from?",
+    "How do I unblock my card?",
+    "I need to know what is going on. I'm attempting to purchase a flat and need the money to pay on my initial mortgage payment. I'm only getting an error. Can you find out what's going on and help in making the transfer?",
+    "I lost my card n need a new one.",
+    "How can I the person see my money transaction?",
+    "Will there be a charge when money is added to my account?",
+    "My card got blocked, how do I reset?",
+    "Why was money taken for a transfer?",
+    "I received my card, how do I get it to work in the app?",
+    "When will my money be in my account?",
+    "Do you know when the withdrawal will show?",
+    "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+    "I purchases several items today. Why are they still showing pending?",
+    "my pin hasn't arrived in the post! How do I cancel it or get a new one?",
+    "I can't freeze my account as I need the card as I am traveling, how do I change my pin?",
+    "How much is it to receive money?",
+    "Why is the app showing a still pending message on a withdraw that has already been done?",
+    "How quickly can I transfer something to China?",
+    "I couldn't complete card activation.",
+    "I couldn't get the money I needed.",
+    "I seem to be having trouble with my Google Pay Top. Can you please help?",
+    "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+    "I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages.",
+    "can my husband open an account and transfer money",
+    "I need to know what charges I will incur for using a European card for top up.",
+    "What are my bank details so I can do a transfer?",
+    "I'd like to know how transferring my money into my account works.",
+    "Hi, status of one of my card payment is still pending from a while. Please let e know how much time it will take to complete.",
+    "I may no longer need GBP, but instead I will need AUD, how can I go about making this change?",
+    "Help! My account doesn't show any funds. Is transferring funds an option I can use?",
+    "Canceling my order is what I need to do right now.",
+    "want a new card what are the fees",
+    "Did you deactivate my card it's not working anymore"
+  ],
+  "records": [
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Card refund is not showing up in my statement.",
+      "generated": "The refund for my card is missing from my latest statement."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I keep trying to make a payment, but it doesn't work.",
+      "generated": "I've been attempting to process a payment, but it's consistently being rejected."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is my card denied anywhere?",
+      "generated": "Is my credit card being rejected anywhere?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can you please explain the topping up transfer process?",
+      "generated": "Could you walk me through the process of transferring funds into an account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How long does it take to verify a cash withdraw?",
+      "generated": "How long does it typically take to process a pending cash withdrawal request?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to know where this charge is coming from?",
+      "generated": "I'm trying to figure out where this payment is coming from."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I unblock my card?",
+      "generated": "What steps can I take to reactivate my blocked card?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I need to know what is going on. I'm attempting to purchase a flat and need the money to pay on my initial mortgage payment. I'm only getting an error. Can you find out what's going on and help in making the transfer?",
+      "generated": "I'm trying to complete a transaction to secure a new property and require the funds for my initial mortgage payment. However, I'm encountering an issue and receiving an error message. Could you investigate the cause and assist me in resolving the transfer problem?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I lost my card n need a new one.",
+      "generated": "I misplaced my card and require a replacement."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How can I the person see my money transaction?",
+      "generated": "Why hasn't the recipient received my money transfer?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will there be a charge when money is added to my account?",
+      "generated": "Will I be charged a fee when I top up my account using a bank transfer?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "My card got blocked, how do I reset?",
+      "generated": "My PIN has been blocked, what's the process to unblock it?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Why was money taken for a transfer?",
+      "generated": "What's the reason for the fee deducted from my account for the recent transfer?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I received my card, how do I get it to work in the app?",
+      "generated": "I got my new card, can you help me link it to my account so I can use it in the app?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will my money be in my account?",
+      "generated": "When can I expect my funds to be deposited into my account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Do you know when the withdrawal will show?",
+      "generated": "When can I expect the pending cash withdrawal to be processed?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+      "generated": "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I purchases several items today. Why are they still showing pending?",
+      "generated": "I made a purchase recently, but the payment is still pending. Can you help me understand why it's not showing as processed yet?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "my pin hasn't arrived in the post! How do I cancel it or get a new one?",
+      "generated": "My physical card has not been delivered. Can I request a new one or cancel the existing order?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I can't freeze my account as I need the card as I am traveling, how do I change my pin?",
+      "generated": "I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much is it to receive money?",
+      "generated": "What is the fee for receiving funds via bank transfer?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why is the app showing a still pending message on a withdraw that has already been done?",
+      "generated": "Why is the app still displaying a pending status for a cash withdrawal that was completed earlier?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How quickly can I transfer something to China?",
+      "generated": "What is the timing for transferring funds to China?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I couldn't complete card activation.",
+      "generated": "I'm having trouble finishing the activation process for my card."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I couldn't get the money I needed.",
+      "generated": "I didn't receive the correct amount of cash."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I seem to be having trouble with my Google Pay Top. Can you please help?",
+      "generated": "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+      "generated": "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages.",
+      "generated": "I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "can my husband open an account and transfer money",
+      "generated": "Can my spouse create an account and deposit funds?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I need to know what charges I will incur for using a European card for top up.",
+      "generated": "I'd like to understand the fees associated with making a payment using a European card for a top-up transaction."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are my bank details so I can do a transfer?",
+      "generated": "To facilitate a transfer, could you please provide me with your bank account information?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I'd like to know how transferring my money into my account works.",
+      "generated": "I'd like to understand the process of moving funds into my account."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Hi, status of one of my card payment is still pending from a while. Please let e know how much time it will take to complete.",
+      "generated": "I'm still waiting for the outcome of a pending card payment. Could you please inform me about the expected timeframe for its completion?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I may no longer need GBP, but instead I will need AUD, how can I go about making this change?",
+      "generated": "I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Help! My account doesn't show any funds. Is transferring funds an option I can use?",
+      "generated": "Can I move some money from another account into my current account?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Canceling my order is what I need to do right now.",
+      "generated": "I'd like to terminate my recent purchase and initiate a refund process."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "want a new card what are the fees",
+      "generated": "looking to replace my expiring card, what are the associated fees?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Did you deactivate my card it's not working anymore",
+      "generated": "Is my card still active? It's not functioning properly."
+    }
+  ]
+}

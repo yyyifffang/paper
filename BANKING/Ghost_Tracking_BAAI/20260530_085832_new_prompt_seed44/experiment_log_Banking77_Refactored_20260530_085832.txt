@@ -1,0 +1,925 @@
+Logging started: /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/experiment_log_Banking77_Refactored_20260530_085832.txt
+Loading dataset: PolyAI/banking77 (Simulated Long-Tail)
+
+=== Encoding with BAAI/bge-large-en-v1.5 ===
+
+=== Dataset Partition Summary ===
+Random seed: 44
+Head classes (0-9): 10 classes x 15 seed samples
+Tail classes (10-76): 67 classes x 2 seed samples
+Seed set size: 284
+Unlabeled pool size: 8179
+Test set size: 1540
+=================================
+
+
+=== Cost Configuration ===
+CostConfig(human_label_unit_cost=1.0, llm_generate_unit_cost=0.03, llm_verify_unit_cost=0.03, synthetic_processing_unit_cost=0.005, tail_weight_beta=0.35, lambda_base=0.2, lambda_growth_alpha=2.0, cost_budget=1844)
+==========================
+
+
+============================================================
+PASSIVE LEARNING EXPERIMENT (Random)
+============================================================
+
+--- Iteration 1 ---
+Test - F1: 0.0320, Accuracy: 0.1279
+
+--- Iteration 2 ---
+Test - F1: 0.0450, Accuracy: 0.1370
+
+--- Iteration 3 ---
+Test - F1: 0.0526, Accuracy: 0.1409
+
+--- Iteration 4 ---
+Test - F1: 0.0986, Accuracy: 0.1799
+
+--- Iteration 5 ---
+Test - F1: 0.0945, Accuracy: 0.1903
+
+--- Iteration 6 ---
+Test - F1: 0.1656, Accuracy: 0.2565
+
+--- Iteration 7 ---
+Test - F1: 0.1991, Accuracy: 0.2922
+
+--- Iteration 8 ---
+Test - F1: 0.2522, Accuracy: 0.3383
+
+--- Iteration 9 ---
+Test - F1: 0.2685, Accuracy: 0.3526
+
+--- Iteration 10 ---
+Test - F1: 0.2991, Accuracy: 0.3851
+
+--- Iteration 11 ---
+Test - F1: 0.3301, Accuracy: 0.4143
+
+--- Iteration 12 ---
+Test - F1: 0.3619, Accuracy: 0.4377
+
+--- Iteration 13 ---
+Test - F1: 0.3864, Accuracy: 0.4675
+
+--- Iteration 14 ---
+Test - F1: 0.3941, Accuracy: 0.4773
+
+--- Iteration 15 ---
+Test - F1: 0.4211, Accuracy: 0.5052
+
+--- Iteration 16 ---
+Test - F1: 0.4480, Accuracy: 0.5253
+
+--- Iteration 17 ---
+Test - F1: 0.4894, Accuracy: 0.5617
+
+--- Iteration 18 ---
+Test - F1: 0.5076, Accuracy: 0.5792
+
+--- Iteration 19 ---
+Test - F1: 0.5110, Accuracy: 0.5818
+
+--- Iteration 20 ---
+Test - F1: 0.5498, Accuracy: 0.6123
+
+--- Iteration 21 ---
+Test - F1: 0.5627, Accuracy: 0.6214
+
+--- Iteration 22 ---
+Test - F1: 0.5898, Accuracy: 0.6435
+
+--- Iteration 23 ---
+Test - F1: 0.6069, Accuracy: 0.6617
+
+--- Iteration 24 ---
+Test - F1: 0.6161, Accuracy: 0.6708
+
+--- Iteration 25 ---
+Test - F1: 0.6210, Accuracy: 0.6760
+
+--- Iteration 26 ---
+Test - F1: 0.6363, Accuracy: 0.6851
+
+--- Iteration 27 ---
+Test - F1: 0.6569, Accuracy: 0.7006
+
+--- Iteration 28 ---
+Test - F1: 0.6713, Accuracy: 0.7117
+
+[Stopping Auto-Triggered by ROI]
+  Reason: No meaningful utility improvement in the last 5 iterations.
+  Best previous utility: 0.333920
+  Recent utility: [0.32696, 0.31374, 0.312651, 0.316793, 0.313878]
+  min_delta: 0.002
+*** [Ghost Tracking] ROI stopping triggered at Iteration 28. Continuing to max iterations. ***
+
+--- Iteration 29 ---
+Test - F1: 0.6771, Accuracy: 0.7188
+
+--- Iteration 30 ---
+Test - F1: 0.6785, Accuracy: 0.7208
+
+--- Iteration 31 ---
+Test - F1: 0.6942, Accuracy: 0.7338
+
+--- Iteration 32 ---
+Test - F1: 0.6980, Accuracy: 0.7370
+
+--- Iteration 33 ---
+Test - F1: 0.7126, Accuracy: 0.7494
+
+--- Iteration 34 ---
+Test - F1: 0.7130, Accuracy: 0.7500
+
+--- Iteration 35 ---
+Test - F1: 0.7202, Accuracy: 0.7552
+
+--- Iteration 36 ---
+Test - F1: 0.7225, Accuracy: 0.7565
+
+--- Iteration 37 ---
+Test - F1: 0.7265, Accuracy: 0.7584
+
+--- Iteration 38 ---
+Test - F1: 0.7360, Accuracy: 0.7675
+
+--- Iteration 39 ---
+Test - F1: 0.7428, Accuracy: 0.7708
+
+--- Iteration 40 ---
+Test - F1: 0.7442, Accuracy: 0.7708
+
+============================================================
+ACTIVE LEARNING BASELINE (Warmup + Entropy)
+============================================================
+
+--- Iteration 1 ---
+Test - F1: 0.0320, Accuracy: 0.1279
+
+--- Iteration 2 ---
+Test - F1: 0.0450, Accuracy: 0.1370
+
+--- Iteration 3 ---
+Test - F1: 0.0526, Accuracy: 0.1409
+
+--- Iteration 4 ---
+Test - F1: 0.0656, Accuracy: 0.1617
+
+--- Iteration 5 ---
+Test - F1: 0.0868, Accuracy: 0.1877
+
+--- Iteration 6 ---
+Test - F1: 0.1193, Accuracy: 0.2195
+
+--- Iteration 7 ---
+Test - F1: 0.1598, Accuracy: 0.2571
+
+--- Iteration 8 ---
+Test - F1: 0.2156, Accuracy: 0.3026
+
+--- Iteration 9 ---
+Test - F1: 0.2656, Accuracy: 0.3468
+
+--- Iteration 10 ---
+Test - F1: 0.3215, Accuracy: 0.3981
+
+--- Iteration 11 ---
+Test - F1: 0.3518, Accuracy: 0.4240
+
+--- Iteration 12 ---
+Test - F1: 0.3957, Accuracy: 0.4617
+
+--- Iteration 13 ---
+Test - F1: 0.4228, Accuracy: 0.4864
+
+--- Iteration 14 ---
+Test - F1: 0.4482, Accuracy: 0.5123
+
+--- Iteration 15 ---
+Test - F1: 0.4731, Accuracy: 0.5357
+
+--- Iteration 16 ---
+Test - F1: 0.5008, Accuracy: 0.5649
+
+--- Iteration 17 ---
+Test - F1: 0.5356, Accuracy: 0.5916
+
+--- Iteration 18 ---
+Test - F1: 0.5697, Accuracy: 0.6221
+
+--- Iteration 19 ---
+Test - F1: 0.6005, Accuracy: 0.6403
+
+--- Iteration 20 ---
+Test - F1: 0.6078, Accuracy: 0.6487
+
+--- Iteration 21 ---
+Test - F1: 0.6138, Accuracy: 0.6558
+
+--- Iteration 22 ---
+Test - F1: 0.6355, Accuracy: 0.6734
+
+--- Iteration 23 ---
+Test - F1: 0.6602, Accuracy: 0.6929
+
+--- Iteration 24 ---
+Test - F1: 0.6656, Accuracy: 0.6981
+
+[Stopping Auto-Triggered by ROI]
+  Reason: No meaningful utility improvement in the last 5 iterations.
+  Best previous utility: 0.384307
+  Recent utility: [0.376752, 0.367573, 0.374945, 0.38471, 0.374029]
+  min_delta: 0.002
+*** [Ghost Tracking] ROI stopping triggered at Iteration 24. Continuing to max iterations. ***
+
+--- Iteration 25 ---
+Test - F1: 0.6864, Accuracy: 0.7143
+
+--- Iteration 26 ---
+Test - F1: 0.7236, Accuracy: 0.7435
+
+--- Iteration 27 ---
+Test - F1: 0.7372, Accuracy: 0.7591
+
+--- Iteration 28 ---
+Test - F1: 0.7591, Accuracy: 0.7786
+
+--- Iteration 29 ---
+Test - F1: 0.7594, Accuracy: 0.7779
+
+--- Iteration 30 ---
+Test - F1: 0.7649, Accuracy: 0.7818
+
+--- Iteration 31 ---
+Test - F1: 0.7740, Accuracy: 0.7916
+
+--- Iteration 32 ---
+Test - F1: 0.7806, Accuracy: 0.7955
+
+--- Iteration 33 ---
+Test - F1: 0.7907, Accuracy: 0.8019
+
+--- Iteration 34 ---
+Test - F1: 0.7969, Accuracy: 0.8078
+
+--- Iteration 35 ---
+Test - F1: 0.7996, Accuracy: 0.8123
+
+--- Iteration 36 ---
+Test - F1: 0.8050, Accuracy: 0.8156
+
+--- Iteration 37 ---
+Test - F1: 0.8148, Accuracy: 0.8240
+
+--- Iteration 38 ---
+Test - F1: 0.8209, Accuracy: 0.8305
+
+--- Iteration 39 ---
+Test - F1: 0.8219, Accuracy: 0.8325
+
+--- Iteration 40 ---
+Test - F1: 0.8283, Accuracy: 0.8383
+
+============================================================
+PROPOSED FRAMEWORK (Generate-only)
+============================================================
+
+--- Iteration 1 ---
+Performance Summary | Macro F1: 0.0320 | Head Macro F1 (0-9): 0.2467 | Tail Macro F1 (10-76): 0.0000
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_01.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_01.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_01_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 322
+
+--- Iteration 2 ---
+Performance Summary | Macro F1: 0.0591 | Head Macro F1 (0-9): 0.2664 | Tail Macro F1 (10-76): 0.0281
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_02.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_02.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_02_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 397
+
+--- Iteration 3 ---
+Performance Summary | Macro F1: 0.1429 | Head Macro F1 (0-9): 0.2943 | Tail Macro F1 (10-76): 0.1203
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_03.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_03.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_03_augmentation_log.txt
+Accepted without validator: 39/39 (Rate: 1.00)
+Synthetic added: 39
+Labeled size after synthetic: 476
+
+--- Iteration 4 ---
+Performance Summary | Macro F1: 0.1471 | Head Macro F1 (0-9): 0.3385 | Tail Macro F1 (10-76): 0.1186
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_04.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_04.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_04_augmentation_log.txt
+Accepted without validator: 34/34 (Rate: 1.00)
+Synthetic added: 34
+Labeled size after synthetic: 550
+
+--- Iteration 5 ---
+Performance Summary | Macro F1: 0.1532 | Head Macro F1 (0-9): 0.4110 | Tail Macro F1 (10-76): 0.1147
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_05.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_05.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_05_augmentation_log.txt
+Accepted without validator: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 627
+
+--- Iteration 6 ---
+Performance Summary | Macro F1: 0.1923 | Head Macro F1 (0-9): 0.4911 | Tail Macro F1 (10-76): 0.1477
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_06.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_06.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_06_augmentation_log.txt
+Accepted without validator: 39/39 (Rate: 1.00)
+Synthetic added: 39
+Labeled size after synthetic: 706
+
+--- Iteration 7 ---
+Performance Summary | Macro F1: 0.2300 | Head Macro F1 (0-9): 0.5181 | Tail Macro F1 (10-76): 0.1870
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_07.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_07.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_07_augmentation_log.txt
+Accepted without validator: 33/33 (Rate: 1.00)
+Synthetic added: 33
+Labeled size after synthetic: 779
+
+--- Iteration 8 ---
+Performance Summary | Macro F1: 0.2884 | Head Macro F1 (0-9): 0.5597 | Tail Macro F1 (10-76): 0.2479
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_08.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_08.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_08_augmentation_log.txt
+Accepted without validator: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 856
+
+--- Iteration 9 ---
+Performance Summary | Macro F1: 0.3205 | Head Macro F1 (0-9): 0.6303 | Tail Macro F1 (10-76): 0.2743
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_09.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_09.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_09_augmentation_log.txt
+Accepted without validator: 39/39 (Rate: 1.00)
+Synthetic added: 39
+Labeled size after synthetic: 935
+
+--- Iteration 10 ---
+Performance Summary | Macro F1: 0.4122 | Head Macro F1 (0-9): 0.6721 | Tail Macro F1 (10-76): 0.3734
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_10.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_10.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_10_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 1010
+
+--- Iteration 11 ---
+Performance Summary | Macro F1: 0.4678 | Head Macro F1 (0-9): 0.6993 | Tail Macro F1 (10-76): 0.4333
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_11.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_11.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_11_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 1086
+
+--- Iteration 12 ---
+Performance Summary | Macro F1: 0.4976 | Head Macro F1 (0-9): 0.7135 | Tail Macro F1 (10-76): 0.4653
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_12.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_12.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_12_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 1162
+
+--- Iteration 13 ---
+Performance Summary | Macro F1: 0.5157 | Head Macro F1 (0-9): 0.7106 | Tail Macro F1 (10-76): 0.4867
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_13.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_13.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_13_augmentation_log.txt
+Accepted without validator: 39/39 (Rate: 1.00)
+Synthetic added: 39
+Labeled size after synthetic: 1241
+
+--- Iteration 14 ---
+Performance Summary | Macro F1: 0.5770 | Head Macro F1 (0-9): 0.7331 | Tail Macro F1 (10-76): 0.5537
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_14.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_14.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_14_augmentation_log.txt
+Accepted without validator: 34/34 (Rate: 1.00)
+Synthetic added: 34
+Labeled size after synthetic: 1315
+
+--- Iteration 15 ---
+Performance Summary | Macro F1: 0.6198 | Head Macro F1 (0-9): 0.7636 | Tail Macro F1 (10-76): 0.5983
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_15.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_15.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_15_augmentation_log.txt
+Accepted without validator: 32/32 (Rate: 1.00)
+Synthetic added: 32
+Labeled size after synthetic: 1387
+
+--- Iteration 16 ---
+Performance Summary | Macro F1: 0.6421 | Head Macro F1 (0-9): 0.7813 | Tail Macro F1 (10-76): 0.6214
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_16.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_16.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_16_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 1465
+
+--- Iteration 17 ---
+Performance Summary | Macro F1: 0.6645 | Head Macro F1 (0-9): 0.8004 | Tail Macro F1 (10-76): 0.6442
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_17.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_17.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_17_augmentation_log.txt
+Accepted without validator: 40/40 (Rate: 1.00)
+Synthetic added: 40
+Labeled size after synthetic: 1545
+
+--- Iteration 18 ---
+Performance Summary | Macro F1: 0.6919 | Head Macro F1 (0-9): 0.8120 | Tail Macro F1 (10-76): 0.6740
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_18.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_18.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_18_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 1623
+
+--- Iteration 19 ---
+Performance Summary | Macro F1: 0.6863 | Head Macro F1 (0-9): 0.8206 | Tail Macro F1 (10-76): 0.6663
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_19.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_19.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_19_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 1698
+
+--- Iteration 20 ---
+Performance Summary | Macro F1: 0.7169 | Head Macro F1 (0-9): 0.8317 | Tail Macro F1 (10-76): 0.6998
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_20.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_20.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_20_augmentation_log.txt
+Accepted without validator: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 1775
+
+--- Iteration 21 ---
+Performance Summary | Macro F1: 0.7191 | Head Macro F1 (0-9): 0.8309 | Tail Macro F1 (10-76): 0.7024
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_21.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_21.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_21_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 1851
+
+--- Iteration 22 ---
+Performance Summary | Macro F1: 0.7398 | Head Macro F1 (0-9): 0.8495 | Tail Macro F1 (10-76): 0.7234
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_22.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_22.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_22_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 1929
+
+--- Iteration 23 ---
+Performance Summary | Macro F1: 0.7570 | Head Macro F1 (0-9): 0.8604 | Tail Macro F1 (10-76): 0.7416
+
+[Stopping Auto-Triggered by ROI]
+  Reason: No meaningful utility improvement in the last 5 iterations.
+  Best previous utility: 0.482146
+  Recent utility: [0.461706, 0.478771, 0.466072, 0.471464, 0.473063]
+  min_delta: 0.002
+*** [Ghost Tracking] ROI stopping triggered at Iteration 23. Continuing to max iterations. ***
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_23.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_23.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_23_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2005
+
+--- Iteration 24 ---
+Performance Summary | Macro F1: 0.7836 | Head Macro F1 (0-9): 0.8586 | Tail Macro F1 (10-76): 0.7725
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_24.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_24.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_24_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 2083
+
+--- Iteration 25 ---
+Performance Summary | Macro F1: 0.7944 | Head Macro F1 (0-9): 0.8629 | Tail Macro F1 (10-76): 0.7841
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_25.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_25.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_25_augmentation_log.txt
+Accepted without validator: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 2160
+
+--- Iteration 26 ---
+Performance Summary | Macro F1: 0.8066 | Head Macro F1 (0-9): 0.8635 | Tail Macro F1 (10-76): 0.7981
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_26.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_26.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_26_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2236
+
+--- Iteration 27 ---
+Performance Summary | Macro F1: 0.8090 | Head Macro F1 (0-9): 0.8674 | Tail Macro F1 (10-76): 0.8003
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_27.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_27.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_27_augmentation_log.txt
+Accepted without validator: 29/29 (Rate: 1.00)
+Synthetic added: 29
+Labeled size after synthetic: 2305
+
+--- Iteration 28 ---
+Performance Summary | Macro F1: 0.8100 | Head Macro F1 (0-9): 0.8808 | Tail Macro F1 (10-76): 0.7994
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_28.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_28.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_28_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 2380
+
+--- Iteration 29 ---
+Performance Summary | Macro F1: 0.8207 | Head Macro F1 (0-9): 0.8963 | Tail Macro F1 (10-76): 0.8094
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_29.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_29.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_29_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2456
+
+--- Iteration 30 ---
+Performance Summary | Macro F1: 0.8310 | Head Macro F1 (0-9): 0.8963 | Tail Macro F1 (10-76): 0.8213
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_30.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_30.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_30_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 2534
+
+--- Iteration 31 ---
+Performance Summary | Macro F1: 0.8325 | Head Macro F1 (0-9): 0.9013 | Tail Macro F1 (10-76): 0.8222
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_31.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_31.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_31_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2610
+
+--- Iteration 32 ---
+Performance Summary | Macro F1: 0.8360 | Head Macro F1 (0-9): 0.8956 | Tail Macro F1 (10-76): 0.8271
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_32.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_32.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_32_augmentation_log.txt
+Accepted without validator: 40/40 (Rate: 1.00)
+Synthetic added: 40
+Labeled size after synthetic: 2690
+
+--- Iteration 33 ---
+Performance Summary | Macro F1: 0.8397 | Head Macro F1 (0-9): 0.9010 | Tail Macro F1 (10-76): 0.8306
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_33.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_33.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_33_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 2768
+
+--- Iteration 34 ---
+Performance Summary | Macro F1: 0.8483 | Head Macro F1 (0-9): 0.9077 | Tail Macro F1 (10-76): 0.8394
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_34.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_34.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_34_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 2846
+
+--- Iteration 35 ---
+Performance Summary | Macro F1: 0.8538 | Head Macro F1 (0-9): 0.9108 | Tail Macro F1 (10-76): 0.8453
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_35.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_35.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_35_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 2921
+
+--- Iteration 36 ---
+Performance Summary | Macro F1: 0.8569 | Head Macro F1 (0-9): 0.9176 | Tail Macro F1 (10-76): 0.8478
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_36.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_36.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_36_augmentation_log.txt
+Accepted without validator: 33/33 (Rate: 1.00)
+Synthetic added: 33
+Labeled size after synthetic: 2994
+
+--- Iteration 37 ---
+Performance Summary | Macro F1: 0.8678 | Head Macro F1 (0-9): 0.9188 | Tail Macro F1 (10-76): 0.8602
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_37.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_37.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_37_augmentation_log.txt
+Accepted without validator: 39/39 (Rate: 1.00)
+Synthetic added: 39
+Labeled size after synthetic: 3073
+
+--- Iteration 38 ---
+Performance Summary | Macro F1: 0.8766 | Head Macro F1 (0-9): 0.9251 | Tail Macro F1 (10-76): 0.8694
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_38.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_38.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_38_augmentation_log.txt
+Accepted without validator: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 3150
+
+--- Iteration 39 ---
+Performance Summary | Macro F1: 0.8760 | Head Macro F1 (0-9): 0.9200 | Tail Macro F1 (10-76): 0.8695
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_39.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_39.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_only_round_39_augmentation_log.txt
+Accepted without validator: 34/34 (Rate: 1.00)
+Synthetic added: 34
+Labeled size after synthetic: 3224
+
+--- Iteration 40 ---
+Performance Summary | Macro F1: 0.8710 | Head Macro F1 (0-9): 0.9159 | Tail Macro F1 (10-76): 0.8643
+
+============================================================
+PROPOSED FRAMEWORK (Generate-and-Verify)
+============================================================
+
+--- Iteration 1 ---
+Performance Summary | Macro F1: 0.0320 | Head Macro F1 (0-9): 0.2467 | Tail Macro F1 (10-76): 0.0000
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_01.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_01.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_01_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_01.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_01.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_01_augmentation_log.txt
+Accepted: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 322
+
+--- Iteration 2 ---
+Performance Summary | Macro F1: 0.0591 | Head Macro F1 (0-9): 0.2664 | Tail Macro F1 (10-76): 0.0281
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_02.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_02.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_02_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_02.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_02.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_02_augmentation_log.txt
+Accepted: 33/35 (Rate: 0.94)
+Synthetic added: 33
+Labeled size after synthetic: 395
+
+--- Iteration 3 ---
+Performance Summary | Macro F1: 0.1418 | Head Macro F1 (0-9): 0.2939 | Tail Macro F1 (10-76): 0.1191
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_03.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_03.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_03_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_03.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_03.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_03_augmentation_log.txt
+Accepted: 37/38 (Rate: 0.97)
+Synthetic added: 37
+Labeled size after synthetic: 472
+
+--- Iteration 4 ---
+Performance Summary | Macro F1: 0.1409 | Head Macro F1 (0-9): 0.3375 | Tail Macro F1 (10-76): 0.1116
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_04.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_04.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_04_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_04.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_04.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_04_augmentation_log.txt
+Accepted: 31/33 (Rate: 0.94)
+Synthetic added: 31
+Labeled size after synthetic: 543
+
+--- Iteration 5 ---
+Performance Summary | Macro F1: 0.1495 | Head Macro F1 (0-9): 0.4102 | Tail Macro F1 (10-76): 0.1106
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_05.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_05.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_05_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_05.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_05.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_05_augmentation_log.txt
+Accepted: 35/39 (Rate: 0.90)
+Synthetic added: 35
+Labeled size after synthetic: 618
+
+--- Iteration 6 ---
+Performance Summary | Macro F1: 0.1972 | Head Macro F1 (0-9): 0.4921 | Tail Macro F1 (10-76): 0.1531
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_06.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_06.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_06_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_06.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_06.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_06_augmentation_log.txt
+Accepted: 36/38 (Rate: 0.95)
+Synthetic added: 36
+Labeled size after synthetic: 694
+
+--- Iteration 7 ---
+Performance Summary | Macro F1: 0.2531 | Head Macro F1 (0-9): 0.5230 | Tail Macro F1 (10-76): 0.2128
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_07.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_07.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_07_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_07.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_07.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_07_augmentation_log.txt
+Accepted: 33/35 (Rate: 0.94)
+Synthetic added: 33
+Labeled size after synthetic: 767
+
+--- Iteration 8 ---
+Performance Summary | Macro F1: 0.2739 | Head Macro F1 (0-9): 0.5566 | Tail Macro F1 (10-76): 0.2317
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_08.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_08.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_08_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_08.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_08.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_08_augmentation_log.txt
+Accepted: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 845
+
+--- Iteration 9 ---
+Performance Summary | Macro F1: 0.3694 | Head Macro F1 (0-9): 0.6109 | Tail Macro F1 (10-76): 0.3333
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_09.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_09.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_09_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_09.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_09.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_09_augmentation_log.txt
+Accepted: 37/38 (Rate: 0.97)
+Synthetic added: 37
+Labeled size after synthetic: 922
+
+--- Iteration 10 ---
+Performance Summary | Macro F1: 0.4237 | Head Macro F1 (0-9): 0.6627 | Tail Macro F1 (10-76): 0.3880
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_10.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_10.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_10_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_10.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_10.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_10_augmentation_log.txt
+Accepted: 33/34 (Rate: 0.97)
+Synthetic added: 33
+Labeled size after synthetic: 995
+
+--- Iteration 11 ---
+Performance Summary | Macro F1: 0.4772 | Head Macro F1 (0-9): 0.6976 | Tail Macro F1 (10-76): 0.4443
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_11.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_11.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_11_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_11.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_11.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_11_augmentation_log.txt
+Accepted: 37/39 (Rate: 0.95)
+Synthetic added: 37
+Labeled size after synthetic: 1072
+
+--- Iteration 12 ---
+Performance Summary | Macro F1: 0.5221 | Head Macro F1 (0-9): 0.6979 | Tail Macro F1 (10-76): 0.4958
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_12.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_12.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_12_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_12.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_12.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_12_augmentation_log.txt
+Accepted: 34/35 (Rate: 0.97)
+Synthetic added: 34
+Labeled size after synthetic: 1146
+
+--- Iteration 13 ---
+Performance Summary | Macro F1: 0.5397 | Head Macro F1 (0-9): 0.7197 | Tail Macro F1 (10-76): 0.5128
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_13.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_13.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_13_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_13.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_13.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_13_augmentation_log.txt
+Accepted: 35/37 (Rate: 0.95)
+Synthetic added: 35
+Labeled size after synthetic: 1221
+
+--- Iteration 14 ---
+Performance Summary | Macro F1: 0.5679 | Head Macro F1 (0-9): 0.7481 | Tail Macro F1 (10-76): 0.5410
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_14.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_14.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_14_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_14.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_14.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_14_augmentation_log.txt
+Accepted: 35/36 (Rate: 0.97)
+Synthetic added: 35
+Labeled size after synthetic: 1296
+
+--- Iteration 15 ---
+Performance Summary | Macro F1: 0.6098 | Head Macro F1 (0-9): 0.7699 | Tail Macro F1 (10-76): 0.5859
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_15.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_15.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_15_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_15.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_15.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_15_augmentation_log.txt
+Accepted: 31/34 (Rate: 0.91)
+Synthetic added: 31
+Labeled size after synthetic: 1367
+
+--- Iteration 16 ---
+Performance Summary | Macro F1: 0.6379 | Head Macro F1 (0-9): 0.7874 | Tail Macro F1 (10-76): 0.6155
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_16.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_16.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_16_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_16.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_16.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_16_augmentation_log.txt
+Accepted: 35/38 (Rate: 0.92)
+Synthetic added: 35
+Labeled size after synthetic: 1442
+
+--- Iteration 17 ---
+Performance Summary | Macro F1: 0.6590 | Head Macro F1 (0-9): 0.7972 | Tail Macro F1 (10-76): 0.6384
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_17.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_17.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_17_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_17.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_17.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_17_augmentation_log.txt
+Accepted: 33/36 (Rate: 0.92)
+Synthetic added: 33
+Labeled size after synthetic: 1515
+
+--- Iteration 18 ---
+Performance Summary | Macro F1: 0.6844 | Head Macro F1 (0-9): 0.8078 | Tail Macro F1 (10-76): 0.6660
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_18.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_18.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_18_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_18.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_18.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_18_augmentation_log.txt
+Accepted: 38/40 (Rate: 0.95)
+Synthetic added: 38
+Labeled size after synthetic: 1593
+
+--- Iteration 19 ---
+Performance Summary | Macro F1: 0.6964 | Head Macro F1 (0-9): 0.8224 | Tail Macro F1 (10-76): 0.6776
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_19.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_19.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_19_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_19.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_19.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_19_augmentation_log.txt
+Accepted: 35/37 (Rate: 0.95)
+Synthetic added: 35
+Labeled size after synthetic: 1668
+
+--- Iteration 20 ---
+Performance Summary | Macro F1: 0.7093 | Head Macro F1 (0-9): 0.8257 | Tail Macro F1 (10-76): 0.6919
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_20.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_20.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_20_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_20.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_20.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_20_augmentation_log.txt
+Accepted: 37/38 (Rate: 0.97)
+Synthetic added: 37
+Labeled size after synthetic: 1745
+
+--- Iteration 21 ---
+Performance Summary | Macro F1: 0.7027 | Head Macro F1 (0-9): 0.8259 | Tail Macro F1 (10-76): 0.6843
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_21.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_21.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_21_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_21.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_21.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_21_augmentation_log.txt
+Accepted: 29/32 (Rate: 0.91)
+Synthetic added: 29
+Labeled size after synthetic: 1814
+
+--- Iteration 22 ---
+Performance Summary | Macro F1: 0.7320 | Head Macro F1 (0-9): 0.8416 | Tail Macro F1 (10-76): 0.7156
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_22.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_22.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_22_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_22.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_22.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_22_augmentation_log.txt
+Accepted: 33/35 (Rate: 0.94)
+Synthetic added: 33
+Labeled size after synthetic: 1887
+
+--- Iteration 23 ---
+Performance Summary | Macro F1: 0.7428 | Head Macro F1 (0-9): 0.8510 | Tail Macro F1 (10-76): 0.7266
+
+[Stopping Auto-Triggered by ROI]
+  Reason: No meaningful utility improvement in the last 5 iterations.
+  Best previous utility: 0.470640
+  Recent utility: [0.468092, 0.466542, 0.444195, 0.458394, 0.45301]
+  min_delta: 0.002
+*** [Ghost Tracking] ROI stopping triggered at Iteration 23. Continuing to max iterations. ***
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_23.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_23.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_23_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_23.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_23.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_23_augmentation_log.txt
+Accepted: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 1964
+
+--- Iteration 24 ---
+Performance Summary | Macro F1: 0.7553 | Head Macro F1 (0-9): 0.8708 | Tail Macro F1 (10-76): 0.7380
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_24.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_24.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_24_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_24.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_24.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_24_augmentation_log.txt
+Accepted: 33/39 (Rate: 0.85)
+Synthetic added: 33
+Labeled size after synthetic: 2037
+
+--- Iteration 25 ---
+Performance Summary | Macro F1: 0.7903 | Head Macro F1 (0-9): 0.8707 | Tail Macro F1 (10-76): 0.7783
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_25.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_25.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_25_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_25.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_25.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_25_augmentation_log.txt
+Accepted: 34/35 (Rate: 0.97)
+Synthetic added: 34
+Labeled size after synthetic: 2111
+
+--- Iteration 26 ---
+Performance Summary | Macro F1: 0.7968 | Head Macro F1 (0-9): 0.8636 | Tail Macro F1 (10-76): 0.7869
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_26.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_26.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_26_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_26.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_26.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_26_augmentation_log.txt
+Accepted: 37/38 (Rate: 0.97)
+Synthetic added: 37
+Labeled size after synthetic: 2188
+
+--- Iteration 27 ---
+Performance Summary | Macro F1: 0.8082 | Head Macro F1 (0-9): 0.8691 | Tail Macro F1 (10-76): 0.7991
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_27.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_27.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_27_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_27.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_27.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_27_augmentation_log.txt
+Accepted: 30/31 (Rate: 0.97)
+Synthetic added: 30
+Labeled size after synthetic: 2258
+
+--- Iteration 28 ---
+Performance Summary | Macro F1: 0.8068 | Head Macro F1 (0-9): 0.8749 | Tail Macro F1 (10-76): 0.7966
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_28.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_28.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_28_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_28.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_28.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_28_augmentation_log.txt
+Accepted: 34/36 (Rate: 0.94)
+Synthetic added: 34
+Labeled size after synthetic: 2332
+
+--- Iteration 29 ---
+Performance Summary | Macro F1: 0.8142 | Head Macro F1 (0-9): 0.8882 | Tail Macro F1 (10-76): 0.8032
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_29.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_29.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_29_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_29.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_29.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_29_augmentation_log.txt
+Accepted: 33/36 (Rate: 0.92)
+Synthetic added: 33
+Labeled size after synthetic: 2405
+
+--- Iteration 30 ---
+Performance Summary | Macro F1: 0.8328 | Head Macro F1 (0-9): 0.9012 | Tail Macro F1 (10-76): 0.8225
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_30.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_30.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_30_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_30.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_30.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_30_augmentation_log.txt
+Accepted: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2481
+
+--- Iteration 31 ---
+Performance Summary | Macro F1: 0.8368 | Head Macro F1 (0-9): 0.9043 | Tail Macro F1 (10-76): 0.8267
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_31.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_31.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_31_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_31.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_31.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_31_augmentation_log.txt
+Accepted: 33/36 (Rate: 0.92)
+Synthetic added: 33
+Labeled size after synthetic: 2554
+
+--- Iteration 32 ---
+Performance Summary | Macro F1: 0.8423 | Head Macro F1 (0-9): 0.8990 | Tail Macro F1 (10-76): 0.8338
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_32.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_32.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_32_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_32.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_32.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_32_augmentation_log.txt
+Accepted: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 2631
+
+--- Iteration 33 ---
+Performance Summary | Macro F1: 0.8467 | Head Macro F1 (0-9): 0.9011 | Tail Macro F1 (10-76): 0.8385
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_33.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_33.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_33_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_33.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_33.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_33_augmentation_log.txt
+Accepted: 35/38 (Rate: 0.92)
+Synthetic added: 35
+Labeled size after synthetic: 2706
+
+--- Iteration 34 ---
+Performance Summary | Macro F1: 0.8521 | Head Macro F1 (0-9): 0.9093 | Tail Macro F1 (10-76): 0.8436
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_34.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_34.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_34_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_34.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_34.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_34_augmentation_log.txt
+Accepted: 39/40 (Rate: 0.97)
+Synthetic added: 39
+Labeled size after synthetic: 2785
+
+--- Iteration 35 ---
+Performance Summary | Macro F1: 0.8616 | Head Macro F1 (0-9): 0.9123 | Tail Macro F1 (10-76): 0.8540
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_35.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_35.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_35_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_35.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_35.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_35_augmentation_log.txt
+Accepted: 34/35 (Rate: 0.97)
+Synthetic added: 34
+Labeled size after synthetic: 2859
+
+--- Iteration 36 ---
+Performance Summary | Macro F1: 0.8579 | Head Macro F1 (0-9): 0.9155 | Tail Macro F1 (10-76): 0.8493
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_36.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_36.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_36_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_36.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_36.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_36_augmentation_log.txt
+Accepted: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 2934
+
+--- Iteration 37 ---
+Performance Summary | Macro F1: 0.8665 | Head Macro F1 (0-9): 0.9164 | Tail Macro F1 (10-76): 0.8591
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_37.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_37.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_37_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_37.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_37.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_37_augmentation_log.txt
+Accepted: 34/36 (Rate: 0.94)
+Synthetic added: 34
+Labeled size after synthetic: 3008
+
+--- Iteration 38 ---
+Performance Summary | Macro F1: 0.8742 | Head Macro F1 (0-9): 0.9142 | Tail Macro F1 (10-76): 0.8683
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_38.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_38.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_38_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_38.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_38.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_38_augmentation_log.txt
+Accepted: 33/34 (Rate: 0.97)
+Synthetic added: 33
+Labeled size after synthetic: 3081
+
+--- Iteration 39 ---
+Performance Summary | Macro F1: 0.8833 | Head Macro F1 (0-9): 0.9259 | Tail Macro F1 (10-76): 0.8770
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_input_round_39.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/generate_output_round_39.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_39_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_input_round_39.json --output-json /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/llm_io/validate_output_round_39.json --log-file /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/generate_verify_round_39_augmentation_log.txt
+Accepted: 36/38 (Rate: 0.95)
+Synthetic added: 36
+Labeled size after synthetic: 3157
+
+--- Iteration 40 ---
+Performance Summary | Macro F1: 0.8808 | Head Macro F1 (0-9): 0.9221 | Tail Macro F1 (10-76): 0.8747
+Saved f1 curve: /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/f1_curve_20260530_085832.png
+Saved utility curve: /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/utility_curve_20260530_085832.png
+Saved Head/Tail comparison: /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/head_tail_f1_comparison_20260530_085832.png
+Saved confusion matrix comparison: /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/confusion_matrix_comparison_20260530_085832.png
+
+================================================================================
+ROI SUMMARY
+================================================================================
+          Framework  Max_Utility  Max_Utility_Iteration  Final_Utility  Final_Performance_Score  Final_Normalized_Cost  Final_Total_Cost  Final_Human_Labels  Final_LLM_Generation_Requests  Final_LLM_Valid_Generated  Final_LLM_Verification_Requests  Final_Synthetic_Accepted
+            Passive     0.333920                     23       0.141414                 0.741414                1.00000          1844.000                1844                              0                          0                                0                         0
+             Active     0.403065                     28       0.226600                 0.826600                1.00000          1844.000                1844                              0                          0                                0                         0
+      Generate-only     0.484858                     24       0.251113                 0.868651                1.02923          1897.900                1844                           1560                       1420                                0                      1420
+Generate-and-Verify     0.470640                     18       0.247375                 0.878665                1.05215          1940.165                1844                           1560                       1420                             1420                      1353
+
+Saved ROI table: /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/roi_table_20260530_085832.csv
+
+================================================================================
+FRAMEWORK COMPARISON SUMMARY
+================================================================================
+          Framework  Macro_F1  Weighted_F1  Accuracy  Head_F1  Tail_F1  Stat_Stop_Iteration  ROI_Stop_Iteration
+            Passive  0.744174     0.744174  0.770779 0.797014 0.736288                   40                  28
+             Active  0.828272     0.828272  0.838312 0.860290 0.823493                   40                  24
+      Generate-only  0.870997     0.870997  0.872727 0.915906 0.864294                   40                  23
+Generate-and-Verify  0.880821     0.880821  0.882468 0.922092 0.874661                   40                  23
+
+Saved: /root/paper/BANKING/Ghost_Tracking_BAAI/20260530_085832/metrics_table_Banking77_Refactored_20260530_085832.csv
+
+=== Experimental Run Completed ===
+Final Generate-and-Verify Macro F1: 0.8808
+Final Generate-and-Verify Head Macro F1: 0.9221
+Final Generate-and-Verify Tail Macro F1: 0.8747

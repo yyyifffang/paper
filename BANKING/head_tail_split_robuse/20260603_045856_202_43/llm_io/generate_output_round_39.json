@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?",
+    "I'd like to modify my personal information.",
+    "I'm in a bit of a panic - I was robbed and my phone was taken, which means they have access to my account. Can you please assist me in securing my account to prevent any unauthorized transactions?",
+    "I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?",
+    "I made a purchase, but it looks like I've been charged twice, even though my card was declined.",
+    "I'm having trouble withdrawing cash, but I've successfully done so previously. Can you help me understand why this is happening?",
+    "I authorized a payment using my card, but the status remains pending. Can you tell me when I can expect it to be processed?",
+    "I accidentally locked my card, can you help me unlock it?",
+    "I was sent a payment in British Pounds, can I convert it to a different currency?",
+    "Can I set up automatic top-ups for my card while I'm traveling?",
+    "I'm concerned that my credit card is nearing its expiration date, what are the consequences?",
+    "Can you tell me what data source is used to determine the exchange rate for the transfer I'm planning to make?",
+    "I'm confused, as I've been able to make transfers successfully in the past, but my recent attempts have been declined. I've tried multiple times, but the outcome is the same - my card is being rejected. Can you help me understand why this is happening?",
+    "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?",
+    "The system was unable to confirm my identity.",
+    "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance.",
+    "I'm concerned about the status of my recent payment. Can you please let me know when I can expect it to be processed?",
+    "I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?",
+    "I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?",
+    "I'm unable to make a transfer to my account, what's the reason?",
+    "Can you assist me with converting my funds to euros?",
+    "I believe someone else has used my card, as I've never been to the location where some transactions on my statement are from. Please take immediate action to resolve this issue.",
+    "The transfer I initiated with my card was unsuccessful, what happened?",
+    "I'm trying to check if the refund for my recent purchase has been processed and credited to my account. I've already reached out to the merchant, but they haven't confirmed any updates on the status of the refund. Can you please let me know if the funds have been received?",
+    "Can I transfer funds from another bank into my account, which currently has no balance?",
+    "I attempted to withdraw cash, but the transaction was declined.",
+    "I'm still waiting to receive the cash.",
+    "reversal of a top-up request",
+    "When I converted my cash, the exchange rate was incorrect.",
+    "The balance seems to be stuck and hasn't reflected the recent bank transfer.",
+    "Are there any fees associated with receiving funds through bank transfer?",
+    "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?",
+    "How can I initiate an automatic top-up process?",
+    "I'd like to set up an automatic transfer to top up my account whenever I'm abroad.",
+    "I was unable to withdraw cash from the ATM."
+  ],
+  "generated_labels": [
+    12,
+    30,
+    42,
+    53,
+    63,
+    26,
+    45,
+    49,
+    50,
+    4,
+    9,
+    32,
+    27,
+    30,
+    68,
+    75,
+    45,
+    66,
+    33,
+    7,
+    36,
+    22,
+    35,
+    51,
+    65,
+    26,
+    75,
+    61,
+    76,
+    5,
+    56,
+    66,
+    4,
+    4,
+    26
+  ],
+  "source_texts": [
+    "can the delivery be specific to my needs?",
+    "I need to update my demographics.",
+    "Please help!  I was mugged and everything stolen.  What do I do to stop them from accessing my account?",
+    "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?",
+    "My card was declined but it shows as multiple charges?",
+    "Why am I unable to withdraw money even though in the past I've done it just fine?",
+    "I made a payment with my card and it hasn't changed. How long do you think this will take?",
+    "I blocked my card by mistake, how do I unblock it?",
+    "I received a transfer in GBP how do I change it to a different currency?",
+    "Can I add money to my card automatically during a trip?",
+    "I think my card is expiring, what happens then?",
+    "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+    "Why do you keep declining my transfers? It's been working well so far, but when I just tried to buy something, the card got declined. I tried it a few times, but same thing happened every try.",
+    "my identity hasn't been verified and i can't edit my details, what's next",
+    "The app failed to verify me.",
+    "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+    "I was wondering how long does it take for a payment to go thru? It seems my last payment is stuck and hasn't moved.",
+    "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?",
+    "I may no longer need GBP, but instead I will need AUD, how can I go about making this change?",
+    "I couldn't transfer money to my bank, why not?",
+    "Will you be able to exchange to EUR?",
+    "I think my card has been used by somebody else since I was never in the little town where some transactions on this bill have come from. Please stop this right away.",
+    "My card couldn't complete a transfer, why?",
+    "Hello. Please, would you tell me if you have or have not received funds for a refund that I recently requested for a big purchase? I've contacted the merchant, but I can't tell that they have taken any action on it.",
+    "Can I withdraw money from another bank and transfer it into my empty account?",
+    "I tried to get funds in hard cash but it was rejected!",
+    "I haven't received my cash yet.",
+    "top up cancellation",
+    "When I exchanged currencies the value of my money changed.",
+    "The balance does not appear to have updated.",
+    "To receive money are there charges?",
+    "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+    "How do I access the option to top up?",
+    "I want to add money automatically when I travel.",
+    "I could not access my money at the ATM"
+  ],
+  "records": [
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "can the delivery be specific to my needs?",
+      "generated": "Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I need to update my demographics.",
+      "generated": "I'd like to modify my personal information."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Please help!  I was mugged and everything stolen.  What do I do to stop them from accessing my account?",
+      "generated": "I'm in a bit of a panic - I was robbed and my phone was taken, which means they have access to my account. Can you please assist me in securing my account to prevent any unauthorized transactions?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?",
+      "generated": "I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My card was declined but it shows as multiple charges?",
+      "generated": "I made a purchase, but it looks like I've been charged twice, even though my card was declined."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why am I unable to withdraw money even though in the past I've done it just fine?",
+      "generated": "I'm having trouble withdrawing cash, but I've successfully done so previously. Can you help me understand why this is happening?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a payment with my card and it hasn't changed. How long do you think this will take?",
+      "generated": "I authorized a payment using my card, but the status remains pending. Can you tell me when I can expect it to be processed?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I blocked my card by mistake, how do I unblock it?",
+      "generated": "I accidentally locked my card, can you help me unlock it?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I received a transfer in GBP how do I change it to a different currency?",
+      "generated": "I was sent a payment in British Pounds, can I convert it to a different currency?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money to my card automatically during a trip?",
+      "generated": "Can I set up automatic top-ups for my card while I'm traveling?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "I think my card is expiring, what happens then?",
+      "generated": "I'm concerned that my credit card is nearing its expiration date, what are the consequences?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+      "generated": "Can you tell me what data source is used to determine the exchange rate for the transfer I'm planning to make?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Why do you keep declining my transfers? It's been working well so far, but when I just tried to buy something, the card got declined. I tried it a few times, but same thing happened every try.",
+      "generated": "I'm confused, as I've been able to make transfers successfully in the past, but my recent attempts have been declined. I've tried multiple times, but the outcome is the same - my card is being rejected. Can you help me understand why this is happening?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "my identity hasn't been verified and i can't edit my details, what's next",
+      "generated": "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app failed to verify me.",
+      "generated": "The system was unable to confirm my identity."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+      "generated": "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I was wondering how long does it take for a payment to go thru? It seems my last payment is stuck and hasn't moved.",
+      "generated": "I'm concerned about the status of my recent payment. Can you please let me know when I can expect it to be processed?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?",
+      "generated": "I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I may no longer need GBP, but instead I will need AUD, how can I go about making this change?",
+      "generated": "I'd like to modify my currency exchange, as I no longer require GBP and instead need AUD. Can you guide me on the process for making this change?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I couldn't transfer money to my bank, why not?",
+      "generated": "I'm unable to make a transfer to my account, what's the reason?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Will you be able to exchange to EUR?",
+      "generated": "Can you assist me with converting my funds to euros?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I think my card has been used by somebody else since I was never in the little town where some transactions on this bill have come from. Please stop this right away.",
+      "generated": "I believe someone else has used my card, as I've never been to the location where some transactions on my statement are from. Please take immediate action to resolve this issue."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "My card couldn't complete a transfer, why?",
+      "generated": "The transfer I initiated with my card was unsuccessful, what happened?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Hello. Please, would you tell me if you have or have not received funds for a refund that I recently requested for a big purchase? I've contacted the merchant, but I can't tell that they have taken any action on it.",
+      "generated": "I'm trying to check if the refund for my recent purchase has been processed and credited to my account. I've already reached out to the merchant, but they haven't confirmed any updates on the status of the refund. Can you please let me know if the funds have been received?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can I withdraw money from another bank and transfer it into my empty account?",
+      "generated": "Can I transfer funds from another bank into my account, which currently has no balance?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I tried to get funds in hard cash but it was rejected!",
+      "generated": "I attempted to withdraw cash, but the transaction was declined."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I haven't received my cash yet.",
+      "generated": "I'm still waiting to receive the cash."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "top up cancellation",
+      "generated": "reversal of a top-up request"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "When I exchanged currencies the value of my money changed.",
+      "generated": "When I converted my cash, the exchange rate was incorrect."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "The balance does not appear to have updated.",
+      "generated": "The balance seems to be stuck and hasn't reflected the recent bank transfer."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "To receive money are there charges?",
+      "generated": "Are there any fees associated with receiving funds through bank transfer?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+      "generated": "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How do I access the option to top up?",
+      "generated": "How can I initiate an automatic top-up process?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I want to add money automatically when I travel.",
+      "generated": "I'd like to set up an automatic transfer to top up my account whenever I'm abroad."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I could not access my money at the ATM",
+      "generated": "I was unable to withdraw cash from the ATM."
+    }
+  ]
+}

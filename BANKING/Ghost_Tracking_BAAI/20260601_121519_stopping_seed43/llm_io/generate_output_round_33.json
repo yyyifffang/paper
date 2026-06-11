@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I need to update my PIN immediately.",
+    "Please provide instructions on how to deposit funds into my account using the transfer feature",
+    "Will I get the full amount credited to my account when I top up by bank transfer charge?",
+    "Was my card payment reversed?",
+    "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?",
+    "my card top-up is still pending, where can I locate it?",
+    "Can you accept my other credit card issued in the United States? It's the only other one I possess.",
+    "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?",
+    "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?",
+    "Can I convert my funds to euros?",
+    "Duplicate transaction appearing on my account statement.",
+    "How do I initiate a transfer into an account?",
+    "My PIN has been blocked, what's the process to unblock it?",
+    "We're trying to investigate why a direct debit payment was made from your account without your consent.",
+    "It's been a while since the top-up was replenished.",
+    "I've been actively utilizing my account to manage international payments for my vacation property, and I'm surprised to see exorbitant fees cropping up. Shouldn't my loyalty as a frequent user be recognized?",
+    "I made a payment to top up my account, but the funds are still pending, can you tell me what's going on?",
+    "The payment I initiated has not been fully processed.",
+    "How long will the extra charge appear as pending on my statement?",
+    "My account appears to be experiencing some unusual activity, with duplicate charges showing up.",
+    "May I select my preferred payment method, such as Visa or Mastercard?",
+    "I'm having trouble finalizing a transaction. I'm attempting to buy some cryptocurrency, but the app is preventing me from doing so. Can you help me understand what's blocking this process?",
+    "Can you assist me with converting my funds to euros?",
+    "Can you expedite the delivery of my card as soon as possible?",
+    "I believe I've been mistakenly billed twice for a purchase - what's the recommended timeframe for bringing this to your attention?",
+    "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?",
+    "May I confirm my identity using my social security card?",
+    "How can I view my pending top-up transactions?",
+    "Can I switch the currency I'm using through your app?",
+    "Why haven't I received the funds after topping up my account?",
+    "I'd like to inquire about the transfer fee associated with moving funds.",
+    "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it.",
+    "My top-up payment is still pending.",
+    "I'm having trouble entering my passcode, it's not recognizing it.",
+    "Is there a fee associated with transferring funds?",
+    "I made a purchase, but it looks like I've been charged twice, even though my card was declined.",
+    "The amount I was expecting to receive in cash doesn't match the amount I was given.",
+    "I was unexpectedly billed a fee for using my card, which I believe was an error."
+  ],
+  "generated_labels": [
+    21,
+    65,
+    56,
+    53,
+    45,
+    62,
+    54,
+    27,
+    46,
+    36,
+    63,
+    65,
+    49,
+    28,
+    47,
+    64,
+    47,
+    45,
+    34,
+    63,
+    73,
+    7,
+    36,
+    12,
+    63,
+    30,
+    69,
+    47,
+    33,
+    47,
+    64,
+    15,
+    47,
+    44,
+    64,
+    63,
+    75,
+    15
+  ],
+  "source_texts": [
+    "I must change my PIN as soon as possible.",
+    "Please provide details on how to top up my account using transfer option",
+    "Will I receive all the money sent to my account by SEPA transfer?",
+    "I didn't cancel my card payment.",
+    "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+    "my top up isnt there yet where do i find it",
+    "Can you accept my other card from the U.S.?  It is the only other one I have.",
+    "How can I find a way to transfer money without it being rejected?",
+    "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+    "Can I exchange my money for EUR?",
+    "Transaction showing up many times.",
+    "Whats the transfer process",
+    "My card got blocked, how do I reset?",
+    "Is there a way for you to find out why my account was deducted from a seller when I didn't approve of it?",
+    "It's been some time since refilled the top-up.",
+    "So I've been using my account frequently to manage payments for my vacation house in a different country, and now I'm getting hit with ridiculously high fees! What's with that? Ought not I be rewarded as a frequent user?",
+    "I already paid to top-up but the funds aren't available yet, where are they?",
+    "I made a payment that is not yet complete.",
+    "How long will the $1 charge show as pending?",
+    "My account seems a bit off and getting weird charges.",
+    "Can I choose my card scheme?",
+    "I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here?",
+    "Will you be able to exchange to EUR?",
+    "Send me my card now! ASAP",
+    "I think I was charged double for something I bought - how long should I wait before reporting this?",
+    "my identity hasn't been verified and i can't edit my details, what's next",
+    "Can I use my social security card as a form of identity?",
+    "Where to check top ups pending?",
+    "Do you support changing the currency I use?",
+    "Where are my funds? I topped off my car but it didn't seem to complete.",
+    "I need to know how much it costs to transfer funds.",
+    "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+    "My top-up funds aren't available yet.",
+    "My passcode is not being accepted",
+    "Are money transfers free?",
+    "My card was declined but it shows as multiple charges?",
+    "Why is my cash request and the amount I received different?",
+    "I was charged and shouldn't have been charged when using my card!"
+  ],
+  "records": [
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I must change my PIN as soon as possible.",
+      "generated": "I need to update my PIN immediately."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Please provide details on how to top up my account using transfer option",
+      "generated": "Please provide instructions on how to deposit funds into my account using the transfer feature"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will I receive all the money sent to my account by SEPA transfer?",
+      "generated": "Will I get the full amount credited to my account when I top up by bank transfer charge?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I didn't cancel my card payment.",
+      "generated": "Was my card payment reversed?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+      "generated": "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "my top up isnt there yet where do i find it",
+      "generated": "my card top-up is still pending, where can I locate it?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you accept my other card from the U.S.?  It is the only other one I have.",
+      "generated": "Can you accept my other credit card issued in the United States? It's the only other one I possess."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How can I find a way to transfer money without it being rejected?",
+      "generated": "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+      "generated": "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can I exchange my money for EUR?",
+      "generated": "Can I convert my funds to euros?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Transaction showing up many times.",
+      "generated": "Duplicate transaction appearing on my account statement."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Whats the transfer process",
+      "generated": "How do I initiate a transfer into an account?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "My card got blocked, how do I reset?",
+      "generated": "My PIN has been blocked, what's the process to unblock it?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Is there a way for you to find out why my account was deducted from a seller when I didn't approve of it?",
+      "generated": "We're trying to investigate why a direct debit payment was made from your account without your consent."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "It's been some time since refilled the top-up.",
+      "generated": "It's been a while since the top-up was replenished."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "So I've been using my account frequently to manage payments for my vacation house in a different country, and now I'm getting hit with ridiculously high fees! What's with that? Ought not I be rewarded as a frequent user?",
+      "generated": "I've been actively utilizing my account to manage international payments for my vacation property, and I'm surprised to see exorbitant fees cropping up. Shouldn't my loyalty as a frequent user be recognized?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I already paid to top-up but the funds aren't available yet, where are they?",
+      "generated": "I made a payment to top up my account, but the funds are still pending, can you tell me what's going on?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a payment that is not yet complete.",
+      "generated": "The payment I initiated has not been fully processed."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "How long will the $1 charge show as pending?",
+      "generated": "How long will the extra charge appear as pending on my statement?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My account seems a bit off and getting weird charges.",
+      "generated": "My account appears to be experiencing some unusual activity, with duplicate charges showing up."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I choose my card scheme?",
+      "generated": "May I select my preferred payment method, such as Visa or Mastercard?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here?",
+      "generated": "I'm having trouble finalizing a transaction. I'm attempting to buy some cryptocurrency, but the app is preventing me from doing so. Can you help me understand what's blocking this process?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Will you be able to exchange to EUR?",
+      "generated": "Can you assist me with converting my funds to euros?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Send me my card now! ASAP",
+      "generated": "Can you expedite the delivery of my card as soon as possible?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I think I was charged double for something I bought - how long should I wait before reporting this?",
+      "generated": "I believe I've been mistakenly billed twice for a purchase - what's the recommended timeframe for bringing this to your attention?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "my identity hasn't been verified and i can't edit my details, what's next",
+      "generated": "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Can I use my social security card as a form of identity?",
+      "generated": "May I confirm my identity using my social security card?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Where to check top ups pending?",
+      "generated": "How can I view my pending top-up transactions?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Do you support changing the currency I use?",
+      "generated": "Can I switch the currency I'm using through your app?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Where are my funds? I topped off my car but it didn't seem to complete.",
+      "generated": "Why haven't I received the funds after topping up my account?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I need to know how much it costs to transfer funds.",
+      "generated": "I'd like to inquire about the transfer fee associated with moving funds."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!",
+      "generated": "I'm confused about why I'm being charged fees on certain transactions but not others. Can you please clarify the fee structure for my account? I've looked everywhere but can't find it."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "My top-up funds aren't available yet.",
+      "generated": "My top-up payment is still pending."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "My passcode is not being accepted",
+      "generated": "I'm having trouble entering my passcode, it's not recognizing it."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Are money transfers free?",
+      "generated": "Is there a fee associated with transferring funds?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My card was declined but it shows as multiple charges?",
+      "generated": "I made a purchase, but it looks like I've been charged twice, even though my card was declined."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Why is my cash request and the amount I received different?",
+      "generated": "The amount I was expecting to receive in cash doesn't match the amount I was given."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I was charged and shouldn't have been charged when using my card!",
+      "generated": "I was unexpectedly billed a fee for using my card, which I believe was an error."
+    }
+  ]
+}

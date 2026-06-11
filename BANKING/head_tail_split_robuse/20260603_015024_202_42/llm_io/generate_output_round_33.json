@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Why was my cash withdrawal request denied?",
+    "I require a replacement card as my previous one has been stolen.",
+    "How long does it take for a cheque to clear before I can use it to top up my account?",
+    "I'm still waiting for the funds I deposited into my account earlier today to reflect in my balance.",
+    "I've already deposited the cash, yet my account remains pending. Why is my account still showing a pending status?",
+    "Why hasn't my account balance been updated after the recent bank transfer?",
+    "What is the process and timeline for replacing an expiring card?",
+    "I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction.",
+    "The account balance remains unchanged.",
+    "Can I obtain funds in various foreign currencies?",
+    "Why hasn't my account balance been updated after I made a transfer from another bank account?",
+    "I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?",
+    "Can I use my card at all merchant locations?",
+    "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.",
+    "I'm unable to complete the identity verification process.",
+    "My card may have been compromised.",
+    "A pending cash withdrawal is currently being processed.",
+    "I'm cancelling the payment as I haven't received the item I purchased from them a while back.",
+    "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?",
+    "How do I initiate a transfer into an account?",
+    "How long does it typically take for a seller to receive a pending transfer after I initiate the payment immediately?",
+    "My account balance remains the same despite the recent transfer I made.",
+    "I require a replacement card.",
+    "I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?",
+    "A surprise fee has appeared on a transfer that shouldn't have had one.",
+    "I've been expecting my transfer since Friday, but it still hasn't arrived.",
+    "I mistakenly entered my PIN and now I'm unable to access my account, can you help me log in?",
+    "This direct debit payment is not recognized as my transaction. How can I retrieve my funds?",
+    "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.",
+    "How many spare cards can I have issued to me?",
+    "The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?",
+    "Did you reverse the payment on your card?",
+    "Why are the purchases I made earlier today still pending for payment?",
+    "How long does it typically take for international transfers to be processed? I made an online purchase a few days ago and initiated the transfer promptly, but the vendor is telling me that the funds are still pending.",
+    "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account.",
+    "I'm worried that my card has been stolen."
+  ],
+  "generated_labels": [
+    26,
+    41,
+    58,
+    6,
+    46,
+    5,
+    9,
+    76,
+    5,
+    36,
+    5,
+    6,
+    10,
+    20,
+    74,
+    22,
+    46,
+    52,
+    46,
+    65,
+    48,
+    5,
+    39,
+    66,
+    64,
+    66,
+    49,
+    28,
+    20,
+    39,
+    26,
+    53,
+    45,
+    48,
+    8,
+    41
+  ],
+  "source_texts": [
+    "Why can't I get cash out?",
+    "I need to order a new card as my other one was stolen.",
+    "How long before a check I send clears?",
+    "I am still awaiting the money I put into my account this morning.",
+    "I have the cash already, my account still shows up as pending.  How can my account be still pending?",
+    "Why is  my balance not updated?",
+    "What is the cost and time frame of getting a new card?",
+    "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.",
+    "The balance has not been updated.",
+    "Can I have money of different country of origin.",
+    "Why didn't the money I transferred into my account get added to my balance?",
+    "I put some money in my account the other day and it's not gone in yet, can you help with this?",
+    "Will my card work at all merchant locations?",
+    "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+    "I can't do the verification.",
+    "There's a possibility that my card was compromised.",
+    "There is a withdrawal waiting.",
+    "I'm cancelling this charge. I still have not received what I bought from these people a while ago.",
+    "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+    "Whats the transfer process",
+    "How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately?",
+    "My balance didn't change after I transferred some money.",
+    "I need a new card.",
+    "Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?",
+    "There is a fee from a transfer that is not supposed to be here!",
+    "I've been waiting since Friday, where is my money?",
+    "I logged in wrong and am blocked, how do I log in?",
+    "This debit is not my transcation. How do I get my money out back?",
+    "I did not get the cash that is showing up in my app.",
+    "How many active cards can I have?",
+    "The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?",
+    "I cancelled my card payment",
+    "Why are the things I bought earlier today still showing as pending?",
+    "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.",
+    "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+    "Help!  I fear that my card was stolen,"
+  ],
+  "records": [
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I get cash out?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I need to order a new card as my other one was stolen.",
+      "generated": "I require a replacement card as my previous one has been stolen."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How long before a check I send clears?",
+      "generated": "How long does it take for a cheque to clear before I can use it to top up my account?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I am still awaiting the money I put into my account this morning.",
+      "generated": "I'm still waiting for the funds I deposited into my account earlier today to reflect in my balance."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I have the cash already, my account still shows up as pending.  How can my account be still pending?",
+      "generated": "I've already deposited the cash, yet my account remains pending. Why is my account still showing a pending status?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why is  my balance not updated?",
+      "generated": "Why hasn't my account balance been updated after the recent bank transfer?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What is the cost and time frame of getting a new card?",
+      "generated": "What is the process and timeline for replacing an expiring card?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.",
+      "generated": "I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "The balance has not been updated.",
+      "generated": "The account balance remains unchanged."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can I have money of different country of origin.",
+      "generated": "Can I obtain funds in various foreign currencies?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why didn't the money I transferred into my account get added to my balance?",
+      "generated": "Why hasn't my account balance been updated after I made a transfer from another bank account?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I put some money in my account the other day and it's not gone in yet, can you help with this?",
+      "generated": "I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Will my card work at all merchant locations?",
+      "generated": "Can I use my card at all merchant locations?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+      "generated": "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I can't do the verification.",
+      "generated": "I'm unable to complete the identity verification process."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "There's a possibility that my card was compromised.",
+      "generated": "My card may have been compromised."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "There is a withdrawal waiting.",
+      "generated": "A pending cash withdrawal is currently being processed."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I'm cancelling this charge. I still have not received what I bought from these people a while ago.",
+      "generated": "I'm cancelling the payment as I haven't received the item I purchased from them a while back."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+      "generated": "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Whats the transfer process",
+      "generated": "How do I initiate a transfer into an account?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately?",
+      "generated": "How long does it typically take for a seller to receive a pending transfer after I initiate the payment immediately?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "My balance didn't change after I transferred some money.",
+      "generated": "My account balance remains the same despite the recent transfer I made."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I need a new card.",
+      "generated": "I require a replacement card."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?",
+      "generated": "I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "There is a fee from a transfer that is not supposed to be here!",
+      "generated": "A surprise fee has appeared on a transfer that shouldn't have had one."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I've been waiting since Friday, where is my money?",
+      "generated": "I've been expecting my transfer since Friday, but it still hasn't arrived."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I logged in wrong and am blocked, how do I log in?",
+      "generated": "I mistakenly entered my PIN and now I'm unable to access my account, can you help me log in?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "This debit is not my transcation. How do I get my money out back?",
+      "generated": "This direct debit payment is not recognized as my transaction. How can I retrieve my funds?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I did not get the cash that is showing up in my app.",
+      "generated": "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many active cards can I have?",
+      "generated": "How many spare cards can I have issued to me?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?",
+      "generated": "The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I cancelled my card payment",
+      "generated": "Did you reverse the payment on your card?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why are the things I bought earlier today still showing as pending?",
+      "generated": "Why are the purchases I made earlier today still pending for payment?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.",
+      "generated": "How long does it typically take for international transfers to be processed? I made an online purchase a few days ago and initiated the transfer promptly, but the vendor is telling me that the funds are still pending."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+      "generated": "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Help!  I fear that my card was stolen,",
+      "generated": "I'm worried that my card has been stolen."
+    }
+  ]
+}

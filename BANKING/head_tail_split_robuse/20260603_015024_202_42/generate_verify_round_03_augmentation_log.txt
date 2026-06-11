@@ -1,0 +1,79 @@
+GEN | [verify_source_of_funds] | Orig: Please verify my source of funds. -> Aug: Please confirm the origin of the funds used for this transaction.
+GEN | [verify_source_of_funds] | Orig: I require verification of my source of funds. -> Aug: I need to confirm the origin of my funds.
+GEN | [verify_source_of_funds] | Orig: My source of funds need verification. -> Aug: We need to confirm the origin of your funds.
+GEN | [verify_source_of_funds] | Orig: My source of funds require verification. -> Aug: We need to confirm the origin of your funds.
+GEN | [receiving_money] | Orig: How do I receive money from someone? -> Aug: How can I get money from another person?
+GEN | [verify_source_of_funds] | Orig: I have to verify my source of funds. -> Aug: I need to confirm the origin of my funds.
+GEN | [receiving_money] | Orig: How can I receive money from someone? -> Aug: How do I get money from another person?
+GEN | [receiving_money] | Orig: How can I receive money? -> Aug: What methods are available for me to receive funds?
+GEN | [verify_source_of_funds] | Orig: How can I receive verification for the source of my funds? -> Aug: Can you please provide information to confirm the origin of the funds used for this transaction?
+GEN | [cash_withdrawal_charge] | Orig: Do you charge for cash withdrawals?  I want to get my hands on my own money and you appear to be charging me for the pleasure! Why is this, you'd never get this with my high street bank! -> Aug: Are there any fees associated with making cash withdrawals from your account? I'm surprised to find that I'm being charged for accessing my own funds, whereas my previous bank didn't impose such a charge.
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I purchase with cash or cheque? -> Aug: May I pay using cash or by cheque?
+GEN | [top_up_by_cash_or_cheque] | Orig: What is your check-cashing policy? -> Aug: You can top up your account by cash or cheque.
+GEN | [verify_source_of_funds] | Orig: need to verify source of funds -> Aug: can you confirm the origin of the funds?
+GEN | [verify_source_of_funds] | Orig: Verify my source of funds? -> Aug: Can you confirm the origin of the funds used for this transaction?
+GEN | [wrong_amount_of_cash_received] | Orig: So I just went to the ATM to get some cash.  I input that I needed 100 pounds but I only got 80.  I have the receipt  and I am in need of the extra money.  How do I go about obtaining the missing amount? -> Aug: I recently visited the ATM to withdraw some cash, but when I checked my transaction, I found that I was given less than the amount I requested. Specifically, I asked for 100 pounds, but only received 80. I have the receipt as proof and would like to know how to retrieve the remaining amount.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this? -> Aug: Can I withdraw cash from my home country using one of your machines while I'm on holiday? I'm worried about not having any local currency with me and would like to know if I'll be charged a fee for this service.
+GEN | [verify_source_of_funds] | Orig: My funds must be verified -> Aug: We need to confirm the origin of your funds
+GEN | [verify_source_of_funds] | Orig: What are the sources for the funds in my account? -> Aug: Can you please confirm the origin of the funds in your account?
+GEN | [verify_source_of_funds] | Orig: Where did my deposit for my source of funds come from? -> Aug: Can you please confirm the origin of the funds used for your deposit?
+GEN | [atm_support] | Orig: Can I use a different bank ATM than my own? -> Aug: Can I use an ATM from a different bank than my own?
+GEN | [verify_source_of_funds] | Orig: How do I verify my source of funds? -> Aug: Can you please confirm the origin of the funds used for this transaction?
+GEN | [verify_source_of_funds] | Orig: Who is giving me my money? -> Aug: Who is the source of the funds being used to make this transaction?
+GEN | [receiving_money] | Orig: Is it ok for a friend to send me money? -> Aug: Can a friend deposit funds into my account?
+GEN | [receiving_money] | Orig: How can my friend give me money? -> Aug: How can I receive money from my friend?
+GEN | [verify_source_of_funds] | Orig: I would like to verify my source of funds. -> Aug: I'd like to confirm the origin of my funds.
+GEN | [atm_support] | Orig: Which ATMs am I allowed to get money from? -> Aug: What ATMs can I use to withdraw cash?
+GEN | [verify_source_of_funds] | Orig: How can I verify my source of funds? -> Aug: Can you please confirm the origin of the funds used for this transaction?
+GEN | [verify_source_of_funds] | Orig: I need to verify my funds. -> Aug: I'd like to confirm the origin of my funds.
+GEN | [receiving_money] | Orig: How would my friend be able to send me money? -> Aug: How can my friend transfer funds to me?
+GEN | [verify_source_of_funds] | Orig: I need to verify the source of funds. -> Aug: I'd like to confirm the origin of the funds.
+GEN | [receiving_money] | Orig: Who can send me money? -> Aug: Who can transfer funds to me?
+GEN | [verify_source_of_funds] | Orig: I must verify the source of my funds -> Aug: I need to confirm the origin of my funds
+GEN | [receiving_money] | Orig: My friend would like to send me money. What are the options available to them? -> Aug: My friend wants to transfer funds to me. What methods can they use to do so?
+GEN | [receiving_money] | Orig: Please show me how my friend can send me money. -> Aug: Can you guide me on how my friend can transfer funds to me?
+GEN | [wrong_amount_of_cash_received] | Orig: What do I need to do to request cash back? The ATM actually just gave me the wrong amount. The app I actually chose the right amount. -> Aug: The ATM dispensed an incorrect amount, and I'd like to know how to initiate a cash return. The amount I selected on the app was correct, but the machine gave me the wrong amount.
+GEN | [atm_support] | Orig: how do I know where I can get money withdrawn? -> Aug: where can I find an ATM to withdraw cash?
+GEN | [top_up_by_bank_transfer_charge] | Orig: How much is it to receive money? -> Aug: What is the fee for receiving funds via bank transfer?
+GEN | [verify_source_of_funds] | Orig: What is the source of the money in my account? -> Aug: Can you confirm the origin of the funds in your account?
+GEN | [receiving_money] | Orig: What do I need to do to get my salary through this? -> Aug: How can I receive my salary payment through this channel?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: Please verify my source of funds. | Augmented: Please confirm the origin of the funds used for this transaction.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: ... | Original: I require verification of my source of funds. | Augmented: I need to confirm the origin of my funds.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: My source of funds need verification. | Augmented: We need to confirm the origin of your funds.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: My source of funds require verification. | Augmented: We need to confirm the origin of your funds.
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: How do I receive money from someone? | Augmented: How can I get money from another person?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: Both sentences convey the need to validate the origin or source of one's funds in a banking context. | Original: I have to verify my source of funds. | Augmented: I need to confirm the origin of my funds.
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: How can I receive money from someone? | Augmented: How do I get money from another person?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: How can I receive money? | Augmented: What methods are available for me to receive funds?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: How can I receive verification for the source of my funds? | Augmented: Can you please provide information to confirm the origin of the funds used for this transaction?
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: Do you charge for cash withdrawals?  I want to get my hands on my own money and you appear to be charging me for the pleasure! Why is this, you'd never get this with my high street bank! | Augmented: Are there any fees associated with making cash withdrawals from your account? I'm surprised to find that I'm being charged for accessing my own funds, whereas my previous bank didn't impose such a charge.
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: Both texts are asking about the possibility of paying for something using cash or cheque, preserving the same intent. | Original: Can I purchase with cash or cheque? | Augmented: May I pay using cash or by cheque?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: What is your check-cashing policy? | Augmented: You can top up your account by cash or cheque.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: need to verify source of funds | Augmented: can you confirm the origin of the funds?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: Verify my source of funds? | Augmented: Can you confirm the origin of the funds used for this transaction?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: So I just went to the ATM to get some cash.  I input that I needed 100 pounds but I only got 80.  I have the receipt  and I am in need of the extra money.  How do I go about obtaining the missing amount? | Augmented: I recently visited the ATM to withdraw some cash, but when I checked my transaction, I found that I was given less than the amount I requested. Specifically, I asked for 100 pounds, but only received 80. I have the receipt as proof and would like to know how to retrieve the remaining amount.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | UNKNOWN | Reason: N/A | Original: Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this? | Augmented: Can I withdraw cash from my home country using one of your machines while I'm on holiday? I'm worried about not having any local currency with me and would like to know if I'll be charged a fee for this service.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: My funds must be verified | Augmented: We need to confirm the origin of your funds
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: What are the sources for the funds in my account? | Augmented: Can you please confirm the origin of the funds in your account?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: ... | Original: Where did my deposit for my source of funds come from? | Augmented: Can you please confirm the origin of the funds used for your deposit?
+VAL | [atm_support] | ACCEPT | Reason: N/A | Original: Can I use a different bank ATM than my own? | Augmented: Can I use an ATM from a different bank than my own?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: How do I verify my source of funds? | Augmented: Can you please confirm the origin of the funds used for this transaction?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: Who is giving me my money? | Augmented: Who is the source of the funds being used to make this transaction?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Is it ok for a friend to send me money? | Augmented: Can a friend deposit funds into my account?
+VAL | [receiving_money] | ACCEPT | Reason: ... | Original: How can my friend give me money? | Augmented: How can I receive money from my friend?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: Both sentences convey the need to confirm the legitimacy or origin of the funds in one's account, which aligns with the intent of verifying the source of funds. | Original: I would like to verify my source of funds. | Augmented: I'd like to confirm the origin of my funds.
+VAL | [atm_support] | ACCEPT | Reason: ... | Original: Which ATMs am I allowed to get money from? | Augmented: What ATMs can I use to withdraw cash?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: How can I verify my source of funds? | Augmented: Can you please confirm the origin of the funds used for this transaction?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: ... | Original: I need to verify my funds. | Augmented: I'd like to confirm the origin of my funds.
+VAL | [receiving_money] | ACCEPT | Reason: ... | Original: How would my friend be able to send me money? | Augmented: How can my friend transfer funds to me?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: Both sentences convey the need to check the origin or source of the funds, maintaining the same intent. | Original: I need to verify the source of funds. | Augmented: I'd like to confirm the origin of the funds.
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Who can send me money? | Augmented: Who can transfer funds to me?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: Both sentences convey the need to check where the funds come from, which aligns with the intent of verifying the source of funds. | Original: I must verify the source of my funds | Augmented: I need to confirm the origin of my funds
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: My friend would like to send me money. What are the options available to them? | Augmented: My friend wants to transfer funds to me. What methods can they use to do so?
+VAL | [receiving_money] | ACCEPT | Reason: ... | Original: Please show me how my friend can send me money. | Augmented: Can you guide me on how my friend can transfer funds to me?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: N/A | Original: What do I need to do to request cash back? The ATM actually just gave me the wrong amount. The app I actually chose the right amount. | Augmented: The ATM dispensed an incorrect amount, and I'd like to know how to initiate a cash return. The amount I selected on the app was correct, but the machine gave me the wrong amount.
+VAL | [atm_support] | ACCEPT | Reason: Both texts are seeking information on locating an ATM for withdrawing money, which aligns with the 'atm_support' intent. | Original: how do I know where I can get money withdrawn? | Augmented: where can I find an ATM to withdraw cash?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: How much is it to receive money? | Augmented: What is the fee for receiving funds via bank transfer?
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: What is the source of the money in my account? | Augmented: Can you confirm the origin of the funds in your account?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: What do I need to do to get my salary through this? | Augmented: How can I receive my salary payment through this channel?
+VAL_SUMMARY | ACCEPT: 38 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 1 | Accept Rate: 0.9744

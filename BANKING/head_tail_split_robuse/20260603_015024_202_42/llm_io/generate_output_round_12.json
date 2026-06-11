@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "How can I guarantee that my transfer won't be declined due to an unsupported merchant?",
+    "I attempted to replenish my account balance, but an error occurred.",
+    "Can I use a cheque to top up my account?",
+    "I'm running low on funds in my account. Can I initiate a transfer to replenish my account balance?",
+    "Can I use a bank transfer to top up my account through this program?",
+    "what can I do to prevent being charged a fee on my card in the future?",
+    "I'm having an issue with a recent transaction, I'm certain your bank allows cryptocurrency deposits, but I'm unable to complete the process. After adding funds to my account, the amount seems to have vanished, and I'm unsure what happened to it.",
+    "what's the purpose of verifying my identity",
+    "I'd like to add funds to my card.",
+    "display the process for transferring funds into my account",
+    "I require my funds in a different currency",
+    "Please assist me, I was charged an unexpected fee when I withdrew cash.",
+    "How can I replenish my account balance using a cheque or cash?",
+    "Why haven't my card payment cleared yet?",
+    "The app is not displaying my recent transactions",
+    "I'm unable to locate the transfer receipt.",
+    "What's the reason behind verifying identities at our bank?",
+    "Can I make a currency exchange using this mobile app?",
+    "How do I initiate an exchange?",
+    "What happens if my top-up transaction is reversed?",
+    "How can I add funds to my account using my card?",
+    "Can I use a bank transfer to top up my account?",
+    "Why hasn't the money transfer been credited to the recipient's account?",
+    "Can you provide details about the limits for making deposits or adding funds to my account?",
+    "The rate you're using for currency conversion is quite inaccurate. It's making me think about canceling my account.",
+    "Which fiat currencies are restricted for holding a large amount, and what are the limitations?",
+    "Why did my card get debited when I used it to add funds to my account, but the updated balance isn't reflecting in my wallet?",
+    "We're verifying your identity to ensure the security and integrity of your account.",
+    "Can you facilitate bank transfers via SWIFT or other international payment methods?",
+    "I'm experiencing an issue with a cash withdrawal that's not being recognized. I'm concerned about unauthorized activity on my account from a location I've never visited. Could you please place a temporary hold on my account until I can visit the bank in person?",
+    "I have a pending transfer",
+    "Why is my designated recipient unable to access payment services?",
+    "The recipient of my money transfer is unable to view the transaction.",
+    "Is the type of credit card I use significant?",
+    "I've successfully completed the 3D secure authentication process, but the crypto top-up still isn't functioning for me. I'm also confused about what happened to the funds in my account.",
+    "Can I reissue my card? I previously reported it lost, but I've since located it and would like to reactivate it.",
+    "I've been waiting for an eternity for my online order to arrive, but it's nowhere to be found. I'd like to request a refund as I'm not willing to continue holding onto my payment.",
+    "I'm unable to make a successful top-up."
+  ],
+  "generated_labels": [
+    27,
+    61,
+    58,
+    65,
+    56,
+    15,
+    61,
+    69,
+    62,
+    65,
+    50,
+    19,
+    58,
+    45,
+    66,
+    66,
+    74,
+    33,
+    32,
+    61,
+    62,
+    56,
+    66,
+    60,
+    17,
+    36,
+    62,
+    74,
+    56,
+    20,
+    48,
+    7,
+    66,
+    73,
+    61,
+    13,
+    52,
+    59
+  ],
+  "source_texts": [
+    "How do I make sure my transfer isn't goin to an unsupported merchant?",
+    "I refilled my account balance but got an error message.",
+    "Can I use a check to get gas?",
+    "I have no more money in my account.  Is there a way to do a bank transfer to put money into my account?",
+    "Does this program take SWIFT transfers?",
+    "how do i avoid charges in the future",
+    "I need some help, I thought you guys accepted crypto top ups?? It won't seem to let me do it. I put money in my account and now it's gone and I didn't spend it. Where did it go??",
+    "why do I need to show ID",
+    "I need my card topped up,",
+    "show me how to transfer to my account",
+    "I need my payment in another currency",
+    "Please help!  There was an extra fee when I got cash.",
+    "How can I fill up my gas tank using a check?",
+    "Why aren't my payment funds available to me?",
+    "The app isn't showing my transactions",
+    "I dont see my reciept",
+    "Is the identity check part of bank policy?",
+    "Can I use this app to change money?",
+    "What's the process for exchanges?",
+    "What if my top up is reverted?",
+    "How do I to up by card?",
+    "Are SWIFT transfers supported?",
+    "What happens when I money transaction doesn't show up on the receiving side?",
+    "It seems I need to get information on limits for top-ups.",
+    "The exchange rate used on your app is really bad. I'm considering closing my account because of it.",
+    "What currencies can I not hold many in, if so what are they?",
+    "Why was my card charged when topping off my balance but it's not showing up in my wallet balance?",
+    "Why are you asking so many questions about me?",
+    "Do you process SWIFT transfers?",
+    "I hope you can help me. My account has been compromised from a different town that I haven't been to. Can you please place a hold on my account until I can make it to the bank?",
+    "I have an outgoing transaction",
+    "Why is my beneficiary not being allowed to get payment services?",
+    "Why can't the recepient of my money transaction see it?",
+    "Does it matter which card I use",
+    "Hae, I already completed my 3D secure authentication when I tried the crypto top up but it's still not working for me. I also don't understand what happened to the money in my account",
+    "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+    "It has been forever ago that I made an order online. The product simply is not coming. Just give me back my money because I'm not paying these people.",
+    "I can't add any more money."
+  ],
+  "records": [
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How do I make sure my transfer isn't goin to an unsupported merchant?",
+      "generated": "How can I guarantee that my transfer won't be declined due to an unsupported merchant?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I refilled my account balance but got an error message.",
+      "generated": "I attempted to replenish my account balance, but an error occurred."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I use a check to get gas?",
+      "generated": "Can I use a cheque to top up my account?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I have no more money in my account.  Is there a way to do a bank transfer to put money into my account?",
+      "generated": "I'm running low on funds in my account. Can I initiate a transfer to replenish my account balance?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Does this program take SWIFT transfers?",
+      "generated": "Can I use a bank transfer to top up my account through this program?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "how do i avoid charges in the future",
+      "generated": "what can I do to prevent being charged a fee on my card in the future?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I need some help, I thought you guys accepted crypto top ups?? It won't seem to let me do it. I put money in my account and now it's gone and I didn't spend it. Where did it go??",
+      "generated": "I'm having an issue with a recent transaction, I'm certain your bank allows cryptocurrency deposits, but I'm unable to complete the process. After adding funds to my account, the amount seems to have vanished, and I'm unsure what happened to it."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "why do I need to show ID",
+      "generated": "what's the purpose of verifying my identity"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I need my card topped up,",
+      "generated": "I'd like to add funds to my card."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "show me how to transfer to my account",
+      "generated": "display the process for transferring funds into my account"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I need my payment in another currency",
+      "generated": "I require my funds in a different currency"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Please help!  There was an extra fee when I got cash.",
+      "generated": "Please assist me, I was charged an unexpected fee when I withdrew cash."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How can I fill up my gas tank using a check?",
+      "generated": "How can I replenish my account balance using a cheque or cash?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why aren't my payment funds available to me?",
+      "generated": "Why haven't my card payment cleared yet?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "The app isn't showing my transactions",
+      "generated": "The app is not displaying my recent transactions"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I dont see my reciept",
+      "generated": "I'm unable to locate the transfer receipt."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Is the identity check part of bank policy?",
+      "generated": "What's the reason behind verifying identities at our bank?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app to change money?",
+      "generated": "Can I make a currency exchange using this mobile app?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What's the process for exchanges?",
+      "generated": "How do I initiate an exchange?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "What if my top up is reverted?",
+      "generated": "What happens if my top-up transaction is reversed?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I to up by card?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT transfers supported?",
+      "generated": "Can I use a bank transfer to top up my account?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "What happens when I money transaction doesn't show up on the receiving side?",
+      "generated": "Why hasn't the money transfer been credited to the recipient's account?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "It seems I need to get information on limits for top-ups.",
+      "generated": "Can you provide details about the limits for making deposits or adding funds to my account?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate used on your app is really bad. I'm considering closing my account because of it.",
+      "generated": "The rate you're using for currency conversion is quite inaccurate. It's making me think about canceling my account."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What currencies can I not hold many in, if so what are they?",
+      "generated": "Which fiat currencies are restricted for holding a large amount, and what are the limitations?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Why was my card charged when topping off my balance but it's not showing up in my wallet balance?",
+      "generated": "Why did my card get debited when I used it to add funds to my account, but the updated balance isn't reflecting in my wallet?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why are you asking so many questions about me?",
+      "generated": "We're verifying your identity to ensure the security and integrity of your account."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do you process SWIFT transfers?",
+      "generated": "Can you facilitate bank transfers via SWIFT or other international payment methods?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I hope you can help me. My account has been compromised from a different town that I haven't been to. Can you please place a hold on my account until I can make it to the bank?",
+      "generated": "I'm experiencing an issue with a cash withdrawal that's not being recognized. I'm concerned about unauthorized activity on my account from a location I've never visited. Could you please place a temporary hold on my account until I can visit the bank in person?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have an outgoing transaction",
+      "generated": "I have a pending transfer"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is my beneficiary not being allowed to get payment services?",
+      "generated": "Why is my designated recipient unable to access payment services?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why can't the recepient of my money transaction see it?",
+      "generated": "The recipient of my money transfer is unable to view the transaction."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Does it matter which card I use",
+      "generated": "Is the type of credit card I use significant?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hae, I already completed my 3D secure authentication when I tried the crypto top up but it's still not working for me. I also don't understand what happened to the money in my account",
+      "generated": "I've successfully completed the 3D secure authentication process, but the crypto top-up still isn't functioning for me. I'm also confused about what happened to the funds in my account."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+      "generated": "Can I reissue my card? I previously reported it lost, but I've since located it and would like to reactivate it."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "It has been forever ago that I made an order online. The product simply is not coming. Just give me back my money because I'm not paying these people.",
+      "generated": "I've been waiting for an eternity for my online order to arrive, but it's nowhere to be found. I'd like to request a refund as I'm not willing to continue holding onto my payment."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I can't add any more money.",
+      "generated": "I'm unable to make a successful top-up."
+    }
+  ]
+}

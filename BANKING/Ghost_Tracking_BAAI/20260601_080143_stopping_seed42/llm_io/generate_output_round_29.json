@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I'd like to request a new virtual card, could you guide me on how to obtain one?",
+    "Do I need to make a payment to obtain a physical card?",
+    "I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me.",
+    "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?",
+    "Can I arrange for a card to be delivered to China?",
+    "reversal of a top-up request",
+    "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?",
+    "Why was my cash withdrawal declined at the ATM?",
+    "I'd rather use Mastercard, is it possible to make a change?",
+    "Can I obtain the Visa or Mastercard?",
+    "What methods are available for transferring funds from my American Express card?",
+    "Google Pay is not recognizing my American Express card, can you help me resolve this issue?",
+    "Please provide me with a Visa or Mastercard.",
+    "I'd like to place an order for a physical card.",
+    "Do you allow me to choose between Visa and Mastercard, or do you automatically select the card type for me?",
+    "We're experiencing technical difficulties, and our system is unable to recognize your identity.",
+    "Are there any charges associated with bank transfers that I should be aware of?",
+    "I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible.",
+    "how can I charge my card to add funds?",
+    "Can I request a spare card in my daughter's name, which will be linked to my account?",
+    "We need to confirm the origin of your funds",
+    "A pending cash withdrawal is currently being processed.",
+    "How do I get my physical card delivered?",
+    "I made a payment and didn't receive a confirmation",
+    "I'm unable to locate the recent card top-up in my digital wallet.",
+    "Can you please provide me with my top-up code?",
+    "I'd like to request a reversal of this fee from my account.",
+    "A surprise fee has appeared on a transfer that shouldn't have had one.",
+    "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?",
+    "What is the charge for exchanging currency from a foreign country?",
+    "I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card.",
+    "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.",
+    "I'm having trouble using my card at ATMs. I've tried to withdraw cash from two different machines, but it's been declined each time.",
+    "I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?",
+    "I've reviewed my account information to confirm everything is accurate, and I'm still waiting for a pending transfer to process.",
+    "If I require additional cards, will I be charged a fee for obtaining them?",
+    "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge."
+  ],
+  "generated_labels": [
+    40,
+    43,
+    13,
+    63,
+    9,
+    61,
+    28,
+    26,
+    73,
+    73,
+    54,
+    2,
+    73,
+    43,
+    73,
+    68,
+    56,
+    75,
+    57,
+    39,
+    70,
+    46,
+    43,
+    66,
+    62,
+    71,
+    52,
+    64,
+    64,
+    31,
+    13,
+    46,
+    26,
+    28,
+    48,
+    39,
+    63
+  ],
+  "source_texts": [
+    "I need to order a new card, can you please direct me to the virtual cards?",
+    "Is payment required to get a card of my own?",
+    "I found my card that I thought I had lost, I need to reactive it, please help.",
+    "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+    "Am I able to have a card sent to China?",
+    "top up cancellation",
+    "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+    "Why did the ATM cancel my transaction",
+    "I prefer using Mastercard, can I substitute?",
+    "Can I get the Mastercard?",
+    "how can i transfer money from american express card",
+    "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+    "Please give me a Mastercard instead.",
+    "I would like to request a card.",
+    "Can I select my card scheme or do you choose it for me?",
+    "app malfunctioning, does not know its me",
+    "Can third party fees affect a transfer?",
+    "I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!",
+    "how should i add money to my card",
+    "Can my daughter also have a card issued in her name, but linked to my account?",
+    "My funds must be verified",
+    "There is a withdrawal waiting.",
+    "Card delivery services? Where?",
+    "I did a money transaction and dont have a receipt",
+    "I can't see my top up in my wallet!",
+    "Where's my top up code?",
+    "I want this fee reversed from my account.",
+    "There is a fee from a transfer that is not supposed to be here!",
+    "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+    "What is the fee for accepting money from a foreign country?",
+    "I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.",
+    "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+    "Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM.",
+    "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+    "Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet.",
+    "If I need more than cards will I have to pay a fee to receive them?",
+    "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?"
+  ],
+  "records": [
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I need to order a new card, can you please direct me to the virtual cards?",
+      "generated": "I'd like to request a new virtual card, could you guide me on how to obtain one?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Is payment required to get a card of my own?",
+      "generated": "Do I need to make a payment to obtain a physical card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I found my card that I thought I had lost, I need to reactive it, please help.",
+      "generated": "I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.",
+      "generated": "I've found that I've been charged twice for a few transactions recently. Could you please investigate and reverse the duplicate charges?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Am I able to have a card sent to China?",
+      "generated": "Can I arrange for a card to be delivered to China?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "top up cancellation",
+      "generated": "reversal of a top-up request"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I think I am a victim of fraud.  I noticed there was a charge on my account that I didn't do because I haven't touched my card today.  Can you please reverse the charge and refund my money?",
+      "generated": "I'm concerned that someone has unauthorized access to my account. I've checked my card activity and found an unexplained transaction. Can you investigate and cancel the charge, then refund the amount to my account?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why did the ATM cancel my transaction",
+      "generated": "Why was my cash withdrawal declined at the ATM?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I prefer using Mastercard, can I substitute?",
+      "generated": "I'd rather use Mastercard, is it possible to make a change?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get the Mastercard?",
+      "generated": "Can I obtain the Visa or Mastercard?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "how can i transfer money from american express card",
+      "generated": "What methods are available for transferring funds from my American Express card?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+      "generated": "Google Pay is not recognizing my American Express card, can you help me resolve this issue?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Please give me a Mastercard instead.",
+      "generated": "Please provide me with a Visa or Mastercard."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I would like to request a card.",
+      "generated": "I'd like to place an order for a physical card."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I select my card scheme or do you choose it for me?",
+      "generated": "Do you allow me to choose between Visa and Mastercard, or do you automatically select the card type for me?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "app malfunctioning, does not know its me",
+      "generated": "We're experiencing technical difficulties, and our system is unable to recognize your identity."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can third party fees affect a transfer?",
+      "generated": "Are there any charges associated with bank transfers that I should be aware of?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!",
+      "generated": "I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how should i add money to my card",
+      "generated": "how can I charge my card to add funds?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can my daughter also have a card issued in her name, but linked to my account?",
+      "generated": "Can I request a spare card in my daughter's name, which will be linked to my account?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My funds must be verified",
+      "generated": "We need to confirm the origin of your funds"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "There is a withdrawal waiting.",
+      "generated": "A pending cash withdrawal is currently being processed."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Card delivery services? Where?",
+      "generated": "How do I get my physical card delivered?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I did a money transaction and dont have a receipt",
+      "generated": "I made a payment and didn't receive a confirmation"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I can't see my top up in my wallet!",
+      "generated": "I'm unable to locate the recent card top-up in my digital wallet."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Where's my top up code?",
+      "generated": "Can you please provide me with my top-up code?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I want this fee reversed from my account.",
+      "generated": "I'd like to request a reversal of this fee from my account."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "There is a fee from a transfer that is not supposed to be here!",
+      "generated": "A surprise fee has appeared on a transfer that shouldn't have had one."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+      "generated": "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "What is the fee for accepting money from a foreign country?",
+      "generated": "What is the charge for exchanging currency from a foreign country?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.",
+      "generated": "I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+      "generated": "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM.",
+      "generated": "I'm having trouble using my card at ATMs. I've tried to withdraw cash from two different machines, but it's been declined each time."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+      "generated": "I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet.",
+      "generated": "I've reviewed my account information to confirm everything is accurate, and I'm still waiting for a pending transfer to process."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "If I need more than cards will I have to pay a fee to receive them?",
+      "generated": "If I require additional cards, will I be charged a fee for obtaining them?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",
+      "generated": "I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge."
+    }
+  ]
+}

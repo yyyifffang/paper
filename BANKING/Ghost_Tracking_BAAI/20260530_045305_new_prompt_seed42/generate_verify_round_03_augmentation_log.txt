@@ -1,0 +1,75 @@
+GEN | [extra_charge_on_statement] | Orig: What does the €1 fee mean? -> Aug: What is the purpose of the additional charge that appears on my statement?
+GEN | [extra_charge_on_statement] | Orig: Where did the  €1 fee in my statement come from -> Aug: Can you explain the €1 charge on my recent statement?
+GEN | [extra_charge_on_statement] | Orig: What is this extra €1 fee about? -> Aug: What is the purpose of this additional €1 charge on my statement?
+GEN | [extra_charge_on_statement] | Orig: What is the extra €1 on my statement for? -> Aug: What is the additional charge on my statement for?
+GEN | [exchange_charge] | Orig: is there a foreign currencies charge? -> Aug: Are there any foreign currency exchange fees or charges?
+GEN | [extra_charge_on_statement] | Orig: what was the $1 fee i got -> Aug: what was the additional charge I noticed on my statement?
+GEN | [extra_charge_on_statement] | Orig: I've been charged an extra £1 and I don't know what it's for -> Aug: I've noticed an unexpected additional charge of £1 on my statement and I'm unsure what it's for
+GEN | [transaction_charged_twice] | Orig: Why did I get charged twice for the same thing -> Aug: I was mistakenly billed for the same transaction twice
+GEN | [transaction_charged_twice] | Orig: I was charged multiple times at the same location at the same time -> Aug: I was double-billed at the same location during the same transaction period
+GEN | [extra_charge_on_statement] | Orig: Why have I been charged an extra £1? -> Aug: I'm not sure why I was billed an additional amount on my statement.
+GEN | [extra_charge_on_statement] | Orig: Why do I see an extra €1 charge on my statement? -> Aug: I'm seeing an additional €1 fee on my statement, can you explain why?
+GEN | [transaction_charged_twice] | Orig: I think I got charged twice for the same thing -> Aug: I believe I've been double-billed for the same transaction
+GEN | [transaction_charged_twice] | Orig: Why am I being charged for the same thing twice? -> Aug: I've been double-charged for the same transaction, and I'm not sure why.
+GEN | [extra_charge_on_statement] | Orig: Why i'm I being charged an extra pound -> Aug: Why am I being charged an additional fee on my statement?
+GEN | [extra_charge_on_statement] | Orig: Why have I been charged an extra pound? -> Aug: I'm not sure why I was charged an additional amount on my statement.
+GEN | [transaction_charged_twice] | Orig: Why was I charged twice for the same thing? -> Aug: I was mistakenly billed for the same transaction twice.
+GEN | [card_payment_fee_charged] | Orig: What are these fees i am paying? -> Aug: Why am I being charged these fees on my card payment?
+GEN | [extra_charge_on_statement] | Orig: Why was I charged extra on my app? -> Aug: I noticed an unexpected extra charge on my statement. Can you explain why?
+GEN | [extra_charge_on_statement] | Orig: Why is there an extra €1 fee in my statement? -> Aug: What's the reason behind the additional €1 charge on my statement?
+GEN | [order_physical_card] | Orig: Is a physical charge extra -> Aug: Is there an additional fee for a physical card?
+GEN | [extra_charge_on_statement] | Orig: Why did you guys charge me an extra €1? -> Aug: I'm wondering why I was charged an additional €1 on my statement.
+GEN | [transaction_charged_twice] | Orig: Why have I been charged twice? -> Aug: I've been mistakenly billed twice for the same transaction.
+GEN | [extra_charge_on_statement] | Orig: Is the 1 pound charge going to be reimbursed on my card? -> Aug: Will the extra charge that appears on my statement be credited back to my card?
+GEN | [transaction_charged_twice] | Orig: Why am i being double charged for something? -> Aug: I've been mistakenly billed twice for the same transaction.
+GEN | [transaction_charged_twice] | Orig: What happens when I am charged twice? -> Aug: How do I handle a duplicate charge on my account?
+GEN | [compromised_card] | Orig: Someone might have had access to my card. -> Aug: It's possible that someone has gained unauthorized access to my credit card.
+GEN | [extra_charge_on_statement] | Orig: €1 was in my statement as an extra fee. -> Aug: A charge of €1 was listed on my statement as an additional fee.
+GEN | [extra_charge_on_statement] | Orig: Why do I see an extra £1 charge on my statement? -> Aug: I'm seeing an additional £1 fee on my statement - can you explain why?
+GEN | [extra_charge_on_statement] | Orig: Why is there a 1 euro fee on my statement? -> Aug: What is the reason for the additional charge that appears on my statement?
+GEN | [transaction_charged_twice] | Orig: Why did I get charged more than once? -> Aug: I was mistakenly billed twice for the same transaction.
+GEN | [card_payment_fee_charged] | Orig: Why did I get charged extra? -> Aug: I'm not sure why I was charged an additional fee.
+GEN | [extra_charge_on_statement] | Orig: I have been charged a pound for something that appears on my statement -> Aug: I've noticed an unexpected fee on my statement that I'd like to understand the reason for.
+GEN | [transaction_charged_twice] | Orig: I have been charged for one thing two times. -> Aug: I've been double-charged for a single transaction.
+GEN | [extra_charge_on_statement] | Orig: Why was I charged an extra pound? -> Aug: I was surprised to see an additional charge on my statement.
+GEN | [extra_charge_on_statement] | Orig: I need to know what these extra charges are on my statement? -> Aug: I'd like to understand the additional fees listed on my latest statement.
+GEN | [exchange_charge] | Orig: Will I get charged on a foreign currencies exchange? -> Aug: Will I be charged for exchanging foreign currencies?
+GEN | [extra_charge_on_statement] | Orig: I  see an extra 1£ charge on my app. Why did It charge me extra? -> Aug: I noticed an additional £1 charge on my statement. Can you explain why I was billed extra?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: What does the €1 fee mean? | Augmented: What is the purpose of the additional charge that appears on my statement?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: Both texts are asking for an explanation of an unexpected amount on the statement, preserving the core intent of identifying an extra charge. | Original: Where did the  €1 fee in my statement come from | Augmented: Can you explain the €1 charge on my recent statement?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: What is this extra €1 fee about? | Augmented: What is the purpose of this additional €1 charge on my statement?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: What is the extra €1 on my statement for? | Augmented: What is the additional charge on my statement for?
+VAL | [exchange_charge] | ACCEPT | Reason: The augmented text does not change the intent; it simply uses slightly different wording to ask about the same concept. | Original: is there a foreign currencies charge? | Augmented: Are there any foreign currency exchange fees or charges?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: what was the $1 fee i got | Augmented: what was the additional charge I noticed on my statement?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: I've been charged an extra £1 and I don't know what it's for | Augmented: I've noticed an unexpected additional charge of £1 on my statement and I'm unsure what it's for
+VAL | [transaction_charged_twice] | ACCEPT | Reason: ... | Original: Why did I get charged twice for the same thing | Augmented: I was mistakenly billed for the same transaction twice
+VAL | [transaction_charged_twice] | ACCEPT | Reason: N/A | Original: I was charged multiple times at the same location at the same time | Augmented: I was double-billed at the same location during the same transaction period
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: Why have I been charged an extra £1? | Augmented: I'm not sure why I was billed an additional amount on my statement.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: The augmented text maintains the focus on an extra charge on the statement and seeks an explanation for it, which is consistent with the original intent. | Original: Why do I see an extra €1 charge on my statement? | Augmented: I'm seeing an additional €1 fee on my statement, can you explain why?
+VAL | [transaction_charged_twice] | ACCEPT | Reason: ... | Original: I think I got charged twice for the same thing | Augmented: I believe I've been double-billed for the same transaction
+VAL | [transaction_charged_twice] | ACCEPT | Reason: The augmented text preserves the same issue of being charged twice for the same transaction, which aligns with the original intent. It does not introduce any ambiguity or unsupported information. | Original: Why am I being charged for the same thing twice? | Augmented: I've been double-charged for the same transaction, and I'm not sure why.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: Why i'm I being charged an extra pound | Augmented: Why am I being charged an additional fee on my statement?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: The augmented text maintains the core question about an extra charge on the statement without introducing any new or unsupported information. | Original: Why have I been charged an extra pound? | Augmented: I'm not sure why I was charged an additional amount on my statement.
+VAL | [transaction_charged_twice] | ACCEPT | Reason: ... | Original: Why was I charged twice for the same thing? | Augmented: I was mistakenly billed for the same transaction twice.
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: ... | Original: What are these fees i am paying? | Augmented: Why am I being charged these fees on my card payment?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: Why was I charged extra on my app? | Augmented: I noticed an unexpected extra charge on my statement. Can you explain why?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: Why is there an extra €1 fee in my statement? | Augmented: What's the reason behind the additional €1 charge on my statement?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Is a physical charge extra | Augmented: Is there an additional fee for a physical card?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: Why did you guys charge me an extra €1? | Augmented: I'm wondering why I was charged an additional €1 on my statement.
+VAL | [transaction_charged_twice] | ACCEPT | Reason: ... | Original: Why have I been charged twice? | Augmented: I've been mistakenly billed twice for the same transaction.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: Is the 1 pound charge going to be reimbursed on my card? | Augmented: Will the extra charge that appears on my statement be credited back to my card?
+VAL | [transaction_charged_twice] | ACCEPT | Reason: N/A | Original: Why am i being double charged for something? | Augmented: I've been mistakenly billed twice for the same transaction.
+VAL | [transaction_charged_twice] | ACCEPT | Reason: ... | Original: What happens when I am charged twice? | Augmented: How do I handle a duplicate charge on my account?
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: Someone might have had access to my card. | Augmented: It's possible that someone has gained unauthorized access to my credit card.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: €1 was in my statement as an extra fee. | Augmented: A charge of €1 was listed on my statement as an additional fee.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: Why do I see an extra £1 charge on my statement? | Augmented: I'm seeing an additional £1 fee on my statement - can you explain why?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: Why is there a 1 euro fee on my statement? | Augmented: What is the reason for the additional charge that appears on my statement?
+VAL | [transaction_charged_twice] | ACCEPT | Reason: N/A | Original: Why did I get charged more than once? | Augmented: I was mistakenly billed twice for the same transaction.
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: ... | Original: Why did I get charged extra? | Augmented: I'm not sure why I was charged an additional fee.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: I have been charged a pound for something that appears on my statement | Augmented: I've noticed an unexpected fee on my statement that I'd like to understand the reason for.
+VAL | [transaction_charged_twice] | ACCEPT | Reason: N/A | Original: I have been charged for one thing two times. | Augmented: I've been double-charged for a single transaction.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: Why was I charged an extra pound? | Augmented: I was surprised to see an additional charge on my statement.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: I need to know what these extra charges are on my statement? | Augmented: I'd like to understand the additional fees listed on my latest statement.
+VAL | [exchange_charge] | ACCEPT | Reason: ... | Original: Will I get charged on a foreign currencies exchange? | Augmented: Will I be charged for exchanging foreign currencies?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: I  see an extra 1£ charge on my app. Why did It charge me extra? | Augmented: I noticed an additional £1 charge on my statement. Can you explain why I was billed extra?
+VAL_SUMMARY | ACCEPT: 37 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 0 | Accept Rate: 1.0000

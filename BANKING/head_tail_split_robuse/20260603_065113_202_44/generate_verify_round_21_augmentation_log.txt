@@ -1,0 +1,69 @@
+GEN | [visa_or_mastercard] | Orig: Which type of card will I receive? -> Aug: What kind of payment card will I be issued?
+GEN | [card_arrival] | Orig: I don't have my card in 1 week.  Should I be worried? -> Aug: I haven't received my card within a week. Should I be concerned?
+GEN | [contactless_not_working] | Orig: Why wasn't my contactless accepted at the metro? -> Aug: Why did my contactless payment fail to work at the metro station?
+GEN | [getting_spare_card] | Orig: What's the limit on total number of cards I can have? -> Aug: How many spare cards can I have issued to me?
+GEN | [change_pin] | Orig: I am on vacation in Spain and need to change my pin. -> Aug: I'm currently traveling in Spain and would like to modify my PIN.
+GEN | [card_delivery_estimate] | Orig: how much to get my card in 2 days? -> Aug: Can you provide an estimate for the delivery of my card within a 2-day timeframe?
+GEN | [disposable_card_limits] | Orig: A friend was telling me about her disposable cards. What would I have to do to be able to get that feature? -> Aug: Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?
+GEN | [top_up_limits] | Orig: Whats the limit on my top up -> Aug: What's the maximum amount I can top up?
+GEN | [top_up_limits] | Orig: How many top-ups am I allowed to do? -> Aug: How many times can I increase my limits through top-ups?
+GEN | [change_pin] | Orig: I think someone saw my PIN and I am on vacation in Spain, can I change it locally at an ATM? -> Aug: I'm concerned that someone may have discovered my PIN and I'm currently in Spain, can I modify it at a local ATM?
+GEN | [change_pin] | Orig: While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain? -> Aug: As I'm currently in Spain, I'm concerned that someone might have seen my PIN and I'd like to change it; can I do so at an ATM here or is there another option available?
+GEN | [top_up_failed] | Orig: Fix my top up -> Aug: Complete my top-up transaction
+GEN | [card_about_to_expire] | Orig: How can I get a card sent to China? -> Aug: What steps can I take to have a card delivered to China?
+GEN | [beneficiary_not_allowed] | Orig: I was unable to transfer to another account. -> Aug: I was unable to make a transfer to a different account.
+GEN | [get_disposable_virtual_card] | Orig: I have heard about these disposable virtual cards but don't understand how they work. -> Aug: I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.
+GEN | [top_up_failed] | Orig: Can I tell if my top off didn't work?  It doesn't seem to have. -> Aug: Can you confirm if my top-up was unsuccessful? It appears it didn't go through.
+GEN | [atm_support] | Orig: Where should I withdraw money from? -> Aug: Where can I access cash from an ATM?
+GEN | [verify_top_up] | Orig: What is the top up code for? -> Aug: What is the verification code for the top-up process?
+GEN | [Refund_not_showing_up] | Orig: It's been more than a week since I had a return charged to my card, why hasn't it showed up? -> Aug: It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement.
+GEN | [top_up_failed] | Orig: I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly. -> Aug: I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible.
+GEN | [exchange_charge] | Orig: Do exchanges cost more? -> Aug: Are there any additional fees associated with exchanging funds?
+GEN | [visa_or_mastercard] | Orig: What type of card will I receive? -> Aug: What kind of payment card will I be issued?
+GEN | [reverted_card_payment?] | Orig: I was just contacted by a seller that let me know they didn't get my money even though I'm very sure it was removed from my account. Now it's back in my account. Get this resolved quickly. -> Aug: I'm concerned about a payment I made that was initially deducted from my account, but then reversed. The seller has informed me that they didn't receive the payment. Can you look into this and resolve the issue as soon as possible?
+GEN | [unable_to_verify_identity] | Orig: The app does not know it is me. -> Aug: The system is unable to confirm your identity.
+GEN | [transfer_not_received_by_recipient] | Orig: How can I the person see my money transaction? -> Aug: Why hasn't the recipient received my money transfer?
+GEN | [visa_or_mastercard] | Orig: I want to get a Visa -> Aug: I'd like to obtain a Mastercard
+GEN | [getting_spare_card] | Orig: My daughter need a card from this account. Is that possible? -> Aug: Can I request a replacement card for my daughter's account?
+GEN | [card_about_to_expire] | Orig: Will you send me a new card in China? -> Aug: Can you provide a replacement card for me in China?
+GEN | [topping_up_by_card] | Orig: My top up isn't in my wallet. -> Aug: My card balance isn't showing the recent top-up.
+GEN | [cash_withdrawal_charge] | Orig: Could you explain your rules for ATM fees? -> Aug: What are the charges for withdrawing cash from an ATM?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Is there a cost to receive money? -> Aug: Are there any fees associated with receiving a bank transfer to top up my account?
+GEN | [beneficiary_not_allowed] | Orig: Are there restrictions to transfers to certain accounts? -> Aug: Can I transfer funds to specific accounts, or are there limitations in place?
+GEN | [pending_cash_withdrawal] | Orig: Do you know when the withdrawal will show? -> Aug: When can I expect the pending cash withdrawal to be processed?
+GEN | [card_payment_wrong_exchange_rate] | Orig: Does the fee for exchange change? -> Aug: Is the exchange rate fee subject to change?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: Which type of card will I receive? | Augmented: What kind of payment card will I be issued?
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: I don't have my card in 1 week.  Should I be worried? | Augmented: I haven't received my card within a week. Should I be concerned?
+VAL | [contactless_not_working] | ACCEPT | Reason: ... | Original: Why wasn't my contactless accepted at the metro? | Augmented: Why did my contactless payment fail to work at the metro station?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: What's the limit on total number of cards I can have? | Augmented: How many spare cards can I have issued to me?
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: I am on vacation in Spain and need to change my pin. | Augmented: I'm currently traveling in Spain and would like to modify my PIN.
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: how much to get my card in 2 days? | Augmented: Can you provide an estimate for the delivery of my card within a 2-day timeframe?
+VAL | [disposable_card_limits] | ACCEPT | Reason: N/A | Original: A friend was telling me about her disposable cards. What would I have to do to be able to get that feature? | Augmented: Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?
+VAL | [top_up_limits] | ACCEPT | Reason: ... | Original: Whats the limit on my top up | Augmented: What's the maximum amount I can top up?
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: How many top-ups am I allowed to do? | Augmented: How many times can I increase my limits through top-ups?
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: I think someone saw my PIN and I am on vacation in Spain, can I change it locally at an ATM? | Augmented: I'm concerned that someone may have discovered my PIN and I'm currently in Spain, can I modify it at a local ATM?
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain? | Augmented: As I'm currently in Spain, I'm concerned that someone might have seen my PIN and I'd like to change it; can I do so at an ATM here or is there another option available?
+VAL | [top_up_failed] | ACCEPT | Reason: N/A | Original: Fix my top up | Augmented: Complete my top-up transaction
+VAL | [card_about_to_expire] | UNKNOWN | Reason: N/A | Original: How can I get a card sent to China? | Augmented: What steps can I take to have a card delivered to China?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: I was unable to transfer to another account. | Augmented: I was unable to make a transfer to a different account.
+VAL | [get_disposable_virtual_card] | ACCEPT | Reason: ... | Original: I have heard about these disposable virtual cards but don't understand how they work. | Augmented: I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.
+VAL | [top_up_failed] | ACCEPT | Reason: ... | Original: Can I tell if my top off didn't work?  It doesn't seem to have. | Augmented: Can you confirm if my top-up was unsuccessful? It appears it didn't go through.
+VAL | [atm_support] | ACCEPT | Reason: ... | Original: Where should I withdraw money from? | Augmented: Where can I access cash from an ATM?
+VAL | [verify_top_up] | ACCEPT | Reason: N/A | Original: What is the top up code for? | Augmented: What is the verification code for the top-up process?
+VAL | [Refund_not_showing_up] | ACCEPT | Reason: The augmented text preserves the same banking intent of a refund not showing up, and it does not introduce any contradictory or unsupported information. | Original: It's been more than a week since I had a return charged to my card, why hasn't it showed up? | Augmented: It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement.
+VAL | [top_up_failed] | ACCEPT | Reason: ... | Original: I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly. | Augmented: I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible.
+VAL | [exchange_charge] | ACCEPT | Reason: ... | Original: Do exchanges cost more? | Augmented: Are there any additional fees associated with exchanging funds?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: What type of card will I receive? | Augmented: What kind of payment card will I be issued?
+VAL | [reverted_card_payment?] | ACCEPT | Reason: N/A | Original: I was just contacted by a seller that let me know they didn't get my money even though I'm very sure it was removed from my account. Now it's back in my account. Get this resolved quickly. | Augmented: I'm concerned about a payment I made that was initially deducted from my account, but then reversed. The seller has informed me that they didn't receive the payment. Can you look into this and resolve the issue as soon as possible?
+VAL | [unable_to_verify_identity] | ACCEPT | Reason: N/A | Original: The app does not know it is me. | Augmented: The system is unable to confirm your identity.
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: How can I the person see my money transaction? | Augmented: Why hasn't the recipient received my money transfer?
+VAL | [visa_or_mastercard] | REJECT | Reason: N/A | Original: I want to get a Visa | Augmented: I'd like to obtain a Mastercard
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: My daughter need a card from this account. Is that possible? | Augmented: Can I request a replacement card for my daughter's account?
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: Will you send me a new card in China? | Augmented: Can you provide a replacement card for me in China?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: My top up isn't in my wallet. | Augmented: My card balance isn't showing the recent top-up.
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: N/A | Original: Could you explain your rules for ATM fees? | Augmented: What are the charges for withdrawing cash from an ATM?
+VAL | [top_up_by_bank_transfer_charge] | UNKNOWN | Reason: N/A | Original: Is there a cost to receive money? | Augmented: Are there any fees associated with receiving a bank transfer to top up my account?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: Are there restrictions to transfers to certain accounts? | Augmented: Can I transfer funds to specific accounts, or are there limitations in place?
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: ... | Original: Do you know when the withdrawal will show? | Augmented: When can I expect the pending cash withdrawal to be processed?
+VAL | [card_payment_wrong_exchange_rate] | REVIEW | Reason: N/A | Original: Does the fee for exchange change? | Augmented: Is the exchange rate fee subject to change?
+VAL_SUMMARY | ACCEPT: 30 | REVIEW: 1 | REJECT: 1 | UNKNOWN: 2 | Accept Rate: 0.8824

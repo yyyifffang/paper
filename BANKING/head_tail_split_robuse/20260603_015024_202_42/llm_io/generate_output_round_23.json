@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "Why do I have to pay a fee to withdraw cash from the ATM?",
+    "Why hasn't my account balance been updated to reflect the cash deposit I made?",
+    "Can I receive a physical card to carry with me?",
+    "Can you confirm your date of birth with me?",
+    "I've misplaced my passcode",
+    "I require a large quantity of disposable cards daily, and I'd like the ability to discard them as needed.",
+    "I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?",
+    "my account shows a lower balance than I expected",
+    "What steps can I take to have a card delivered to China?",
+    "What's the process for converting currencies?",
+    "Can I cancel a transfer?",
+    "There's an unexpected cash amount appearing on my account.",
+    "I was overcharged for the item, and the amount doesn't match the expected exchange rate.",
+    "How can I obtain a physical credit card?",
+    "I haven't received my card within a week. Should I be concerned?",
+    "Why was my cash withdrawal request denied?",
+    "Can you tell me more about the physical card's PIN security feature?",
+    "Once you access your account, click on the \"Activate\" button and follow the prompts to complete the activation process within a few seconds.",
+    "How long does it typically take to process a pending cash withdrawal request?",
+    "We're planning to establish a savings plan for my child's future education expenses.",
+    "I'm having trouble accessing the app and need help recovering my phone.",
+    "I'm not currently in possession of my physical card.",
+    "Which countries do your accounts support international transactions to and from?",
+    "Can I make purchases with my card in Austria?",
+    "The ATM swallowed my card!",
+    "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?",
+    "What's the process for getting cash from an ATM?",
+    "Can you retrieve my forgotten passcode?",
+    "I've forgotten my passcode and can't access my account, what should I do to regain access?",
+    "Are there any special deals or promotions available for customers who regularly exchange currencies?",
+    "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?",
+    "Will you charge me extra fees if I make a payment using an international credit/debit card?",
+    "I've exceeded the allowed attempts to enter my PIN.",
+    "I accidentally sent a transfer to the wrong account, and I'd like to cancel it.",
+    "We've noticed a transaction on your statement that's causing some confusion. It appears to be a direct debit payment that we can't identify. The date is a few weeks old, and I'm not familiar with the business that made the charge. I'm wondering if you could help us investigate this further and determine if it was a legitimate transaction or not.",
+    "Are there any additional fees associated with exchanging funds?",
+    "What should I do if I reach the maximum number of PIN attempts allowed?"
+  ],
+  "generated_labels": [
+    19,
+    6,
+    43,
+    74,
+    44,
+    29,
+    26,
+    75,
+    9,
+    32,
+    8,
+    20,
+    17,
+    43,
+    11,
+    26,
+    38,
+    0,
+    46,
+    1,
+    42,
+    38,
+    24,
+    24,
+    18,
+    6,
+    3,
+    44,
+    44,
+    31,
+    41,
+    57,
+    49,
+    8,
+    28,
+    31,
+    49
+  ],
+  "source_texts": [
+    "How come I got to pay to get my money from the ATM?",
+    "Where is my cash deposit in my balance?",
+    "Do I get a card to keep in my wallet?",
+    "Do you need my birthdate?",
+    "I forgot my code",
+    "I need several cards per day. And I need to be able to throw away all of the cards I make.",
+    "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+    "my cash balance less than what I thought",
+    "How can I get a card sent to China?",
+    "How do you do exchanges?",
+    "Can I stop a transaction?",
+    "THere is some cash that is showing up on my app.",
+    "I was charged the wing amount for an item.",
+    "what steps do i do to get a real card",
+    "I don't have my card in 1 week.  Should I be worried?",
+    "Why can I not take out cash?",
+    "Explain the card PIN to me.",
+    "If you to to account, hit activate, and follow the instructions, you can activate it in just a few seconds.",
+    "How long does it take to verify a cash withdraw?",
+    "We want to start a college fund for my daughter.",
+    "What do I do if I cannot access the app?",
+    "I don't have a PIN at this point.",
+    "What countries do your accounts send and receive to?",
+    "Can I use my card in Austria?",
+    "The ATM didnt return my card!",
+    "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+    "How do I withdraw money?",
+    "Can you lookup my password?",
+    "I'm locked out of my account as I can't remember my code, what do I do now?",
+    "Do you offer a discount for those who perform frequent currency exchanges?",
+    "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+    "Will you assess me more fees if I top up with an international card?",
+    "I used my pin too many times.",
+    "I made a transaction, but I made it to an account I didn't mean to make it to.",
+    "I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain?",
+    "Do exchanges cost more?",
+    "What should I do if I exceed my PIN tries?"
+  ],
+  "records": [
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How come I got to pay to get my money from the ATM?",
+      "generated": "Why do I have to pay a fee to withdraw cash from the ATM?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Where is my cash deposit in my balance?",
+      "generated": "Why hasn't my account balance been updated to reflect the cash deposit I made?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do I get a card to keep in my wallet?",
+      "generated": "Can I receive a physical card to carry with me?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Do you need my birthdate?",
+      "generated": "Can you confirm your date of birth with me?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I forgot my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "I need several cards per day. And I need to be able to throw away all of the cards I make.",
+      "generated": "I require a large quantity of disposable cards daily, and I'd like the ability to discard them as needed."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+      "generated": "I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "my cash balance less than what I thought",
+      "generated": "my account shows a lower balance than I expected"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How can I get a card sent to China?",
+      "generated": "What steps can I take to have a card delivered to China?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "How do you do exchanges?",
+      "generated": "What's the process for converting currencies?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Can I stop a transaction?",
+      "generated": "Can I cancel a transfer?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "THere is some cash that is showing up on my app.",
+      "generated": "There's an unexpected cash amount appearing on my account."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I was charged the wing amount for an item.",
+      "generated": "I was overcharged for the item, and the amount doesn't match the expected exchange rate."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "what steps do i do to get a real card",
+      "generated": "How can I obtain a physical credit card?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I don't have my card in 1 week.  Should I be worried?",
+      "generated": "I haven't received my card within a week. Should I be concerned?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can I not take out cash?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Explain the card PIN to me.",
+      "generated": "Can you tell me more about the physical card's PIN security feature?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "If you to to account, hit activate, and follow the instructions, you can activate it in just a few seconds.",
+      "generated": "Once you access your account, click on the \"Activate\" button and follow the prompts to complete the activation process within a few seconds."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How long does it take to verify a cash withdraw?",
+      "generated": "How long does it typically take to process a pending cash withdrawal request?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "We want to start a college fund for my daughter.",
+      "generated": "We're planning to establish a savings plan for my child's future education expenses."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "What do I do if I cannot access the app?",
+      "generated": "I'm having trouble accessing the app and need help recovering my phone."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I don't have a PIN at this point.",
+      "generated": "I'm not currently in possession of my physical card."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "What countries do your accounts send and receive to?",
+      "generated": "Which countries do your accounts support international transactions to and from?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I use my card in Austria?",
+      "generated": "Can I make purchases with my card in Austria?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "The ATM didnt return my card!",
+      "generated": "The ATM swallowed my card!"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+      "generated": "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How do I withdraw money?",
+      "generated": "What's the process for getting cash from an ATM?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Can you lookup my password?",
+      "generated": "Can you retrieve my forgotten passcode?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I'm locked out of my account as I can't remember my code, what do I do now?",
+      "generated": "I've forgotten my passcode and can't access my account, what should I do to regain access?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do you offer a discount for those who perform frequent currency exchanges?",
+      "generated": "Are there any special deals or promotions available for customers who regularly exchange currencies?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+      "generated": "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Will you assess me more fees if I top up with an international card?",
+      "generated": "Will you charge me extra fees if I make a payment using an international credit/debit card?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I used my pin too many times.",
+      "generated": "I've exceeded the allowed attempts to enter my PIN."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I made a transaction, but I made it to an account I didn't mean to make it to.",
+      "generated": "I accidentally sent a transfer to the wrong account, and I'd like to cancel it."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain?",
+      "generated": "We've noticed a transaction on your statement that's causing some confusion. It appears to be a direct debit payment that we can't identify. The date is a few weeks old, and I'm not familiar with the business that made the charge. I'm wondering if you could help us investigate this further and determine if it was a legitimate transaction or not."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do exchanges cost more?",
+      "generated": "Are there any additional fees associated with exchanging funds?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "What should I do if I exceed my PIN tries?",
+      "generated": "What should I do if I reach the maximum number of PIN attempts allowed?"
+    }
+  ]
+}

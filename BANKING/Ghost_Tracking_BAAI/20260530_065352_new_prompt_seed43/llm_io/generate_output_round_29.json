@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I'm missing a withdrawal from my account.",
+    "I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me.",
+    "Why was my payment to the designated beneficiary rejected?",
+    "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?",
+    "I made a transfer to my family on Friday, but they haven't received it yet.",
+    "Did my card payment get reversed?",
+    "Can someone else add funds to my account using my card?",
+    "Require an update to my personal information, specifically my address.",
+    "I'm still waiting for my domestic transfer to be credited to the recipient's account. I double-checked the account details a few days ago, but the payment hasn't been processed yet.",
+    "What is the charge for exchanging currency from a foreign country?",
+    "If I've damaged my card, what should I do?",
+    "Can you facilitate bank transfers for top-ups?",
+    "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP.",
+    "I've already deposited the cash, yet my account remains pending. Why is my account still showing a pending status?",
+    "A recipient informed me that they didn't receive the full transfer I initiated, and it was actually short by a small amount. To rectify the situation, I need to make an additional transfer to cover the shortfall. Could you please investigate this matter and provide an update?",
+    "I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?",
+    "The payment made with my card was declined at a retail store.",
+    "Can I use a transfer to receive the funds I'm expecting?",
+    "Can you please provide me with my top-up code?",
+    "A recipient informed me that they didn't receive the full transfer I initiated, and the amount was short. I'll need to make an additional transfer to cover the shortfall. Could you please investigate this discrepancy and get back to me?",
+    "What financial institutions or merchants accept the card?",
+    "Are there any fees associated with using a credit or debit card for payment?",
+    "Why was the amount of cash I received not in line with the expected exchange rate?",
+    "I'm hesitant to confirm my identity through this process.",
+    "Can I use a bank transfer to top up my account?",
+    "I made a purchase recently, but the payment is still pending. Can you help me understand why it's not showing as processed yet?",
+    "When will my pending top-up be processed?",
+    "A payment has not been successfully processed yet.",
+    "I recently made a card payment, but it appears to be pending. Can you tell me what the usual processing time is for a payment like this?",
+    "What is the charge for topping up using a US-issued card?",
+    "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?",
+    "How can I receive funds from someone else?",
+    "Can I get the correct exchange rate for a cash withdrawal in my local currency while I'm traveling, or will I be charged an incorrect rate and incur extra fees?",
+    "Can I link a card to my account within the app?",
+    "I noticed a charge for a fee from my last card transaction.",
+    "I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction.",
+    "Can others deposit funds into my account or transfer money to me?",
+    "I need a replacement card"
+  ],
+  "generated_labels": [
+    20,
+    13,
+    7,
+    64,
+    66,
+    53,
+    62,
+    30,
+    66,
+    31,
+    14,
+    56,
+    20,
+    46,
+    64,
+    66,
+    25,
+    50,
+    71,
+    64,
+    10,
+    15,
+    76,
+    74,
+    56,
+    45,
+    47,
+    45,
+    45,
+    57,
+    53,
+    50,
+    76,
+    13,
+    15,
+    76,
+    50,
+    39
+  ],
+  "source_texts": [
+    "There is money missing from my account.",
+    "I found my card that I thought I had lost, I need to reactive it, please help.",
+    "Why wasn't my payment to beneficiary X approved?",
+    "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+    "I sent money to my family last Friday but they don't have it.",
+    "Was my transaction reverted with my card?",
+    "Can somebody else top up my account?",
+    "Need to report a change of address.",
+    "Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet.",
+    "What is the fee for accepting money from a foreign country?",
+    "What do I do if i accidentally broke my card?",
+    "Do you accept SWIFT transfers?",
+    "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+    "I have the cash already, my account still shows up as pending.  How can my account be still pending?",
+    "A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?",
+    "Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?",
+    "My card was not accepted in a shop",
+    "Can I use a transfer to receive my transfer?",
+    "Where's my top up code?",
+    "A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?",
+    "Who accepts the card?",
+    "Do you have charges now when you pay with a card?",
+    "Why did I only receive this much currency?",
+    "I don't want to use this method to identify myself.",
+    "Are SWIFT transfers supported?",
+    "I purchases several items today. Why are they still showing pending?",
+    "When will my top up be approved?",
+    "There is a payment that has not processed.",
+    "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?",
+    "How much does it cost to us US cards?",
+    "The money is still in my account even though I already paid -- I don't understand what happened.",
+    "How does one send me money?",
+    "Can I withdraw money in my hometown currency while on holiday without any additional fees?",
+    "Can I add a card to back into the app?",
+    "I have a fee showing from last time I used my card.",
+    "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.",
+    "Are there ways for other people to send me money?",
+    "I want a new card"
+  ],
+  "records": [
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There is money missing from my account.",
+      "generated": "I'm missing a withdrawal from my account."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I found my card that I thought I had lost, I need to reactive it, please help.",
+      "generated": "I've rediscovered my card that I previously thought was missing, and I'd like to reactivate it, if you could assist me."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why wasn't my payment to beneficiary X approved?",
+      "generated": "Why was my payment to the designated beneficiary rejected?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+      "generated": "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I sent money to my family last Friday but they don't have it.",
+      "generated": "I made a transfer to my family on Friday, but they haven't received it yet."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Was my transaction reverted with my card?",
+      "generated": "Did my card payment get reversed?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can somebody else top up my account?",
+      "generated": "Can someone else add funds to my account using my card?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Need to report a change of address.",
+      "generated": "Require an update to my personal information, specifically my address."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet.",
+      "generated": "I'm still waiting for my domestic transfer to be credited to the recipient's account. I double-checked the account details a few days ago, but the payment hasn't been processed yet."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "What is the fee for accepting money from a foreign country?",
+      "generated": "What is the charge for exchanging currency from a foreign country?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What do I do if i accidentally broke my card?",
+      "generated": "If I've damaged my card, what should I do?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do you accept SWIFT transfers?",
+      "generated": "Can you facilitate bank transfers for top-ups?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+      "generated": "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I have the cash already, my account still shows up as pending.  How can my account be still pending?",
+      "generated": "I've already deposited the cash, yet my account remains pending. Why is my account still showing a pending status?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?",
+      "generated": "A recipient informed me that they didn't receive the full transfer I initiated, and it was actually short by a small amount. To rectify the situation, I need to make an additional transfer to cover the shortfall. Could you please investigate this matter and provide an update?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?",
+      "generated": "I recently sent a payment to my landlord, but they're telling me it hasn't been received. I've checked my account details and everything appears to be correct. Could there be an issue with the transfer that's preventing it from reaching them?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card was not accepted in a shop",
+      "generated": "The payment made with my card was declined at a retail store."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I use a transfer to receive my transfer?",
+      "generated": "Can I use a transfer to receive the funds I'm expecting?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Where's my top up code?",
+      "generated": "Can you please provide me with my top-up code?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?",
+      "generated": "A recipient informed me that they didn't receive the full transfer I initiated, and the amount was short. I'll need to make an additional transfer to cover the shortfall. Could you please investigate this discrepancy and get back to me?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Who accepts the card?",
+      "generated": "What financial institutions or merchants accept the card?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Do you have charges now when you pay with a card?",
+      "generated": "Are there any fees associated with using a credit or debit card for payment?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why did I only receive this much currency?",
+      "generated": "Why was the amount of cash I received not in line with the expected exchange rate?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I don't want to use this method to identify myself.",
+      "generated": "I'm hesitant to confirm my identity through this process."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT transfers supported?",
+      "generated": "Can I use a bank transfer to top up my account?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I purchases several items today. Why are they still showing pending?",
+      "generated": "I made a purchase recently, but the payment is still pending. Can you help me understand why it's not showing as processed yet?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "When will my top up be approved?",
+      "generated": "When will my pending top-up be processed?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "There is a payment that has not processed.",
+      "generated": "A payment has not been successfully processed yet."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?",
+      "generated": "I recently made a card payment, but it appears to be pending. Can you tell me what the usual processing time is for a payment like this?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "How much does it cost to us US cards?",
+      "generated": "What is the charge for topping up using a US-issued card?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "The money is still in my account even though I already paid -- I don't understand what happened.",
+      "generated": "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How does one send me money?",
+      "generated": "How can I receive funds from someone else?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can I withdraw money in my hometown currency while on holiday without any additional fees?",
+      "generated": "Can I get the correct exchange rate for a cash withdrawal in my local currency while I'm traveling, or will I be charged an incorrect rate and incur extra fees?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can I add a card to back into the app?",
+      "generated": "Can I link a card to my account within the app?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I have a fee showing from last time I used my card.",
+      "generated": "I noticed a charge for a fee from my last card transaction."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.",
+      "generated": "I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Are there ways for other people to send me money?",
+      "generated": "Can others deposit funds into my account or transfer money to me?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I want a new card",
+      "generated": "I need a replacement card"
+    }
+  ]
+}

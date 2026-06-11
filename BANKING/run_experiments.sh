@@ -4,8 +4,8 @@
 set -e
 
 # 定義要測試的隨機種子陣列 (至少 3 個以確保統計顯著性)
-SEEDS=(42 43 44)
-SCRIPT_NAME="ghost_tracking_BAAI.py"
+SEEDS=(43 44)
+SCRIPT_NAME="ghost_tracking_BAAI_plateau.py"
 
 N_ITERATIONS=40
 BATCH_SIZE=40
@@ -23,10 +23,7 @@ for SEED in "${SEEDS[@]}"; do
    python3 "$SCRIPT_NAME" \
         --seed "$SEED" \
         --n-iterations "$N_ITERATIONS" \
-        --batch-size "$BATCH_SIZE" \
-        --llm-cost 0.03 \
-        --verify-cost 0.03 \
-        --synthetic-processing-cost 0.005
+        --batch-size "$BATCH_SIZE"
     
     END_TIME=$(date +'%Y-%m-%d %H:%M:%S')
     echo "[$END_TIME] >>> Finished run with SEED: $SEED <<<"

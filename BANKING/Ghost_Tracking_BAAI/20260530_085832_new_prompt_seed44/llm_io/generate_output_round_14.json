@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "What types of fiat currencies are available for holding in my account?",
+    "Can I hold multiple types of fiat currencies in my account?",
+    "Can I maintain multiple fiat currency accounts?",
+    "information needs to be updated",
+    "Can I make an exchange using the app?",
+    "I'm unhappy about the unexpected charges deducted from my account. I was assisting friends with their relocation to Japan and we made some purchases at local stores. The receipts didn't match the amounts reflected in my bank statement. Can you tell me when I can expect the extra fees to be credited back to my account?",
+    "Are there any specific places or situations where my card won't be accepted?",
+    "What areas or locations can I use my card for transactions?",
+    "Could you inform me when you deduct extra charges for transactions? I recently checked the app and noticed an unexpected fee on one of the payments, which I wasn't aware of beforehand.",
+    "Can I close my account through the app or do I need to speak with a representative to terminate it?",
+    "What should I do about my jammed ATM card?",
+    "Can I make a withdrawal from my account using my card?",
+    "Can I get the correct exchange rate for a cash withdrawal in my local currency while I'm traveling, or will I be charged an incorrect rate and incur extra fees?",
+    "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?",
+    "If I were to make a top-up payment using a European bank card, would I be charged a fee?",
+    "Is it possible to make an online payment using my credit/debit card?",
+    "Are there any special deals or promotions available for customers who regularly exchange currencies?",
+    "Could you provide a discount for me, as I regularly need to exchange currencies?",
+    "I'm planning a trip abroad and I'd like to withdraw some cash from a local ATM, but I'm concerned that I'll be hit with an unfavorable exchange rate, which might result in an unexpected fee.",
+    "Are there any fees associated with withdrawing cash?",
+    "I can see the funds in my account, but the balance hasn't been updated after I made a transfer.",
+    "I'm experiencing a pending cash withdrawal issue, as the ATM was malfunctioning, and I'm concerned about being charged for the transaction. What can I do to resolve this situation?",
+    "Why can't I use my American Express card to fund my account?",
+    "What are the transaction limits for a disposable card?",
+    "What is the payee's name if I wish to replenish my account balance using a check?",
+    "I'm wondering if there's a fee associated with adding funds to my card?",
+    "I've been waiting for over a month and my order still hasn't arrived. I'm extremely frustrated, as it's a simple pencil I ordered. I've had enough of this company's poor service, and I demand a refund right away. I'll take my business elsewhere and find a reliable supplier for my Japanese exclusive pencil needs.",
+    "I'm currently without my mobile device, which is preventing me from accessing the system to finalize the transaction.",
+    "A pending cash withdrawal is awaiting processing.",
+    "There's an unexpected cash withdrawal showing up on my account.",
+    "What is the additional charge that I see on my statement?",
+    "The ATM at Metro bank on High St. Kensington failed to dispense my card, and the bank is currently closed. How do I retrieve a card that was swallowed by an ATM machine?",
+    "Can I use my card at any location, or are there specific places where it won't be accepted?",
+    "What types of fiat currencies are available for me to hold in my account?",
+    "What is the origin of the funds you'd like to deposit into your account?",
+    "I recently purchased a product, but I'm considering returning it."
+  ],
+  "generated_labels": [
+    36,
+    36,
+    36,
+    30,
+    33,
+    64,
+    10,
+    10,
+    15,
+    55,
+    18,
+    3,
+    76,
+    17,
+    57,
+    10,
+    31,
+    31,
+    76,
+    19,
+    5,
+    46,
+    54,
+    29,
+    58,
+    57,
+    52,
+    42,
+    46,
+    20,
+    34,
+    18,
+    10,
+    36,
+    70,
+    52
+  ],
+  "source_texts": [
+    "Are there limitations to what currency I can hold?",
+    "Does my account have the option to hold multiple currencies?",
+    "Can I hold more than one currency?",
+    "details need to be modified",
+    "Can this convert money?",
+    "I don't appreciate the extra fees being siphoned from my account. I was helping some friends move to Japan and we were buying home decorations at the local stores. The  receipts differed greatly from what showed up in my bank account and my statement. When can I expect the extra fees to be back in my account?",
+    "Is there anywhere I can't use my card?",
+    "What are the limits to where my card will be accepted?",
+    "Let me know when you charge extra for payments please. I just checked the app earlier when I saw that there was an additional fee on one of the payments that I wasn't warned about before.",
+    "do i have to talk to someone to close an account or can i in the app",
+    "What should I do with my stuck ATM?",
+    "Can I use my card to withdraw from my account?",
+    "Can I withdraw money in my hometown currency while on holiday without any additional fees?",
+    "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+    "If I were to use a European bank card for a top up, will I incur a charge?",
+    "Can I pay online with my card?",
+    "Do you offer a discount for those who perform frequent currency exchanges?",
+    "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+    "How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.",
+    "Is there a charge for getting cash?",
+    "I can still see money in my account after making a payment",
+    "Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged?",
+    "why don't you accept american express for adding money to my account",
+    "Show me the amount of transactions I can do with a disposable card.",
+    "Who do I make a check out to if I want to top off my account?",
+    "I topped off my card is that something you will charge me for?",
+    "It's been over a month and i still haven't received my goods! I ordered a pencil for crying out loud, it's not that hard to deliver that! I'm done with these people, give me a refund immediately! I'll search for my Japanese exclusive pencil elsewhere!",
+    "I don't have my cell phone with me so I cannot access the system to complete the transaction.",
+    "I have a withdrawal waiting to go through.",
+    "Some cash shows up on my app.",
+    "What is the dollar that I have pending on my statement there?",
+    "The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?",
+    "Are there limits as to where my card will be accepted?",
+    "Can you tell me how many currencies I can hold?",
+    "who can put money in my account?",
+    "I bought a product a week ago, but may need to return it."
+  ],
+  "records": [
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Are there limitations to what currency I can hold?",
+      "generated": "What types of fiat currencies are available for holding in my account?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Does my account have the option to hold multiple currencies?",
+      "generated": "Can I hold multiple types of fiat currencies in my account?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can I hold more than one currency?",
+      "generated": "Can I maintain multiple fiat currency accounts?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "details need to be modified",
+      "generated": "information needs to be updated"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can this convert money?",
+      "generated": "Can I make an exchange using the app?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I don't appreciate the extra fees being siphoned from my account. I was helping some friends move to Japan and we were buying home decorations at the local stores. The  receipts differed greatly from what showed up in my bank account and my statement. When can I expect the extra fees to be back in my account?",
+      "generated": "I'm unhappy about the unexpected charges deducted from my account. I was assisting friends with their relocation to Japan and we made some purchases at local stores. The receipts didn't match the amounts reflected in my bank statement. Can you tell me when I can expect the extra fees to be credited back to my account?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is there anywhere I can't use my card?",
+      "generated": "Are there any specific places or situations where my card won't be accepted?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "What are the limits to where my card will be accepted?",
+      "generated": "What areas or locations can I use my card for transactions?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Let me know when you charge extra for payments please. I just checked the app earlier when I saw that there was an additional fee on one of the payments that I wasn't warned about before.",
+      "generated": "Could you inform me when you deduct extra charges for transactions? I recently checked the app and noticed an unexpected fee on one of the payments, which I wasn't aware of beforehand."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "do i have to talk to someone to close an account or can i in the app",
+      "generated": "Can I close my account through the app or do I need to speak with a representative to terminate it?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "What should I do with my stuck ATM?",
+      "generated": "What should I do about my jammed ATM card?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I use my card to withdraw from my account?",
+      "generated": "Can I make a withdrawal from my account using my card?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can I withdraw money in my hometown currency while on holiday without any additional fees?",
+      "generated": "Can I get the correct exchange rate for a cash withdrawal in my local currency while I'm traveling, or will I be charged an incorrect rate and incur extra fees?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+      "generated": "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "If I were to use a European bank card for a top up, will I incur a charge?",
+      "generated": "If I were to make a top-up payment using a European bank card, would I be charged a fee?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I pay online with my card?",
+      "generated": "Is it possible to make an online payment using my credit/debit card?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do you offer a discount for those who perform frequent currency exchanges?",
+      "generated": "Are there any special deals or promotions available for customers who regularly exchange currencies?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Would you be able to offer me a discount, since I need to exchange currencies frequently?",
+      "generated": "Could you provide a discount for me, as I regularly need to exchange currencies?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.",
+      "generated": "I'm planning a trip abroad and I'd like to withdraw some cash from a local ATM, but I'm concerned that I'll be hit with an unfavorable exchange rate, which might result in an unexpected fee."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Is there a charge for getting cash?",
+      "generated": "Are there any fees associated with withdrawing cash?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I can still see money in my account after making a payment",
+      "generated": "I can see the funds in my account, but the balance hasn't been updated after I made a transfer."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hae there, I have a transaction that is in progress despite the fact that the ATM was not working, what do I do to avoid being charged?",
+      "generated": "I'm experiencing a pending cash withdrawal issue, as the ATM was malfunctioning, and I'm concerned about being charged for the transaction. What can I do to resolve this situation?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why don't you accept american express for adding money to my account",
+      "generated": "Why can't I use my American Express card to fund my account?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Show me the amount of transactions I can do with a disposable card.",
+      "generated": "What are the transaction limits for a disposable card?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Who do I make a check out to if I want to top off my account?",
+      "generated": "What is the payee's name if I wish to replenish my account balance using a check?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I topped off my card is that something you will charge me for?",
+      "generated": "I'm wondering if there's a fee associated with adding funds to my card?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "It's been over a month and i still haven't received my goods! I ordered a pencil for crying out loud, it's not that hard to deliver that! I'm done with these people, give me a refund immediately! I'll search for my Japanese exclusive pencil elsewhere!",
+      "generated": "I've been waiting for over a month and my order still hasn't arrived. I'm extremely frustrated, as it's a simple pencil I ordered. I've had enough of this company's poor service, and I demand a refund right away. I'll take my business elsewhere and find a reliable supplier for my Japanese exclusive pencil needs."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I don't have my cell phone with me so I cannot access the system to complete the transaction.",
+      "generated": "I'm currently without my mobile device, which is preventing me from accessing the system to finalize the transaction."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I have a withdrawal waiting to go through.",
+      "generated": "A pending cash withdrawal is awaiting processing."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Some cash shows up on my app.",
+      "generated": "There's an unexpected cash withdrawal showing up on my account."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What is the dollar that I have pending on my statement there?",
+      "generated": "What is the additional charge that I see on my statement?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?",
+      "generated": "The ATM at Metro bank on High St. Kensington failed to dispense my card, and the bank is currently closed. How do I retrieve a card that was swallowed by an ATM machine?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Are there limits as to where my card will be accepted?",
+      "generated": "Can I use my card at any location, or are there specific places where it won't be accepted?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can you tell me how many currencies I can hold?",
+      "generated": "What types of fiat currencies are available for me to hold in my account?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "who can put money in my account?",
+      "generated": "What is the origin of the funds you'd like to deposit into your account?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I bought a product a week ago, but may need to return it.",
+      "generated": "I recently purchased a product, but I'm considering returning it."
+    }
+  ]
+}

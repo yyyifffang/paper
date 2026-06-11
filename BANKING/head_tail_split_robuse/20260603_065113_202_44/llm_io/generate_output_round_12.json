@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "You're wondering why your cash withdrawal was declined despite having sufficient funds in your account.",
+    "What is the payee's name if I wish to replenish my account balance using a check?",
+    "Will this automatically top up my account when the time is suitable?",
+    "Can I use a cheque to make a payment?",
+    "Can I modify my PIN at a nearby ATM while I'm in Spain? I'm concerned someone may have observed my PIN and I'd like to update it, but I'm currently on vacation.",
+    "May I pay using cash or by cheque?",
+    "Are there any exceptions or waivers for card payment fees?",
+    "I'm experiencing an issue with a cash withdrawal that's not being recognized. I'm concerned about unauthorized activity on my account from a location I've never visited. Could you please place a temporary hold on my account until I can visit the bank in person?",
+    "utilize your credit to top up your account",
+    "I'm certain I have sufficient funds, yet the merchant refused to accept my payment method.",
+    "I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?",
+    "We've received a cash deposit from you, but it's not showing up in your account balance yet. Can you please confirm if we accept cash deposits and when you can expect the update?",
+    "If I were to make a top-up payment using a European bank card, would I be charged a fee?",
+    "I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?",
+    "Why can't I use my American Express card to top up my account?",
+    "I'm having trouble using my new card to make payments, and it keeps getting declined. I've tried to use it multiple times to pay for gas at the Shell station near my home, but it's not working. I'm really frustrated about this issue with my new card.",
+    "I recently purchased a product, but I'm considering returning it.",
+    "Can you provide an estimated delivery date for the card?",
+    "The exchange rate applied to my card payment is incorrect.",
+    "Can you make a cash deposit or pay by cheque?",
+    "Will there be a fee for processing the bank transfer to top up my account?",
+    "I recently made a deposit, but my account balance hasn't been updated yet. Could you please help me with this issue?",
+    "Are there any limitations on issuing new cards in China?",
+    "Required urgent top-up, experiencing a 30-minute delay. Please resolve this issue as soon as possible!",
+    "Are there any fees associated with making cash withdrawals from your account? I'm surprised to find that I'm being charged for accessing my own funds, whereas my previous bank didn't impose such a charge.",
+    "Why was my cash withdrawal request denied?",
+    "Are there any fees associated with using a credit or debit card for payment?",
+    "The cash transfer I initiated hasn't been reflected on the recipient's end.",
+    "Can I set up recurring deposits to my account, so I can maintain a steady balance while I'm away on my trip?",
+    "Can you clarify the multiple transaction dates listed on my account statement?",
+    "I'm noticing some suspicious activity on my account, showing up in the app without my permission.",
+    "I'm in a bit of an emergency and I desperately need to add funds to my card, but it's not accepting the top-up. Can you assist me with this issue or suggest an alternative solution?",
+    "Can you explain why my top-up request is still pending?",
+    "My card requires a recharge.",
+    "I'm concerned about potential security risks. Can you confirm my identity to ensure my account is secure?"
+  ],
+  "generated_labels": [
+    26,
+    58,
+    4,
+    58,
+    21,
+    58,
+    15,
+    20,
+    54,
+    25,
+    26,
+    6,
+    57,
+    51,
+    54,
+    25,
+    52,
+    12,
+    17,
+    58,
+    56,
+    6,
+    9,
+    47,
+    19,
+    26,
+    15,
+    66,
+    4,
+    63,
+    20,
+    59,
+    47,
+    62,
+    69
+  ],
+  "source_texts": [
+    "why would i be declined if i had money iin my account",
+    "Who do I make a check out to if I want to top off my account?",
+    "When the time is right will this automatically replenish my balance?",
+    "Will a cheque suffice?",
+    "Can I change my PIN at a nearby ATM when in Spain? I think someone saw my PIN and I need to change it but am on vacation.",
+    "Can I purchase with cash or cheque?",
+    "Is there an allowance on cards?",
+    "I hope you can help me. My account has been compromised from a different town that I haven't been to. Can you please place a hold on my account until I can make it to the bank?",
+    "use my credit to add money",
+    "I'm sure I have enough money so why didn't the store accept my card?",
+    "I'm trying to take money from my account but its not letting me. Help!",
+    "Do you guys accept cash? Because i deposited some this morning and I can't see it in my account.",
+    "If I were to use a European bank card for a top up, will I incur a charge?",
+    "I need my refund as soon as possible. What else do I have to do?",
+    "why wont my american express work to add money",
+    "Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working.",
+    "I bought a product a week ago, but may need to return it.",
+    "Can I have it by a certain date?",
+    "the exchange rate at which my card payment is at is wrong",
+    "Do you accept cash?",
+    "Are you going to charge me to collect the money?",
+    "I made a deposit a couple of days back it's, as of yet, not gone in! It would be ideal if you assist me with this",
+    "Are there restrictions on new cards in China?",
+    "Needed gas, been delayed for half an hour.Please fix it!",
+    "Do you charge for cash withdrawals?  I want to get my hands on my own money and you appear to be charging me for the pleasure! Why is this, you'd never get this with my high street bank!",
+    "Why can't I take money from my account?",
+    "Do you have charges now when you pay with a card?",
+    "My cash transaction isn't showing on my receipt",
+    "Can I add money in intervals to my account?  I will be traveling.",
+    "Can you explain the various transaction times shown on my statement?",
+    "I am seeing unathorized transactions in the app, on my account.",
+    "I really need to top-up my card today urgently but my card keeps getting declined!! Can you please help me with this problem or let me know if you have any alternatives",
+    "Can you tell me why my pop-up is still pending?",
+    "My card needs to be topped up.",
+    "im worried about fraud how do you protect my account"
+  ],
+  "records": [
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "why would i be declined if i had money iin my account",
+      "generated": "You're wondering why your cash withdrawal was declined despite having sufficient funds in your account."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Who do I make a check out to if I want to top off my account?",
+      "generated": "What is the payee's name if I wish to replenish my account balance using a check?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "When the time is right will this automatically replenish my balance?",
+      "generated": "Will this automatically top up my account when the time is suitable?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Will a cheque suffice?",
+      "generated": "Can I use a cheque to make a payment?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my PIN at a nearby ATM when in Spain? I think someone saw my PIN and I need to change it but am on vacation.",
+      "generated": "Can I modify my PIN at a nearby ATM while I'm in Spain? I'm concerned someone may have observed my PIN and I'd like to update it, but I'm currently on vacation."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I purchase with cash or cheque?",
+      "generated": "May I pay using cash or by cheque?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Is there an allowance on cards?",
+      "generated": "Are there any exceptions or waivers for card payment fees?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I hope you can help me. My account has been compromised from a different town that I haven't been to. Can you please place a hold on my account until I can make it to the bank?",
+      "generated": "I'm experiencing an issue with a cash withdrawal that's not being recognized. I'm concerned about unauthorized activity on my account from a location I've never visited. Could you please place a temporary hold on my account until I can visit the bank in person?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "use my credit to add money",
+      "generated": "utilize your credit to top up your account"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I'm sure I have enough money so why didn't the store accept my card?",
+      "generated": "I'm certain I have sufficient funds, yet the merchant refused to accept my payment method."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I'm trying to take money from my account but its not letting me. Help!",
+      "generated": "I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Do you guys accept cash? Because i deposited some this morning and I can't see it in my account.",
+      "generated": "We've received a cash deposit from you, but it's not showing up in your account balance yet. Can you please confirm if we accept cash deposits and when you can expect the update?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "If I were to use a European bank card for a top up, will I incur a charge?",
+      "generated": "If I were to make a top-up payment using a European bank card, would I be charged a fee?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I need my refund as soon as possible. What else do I have to do?",
+      "generated": "I'm expecting my refund, and I'd like to know what's causing the delay. Can you help me with that?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why wont my american express work to add money",
+      "generated": "Why can't I use my American Express card to top up my account?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working.",
+      "generated": "I'm having trouble using my new card to make payments, and it keeps getting declined. I've tried to use it multiple times to pay for gas at the Shell station near my home, but it's not working. I'm really frustrated about this issue with my new card."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I bought a product a week ago, but may need to return it.",
+      "generated": "I recently purchased a product, but I'm considering returning it."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I have it by a certain date?",
+      "generated": "Can you provide an estimated delivery date for the card?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "the exchange rate at which my card payment is at is wrong",
+      "generated": "The exchange rate applied to my card payment is incorrect."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Do you accept cash?",
+      "generated": "Can you make a cash deposit or pay by cheque?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are you going to charge me to collect the money?",
+      "generated": "Will there be a fee for processing the bank transfer to top up my account?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I made a deposit a couple of days back it's, as of yet, not gone in! It would be ideal if you assist me with this",
+      "generated": "I recently made a deposit, but my account balance hasn't been updated yet. Could you please help me with this issue?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Are there restrictions on new cards in China?",
+      "generated": "Are there any limitations on issuing new cards in China?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Needed gas, been delayed for half an hour.Please fix it!",
+      "generated": "Required urgent top-up, experiencing a 30-minute delay. Please resolve this issue as soon as possible!"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Do you charge for cash withdrawals?  I want to get my hands on my own money and you appear to be charging me for the pleasure! Why is this, you'd never get this with my high street bank!",
+      "generated": "Are there any fees associated with making cash withdrawals from your account? I'm surprised to find that I'm being charged for accessing my own funds, whereas my previous bank didn't impose such a charge."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I take money from my account?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Do you have charges now when you pay with a card?",
+      "generated": "Are there any fees associated with using a credit or debit card for payment?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "My cash transaction isn't showing on my receipt",
+      "generated": "The cash transfer I initiated hasn't been reflected on the recipient's end."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money in intervals to my account?  I will be traveling.",
+      "generated": "Can I set up recurring deposits to my account, so I can maintain a steady balance while I'm away on my trip?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Can you explain the various transaction times shown on my statement?",
+      "generated": "Can you clarify the multiple transaction dates listed on my account statement?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I am seeing unathorized transactions in the app, on my account.",
+      "generated": "I'm noticing some suspicious activity on my account, showing up in the app without my permission."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I really need to top-up my card today urgently but my card keeps getting declined!! Can you please help me with this problem or let me know if you have any alternatives",
+      "generated": "I'm in a bit of an emergency and I desperately need to add funds to my card, but it's not accepting the top-up. Can you assist me with this issue or suggest an alternative solution?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Can you tell me why my pop-up is still pending?",
+      "generated": "Can you explain why my top-up request is still pending?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My card needs to be topped up.",
+      "generated": "My card requires a recharge."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "im worried about fraud how do you protect my account",
+      "generated": "I'm concerned about potential security risks. Can you confirm my identity to ensure my account is secure?"
+    }
+  ]
+}

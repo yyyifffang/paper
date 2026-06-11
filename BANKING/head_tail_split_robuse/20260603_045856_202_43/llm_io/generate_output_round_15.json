@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Your account balance has not been updated after the recent bank transfer.",
+    "What's the purpose behind all these inquiries about my identity?",
+    "I've made a cash deposit to my account, but my account balance hasn't been updated yet.",
+    "I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct.",
+    "Can you clarify the multiple transaction dates listed on my account statement?",
+    "You can complete the process quickly. Simply navigate to your account, select the \"Activate\" option, and follow the prompts to finish.",
+    "I require an immediate refund, but the refund amount is not showing up in my account.",
+    "I'm attempting to initiate a transfer from my account to another account, but I'm receiving an error notification.",
+    "Why can't I use my American Express card to top up my account?",
+    "We've received a cash deposit from you, but it's not showing up in your account balance yet. Can you please confirm if we accept cash deposits and when you can expect the update?",
+    "How can I use my debit or credit card for payment?",
+    "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?",
+    "What is the limit on the number of top-ups that can be processed?",
+    "I've received a new email address.",
+    "Are there any fees associated with making cash withdrawals from your account? I'm surprised to find that I'm being charged for accessing my own funds, whereas my previous bank didn't impose such a charge.",
+    "How much will I need to pay for a physical credit card?",
+    "Can I request a replacement card for my account, so my daughter can use it?",
+    "What steps can I take to prevent unauthorized transactions on my account?",
+    "Can I request a replacement card for my daughter's account?",
+    "We're sorry to hear that you're experiencing issues using American Express to fund your account.",
+    "Can you expedite the correction of a mistaken payment made to the wrong account yesterday, as it's crucial to rectify it by tomorrow for my rent payment?",
+    "I attempted to refresh my account balance after depositing cash yesterday, but it appears to be stuck. Can you investigate why it's taking so long to reflect the update?",
+    "Why do I see multiple transaction dates on my statement?",
+    "Can I link a card to my account within the app?",
+    "The system is unable to confirm that the information provided matches your identity.",
+    "The system is unable to confirm your identity through our usual verification methods.",
+    "What steps can I take to reactivate my blocked card?",
+    "The system is unable to confirm your identity.",
+    "I mistakenly entered incorrect details, please help me resolve the issue and unblock my account.",
+    "Could you please clarify the reason behind the additional charge of one lakh rupees on my statement? I'm certain I haven't made any transactions in this amount.",
+    "How do I obtain additional cards for my account?",
+    "I'm curious, what's the purpose behind requesting all this personal information?",
+    "The refund for my card is missing from my latest statement.",
+    "How can I obtain my physical credit card?",
+    "We're having trouble confirming your identity through our system.",
+    "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself."
+  ],
+  "generated_labels": [
+    5,
+    74,
+    6,
+    27,
+    63,
+    0,
+    51,
+    27,
+    54,
+    6,
+    10,
+    74,
+    60,
+    30,
+    19,
+    43,
+    39,
+    22,
+    39,
+    54,
+    8,
+    6,
+    63,
+    13,
+    68,
+    68,
+    49,
+    68,
+    49,
+    34,
+    39,
+    74,
+    51,
+    43,
+    68,
+    22
+  ],
+  "source_texts": [
+    "Balance is not up to date.",
+    "Why are you asking so many questions about who I am",
+    "I have cash deposit to my account but it is experiencing a problem",
+    "I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate.",
+    "Can you explain the various transaction times shown on my statement?",
+    "You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",
+    "i need a refund right away but the funds aren't available in my account",
+    "I'm trying to move money from my account to elsewhere, but it's giving me an error message.",
+    "why wont my american express work to add money",
+    "Do you guys accept cash? Because i deposited some this morning and I can't see it in my account.",
+    "Where do I pay with my debit or credit card?",
+    "Do you think you're asking for too much information about me?",
+    "How many top-ups can be approved?",
+    "I have a new email.",
+    "Do you charge for cash withdrawals?  I want to get my hands on my own money and you appear to be charging me for the pleasure! Why is this, you'd never get this with my high street bank!",
+    "What do I owe for a new card?",
+    "My daughter would like a card from my account?  Can I do this?",
+    "How do I stop fraud to my account?",
+    "My daughter need a card from this account. Is that possible?",
+    "Why doesn't it work when I use American Express to try to add money to my account?",
+    "How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+    "I tried updating my balance by cheque yesterday but it doesn't seem to be working. Shouldn't that be faster? Please check my account something has gone wrong there.",
+    "Why does my statement show various transaction times?",
+    "Can I add a card to back into the app?",
+    "The app does not believe that I am myself",
+    "The app doesn't believe that I am myself",
+    "How do I unblock my card?",
+    "The app doesn't believe its me.",
+    "I enetered the wrong information, I need my account unblocked How do I do that?",
+    "Please explain the charge of 1L in error.  I have purchased nothing in this amount.",
+    "What is the procedure for me to get more cards on my account?",
+    "I don't understand why you want so much of my personal info.",
+    "Card refund is not showing up in my statement.",
+    "What do I do to get ahold of my own card?",
+    "The app doesn't think it's me.",
+    "My card must have used my card as there are some transactions that I haven't done myself.."
+  ],
+  "records": [
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Balance is not up to date.",
+      "generated": "Your account balance has not been updated after the recent bank transfer."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why are you asking so many questions about who I am",
+      "generated": "What's the purpose behind all these inquiries about my identity?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I have cash deposit to my account but it is experiencing a problem",
+      "generated": "I've made a cash deposit to my account, but my account balance hasn't been updated yet."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate.",
+      "generated": "I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Can you explain the various transaction times shown on my statement?",
+      "generated": "Can you clarify the multiple transaction dates listed on my account statement?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",
+      "generated": "You can complete the process quickly. Simply navigate to your account, select the \"Activate\" option, and follow the prompts to finish."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "i need a refund right away but the funds aren't available in my account",
+      "generated": "I require an immediate refund, but the refund amount is not showing up in my account."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I'm trying to move money from my account to elsewhere, but it's giving me an error message.",
+      "generated": "I'm attempting to initiate a transfer from my account to another account, but I'm receiving an error notification."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why wont my american express work to add money",
+      "generated": "Why can't I use my American Express card to top up my account?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Do you guys accept cash? Because i deposited some this morning and I can't see it in my account.",
+      "generated": "We've received a cash deposit from you, but it's not showing up in your account balance yet. Can you please confirm if we accept cash deposits and when you can expect the update?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my debit or credit card?",
+      "generated": "How can I use my debit or credit card for payment?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Do you think you're asking for too much information about me?",
+      "generated": "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How many top-ups can be approved?",
+      "generated": "What is the limit on the number of top-ups that can be processed?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I have a new email.",
+      "generated": "I've received a new email address."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Do you charge for cash withdrawals?  I want to get my hands on my own money and you appear to be charging me for the pleasure! Why is this, you'd never get this with my high street bank!",
+      "generated": "Are there any fees associated with making cash withdrawals from your account? I'm surprised to find that I'm being charged for accessing my own funds, whereas my previous bank didn't impose such a charge."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What do I owe for a new card?",
+      "generated": "How much will I need to pay for a physical credit card?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "My daughter would like a card from my account?  Can I do this?",
+      "generated": "Can I request a replacement card for my account, so my daughter can use it?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "How do I stop fraud to my account?",
+      "generated": "What steps can I take to prevent unauthorized transactions on my account?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "My daughter need a card from this account. Is that possible?",
+      "generated": "Can I request a replacement card for my daughter's account?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Why doesn't it work when I use American Express to try to add money to my account?",
+      "generated": "We're sorry to hear that you're experiencing issues using American Express to fund your account."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+      "generated": "Can you expedite the correction of a mistaken payment made to the wrong account yesterday, as it's crucial to rectify it by tomorrow for my rent payment?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I tried updating my balance by cheque yesterday but it doesn't seem to be working. Shouldn't that be faster? Please check my account something has gone wrong there.",
+      "generated": "I attempted to refresh my account balance after depositing cash yesterday, but it appears to be stuck. Can you investigate why it's taking so long to reflect the update?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why does my statement show various transaction times?",
+      "generated": "Why do I see multiple transaction dates on my statement?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can I add a card to back into the app?",
+      "generated": "Can I link a card to my account within the app?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app does not believe that I am myself",
+      "generated": "The system is unable to confirm that the information provided matches your identity."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't believe that I am myself",
+      "generated": "The system is unable to confirm your identity through our usual verification methods."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I unblock my card?",
+      "generated": "What steps can I take to reactivate my blocked card?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't believe its me.",
+      "generated": "The system is unable to confirm your identity."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I enetered the wrong information, I need my account unblocked How do I do that?",
+      "generated": "I mistakenly entered incorrect details, please help me resolve the issue and unblock my account."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Please explain the charge of 1L in error.  I have purchased nothing in this amount.",
+      "generated": "Could you please clarify the reason behind the additional charge of one lakh rupees on my statement? I'm certain I haven't made any transactions in this amount."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "What is the procedure for me to get more cards on my account?",
+      "generated": "How do I obtain additional cards for my account?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I don't understand why you want so much of my personal info.",
+      "generated": "I'm curious, what's the purpose behind requesting all this personal information?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Card refund is not showing up in my statement.",
+      "generated": "The refund for my card is missing from my latest statement."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What do I do to get ahold of my own card?",
+      "generated": "How can I obtain my physical credit card?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't think it's me.",
+      "generated": "We're having trouble confirming your identity through our system."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "My card must have used my card as there are some transactions that I haven't done myself..",
+      "generated": "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself."
+    }
+  ]
+}

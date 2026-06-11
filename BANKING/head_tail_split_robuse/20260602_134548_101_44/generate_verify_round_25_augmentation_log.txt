@@ -1,0 +1,77 @@
+GEN | [card_payment_not_recognised] | Orig: I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges? -> Aug: I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges.
+GEN | [extra_charge_on_statement] | Orig: There is a charge for an additional pound. -> Aug: A supplementary fee has been added to your statement.
+GEN | [declined_cash_withdrawal] | Orig: How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this? -> Aug: I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?
+GEN | [transfer_into_account] | Orig: How does your app transfer the money -> Aug: What steps does your app take to move funds into another account?
+GEN | [country_support] | Orig: What countries do your accounts send and receive to? -> Aug: Which countries do your accounts support international transactions to and from?
+GEN | [wrong_amount_of_cash_received] | Orig: My cash received does not match what has been requested -> Aug: The amount of cash I received is not what I was expecting.
+GEN | [lost_or_stolen_phone] | Orig: I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user? -> Aug: I had my phone stolen and I'm wondering if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account.
+GEN | [country_support] | Orig: Will my new card work outside of the EU? -> Aug: Will my new card be functional in countries outside the European Union?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Help me find the transfer that I did. -> Aug: Can you assist me in locating the recent transfer I made?
+GEN | [disposable_card_limits] | Orig: What limits are there on the virtual cards? -> Aug: What restrictions are in place for the disposable cards?
+GEN | [card_acceptance] | Orig: Is my card denied anywhere? -> Aug: Is my credit card being rejected anywhere?
+GEN | [transfer_not_received_by_recipient] | Orig: Why can't the recepient of my money transaction see it? -> Aug: The recipient of my money transfer is unable to view the transaction.
+GEN | [top_up_failed] | Orig: Can I tell if my top off didn't work?  It doesn't seem to have. -> Aug: Can you confirm if my top-up was unsuccessful? It appears it didn't go through.
+GEN | [request_refund] | Orig: I want this fee reversed from my account. -> Aug: I'd like to request a reversal of this fee from my account.
+GEN | [extra_charge_on_statement] | Orig: I was charged $1 in a transaction. -> Aug: I was unexpectedly billed an additional amount in a recent transaction.
+GEN | [exchange_charge] | Orig: Do exchanges cost more? -> Aug: Are there any additional fees associated with exchanging funds?
+GEN | [order_physical_card] | Orig: I would like a card please. -> Aug: I'd like to order a physical card.
+GEN | [extra_charge_on_statement] | Orig: $1 charge in transaction. -> Aug: A fee has been added to your statement.
+GEN | [card_arrival] | Orig: I was expecting my new card by now. -> Aug: I'm still waiting for my new card to arrive.
+GEN | [transfer_fee_charged] | Orig: Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees? -> Aug: Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?
+GEN | [getting_spare_card] | Orig: My daughter need a card from this account. Is that possible? -> Aug: Can I request a replacement card for my daughter's account?
+GEN | [top_up_by_bank_transfer_charge] | Orig: How much is it to receive money? -> Aug: What is the fee for receiving funds via bank transfer?
+GEN | [cash_withdrawal_charge] | Orig: I was charged for getting cash. -> Aug: I was charged a fee for withdrawing cash.
+GEN | [card_swallowed] | Orig: Please send a new card; the ATM ate mine. -> Aug: Please dispatch a replacement card; I think I've lost the one I had, as it seems to have been swallowed by the ATM.
+GEN | [card_not_working] | Orig: Did you deactivate my card it's not working anymore -> Aug: Is my card still active? It's not functioning properly.
+GEN | [get_disposable_virtual_card] | Orig: Please send me a disposable virtual card. -> Aug: Please provide me with a temporary virtual credit card.
+GEN | [card_payment_not_recognised] | Orig: I've never been to that store.  That's a fraudulent charge. -> Aug: We've never processed a payment from that merchant before. This transaction appears to be unauthorized.
+GEN | [virtual_card_not_working] | Orig: I can't use my virtual disposable card -> Aug: I'm having trouble accessing my virtual prepaid card
+GEN | [card_linking] | Orig: If I have a credit card with you how I get set up to link to it? -> Aug: If I already have a credit card account with your bank, how do I go about linking it to my profile?
+GEN | [card_payment_fee_charged] | Orig: What are the fees imposed when I make a transaction? -> Aug: What charges do I need to pay when I process a payment?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Dude I put money in the ATM last week but it ain't there! I need the money now figure this out! -> Aug: I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?
+GEN | [card_arrival] | Orig: Can you help me track my card? -> Aug: Can you assist me in locating my card?
+GEN | [order_physical_card] | Orig: Can you send me the actual card? -> Aug: Can you dispatch the physical card to me?
+GEN | [country_support] | Orig: Although I am not located in the UK area, may i still receive a card? -> Aug: Despite not being based in the UK, can I still obtain a card?
+GEN | [unable_to_verify_identity] | Orig: I am not recognized by the app. -> Aug: We're having trouble verifying your identity through our system.
+GEN | [getting_spare_card] | Orig: What's the limit on total number of cards I can have? -> Aug: How many spare cards can I have issued to me?
+GEN | [card_payment_not_recognised] | Orig: I do not recognise the card payment. -> Aug: I'm unable to verify the card payment.
+GEN | [supported_cards_and_currencies] | Orig: Will you accept my credit card, it my only one. -> Aug: Can you accept my credit card, as it's the only one I have?
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges? | Augmented: I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: There is a charge for an additional pound. | Augmented: A supplementary fee has been added to your statement.
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: N/A | Original: How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this? | Augmented: I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?
+VAL | [transfer_into_account] | ACCEPT | Reason: N/A | Original: How does your app transfer the money | Augmented: What steps does your app take to move funds into another account?
+VAL | [country_support] | ACCEPT | Reason: ... | Original: What countries do your accounts send and receive to? | Augmented: Which countries do your accounts support international transactions to and from?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: N/A | Original: My cash received does not match what has been requested | Augmented: The amount of cash I received is not what I was expecting.
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user? | Augmented: I had my phone stolen and I'm wondering if I need to access the app to use your services and how I can set up your services on a new device that's already linked to my account.
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: Will my new card work outside of the EU? | Augmented: Will my new card be functional in countries outside the European Union?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: Help me find the transfer that I did. | Augmented: Can you assist me in locating the recent transfer I made?
+VAL | [disposable_card_limits] | ACCEPT | Reason: N/A | Original: What limits are there on the virtual cards? | Augmented: What restrictions are in place for the disposable cards?
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Is my card denied anywhere? | Augmented: Is my credit card being rejected anywhere?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: ... | Original: Why can't the recepient of my money transaction see it? | Augmented: The recipient of my money transfer is unable to view the transaction.
+VAL | [top_up_failed] | ACCEPT | Reason: ... | Original: Can I tell if my top off didn't work?  It doesn't seem to have. | Augmented: Can you confirm if my top-up was unsuccessful? It appears it didn't go through.
+VAL | [request_refund] | ACCEPT | Reason: ... | Original: I want this fee reversed from my account. | Augmented: I'd like to request a reversal of this fee from my account.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: I was charged $1 in a transaction. | Augmented: I was unexpectedly billed an additional amount in a recent transaction.
+VAL | [exchange_charge] | ACCEPT | Reason: ... | Original: Do exchanges cost more? | Augmented: Are there any additional fees associated with exchanging funds?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: I would like a card please. | Augmented: I'd like to order a physical card.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: $1 charge in transaction. | Augmented: A fee has been added to your statement.
+VAL | [card_arrival] | ACCEPT | Reason: ... | Original: I was expecting my new card by now. | Augmented: I'm still waiting for my new card to arrive.
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees? | Augmented: Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: My daughter need a card from this account. Is that possible? | Augmented: Can I request a replacement card for my daughter's account?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: How much is it to receive money? | Augmented: What is the fee for receiving funds via bank transfer?
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: I was charged for getting cash. | Augmented: I was charged a fee for withdrawing cash.
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: Please send a new card; the ATM ate mine. | Augmented: Please dispatch a replacement card; I think I've lost the one I had, as it seems to have been swallowed by the ATM.
+VAL | [card_not_working] | REVIEW | Reason: N/A | Original: Did you deactivate my card it's not working anymore | Augmented: Is my card still active? It's not functioning properly.
+VAL | [get_disposable_virtual_card] | ACCEPT | Reason: Both texts request a temporary, virtual, and disposable card, preserving the original intent. | Original: Please send me a disposable virtual card. | Augmented: Please provide me with a temporary virtual credit card.
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I've never been to that store.  That's a fraudulent charge. | Augmented: We've never processed a payment from that merchant before. This transaction appears to be unauthorized.
+VAL | [virtual_card_not_working] | ACCEPT | Reason: N/A | Original: I can't use my virtual disposable card | Augmented: I'm having trouble accessing my virtual prepaid card
+VAL | [card_linking] | ACCEPT | Reason: ... | Original: If I have a credit card with you how I get set up to link to it? | Augmented: If I already have a credit card account with your bank, how do I go about linking it to my profile?
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: N/A | Original: What are the fees imposed when I make a transaction? | Augmented: What charges do I need to pay when I process a payment?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: The augmented text preserves the same issue of a deposit not updating the account balance, which aligns with the target intent. It is specific about the timing (last week) and the method (ATM), and it seeks assistance, which is consistent with the original text. | Original: Dude I put money in the ATM last week but it ain't there! I need the money now figure this out! | Augmented: I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: Can you help me track my card? | Augmented: Can you assist me in locating my card?
+VAL | [order_physical_card] | ACCEPT | Reason: ... | Original: Can you send me the actual card? | Augmented: Can you dispatch the physical card to me?
+VAL | [country_support] | ACCEPT | Reason: ... | Original: Although I am not located in the UK area, may i still receive a card? | Augmented: Despite not being based in the UK, can I still obtain a card?
+VAL | [unable_to_verify_identity] | ACCEPT | Reason: N/A | Original: I am not recognized by the app. | Augmented: We're having trouble verifying your identity through our system.
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: What's the limit on total number of cards I can have? | Augmented: How many spare cards can I have issued to me?
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I do not recognise the card payment. | Augmented: I'm unable to verify the card payment.
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: Will you accept my credit card, it my only one. | Augmented: Can you accept my credit card, as it's the only one I have?
+VAL_SUMMARY | ACCEPT: 37 | REVIEW: 1 | REJECT: 0 | UNKNOWN: 0 | Accept Rate: 0.9737

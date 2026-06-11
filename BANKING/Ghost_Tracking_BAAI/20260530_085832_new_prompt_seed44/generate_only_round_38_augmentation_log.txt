@@ -1,0 +1,37 @@
+GEN | [why_verify_identity] | Orig: My ID verification hasn't gone through yet, but can I use my account anyway? -> Aug: Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?
+GEN | [terminate_account] | Orig: I need to close my account as soon as possible. -> Aug: I would like to cancel my account immediately.
+GEN | [topping_up_by_card] | Orig: Can I get my friends to add money to my account? -> Aug: Can I have my friends use their cards to top up my account?
+GEN | [unable_to_verify_identity] | Orig: app malfunctioning, does not know its me -> Aug: We're experiencing technical difficulties, and our system is unable to recognize your identity.
+GEN | [getting_spare_card] | Orig: how is it possible to add another card to account -> Aug: Can I get a spare card added to my account?
+GEN | [passcode_forgotten] | Orig: I used to know my password, but not anymore. -> Aug: I'm having trouble recalling my passcode, as I've forgotten it.
+GEN | [declined_card_payment] | Orig: I tried to pay with my card and it didn't work -> Aug: I attempted to make a payment using my credit/debit card, but it was unsuccessful.
+GEN | [beneficiary_not_allowed] | Orig: I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here? -> Aug: I'm having trouble finalizing a transaction. I'm attempting to buy some cryptocurrency, but the app is preventing me from doing so. Can you help me understand what's blocking this process?
+GEN | [beneficiary_not_allowed] | Orig: My card isn't letting me purchase something and I wanted to know why. -> Aug: I'm trying to make a purchase, but my card is being declined and I'd like to understand why.
+GEN | [declined_cash_withdrawal] | Orig: I think I am having an issue with withdraws on my card. It was declined on the way to work this morning. This hasn't happened in the past. -> Aug: I'm experiencing a problem with a cash withdrawal on my card, which was declined when I tried to make a withdrawal on my way to work this morning. This is unusual, as it's never happened before.
+GEN | [cash_withdrawal_not_recognised] | Orig: I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP -> Aug: I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP.
+GEN | [activate_my_card] | Orig: How can my new card be renewed? -> Aug: How can I reactivate my new card?
+GEN | [receiving_money] | Orig: How can I receive money? -> Aug: What methods are available for me to receive funds?
+GEN | [failed_transfer] | Orig: I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand. -> Aug: I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?
+GEN | [top_up_by_card_charge] | Orig: Do you charge a fee for adding money in USD? -> Aug: Is there a charge for topping up my account using my card in USD?
+GEN | [declined_card_payment] | Orig: My card couldn't pay in a shop. -> Aug: My payment was declined at a store.
+GEN | [reverted_card_payment?] | Orig: I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here? -> Aug: I'm trying to understand why the payment I made wasn't credited to the seller, as they're saying it didn't go through. Can you help me resolve this issue?
+GEN | [supported_cards_and_currencies] | Orig: What cards do you support -> Aug: We accept a range of payment cards
+GEN | [pending_transfer] | Orig: I wanted to know why there is a transfer of mine pending. -> Aug: I'm curious about the status of a transfer I initiated, which is currently pending.
+GEN | [virtual_card_not_working] | Orig: Why is my disposable card not working? -> Aug: Why is my temporary card not functioning properly?
+GEN | [transfer_into_account] | Orig: How can I link my bank to my top up account? -> Aug: How can I connect my bank account to my transfer account?
+GEN | [card_linking] | Orig: Where do I go to add a new card? -> Aug: How can I link a new card to my account?
+GEN | [declined_cash_withdrawal] | Orig: I tried to get funds in hard cash but it was rejected! -> Aug: I attempted to withdraw cash, but the transaction was declined.
+GEN | [card_payment_fee_charged] | Orig: What can i pay with out  fees -> Aug: How can I make a payment without incurring any charges?
+GEN | [declined_transfer] | Orig: I think there has been a mistake with my transfer -> Aug: I believe there's been an error with the transfer I initiated
+GEN | [cancel_transfer] | Orig: I am trying to revert a transcation I did this morning -> Aug: I'm attempting to reverse a transfer I initiated earlier today
+GEN | [pending_cash_withdrawal] | Orig: Why hasn't my withdrawal shown on my statement? -> Aug: Why is my pending cash withdrawal not reflected on my account statement?
+GEN | [card_delivery_estimate] | Orig: are you sending me my card? -> Aug: Can you confirm when I can expect to receive my card?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Can I withdraw money in my hometown currency while on holiday without any additional fees? -> Aug: Can I get the correct exchange rate for a cash withdrawal in my local currency while I'm traveling, or will I be charged an incorrect rate and incur extra fees?
+GEN | [declined_cash_withdrawal] | Orig: I tried using my ATM card at your Notting Hill location today.  It did not work.  Am I doing something wrong? -> Aug: I attempted to withdraw cash using my ATM card at your Notting Hill branch, but it was unsuccessful. Is there an issue with my card or the machine?
+GEN | [order_physical_card] | Orig: What do I need to do in order to get a new card? -> Aug: How can I obtain a physical card?
+GEN | [wrong_amount_of_cash_received] | Orig: The cash I asked for still hasn't been received -> Aug: The amount of cash I requested has not been delivered.
+GEN | [top_up_failed] | Orig: My credit card for was not approved for a top-up transaction.  What happened? -> Aug: The top-up attempt using my credit card was declined. Can you help me understand why?
+GEN | [verify_top_up] | Orig: Can you explain to me the way to verify my top up has gone through? -> Aug: Could you please guide me on the process of confirming that my top-up transaction has been successfully processed?
+GEN | [order_physical_card] | Orig: What fees do you charge for the standard card? -> Aug: What are the charges for a standard physical card?
+GEN | [card_payment_wrong_exchange_rate] | Orig: It seems that the rate I got is incorrect. -> Aug: The exchange rate applied to my card payment appears to be inaccurate.
+GEN | [passcode_forgotten] | Orig: Can my password be reset if I do not have it? -> Aug: Can I recover my passcode if I've forgotten it?

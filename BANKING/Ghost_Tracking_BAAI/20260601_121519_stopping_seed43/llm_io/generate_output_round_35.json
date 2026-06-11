@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I've attempted to use my card at various merchants, but it's no longer functioning properly.",
+    "They informed me that they didn't receive the entire amount I transferred to them, and I'd appreciate it if you could investigate this issue.",
+    "I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?",
+    "I'm interested in obtaining a Mastercard credit card, what are the necessary steps to accomplish this?",
+    "Why is my payment being declined? Is there an issue with my account or a problem with the transaction that's causing it to be rejected? What steps can I take to resolve this issue and get my payment processed successfully?",
+    "I recently made a purchase and the vendor informed me that the transfer is still pending. The transaction was in euros. Can you please provide an estimate of how long it usually takes for the funds to be received?",
+    "I'm receiving a salary in British Pounds; do I need to update the app to reflect this?",
+    "the amount I received from my ATM transaction was incorrect",
+    "I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?",
+    "Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?",
+    "Can I open an account for my child?",
+    "Can I use my card to add funds to my account, and would it be possible for my friends to do the same for me?",
+    "I'd like to dispute a charge on my statement that was incorrectly applied.",
+    "Is there a charge for topping up my account using my card in USD?",
+    "Are my paychecks in British Pounds, and do I need to set up a specific setting for that?",
+    "I'm showing a payment in my account that I didn't initiate. I haven't used that card at all today, so I'm not sure why it's showing up. Can you investigate and refund the amount?",
+    "Despite not being based in the UK, can I still obtain a card?",
+    "When can I expect the funds to be deposited into my account?",
+    "I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?",
+    "We're having trouble verifying a payment made at a store I didn't visit.",
+    "I made a transfer, but the recipient hasn't received it yet.",
+    "Can I grant permission to someone else to access my account to make a card-based top-up?",
+    "Why is my card unable to process any transactions?",
+    "A supplementary fee has been added to your statement.",
+    "Do I need to exchange my British pounds for another currency before making a transfer?",
+    "I attempted to make a payment using my debit card, but it was unsuccessful.",
+    "A payment has been recorded in the app that I did not authorize.",
+    "I sent back a product, but the refund isn't showing up on my statement.",
+    "I'm experiencing an extra verification step after attempting to make a top-up, can you help me understand why?",
+    "Why is my card not functioning properly?",
+    "What is the exchange charge for accepting an international transfer?",
+    "Why am I unable to add funds to my top-up account?",
+    "I'd like to cancel my account, please.",
+    "Why isn't my bank transfer reflected in my account balance?",
+    "How do the rules work for increasing my credit limit?",
+    "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account."
+  ],
+  "generated_labels": [
+    14,
+    64,
+    75,
+    73,
+    25,
+    48,
+    50,
+    75,
+    59,
+    76,
+    1,
+    62,
+    52,
+    57,
+    50,
+    28,
+    24,
+    67,
+    19,
+    16,
+    66,
+    62,
+    14,
+    34,
+    50,
+    53,
+    16,
+    51,
+    71,
+    14,
+    31,
+    61,
+    55,
+    5,
+    60,
+    8
+  ],
+  "source_texts": [
+    "I tried using my card at multiple vendors and now it's not working.",
+    "Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?",
+    "I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?",
+    "I am looking to get a Visa credit card, what must I do to achieve this?",
+    "Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?",
+    "I recently purchased something and the seller says my money has not arrived yet. It was in EU's. How long does this take?",
+    "I am paid by my employer in GBP; do I need to do anything in the app to indicate this?",
+    "my atm transaction was wrong",
+    "I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",
+    "Can the exchange rate change while I am in the process of making a withdrawal?",
+    "Can I get an account for my son?",
+    "Can my account be topped up by my friends?",
+    "My statement has a charge that shouldn't have been made.",
+    "Do you charge a fee for adding money in USD?",
+    "My salary is in GBP, is this something I need to configure?",
+    "There is a payment in my app that I did not make.  I have not used that card all day  Please reimburse my money.",
+    "Although I am not located in the UK area, may i still receive a card?",
+    "When will the money reach my  account?",
+    "I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?",
+    "I think there's a purchase at a store that I didn't go to.",
+    "I sent a payment but it isn't showing up in the app",
+    "Can I let other people have access to my account in order to top up?",
+    "Why won't my card accept any transactions?",
+    "There is a charge for an additional pound.",
+    "Do I need to convert my currency from GBP before transferring?",
+    "I tried to use my debit card, but the payment did not work.",
+    "There is a payment in the app that I did not approve",
+    "I returned an item but don't see it on my account?",
+    "I just tried to top-up and now I'm getting an additional verification message, why?",
+    "Why can't I use my card?",
+    "How much do I have to pay to accept an international transfer?",
+    "How come I can't put money in my top up account?",
+    "I no longer want this account, what should I do?",
+    "How can I fix my bank transfer to show up on my bank account?",
+    "What are the rules for a top-up?",
+    "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place."
+  ],
+  "records": [
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I tried using my card at multiple vendors and now it's not working.",
+      "generated": "I've attempted to use my card at various merchants, but it's no longer functioning properly."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?",
+      "generated": "They informed me that they didn't receive the entire amount I transferred to them, and I'd appreciate it if you could investigate this issue."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?",
+      "generated": "I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I am looking to get a Visa credit card, what must I do to achieve this?",
+      "generated": "I'm interested in obtaining a Mastercard credit card, what are the necessary steps to accomplish this?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?",
+      "generated": "Why is my payment being declined? Is there an issue with my account or a problem with the transaction that's causing it to be rejected? What steps can I take to resolve this issue and get my payment processed successfully?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I recently purchased something and the seller says my money has not arrived yet. It was in EU's. How long does this take?",
+      "generated": "I recently made a purchase and the vendor informed me that the transfer is still pending. The transaction was in euros. Can you please provide an estimate of how long it usually takes for the funds to be received?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I am paid by my employer in GBP; do I need to do anything in the app to indicate this?",
+      "generated": "I'm receiving a salary in British Pounds; do I need to update the app to reflect this?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "my atm transaction was wrong",
+      "generated": "the amount I received from my ATM transaction was incorrect"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",
+      "generated": "I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can the exchange rate change while I am in the process of making a withdrawal?",
+      "generated": "Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Can I get an account for my son?",
+      "generated": "Can I open an account for my child?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can my account be topped up by my friends?",
+      "generated": "Can I use my card to add funds to my account, and would it be possible for my friends to do the same for me?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "My statement has a charge that shouldn't have been made.",
+      "generated": "I'd like to dispute a charge on my statement that was incorrectly applied."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Do you charge a fee for adding money in USD?",
+      "generated": "Is there a charge for topping up my account using my card in USD?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My salary is in GBP, is this something I need to configure?",
+      "generated": "Are my paychecks in British Pounds, and do I need to set up a specific setting for that?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "There is a payment in my app that I did not make.  I have not used that card all day  Please reimburse my money.",
+      "generated": "I'm showing a payment in my account that I didn't initiate. I haven't used that card at all today, so I'm not sure why it's showing up. Can you investigate and refund the amount?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Although I am not located in the UK area, may i still receive a card?",
+      "generated": "Despite not being based in the UK, can I still obtain a card?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will the money reach my  account?",
+      "generated": "When can I expect the funds to be deposited into my account?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?",
+      "generated": "I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I think there's a purchase at a store that I didn't go to.",
+      "generated": "We're having trouble verifying a payment made at a store I didn't visit."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I sent a payment but it isn't showing up in the app",
+      "generated": "I made a transfer, but the recipient hasn't received it yet."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can I let other people have access to my account in order to top up?",
+      "generated": "Can I grant permission to someone else to access my account to make a card-based top-up?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why won't my card accept any transactions?",
+      "generated": "Why is my card unable to process any transactions?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is a charge for an additional pound.",
+      "generated": "A supplementary fee has been added to your statement."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do I need to convert my currency from GBP before transferring?",
+      "generated": "Do I need to exchange my British pounds for another currency before making a transfer?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to use my debit card, but the payment did not work.",
+      "generated": "I attempted to make a payment using my debit card, but it was unsuccessful."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There is a payment in the app that I did not approve",
+      "generated": "A payment has been recorded in the app that I did not authorize."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I returned an item but don't see it on my account?",
+      "generated": "I sent back a product, but the refund isn't showing up on my statement."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I just tried to top-up and now I'm getting an additional verification message, why?",
+      "generated": "I'm experiencing an extra verification step after attempting to make a top-up, can you help me understand why?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why can't I use my card?",
+      "generated": "Why is my card not functioning properly?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "How much do I have to pay to accept an international transfer?",
+      "generated": "What is the exchange charge for accepting an international transfer?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "How come I can't put money in my top up account?",
+      "generated": "Why am I unable to add funds to my top-up account?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I no longer want this account, what should I do?",
+      "generated": "I'd like to cancel my account, please."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How can I fix my bank transfer to show up on my bank account?",
+      "generated": "Why isn't my bank transfer reflected in my account balance?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What are the rules for a top-up?",
+      "generated": "How do the rules work for increasing my credit limit?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+      "generated": "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account."
+    }
+  ]
+}

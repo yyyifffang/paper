@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "Why was my card payment declined at the store?",
+    "where can I find an ATM to withdraw cash?",
+    "My refund is taking too long to process.",
+    "Can I obtain a card that is widely accepted in various countries, including those in Africa and Indonesia?",
+    "I'd like to cancel the transfer I initiated this morning.",
+    "I'd like to request a new physical card.",
+    "Can I see my latest refund reflected in my account statement?",
+    "Can I convert my funds to euros?",
+    "Why hasn't the money transfer been credited to the recipient's account?",
+    "I'd like to place an order for a physical card.",
+    "Please inform me about the charge for exchanging currencies.",
+    "Can I still access the app without my phone?",
+    "Will my new card be functional in countries outside the European Union?",
+    "Need assistance with the exchange fee?",
+    "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.",
+    "Are there any alternative card options available before my current card expires?",
+    "I sent back a product, but the refund isn't showing up on my statement.",
+    "I'm unable to locate a payment in my account records.",
+    "I'd like to obtain a spare card for my daughter.",
+    "What is the maximum amount allowed for automatic top-ups?",
+    "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?",
+    "I'd like to request a replacement card",
+    "I was unexpectedly billed an additional amount in a recent transaction.",
+    "Can I have my account replenished by my friends using their cards?",
+    "I'd like to cancel my account, please.",
+    "A recipient informed me that they didn't receive the full transfer I initiated, and the amount was short. I'll need to make an additional transfer to cover the shortfall. Could you please investigate this discrepancy and get back to me?",
+    "Why is the transfer still pending?",
+    "I'd like to add funds to my account using my credit card.",
+    "Why did you apply an incorrect exchange rate for my international transaction? I was expecting a more competitive rate for the foreign currency.",
+    "The exchange rate for my cash withdrawal seems to be incorrect.",
+    "What steps can I take to move my funds into the account?",
+    "Do I need to exchange my British pounds for another currency before making a transfer?",
+    "May I confirm my identity using my social security card?",
+    "I'm wondering why I was charged an additional fee on my recent statement.",
+    "Why was my cash withdrawal declined at the ATM?",
+    "What steps should I take once my credit card's expiration date has passed?",
+    "I accidentally left my phone behind, and now I'm unable to access the app. Does this mean I'm unable to use my card?",
+    "Please assist me. My temporary virtual card is not functioning properly.",
+    "How long does it typically take for international transfers to be processed? I made an online purchase a few days ago and initiated the transfer promptly, but the vendor is telling me that the funds are still pending."
+  ],
+  "generated_labels": [
+    25,
+    3,
+    51,
+    24,
+    8,
+    43,
+    51,
+    36,
+    66,
+    43,
+    31,
+    42,
+    24,
+    31,
+    20,
+    9,
+    51,
+    16,
+    39,
+    4,
+    35,
+    39,
+    34,
+    62,
+    55,
+    64,
+    48,
+    62,
+    17,
+    76,
+    65,
+    50,
+    69,
+    34,
+    26,
+    9,
+    42,
+    72,
+    48
+  ],
+  "source_texts": [
+    "why couldn't I use my card at a store?",
+    "how do I know where I can get money withdrawn?",
+    "My refund isn't going fast enough.",
+    "Can I get a card that works in other countries like Africa and Indonesia?",
+    "My morning transaction needs to be canceled.",
+    "I need to order a new card.",
+    "Can I check my recent refund in my statement?",
+    "Can I exchange my money for EUR?",
+    "What happens when I money transaction doesn't show up on the receiving side?",
+    "I would like to request a card.",
+    "Please tell me what the exchange fee is.",
+    "Do I need my phone to use the app?",
+    "Will my new card work outside of the EU?",
+    "Exchange fee help?",
+    "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+    "Are new cards available from China?",
+    "I returned an item but don't see it on my account?",
+    "I do not recongize a payment in my account.",
+    "daughter needs card, how do i add her",
+    "What is the limit on Auto top?",
+    "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+    "I'd like to order another card",
+    "I was charged $1 in a transaction.",
+    "Can my account be topped-up by friends of mine.",
+    "I no longer want this account, what should I do?",
+    "A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?",
+    "Why is the transaction not posting?",
+    "I need to transfer some money, can I use my credit card?",
+    "Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate",
+    "Whats wrong with my currency exchange?",
+    "How is my money transferred to the account",
+    "Do I need to convert my currency from GBP before transferring?",
+    "Can I use my social security card as a form of identity?",
+    "Why did a transaction I made charge me $1?",
+    "Why did the ATM cancel my transaction",
+    "Tell me what I should do after my card expires.",
+    "I misplaced my phone so I can't use the app! Does this mean I can't use my card?",
+    "Please help me.  My disposable virtual card won't work right.",
+    "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet."
+  ],
+  "records": [
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "why couldn't I use my card at a store?",
+      "generated": "Why was my card payment declined at the store?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "how do I know where I can get money withdrawn?",
+      "generated": "where can I find an ATM to withdraw cash?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "My refund isn't going fast enough.",
+      "generated": "My refund is taking too long to process."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I get a card that works in other countries like Africa and Indonesia?",
+      "generated": "Can I obtain a card that is widely accepted in various countries, including those in Africa and Indonesia?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "My morning transaction needs to be canceled.",
+      "generated": "I'd like to cancel the transfer I initiated this morning."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need to order a new card.",
+      "generated": "I'd like to request a new physical card."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Can I check my recent refund in my statement?",
+      "generated": "Can I see my latest refund reflected in my account statement?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can I exchange my money for EUR?",
+      "generated": "Can I convert my funds to euros?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "What happens when I money transaction doesn't show up on the receiving side?",
+      "generated": "Why hasn't the money transfer been credited to the recipient's account?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I would like to request a card.",
+      "generated": "I'd like to place an order for a physical card."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Please tell me what the exchange fee is.",
+      "generated": "Please inform me about the charge for exchanging currencies."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Do I need my phone to use the app?",
+      "generated": "Can I still access the app without my phone?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Will my new card work outside of the EU?",
+      "generated": "Will my new card be functional in countries outside the European Union?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Exchange fee help?",
+      "generated": "Need assistance with the exchange fee?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+      "generated": "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Are new cards available from China?",
+      "generated": "Are there any alternative card options available before my current card expires?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I returned an item but don't see it on my account?",
+      "generated": "I sent back a product, but the refund isn't showing up on my statement."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recongize a payment in my account.",
+      "generated": "I'm unable to locate a payment in my account records."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "daughter needs card, how do i add her",
+      "generated": "I'd like to obtain a spare card for my daughter."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "What is the limit on Auto top?",
+      "generated": "What is the maximum amount allowed for automatic top-ups?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+      "generated": "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I'd like to order another card",
+      "generated": "I'd like to request a replacement card"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I was charged $1 in a transaction.",
+      "generated": "I was unexpectedly billed an additional amount in a recent transaction."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can my account be topped-up by friends of mine.",
+      "generated": "Can I have my account replenished by my friends using their cards?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I no longer want this account, what should I do?",
+      "generated": "I'd like to cancel my account, please."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?",
+      "generated": "A recipient informed me that they didn't receive the full transfer I initiated, and the amount was short. I'll need to make an additional transfer to cover the shortfall. Could you please investigate this discrepancy and get back to me?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Why is the transaction not posting?",
+      "generated": "Why is the transfer still pending?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I need to transfer some money, can I use my credit card?",
+      "generated": "I'd like to add funds to my account using my credit card."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate",
+      "generated": "Why did you apply an incorrect exchange rate for my international transaction? I was expecting a more competitive rate for the foreign currency."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Whats wrong with my currency exchange?",
+      "generated": "The exchange rate for my cash withdrawal seems to be incorrect."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "How is my money transferred to the account",
+      "generated": "What steps can I take to move my funds into the account?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do I need to convert my currency from GBP before transferring?",
+      "generated": "Do I need to exchange my British pounds for another currency before making a transfer?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Can I use my social security card as a form of identity?",
+      "generated": "May I confirm my identity using my social security card?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why did a transaction I made charge me $1?",
+      "generated": "I'm wondering why I was charged an additional fee on my recent statement."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why did the ATM cancel my transaction",
+      "generated": "Why was my cash withdrawal declined at the ATM?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Tell me what I should do after my card expires.",
+      "generated": "What steps should I take once my credit card's expiration date has passed?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I misplaced my phone so I can't use the app! Does this mean I can't use my card?",
+      "generated": "I accidentally left my phone behind, and now I'm unable to access the app. Does this mean I'm unable to use my card?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Please help me.  My disposable virtual card won't work right.",
+      "generated": "Please assist me. My temporary virtual card is not functioning properly."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.",
+      "generated": "How long does it typically take for international transfers to be processed? I made an online purchase a few days ago and initiated the transfer promptly, but the vendor is telling me that the funds are still pending."
+    }
+  ]
+}

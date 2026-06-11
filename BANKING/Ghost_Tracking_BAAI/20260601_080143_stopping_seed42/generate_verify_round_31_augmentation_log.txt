@@ -1,0 +1,75 @@
+GEN | [receiving_money] | Orig: My salary is in GBP, do I need to exchange it before putting it into my account? -> Aug: Is my British pound salary eligible for direct deposit into my account without conversion?
+GEN | [pin_blocked] | Orig: How do I unblock my card? -> Aug: What steps can I take to reactivate my blocked card?
+GEN | [top_up_by_card_charge] | Orig: I was wondering if you will take any fees in exchange for top ups? -> Aug: Are there any charges involved when I top up my account using my card?
+GEN | [cash_withdrawal_not_recognised] | Orig: There is money missing from my account. -> Aug: I'm missing a withdrawal from my account.
+GEN | [cash_withdrawal_not_recognised] | Orig: there is money in my account that i didnt put there -> Aug: I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.
+GEN | [declined_card_payment] | Orig: Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident. -> Aug: I'm having trouble making a payment with my new card, as it keeps getting declined. I'm quite frustrated with this situation.
+GEN | [virtual_card_not_working] | Orig: My disposable virtual card got rejected -> Aug: My temporary virtual card was declined
+GEN | [top_up_limits] | Orig: How many times can I make a top-up? -> Aug: How often can I increase my limits through top-ups?
+GEN | [exchange_rate] | Orig: explain the interbank exchange rate -> Aug: describe the rate at which banks exchange one currency for another
+GEN | [topping_up_by_card] | Orig: Transferring money using credit card -> Aug: Adding funds to your account using your credit card
+GEN | [pending_top_up] | Orig: It's been some time since refilled the top-up. -> Aug: It's been a while since the top-up was replenished.
+GEN | [top_up_by_card_charge] | Orig: Are their fee's for top ups? -> Aug: Are there any charges associated with making a top-up payment using my card?
+GEN | [order_physical_card] | Orig: Do you ship your cards anywhere? -> Aug: Can you deliver your physical cards to any location?
+GEN | [failed_transfer] | Orig: Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere. -> Aug: Is there an issue with your system or network? I've attempted to initiate a standard transfer multiple times, but it's not going through.
+GEN | [exchange_rate] | Orig: What are Interbanks current exchange rates? -> Aug: What are Interbank's current exchange rates?
+GEN | [topping_up_by_card] | Orig: How do I transfer funds directly from my credit card? -> Aug: How can I add funds to my account using my credit card?
+GEN | [apple_pay_or_google_pay] | Orig: Can you explain why my Google Pay Top isn't working? -> Aug: Why isn't my Apple Pay account functioning properly?
+GEN | [card_arrival] | Orig: Have you sent out my card yet? -> Aug: Has my new card been dispatched already?
+GEN | [card_acceptance] | Orig: How do I know where I can use my card? -> Aug: Where can I use my card?
+GEN | [topping_up_by_card] | Orig: I want to know how to transfer money with my credit card -> Aug: I'd like to learn about topping up my account using my credit card.
+GEN | [pending_card_payment] | Orig: There is a payment that has not processed. -> Aug: A payment has not been successfully processed yet.
+GEN | [top_up_by_card_charge] | Orig: What are the fees for using a European bank card? -> Aug: What are the charges for making a payment using a European bank card?
+GEN | [top_up_by_card_charge] | Orig: Is there a top charge for US cards? -> Aug: Are there any charges associated with topping up a US-issued card?
+GEN | [failed_transfer] | Orig: Can you tell my why my funds transfer did not work properly? -> Aug: Why did my recent transfer fail to process as expected?
+GEN | [card_linking] | Orig: I would like to link my card to my account. -> Aug: I'd like to connect my card to my account.
+GEN | [transfer_into_account] | Orig: Please provide details on how to top up my account using transfer option -> Aug: Please provide instructions on how to deposit funds into my account using the transfer feature
+GEN | [top_up_by_card_charge] | Orig: Is topping up free? -> Aug: Is there a charge for topping up my account using my card?
+GEN | [exchange_charge] | Orig: Is there any cost to change foreign money to local? -> Aug: Are there any fees associated with exchanging foreign currency for local currency?
+GEN | [reverted_card_payment?] | Orig: I received a message from a seller stating they hadn't received my money even though it definitely came out of my account. The money has now been deposited back into my account. Please get this resolved as soon as possible. -> Aug: I was informed by a merchant that they didn't receive the payment, despite the fact that it was deducted from my account. The funds have since been reversed and credited back to my account. Can you look into this matter urgently?
+GEN | [reverted_card_payment?] | Orig: I tried to use my debit card, but the payment did not work. -> Aug: I attempted to make a payment using my debit card, but it was unsuccessful.
+GEN | [cash_withdrawal_not_recognised] | Orig: I did not get the cash that is showing up in my app. -> Aug: The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.
+GEN | [card_payment_not_recognised] | Orig: I do not recongize a payment in my account. -> Aug: I'm unable to locate a payment in my account records.
+GEN | [top_up_failed] | Orig: is there a way to fix my top up -> Aug: can you help me resolve the issue with my top-up attempt?
+GEN | [activate_my_card] | Orig: Tell me how to renew my new card? -> Aug: How do I reactivate my new credit card?
+GEN | [topping_up_by_card] | Orig: I need to transfer some money, can I use my credit card? -> Aug: I'd like to add funds to my account using my credit card.
+GEN | [card_arrival] | Orig: Am I able to track a card that has already been sent? -> Aug: Can I check the status of a card that has already been dispatched?
+GEN | [order_physical_card] | Orig: Where do you deliver cards to? -> Aug: How do you handle physical card delivery?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: My salary is in GBP, do I need to exchange it before putting it into my account? | Augmented: Is my British pound salary eligible for direct deposit into my account without conversion?
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: How do I unblock my card? | Augmented: What steps can I take to reactivate my blocked card?
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: I was wondering if you will take any fees in exchange for top ups? | Augmented: Are there any charges involved when I top up my account using my card?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: There is money missing from my account. | Augmented: I'm missing a withdrawal from my account.
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: there is money in my account that i didnt put there | Augmented: I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident. | Augmented: I'm having trouble making a payment with my new card, as it keeps getting declined. I'm quite frustrated with this situation.
+VAL | [virtual_card_not_working] | ACCEPT | Reason: N/A | Original: My disposable virtual card got rejected | Augmented: My temporary virtual card was declined
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: How many times can I make a top-up? | Augmented: How often can I increase my limits through top-ups?
+VAL | [exchange_rate] | ACCEPT | Reason: ... | Original: explain the interbank exchange rate | Augmented: describe the rate at which banks exchange one currency for another
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: Transferring money using credit card | Augmented: Adding funds to your account using your credit card
+VAL | [pending_top_up] | ACCEPT | Reason: N/A | Original: It's been some time since refilled the top-up. | Augmented: It's been a while since the top-up was replenished.
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: Are their fee's for top ups? | Augmented: Are there any charges associated with making a top-up payment using my card?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Do you ship your cards anywhere? | Augmented: Can you deliver your physical cards to any location?
+VAL | [failed_transfer] | ACCEPT | Reason: N/A | Original: Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere. | Augmented: Is there an issue with your system or network? I've attempted to initiate a standard transfer multiple times, but it's not going through.
+VAL | [exchange_rate] | ACCEPT | Reason: N/A | Original: What are Interbanks current exchange rates? | Augmented: What are Interbank's current exchange rates?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: How do I transfer funds directly from my credit card? | Augmented: How can I add funds to my account using my credit card?
+VAL | [apple_pay_or_google_pay] | REJECT | Reason: N/A | Original: Can you explain why my Google Pay Top isn't working? | Augmented: Why isn't my Apple Pay account functioning properly?
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: Have you sent out my card yet? | Augmented: Has my new card been dispatched already?
+VAL | [card_acceptance] | ACCEPT | Reason: N/A | Original: How do I know where I can use my card? | Augmented: Where can I use my card?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: I want to know how to transfer money with my credit card | Augmented: I'd like to learn about topping up my account using my credit card.
+VAL | [pending_card_payment] | ACCEPT | Reason: N/A | Original: There is a payment that has not processed. | Augmented: A payment has not been successfully processed yet.
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: What are the fees for using a European bank card? | Augmented: What are the charges for making a payment using a European bank card?
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: Is there a top charge for US cards? | Augmented: Are there any charges associated with topping up a US-issued card?
+VAL | [failed_transfer] | ACCEPT | Reason: ... | Original: Can you tell my why my funds transfer did not work properly? | Augmented: Why did my recent transfer fail to process as expected?
+VAL | [card_linking] | ACCEPT | Reason: Both sentences express the action of associating a card with an account, which is the core of the 'card_linking' intent. | Original: I would like to link my card to my account. | Augmented: I'd like to connect my card to my account.
+VAL | [transfer_into_account] | ACCEPT | Reason: N/A | Original: Please provide details on how to top up my account using transfer option | Augmented: Please provide instructions on how to deposit funds into my account using the transfer feature
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: ... | Original: Is topping up free? | Augmented: Is there a charge for topping up my account using my card?
+VAL | [exchange_charge] | ACCEPT | Reason: Both texts are asking about the cost of converting one currency to another, which is a clear example of an exchange charge. | Original: Is there any cost to change foreign money to local? | Augmented: Are there any fees associated with exchanging foreign currency for local currency?
+VAL | [reverted_card_payment?] | ACCEPT | Reason: The augmented text preserves the key elements of the original text: the payment being deducted from the account, the lack of receipt by the merchant, and the subsequent reversal of the transaction. The urgency and the request for action are also maintained. | Original: I received a message from a seller stating they hadn't received my money even though it definitely came out of my account. The money has now been deposited back into my account. Please get this resolved as soon as possible. | Augmented: I was informed by a merchant that they didn't receive the payment, despite the fact that it was deducted from my account. The funds have since been reversed and credited back to my account. Can you look into this matter urgently?
+VAL | [reverted_card_payment?] | ACCEPT | Reason: N/A | Original: I tried to use my debit card, but the payment did not work. | Augmented: I attempted to make a payment using my debit card, but it was unsuccessful.
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: I did not get the cash that is showing up in my app. | Augmented: The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I do not recongize a payment in my account. | Augmented: I'm unable to locate a payment in my account records.
+VAL | [top_up_failed] | ACCEPT | Reason: ... | Original: is there a way to fix my top up | Augmented: can you help me resolve the issue with my top-up attempt?
+VAL | [activate_my_card] | ACCEPT | Reason: N/A | Original: Tell me how to renew my new card? | Augmented: How do I reactivate my new credit card?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: I need to transfer some money, can I use my credit card? | Augmented: I'd like to add funds to my account using my credit card.
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: Am I able to track a card that has already been sent? | Augmented: Can I check the status of a card that has already been dispatched?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Where do you deliver cards to? | Augmented: How do you handle physical card delivery?
+VAL_SUMMARY | ACCEPT: 36 | REVIEW: 0 | REJECT: 1 | UNKNOWN: 0 | Accept Rate: 0.9730

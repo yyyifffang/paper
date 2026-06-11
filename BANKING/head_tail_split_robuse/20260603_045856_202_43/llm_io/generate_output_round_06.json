@@ -1,0 +1,280 @@
+{
+  "generated_texts": [
+    "Hello, I'm having some trouble with the app. I'm trying to exchange cryptocurrency, but it's not working as expected. I'm eager to make a purchase.",
+    "It's an emergency. Please cancel my card immediately. Someone in a distant location has made an unauthorized cash withdrawal using my card, and I didn't make the transaction myself.",
+    "When can I expect a pending card payment to be processed and move to an authorized status?",
+    "I'm having trouble identifying some charges on my account that I don't recall making. The transaction descriptions seem unfamiliar, and I'm unsure if the merchant names are just different or if there's something more going on. Should I have my card temporarily suspended while you investigate this issue to ensure my account's security, or is it safe to leave it active?",
+    "At what point does the account balance need to reach before the automatic top-up feature kicks in?",
+    "Can you put a hold on my card right away?",
+    "Are you experiencing an issue with converting or exchanging euros?",
+    "What's the best way to determine if an ATM will accept my card?",
+    "We're unable to identify a Direct Debit payment in your account records.",
+    "Are there any digital cards available instead of traditional physical cards?",
+    "I've noticed a mysterious £1 charge showing up as pending on my statement. Can you help me figure out what it's for? I'm certain I didn't make any purchases for that amount.",
+    "Can you assist me in putting a hold on my card right away?",
+    "What is the daily spending limit on my credit card?",
+    "How long will the extra charge appear as pending on my statement?",
+    "Might I request a card, as I am a resident of the European Union?",
+    "I'm not satisfied unless I receive a Visa or Mastercard.",
+    "I'm a resident of the European Union. Can I obtain one of your credit cards?",
+    "I'm still waiting to receive a refund for a purchase I made, and despite reaching out to the seller, I haven't received a response. Can you assist me in determining if you can process the refund for the item?",
+    "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.",
+    "Can you replace my card and cancel my current one, as it was stolen while I was in Spain and I'm now without a wallet?",
+    "I am a resident in the European Union. Can I obtain one of your credit cards?",
+    "The amount of $1.00 remains outstanding, as previously mentioned in our previous communication.",
+    "I'm concerned that a refund for a significant purchase hasn't been reflected in my account yet. I spoke with the merchant a few days ago and was told they would process the refund promptly. Can you provide an update on the status of this refund?",
+    "Can I get a full refund for my purchase?",
+    "Describe the virtual card process",
+    "Can I initiate a return and request a refund?",
+    "I'm still waiting for the transfer to be successfully delivered to the recipient.",
+    "I'd prefer a Visa, if possible.",
+    "What's the reason for the extra charge showing up on my statement?",
+    "I'm unhappy about the unexpected charges deducted from my account. I was assisting friends with their relocation to Japan and we made some purchases at local stores. The receipts didn't match the amounts reflected in my bank statement. Can you tell me when I can expect the extra fees to be credited back to my account?"
+  ],
+  "generated_labels": [
+    7,
+    20,
+    45,
+    16,
+    4,
+    41,
+    36,
+    3,
+    28,
+    40,
+    34,
+    41,
+    60,
+    34,
+    24,
+    73,
+    24,
+    51,
+    15,
+    41,
+    24,
+    34,
+    51,
+    52,
+    40,
+    52,
+    66,
+    73,
+    34,
+    64
+  ],
+  "source_texts": [
+    "Hi,  Is there any problem with app? As i am facing some issues with the exchange of crypto currency. I am extremely interested in buying.",
+    "It is urgency. Please freeze my card now. As someone in some odd remote town has withdrawn some money by using my card. As i did not withdraw any money.",
+    "How long does it take for a purchase to go from pending to authorised?",
+    "I need help with some transactions in my account that I dont recognize or remember purchasing. Im not sure if the name is just different or what. Should my card be put on hold while the issue gets figured out to be safe or is it ok?",
+    "How low does the balance have to be before the system updates?",
+    "Could you please freeze my card immediately?",
+    "Do you have a problem with EUR exchanges?",
+    "How can I tell if an AMT will take this card?",
+    "I don't recognise a Direct Debit payment",
+    "And do you have virtual cards instead of physical ones?",
+    "There is some odd 1£ charge that appears as pending on my statement. What's that about? Pretty sure I haven't purchased anything for a pound there.",
+    "Can you provide information for freezing my card immediately?",
+    "What is the daily limit on my card?",
+    "How long will the $1 charge show as pending?",
+    "May I get one of your cards?  I live in the EU.",
+    "I won't be pleased unless I get a Mastercard.",
+    "I'm in the EU. Can I get one of your cards?",
+    "Hi I'm waiting for a refund for an item I bought. I have contacted the merchant directly but had nothing back. Can you tell me whether or not you are able to refund me for the item?",
+    "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+    "Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.",
+    "I am in the EU. Can I get one of your cards?",
+    "The $1.00 has still not been reverted as indicated in the previous email.",
+    "I am noticing that a refund of a large purchase still has not been credited to my account. I contacted the merchant a few days ago and he assured me that he would submit it right away. Is there a status update?",
+    "Are purchases returnable for full refund?",
+    "explain the virtual card",
+    "Do you have a return policy?",
+    "I am just waiting on the completion of the transaction.",
+    "I want a Mastercard, instead.",
+    "Why is there a pending hold on one pound on my statement?",
+    "I don't appreciate the extra fees being siphoned from my account. I was helping some friends move to Japan and we were buying home decorations at the local stores. The  receipts differed greatly from what showed up in my bank account and my statement. When can I expect the extra fees to be back in my account?"
+  ],
+  "records": [
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Hi,  Is there any problem with app? As i am facing some issues with the exchange of crypto currency. I am extremely interested in buying.",
+      "generated": "Hello, I'm having some trouble with the app. I'm trying to exchange cryptocurrency, but it's not working as expected. I'm eager to make a purchase."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "It is urgency. Please freeze my card now. As someone in some odd remote town has withdrawn some money by using my card. As i did not withdraw any money.",
+      "generated": "It's an emergency. Please cancel my card immediately. Someone in a distant location has made an unauthorized cash withdrawal using my card, and I didn't make the transaction myself."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it take for a purchase to go from pending to authorised?",
+      "generated": "When can I expect a pending card payment to be processed and move to an authorized status?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need help with some transactions in my account that I dont recognize or remember purchasing. Im not sure if the name is just different or what. Should my card be put on hold while the issue gets figured out to be safe or is it ok?",
+      "generated": "I'm having trouble identifying some charges on my account that I don't recall making. The transaction descriptions seem unfamiliar, and I'm unsure if the merchant names are just different or if there's something more going on. Should I have my card temporarily suspended while you investigate this issue to ensure my account's security, or is it safe to leave it active?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How low does the balance have to be before the system updates?",
+      "generated": "At what point does the account balance need to reach before the automatic top-up feature kicks in?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Could you please freeze my card immediately?",
+      "generated": "Can you put a hold on my card right away?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you have a problem with EUR exchanges?",
+      "generated": "Are you experiencing an issue with converting or exchanging euros?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How can I tell if an AMT will take this card?",
+      "generated": "What's the best way to determine if an ATM will accept my card?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I don't recognise a Direct Debit payment",
+      "generated": "We're unable to identify a Direct Debit payment in your account records."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "And do you have virtual cards instead of physical ones?",
+      "generated": "Are there any digital cards available instead of traditional physical cards?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is some odd 1£ charge that appears as pending on my statement. What's that about? Pretty sure I haven't purchased anything for a pound there.",
+      "generated": "I've noticed a mysterious £1 charge showing up as pending on my statement. Can you help me figure out what it's for? I'm certain I didn't make any purchases for that amount."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Can you provide information for freezing my card immediately?",
+      "generated": "Can you assist me in putting a hold on my card right away?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What is the daily limit on my card?",
+      "generated": "What is the daily spending limit on my credit card?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "How long will the $1 charge show as pending?",
+      "generated": "How long will the extra charge appear as pending on my statement?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "May I get one of your cards?  I live in the EU.",
+      "generated": "Might I request a card, as I am a resident of the European Union?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I won't be pleased unless I get a Mastercard.",
+      "generated": "I'm not satisfied unless I receive a Visa or Mastercard."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I'm in the EU. Can I get one of your cards?",
+      "generated": "I'm a resident of the European Union. Can I obtain one of your credit cards?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Hi I'm waiting for a refund for an item I bought. I have contacted the merchant directly but had nothing back. Can you tell me whether or not you are able to refund me for the item?",
+      "generated": "I'm still waiting to receive a refund for a purchase I made, and despite reaching out to the seller, I haven't received a response. Can you assist me in determining if you can process the refund for the item?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+      "generated": "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.",
+      "generated": "Can you replace my card and cancel my current one, as it was stolen while I was in Spain and I'm now without a wallet?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I am in the EU. Can I get one of your cards?",
+      "generated": "I am a resident in the European Union. Can I obtain one of your credit cards?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "The $1.00 has still not been reverted as indicated in the previous email.",
+      "generated": "The amount of $1.00 remains outstanding, as previously mentioned in our previous communication."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I am noticing that a refund of a large purchase still has not been credited to my account. I contacted the merchant a few days ago and he assured me that he would submit it right away. Is there a status update?",
+      "generated": "I'm concerned that a refund for a significant purchase hasn't been reflected in my account yet. I spoke with the merchant a few days ago and was told they would process the refund promptly. Can you provide an update on the status of this refund?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Are purchases returnable for full refund?",
+      "generated": "Can I get a full refund for my purchase?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "explain the virtual card",
+      "generated": "Describe the virtual card process"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Do you have a return policy?",
+      "generated": "Can I initiate a return and request a refund?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I am just waiting on the completion of the transaction.",
+      "generated": "I'm still waiting for the transfer to be successfully delivered to the recipient."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I want a Mastercard, instead.",
+      "generated": "I'd prefer a Visa, if possible."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is there a pending hold on one pound on my statement?",
+      "generated": "What's the reason for the extra charge showing up on my statement?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I don't appreciate the extra fees being siphoned from my account. I was helping some friends move to Japan and we were buying home decorations at the local stores. The  receipts differed greatly from what showed up in my bank account and my statement. When can I expect the extra fees to be back in my account?",
+      "generated": "I'm unhappy about the unexpected charges deducted from my account. I was assisting friends with their relocation to Japan and we made some purchases at local stores. The receipts didn't match the amounts reflected in my bank statement. Can you tell me when I can expect the extra fees to be credited back to my account?"
+    }
+  ]
+}

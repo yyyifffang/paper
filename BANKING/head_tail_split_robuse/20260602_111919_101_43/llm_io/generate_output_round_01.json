@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Can I make a cash or cheque deposit online?",
+    "Why hasn't my top-up been processed? I'm still waiting to see it reflected in my account.",
+    "When will the transferred amount be reflected in my account balance?",
+    "In which retail locations can I use this card for purchases?",
+    "My card seems to have been swallowed by the ATM, what should I do now?",
+    "The passcode I'm using isn't recognized.",
+    "Can you assist me in terminating a transfer I mistakenly made to the incorrect account?",
+    "My credit card still hasn't arrived.",
+    "I left my phone at a hotel and I'm unable to access the app.",
+    "I'm extremely unhappy with the service I've received and would like to close my account.",
+    "Can I open an account for my child, considering the age limit for minors?",
+    "This top-up verification process is really frustrating.",
+    "The transfer process is malfunctioning, and I'm receiving an error message every time I attempt to transfer funds.",
+    "Can I get my local currency at an ATM? I'm traveling and need some cash, but I'm worried about the exchange rate being incorrect, which might result in an unexpected fee. Is it possible to withdraw some cash without incurring extra charges?",
+    "I'm concerned that a refund for a significant purchase hasn't been reflected in my account yet. I spoke with the merchant a few days ago and was told they would process the refund promptly. Can you provide an update on the status of this refund?",
+    "I'm really disappointed. My payment was declined, and I'm not sure why.",
+    "I made a purchase and settled the payment, but the item is still missing.",
+    "I accidentally initiated a transfer to the wrong account.",
+    "I've reviewed my statement and noticed a charge for using an ATM. Can you explain why I was charged for this transaction?",
+    "I attempted to book a flight online this morning, but my credit card details aren't being accepted. Is there an issue with my account?",
+    "I'm unable to add funds to my account.",
+    "Can you assist me in resolving the issue with my card not functioning properly?",
+    "I recently got married and I'd like to update my personal details to reflect my new married name.",
+    "I'm concerned about the funds I transferred through a recent top-up. I'm certain they were deposited into my account, but now they're gone. Can you help me figure out what went wrong?",
+    "The recipient is unable to view the transferred funds.",
+    "Please explain why I was assessed an extra fee when I made the payment using my card.",
+    "My funds vanished when I attempted to add more using my card.",
+    "What steps can I take to obtain a physical card?",
+    "Can you explain why the top-up needs to be verified before it can be processed?",
+    "Are there any limitations or restrictions associated with the disposable cards?",
+    "Can I switch or reserve a different currency?",
+    "what's the additional fee I'm being charged for this transaction?",
+    "How can I determine if a fee will be applied to my payment or not?",
+    "Why was my card payment reversed?",
+    "I discovered my misplaced card in my jacket pocket this morning, and I'd appreciate it if you could reactivate it for me.",
+    "I was under the impression that transfers were fee-free. Can you explain why I'm being charged a transfer fee?"
+  ],
+  "generated_labels": [
+    58,
+    47,
+    5,
+    10,
+    18,
+    44,
+    8,
+    11,
+    42,
+    55,
+    1,
+    71,
+    7,
+    76,
+    51,
+    25,
+    53,
+    8,
+    19,
+    14,
+    7,
+    14,
+    30,
+    61,
+    66,
+    15,
+    62,
+    43,
+    71,
+    29,
+    36,
+    15,
+    15,
+    53,
+    13,
+    64
+  ],
+  "source_texts": [
+    "Can I top up online?",
+    "Did I do something incorrectly? Where is my top-up?",
+    "How long before transferred money shows up?",
+    "In which stores can I shop with this card?",
+    "My card was eaten by the cash machine what do I do?",
+    "The passcode isn't working for me.",
+    "Can you help me to quickly cancel a transaction I accidentally did to the wrong account?",
+    "My card isn't here yet.",
+    "My phone was left at a hotel and I can't access the app.",
+    "I am very dissatisfied with the services that you are providing.  I want to cancel my account.",
+    "If I want my son to have his own account is that possible?",
+    "this verifying the top up is annoying",
+    "Is there something wrong with the transferring functions? I keep trying to transfer funds and only get an error message.",
+    "Can I get money in my home currency at an ATM? I'm on vacation and don't have cash with me. This is cause for a bit of concern. Is it possible to withdraw here without additional cost?",
+    "I am noticing that a refund of a large purchase still has not been credited to my account. I contacted the merchant a few days ago and he assured me that he would submit it right away. Is there a status update?",
+    "I was so embarrassed. Why didn't my payment clear?",
+    "I bought something and already paid for it but now I don't see it.",
+    "I made a mistake and performed a transaction on the wrong account!",
+    "I just had a look at my statement. Why have I been changed for using the ATM?",
+    "I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account?",
+    "I cant transfer money into my account",
+    "Need help to get my card to work.",
+    "I just had a wedding and I want to take my spouses name.",
+    "Did you lose my money? I had added funds through top-up not long ago and I know they were in my account, but they seem to have disappeared. What happened?",
+    "Why can't the person I sent the money transfer to see it?",
+    "Please tell me why I was charged additionally when I used the card.",
+    "My money disappeared right when I tried to top up",
+    "How do I go about getting an actual card?",
+    "Tell me why I need top-up to be verified?",
+    "Do the disposable cards have any restrictions on them?",
+    "Can I change or hold different currency?",
+    "what is this extra charge with my purchase?",
+    "How can I tell if there will be a fee added to my payment or not?",
+    "What is the reason for my card payment to be reverted?",
+    "I found my lost card in my jacket pocket this morning so I'd like to reactivate it please.",
+    "Hey I thought transfers were free.  Why are you charging me?"
+  ],
+  "records": [
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I top up online?",
+      "generated": "Can I make a cash or cheque deposit online?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Did I do something incorrectly? Where is my top-up?",
+      "generated": "Why hasn't my top-up been processed? I'm still waiting to see it reflected in my account."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How long before transferred money shows up?",
+      "generated": "When will the transferred amount be reflected in my account balance?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "In which stores can I shop with this card?",
+      "generated": "In which retail locations can I use this card for purchases?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "My card was eaten by the cash machine what do I do?",
+      "generated": "My card seems to have been swallowed by the ATM, what should I do now?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "The passcode isn't working for me.",
+      "generated": "The passcode I'm using isn't recognized."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Can you help me to quickly cancel a transaction I accidentally did to the wrong account?",
+      "generated": "Can you assist me in terminating a transfer I mistakenly made to the incorrect account?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "My card isn't here yet.",
+      "generated": "My credit card still hasn't arrived."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "My phone was left at a hotel and I can't access the app.",
+      "generated": "I left my phone at a hotel and I'm unable to access the app."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I am very dissatisfied with the services that you are providing.  I want to cancel my account.",
+      "generated": "I'm extremely unhappy with the service I've received and would like to close my account."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "If I want my son to have his own account is that possible?",
+      "generated": "Can I open an account for my child, considering the age limit for minors?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "this verifying the top up is annoying",
+      "generated": "This top-up verification process is really frustrating."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Is there something wrong with the transferring functions? I keep trying to transfer funds and only get an error message.",
+      "generated": "The transfer process is malfunctioning, and I'm receiving an error message every time I attempt to transfer funds."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can I get money in my home currency at an ATM? I'm on vacation and don't have cash with me. This is cause for a bit of concern. Is it possible to withdraw here without additional cost?",
+      "generated": "Can I get my local currency at an ATM? I'm traveling and need some cash, but I'm worried about the exchange rate being incorrect, which might result in an unexpected fee. Is it possible to withdraw some cash without incurring extra charges?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I am noticing that a refund of a large purchase still has not been credited to my account. I contacted the merchant a few days ago and he assured me that he would submit it right away. Is there a status update?",
+      "generated": "I'm concerned that a refund for a significant purchase hasn't been reflected in my account yet. I spoke with the merchant a few days ago and was told they would process the refund promptly. Can you provide an update on the status of this refund?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I was so embarrassed. Why didn't my payment clear?",
+      "generated": "I'm really disappointed. My payment was declined, and I'm not sure why."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I bought something and already paid for it but now I don't see it.",
+      "generated": "I made a purchase and settled the payment, but the item is still missing."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I made a mistake and performed a transaction on the wrong account!",
+      "generated": "I accidentally initiated a transfer to the wrong account."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I just had a look at my statement. Why have I been changed for using the ATM?",
+      "generated": "I've reviewed my statement and noticed a charge for using an ATM. Can you explain why I was charged for this transaction?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account?",
+      "generated": "I attempted to book a flight online this morning, but my credit card details aren't being accepted. Is there an issue with my account?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I cant transfer money into my account",
+      "generated": "I'm unable to add funds to my account."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Need help to get my card to work.",
+      "generated": "Can you assist me in resolving the issue with my card not functioning properly?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I just had a wedding and I want to take my spouses name.",
+      "generated": "I recently got married and I'd like to update my personal details to reflect my new married name."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Did you lose my money? I had added funds through top-up not long ago and I know they were in my account, but they seem to have disappeared. What happened?",
+      "generated": "I'm concerned about the funds I transferred through a recent top-up. I'm certain they were deposited into my account, but now they're gone. Can you help me figure out what went wrong?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why can't the person I sent the money transfer to see it?",
+      "generated": "The recipient is unable to view the transferred funds."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Please tell me why I was charged additionally when I used the card.",
+      "generated": "Please explain why I was assessed an extra fee when I made the payment using my card."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My money disappeared right when I tried to top up",
+      "generated": "My funds vanished when I attempted to add more using my card."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "How do I go about getting an actual card?",
+      "generated": "What steps can I take to obtain a physical card?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Tell me why I need top-up to be verified?",
+      "generated": "Can you explain why the top-up needs to be verified before it can be processed?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Do the disposable cards have any restrictions on them?",
+      "generated": "Are there any limitations or restrictions associated with the disposable cards?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can I change or hold different currency?",
+      "generated": "Can I switch or reserve a different currency?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "what is this extra charge with my purchase?",
+      "generated": "what's the additional fee I'm being charged for this transaction?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "How can I tell if there will be a fee added to my payment or not?",
+      "generated": "How can I determine if a fee will be applied to my payment or not?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "What is the reason for my card payment to be reverted?",
+      "generated": "Why was my card payment reversed?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I found my lost card in my jacket pocket this morning so I'd like to reactivate it please.",
+      "generated": "I discovered my misplaced card in my jacket pocket this morning, and I'd appreciate it if you could reactivate it for me."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Hey I thought transfers were free.  Why are you charging me?",
+      "generated": "I was under the impression that transfers were fee-free. Can you explain why I'm being charged a transfer fee?"
+    }
+  ]
+}

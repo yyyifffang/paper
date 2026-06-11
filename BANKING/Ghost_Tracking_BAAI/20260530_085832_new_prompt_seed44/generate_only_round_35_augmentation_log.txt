@@ -1,0 +1,35 @@
+GEN | [request_refund] | Orig: I just bought an item and would like to stop payment can you tell me if the item has been sent yet? -> Aug: I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?
+GEN | [order_physical_card] | Orig: I need to order a new card. -> Aug: I'd like to request a new physical card.
+GEN | [verify_top_up] | Orig: I just tried to top-up and now I'm getting an additional verification message, why? -> Aug: I'm experiencing an extra verification step after attempting to make a top-up, can you help me understand why?
+GEN | [pending_top_up] | Orig: Isn't my top-up supposed to mean its complete? -> Aug: Why hasn't my top-up been processed yet?
+GEN | [transfer_not_received_by_recipient] | Orig: I sent a payment but it isn't showing up in the app -> Aug: I made a transfer, but the recipient hasn't received it yet.
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I put some money in my account the other day and it's not gone in yet, can you help with this? -> Aug: I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?
+GEN | [top_up_reverted] | Orig: I got an cancellation error when I was topping up. -> Aug: I encountered an error while attempting to make a top-up, and it was cancelled.
+GEN | [pin_blocked] | Orig: I attempted to enter my pin to many times. -> Aug: I tried to enter my PIN multiple times.
+GEN | [visa_or_mastercard] | Orig: Can I choose my card scheme? -> Aug: May I select my preferred payment method, such as Visa or Mastercard?
+GEN | [cancel_transfer] | Orig: I have a transaction and would like to know if I it's cancelable? -> Aug: I'd like to inquire about the possibility of canceling a specific transaction.
+GEN | [edit_personal_details] | Orig: Am I able to modify my account details? -> Aug: Can I make changes to my personal information?
+GEN | [beneficiary_not_allowed] | Orig: is there something blocking me from making transfers -> Aug: is there a restriction preventing me from initiating transactions
+GEN | [visa_or_mastercard] | Orig: Do I have to pick a creditcard brand? -> Aug: Must I choose between Visa or Mastercard?
+GEN | [declined_cash_withdrawal] | Orig: Why can't I get cash out? -> Aug: Why was my cash withdrawal request denied?
+GEN | [pending_top_up] | Orig: Where to check top ups pending? -> Aug: How can I view my pending top-up transactions?
+GEN | [declined_cash_withdrawal] | Orig: The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account? -> Aug: The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?
+GEN | [get_physical_card] | Orig: my pin hasn't arrived in the post! How do I cancel it or get a new one? -> Aug: My physical card has not been delivered. Can I request a new one or cancel the existing order?
+GEN | [fiat_currency_support] | Orig: Is my country's currency supported by your system? -> Aug: Does your bank support transactions in my local currency?
+GEN | [card_about_to_expire] | Orig: Can I order a new card with the app? -> Aug: Can I request a replacement card before my current one expires?
+GEN | [beneficiary_not_allowed] | Orig: Why am I unable to transfer money when I was able to before? -> Aug: I'm having trouble sending funds, but I've successfully done so in the past. What's changed?
+GEN | [receiving_money] | Orig: I received a transfer in GBP how do I change it to a different currency? -> Aug: I was sent a payment in British Pounds, can I convert it to a different currency?
+GEN | [transfer_fee_charged] | Orig: Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this? -> Aug: They informed me that they didn't receive the entire amount I transferred to them, and I'd appreciate it if you could investigate this issue.
+GEN | [get_physical_card] | Orig: Is my PIN sent separably? -> Aug: Can I obtain my physical card separately?
+GEN | [pin_blocked] | Orig: I cannot use my PIN. -> Aug: I'm having trouble accessing my account due to a PIN issue.
+GEN | [pin_blocked] | Orig: While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back? -> Aug: I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?
+GEN | [country_support] | Orig: How does a US resident go about acquiring a new card? -> Aug: What steps can a US citizen take to obtain a new credit card?
+GEN | [verify_my_identity] | Orig: How and where can I find the identity checks? -> Aug: Where can I locate the identity verification process?
+GEN | [pending_top_up] | Orig: Where are my funds? I topped off my car but it didn't seem to complete. -> Aug: Why haven't I received the funds after topping up my account?
+GEN | [pending_top_up] | Orig: How long do top-ups take to go through -> Aug: How long does it typically take for pending top-ups to be processed?
+GEN | [lost_or_stolen_card] | Orig: I need to order a new card as my other one was stolen. -> Aug: I require a replacement card as my previous one has been stolen.
+GEN | [order_physical_card] | Orig: Do you ship your cards anywhere? -> Aug: Can you deliver your physical cards to any location?
+GEN | [Refund_not_showing_up] | Orig: I requested a refund from a merchant a while ago, and upon repeatedly checking my statement, the merchant has yet to refund me my money.  I don't know what's going on, or why the money is getting into my account--could you please help? -> Aug: I've been waiting for a refund from a merchant for some time now, but I've checked my statement multiple times and haven't seen the refund appear. Can you assist me in figuring out what's happening and why the refund hasn't been processed yet?
+GEN | [Refund_not_showing_up] | Orig: I requested a refund for a large order the other day and don't think I received the funds. Can you tell me if you see them or not? -> Aug: I'm concerned that the refund for my recent, substantial purchase hasn't been processed. Could you check if the refund has been issued or not?
+GEN | [failed_transfer] | Orig: I can't seem to make a standard bank transfer. I have tried at least five times already but none of them are going through. Please tell me what is wrong? -> Aug: I've attempted to initiate a standard bank transfer, but it keeps failing. I've tried multiple times, at least five, but none of them have been successful. Can you help me identify the issue?
+GEN | [failed_transfer] | Orig: What is happening?  I have tried to transfer money 5x already.  Is the system down?  This shouldnt be happening as this is a basic transfer. -> Aug: Why is this happening? I've attempted to make a transfer multiple times, but it keeps failing. Is there a technical issue with the system? This is a simple transfer, and I expect it to work smoothly.

@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I'd like to terminate my recent purchase and initiate a refund process.",
+    "What should I do if I reach the maximum number of PIN attempts allowed?",
+    "Can you assist me in closing my active account?",
+    "I'd like to transfer funds from another account to this account.",
+    "I made a cash deposit, but my account balance hasn't been updated yet. Is there an issue with the transaction?",
+    "What steps can I take to extend the validity of my card?",
+    "Hi, I attempted to perform a cryptocurrency top-up earlier today, but it didn't go through. Could the issue be related to the bank I'm using or my country of origin? Additionally, I'm concerned that some funds are missing from my account.",
+    "When can I expect my funds to be available in my account?",
+    "Is there an option to expedite the delivery of my card for an additional fee?",
+    "my apple pay is malfunctioning",
+    "I mistakenly entered incorrect details, please help me resolve the issue and unblock my account.",
+    "I've been waiting for a while now, and since the order hasn't arrived, I'd like to request a refund as I'm no longer interested in pursuing the purchase.",
+    "I've misplaced my card at my parents' residence. Could you kindly provide me with a replacement card until I can retrieve the original one?",
+    "Unfortunately, due to an incorrect PIN entry, your cash withdrawal has been declined.",
+    "I urgently require access to an ATM.",
+    "I was charged a fee for using my card to make the payment.",
+    "I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible.",
+    "Are there any exceptions or waivers for card payment fees?",
+    "I've successfully completed the 3D secure authentication process, but the crypto top-up still isn't functioning for me. I'm also confused about what happened to the funds in my account.",
+    "A store I frequent refused to accept my payment.",
+    "Why is my card being declined, and why am I being prevented from accessing my funds? What's the reason behind this issue?",
+    "when can I expect the top-up amount to be credited to my account balance?",
+    "Are you unable to process certain cryptocurrency transactions? I attempted to perform a top-up, but the funds vanished. I'm unsure what's happening or what I'm doing incorrectly, could you please assist me?",
+    "I have no balance in my account. Can I deposit more funds through a bank transfer?",
+    "Can I transfer funds from my bank account to add more money to it?",
+    "What is the additional charge that I see on my statement?",
+    "I recently made a deposit, but my account balance hasn't been updated yet. Could you please help me with this issue?",
+    "I require an immediate refund, but the refund amount is not showing up in my account.",
+    "I'm having trouble transferring funds as it seems to be malfunctioning. I've attempted to make the transfer multiple times, but it's not going through. I'm not doing anything out of the ordinary, just my usual routine.",
+    "Why hasn't my transfer arrived yet? It's been an unacceptable delay.",
+    "I'm unable to verify the card payment.",
+    "Why can't I use my American Express card to top up my account?",
+    "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening.",
+    "Could you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for a while now.",
+    "Why is my pending top-up for my new account not processed immediately?"
+  ],
+  "generated_labels": [
+    52,
+    49,
+    55,
+    65,
+    6,
+    9,
+    61,
+    67,
+    12,
+    2,
+    49,
+    52,
+    39,
+    26,
+    3,
+    15,
+    59,
+    15,
+    61,
+    25,
+    59,
+    47,
+    61,
+    65,
+    65,
+    34,
+    6,
+    51,
+    35,
+    66,
+    16,
+    54,
+    25,
+    47,
+    47
+  ],
+  "source_texts": [
+    "Canceling my order is what I need to do right now.",
+    "What should I do if I exceed my PIN tries?",
+    "Can you please disable my current account.",
+    "I need to move money from one of my other accounts to this one.",
+    "I tried using a check to update my balance, but it isn't work? Is something wrong?",
+    "How do I get a new expiration date?",
+    "Hello there, I tried using crypto top up today but it's not working for me, might it be due to the kind of bank I'm using or the country that I'm from?Money is also missing from my account",
+    "How long will I have to wait for my money to be in my account?",
+    "Can I pay more to get it deliver quicker?",
+    "my google pay seems to be acting up.",
+    "I enetered the wrong information, I need my account unblocked How do I do that?",
+    "It's been some time ago that I placed an order and it just isn't coming. At this point just give me back my money because I'm not paying them.",
+    "I have left my card at my parents house. Can you send me a spare one please to use in the meantime?",
+    "i entered my pin in wrong and got it frozen. how many tries do i have",
+    "I need an ATM right now!",
+    "I had to pay money for paying with my card.",
+    "I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",
+    "Is there an allowance on cards?",
+    "Hae, I already completed my 3D secure authentication when I tried the crypto top up but it's still not working for me. I also don't understand what happened to the money in my account",
+    "A shop I go to didn't let me pay.",
+    "Why are you keeping my money from me by declining my card? What is going on?",
+    "how long does it take to reflect in my balance a top up",
+    "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help.",
+    "I have zero dollars in my account. Can I submit additional funds via bank transfer?",
+    "Can I use my bank account to send me more money?",
+    "What is the dollar that I have pending on my statement there?",
+    "I made a deposit a couple of days back it's, as of yet, not gone in! It would be ideal if you assist me with this",
+    "i need a refund right away but the funds aren't available in my account",
+    "I think youre system may be broken because I have tried transfer money 5x and it isnt working!  I'm not doing anything complicated it is what I usually do.",
+    "When will I get my money? It's been too long.",
+    "I do not recognise the card payment.",
+    "why wont my american express work to add money",
+    "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+    "Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour.",
+    "Why is  my  top  up for  my  new account  not  instant"
+  ],
+  "records": [
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Canceling my order is what I need to do right now.",
+      "generated": "I'd like to terminate my recent purchase and initiate a refund process."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "What should I do if I exceed my PIN tries?",
+      "generated": "What should I do if I reach the maximum number of PIN attempts allowed?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "Can you please disable my current account.",
+      "generated": "Can you assist me in closing my active account?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need to move money from one of my other accounts to this one.",
+      "generated": "I'd like to transfer funds from another account to this account."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I tried using a check to update my balance, but it isn't work? Is something wrong?",
+      "generated": "I made a cash deposit, but my account balance hasn't been updated yet. Is there an issue with the transaction?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How do I get a new expiration date?",
+      "generated": "What steps can I take to extend the validity of my card?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hello there, I tried using crypto top up today but it's not working for me, might it be due to the kind of bank I'm using or the country that I'm from?Money is also missing from my account",
+      "generated": "Hi, I attempted to perform a cryptocurrency top-up earlier today, but it didn't go through. Could the issue be related to the bank I'm using or my country of origin? Additionally, I'm concerned that some funds are missing from my account."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long will I have to wait for my money to be in my account?",
+      "generated": "When can I expect my funds to be available in my account?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "Can I pay more to get it deliver quicker?",
+      "generated": "Is there an option to expedite the delivery of my card for an additional fee?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "my google pay seems to be acting up.",
+      "generated": "my apple pay is malfunctioning"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I enetered the wrong information, I need my account unblocked How do I do that?",
+      "generated": "I mistakenly entered incorrect details, please help me resolve the issue and unblock my account."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "It's been some time ago that I placed an order and it just isn't coming. At this point just give me back my money because I'm not paying them.",
+      "generated": "I've been waiting for a while now, and since the order hasn't arrived, I'd like to request a refund as I'm no longer interested in pursuing the purchase."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I have left my card at my parents house. Can you send me a spare one please to use in the meantime?",
+      "generated": "I've misplaced my card at my parents' residence. Could you kindly provide me with a replacement card until I can retrieve the original one?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "i entered my pin in wrong and got it frozen. how many tries do i have",
+      "generated": "Unfortunately, due to an incorrect PIN entry, your cash withdrawal has been declined."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need an ATM right now!",
+      "generated": "I urgently require access to an ATM."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I had to pay money for paying with my card.",
+      "generated": "I was charged a fee for using my card to make the payment."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",
+      "generated": "I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Is there an allowance on cards?",
+      "generated": "Are there any exceptions or waivers for card payment fees?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hae, I already completed my 3D secure authentication when I tried the crypto top up but it's still not working for me. I also don't understand what happened to the money in my account",
+      "generated": "I've successfully completed the 3D secure authentication process, but the crypto top-up still isn't functioning for me. I'm also confused about what happened to the funds in my account."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "A shop I go to didn't let me pay.",
+      "generated": "A store I frequent refused to accept my payment."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Why are you keeping my money from me by declining my card? What is going on?",
+      "generated": "Why is my card being declined, and why am I being prevented from accessing my funds? What's the reason behind this issue?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "how long does it take to reflect in my balance a top up",
+      "generated": "when can I expect the top-up amount to be credited to my account balance?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help.",
+      "generated": "Are you unable to process certain cryptocurrency transactions? I attempted to perform a top-up, but the funds vanished. I'm unsure what's happening or what I'm doing incorrectly, could you please assist me?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I have zero dollars in my account. Can I submit additional funds via bank transfer?",
+      "generated": "I have no balance in my account. Can I deposit more funds through a bank transfer?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can I use my bank account to send me more money?",
+      "generated": "Can I transfer funds from my bank account to add more money to it?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What is the dollar that I have pending on my statement there?",
+      "generated": "What is the additional charge that I see on my statement?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I made a deposit a couple of days back it's, as of yet, not gone in! It would be ideal if you assist me with this",
+      "generated": "I recently made a deposit, but my account balance hasn't been updated yet. Could you please help me with this issue?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "i need a refund right away but the funds aren't available in my account",
+      "generated": "I require an immediate refund, but the refund amount is not showing up in my account."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I think youre system may be broken because I have tried transfer money 5x and it isnt working!  I'm not doing anything complicated it is what I usually do.",
+      "generated": "I'm having trouble transferring funds as it seems to be malfunctioning. I've attempted to make the transfer multiple times, but it's not going through. I'm not doing anything out of the ordinary, just my usual routine."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "When will I get my money? It's been too long.",
+      "generated": "Why hasn't my transfer arrived yet? It's been an unacceptable delay."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recognise the card payment.",
+      "generated": "I'm unable to verify the card payment."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "why wont my american express work to add money",
+      "generated": "Why can't I use my American Express card to top up my account?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+      "generated": "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour.",
+      "generated": "Could you expedite the processing of my pending top-up? I'm in urgent need of the funds and it's been pending for a while now."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Why is  my  top  up for  my  new account  not  instant",
+      "generated": "Why is my pending top-up for my new account not processed immediately?"
+    }
+  ]
+}

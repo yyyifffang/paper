@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I would rather use Mastercard.",
+    "My virtual card was declined for a car rental, and I'm wondering why.",
+    "why was a fee charged on my transfer?",
+    "The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me.",
+    "The transfer was not successfully processed due to an issue.",
+    "i requested $100, but I was given $80 instead",
+    "How can I utilize the automatic top-up feature?",
+    "What's the confirmation code for my top-up?",
+    "My mobile payment method isn't functioning properly.",
+    "WHY IS MY CARD NOT FUNCTIONING?",
+    "Confirming the top-up process appears to be a bit of a chore.",
+    "Why am I consistently encountering issues with my online transactions being declined?",
+    "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?",
+    "Can you explain why my top-up request is still pending?",
+    "I'm having trouble with my contactless payment method.",
+    "I attempted to activate my card, but it didn't function properly",
+    "We're having trouble identifying your direct debit payment.",
+    "Hi, I'm getting a few \"decline\" notifications regarding my card. Is everything okay with my account?",
+    "How do I modify my PIN?",
+    "What steps can I take when my contactless payment method is not functioning properly?",
+    "I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed.",
+    "Why is this beneficiary not eligible for use?",
+    "When can I expect a pending card payment to be processed and move to an authorized status?",
+    "Why is my designated recipient unable to access payment services?",
+    "Hello, I'm having some trouble with the app. I'm trying to exchange cryptocurrency, but it's not working as expected. I'm eager to make a purchase.",
+    "Can you provide details about the limits for making deposits or adding funds to my account?",
+    "Are you experiencing an issue with converting or exchanging euros?",
+    "I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?",
+    "Can I use contactless payment methods?",
+    "Can you confirm the origin of the funds in my account before I check my balance?",
+    "Can I get my physical card separately, including the PIN?",
+    "You're unable to designate X as a beneficiary.",
+    "Can you provide the physical card separately, including the PIN?",
+    "Why hasn't my account balance been updated to reflect the recent transfer I made?",
+    "You're asking why we're not permitting X to be designated as a beneficiary."
+  ],
+  "generated_labels": [
+    73,
+    72,
+    64,
+    72,
+    27,
+    75,
+    4,
+    71,
+    23,
+    14,
+    71,
+    27,
+    29,
+    47,
+    23,
+    0,
+    28,
+    25,
+    21,
+    23,
+    35,
+    7,
+    45,
+    7,
+    7,
+    60,
+    36,
+    72,
+    23,
+    70,
+    38,
+    7,
+    38,
+    5,
+    7
+  ],
+  "source_texts": [
+    "I prefer Mastecard.",
+    "My Virtual card was rejected for a car rental. Why?",
+    "why was i chargged",
+    "What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?",
+    "What does the decline message mean",
+    "i asked for 100 only got 80",
+    "How can I Use thereto-top option?",
+    "What's a verification code?",
+    "My contactless payments don't work.",
+    "WHAT IS THE REASON FOR THAT",
+    "Verifying the top-up seems like a hassle.",
+    "Why am I getting declines when trying to make a purchase online?",
+    "i tried using a virtual card for a hotel but it didn't work, why not",
+    "Can you tell me why my pop-up is still pending?",
+    "I can't get a contactless payment to work.",
+    "I tried activating my plug-in and it didn't piece of work",
+    "what is the matter?",
+    "Hi, is everything in good standing with my card? I am receiving multiple \"decline\" messages.",
+    "How can I change my Rowlock ?",
+    "How do I troubleshoot when contactless doesn't work?",
+    "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+    "Why can't I use this beneficiary?",
+    "How long does it take for a purchase to go from pending to authorised?",
+    "Why is my beneficiary not being allowed to get payment services?",
+    "Hi,  Is there any problem with app? As i am facing some issues with the exchange of crypto currency. I am extremely interested in buying.",
+    "It seems I need to get information on limits for top-ups.",
+    "Do you have a problem with EUR exchanges?",
+    "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?",
+    "Can I make a contactless payments?",
+    "Is there a way for me to check my balance?",
+    "Is the PIN separately delivered?",
+    "I got a message that I cannot name X as a beneficiary.",
+    "Do you deliver the PIN separately?",
+    "Why hasn't my account updated to reflect my current balance?",
+    "Why won't you let me name X as a beneficiary?"
+  ],
+  "records": [
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I prefer Mastecard.",
+      "generated": "I would rather use Mastercard."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My Virtual card was rejected for a car rental. Why?",
+      "generated": "My virtual card was declined for a car rental, and I'm wondering why."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "why was i chargged",
+      "generated": "why was a fee charged on my transfer?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?",
+      "generated": "The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What does the decline message mean",
+      "generated": "The transfer was not successfully processed due to an issue."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "i asked for 100 only got 80",
+      "generated": "i requested $100, but I was given $80 instead"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How can I Use thereto-top option?",
+      "generated": "How can I utilize the automatic top-up feature?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What's a verification code?",
+      "generated": "What's the confirmation code for my top-up?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "My contactless payments don't work.",
+      "generated": "My mobile payment method isn't functioning properly."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "WHAT IS THE REASON FOR THAT",
+      "generated": "WHY IS MY CARD NOT FUNCTIONING?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Verifying the top-up seems like a hassle.",
+      "generated": "Confirming the top-up process appears to be a bit of a chore."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Why am I getting declines when trying to make a purchase online?",
+      "generated": "Why am I consistently encountering issues with my online transactions being declined?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "i tried using a virtual card for a hotel but it didn't work, why not",
+      "generated": "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Can you tell me why my pop-up is still pending?",
+      "generated": "Can you explain why my top-up request is still pending?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "I can't get a contactless payment to work.",
+      "generated": "I'm having trouble with my contactless payment method."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I tried activating my plug-in and it didn't piece of work",
+      "generated": "I attempted to activate my card, but it didn't function properly"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "what is the matter?",
+      "generated": "We're having trouble identifying your direct debit payment."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Hi, is everything in good standing with my card? I am receiving multiple \"decline\" messages.",
+      "generated": "Hi, I'm getting a few \"decline\" notifications regarding my card. Is everything okay with my account?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "How can I change my Rowlock ?",
+      "generated": "How do I modify my PIN?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "How do I troubleshoot when contactless doesn't work?",
+      "generated": "What steps can I take when my contactless payment method is not functioning properly?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+      "generated": "I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why can't I use this beneficiary?",
+      "generated": "Why is this beneficiary not eligible for use?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it take for a purchase to go from pending to authorised?",
+      "generated": "When can I expect a pending card payment to be processed and move to an authorized status?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is my beneficiary not being allowed to get payment services?",
+      "generated": "Why is my designated recipient unable to access payment services?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Hi,  Is there any problem with app? As i am facing some issues with the exchange of crypto currency. I am extremely interested in buying.",
+      "generated": "Hello, I'm having some trouble with the app. I'm trying to exchange cryptocurrency, but it's not working as expected. I'm eager to make a purchase."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "It seems I need to get information on limits for top-ups.",
+      "generated": "Can you provide details about the limits for making deposits or adding funds to my account?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you have a problem with EUR exchanges?",
+      "generated": "Are you experiencing an issue with converting or exchanging euros?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?",
+      "generated": "I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Can I make a contactless payments?",
+      "generated": "Can I use contactless payment methods?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Is there a way for me to check my balance?",
+      "generated": "Can you confirm the origin of the funds in my account before I check my balance?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Is the PIN separately delivered?",
+      "generated": "Can I get my physical card separately, including the PIN?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I got a message that I cannot name X as a beneficiary.",
+      "generated": "You're unable to designate X as a beneficiary."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Do you deliver the PIN separately?",
+      "generated": "Can you provide the physical card separately, including the PIN?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why hasn't my account updated to reflect my current balance?",
+      "generated": "Why hasn't my account balance been updated to reflect the recent transfer I made?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why won't you let me name X as a beneficiary?",
+      "generated": "You're asking why we're not permitting X to be designated as a beneficiary."
+    }
+  ]
+}

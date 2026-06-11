@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "What are the steps to initiate a refund?",
+    "I attempted to book a flight online this morning, but my credit card details aren't being accepted. Is there an issue with my account?",
+    "I need to confirm the origin of my funds.",
+    "We need to confirm the origin of your funds.",
+    "We need to confirm the origin of your funds.",
+    "Can you please confirm the origin of the funds used for this transaction?",
+    "Can you please confirm the origin of the funds used for this transaction?",
+    "I need to confirm the origin of my funds.",
+    "I'm trying to confirm if a cash withdrawal was processed from my account. I have my card with me, but I didn't initiate the transaction that just took place.",
+    "My virtual card was declined for a car rental, and I'm wondering why.",
+    "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?",
+    "I'd like to confirm the origin of my funds.",
+    "Can you confirm the origin of the funds used for this transaction?",
+    "I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?",
+    "It's an emergency. Please cancel my card immediately. Someone in a distant location has made an unauthorized cash withdrawal using my card, and I didn't make the transaction myself.",
+    "How can I initiate a refund process?",
+    "can you confirm the origin of the funds?",
+    "Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined.",
+    "How long will it take to resolve the issue with my card not working?",
+    "Can I receive payment through this system?",
+    "Please confirm the origin of the funds used for this transaction.",
+    "can you help me confirm the origin of the funds?",
+    "The transfer was not successfully processed due to an issue.",
+    "What steps can I take to confirm the origin of my current funds?",
+    "Can you please confirm the origin of your funds so I can assist you further?",
+    "Why was the exchange rate used for my cash withdrawal so inaccurate?",
+    "I'd like to confirm the origin of the funds used for this transaction.",
+    "I'm unsure if my top-up was successfully processed.",
+    "What steps can I take to confirm the origin of my funds?",
+    "I'm having trouble finding the verification code for my top-up.",
+    "Can you please provide information to confirm the origin of the funds used for this transaction?",
+    "How do I obtain a virtual card, and what is its purpose?",
+    "This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?",
+    "I'd appreciate guidance on the steps to confirm the top-up process for my prepaid cards.",
+    "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.",
+    "I'd like to confirm the origin of the funds."
+  ],
+  "generated_labels": [
+    52,
+    14,
+    70,
+    70,
+    70,
+    70,
+    70,
+    70,
+    20,
+    72,
+    29,
+    70,
+    70,
+    20,
+    20,
+    52,
+    70,
+    26,
+    14,
+    50,
+    70,
+    70,
+    27,
+    70,
+    70,
+    76,
+    70,
+    59,
+    70,
+    71,
+    70,
+    40,
+    26,
+    71,
+    15,
+    70
+  ],
+  "source_texts": [
+    "How do I begin the process of a refund?",
+    "I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account?",
+    "I require verification of my source of funds.",
+    "My source of funds need verification.",
+    "My source of funds require verification.",
+    "How do I verify my source of funds?",
+    "How can I verify my source of funds?",
+    "I have to verify my source of funds.",
+    "How can I verify if a cash withdrawal was made from my account? I still have my card with me but I did not authorize the withdrawal that just occurred.",
+    "My Virtual card was rejected for a car rental. Why?",
+    "i tried using a virtual card for a hotel but it didn't work, why not",
+    "I would like to verify my source of funds.",
+    "Verify my source of funds?",
+    "I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out?",
+    "It is urgency. Please freeze my card now. As someone in some odd remote town has withdrawn some money by using my card. As i did not withdraw any money.",
+    "What do I need to do for a refund?",
+    "can i see money source?",
+    "Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",
+    "HOW LONG TO TAKE THE TIME TO SOLVE",
+    "Can i get payed through this system?",
+    "Please verify my source of funds.",
+    "is there a way i can see source of money?",
+    "What does the decline message mean",
+    "How can I find out the source of my available cash?",
+    "What do I need to see my source of money?",
+    "Why did you give me so little currency?",
+    "I would like to know where my source of funds came from.",
+    "I'm not sure if my pop-up went through.",
+    "How do I find out my source of funds?",
+    "I can't see a verification code anywhere",
+    "How can I receive verification for the source of my funds?",
+    "what is a virtual and how do i get one",
+    "This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined.",
+    "I would like to receive instructions showing the verification process for top up cards..",
+    "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+    "I need to verify the source of funds."
+  ],
+  "records": [
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "How do I begin the process of a refund?",
+      "generated": "What are the steps to initiate a refund?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account?",
+      "generated": "I attempted to book a flight online this morning, but my credit card details aren't being accepted. Is there an issue with my account?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I require verification of my source of funds.",
+      "generated": "I need to confirm the origin of my funds."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My source of funds need verification.",
+      "generated": "We need to confirm the origin of your funds."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My source of funds require verification.",
+      "generated": "We need to confirm the origin of your funds."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How do I verify my source of funds?",
+      "generated": "Can you please confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I verify my source of funds?",
+      "generated": "Can you please confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I have to verify my source of funds.",
+      "generated": "I need to confirm the origin of my funds."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "How can I verify if a cash withdrawal was made from my account? I still have my card with me but I did not authorize the withdrawal that just occurred.",
+      "generated": "I'm trying to confirm if a cash withdrawal was processed from my account. I have my card with me, but I didn't initiate the transaction that just took place."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My Virtual card was rejected for a car rental. Why?",
+      "generated": "My virtual card was declined for a car rental, and I'm wondering why."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "i tried using a virtual card for a hotel but it didn't work, why not",
+      "generated": "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I would like to verify my source of funds.",
+      "generated": "I'd like to confirm the origin of my funds."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Verify my source of funds?",
+      "generated": "Can you confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I was trying to use my card and it was declined, when I tried to find out what happened I found cash withdraw for $500 that I didn't do.  Can you please help figure this out?",
+      "generated": "I'm having an issue with a recent transaction on my account. When I tried to make a purchase, my card was declined, and upon further investigation, I noticed a cash withdrawal of $500 that I didn't authorize. Can you assist me in resolving this matter?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "It is urgency. Please freeze my card now. As someone in some odd remote town has withdrawn some money by using my card. As i did not withdraw any money.",
+      "generated": "It's an emergency. Please cancel my card immediately. Someone in a distant location has made an unauthorized cash withdrawal using my card, and I didn't make the transaction myself."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "What do I need to do for a refund?",
+      "generated": "How can I initiate a refund process?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "can i see money source?",
+      "generated": "can you confirm the origin of the funds?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",
+      "generated": "Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "HOW LONG TO TAKE THE TIME TO SOLVE",
+      "generated": "How long will it take to resolve the issue with my card not working?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can i get payed through this system?",
+      "generated": "Can I receive payment through this system?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Please verify my source of funds.",
+      "generated": "Please confirm the origin of the funds used for this transaction."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "is there a way i can see source of money?",
+      "generated": "can you help me confirm the origin of the funds?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What does the decline message mean",
+      "generated": "The transfer was not successfully processed due to an issue."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I find out the source of my available cash?",
+      "generated": "What steps can I take to confirm the origin of my current funds?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What do I need to see my source of money?",
+      "generated": "Can you please confirm the origin of your funds so I can assist you further?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why did you give me so little currency?",
+      "generated": "Why was the exchange rate used for my cash withdrawal so inaccurate?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I would like to know where my source of funds came from.",
+      "generated": "I'd like to confirm the origin of the funds used for this transaction."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I'm not sure if my pop-up went through.",
+      "generated": "I'm unsure if my top-up was successfully processed."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How do I find out my source of funds?",
+      "generated": "What steps can I take to confirm the origin of my funds?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I can't see a verification code anywhere",
+      "generated": "I'm having trouble finding the verification code for my top-up."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I receive verification for the source of my funds?",
+      "generated": "Can you please provide information to confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "what is a virtual and how do i get one",
+      "generated": "How do I obtain a virtual card, and what is its purpose?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined.",
+      "generated": "This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I would like to receive instructions showing the verification process for top up cards..",
+      "generated": "I'd appreciate guidance on the steps to confirm the top-up process for my prepaid cards."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.",
+      "generated": "Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I need to verify the source of funds.",
+      "generated": "I'd like to confirm the origin of the funds."
+    }
+  ]
+}

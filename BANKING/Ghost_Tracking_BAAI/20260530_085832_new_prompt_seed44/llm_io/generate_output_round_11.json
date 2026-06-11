@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "Can I get a new debit card without any additional charges?",
+    "I forgot my passcode to access the app, can you help me retrieve it?",
+    "what can I do to prevent being charged a fee on my card in the future?",
+    "I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?",
+    "Can I reactivate my previous card in the app?",
+    "How much does the bank charge for issuing a new physical card if my original one is lost or stolen?",
+    "We're verifying your identity to ensure the security and integrity of your account.",
+    "I'm noticing some suspicious activity on my account, showing up in the app without my permission.",
+    "How can I add funds to my account using my card?",
+    "Can you assist me with arranging a transfer to China?",
+    "Can I make a currency exchange using this mobile app?",
+    "Why isn't my card visible in the app?",
+    "Can I link a card to the app again?",
+    "My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars.",
+    "Can I link a card to my account within the app?",
+    "I'm concerned about unauthorized activity on my account. Is someone else accessing my card?",
+    "I've misplaced my passcode",
+    "I've received a new email address.",
+    "Can I have this card about to expire sent to China?",
+    "I'm having trouble finding the verification code for my recent top-up.",
+    "I accidentally locked my card due to a mistake :(( Assist me!",
+    "I'm having trouble linking one of my cards to my account.",
+    "Can I link a recently discovered card to the app?",
+    "The transfer was mistakenly sent to the wrong recipient, what steps can I take to rectify the situation?",
+    "How can my boss deposit funds directly to my card?",
+    "Is it possible for my friend to transfer funds to me?",
+    "Can I request a replacement bank card to be delivered to China?",
+    "I'm concerned about the security of my card.",
+    "Can I still make a deposit into my account using a bank transfer, even though my account is currently empty?",
+    "Are there any digital cards available instead of traditional physical cards?",
+    "Why isn't my card visible in the app?",
+    "Are there any limitations on issuing new cards in China?",
+    "I require my funds in a different currency",
+    "Can I get some information on the availability of the Euro currency for my transaction?",
+    "We've received a payment attempt from your debit card, but it's not being recognized.",
+    "Could you provide me with a replacement card for this account?",
+    "What steps can I take to get a replacement bank card before my current one expires?",
+    "The card's security has been compromised.",
+    "Can I reactivate my existing card or do I need to request a new one for use with the app?"
+  ],
+  "generated_labels": [
+    39,
+    44,
+    15,
+    22,
+    13,
+    43,
+    74,
+    20,
+    62,
+    67,
+    33,
+    13,
+    13,
+    33,
+    13,
+    22,
+    44,
+    30,
+    9,
+    71,
+    49,
+    13,
+    13,
+    66,
+    50,
+    50,
+    9,
+    22,
+    65,
+    40,
+    13,
+    9,
+    50,
+    36,
+    28,
+    39,
+    9,
+    22,
+    13
+  ],
+  "source_texts": [
+    "Is a new debit card free?",
+    "Can you tell me my code to get into the app?",
+    "how do i avoid charges in the future",
+    "I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more?",
+    "Can I put my old card back in the app?",
+    "What does the bank charge for lost or stolen card replacements?",
+    "Why are you asking so many questions about me?",
+    "I am seeing unathorized transactions in the app, on my account.",
+    "My friends would like to add to my account. What is the procedure?",
+    "Help! I need to transfer something to China.",
+    "Can I use this app to change money?",
+    "How can I make my card show up in the app?",
+    "Can I add a card back to the app?",
+    "My plans may change so I may need to change from GBP to AUD.",
+    "Can I add a card to back into the app?",
+    "I don't recognize some transactions.  Is someone else using it?",
+    "I can't find my code",
+    "I have a new email.",
+    "Am I able to get this shipped to China?",
+    "I don't see the verification code for my card transfer.",
+    "I managed to drunken block my card :(( Help!",
+    "I have one of your cards, but I don't know how to link it.",
+    "Can I add a card that I just found (again) to the app?",
+    "i accidentally entered in my retailers information, what should i do next",
+    "How can my boss pay me directly to the card?",
+    "My friend wants to send me money, can she?",
+    "Where can I have a new bank card sent to China?",
+    "am suspicious of my card's security",
+    "My account is devoid of funds. Am I permitted to submit additional money via bank transfer?",
+    "And do you have virtual cards instead of physical ones?",
+    "How do I make my card show up in the app?",
+    "Are there restrictions on new cards in China?",
+    "I need my payment in another currency",
+    "Do you have EUR currency available for me?",
+    "People are using my debit card - help!",
+    "Can I have a spare card for this account please?",
+    "How do I go about ordering a new bank card?",
+    "The card has suffered a security breach.",
+    "Will I need a new card or can I put my old card back into the app?"
+  ],
+  "records": [
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Is a new debit card free?",
+      "generated": "Can I get a new debit card without any additional charges?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Can you tell me my code to get into the app?",
+      "generated": "I forgot my passcode to access the app, can you help me retrieve it?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "how do i avoid charges in the future",
+      "generated": "what can I do to prevent being charged a fee on my card in the future?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more?",
+      "generated": "I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can I put my old card back in the app?",
+      "generated": "Can I reactivate my previous card in the app?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What does the bank charge for lost or stolen card replacements?",
+      "generated": "How much does the bank charge for issuing a new physical card if my original one is lost or stolen?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why are you asking so many questions about me?",
+      "generated": "We're verifying your identity to ensure the security and integrity of your account."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I am seeing unathorized transactions in the app, on my account.",
+      "generated": "I'm noticing some suspicious activity on my account, showing up in the app without my permission."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My friends would like to add to my account. What is the procedure?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "Help! I need to transfer something to China.",
+      "generated": "Can you assist me with arranging a transfer to China?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app to change money?",
+      "generated": "Can I make a currency exchange using this mobile app?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "How can I make my card show up in the app?",
+      "generated": "Why isn't my card visible in the app?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can I add a card back to the app?",
+      "generated": "Can I link a card to the app again?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "My plans may change so I may need to change from GBP to AUD.",
+      "generated": "My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can I add a card to back into the app?",
+      "generated": "Can I link a card to my account within the app?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I don't recognize some transactions.  Is someone else using it?",
+      "generated": "I'm concerned about unauthorized activity on my account. Is someone else accessing my card?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't find my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I have a new email.",
+      "generated": "I've received a new email address."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Am I able to get this shipped to China?",
+      "generated": "Can I have this card about to expire sent to China?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I don't see the verification code for my card transfer.",
+      "generated": "I'm having trouble finding the verification code for my recent top-up."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I managed to drunken block my card :(( Help!",
+      "generated": "I accidentally locked my card due to a mistake :(( Assist me!"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I have one of your cards, but I don't know how to link it.",
+      "generated": "I'm having trouble linking one of my cards to my account."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can I add a card that I just found (again) to the app?",
+      "generated": "Can I link a recently discovered card to the app?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "i accidentally entered in my retailers information, what should i do next",
+      "generated": "The transfer was mistakenly sent to the wrong recipient, what steps can I take to rectify the situation?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can my boss pay me directly to the card?",
+      "generated": "How can my boss deposit funds directly to my card?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My friend wants to send me money, can she?",
+      "generated": "Is it possible for my friend to transfer funds to me?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Where can I have a new bank card sent to China?",
+      "generated": "Can I request a replacement bank card to be delivered to China?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "am suspicious of my card's security",
+      "generated": "I'm concerned about the security of my card."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "My account is devoid of funds. Am I permitted to submit additional money via bank transfer?",
+      "generated": "Can I still make a deposit into my account using a bank transfer, even though my account is currently empty?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "And do you have virtual cards instead of physical ones?",
+      "generated": "Are there any digital cards available instead of traditional physical cards?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "How do I make my card show up in the app?",
+      "generated": "Why isn't my card visible in the app?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Are there restrictions on new cards in China?",
+      "generated": "Are there any limitations on issuing new cards in China?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I need my payment in another currency",
+      "generated": "I require my funds in a different currency"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you have EUR currency available for me?",
+      "generated": "Can I get some information on the availability of the Euro currency for my transaction?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "People are using my debit card - help!",
+      "generated": "We've received a payment attempt from your debit card, but it's not being recognized."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can I have a spare card for this account please?",
+      "generated": "Could you provide me with a replacement card for this account?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How do I go about ordering a new bank card?",
+      "generated": "What steps can I take to get a replacement bank card before my current one expires?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "The card has suffered a security breach.",
+      "generated": "The card's security has been compromised."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Will I need a new card or can I put my old card back into the app?",
+      "generated": "Can I reactivate my existing card or do I need to request a new one for use with the app?"
+    }
+  ]
+}

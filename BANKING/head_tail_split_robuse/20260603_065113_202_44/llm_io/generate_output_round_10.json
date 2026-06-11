@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "Can I cancel a transfer?",
+    "Can I cancel a transfer that's already been initiated?",
+    "The transfer was mistakenly sent to the wrong recipient, what steps can I take to rectify the situation?",
+    "What circumstances would cause my payment to be reversed?",
+    "How do I obtain additional cards for my account?",
+    "Has there been any recent use or transactions on my card?",
+    "I'd like to inquire about the possibility of canceling a specific transaction.",
+    "I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card usage.",
+    "I forgot my passcode to access the app, can you help me retrieve it?",
+    "We're verifying your identity to ensure the security and integrity of your account.",
+    "I'm not sure if the top-up request has been processed successfully.",
+    "Did my card payment get reversed?",
+    "The refund for my card is missing from my latest statement.",
+    "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.",
+    "The app is displaying a higher withdrawal amount than what I physically deposited at the ATM.",
+    "I can see the funds in my account, but the balance hasn't been updated after I made a transfer.",
+    "I shouldn't be charged a fee if my credit card was stolen.",
+    "How can I retrieve my card from a bank machine as soon as possible?",
+    "Why did I get a refund for my payment after a week?",
+    "What happens if a payment to a merchant is declined or reversed?",
+    "I require my funds in a different currency",
+    "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself.",
+    "I'm unable to locate my virtual card. Can you help me understand why it's not showing up?",
+    "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?",
+    "My temporary virtual card is not functioning properly.",
+    "What's the purpose behind all these inquiries about my identity?",
+    "I'd like to add funds to my card.",
+    "Why hasn't the money transfer been credited to the recipient's account?",
+    "Can I use a cheque to top up my account?",
+    "I was charged a fee for using my card to make the payment.",
+    "I accidentally locked my card due to a mistake :(( Assist me!",
+    "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?",
+    "I recently relocated to a new residence and terminated my direct debit with my previous landlord, which was functioning correctly. Since then, I've established a new transfer to my new landlord, but it hasn't been received by her yet. Could you kindly investigate this matter for me?",
+    "I'm curious, what's the purpose behind requesting all this personal information?",
+    "Can you inform me if I'll be charged for requesting additional cards?",
+    "How can I add funds to my account using my card?",
+    "Can I deposit funds into my account if you don't accept cash?",
+    "How do you receive your physical credit cards?"
+  ],
+  "generated_labels": [
+    8,
+    8,
+    66,
+    53,
+    39,
+    41,
+    8,
+    16,
+    44,
+    74,
+    47,
+    53,
+    51,
+    22,
+    75,
+    5,
+    41,
+    18,
+    53,
+    53,
+    50,
+    22,
+    40,
+    74,
+    72,
+    74,
+    62,
+    66,
+    58,
+    15,
+    49,
+    29,
+    66,
+    74,
+    39,
+    62,
+    58,
+    43
+  ],
+  "source_texts": [
+    "Can I stop a transaction?",
+    "Is it possible for a transaction to be cancelled?",
+    "i accidentally entered in my retailers information, what should i do next",
+    "Under what condition will my payment revert?",
+    "What is the procedure for me to get more cards on my account?",
+    "Has there been any activity on my card today?",
+    "I have a transaction and would like to know if I it's cancelable?",
+    "I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card.",
+    "Can you tell me my code to get into the app?",
+    "Why are you asking so many questions about me?",
+    "I do not think the pop up went through yet.",
+    "Was my transaction reverted with my card?",
+    "Card refund is not showing up in my statement.",
+    "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+    "Help, your app is showing a larger WD than I actually did earlier at an ATM.",
+    "I can still see money in my account after making a payment",
+    "A fee shouldn't apply to me if my card was stolen.",
+    "How do I get my card back quickly from a bank machine that it?",
+    "Why have I received a rebate for my payment after a week?",
+    "What happens if a merchant doesn't accept  you payment?",
+    "I need my payment in another currency",
+    "My card must have used my card as there are some transactions that I haven't done myself..",
+    "I look but I see no virtual card. Why is that?",
+    "Do you think you're asking for too much information about me?",
+    "My throwaway virtual card won't work",
+    "Why are you asking so many questions about who I am",
+    "I need my card topped up,",
+    "What happens when I money transaction doesn't show up on the receiving side?",
+    "Can I use a check to get gas?",
+    "I had to pay money for paying with my card.",
+    "I managed to drunken block my card :(( Help!",
+    "i tried using a virtual card for a hotel but it didn't work, why not",
+    "|I moved out of my old house two weeks ago and cancelled my direct debit to my old landlord, this direct debit was working fine.  Now I've moved in to a new place and set up a transfer to a new landlord but it's not reached her yet, can you check it please?",
+    "I don't understand why you want so much of my personal info.",
+    "Please tell me if I'm going to be charged for sending out more cards?",
+    "How do I to up by card?",
+    "how can i add money to my account if you don't accept cash",
+    "Where do you export the cards to?"
+  ],
+  "records": [
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Can I stop a transaction?",
+      "generated": "Can I cancel a transfer?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Is it possible for a transaction to be cancelled?",
+      "generated": "Can I cancel a transfer that's already been initiated?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "i accidentally entered in my retailers information, what should i do next",
+      "generated": "The transfer was mistakenly sent to the wrong recipient, what steps can I take to rectify the situation?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Under what condition will my payment revert?",
+      "generated": "What circumstances would cause my payment to be reversed?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "What is the procedure for me to get more cards on my account?",
+      "generated": "How do I obtain additional cards for my account?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Has there been any activity on my card today?",
+      "generated": "Has there been any recent use or transactions on my card?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I have a transaction and would like to know if I it's cancelable?",
+      "generated": "I'd like to inquire about the possibility of canceling a specific transaction."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card.",
+      "generated": "I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card usage."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Can you tell me my code to get into the app?",
+      "generated": "I forgot my passcode to access the app, can you help me retrieve it?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why are you asking so many questions about me?",
+      "generated": "We're verifying your identity to ensure the security and integrity of your account."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I do not think the pop up went through yet.",
+      "generated": "I'm not sure if the top-up request has been processed successfully."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Was my transaction reverted with my card?",
+      "generated": "Did my card payment get reversed?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Card refund is not showing up in my statement.",
+      "generated": "The refund for my card is missing from my latest statement."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+      "generated": "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Help, your app is showing a larger WD than I actually did earlier at an ATM.",
+      "generated": "The app is displaying a higher withdrawal amount than what I physically deposited at the ATM."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I can still see money in my account after making a payment",
+      "generated": "I can see the funds in my account, but the balance hasn't been updated after I made a transfer."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "A fee shouldn't apply to me if my card was stolen.",
+      "generated": "I shouldn't be charged a fee if my credit card was stolen."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "How do I get my card back quickly from a bank machine that it?",
+      "generated": "How can I retrieve my card from a bank machine as soon as possible?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why have I received a rebate for my payment after a week?",
+      "generated": "Why did I get a refund for my payment after a week?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "What happens if a merchant doesn't accept  you payment?",
+      "generated": "What happens if a payment to a merchant is declined or reversed?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I need my payment in another currency",
+      "generated": "I require my funds in a different currency"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "My card must have used my card as there are some transactions that I haven't done myself..",
+      "generated": "Someone else must have used my compromised card, as there are transactions that I didn't authorize myself."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I look but I see no virtual card. Why is that?",
+      "generated": "I'm unable to locate my virtual card. Can you help me understand why it's not showing up?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Do you think you're asking for too much information about me?",
+      "generated": "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My throwaway virtual card won't work",
+      "generated": "My temporary virtual card is not functioning properly."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why are you asking so many questions about who I am",
+      "generated": "What's the purpose behind all these inquiries about my identity?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I need my card topped up,",
+      "generated": "I'd like to add funds to my card."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "What happens when I money transaction doesn't show up on the receiving side?",
+      "generated": "Why hasn't the money transfer been credited to the recipient's account?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I use a check to get gas?",
+      "generated": "Can I use a cheque to top up my account?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I had to pay money for paying with my card.",
+      "generated": "I was charged a fee for using my card to make the payment."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I managed to drunken block my card :(( Help!",
+      "generated": "I accidentally locked my card due to a mistake :(( Assist me!"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "i tried using a virtual card for a hotel but it didn't work, why not",
+      "generated": "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "|I moved out of my old house two weeks ago and cancelled my direct debit to my old landlord, this direct debit was working fine.  Now I've moved in to a new place and set up a transfer to a new landlord but it's not reached her yet, can you check it please?",
+      "generated": "I recently relocated to a new residence and terminated my direct debit with my previous landlord, which was functioning correctly. Since then, I've established a new transfer to my new landlord, but it hasn't been received by her yet. Could you kindly investigate this matter for me?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I don't understand why you want so much of my personal info.",
+      "generated": "I'm curious, what's the purpose behind requesting all this personal information?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Please tell me if I'm going to be charged for sending out more cards?",
+      "generated": "Can you inform me if I'll be charged for requesting additional cards?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I to up by card?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how can i add money to my account if you don't accept cash",
+      "generated": "Can I deposit funds into my account if you don't accept cash?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Where do you export the cards to?",
+      "generated": "How do you receive your physical credit cards?"
+    }
+  ]
+}

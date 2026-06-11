@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I am a resident of Portugal. Do you have a presence in this country?",
+    "We didn't process a payment at this merchant.",
+    "What are the restrictions on beneficiary designations?",
+    "We need to confirm the origin of your funds",
+    "If I suspect that my credit card has been compromised, what steps should I take to address the situation?",
+    "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time",
+    "May I pay using cash or by cheque?",
+    "This payment made with the card is not being recognized.",
+    "Can you confirm the source of the funds in my account before I check my available balance?",
+    "Can this card be delivered to any location within the European Union, or are there specific areas where it cannot be delivered?",
+    "how long will it take for my top-up to be processed?",
+    "I'm unable to complete any transactions with this virtual card.",
+    "I've been trying to use my card for a week, but it's still not functioning properly.",
+    "Can I make a bank transfer to top up my account?",
+    "How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?",
+    "I've received a new email address.",
+    "I've noticed a pending cash withdrawal on my account that seems to be stuck. I tried to withdraw cash from an ATM earlier, but it didn't go through due to a technical issue. I'd appreciate it if you could investigate this matter and ensure I'm not charged for the attempted withdrawal that didn't actually process.",
+    "My rent payment is scheduled to be withdrawn tomorrow, but I made an error with the payment yesterday. Could you please correct the transfer to the correct account?",
+    "What is the payee's name if I wish to replenish my account balance using a check?",
+    "Can you facilitate bank transfers for topping up my account?",
+    "Will my account reflect my latest paycheck?",
+    "What is the additional charge that I see on my statement?",
+    "Why is my card unable to process any transactions?",
+    "What's the phone number to report a lost or stolen card?",
+    "Can I close my account through the app or do I need to speak with a representative to terminate it?",
+    "I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account.",
+    "Can I set up recurring transfers to my account during my trip?",
+    "I recently got married and I'd like to update my personal details to reflect my new married name.",
+    "Are there additional fees for exchanging funds?",
+    "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?",
+    "This card is currently not functioning properly.",
+    "Can you expedite the correction of a mistaken payment made to the wrong account yesterday, as it's crucial to rectify it by tomorrow for my rent payment?",
+    "The virtual payment card I was using wouldn't accept my transaction.",
+    "Can I make a currency exchange using this mobile app?",
+    "I was left with no funds and couldn't afford to fill up my tank.",
+    "The recipient's account does not show the transferred funds.",
+    "Why haven't my card payment cleared yet?"
+  ],
+  "generated_labels": [
+    24,
+    16,
+    7,
+    70,
+    22,
+    26,
+    58,
+    16,
+    70,
+    24,
+    47,
+    72,
+    14,
+    56,
+    51,
+    30,
+    46,
+    8,
+    58,
+    56,
+    50,
+    34,
+    14,
+    41,
+    55,
+    8,
+    4,
+    30,
+    31,
+    29,
+    14,
+    8,
+    72,
+    33,
+    62,
+    66,
+    45
+  ],
+  "source_texts": [
+    "i live in portugal. do you operate here?",
+    "I didn't make a payment at this business.",
+    "What are then rules on beneficiaries?",
+    "My funds must be verified",
+    "What do I do if I believe to be a victim of credit card fraud?",
+    "Is my card actually working? It's the first time I tried using it",
+    "Can I purchase with cash or cheque?",
+    "This card payment isn't is recognition.",
+    "Can I see my available money?",
+    "Is there anywhere  In the  Eu  this card can not be delivered in",
+    "how long should i expect to wait when i add money",
+    "I can't do any business with this virtual card.",
+    "For a week now, I have tried to use my card and it is still not working.",
+    "Can I Transfer from SWIFT?",
+    "how does my statement get updated so i know when a refund will reflect on my balance",
+    "I have a new email.",
+    "Looking at my account I've noticed a charge that appears to still be in progress. I had attempted to get money out of the machine earlier but the machine seemed to have been broken. I never received my money so will you please look into this for me? I don't want to be charged for money I never actually received.",
+    "Help please!  My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account?",
+    "Who do I make a check out to if I want to top off my account?",
+    "Do you offer SWIFT transfers?",
+    "Will my GPB update my salary",
+    "What is the dollar that I have pending on my statement there?",
+    "Why doesn't my card work for any transactions?",
+    "What's the phone number to freeze a card?",
+    "do i have to talk to someone to close an account or can i in the app",
+    "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+    "Can I have money transferred into my account at different intervals along my trip?",
+    "I just had a wedding and I want to take my spouses name.",
+    "Do I have to pay more for exchanges?",
+    "i tried using a virtual card for a hotel but it didn't work, why not",
+    "I have not been able to use this card.",
+    "How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+    "My disposable virtual card wouldn't process my payment?",
+    "Can I use this app to change money?",
+    "My money I had was gone and I could not get gas!",
+    "Money is not in recipients account.",
+    "Why aren't my payment funds available to me?"
+  ],
+  "records": [
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "i live in portugal. do you operate here?",
+      "generated": "I am a resident of Portugal. Do you have a presence in this country?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I didn't make a payment at this business.",
+      "generated": "We didn't process a payment at this merchant."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "What are then rules on beneficiaries?",
+      "generated": "What are the restrictions on beneficiary designations?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My funds must be verified",
+      "generated": "We need to confirm the origin of your funds"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What do I do if I believe to be a victim of credit card fraud?",
+      "generated": "If I suspect that my credit card has been compromised, what steps should I take to address the situation?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Is my card actually working? It's the first time I tried using it",
+      "generated": "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I purchase with cash or cheque?",
+      "generated": "May I pay using cash or by cheque?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "This card payment isn't is recognition.",
+      "generated": "This payment made with the card is not being recognized."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I see my available money?",
+      "generated": "Can you confirm the source of the funds in my account before I check my available balance?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Is there anywhere  In the  Eu  this card can not be delivered in",
+      "generated": "Can this card be delivered to any location within the European Union, or are there specific areas where it cannot be delivered?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "how long should i expect to wait when i add money",
+      "generated": "how long will it take for my top-up to be processed?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't do any business with this virtual card.",
+      "generated": "I'm unable to complete any transactions with this virtual card."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "For a week now, I have tried to use my card and it is still not working.",
+      "generated": "I've been trying to use my card for a week, but it's still not functioning properly."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can I Transfer from SWIFT?",
+      "generated": "Can I make a bank transfer to top up my account?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "how does my statement get updated so i know when a refund will reflect on my balance",
+      "generated": "How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I have a new email.",
+      "generated": "I've received a new email address."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Looking at my account I've noticed a charge that appears to still be in progress. I had attempted to get money out of the machine earlier but the machine seemed to have been broken. I never received my money so will you please look into this for me? I don't want to be charged for money I never actually received.",
+      "generated": "I've noticed a pending cash withdrawal on my account that seems to be stuck. I tried to withdraw cash from an ATM earlier, but it didn't go through due to a technical issue. I'd appreciate it if you could investigate this matter and ensure I'm not charged for the attempted withdrawal that didn't actually process."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Help please!  My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account?",
+      "generated": "My rent payment is scheduled to be withdrawn tomorrow, but I made an error with the payment yesterday. Could you please correct the transfer to the correct account?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Who do I make a check out to if I want to top off my account?",
+      "generated": "What is the payee's name if I wish to replenish my account balance using a check?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do you offer SWIFT transfers?",
+      "generated": "Can you facilitate bank transfers for topping up my account?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Will my GPB update my salary",
+      "generated": "Will my account reflect my latest paycheck?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What is the dollar that I have pending on my statement there?",
+      "generated": "What is the additional charge that I see on my statement?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why doesn't my card work for any transactions?",
+      "generated": "Why is my card unable to process any transactions?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "What's the phone number to freeze a card?",
+      "generated": "What's the phone number to report a lost or stolen card?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "do i have to talk to someone to close an account or can i in the app",
+      "generated": "Can I close my account through the app or do I need to speak with a representative to terminate it?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+      "generated": "I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I have money transferred into my account at different intervals along my trip?",
+      "generated": "Can I set up recurring transfers to my account during my trip?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I just had a wedding and I want to take my spouses name.",
+      "generated": "I recently got married and I'd like to update my personal details to reflect my new married name."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do I have to pay more for exchanges?",
+      "generated": "Are there additional fees for exchanging funds?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "i tried using a virtual card for a hotel but it didn't work, why not",
+      "generated": "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I have not been able to use this card.",
+      "generated": "This card is currently not functioning properly."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "How fast can you fix an error in payment?  I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+      "generated": "Can you expedite the correction of a mistaken payment made to the wrong account yesterday, as it's crucial to rectify it by tomorrow for my rent payment?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card wouldn't process my payment?",
+      "generated": "The virtual payment card I was using wouldn't accept my transaction."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app to change money?",
+      "generated": "Can I make a currency exchange using this mobile app?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My money I had was gone and I could not get gas!",
+      "generated": "I was left with no funds and couldn't afford to fill up my tank."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Money is not in recipients account.",
+      "generated": "The recipient's account does not show the transferred funds."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why aren't my payment funds available to me?",
+      "generated": "Why haven't my card payment cleared yet?"
+    }
+  ]
+}

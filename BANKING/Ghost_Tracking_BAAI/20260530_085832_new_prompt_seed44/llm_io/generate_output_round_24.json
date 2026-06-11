@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "How can I add funds to my account using my card?",
+    "I attempted to activate my card, but it didn't function properly",
+    "How can I use my card for payment?",
+    "Can I still use your services if I've misplaced my phone and can't access the app?",
+    "Are there any additional fees associated with exchanging funds?",
+    "Can I use a bank transfer to top up my account?",
+    "I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate.",
+    "I need assistance from your customer service team to activate my card.",
+    "We're having trouble confirming your identity through our system.",
+    "I'm concerned that my credit card is nearing its expiration date, what are the consequences?",
+    "What are the charges for withdrawing cash from an ATM?",
+    "I've exceeded the allowed attempts to enter my PIN.",
+    "Is my card still active? It's not functioning properly.",
+    "The system is unable to confirm your identity.",
+    "Can I easily fund my account using my credit card?",
+    "We've noticed a direct debit payment that doesn't seem to be recognized in your account records.",
+    "What steps can I take to have a card delivered to China?",
+    "I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?",
+    "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?",
+    "can I place a physical card order through the mobile app?",
+    "I tried to enter my PIN multiple times.",
+    "Will I be charged a fee when I top up my account using a bank transfer?",
+    "how can I learn about incoming transactions?",
+    "My credit card's expiration date is approaching.",
+    "I didn't receive the correct amount of cash.",
+    "Can my spouse create an account and deposit funds?",
+    "I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?",
+    "Do I need to pay an additional fee to exchange currency?",
+    "Could you please provide me with a comprehensive guide on how to verify my identity?",
+    "I think there's an error with the exchange rate applied to my card transaction. Could you verify the current interbank exchange rate for me, please?",
+    "Are there any specific locations or areas where a physical card cannot be delivered?",
+    "I'm extremely dissatisfied with your service and would like to cancel my account.",
+    "Can you assist me? My physical bank card is malfunctioning.",
+    "How are physical cards shipped or delivered?",
+    "I'm having trouble using my physical card",
+    "Can I modify my PIN at any ATM location?",
+    "I was charged a fee for withdrawing cash.",
+    "You can replenish your account balance using either cash or cheque payment methods.",
+    "I shouldn't be charged a fee if my credit card was stolen."
+  ],
+  "generated_labels": [
+    62,
+    0,
+    10,
+    42,
+    31,
+    56,
+    76,
+    0,
+    68,
+    9,
+    19,
+    49,
+    14,
+    68,
+    62,
+    28,
+    9,
+    26,
+    64,
+    43,
+    49,
+    56,
+    50,
+    9,
+    75,
+    50,
+    16,
+    31,
+    69,
+    17,
+    43,
+    55,
+    14,
+    43,
+    14,
+    21,
+    19,
+    58,
+    41
+  ],
+  "source_texts": [
+    "How do I to up by card?",
+    "I tried activating my plug-in and it didn't piece of work",
+    "Where do I pay with my card?",
+    "Can I use your services without access to the app?",
+    "Do exchanges cost more?",
+    "Are SWIFT transfers supported?",
+    "I was needing you to see if the exchange rate is correct from when i got cash",
+    "I would like to get help from someone in your customer service department with assisting me with activating my card.",
+    "The app doesn't think it's me.",
+    "I think my card is expiring, what happens then?",
+    "Could you explain your rules for ATM fees?",
+    "I used my pin too many times.",
+    "Did you deactivate my card it's not working anymore",
+    "The app does not know it is me.",
+    "Is it simple to transfer money using my credit card?",
+    "Why is there a direct debit set up in my name?",
+    "How can I get a card sent to China?",
+    "I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this?",
+    "I usually don't get charged for transfers, why was I this month?",
+    "can i order cards on the app",
+    "I attempted to enter my pin to many times.",
+    "Will there be a charge when money is added to my account?",
+    "how do i find out about transfers",
+    "My card's expiration date is close.",
+    "I couldn't get the money I needed.",
+    "can my husband open an account and transfer money",
+    "I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?",
+    "Will I have to pay extra to exchange money?",
+    "Can I get a full list of instructions for identity checks?",
+    "Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?",
+    "IS there anywhere that a card cannot be delivered?",
+    "I am not happy with your service and request that my account be terminated!",
+    "Please help me!  My physical card isn't working right.",
+    "Where are the cards transported to?",
+    "I can't get my actual card to work",
+    "Can I change my in at all ATM's?",
+    "I was charged for getting cash.",
+    "What are my payment options for topping off my account?",
+    "A fee shouldn't apply to me if my card was stolen."
+  ],
+  "records": [
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I to up by card?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I tried activating my plug-in and it didn't piece of work",
+      "generated": "I attempted to activate my card, but it didn't function properly"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my card?",
+      "generated": "How can I use my card for payment?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Can I use your services without access to the app?",
+      "generated": "Can I still use your services if I've misplaced my phone and can't access the app?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do exchanges cost more?",
+      "generated": "Are there any additional fees associated with exchanging funds?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT transfers supported?",
+      "generated": "Can I use a bank transfer to top up my account?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I was needing you to see if the exchange rate is correct from when i got cash",
+      "generated": "I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I would like to get help from someone in your customer service department with assisting me with activating my card.",
+      "generated": "I need assistance from your customer service team to activate my card."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't think it's me.",
+      "generated": "We're having trouble confirming your identity through our system."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "I think my card is expiring, what happens then?",
+      "generated": "I'm concerned that my credit card is nearing its expiration date, what are the consequences?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Could you explain your rules for ATM fees?",
+      "generated": "What are the charges for withdrawing cash from an ATM?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I used my pin too many times.",
+      "generated": "I've exceeded the allowed attempts to enter my PIN."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Did you deactivate my card it's not working anymore",
+      "generated": "Is my card still active? It's not functioning properly."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app does not know it is me.",
+      "generated": "The system is unable to confirm your identity."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Is it simple to transfer money using my credit card?",
+      "generated": "Can I easily fund my account using my credit card?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Why is there a direct debit set up in my name?",
+      "generated": "We've noticed a direct debit payment that doesn't seem to be recognized in your account records."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How can I get a card sent to China?",
+      "generated": "What steps can I take to have a card delivered to China?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this?",
+      "generated": "I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I usually don't get charged for transfers, why was I this month?",
+      "generated": "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "can i order cards on the app",
+      "generated": "can I place a physical card order through the mobile app?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I attempted to enter my pin to many times.",
+      "generated": "I tried to enter my PIN multiple times."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will there be a charge when money is added to my account?",
+      "generated": "Will I be charged a fee when I top up my account using a bank transfer?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "how do i find out about transfers",
+      "generated": "how can I learn about incoming transactions?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card's expiration date is close.",
+      "generated": "My credit card's expiration date is approaching."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I couldn't get the money I needed.",
+      "generated": "I didn't receive the correct amount of cash."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "can my husband open an account and transfer money",
+      "generated": "Can my spouse create an account and deposit funds?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?",
+      "generated": "I recently noticed some unfamiliar transactions on my card from the past few days and I'm concerned about the security of my account. Can I temporarily suspend my card to prevent any further unauthorized activity? If so, will I be able to recover the disputed amount?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Will I have to pay extra to exchange money?",
+      "generated": "Do I need to pay an additional fee to exchange currency?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Can I get a full list of instructions for identity checks?",
+      "generated": "Could you please provide me with a comprehensive guide on how to verify my identity?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?",
+      "generated": "I think there's an error with the exchange rate applied to my card transaction. Could you verify the current interbank exchange rate for me, please?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "IS there anywhere that a card cannot be delivered?",
+      "generated": "Are there any specific locations or areas where a physical card cannot be delivered?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I am not happy with your service and request that my account be terminated!",
+      "generated": "I'm extremely dissatisfied with your service and would like to cancel my account."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Please help me!  My physical card isn't working right.",
+      "generated": "Can you assist me? My physical bank card is malfunctioning."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Where are the cards transported to?",
+      "generated": "How are physical cards shipped or delivered?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't get my actual card to work",
+      "generated": "I'm having trouble using my physical card"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my in at all ATM's?",
+      "generated": "Can I modify my PIN at any ATM location?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I was charged for getting cash.",
+      "generated": "I was charged a fee for withdrawing cash."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What are my payment options for topping off my account?",
+      "generated": "You can replenish your account balance using either cash or cheque payment methods."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "A fee shouldn't apply to me if my card was stolen.",
+      "generated": "I shouldn't be charged a fee if my credit card was stolen."
+    }
+  ]
+}

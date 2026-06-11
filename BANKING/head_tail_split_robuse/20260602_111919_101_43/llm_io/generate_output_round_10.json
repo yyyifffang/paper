@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I'd like to inquire about any available discounts for regular exchange transactions, as they happen quite often.",
+    "I'd like to obtain extra physical debit/credit cards right now",
+    "Can I use bank transfer to top up my account at this bank?",
+    "What methods of payment do you accept?",
+    "Can I make a currency exchange using this mobile app?",
+    "I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct.",
+    "Are there any digital cards available instead of traditional physical cards?",
+    "What's the phone number to report a lost or stolen card?",
+    "What details do I need to provide to complete a card-based transfer?",
+    "My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars.",
+    "what is the exchange rate for a cash withdrawal on a weekend?",
+    "How can I guarantee that my transfer won't be declined due to an unsupported merchant?",
+    "What can I do to resolve the PIN block issue?",
+    "What about my minors?",
+    "I'd like to activate my card.",
+    "How much does the bank charge for issuing a new physical card if my original one is lost or stolen?",
+    "Do I need to fund my account before placing an order for a physical card?",
+    "Who is eligible for assistance?",
+    "I expected my new card to arrive by now.",
+    "I'm having trouble making any transactions.",
+    "Why is my card payment being declined when I try to use it?",
+    "How can I retrieve my card from a bank machine as soon as possible?",
+    "Please inform me about the process of acquiring a virtual card",
+    "How do I initiate an exchange?",
+    "Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined.",
+    "What happens if a payment to a merchant is declined or reversed?",
+    "Could you please provide me with additional cards for my account?",
+    "Can I request a replacement card for my account, so my daughter can use it?",
+    "Can I accept payment in a different currency?",
+    "You're wondering why your cash withdrawal was declined despite having sufficient funds in your account.",
+    "What steps can I take to verify if the merchant is not supported for my transfer attempt?",
+    "I've noticed duplicate transactions on my account.",
+    "Will my account reflect my latest paycheck?",
+    "Can I make an exchange using the app?",
+    "I'd like to know if you support cards issued in the United States."
+  ],
+  "generated_labels": [
+    31,
+    39,
+    56,
+    54,
+    33,
+    27,
+    40,
+    41,
+    62,
+    33,
+    76,
+    27,
+    49,
+    1,
+    0,
+    43,
+    43,
+    24,
+    11,
+    14,
+    25,
+    18,
+    40,
+    32,
+    26,
+    53,
+    39,
+    39,
+    50,
+    26,
+    27,
+    63,
+    50,
+    33,
+    54
+  ],
+  "source_texts": [
+    "I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently.",
+    "I would like to get additional physical cards at this time",
+    "Are SWIFT Transfers available at this bank?",
+    "What are my payment options?",
+    "Can I use this app to change money?",
+    "I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate.",
+    "And do you have virtual cards instead of physical ones?",
+    "What's the phone number to freeze a card?",
+    "What information am I going to have to have in order to do a transfer with my card?",
+    "My plans may change so I may need to change from GBP to AUD.",
+    "what are weekend rates for getting cash",
+    "How do I make sure my transfer isn't goin to an unsupported merchant?",
+    "How do I get unblocked?",
+    "What about my children?",
+    "I need to actuate my card.",
+    "What does the bank charge for lost or stolen card replacements?",
+    "do i need to add money before i order a card",
+    "Who gets support?",
+    "I thought I would have received my new card at this point.",
+    "I seem to be unable to make any transactions.",
+    "When I use my card, it says decline?",
+    "How do I get my card back quickly from a bank machine that it?",
+    "Please let me know how to place an order for a virtual card",
+    "What's the process for exchanges?",
+    "Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",
+    "What happens if a merchant doesn't accept  you payment?",
+    "Can you send me more cards for my account?",
+    "My daughter would like a card from my account?  Can I do this?",
+    "Can I receive payment in another currency?",
+    "why would i be declined if i had money iin my account",
+    "How can I check for an unsupported merchant for my transfer request?",
+    "I have multiple of the same transaction",
+    "Will my GPB update my salary",
+    "Can this convert money?",
+    "I have another card from the U.S. Will you be able to accept that one?"
+  ],
+  "records": [
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently.",
+      "generated": "I'd like to inquire about any available discounts for regular exchange transactions, as they happen quite often."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I would like to get additional physical cards at this time",
+      "generated": "I'd like to obtain extra physical debit/credit cards right now"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT Transfers available at this bank?",
+      "generated": "Can I use bank transfer to top up my account at this bank?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are my payment options?",
+      "generated": "What methods of payment do you accept?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app to change money?",
+      "generated": "Can I make a currency exchange using this mobile app?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate.",
+      "generated": "I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "And do you have virtual cards instead of physical ones?",
+      "generated": "Are there any digital cards available instead of traditional physical cards?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "What's the phone number to freeze a card?",
+      "generated": "What's the phone number to report a lost or stolen card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What information am I going to have to have in order to do a transfer with my card?",
+      "generated": "What details do I need to provide to complete a card-based transfer?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "My plans may change so I may need to change from GBP to AUD.",
+      "generated": "My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "what are weekend rates for getting cash",
+      "generated": "what is the exchange rate for a cash withdrawal on a weekend?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How do I make sure my transfer isn't goin to an unsupported merchant?",
+      "generated": "How can I guarantee that my transfer won't be declined due to an unsupported merchant?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I get unblocked?",
+      "generated": "What can I do to resolve the PIN block issue?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "What about my children?",
+      "generated": "What about my minors?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I need to actuate my card.",
+      "generated": "I'd like to activate my card."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What does the bank charge for lost or stolen card replacements?",
+      "generated": "How much does the bank charge for issuing a new physical card if my original one is lost or stolen?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "do i need to add money before i order a card",
+      "generated": "Do I need to fund my account before placing an order for a physical card?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Who gets support?",
+      "generated": "Who is eligible for assistance?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I thought I would have received my new card at this point.",
+      "generated": "I expected my new card to arrive by now."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I seem to be unable to make any transactions.",
+      "generated": "I'm having trouble making any transactions."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "When I use my card, it says decline?",
+      "generated": "Why is my card payment being declined when I try to use it?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "How do I get my card back quickly from a bank machine that it?",
+      "generated": "How can I retrieve my card from a bank machine as soon as possible?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "Please let me know how to place an order for a virtual card",
+      "generated": "Please inform me about the process of acquiring a virtual card"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What's the process for exchanges?",
+      "generated": "How do I initiate an exchange?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",
+      "generated": "Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "What happens if a merchant doesn't accept  you payment?",
+      "generated": "What happens if a payment to a merchant is declined or reversed?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can you send me more cards for my account?",
+      "generated": "Could you please provide me with additional cards for my account?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "My daughter would like a card from my account?  Can I do this?",
+      "generated": "Can I request a replacement card for my account, so my daughter can use it?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I receive payment in another currency?",
+      "generated": "Can I accept payment in a different currency?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "why would i be declined if i had money iin my account",
+      "generated": "You're wondering why your cash withdrawal was declined despite having sufficient funds in your account."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How can I check for an unsupported merchant for my transfer request?",
+      "generated": "What steps can I take to verify if the merchant is not supported for my transfer attempt?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have multiple of the same transaction",
+      "generated": "I've noticed duplicate transactions on my account."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Will my GPB update my salary",
+      "generated": "Will my account reflect my latest paycheck?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can this convert money?",
+      "generated": "Can I make an exchange using the app?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I have another card from the U.S. Will you be able to accept that one?",
+      "generated": "I'd like to know if you support cards issued in the United States."
+    }
+  ]
+}

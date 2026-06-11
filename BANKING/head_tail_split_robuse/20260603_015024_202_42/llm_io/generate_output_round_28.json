@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "What can I do to avoid incurring a charge when withdrawing cash from an ATM?",
+    "My friend made a cash deposit of $100 into my account, but the balance hasn't been updated yet.",
+    "The transfer to a designated recipient was not permitted; is there an alternative method I can use to complete the transaction?",
+    "What are the charges for withdrawing cash from an ATM?",
+    "how can I learn about incoming transactions?",
+    "I mistakenly deposited my rent into an incorrect account, could you assist in transferring the funds to the correct account, as it needs to be completed by tomorrow?",
+    "I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible.",
+    "What steps does your app take to move funds into another account?",
+    "I'd like to know how to reach out to your customer support team regarding the transfer that was declined.",
+    "How many cash machines accept this card?",
+    "Can I initiate a bank transfer to top up my account with you?",
+    "how can I proceed with a cash deposit or cheque top-up?",
+    "why hasn't my account balance been updated after the deposit I made this morning?",
+    "The amount of cash I received is not what I was expecting.",
+    "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?",
+    "who deducted the transfer fee from my card",
+    "Can I open an account for my child?",
+    "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?",
+    "I was unable to complete a transfer from my account.",
+    "Are there any charges for making a top-up payment using my card in Europe?",
+    "I'm having issues sending funds to a designated recipient.",
+    "You can find information on how to top up your account by cash or cheque.",
+    "I was unable to make a transfer to a different account.",
+    "Despite not being based in the UK, can I still obtain a card?",
+    "I'm trying to retrieve the cash I didn't receive from the ATM transaction.",
+    "Where can I access cash from an ATM?",
+    "How can I exchange my currency for the currency used in another country through the app?",
+    "I'm curious about the reason behind the failed transfer.",
+    "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?",
+    "Why hasn't my account balance been updated after I deposited a cheque or cash? I've been waiting for a while now.",
+    "Can I make a digital payment or is it possible to use cash to top up my account?",
+    "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now.",
+    "I'm experiencing an issue with topping up my card, as it's been declined repeatedly. Could you assist me in resolving this issue or suggest an alternative solution, please?",
+    "How can I stop a pending transfer?",
+    "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?",
+    "You can use cash to top up at any of our physical locations.",
+    "I'd like to cancel my account, please."
+  ],
+  "generated_labels": [
+    19,
+    6,
+    7,
+    19,
+    50,
+    8,
+    75,
+    65,
+    27,
+    3,
+    56,
+    58,
+    6,
+    75,
+    75,
+    64,
+    1,
+    19,
+    35,
+    57,
+    7,
+    58,
+    7,
+    24,
+    75,
+    3,
+    33,
+    27,
+    27,
+    6,
+    58,
+    15,
+    59,
+    8,
+    3,
+    58,
+    55
+  ],
+  "source_texts": [
+    "How do I avoid a fee to use an ATM?",
+    "My friend deposited $100 into my account, but it is not showing up!",
+    "the transfer to an account wasn't allowed is there any other way for me to do it",
+    "Could you explain your rules for ATM fees?",
+    "how do i find out about transfers",
+    "I paid my rent into the wrong account, could you please pay it into the right account, it needs to be done by tomorrow.",
+    "I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!",
+    "How does your app transfer the money",
+    "How do I contact customer support about my declined transfer?",
+    "How many ATMs will take this card?",
+    "Am I able to do a SWIFT transfer with you?",
+    "how do i find top up for cash deposit",
+    "where is my money from this morning",
+    "My cash received does not match what has been requested",
+    "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+    "who charged my card",
+    "Can I get an account for my son?",
+    "How much can I withdrawal in one month without incurring fees?",
+    "I couldnt transfer money from my account.",
+    "Are there still fees for european top-ups?",
+    "I am having trouble transferring money to a beneficiery.",
+    "Where do I look for cash top up?",
+    "I was unable to transfer to another account.",
+    "Although I am not located in the UK area, may i still receive a card?",
+    "How can I get my money that I didn't get from the ATM?",
+    "Where should I withdraw money from?",
+    "How to I switch my money for the money used in another country?",
+    "I wanted to know why my transaction didn't go through.",
+    "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+    "Why is it taking so long for my money to appear in my account? I have been waiting a week!",
+    "Can I only top-up digitally? Or could I use cash?",
+    "i have used my card online before and wasn't charged, why am i charged now",
+    "I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives",
+    "How do i cancel a charge?",
+    "I need to withdraw money. Where can I do that?",
+    "What physical locations can I use cash to top up?",
+    "I no longer want this account, what should I do?"
+  ],
+  "records": [
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How do I avoid a fee to use an ATM?",
+      "generated": "What can I do to avoid incurring a charge when withdrawing cash from an ATM?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "My friend deposited $100 into my account, but it is not showing up!",
+      "generated": "My friend made a cash deposit of $100 into my account, but the balance hasn't been updated yet."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "the transfer to an account wasn't allowed is there any other way for me to do it",
+      "generated": "The transfer to a designated recipient was not permitted; is there an alternative method I can use to complete the transaction?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Could you explain your rules for ATM fees?",
+      "generated": "What are the charges for withdrawing cash from an ATM?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "how do i find out about transfers",
+      "generated": "how can I learn about incoming transactions?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I paid my rent into the wrong account, could you please pay it into the right account, it needs to be done by tomorrow.",
+      "generated": "I mistakenly deposited my rent into an incorrect account, could you assist in transferring the funds to the correct account, as it needs to be completed by tomorrow?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!",
+      "generated": "I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "How does your app transfer the money",
+      "generated": "What steps does your app take to move funds into another account?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How do I contact customer support about my declined transfer?",
+      "generated": "I'd like to know how to reach out to your customer support team regarding the transfer that was declined."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How many ATMs will take this card?",
+      "generated": "How many cash machines accept this card?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I able to do a SWIFT transfer with you?",
+      "generated": "Can I initiate a bank transfer to top up my account with you?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how do i find top up for cash deposit",
+      "generated": "how can I proceed with a cash deposit or cheque top-up?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "where is my money from this morning",
+      "generated": "why hasn't my account balance been updated after the deposit I made this morning?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "My cash received does not match what has been requested",
+      "generated": "The amount of cash I received is not what I was expecting."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+      "generated": "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "who charged my card",
+      "generated": "who deducted the transfer fee from my card"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Can I get an account for my son?",
+      "generated": "Can I open an account for my child?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much can I withdrawal in one month without incurring fees?",
+      "generated": "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I couldnt transfer money from my account.",
+      "generated": "I was unable to complete a transfer from my account."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are there still fees for european top-ups?",
+      "generated": "Are there any charges for making a top-up payment using my card in Europe?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I am having trouble transferring money to a beneficiery.",
+      "generated": "I'm having issues sending funds to a designated recipient."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Where do I look for cash top up?",
+      "generated": "You can find information on how to top up your account by cash or cheque."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I was unable to transfer to another account.",
+      "generated": "I was unable to make a transfer to a different account."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Although I am not located in the UK area, may i still receive a card?",
+      "generated": "Despite not being based in the UK, can I still obtain a card?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "How can I get my money that I didn't get from the ATM?",
+      "generated": "I'm trying to retrieve the cash I didn't receive from the ATM transaction."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where should I withdraw money from?",
+      "generated": "Where can I access cash from an ATM?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "How to I switch my money for the money used in another country?",
+      "generated": "How can I exchange my currency for the currency used in another country through the app?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I wanted to know why my transaction didn't go through.",
+      "generated": "I'm curious about the reason behind the failed transfer."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+      "generated": "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why is it taking so long for my money to appear in my account? I have been waiting a week!",
+      "generated": "Why hasn't my account balance been updated after I deposited a cheque or cash? I've been waiting for a while now."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I only top-up digitally? Or could I use cash?",
+      "generated": "Can I make a digital payment or is it possible to use cash to top up my account?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "i have used my card online before and wasn't charged, why am i charged now",
+      "generated": "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives",
+      "generated": "I'm experiencing an issue with topping up my card, as it's been declined repeatedly. Could you assist me in resolving this issue or suggest an alternative solution, please?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "How do i cancel a charge?",
+      "generated": "How can I stop a pending transfer?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need to withdraw money. Where can I do that?",
+      "generated": "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What physical locations can I use cash to top up?",
+      "generated": "You can use cash to top up at any of our physical locations."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I no longer want this account, what should I do?",
+      "generated": "I'd like to cancel my account, please."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+GEN | [declined_cash_withdrawal] | Orig: This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined. -> Aug: This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?
+GEN | [declined_cash_withdrawal] | Orig: Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined. -> Aug: Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined.
+GEN | [card_acceptance] | Orig: How can I know where my card will be accepted? -> Aug: What areas can I expect to find merchants that accept my card?
+GEN | [declined_cash_withdrawal] | Orig: When I tried to access my cash, I wasn't allowed! -> Aug: Unfortunately, I was unable to withdraw cash from my account.
+GEN | [atm_support] | Orig: Where can I get money from my card? -> Aug: How can I access funds from my card?
+GEN | [cash_withdrawal_not_recognised] | Orig: Some cash shows up on my app. -> Aug: There's an unexpected cash withdrawal showing up on my account.
+GEN | [visa_or_mastercard] | Orig: I am looking to get a Visa credit card, what must I do to achieve this? -> Aug: I'm interested in obtaining a Mastercard credit card, what are the necessary steps to accomplish this?
+GEN | [visa_or_mastercard] | Orig: Can I get a Visa or does it have to be something else. -> Aug: Can I use a Mastercard instead, or is it specifically a Visa requirement?
+GEN | [visa_or_mastercard] | Orig: Can both a Visa and Mastercard be received from you? -> Aug: Can you accept both Visa and Mastercard payments?
+GEN | [direct_debit_payment_not_recognised] | Orig: I have not used my card all day, however, there is an unusual payment showing in my app.  I would like to have that amount reimbursed. -> Aug: I've checked my account activity, but I'm puzzled by a payment that doesn't seem to match any transactions I've made. Can you help me investigate and reverse this unauthorized payment?
+GEN | [visa_or_mastercard] | Orig: I need to get visa and mastercard -> Aug: I require both Visa and Mastercard.
+GEN | [virtual_card_not_working] | Orig: My disposable virtual card wouldn't process my payment? -> Aug: The virtual payment card I was using wouldn't accept my transaction.
+GEN | [cash_withdrawal_not_recognised] | Orig: i didnt put that money in my account -> Aug: i didn't deposit that amount into my account
+GEN | [request_refund] | Orig: It's been some time ago that I placed an order and it just isn't coming. At this point just give me back my money because I'm not paying them. -> Aug: I've been waiting for a while now, and since the order hasn't arrived, I'd like to request a refund as I'm no longer interested in pursuing the purchase.
+GEN | [cash_withdrawal_charge] | Orig: I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now? -> Aug: I'm wondering if I was incorrectly charged a fee for a recent cash withdrawal, perhaps related to a recent purchase or transaction?
+GEN | [pending_cash_withdrawal] | Orig: I tried to get some money but the machine was not working .The transaction still seems in progress! Can you please check what's going on.I don't want to be charged for money that I did not received. -> Aug: I attempted to withdraw some cash, but the ATM was malfunctioning. The transaction appears to be still pending. Could you look into this matter and ensure I'm not charged for the amount I didn't receive?
+GEN | [card_not_working] | Orig: What do I do now that I can't use this card? -> Aug: What should I do since my card is not functioning properly?
+GEN | [visa_or_mastercard] | Orig: I anticipate getting a Visa card -> Aug: I'm expecting to receive a Mastercard
+GEN | [visa_or_mastercard] | Orig: I want to get a Visa -> Aug: I'd like to obtain a Mastercard
+GEN | [direct_debit_payment_not_recognised] | Orig: If I found an error in my account for a transaction I didn't make, how long to I have to dispute it? -> Aug: We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?
+GEN | [card_payment_not_recognised] | Orig: I need to know where this charge is coming from? -> Aug: I'm trying to figure out where this payment is coming from.
+GEN | [card_arrival] | Orig: I thought I would have received my new card at this point. -> Aug: I expected my new card to arrive by now.
+GEN | [card_acceptance] | Orig: Where do I pay with my card? -> Aug: How can I use my card for payment?
+GEN | [verify_source_of_funds] | Orig: My source of funds require verification. -> Aug: We need to confirm the origin of your funds.
+GEN | [card_delivery_estimate] | Orig: I need my card as quick as possible -> Aug: I'd like to receive my card as soon as possible.
+GEN | [verify_my_identity] | Orig: What type of ID do you accept? -> Aug: We accept various forms of identification. Which one would you like to provide?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: An overseas cash transfer did not work correctly -> Aug: The exchange rate used for the cash withdrawal was incorrect.
+GEN | [card_payment_not_recognised] | Orig: I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges? -> Aug: I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges.
+GEN | [get_disposable_virtual_card] | Orig: I need a single use card for shopping online -> Aug: I require a one-time use virtual card for online transactions
+GEN | [cash_withdrawal_not_recognised] | Orig: THere is some cash that is showing up on my app. -> Aug: There's an unexpected cash amount appearing on my account.
+GEN | [card_about_to_expire] | Orig: I'm in China and need a new card. Please help. -> Aug: I'm currently abroad in China and require a replacement card as my existing one is nearing its expiration date. Can you assist me with this request?
+GEN | [visa_or_mastercard] | Orig: Can I select my card scheme or do you choose it for me? -> Aug: Do you allow me to choose between Visa and Mastercard, or do you automatically select the card type for me?
+GEN | [automatic_top_up] | Orig: When the time is right will this automatically replenish my balance? -> Aug: Will this automatically top up my account when the time is suitable?
+GEN | [supported_cards_and_currencies] | Orig: How can I get funds into my account from my American Express? -> Aug: What methods are available for depositing funds into my account using my American Express card?
+GEN | [card_acceptance] | Orig: Is the card welcomed by everybody? -> Aug: Is the card accepted by all parties involved?
+GEN | [visa_or_mastercard] | Orig: Can I get a Visa from you? -> Aug: Can I obtain a Mastercard from you instead?
+GEN | [top_up_reverted] | Orig: My money disappeared! Please help?? -> Aug: My funds vanished! Can you assist me with this issue?

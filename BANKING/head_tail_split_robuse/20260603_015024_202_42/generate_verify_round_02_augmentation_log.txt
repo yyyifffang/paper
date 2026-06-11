@@ -1,0 +1,77 @@
+GEN | [card_payment_fee_charged] | Orig: I paid with card and was charged a fee that shouldn't be there! -> Aug: I used my card to make a payment, but I was unexpectedly charged a fee that I didn't expect.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I can't see the transfer that I put in. -> Aug: I'm unable to view the recent bank transfer I initiated.
+GEN | [compromised_card] | Orig: What can I do if my card details where stolen from my car? I think they used my card to buy gas. -> Aug: What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.
+GEN | [age_limit] | Orig: How do I set up an account for my children? -> Aug: What steps do I need to take to open an account for my minors?
+GEN | [card_payment_not_recognised] | Orig: I'm not sure where this charge came from. -> Aug: I'm confused about this transaction; I didn't authorise it.
+GEN | [pending_cash_withdrawal] | Orig: So earlier I went to an ATM and got cash. But when I checked the app, it states that the withdrawal is pending. How can that be when I have the cash on me? -> Aug: I recently made a cash withdrawal at an ATM, but when I checked my account on the app, it shows that the transaction is still pending. Can you help me understand why this is the case, since I physically have the cash with me?
+GEN | [card_delivery_estimate] | Orig: What is the wait time for delivery to the US? -> Aug: How long does it typically take for a card to arrive in the United States?
+GEN | [transfer_into_account] | Orig: I want to top up by transfering accounts, What do I do? -> Aug: I'd like to make a transfer from one account to another, how can I proceed?
+GEN | [pending_cash_withdrawal] | Orig: What is a pending cash withdrawal? -> Aug: A pending cash withdrawal refers to a transaction that has been initiated but not yet processed or completed.
+GEN | [verify_my_identity] | Orig: How do I verify my identity? -> Aug: What steps can I take to confirm my identity?
+GEN | [card_payment_fee_charged] | Orig: I have a fee and I don't know why -> Aug: I'm being charged a fee and I'm not sure why it's happening
+GEN | [visa_or_mastercard] | Orig: I would like to get a Visa card -> Aug: I would like to obtain a Mastercard
+GEN | [supported_cards_and_currencies] | Orig: What currencies do you accept to add money? -> Aug: We accept a range of currencies for adding funds to your account.
+GEN | [terminate_account] | Orig: I'm not happy with service and would like to delete this account. -> Aug: I'm dissatisfied with the service and would like to cancel my account.
+GEN | [pending_card_payment] | Orig: When will my pending payment finish? -> Aug: When will my outstanding card payment be processed?
+GEN | [declined_cash_withdrawal] | Orig: Hi, In morning, i was trying to withdraw money from my card, but it got declined. So far it was working fine. Could you please check my card. -> Aug: This morning, I attempted to withdraw cash from my card, but the transaction was declined. Despite being functional previously, it seems there's an issue with my card. Could you kindly investigate the matter?
+GEN | [age_limit] | Orig: What would the age limit be? -> Aug: At what age do you need to be to qualify for this service?
+GEN | [cash_withdrawal_not_recognised] | Orig: The app says I made a cash withdrawal that I didn't make -> Aug: The mobile app is showing a cash withdrawal transaction that I'm not aware of.
+GEN | [card_delivery_estimate] | Orig: If I order a card when does it arrive? -> Aug: When can I expect to receive my new card after placing the order?
+GEN | [edit_personal_details] | Orig: I moved and need to change my address. -> Aug: I'd like to update my personal information to reflect my new residential address.
+GEN | [top_up_failed] | Orig: My credit card transaction was declined for a loan payment.  Can you tell me why? -> Aug: My loan payment using my credit card was unsuccessful. Can you explain why the transaction was declined?
+GEN | [declined_cash_withdrawal] | Orig: Why was my withdrawal declined -> Aug: What was the reason for the cash withdrawal being declined?
+GEN | [terminate_account] | Orig: What are the steps to finishing up with this account? -> Aug: How do I go about closing this account?
+GEN | [lost_or_stolen_phone] | Orig: How can I stop someone from using my card after I lost it yesterday. -> Aug: How can I prevent someone from using my card after I misplaced it yesterday?
+GEN | [card_arrival] | Orig: Was there a number to track that I could get? -> Aug: Is there a tracking number I can use to monitor the status of my card arrival?
+GEN | [reverted_card_payment?] | Orig: The app reverted my recent payment -> Aug: The recent payment I made was reversed by the app
+GEN | [cash_withdrawal_not_recognised] | Orig: Why would the app show a withdrawal that I did not make? -> Aug: We're showing a withdrawal transaction that doesn't match any of your recent transactions. Can you help us understand why this is happening?
+GEN | [pending_transfer] | Orig: How long does the "pending" period of a transfer take? -> Aug: What is the typical duration of a transfer that is currently in a pending state?
+GEN | [cash_withdrawal_charge] | Orig: WHY IS THERE AN EXTRA FEE FOR USING THE ATM??!!! -> Aug: Why do I have to pay an additional charge for withdrawing cash from the ATM?
+GEN | [atm_support] | Orig: I need an ATM right now! -> Aug: I urgently require access to an ATM.
+GEN | [transfer_fee_charged] | Orig: I had an unexpected fee -> Aug: I was surprised to find a charge
+GEN | [pending_cash_withdrawal] | Orig: I've been waiting for 3 days, why is my withdrawal still pending? -> Aug: I've been waiting for an extended period, and I'm still waiting for my cash withdrawal to be processed.
+GEN | [fiat_currency_support] | Orig: Can exchanged be made to EUR? -> Aug: Is it possible to convert to euros?
+GEN | [transaction_charged_twice] | Orig: I noticed that my card was charged more than once for one thing. -> Aug: I've been charged twice for the same transaction.
+GEN | [country_support] | Orig: I live in the EU.  Can I order one of your cards? -> Aug: I reside in the European Union. Can I purchase one of your credit cards?
+GEN | [pin_blocked] | Orig: Guide me on how to unblock my PIN -> Aug: Help me resolve the issue with my PIN being blocked
+GEN | [card_payment_fee_charged] | Orig: I was mistakenly charged a fee for using my card. -> Aug: I was unexpectedly billed a charge for utilizing my credit card.
+GEN | [verify_source_of_funds] | Orig: Can I see my available money? -> Aug: Can you confirm the source of the funds in my account before I check my available balance?
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: ... | Original: I paid with card and was charged a fee that shouldn't be there! | Augmented: I used my card to make a payment, but I was unexpectedly charged a fee that I didn't expect.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: I can't see the transfer that I put in. | Augmented: I'm unable to view the recent bank transfer I initiated.
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: What can I do if my card details where stolen from my car? I think they used my card to buy gas. | Augmented: What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: How do I set up an account for my children? | Augmented: What steps do I need to take to open an account for my minors?
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I'm not sure where this charge came from. | Augmented: I'm confused about this transaction; I didn't authorise it.
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: The augmented text preserves the same banking intent, is not contradictory to the original intent, and provides a clear context for the user's query. | Original: So earlier I went to an ATM and got cash. But when I checked the app, it states that the withdrawal is pending. How can that be when I have the cash on me? | Augmented: I recently made a cash withdrawal at an ATM, but when I checked my account on the app, it shows that the transaction is still pending. Can you help me understand why this is the case, since I physically have the cash with me?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: What is the wait time for delivery to the US? | Augmented: How long does it typically take for a card to arrive in the United States?
+VAL | [transfer_into_account] | ACCEPT | Reason: N/A | Original: I want to top up by transfering accounts, What do I do? | Augmented: I'd like to make a transfer from one account to another, how can I proceed?
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: ... | Original: What is a pending cash withdrawal? | Augmented: A pending cash withdrawal refers to a transaction that has been initiated but not yet processed or completed.
+VAL | [verify_my_identity] | ACCEPT | Reason: N/A | Original: How do I verify my identity? | Augmented: What steps can I take to confirm my identity?
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: N/A | Original: I have a fee and I don't know why | Augmented: I'm being charged a fee and I'm not sure why it's happening
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: I would like to get a Visa card | Augmented: I would like to obtain a Mastercard
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: What currencies do you accept to add money? | Augmented: We accept a range of currencies for adding funds to your account.
+VAL | [terminate_account] | ACCEPT | Reason: ... | Original: I'm not happy with service and would like to delete this account. | Augmented: I'm dissatisfied with the service and would like to cancel my account.
+VAL | [pending_card_payment] | ACCEPT | Reason: N/A | Original: When will my pending payment finish? | Augmented: When will my outstanding card payment be processed?
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: ... | Original: Hi, In morning, i was trying to withdraw money from my card, but it got declined. So far it was working fine. Could you please check my card. | Augmented: This morning, I attempted to withdraw cash from my card, but the transaction was declined. Despite being functional previously, it seems there's an issue with my card. Could you kindly investigate the matter?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: What would the age limit be? | Augmented: At what age do you need to be to qualify for this service?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: The app says I made a cash withdrawal that I didn't make | Augmented: The mobile app is showing a cash withdrawal transaction that I'm not aware of.
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: If I order a card when does it arrive? | Augmented: When can I expect to receive my new card after placing the order?
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: I moved and need to change my address. | Augmented: I'd like to update my personal information to reflect my new residential address.
+VAL | [top_up_failed] | ACCEPT | Reason: ... | Original: My credit card transaction was declined for a loan payment.  Can you tell me why? | Augmented: My loan payment using my credit card was unsuccessful. Can you explain why the transaction was declined?
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: ... | Original: Why was my withdrawal declined | Augmented: What was the reason for the cash withdrawal being declined?
+VAL | [terminate_account] | ACCEPT | Reason: Both texts are asking about the process of ending an account relationship, which aligns with the target intent of 'terminate_account'. There is no contradiction, and the text is specific enough. | Original: What are the steps to finishing up with this account? | Augmented: How do I go about closing this account?
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: How can I stop someone from using my card after I lost it yesterday. | Augmented: How can I prevent someone from using my card after I misplaced it yesterday?
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: Was there a number to track that I could get? | Augmented: Is there a tracking number I can use to monitor the status of my card arrival?
+VAL | [reverted_card_payment?] | ACCEPT | Reason: ... | Original: The app reverted my recent payment | Augmented: The recent payment I made was reversed by the app
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: Why would the app show a withdrawal that I did not make? | Augmented: We're showing a withdrawal transaction that doesn't match any of your recent transactions. Can you help us understand why this is happening?
+VAL | [pending_transfer] | ACCEPT | Reason: ... | Original: How long does the "pending" period of a transfer take? | Augmented: What is the typical duration of a transfer that is currently in a pending state?
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: WHY IS THERE AN EXTRA FEE FOR USING THE ATM??!!! | Augmented: Why do I have to pay an additional charge for withdrawing cash from the ATM?
+VAL | [atm_support] | ACCEPT | Reason: ... | Original: I need an ATM right now! | Augmented: I urgently require access to an ATM.
+VAL | [transfer_fee_charged] | ACCEPT | Reason: N/A | Original: I had an unexpected fee | Augmented: I was surprised to find a charge
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: ... | Original: I've been waiting for 3 days, why is my withdrawal still pending? | Augmented: I've been waiting for an extended period, and I'm still waiting for my cash withdrawal to be processed.
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: Can exchanged be made to EUR? | Augmented: Is it possible to convert to euros?
+VAL | [transaction_charged_twice] | ACCEPT | Reason: N/A | Original: I noticed that my card was charged more than once for one thing. | Augmented: I've been charged twice for the same transaction.
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: I live in the EU.  Can I order one of your cards? | Augmented: I reside in the European Union. Can I purchase one of your credit cards?
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: Guide me on how to unblock my PIN | Augmented: Help me resolve the issue with my PIN being blocked
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: ... | Original: I was mistakenly charged a fee for using my card. | Augmented: I was unexpectedly billed a charge for utilizing my credit card.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: Can I see my available money? | Augmented: Can you confirm the source of the funds in my account before I check my available balance?
+VAL_SUMMARY | ACCEPT: 38 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 0 | Accept Rate: 1.0000

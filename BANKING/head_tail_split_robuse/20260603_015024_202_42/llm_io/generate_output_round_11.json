@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I think there's an error with the exchange rate applied to my card transaction. Could you verify the current interbank exchange rate for me, please?",
+    "I have a transfer that's currently pending and I'd like some information about it.",
+    "What methods are available for depositing funds into my account using my American Express card?",
+    "Can I modify my PIN at a nearby ATM while I'm in Spain? I'm concerned someone may have observed my PIN and I'd like to update it, but I'm currently on vacation.",
+    "Can I hold multiple types of fiat currencies in my account?",
+    "Can I get a new debit card without any additional charges?",
+    "I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card?",
+    "I'd like to increase the available balance on my card, could you guide me on how to do that?",
+    "Describe outstanding cash withdrawal requests.",
+    "As I'm currently in Spain, I'm concerned that someone might have seen my PIN and I'd like to change it; can I do so at an ATM here or is there another option available?",
+    "Can I reactivate my existing card or do I need to request a new one for use with the app?",
+    "Is my credit card accepted for online transactions?",
+    "I've noticed a pending cash withdrawal on my account that seems to be stuck. I tried to withdraw cash from an ATM earlier, but it didn't go through due to a technical issue. I'd appreciate it if you could investigate this matter and ensure I'm not charged for the attempted withdrawal that didn't actually process.",
+    "Why isn't my refund showing up in my account?",
+    "I'm currently traveling in Spain and I'm concerned that someone might have noticed my PIN. Can I modify it at a nearby ATM?",
+    "I'm concerned that someone may have discovered my PIN and I'm currently in Spain, can I modify it at a local ATM?",
+    "Will the extra charge that appears on my statement be credited back to my card?",
+    "Should I request a replacement card before securing my compromised card?",
+    "I'm wondering if there's a fee associated with adding funds to my card?",
+    "How can I access funds from my card?",
+    "I'm unhappy with the services and would like to discontinue my account.",
+    "I've misplaced my card at my parents' residence. Could you kindly provide me with a replacement card until I can retrieve the original one?",
+    "I'm noticing some suspicious activity on my account, showing up in the app without my permission.",
+    "How can I use my card for payment?",
+    "Your account balance has not been updated after the recent bank transfer.",
+    "What steps can I take to verify if the merchant is not supported for my transfer attempt?",
+    "what is the exchange rate for a cash withdrawal on a weekend?",
+    "How quickly can I initiate a transfer from China, and what's the estimated processing time?",
+    "I'd like to request an expedited delivery for my card.",
+    "I'm surprised to see a fee applied to my transfer.",
+    "When will the payment I made using my card be processed and cleared?",
+    "How much will I need to pay for a physical credit card?",
+    "What types of payment methods and currencies are accepted with my account?",
+    "I'm seeing the same transaction repeatedly on my card statement.",
+    "Why do I see multiple transaction dates on my statement?"
+  ],
+  "generated_labels": [
+    17,
+    48,
+    54,
+    21,
+    36,
+    39,
+    41,
+    60,
+    46,
+    21,
+    13,
+    10,
+    46,
+    51,
+    21,
+    21,
+    34,
+    22,
+    57,
+    3,
+    55,
+    39,
+    20,
+    10,
+    5,
+    27,
+    76,
+    67,
+    12,
+    64,
+    45,
+    43,
+    54,
+    63,
+    63
+  ],
+  "source_texts": [
+    "Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?",
+    "I have a trasnger that is pending and wondered about it.",
+    "How can I get funds into my account from my American Express?",
+    "Can I change my PIN at a nearby ATM when in Spain? I think someone saw my PIN and I need to change it but am on vacation.",
+    "Does my account have the option to hold multiple currencies?",
+    "Is a new debit card free?",
+    "I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?",
+    "I need to add a serious amount of cash to my card, how do I do that?",
+    "Explain pending transactions.",
+    "While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain?",
+    "Will I need a new card or can I put my old card back into the app?",
+    "Can I use my card for online payments?",
+    "Looking at my account I've noticed a charge that appears to still be in progress. I had attempted to get money out of the machine earlier but the machine seemed to have been broken. I never received my money so will you please look into this for me? I don't want to be charged for money I never actually received.",
+    "Why hasn't my return cleared my account?",
+    "I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM?",
+    "I think someone saw my PIN and I am on vacation in Spain, can I change it locally at an ATM?",
+    "Is the 1 pound charge going to be reimbursed on my card?",
+    "Should I order a new card before I freeze my original one?",
+    "I topped off my card is that something you will charge me for?",
+    "Where can I get money from my card?",
+    "i'm not satisfied with the services and no longer want to be a customer",
+    "I have left my card at my parents house. Can you send me a spare one please to use in the meantime?",
+    "I am seeing unathorized transactions in the app, on my account.",
+    "Where do I pay with my card?",
+    "Balance is not up to date.",
+    "How can I check for an unsupported merchant for my transfer request?",
+    "what are weekend rates for getting cash",
+    "If I need to transfer something quick from China, how long does that take?",
+    "i need to expedite my card",
+    "I shouldn't be charged any fee for transferring .",
+    "When is a payment I made with my card going to clear>",
+    "What do I owe for a new card?",
+    "What are the currencies and cards that are supported with my account?",
+    "My card is showing the same transaction over and over again.",
+    "Why does my statement show various transaction times?"
+  ],
+  "records": [
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?",
+      "generated": "I think there's an error with the exchange rate applied to my card transaction. Could you verify the current interbank exchange rate for me, please?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have a trasnger that is pending and wondered about it.",
+      "generated": "I have a transfer that's currently pending and I'd like some information about it."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "How can I get funds into my account from my American Express?",
+      "generated": "What methods are available for depositing funds into my account using my American Express card?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my PIN at a nearby ATM when in Spain? I think someone saw my PIN and I need to change it but am on vacation.",
+      "generated": "Can I modify my PIN at a nearby ATM while I'm in Spain? I'm concerned someone may have observed my PIN and I'd like to update it, but I'm currently on vacation."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Does my account have the option to hold multiple currencies?",
+      "generated": "Can I hold multiple types of fiat currencies in my account?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Is a new debit card free?",
+      "generated": "Can I get a new debit card without any additional charges?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?",
+      "generated": "I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "I need to add a serious amount of cash to my card, how do I do that?",
+      "generated": "I'd like to increase the available balance on my card, could you guide me on how to do that?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Explain pending transactions.",
+      "generated": "Describe outstanding cash withdrawal requests."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain?",
+      "generated": "As I'm currently in Spain, I'm concerned that someone might have seen my PIN and I'd like to change it; can I do so at an ATM here or is there another option available?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Will I need a new card or can I put my old card back into the app?",
+      "generated": "Can I reactivate my existing card or do I need to request a new one for use with the app?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I use my card for online payments?",
+      "generated": "Is my credit card accepted for online transactions?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Looking at my account I've noticed a charge that appears to still be in progress. I had attempted to get money out of the machine earlier but the machine seemed to have been broken. I never received my money so will you please look into this for me? I don't want to be charged for money I never actually received.",
+      "generated": "I've noticed a pending cash withdrawal on my account that seems to be stuck. I tried to withdraw cash from an ATM earlier, but it didn't go through due to a technical issue. I'd appreciate it if you could investigate this matter and ensure I'm not charged for the attempted withdrawal that didn't actually process."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Why hasn't my return cleared my account?",
+      "generated": "Why isn't my refund showing up in my account?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM?",
+      "generated": "I'm currently traveling in Spain and I'm concerned that someone might have noticed my PIN. Can I modify it at a nearby ATM?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I think someone saw my PIN and I am on vacation in Spain, can I change it locally at an ATM?",
+      "generated": "I'm concerned that someone may have discovered my PIN and I'm currently in Spain, can I modify it at a local ATM?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Is the 1 pound charge going to be reimbursed on my card?",
+      "generated": "Will the extra charge that appears on my statement be credited back to my card?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "Should I order a new card before I freeze my original one?",
+      "generated": "Should I request a replacement card before securing my compromised card?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I topped off my card is that something you will charge me for?",
+      "generated": "I'm wondering if there's a fee associated with adding funds to my card?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where can I get money from my card?",
+      "generated": "How can I access funds from my card?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "i'm not satisfied with the services and no longer want to be a customer",
+      "generated": "I'm unhappy with the services and would like to discontinue my account."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I have left my card at my parents house. Can you send me a spare one please to use in the meantime?",
+      "generated": "I've misplaced my card at my parents' residence. Could you kindly provide me with a replacement card until I can retrieve the original one?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I am seeing unathorized transactions in the app, on my account.",
+      "generated": "I'm noticing some suspicious activity on my account, showing up in the app without my permission."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my card?",
+      "generated": "How can I use my card for payment?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Balance is not up to date.",
+      "generated": "Your account balance has not been updated after the recent bank transfer."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How can I check for an unsupported merchant for my transfer request?",
+      "generated": "What steps can I take to verify if the merchant is not supported for my transfer attempt?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "what are weekend rates for getting cash",
+      "generated": "what is the exchange rate for a cash withdrawal on a weekend?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "If I need to transfer something quick from China, how long does that take?",
+      "generated": "How quickly can I initiate a transfer from China, and what's the estimated processing time?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i need to expedite my card",
+      "generated": "I'd like to request an expedited delivery for my card."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I shouldn't be charged any fee for transferring .",
+      "generated": "I'm surprised to see a fee applied to my transfer."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "When is a payment I made with my card going to clear>",
+      "generated": "When will the payment I made using my card be processed and cleared?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What do I owe for a new card?",
+      "generated": "How much will I need to pay for a physical credit card?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are the currencies and cards that are supported with my account?",
+      "generated": "What types of payment methods and currencies are accepted with my account?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My card is showing the same transaction over and over again.",
+      "generated": "I'm seeing the same transaction repeatedly on my card statement."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why does my statement show various transaction times?",
+      "generated": "Why do I see multiple transaction dates on my statement?"
+    }
+  ]
+}

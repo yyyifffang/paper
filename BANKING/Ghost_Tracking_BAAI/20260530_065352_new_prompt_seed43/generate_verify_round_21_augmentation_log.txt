@@ -1,0 +1,77 @@
+GEN | [transfer_into_account] | Orig: What are my bank details so I can do a transfer? -> Aug: To facilitate a transfer, could you please provide me with your bank account information?
+GEN | [get_physical_card] | Orig: I'm not sure what to do about the PIN, because I don't have one yet. -> Aug: I'm having trouble with the PIN, as I haven't received my physical card yet.
+GEN | [topping_up_by_card] | Orig: I want to transfer money using my credit card. -> Aug: I'd like to add funds to my account using my credit card.
+GEN | [topping_up_by_card] | Orig: I want to know how to transfer money with my credit card -> Aug: I'd like to learn about topping up my account using my credit card.
+GEN | [change_pin] | Orig: 
+Do I need to go to a physical bank to change my PIN? -> Aug: Can I change my PIN at a bank branch instead of online?
+GEN | [activate_my_card] | Orig: I want to start using my card. -> Aug: I'd like to activate my card and begin making transactions.
+GEN | [pending_card_payment] | Orig: I don't know what pending transaction means. -> Aug: I'm not sure what's meant by the outstanding payment.
+GEN | [transfer_into_account] | Orig: I can't figure out how to transfer money into my account. -> Aug: I'm having trouble initiating a deposit into my account.
+GEN | [topping_up_by_card] | Orig: I want to transfer money with my credit card. -> Aug: I'd like to add funds to my account using my credit card.
+GEN | [age_limit] | Orig: I have young kids. Can they use this service? -> Aug: I'm a parent with minors. Can they access this service?
+GEN | [receiving_money] | Orig: can my husband open an account and transfer money -> Aug: Can my spouse create an account and deposit funds?
+GEN | [transfer_into_account] | Orig: My account is depleted. Can I transfer funds from another bank? -> Aug: My account is running low. Can I transfer money from another financial institution into my account?
+GEN | [transfer_into_account] | Orig: where do i go to transfer money from one account to this one -> Aug: how can I initiate a transfer from another account to this account?
+GEN | [disposable_card_limits] | Orig: Are there any limits if I use these virtual cards? -> Aug: What are the restrictions on disposable card usage?
+GEN | [receiving_money] | Orig: How can my boss pay me directly to the card? -> Aug: How can my boss deposit funds directly to my card?
+GEN | [order_physical_card] | Orig: Do I get a card to keep in my wallet? -> Aug: Can I receive a physical card to carry with me?
+GEN | [transfer_not_received_by_recipient] | Orig: i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer. -> Aug: I've been waiting for two days for a transfer to be credited to a retailer's account, and I'm starting to worry that it might take even longer.
+GEN | [verify_source_of_funds] | Orig: Where is my top-up generated from? -> Aug: Can you please confirm the source of the funds used for the recent top-up?
+GEN | [beneficiary_not_allowed] | Orig: I need to transfer to my account and cant. -> Aug: I'm trying to transfer funds to my account, but it's not possible.
+GEN | [get_physical_card] | Orig: do i need to wait for my card before i get pin -> Aug: Do I need to wait for my physical card before I obtain my PIN?
+GEN | [supported_cards_and_currencies] | Orig: I have another card from the U.S. Will you be able to accept that one? -> Aug: I'd like to know if you support cards issued in the United States.
+GEN | [get_disposable_virtual_card] | Orig: I have heard about these disposable virtual cards but don't understand how they work. -> Aug: I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.
+GEN | [order_physical_card] | Orig: Can I revive a physical card. -> Aug: Can I retrieve a physical credit card?
+GEN | [topping_up_by_card] | Orig: Hoe do i use my credit card to transfer money? -> Aug: How can I use my credit card to make a payment or add funds to my account?
+GEN | [change_pin] | Orig: I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here? -> Aug: I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?
+GEN | [Refund_not_showing_up] | Orig: Please update me on whether you have received the funds for the refund of the large purchase I made recently. I have requested this from the merchant days ago but still haven't got anything. -> Aug: Could you kindly inform me if the refund for my recent large purchase has been processed and credited to my account? I've been waiting for a while, as I requested it from the merchant a few days ago, but I haven't received any update yet.
+GEN | [transfer_into_account] | Orig: I'd like to know how transferring my money into my account works. -> Aug: I'd like to understand the process of moving funds into my account.
+GEN | [topping_up_by_card] | Orig: I'd like to transfer funds using my credit card. -> Aug: I'd like to make a payment using my credit card.
+GEN | [beneficiary_not_allowed] | Orig: Are there restrictions to transfers to certain accounts? -> Aug: Can I transfer funds to specific accounts, or are there limitations in place?
+GEN | [receiving_money] | Orig: how do i find out about transfers -> Aug: how can I learn about incoming transactions?
+GEN | [topping_up_by_card] | Orig: I need to transfer some money, can I use my credit card? -> Aug: I'd like to add funds to my account using my credit card.
+GEN | [getting_spare_card] | Orig: I would like some more physical cards, what is my limit? -> Aug: I'd like to request additional physical debit/credit cards, could you please inform me about my available limit?
+GEN | [topping_up_by_card] | Orig: Is it simple to transfer money using my credit card? -> Aug: Can I easily fund my account using my credit card?
+GEN | [getting_spare_card] | Orig: Physical cards are what I need more of -> Aug: Additional physical bank cards are what I require
+GEN | [supported_cards_and_currencies] | Orig: I only have a card from the US is that okay? -> Aug: I'm wondering if it's acceptable to use a US-issued card?
+GEN | [Refund_not_showing_up] | Orig: It's been more than a week since I had a return charged to my card, why hasn't it showed up? -> Aug: It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement.
+GEN | [transfer_timing] | Orig: How long will I have to wait for my money to be in my account? -> Aug: When can I expect my funds to be available in my account?
+VAL | [transfer_into_account] | ACCEPT | Reason: ... | Original: What are my bank details so I can do a transfer? | Augmented: To facilitate a transfer, could you please provide me with your bank account information?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: I'm not sure what to do about the PIN, because I don't have one yet. | Augmented: I'm having trouble with the PIN, as I haven't received my physical card yet.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: I want to transfer money using my credit card. | Augmented: I'd like to add funds to my account using my credit card.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: I want to know how to transfer money with my credit card | Augmented: I'd like to learn about topping up my account using my credit card.
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: 
+Do I need to go to a physical bank to change my PIN? | Augmented: Can I change my PIN at a bank branch instead of online?
+VAL | [activate_my_card] | ACCEPT | Reason: ... | Original: I want to start using my card. | Augmented: I'd like to activate my card and begin making transactions.
+VAL | [pending_card_payment] | ACCEPT | Reason: N/A | Original: I don't know what pending transaction means. | Augmented: I'm not sure what's meant by the outstanding payment.
+VAL | [transfer_into_account] | ACCEPT | Reason: N/A | Original: I can't figure out how to transfer money into my account. | Augmented: I'm having trouble initiating a deposit into my account.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: I want to transfer money with my credit card. | Augmented: I'd like to add funds to my account using my credit card.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: I have young kids. Can they use this service? | Augmented: I'm a parent with minors. Can they access this service?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: can my husband open an account and transfer money | Augmented: Can my spouse create an account and deposit funds?
+VAL | [transfer_into_account] | ACCEPT | Reason: N/A | Original: My account is depleted. Can I transfer funds from another bank? | Augmented: My account is running low. Can I transfer money from another financial institution into my account?
+VAL | [transfer_into_account] | ACCEPT | Reason: ... | Original: where do i go to transfer money from one account to this one | Augmented: how can I initiate a transfer from another account to this account?
+VAL | [disposable_card_limits] | ACCEPT | Reason: N/A | Original: Are there any limits if I use these virtual cards? | Augmented: What are the restrictions on disposable card usage?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: How can my boss pay me directly to the card? | Augmented: How can my boss deposit funds directly to my card?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Do I get a card to keep in my wallet? | Augmented: Can I receive a physical card to carry with me?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer. | Augmented: I've been waiting for two days for a transfer to be credited to a retailer's account, and I'm starting to worry that it might take even longer.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: ... | Original: Where is my top-up generated from? | Augmented: Can you please confirm the source of the funds used for the recent top-up?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: I need to transfer to my account and cant. | Augmented: I'm trying to transfer funds to my account, but it's not possible.
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: do i need to wait for my card before i get pin | Augmented: Do I need to wait for my physical card before I obtain my PIN?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: I have another card from the U.S. Will you be able to accept that one? | Augmented: I'd like to know if you support cards issued in the United States.
+VAL | [get_disposable_virtual_card] | ACCEPT | Reason: ... | Original: I have heard about these disposable virtual cards but don't understand how they work. | Augmented: I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Can I revive a physical card. | Augmented: Can I retrieve a physical credit card?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: Hoe do i use my credit card to transfer money? | Augmented: How can I use my credit card to make a payment or add funds to my account?
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here? | Augmented: I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?
+VAL | [Refund_not_showing_up] | ACCEPT | Reason: The augmented text preserves the intent of asking about the status of a refund that has not yet appeared in the account. It is a clear and specific request related to the target intent. | Original: Please update me on whether you have received the funds for the refund of the large purchase I made recently. I have requested this from the merchant days ago but still haven't got anything. | Augmented: Could you kindly inform me if the refund for my recent large purchase has been processed and credited to my account? I've been waiting for a while, as I requested it from the merchant a few days ago, but I haven't received any update yet.
+VAL | [transfer_into_account] | ACCEPT | Reason: ... | Original: I'd like to know how transferring my money into my account works. | Augmented: I'd like to understand the process of moving funds into my account.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: I'd like to transfer funds using my credit card. | Augmented: I'd like to make a payment using my credit card.
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: Are there restrictions to transfers to certain accounts? | Augmented: Can I transfer funds to specific accounts, or are there limitations in place?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: how do i find out about transfers | Augmented: how can I learn about incoming transactions?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: I need to transfer some money, can I use my credit card? | Augmented: I'd like to add funds to my account using my credit card.
+VAL | [getting_spare_card] | ACCEPT | Reason: ... | Original: I would like some more physical cards, what is my limit? | Augmented: I'd like to request additional physical debit/credit cards, could you please inform me about my available limit?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: Is it simple to transfer money using my credit card? | Augmented: Can I easily fund my account using my credit card?
+VAL | [getting_spare_card] | ACCEPT | Reason: ... | Original: Physical cards are what I need more of | Augmented: Additional physical bank cards are what I require
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: I only have a card from the US is that okay? | Augmented: I'm wondering if it's acceptable to use a US-issued card?
+VAL | [Refund_not_showing_up] | ACCEPT | Reason: The augmented text preserves the same banking intent of a refund not showing up, and it does not introduce any contradictory or unsupported information. | Original: It's been more than a week since I had a return charged to my card, why hasn't it showed up? | Augmented: It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement.
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: How long will I have to wait for my money to be in my account? | Augmented: When can I expect my funds to be available in my account?
+VAL_SUMMARY | ACCEPT: 37 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 0 | Accept Rate: 1.0000

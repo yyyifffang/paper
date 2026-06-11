@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?",
+    "What is the maximum number of transactions I can make with a disposable card?",
+    "When did you begin being charged for cash withdrawals? What's the current fee amount? I'm surprised to hear it's no longer free.",
+    "Are there any fees associated with withdrawing cash from my account? I recall making a withdrawal recently and being charged for it.",
+    "When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?",
+    "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?",
+    "Why does it take a while for my account balance to update after an international bank transfer is made?",
+    "What are the details about my limit for making top-ups?",
+    "I'm having trouble finishing the activation process for my card.",
+    "I've been assessed a charge for withdrawing cash",
+    "The transfer I initiated with my card was unsuccessful, what happened?",
+    "Why is there a holdup in processing my card payment for my account?",
+    "I'd like to cancel my account due to dissatisfaction with your services.",
+    "I'm attempting to finalize the purchase of a property and the initial mortgage payment is stuck. I'm encountering an issue with the transfer, and I'd appreciate it if you could help resolve this problem. What's causing the delay?",
+    "Can I perform a card-based account replenishment myself?",
+    "I'm having trouble using my physical card",
+    "Can I initiate a bank transfer to top up my account with you?",
+    "Why was my transfer not processed successfully?",
+    "The physical card I possess is not functioning properly.",
+    "I need to make an urgent transfer from China and I'd like to know the estimated timeframe for the transfer to be processed.",
+    "Can I use bank transfer to top up my account at this bank?",
+    "Who is the source of the funds being used to make this transaction?",
+    "I was charged a fee for withdrawing cash, is this a standard practice?",
+    "how can I learn about incoming transactions?",
+    "I require an expedited transfer to China. Can you inform me about the estimated timeframe for the transfer to reach its destination?",
+    "I was overcharged for the item, and the amount doesn't match the expected exchange rate.",
+    "I'm puzzled as to why my payment is being rejected, considering I have sufficient funds in my account.",
+    "Why am I being assessed a fee for withdrawing cash from my account?",
+    "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?",
+    "Can I make an urgent transfer from China? What's the typical processing time for such a transfer?",
+    "I urgently require a transfer from China, Could you please provide the estimated wait time?",
+    "I'm having trouble completing a transfer and it's not going through as expected.",
+    "Can you assist me in resolving the issue with my card not functioning properly?",
+    "What charges do I need to pay when I process a payment?",
+    "I require a prompt transfer from China. Can you inform me about the estimated timeframe for this transaction?",
+    "I was surprised to see a fee for withdrawing cash from my account.",
+    "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?",
+    "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?",
+    "to confirm my account information"
+  ],
+  "generated_labels": [
+    19,
+    29,
+    19,
+    19,
+    19,
+    5,
+    5,
+    60,
+    0,
+    19,
+    35,
+    45,
+    55,
+    35,
+    62,
+    14,
+    56,
+    35,
+    14,
+    67,
+    56,
+    70,
+    19,
+    50,
+    67,
+    17,
+    25,
+    19,
+    19,
+    67,
+    67,
+    35,
+    14,
+    15,
+    67,
+    19,
+    59,
+    53,
+    74
+  ],
+  "source_texts": [
+    "I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?",
+    "How many payments can I make using a virtual card?",
+    "When did you start charging to make a withdrawal? How much is it now? I always thought it was free.",
+    "Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this.",
+    "Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now?",
+    "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+    "Is there a longer processing time for international bank transfers?",
+    "How can I information on my limit for top-ups?",
+    "I couldn't complete card activation.",
+    "I have been charged a fee for getting cash",
+    "My card couldn't complete a transfer, why?",
+    "What is the cause of the delay in applying my card payment to my account?",
+    "I would like to invalidate my account.  I am very disappointed with your services.",
+    "Hi, I'm trying to purchase a flat and I'm needing the first payment for the mortgage to go through on the flat I'm trying to buy. For some reason I keep getting an error.can you assist in making this transfer? What is going on?",
+    "Am I the only one who can top-up my account?",
+    "I can't get my actual card to work",
+    "Am I able to do a SWIFT transfer with you?",
+    "Why was my transaction not approved?",
+    "The card that I have isn't working. This is the physical card.",
+    "There is an urgent thing that I need to transfer from China. Approximately how long will it take?",
+    "Are SWIFT Transfers available at this bank?",
+    "Who is giving me my money?",
+    "I received a fee for obtaining cash, is this correct?",
+    "how do i find out about transfers",
+    "I need to transfer something to China. It is urgent. How many days will it take to get there?",
+    "I was charged the wing amount for an item.",
+    "I have enough money in my account, so why is my card being declined?",
+    "Why am I being charged for getting cash?",
+    "How much can I withdrawal in one month without incurring fees?",
+    "Can I transfer something urgently from China? How long does it take?",
+    "I desperately need to transfer something from China, Please give me the wait time.",
+    "I am trying to transfer money and something is going wrong.",
+    "Need help to get my card to work.",
+    "What are the fees imposed when I make a transaction?",
+    "I need a quick transfer from China.  How long would that take?",
+    "Why was I charged for getting cash?",
+    "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+    "The money is still in my account even though I already paid -- I don't understand what happened.",
+    "what I need to verify my account"
+  ],
+  "records": [
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?",
+      "generated": "I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "How many payments can I make using a virtual card?",
+      "generated": "What is the maximum number of transactions I can make with a disposable card?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "When did you start charging to make a withdrawal? How much is it now? I always thought it was free.",
+      "generated": "When did you begin being charged for cash withdrawals? What's the current fee amount? I'm surprised to hear it's no longer free."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this.",
+      "generated": "Are there any fees associated with withdrawing cash from my account? I recall making a withdrawal recently and being charged for it."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now?",
+      "generated": "When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+      "generated": "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Is there a longer processing time for international bank transfers?",
+      "generated": "Why does it take a while for my account balance to update after an international bank transfer is made?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How can I information on my limit for top-ups?",
+      "generated": "What are the details about my limit for making top-ups?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I couldn't complete card activation.",
+      "generated": "I'm having trouble finishing the activation process for my card."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I have been charged a fee for getting cash",
+      "generated": "I've been assessed a charge for withdrawing cash"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "My card couldn't complete a transfer, why?",
+      "generated": "The transfer I initiated with my card was unsuccessful, what happened?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "What is the cause of the delay in applying my card payment to my account?",
+      "generated": "Why is there a holdup in processing my card payment for my account?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I would like to invalidate my account.  I am very disappointed with your services.",
+      "generated": "I'd like to cancel my account due to dissatisfaction with your services."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Hi, I'm trying to purchase a flat and I'm needing the first payment for the mortgage to go through on the flat I'm trying to buy. For some reason I keep getting an error.can you assist in making this transfer? What is going on?",
+      "generated": "I'm attempting to finalize the purchase of a property and the initial mortgage payment is stuck. I'm encountering an issue with the transfer, and I'd appreciate it if you could help resolve this problem. What's causing the delay?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Am I the only one who can top-up my account?",
+      "generated": "Can I perform a card-based account replenishment myself?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't get my actual card to work",
+      "generated": "I'm having trouble using my physical card"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I able to do a SWIFT transfer with you?",
+      "generated": "Can I initiate a bank transfer to top up my account with you?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why was my transaction not approved?",
+      "generated": "Why was my transfer not processed successfully?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "The card that I have isn't working. This is the physical card.",
+      "generated": "The physical card I possess is not functioning properly."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "There is an urgent thing that I need to transfer from China. Approximately how long will it take?",
+      "generated": "I need to make an urgent transfer from China and I'd like to know the estimated timeframe for the transfer to be processed."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are SWIFT Transfers available at this bank?",
+      "generated": "Can I use bank transfer to top up my account at this bank?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Who is giving me my money?",
+      "generated": "Who is the source of the funds being used to make this transaction?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I received a fee for obtaining cash, is this correct?",
+      "generated": "I was charged a fee for withdrawing cash, is this a standard practice?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "how do i find out about transfers",
+      "generated": "how can I learn about incoming transactions?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "I need to transfer something to China. It is urgent. How many days will it take to get there?",
+      "generated": "I require an expedited transfer to China. Can you inform me about the estimated timeframe for the transfer to reach its destination?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I was charged the wing amount for an item.",
+      "generated": "I was overcharged for the item, and the amount doesn't match the expected exchange rate."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I have enough money in my account, so why is my card being declined?",
+      "generated": "I'm puzzled as to why my payment is being rejected, considering I have sufficient funds in my account."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Why am I being charged for getting cash?",
+      "generated": "Why am I being assessed a fee for withdrawing cash from my account?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much can I withdrawal in one month without incurring fees?",
+      "generated": "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "Can I transfer something urgently from China? How long does it take?",
+      "generated": "Can I make an urgent transfer from China? What's the typical processing time for such a transfer?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "I desperately need to transfer something from China, Please give me the wait time.",
+      "generated": "I urgently require a transfer from China, Could you please provide the estimated wait time?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I am trying to transfer money and something is going wrong.",
+      "generated": "I'm having trouble completing a transfer and it's not going through as expected."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Need help to get my card to work.",
+      "generated": "Can you assist me in resolving the issue with my card not functioning properly?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "What are the fees imposed when I make a transaction?",
+      "generated": "What charges do I need to pay when I process a payment?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "I need a quick transfer from China.  How long would that take?",
+      "generated": "I require a prompt transfer from China. Can you inform me about the estimated timeframe for this transaction?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Why was I charged for getting cash?",
+      "generated": "I was surprised to see a fee for withdrawing cash from my account."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I tried to charge my card but it was declined. A couple days ago I was able to charge it and it was accepted. Is something wrong? Will you double check for me please?",
+      "generated": "I attempted to make a payment using my card, but it was unsuccessful. I had successfully made a payment a couple of days ago, and it was processed without any issues. Could you please investigate this discrepancy for me?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "The money is still in my account even though I already paid -- I don't understand what happened.",
+      "generated": "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "what I need to verify my account",
+      "generated": "to confirm my account information"
+    }
+  ]
+}

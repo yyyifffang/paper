@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I'm reviewing my statement and noticed an unusual charge of £1, could you please explain what it's for?",
+    "Are there any charges associated with using a European bank card for a top-up?",
+    "In what currencies can I exchange and hold my funds?",
+    "Why was I charged an extra fee when I used my card to make a payment?",
+    "How do I add funds to my card using my card?",
+    "Why was I charged an additional fee when I used my card to make the payment?",
+    "Can I make exchanges through this app for both US dollars and British pounds?",
+    "I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?",
+    "I'm having trouble using my virtual card to make transactions.",
+    "My recently opened account is not allowing me to make a top-up transaction.",
+    "I'm unable to access my funds. Could it be due to an issue with the recent top-up attempt? I'm certain I entered the details correctly.",
+    "I'd like to stop the transfer process and cancel the transaction.",
+    "Where can I locate the identity verification process?",
+    "You claim there's no charge for card payments, but I've been charged a fee on my statement.",
+    "How many cash machines accept this card?",
+    "May I assist you in reactivating your card?",
+    "We're showing a direct debit payment that we haven't recognized as yours. Can you help us figure out what's going on?",
+    "I attempted to add funds, but the transaction was declined.",
+    "Can I use a different currency when making a payment with a card, or do I need to use euros?",
+    "I attempted to make a transfer to add funds, but the funds are still unavailable.",
+    "Why is my designated recipient not functioning properly?",
+    "How many transactions can I make with a disposable card before it's no longer valid?",
+    "Are there any charges associated with topping up a US-issued card?",
+    "Are there any charges involved in topping up my account via bank transfer?",
+    "Can you guide me on how to exchange currency for Australian dollars instead of British pounds?",
+    "The top-up attempt using my credit card was declined. Can you help me understand why?",
+    "decided to switch to another option and update my personal information",
+    "Is the balance updated instantly after a bank transfer?",
+    "What steps can I take to activate my card?",
+    "I've been mistakenly charged twice.",
+    "Are there any fees associated with receiving funds through bank transfer?",
+    "How do I initiate a transfer to add funds to an account?",
+    "You can find information on how to top up your account by cash or cheque.",
+    "You can top up your account using either cash or cheque.",
+    "A payment made from my account was not recognized.",
+    "I'm not sure why I'm being charged an additional amount on my statement when I didn't make a purchase that warrants such a charge.",
+    "I'd like to update my personal information.",
+    "I believe there's been an error with the transfer I initiated"
+  ],
+  "generated_labels": [
+    34,
+    57,
+    36,
+    15,
+    62,
+    15,
+    33,
+    6,
+    72,
+    47,
+    59,
+    8,
+    69,
+    15,
+    3,
+    13,
+    28,
+    59,
+    54,
+    59,
+    7,
+    29,
+    57,
+    56,
+    33,
+    59,
+    30,
+    5,
+    0,
+    63,
+    56,
+    65,
+    58,
+    58,
+    28,
+    34,
+    30,
+    27
+  ],
+  "source_texts": [
+    "I have a strange transaction for £1 on my statement, what is that?",
+    "Is there a fee for european bank cards?",
+    "In the exchange and holding, what fiat is allowed?",
+    "Why did I have to pay an additional amount when using my card to pay?",
+    "What's the process for topping up my card?",
+    "Why did I have to pay extra because I paid with my card?",
+    "Can I use this app for both USD and GBP?",
+    "I put some money in my account the other day and it's not gone in yet, can you help with this?",
+    "I can't make purchases with my virtual card.",
+    "My account is  new  why can I  not top up",
+    "I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly.",
+    "I don't need to transfer anymore and I want to cancel it.",
+    "How and where can I find the identity checks?",
+    "You advertise no fee when paying with a card then my statement shows a fee.",
+    "How many ATMs will take this card?",
+    "Can you please reactivate my card?",
+    "what is this charge i didnt do it what can i do",
+    "I just topped up, and the app denied it.",
+    "Do I have to top up in euros if I use a card, or can I use a different currency?",
+    "I did a bank transfer to top up, but the money is not available.",
+    "Why is my beneficiary not working?",
+    "Can I do more than 10 transactions with a disposable card?",
+    "Is there a top charge for US cards?",
+    "Is there any fees associated with receiving money with this account?",
+    "Can you  tell me how to get AUD not GBP?",
+    "My credit card for was not approved for a top-up transaction.  What happened?",
+    "went somewhere else, need to change details",
+    "Are bank transfers immediate?",
+    "How can i make my card active?",
+    "I have been overcharged.",
+    "To receive money are there charges?",
+    "What are the steps for  making a transfer for topping up?",
+    "Where do I look for cash top up?",
+    "What types of top-up methods do you accept?",
+    "Someone else charged my card!",
+    "What am I being charged an extra pound when I haven't bought something worth that much?",
+    "I need to change my data.",
+    "I think there has been a mistake with my transfer"
+  ],
+  "records": [
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I have a strange transaction for £1 on my statement, what is that?",
+      "generated": "I'm reviewing my statement and noticed an unusual charge of £1, could you please explain what it's for?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is there a fee for european bank cards?",
+      "generated": "Are there any charges associated with using a European bank card for a top-up?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "In the exchange and holding, what fiat is allowed?",
+      "generated": "In what currencies can I exchange and hold my funds?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why did I have to pay an additional amount when using my card to pay?",
+      "generated": "Why was I charged an extra fee when I used my card to make a payment?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What's the process for topping up my card?",
+      "generated": "How do I add funds to my card using my card?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why did I have to pay extra because I paid with my card?",
+      "generated": "Why was I charged an additional fee when I used my card to make the payment?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app for both USD and GBP?",
+      "generated": "Can I make exchanges through this app for both US dollars and British pounds?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I put some money in my account the other day and it's not gone in yet, can you help with this?",
+      "generated": "I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't make purchases with my virtual card.",
+      "generated": "I'm having trouble using my virtual card to make transactions."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "My account is  new  why can I  not top up",
+      "generated": "My recently opened account is not allowing me to make a top-up transaction."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly.",
+      "generated": "I'm unable to access my funds. Could it be due to an issue with the recent top-up attempt? I'm certain I entered the details correctly."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I don't need to transfer anymore and I want to cancel it.",
+      "generated": "I'd like to stop the transfer process and cancel the transaction."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How and where can I find the identity checks?",
+      "generated": "Where can I locate the identity verification process?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "You advertise no fee when paying with a card then my statement shows a fee.",
+      "generated": "You claim there's no charge for card payments, but I've been charged a fee on my statement."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How many ATMs will take this card?",
+      "generated": "How many cash machines accept this card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can you please reactivate my card?",
+      "generated": "May I assist you in reactivating your card?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "what is this charge i didnt do it what can i do",
+      "generated": "We're showing a direct debit payment that we haven't recognized as yours. Can you help us figure out what's going on?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I just topped up, and the app denied it.",
+      "generated": "I attempted to add funds, but the transaction was declined."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do I have to top up in euros if I use a card, or can I use a different currency?",
+      "generated": "Can I use a different currency when making a payment with a card, or do I need to use euros?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I did a bank transfer to top up, but the money is not available.",
+      "generated": "I attempted to make a transfer to add funds, but the funds are still unavailable."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is my beneficiary not working?",
+      "generated": "Why is my designated recipient not functioning properly?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Can I do more than 10 transactions with a disposable card?",
+      "generated": "How many transactions can I make with a disposable card before it's no longer valid?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is there a top charge for US cards?",
+      "generated": "Are there any charges associated with topping up a US-issued card?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there any fees associated with receiving money with this account?",
+      "generated": "Are there any charges involved in topping up my account via bank transfer?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can you  tell me how to get AUD not GBP?",
+      "generated": "Can you guide me on how to exchange currency for Australian dollars instead of British pounds?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "My credit card for was not approved for a top-up transaction.  What happened?",
+      "generated": "The top-up attempt using my credit card was declined. Can you help me understand why?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "went somewhere else, need to change details",
+      "generated": "decided to switch to another option and update my personal information"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Are bank transfers immediate?",
+      "generated": "Is the balance updated instantly after a bank transfer?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can i make my card active?",
+      "generated": "What steps can I take to activate my card?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have been overcharged.",
+      "generated": "I've been mistakenly charged twice."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "To receive money are there charges?",
+      "generated": "Are there any fees associated with receiving funds through bank transfer?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are the steps for  making a transfer for topping up?",
+      "generated": "How do I initiate a transfer to add funds to an account?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Where do I look for cash top up?",
+      "generated": "You can find information on how to top up your account by cash or cheque."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What types of top-up methods do you accept?",
+      "generated": "You can top up your account using either cash or cheque."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Someone else charged my card!",
+      "generated": "A payment made from my account was not recognized."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What am I being charged an extra pound when I haven't bought something worth that much?",
+      "generated": "I'm not sure why I'm being charged an additional amount on my statement when I didn't make a purchase that warrants such a charge."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I need to change my data.",
+      "generated": "I'd like to update my personal information."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I think there has been a mistake with my transfer",
+      "generated": "I believe there's been an error with the transfer I initiated"
+    }
+  ]
+}

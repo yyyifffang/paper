@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "Why is there a pending payment on my credit card still?",
+    "I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?",
+    "I was unexpectedly billed an additional amount in a recent transaction.",
+    "I've attempted to use my card at various merchants, but it's no longer functioning properly.",
+    "I'd like to request a new physical card.",
+    "Can you investigate why my account balance is not reflecting the recent bank transfer I made, as it's not updating yet?",
+    "Where can I withdraw cash from an ATM or a bank branch?",
+    "The payment made with my card was declined at a retail store.",
+    "The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?",
+    "Can I convert my funds to euros?",
+    "A surprise fee has appeared on a transfer that shouldn't have had one.",
+    "I attempted to make a transfer to add funds, but the funds are still unavailable.",
+    "Suspicious activity detected on my account.",
+    "I'm really frustrated with this ATM, it slapped me with an unexpected fee, Can you tell me why it did that?",
+    "Why is my payment being declined? Is there an issue with my account or a problem with the transaction that's causing it to be rejected? What steps can I take to resolve this issue and get my payment processed successfully?",
+    "I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?",
+    "I'm having trouble with my contactless payment method.",
+    "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.",
+    "I'm reviewing my statement and noticed an unusual charge of £1, could you please explain what it's for?",
+    "I'm having trouble finding the automatic top-up feature, can you help me locate it?",
+    "I require a replacement card as my previous one has been stolen.",
+    "A recipient informed me that they didn't receive the full transfer I initiated, and it was actually short by a small amount. To rectify the situation, I need to make an additional transfer to cover the shortfall. Could you please investigate this matter and provide an update?",
+    "Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?",
+    "I'm wondering why I was charged an additional fee on my recent statement.",
+    "I'd like to place an order for a physical card.",
+    "Can you explain the reason behind the additional fee that appeared on my statement?",
+    "I've changed my mind about the transfer I initiated yesterday. Could you please cancel it and correct the mistake? I'd appreciate it if you could take care of it by tomorrow.",
+    "The recipient didn't receive the transferred funds.",
+    "I initiated a transfer, but the recipient only received a reduced amount, which means I need to make an additional transfer to cover the shortfall. Can you assist me with this issue?",
+    "Can I request a replacement card before my current one expires?",
+    "A transfer was prohibited for the recipient's account.",
+    "My card has been stolen and someone is using it to make unauthorized transactions. Can you help me stop them from accessing my account and withdrawing cash?",
+    "I sent back a product, but the refund isn't showing up on my statement.",
+    "Do you support credit card payments?"
+  ],
+  "generated_labels": [
+    45,
+    64,
+    34,
+    14,
+    43,
+    5,
+    3,
+    25,
+    26,
+    36,
+    64,
+    59,
+    22,
+    19,
+    25,
+    19,
+    23,
+    20,
+    34,
+    4,
+    41,
+    64,
+    46,
+    34,
+    43,
+    34,
+    8,
+    66,
+    64,
+    9,
+    7,
+    20,
+    51,
+    54
+  ],
+  "source_texts": [
+    "Why is their a charge pending on my card still?",
+    "I got an unexpected charge on my transfers. How can I correct this?",
+    "I was charged $1 in a transaction.",
+    "I tried using my card at multiple vendors and now it's not working.",
+    "I need to order a new card.",
+    "Can you check if my money has reached my account since it is not showing up yet?",
+    "What locations can I get money from?",
+    "My card was not accepted in a shop",
+    "The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?",
+    "Can I exchange my money for EUR?",
+    "There is a fee from a transfer that is not supposed to be here!",
+    "I did a bank transfer to top up, but the money is not available.",
+    "Questionable transactions on my account.",
+    "I hate this ATM, it charged me an extra fee, Why did it charge?",
+    "Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?",
+    "I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?",
+    "I can't get a contactless payment to work.",
+    "I did not get the cash that is showing up in my app.",
+    "I have a strange transaction for £1 on my statement, what is that?",
+    "I know there's an auto-top option but I can not locate it when I look?",
+    "I need to order a new card as my other one was stolen.",
+    "A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?",
+    "Why does it still charge me even though I was unable to withdraw money from the ATM?",
+    "Why did a transaction I made charge me $1?",
+    "I would like to request a card.",
+    "Can you tell me why I was charged $1 for a transaction?",
+    "I just realized I made the wrong transaction yesterday. Would  you please make it correct?I need it by tomorrow Please.",
+    "Where did the money transfer go?",
+    "I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done",
+    "Can I order a new card with the app?",
+    "A transfer was not allowed to an account.",
+    "Somebody stole my wallet and is using my card! Can you do something so they can't keep taking my money?",
+    "I returned an item but don't see it on my account?",
+    "Will you accept my credit card?"
+  ],
+  "records": [
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why is their a charge pending on my card still?",
+      "generated": "Why is there a pending payment on my credit card still?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I got an unexpected charge on my transfers. How can I correct this?",
+      "generated": "I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I was charged $1 in a transaction.",
+      "generated": "I was unexpectedly billed an additional amount in a recent transaction."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I tried using my card at multiple vendors and now it's not working.",
+      "generated": "I've attempted to use my card at various merchants, but it's no longer functioning properly."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need to order a new card.",
+      "generated": "I'd like to request a new physical card."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you check if my money has reached my account since it is not showing up yet?",
+      "generated": "Can you investigate why my account balance is not reflecting the recent bank transfer I made, as it's not updating yet?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "What locations can I get money from?",
+      "generated": "Where can I withdraw cash from an ATM or a bank branch?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card was not accepted in a shop",
+      "generated": "The payment made with my card was declined at a retail store."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?",
+      "generated": "The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can I exchange my money for EUR?",
+      "generated": "Can I convert my funds to euros?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "There is a fee from a transfer that is not supposed to be here!",
+      "generated": "A surprise fee has appeared on a transfer that shouldn't have had one."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I did a bank transfer to top up, but the money is not available.",
+      "generated": "I attempted to make a transfer to add funds, but the funds are still unavailable."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "Questionable transactions on my account.",
+      "generated": "Suspicious activity detected on my account."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I hate this ATM, it charged me an extra fee, Why did it charge?",
+      "generated": "I'm really frustrated with this ATM, it slapped me with an unexpected fee, Can you tell me why it did that?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?",
+      "generated": "Why is my payment being declined? Is there an issue with my account or a problem with the transaction that's causing it to be rejected? What steps can I take to resolve this issue and get my payment processed successfully?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?",
+      "generated": "I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "I can't get a contactless payment to work.",
+      "generated": "I'm having trouble with my contactless payment method."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I did not get the cash that is showing up in my app.",
+      "generated": "The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I have a strange transaction for £1 on my statement, what is that?",
+      "generated": "I'm reviewing my statement and noticed an unusual charge of £1, could you please explain what it's for?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I know there's an auto-top option but I can not locate it when I look?",
+      "generated": "I'm having trouble finding the automatic top-up feature, can you help me locate it?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I need to order a new card as my other one was stolen.",
+      "generated": "I require a replacement card as my previous one has been stolen."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?",
+      "generated": "A recipient informed me that they didn't receive the full transfer I initiated, and it was actually short by a small amount. To rectify the situation, I need to make an additional transfer to cover the shortfall. Could you please investigate this matter and provide an update?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why does it still charge me even though I was unable to withdraw money from the ATM?",
+      "generated": "Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why did a transaction I made charge me $1?",
+      "generated": "I'm wondering why I was charged an additional fee on my recent statement."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I would like to request a card.",
+      "generated": "I'd like to place an order for a physical card."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Can you tell me why I was charged $1 for a transaction?",
+      "generated": "Can you explain the reason behind the additional fee that appeared on my statement?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I just realized I made the wrong transaction yesterday. Would  you please make it correct?I need it by tomorrow Please.",
+      "generated": "I've changed my mind about the transfer I initiated yesterday. Could you please cancel it and correct the mistake? I'd appreciate it if you could take care of it by tomorrow."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Where did the money transfer go?",
+      "generated": "The recipient didn't receive the transferred funds."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done",
+      "generated": "I initiated a transfer, but the recipient only received a reduced amount, which means I need to make an additional transfer to cover the shortfall. Can you assist me with this issue?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I order a new card with the app?",
+      "generated": "Can I request a replacement card before my current one expires?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "A transfer was not allowed to an account.",
+      "generated": "A transfer was prohibited for the recipient's account."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Somebody stole my wallet and is using my card! Can you do something so they can't keep taking my money?",
+      "generated": "My card has been stolen and someone is using it to make unauthorized transactions. Can you help me stop them from accessing my account and withdrawing cash?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I returned an item but don't see it on my account?",
+      "generated": "I sent back a product, but the refund isn't showing up on my statement."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Will you accept my credit card?",
+      "generated": "Do you support credit card payments?"
+    }
+  ]
+}

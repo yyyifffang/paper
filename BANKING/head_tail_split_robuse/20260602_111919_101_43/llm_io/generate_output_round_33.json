@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "How do I reactivate my new credit card?",
+    "Why did my recent transfer fail to process as expected?",
+    "Can I access my physical card information through the mobile app?",
+    "I've double-checked the account number to ensure it's accurate, as I initiated a domestic transfer yesterday. However, the recipient hasn't received the funds yet. Can you investigate this issue for me?",
+    "I'm having trouble entering my passcode, it's not recognizing it.",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution.",
+    "I've recently relocated to the United States and would like to obtain a new card.",
+    "Where can I use my card?",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate.",
+    "Why hasn't my account balance been updated after the recent bank transfer?",
+    "I'm having trouble making a payment with my new card, as it keeps getting declined. I'm quite frustrated with this situation.",
+    "Are you taking advantage of customers with an unfair exchange rate? It's hard to believe it's that bad between financial institutions.",
+    "Is the exchange rate adjusted daily for transactions? I've noticed a discrepancy in the rate applied to my recent purchase.",
+    "I mistakenly initiated a transfer to the wrong account.",
+    "Can you tell me if there are any merchants that don't accept this particular card?",
+    "How many transactions can I make with a disposable card before it's no longer valid?",
+    "The transfer of funds from my account was unsuccessful.",
+    "The exchange rate you're using seems incorrect. It's not the standard interbank rate.",
+    "Why am I unable to add funds to my top-up account?",
+    "Can you guide me on how to exchange currency for Australian dollars instead of British pounds?",
+    "I'm unable to locate the recent card top-up in my digital wallet.",
+    "I'm unable to locate my card top-up transaction in my digital wallet.",
+    "Can you assist me in retrieving the physical card details, including the PIN, as I've misplaced it?",
+    "If I receive a payment from someone in a foreign country, will I be charged a fee?",
+    "I'm surprised to find the exchange rate is so unfavorable and would appreciate it if you could verify the current interbank exchange rate for me.",
+    "I'm having trouble remembering my passcode and would appreciate some help figuring out why it's not accepting my attempts.",
+    "My recent card payment isn't reflected in my wallet balance.",
+    "I'd like to connect my card to my account.",
+    "What steps can I take to activate my card?",
+    "I'm having trouble remembering my passcode and was wondering if you could help me figure out why it's not accepting my attempts.",
+    "I attempted to make a payment using my debit card, but it was unsuccessful.",
+    "Can I reactivate my existing card or do I need to request a new one for use with the app?",
+    "It's been a while since the top-up was replenished.",
+    "We've noticed some transactions on your bank statement that don't match any payments you've made.",
+    "The transfer to the intended recipient was unsuccessful.",
+    "Can I use my card for purchases at any location?"
+  ],
+  "generated_labels": [
+    0,
+    35,
+    38,
+    66,
+    44,
+    17,
+    24,
+    10,
+    17,
+    5,
+    25,
+    17,
+    17,
+    8,
+    10,
+    29,
+    35,
+    17,
+    61,
+    33,
+    62,
+    62,
+    38,
+    31,
+    17,
+    44,
+    62,
+    13,
+    0,
+    44,
+    53,
+    13,
+    47,
+    28,
+    7,
+    10
+  ],
+  "source_texts": [
+    "Tell me how to renew my new card?",
+    "Can you tell my why my funds transfer did not work properly?",
+    "can i go into my app to find my pin",
+    "I've checked multiple times to make sure the account number listed is the right one after attempting to make a transfer within the country the day before yesterday. The transfer is still not available so can you please find out what is going on?",
+    "My passcode is not being accepted",
+    "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+    "I just moved to the US how do I get a card?",
+    "How do I know where I can use my card?",
+    "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+    "Where is the transfer that I did?",
+    "Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.",
+    "Are you ripping people off with the exchange rate?  It can't be that atrocious between banks.",
+    "Does the exchange rate change each day for purchases? There is a different rate on my purchase.",
+    "I submitted a transaction but it was for the incorrect account.",
+    "Are there businesses that don't accept this card?",
+    "Can I do more than 10 transactions with a disposable card?",
+    "I was unable to transfer money from my account.",
+    "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+    "How come I can't put money in my top up account?",
+    "Can you  tell me how to get AUD not GBP?",
+    "I can't see my top up in my wallet!",
+    "I don't see me 'top up' in my wallet",
+    "Help, I don't know what the PIN is to my card?",
+    "If someone in a different country sends me money, do I have to pay a fee?",
+    "Hi, I am disappointed to see such a bad exchange rate and hope you can assist me. Would you be able to confirm the official interbank exchange rate for me?",
+    "I would like to better understand why my pass-code is not working.",
+    "My wallet doesn't show my recent top up.",
+    "I would like to link my card to my account.",
+    "How can i make my card active?",
+    "Can someone please help assist me by explaining to me why my pass-code is not working?",
+    "I tried to use my debit card, but the payment did not work.",
+    "Will I need a new card or can I put my old card back into the app?",
+    "It's been some time since refilled the top-up.",
+    "Purchases I did not make are appearing in my bank statement?",
+    "My account transfer was not cleared.",
+    "Can I pay with my card anywhere?"
+  ],
+  "records": [
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Tell me how to renew my new card?",
+      "generated": "How do I reactivate my new credit card?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Can you tell my why my funds transfer did not work properly?",
+      "generated": "Why did my recent transfer fail to process as expected?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "can i go into my app to find my pin",
+      "generated": "Can I access my physical card information through the mobile app?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I've checked multiple times to make sure the account number listed is the right one after attempting to make a transfer within the country the day before yesterday. The transfer is still not available so can you please find out what is going on?",
+      "generated": "I've double-checked the account number to ensure it's accurate, as I initiated a domestic transfer yesterday. However, the recipient hasn't received the funds yet. Can you investigate this issue for me?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "My passcode is not being accepted",
+      "generated": "I'm having trouble entering my passcode, it's not recognizing it."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I just moved to the US how do I get a card?",
+      "generated": "I've recently relocated to the United States and would like to obtain a new card."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "How do I know where I can use my card?",
+      "generated": "Where can I use my card?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Where is the transfer that I did?",
+      "generated": "Why hasn't my account balance been updated after the recent bank transfer?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.",
+      "generated": "I'm having trouble making a payment with my new card, as it keeps getting declined. I'm quite frustrated with this situation."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Are you ripping people off with the exchange rate?  It can't be that atrocious between banks.",
+      "generated": "Are you taking advantage of customers with an unfair exchange rate? It's hard to believe it's that bad between financial institutions."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the exchange rate change each day for purchases? There is a different rate on my purchase.",
+      "generated": "Is the exchange rate adjusted daily for transactions? I've noticed a discrepancy in the rate applied to my recent purchase."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I submitted a transaction but it was for the incorrect account.",
+      "generated": "I mistakenly initiated a transfer to the wrong account."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Are there businesses that don't accept this card?",
+      "generated": "Can you tell me if there are any merchants that don't accept this particular card?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Can I do more than 10 transactions with a disposable card?",
+      "generated": "How many transactions can I make with a disposable card before it's no longer valid?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I was unable to transfer money from my account.",
+      "generated": "The transfer of funds from my account was unsuccessful."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems incorrect. It's not the standard interbank rate."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "How come I can't put money in my top up account?",
+      "generated": "Why am I unable to add funds to my top-up account?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can you  tell me how to get AUD not GBP?",
+      "generated": "Can you guide me on how to exchange currency for Australian dollars instead of British pounds?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I can't see my top up in my wallet!",
+      "generated": "I'm unable to locate the recent card top-up in my digital wallet."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I don't see me 'top up' in my wallet",
+      "generated": "I'm unable to locate my card top-up transaction in my digital wallet."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Help, I don't know what the PIN is to my card?",
+      "generated": "Can you assist me in retrieving the physical card details, including the PIN, as I've misplaced it?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "If someone in a different country sends me money, do I have to pay a fee?",
+      "generated": "If I receive a payment from someone in a foreign country, will I be charged a fee?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Hi, I am disappointed to see such a bad exchange rate and hope you can assist me. Would you be able to confirm the official interbank exchange rate for me?",
+      "generated": "I'm surprised to find the exchange rate is so unfavorable and would appreciate it if you could verify the current interbank exchange rate for me."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I would like to better understand why my pass-code is not working.",
+      "generated": "I'm having trouble remembering my passcode and would appreciate some help figuring out why it's not accepting my attempts."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My wallet doesn't show my recent top up.",
+      "generated": "My recent card payment isn't reflected in my wallet balance."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I would like to link my card to my account.",
+      "generated": "I'd like to connect my card to my account."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can i make my card active?",
+      "generated": "What steps can I take to activate my card?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Can someone please help assist me by explaining to me why my pass-code is not working?",
+      "generated": "I'm having trouble remembering my passcode and was wondering if you could help me figure out why it's not accepting my attempts."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to use my debit card, but the payment did not work.",
+      "generated": "I attempted to make a payment using my debit card, but it was unsuccessful."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Will I need a new card or can I put my old card back into the app?",
+      "generated": "Can I reactivate my existing card or do I need to request a new one for use with the app?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "It's been some time since refilled the top-up.",
+      "generated": "It's been a while since the top-up was replenished."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Purchases I did not make are appearing in my bank statement?",
+      "generated": "We've noticed some transactions on your bank statement that don't match any payments you've made."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "My account transfer was not cleared.",
+      "generated": "The transfer to the intended recipient was unsuccessful."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I pay with my card anywhere?",
+      "generated": "Can I use my card for purchases at any location?"
+    }
+  ]
+}

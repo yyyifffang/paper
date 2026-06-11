@@ -1,0 +1,298 @@
+{
+  "generated_texts": [
+    "Can I use multiple fiat currencies for transactions?",
+    "What's the current exchange rate for my money?",
+    "Can I get some information on the availability of the Euro currency for my transaction?",
+    "I was expecting a larger amount, but I only received $20.00.",
+    "We accept transactions in various currencies.",
+    "Hi, I'm getting a few \"decline\" notifications regarding my card. Is everything okay with my account?",
+    "We'd be happy to help you learn more about the fiat currencies we accept and support.",
+    "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app.",
+    "What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?",
+    "What types of currencies do you support?",
+    "I was expecting to receive the full amount of $100, but instead, I only got $20.",
+    "Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined.",
+    "How can I receive my salary payment through this channel?",
+    "Can I receive payment through this system?",
+    "I'm curious about the list of accepted fiat currencies your institution supports.",
+    "The machine gave me a hundred dollars, but I was expecting twenty.",
+    "What countries do you operate in?",
+    "What is the additional charge on my statement for?",
+    "Why was the exchange rate used for my cash withdrawal so inaccurate?",
+    "What types of fiat currencies do you support?",
+    "When I went to withdraw $100, the machine only dispensed $20.",
+    "This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?",
+    "WHY IS MY CARD NOT FUNCTIONING?",
+    "We support a range of fiat currencies for your transactions.",
+    "Are you able to assist with transactions involving the Euro currency?",
+    "My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars.",
+    "What types of fiat currencies do you support in your transactions?",
+    "What fees are associated with exchanging currencies?",
+    "I was looking forward to a night out with friends, but unfortunately, my cash withdrawal request was declined, and I'm not sure why.",
+    "We're showing a direct debit payment on your statement that we can't identify.",
+    "How do I obtain a virtual card, and what is its purpose?",
+    "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?"
+  ],
+  "generated_labels": [
+    36,
+    32,
+    36,
+    75,
+    54,
+    25,
+    36,
+    33,
+    19,
+    54,
+    75,
+    26,
+    50,
+    50,
+    36,
+    75,
+    24,
+    34,
+    76,
+    36,
+    75,
+    26,
+    14,
+    36,
+    36,
+    33,
+    36,
+    31,
+    26,
+    28,
+    40,
+    27
+  ],
+  "source_texts": [
+    "are multiple currencies acceptable?",
+    "What value can I get for my currency?",
+    "Do you have EUR currency available for me?",
+    "why did i only get 20.00",
+    "Which currencies do you work with?",
+    "Hi, is everything in good standing with my card? I am receiving multiple \"decline\" messages.",
+    "I need assistance with understanding which fiat currencies that you support.",
+    "I am from X but am traveling to Y - how do I get currency for Y?",
+    "How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month.",
+    "Which currencies do you handle?",
+    "how come when i asked for 100 it only gave me 20.00 in the app",
+    "Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",
+    "What do I need to do to get my salary through this?",
+    "Can i get payed through this system?",
+    "I would like to know which fiat currencies are recognized by your organization.",
+    "The machine only paid me a hundred when I wanted 20",
+    "Where are you present globally?",
+    "What is the extra €1 on my statement for?",
+    "Why did you give me so little currency?",
+    "what currencies do you accept?",
+    "When I went to $100, all the machine would give me was $20.",
+    "This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined.",
+    "WHAT IS THE REASON FOR THAT",
+    "What currencies do you offer?",
+    "Do you deal with EUR?",
+    "My plans may change so I may need to change from GBP to AUD.",
+    "Could you tell me the fiat currencies that you work with?",
+    "What kind of costs are involved for exchanging currency?",
+    "i needed money for a night out with the girls but i was declined, why?",
+    "What is this direct debit in my statement?",
+    "what is a virtual and how do i get one",
+    "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?"
+  ],
+  "records": [
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "are multiple currencies acceptable?",
+      "generated": "Can I use multiple fiat currencies for transactions?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What value can I get for my currency?",
+      "generated": "What's the current exchange rate for my money?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you have EUR currency available for me?",
+      "generated": "Can I get some information on the availability of the Euro currency for my transaction?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "why did i only get 20.00",
+      "generated": "I was expecting a larger amount, but I only received $20.00."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Which currencies do you work with?",
+      "generated": "We accept transactions in various currencies."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Hi, is everything in good standing with my card? I am receiving multiple \"decline\" messages.",
+      "generated": "Hi, I'm getting a few \"decline\" notifications regarding my card. Is everything okay with my account?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "I need assistance with understanding which fiat currencies that you support.",
+      "generated": "We'd be happy to help you learn more about the fiat currencies we accept and support."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I am from X but am traveling to Y - how do I get currency for Y?",
+      "generated": "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much money can I withdraw before fees? I noticed a fee on my card but I didn't think I had hit the limit of how much I could withdraw in a month.",
+      "generated": "What's the maximum amount I can withdraw without incurring a fee, and how do I know if I've reached that limit?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Which currencies do you handle?",
+      "generated": "What types of currencies do you support?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "how come when i asked for 100 it only gave me 20.00 in the app",
+      "generated": "I was expecting to receive the full amount of $100, but instead, I only got $20."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",
+      "generated": "Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What do I need to do to get my salary through this?",
+      "generated": "How can I receive my salary payment through this channel?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can i get payed through this system?",
+      "generated": "Can I receive payment through this system?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "I would like to know which fiat currencies are recognized by your organization.",
+      "generated": "I'm curious about the list of accepted fiat currencies your institution supports."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "The machine only paid me a hundred when I wanted 20",
+      "generated": "The machine gave me a hundred dollars, but I was expecting twenty."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Where are you present globally?",
+      "generated": "What countries do you operate in?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What is the extra €1 on my statement for?",
+      "generated": "What is the additional charge on my statement for?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why did you give me so little currency?",
+      "generated": "Why was the exchange rate used for my cash withdrawal so inaccurate?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "what currencies do you accept?",
+      "generated": "What types of fiat currencies do you support?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "When I went to $100, all the machine would give me was $20.",
+      "generated": "When I went to withdraw $100, the machine only dispensed $20."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined.",
+      "generated": "This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "WHAT IS THE REASON FOR THAT",
+      "generated": "WHY IS MY CARD NOT FUNCTIONING?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What currencies do you offer?",
+      "generated": "We support a range of fiat currencies for your transactions."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you deal with EUR?",
+      "generated": "Are you able to assist with transactions involving the Euro currency?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "My plans may change so I may need to change from GBP to AUD.",
+      "generated": "My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Could you tell me the fiat currencies that you work with?",
+      "generated": "What types of fiat currencies do you support in your transactions?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "What kind of costs are involved for exchanging currency?",
+      "generated": "What fees are associated with exchanging currencies?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "i needed money for a night out with the girls but i was declined, why?",
+      "generated": "I was looking forward to a night out with friends, but unfortunately, my cash withdrawal request was declined, and I'm not sure why."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "What is this direct debit in my statement?",
+      "generated": "We're showing a direct debit payment on your statement that we can't identify."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "what is a virtual and how do i get one",
+      "generated": "How do I obtain a virtual card, and what is its purpose?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",
+      "generated": "Hi, I've been experiencing issues with my credit card being declined, both yesterday evening and this morning when I tried to make a purchase. Could you please let me know the current status of my card?"
+    }
+  ]
+}

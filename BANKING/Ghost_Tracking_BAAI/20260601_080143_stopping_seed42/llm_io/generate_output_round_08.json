@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I'd like to inquire about the possibility of expedited shipping for my card delivery.",
+    "Can I know the spending limit on my disposable card?",
+    "My recent top-up reversal has just occurred, and it's only been a few weeks since it happened.",
+    "I have a transfer that's currently pending and I'd like some information about it.",
+    "How can I add funds to my account using my credit card?",
+    "When will a recent purchase be marked as complete and no longer pending?",
+    "Unfortunately, I was unable to withdraw cash from my account.",
+    "why was a fee charged on my transfer?",
+    "Hi, I need immediate assistance. Someone has made an unauthorized cash withdrawal using my card in a distant location, and I didn't authorize it. Please, can you freeze my card as soon as possible?",
+    "I'd like to increase the available balance on my card, could you guide me on how to do that?",
+    "How can I utilize the automatic top-up feature?",
+    "My top-up request is still pending.",
+    "How do you ensure my security when using a disposable virtual card for daily transactions?",
+    "I'm having trouble using my card to top up because the funds I loaded onto it are no longer available.",
+    "I've received a new email address.",
+    "Are there any fees associated with withdrawing cash?",
+    "I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!",
+    "How do I initiate an exchange?",
+    "How can I use my credit card to add funds to my account?",
+    "You can replenish your card balance by depositing cash or cheque.",
+    "I'm certain I have sufficient funds, yet the merchant refused to accept my payment method.",
+    "I require additional physical debit/credit cards to have a sufficient supply.",
+    "What's the process for converting currencies?",
+    "How can I arrange for automatic top-ups to my card while I'm abroad?",
+    "How can I use my credit card to make a payment or add funds to my account?",
+    "How can I charge my card without incurring any fees?",
+    "We couldn't find a direct debit payment arrangement in your account.",
+    "I've been waiting for an eternity for my online order to arrive, but it's nowhere to be found. I'd like to request a refund as I'm not willing to continue holding onto my payment.",
+    "I am expecting a payment to be cleared",
+    "Reasons for reversal of top-up transaction.",
+    "Can I get a new debit card without any additional charges?",
+    "Can you assist me in generating multiple temporary cards daily?",
+    "I attempted to withdraw cash from an ATM in the city centre earlier, but the machine refused my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?",
+    "Can I move funds to my card through a bank transfer?",
+    "I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount.",
+    "Confirming the top-up process appears to be a bit of a chore."
+  ],
+  "generated_labels": [
+    12,
+    29,
+    61,
+    48,
+    62,
+    45,
+    26,
+    64,
+    20,
+    60,
+    4,
+    47,
+    37,
+    62,
+    30,
+    19,
+    20,
+    32,
+    62,
+    58,
+    25,
+    39,
+    32,
+    4,
+    62,
+    57,
+    28,
+    52,
+    45,
+    61,
+    39,
+    29,
+    46,
+    65,
+    75,
+    71
+  ],
+  "source_texts": [
+    "i need to add express delivery if that's an option",
+    "On my disposable card, is there a transaction limit?",
+    "It's only been a few weeks my my top-up got cancelled",
+    "I have a trasnger that is pending and wondered about it.",
+    "What steps do I do to transfer money using my credit card?",
+    "How long does it take for a new purchase to stop being considered pending?",
+    "When I tried to access my cash, I wasn't allowed!",
+    "why was i chargged",
+    "Hi, It's urgent, please freeze my card. As someone has withdrawn money using my card in odd remote town. Since i have not done this withdrawal. Do it fast.",
+    "I need to add a serious amount of cash to my card, how do I do that?",
+    "How can I Use thereto-top option?",
+    "My top is still pending.",
+    "What systems do you have in place for my security when using my card for everyday purchases?",
+    "I wasn't able to use my top up card because the money I put on there wasn't there anymore",
+    "I have a new email.",
+    "Is there a charge for getting cash?",
+    "Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP!",
+    "What's the process for exchanges?",
+    "What do I need to do to transfer money with my credit card?",
+    "How can I add physical money to my card?",
+    "I'm sure I have enough money so why didn't the store accept my card?",
+    "I need more physical cards than I have right now!",
+    "How do you do exchanges?",
+    "How do I get refills to my card when I'm traveling?",
+    "Hoe do i use my credit card to transfer money?",
+    "Where can i top my card for free?",
+    "I didn't set up the direct debit I have",
+    "It has been forever ago that I made an order online. The product simply is not coming. Just give me back my money because I'm not paying these people.",
+    "I am waiting for a payment to be processed",
+    "Reasons for top up cancellation.",
+    "Is a new debit card free?",
+    "Help me create several temp cards every day.",
+    "I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!",
+    "Can I transfer money to my card via bank-transfer?",
+    "Why can't I take $100 out",
+    "Verifying the top-up seems like a hassle."
+  ],
+  "records": [
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "i need to add express delivery if that's an option",
+      "generated": "I'd like to inquire about the possibility of expedited shipping for my card delivery."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "On my disposable card, is there a transaction limit?",
+      "generated": "Can I know the spending limit on my disposable card?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "It's only been a few weeks my my top-up got cancelled",
+      "generated": "My recent top-up reversal has just occurred, and it's only been a few weeks since it happened."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have a trasnger that is pending and wondered about it.",
+      "generated": "I have a transfer that's currently pending and I'd like some information about it."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What steps do I do to transfer money using my credit card?",
+      "generated": "How can I add funds to my account using my credit card?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it take for a new purchase to stop being considered pending?",
+      "generated": "When will a recent purchase be marked as complete and no longer pending?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "When I tried to access my cash, I wasn't allowed!",
+      "generated": "Unfortunately, I was unable to withdraw cash from my account."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "why was i chargged",
+      "generated": "why was a fee charged on my transfer?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Hi, It's urgent, please freeze my card. As someone has withdrawn money using my card in odd remote town. Since i have not done this withdrawal. Do it fast.",
+      "generated": "Hi, I need immediate assistance. Someone has made an unauthorized cash withdrawal using my card in a distant location, and I didn't authorize it. Please, can you freeze my card as soon as possible?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "I need to add a serious amount of cash to my card, how do I do that?",
+      "generated": "I'd like to increase the available balance on my card, could you guide me on how to do that?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How can I Use thereto-top option?",
+      "generated": "How can I utilize the automatic top-up feature?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "My top is still pending.",
+      "generated": "My top-up request is still pending."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "What systems do you have in place for my security when using my card for everyday purchases?",
+      "generated": "How do you ensure my security when using a disposable virtual card for daily transactions?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I wasn't able to use my top up card because the money I put on there wasn't there anymore",
+      "generated": "I'm having trouble using my card to top up because the funds I loaded onto it are no longer available."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I have a new email.",
+      "generated": "I've received a new email address."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Is there a charge for getting cash?",
+      "generated": "Are there any fees associated with withdrawing cash?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP!",
+      "generated": "I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What's the process for exchanges?",
+      "generated": "How do I initiate an exchange?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What do I need to do to transfer money with my credit card?",
+      "generated": "How can I use my credit card to add funds to my account?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How can I add physical money to my card?",
+      "generated": "You can replenish your card balance by depositing cash or cheque."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I'm sure I have enough money so why didn't the store accept my card?",
+      "generated": "I'm certain I have sufficient funds, yet the merchant refused to accept my payment method."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I need more physical cards than I have right now!",
+      "generated": "I require additional physical debit/credit cards to have a sufficient supply."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "How do you do exchanges?",
+      "generated": "What's the process for converting currencies?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How do I get refills to my card when I'm traveling?",
+      "generated": "How can I arrange for automatic top-ups to my card while I'm abroad?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Hoe do i use my credit card to transfer money?",
+      "generated": "How can I use my credit card to make a payment or add funds to my account?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Where can i top my card for free?",
+      "generated": "How can I charge my card without incurring any fees?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I didn't set up the direct debit I have",
+      "generated": "We couldn't find a direct debit payment arrangement in your account."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "It has been forever ago that I made an order online. The product simply is not coming. Just give me back my money because I'm not paying these people.",
+      "generated": "I've been waiting for an eternity for my online order to arrive, but it's nowhere to be found. I'd like to request a refund as I'm not willing to continue holding onto my payment."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I am waiting for a payment to be processed",
+      "generated": "I am expecting a payment to be cleared"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Reasons for top up cancellation.",
+      "generated": "Reasons for reversal of top-up transaction."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Is a new debit card free?",
+      "generated": "Can I get a new debit card without any additional charges?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Help me create several temp cards every day.",
+      "generated": "Can you assist me in generating multiple temporary cards daily?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!",
+      "generated": "I attempted to withdraw cash from an ATM in the city centre earlier, but the machine refused my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can I transfer money to my card via bank-transfer?",
+      "generated": "Can I move funds to my card through a bank transfer?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Why can't I take $100 out",
+      "generated": "I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Verifying the top-up seems like a hassle.",
+      "generated": "Confirming the top-up process appears to be a bit of a chore."
+    }
+  ]
+}

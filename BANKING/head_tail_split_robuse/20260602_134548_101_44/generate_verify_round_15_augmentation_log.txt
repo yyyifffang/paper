@@ -1,0 +1,77 @@
+GEN | [edit_personal_details] | Orig: details need to be modified -> Aug: information needs to be updated
+GEN | [topping_up_by_card] | Orig: My card needs to be topped up. -> Aug: My card requires a recharge.
+GEN | [getting_virtual_card] | Orig: And do you have virtual cards instead of physical ones? -> Aug: Are there any digital cards available instead of traditional physical cards?
+GEN | [order_physical_card] | Orig: Where do you export the cards to? -> Aug: How do you receive your physical credit cards?
+GEN | [pin_blocked] | Orig: What should I do if I exceed my PIN tries? -> Aug: What should I do if I reach the maximum number of PIN attempts allowed?
+GEN | [lost_or_stolen_card] | Orig: A fee shouldn't apply to me if my card was stolen. -> Aug: I shouldn't be charged a fee if my credit card was stolen.
+GEN | [card_delivery_estimate] | Orig: Can I have it by a certain date? -> Aug: Can you provide an estimated delivery date for the card?
+GEN | [why_verify_identity] | Orig: Can i make transactions before identity verification? -> Aug: Can I initiate transactions before completing the identity verification process?
+GEN | [card_acceptance] | Orig: Where do I pay with my debit or credit card? -> Aug: How can I use my debit or credit card for payment?
+GEN | [order_physical_card] | Orig: Do physical cards cost money? -> Aug: Are physical cards a fee-based service?
+GEN | [topping_up_by_card] | Orig: can other people use the app to add money to my account -> Aug: can I allow others to use the app to deposit funds into my account using their card?
+GEN | [card_payment_fee_charged] | Orig: I had to pay money for paying with my card. -> Aug: I was charged a fee for using my card to make the payment.
+GEN | [card_payment_wrong_exchange_rate] | Orig: It seems that the rate I got is incorrect. -> Aug: The exchange rate applied to my card payment appears to be inaccurate.
+GEN | [passcode_forgotten] | Orig: I don't know the code for the app. -> Aug: I've forgotten the passcode for the mobile banking app.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Is there a charge for getting my money? -> Aug: Are there any fees associated with transferring funds to my account?
+GEN | [supported_cards_and_currencies] | Orig: How can I get funds into my account from my American Express? -> Aug: What methods are available for depositing funds into my account using my American Express card?
+GEN | [disposable_card_limits] | Orig: I need several cards per day. And I need to be able to throw away all of the cards I make. -> Aug: I require a large quantity of disposable cards daily, and I'd like the ability to discard them as needed.
+GEN | [order_physical_card] | Orig: What does the bank charge for lost or stolen card replacements? -> Aug: How much does the bank charge for issuing a new physical card if my original one is lost or stolen?
+GEN | [top_up_by_card_charge] | Orig: I topped off my card is that something you will charge me for? -> Aug: I'm wondering if there's a fee associated with adding funds to my card?
+GEN | [passcode_forgotten] | Orig: I need a new login code -> Aug: I've forgotten my passcode and need a new one
+GEN | [topping_up_by_card] | Orig: Who can have access to top up my account? -> Aug: Who is eligible to make a card-based account top-up for me?
+GEN | [card_acceptance] | Orig: Can I pay online with my card? -> Aug: Is it possible to make an online payment using my credit/debit card?
+GEN | [card_delivery_estimate] | Orig: i need to expedite my card -> Aug: I'd like to request an expedited delivery for my card.
+GEN | [verify_top_up] | Orig: How do i secure a top-up card? -> Aug: How can I confirm the details of my top-up card?
+GEN | [card_payment_fee_charged] | Orig: Is there an allowance on cards? -> Aug: Are there any exceptions or waivers for card payment fees?
+GEN | [top_up_by_cash_or_cheque] | Orig: I need a hand here, I need to top up cash. -> Aug: I require assistance with topping up my account using cash.
+GEN | [topping_up_by_card] | Orig: My friends would like to add to my account. What is the procedure? -> Aug: How can I add funds to my account using my card?
+GEN | [edit_personal_details] | Orig: how do i get into my account and edit my details -> Aug: what steps do i need to take to access my account and modify my personal information?
+GEN | [compromised_card] | Orig: What can I do if my card details where stolen from my car? I think they used my card to buy gas. -> Aug: What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.
+GEN | [card_linking] | Orig: What do I do if I already had a card with you guys? -> Aug: What should I do if I already have an existing card linked with your bank?
+GEN | [apple_pay_or_google_pay] | Orig: my google pay seems to be acting up. -> Aug: my apple pay is malfunctioning
+GEN | [passcode_forgotten] | Orig: I can't find my code -> Aug: I've misplaced my passcode
+GEN | [edit_personal_details] | Orig: I need to update my demographics. -> Aug: I'd like to modify my personal information.
+GEN | [transaction_charged_twice] | Orig: I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back? -> Aug: I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge.
+GEN | [direct_debit_payment_not_recognised] | Orig: hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent. -> Aug: I'm concerned that someone has compromised my card information, as I've noticed an unauthorized transaction on my app from a location that's not near my usual shopping spots. I'm counting on getting that refund to cover my rent payment.
+GEN | [compromised_card] | Orig: I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more? -> Aug: I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?
+GEN | [card_delivery_estimate] | Orig: I need my card as quick as possible -> Aug: I'd like to receive my card as soon as possible.
+GEN | [topping_up_by_card] | Orig: Can somebody else top up my account? -> Aug: Can someone else add funds to my account using my card?
+VAL | [edit_personal_details] | ACCEPT | Reason: Both phrases indicate a need to change or correct personal information in a banking context. | Original: details need to be modified | Augmented: information needs to be updated
+VAL | [topping_up_by_card] | ACCEPT | Reason: ... | Original: My card needs to be topped up. | Augmented: My card requires a recharge.
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: And do you have virtual cards instead of physical ones? | Augmented: Are there any digital cards available instead of traditional physical cards?
+VAL | [order_physical_card] | UNKNOWN | Reason: N/A | Original: Where do you export the cards to? | Augmented: How do you receive your physical credit cards?
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: What should I do if I exceed my PIN tries? | Augmented: What should I do if I reach the maximum number of PIN attempts allowed?
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: ... | Original: A fee shouldn't apply to me if my card was stolen. | Augmented: I shouldn't be charged a fee if my credit card was stolen.
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: Can I have it by a certain date? | Augmented: Can you provide an estimated delivery date for the card?
+VAL | [why_verify_identity] | ACCEPT | Reason: ... | Original: Can i make transactions before identity verification? | Augmented: Can I initiate transactions before completing the identity verification process?
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Where do I pay with my debit or credit card? | Augmented: How can I use my debit or credit card for payment?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: Do physical cards cost money? | Augmented: Are physical cards a fee-based service?
+VAL | [topping_up_by_card] | UNKNOWN | Reason: N/A | Original: can other people use the app to add money to my account | Augmented: can I allow others to use the app to deposit funds into my account using their card?
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: ... | Original: I had to pay money for paying with my card. | Augmented: I was charged a fee for using my card to make the payment.
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: ... | Original: It seems that the rate I got is incorrect. | Augmented: The exchange rate applied to my card payment appears to be inaccurate.
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I don't know the code for the app. | Augmented: I've forgotten the passcode for the mobile banking app.
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: Is there a charge for getting my money? | Augmented: Are there any fees associated with transferring funds to my account?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: How can I get funds into my account from my American Express? | Augmented: What methods are available for depositing funds into my account using my American Express card?
+VAL | [disposable_card_limits] | ACCEPT | Reason: N/A | Original: I need several cards per day. And I need to be able to throw away all of the cards I make. | Augmented: I require a large quantity of disposable cards daily, and I'd like the ability to discard them as needed.
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: What does the bank charge for lost or stolen card replacements? | Augmented: How much does the bank charge for issuing a new physical card if my original one is lost or stolen?
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: I topped off my card is that something you will charge me for? | Augmented: I'm wondering if there's a fee associated with adding funds to my card?
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I need a new login code | Augmented: I've forgotten my passcode and need a new one
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: Who can have access to top up my account? | Augmented: Who is eligible to make a card-based account top-up for me?
+VAL | [card_acceptance] | ACCEPT | Reason: N/A | Original: Can I pay online with my card? | Augmented: Is it possible to make an online payment using my credit/debit card?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: i need to expedite my card | Augmented: I'd like to request an expedited delivery for my card.
+VAL | [verify_top_up] | REVIEW | Reason: N/A | Original: How do i secure a top-up card? | Augmented: How can I confirm the details of my top-up card?
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: N/A | Original: Is there an allowance on cards? | Augmented: Are there any exceptions or waivers for card payment fees?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: I need a hand here, I need to top up cash. | Augmented: I require assistance with topping up my account using cash.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: My friends would like to add to my account. What is the procedure? | Augmented: How can I add funds to my account using my card?
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: how do i get into my account and edit my details | Augmented: what steps do i need to take to access my account and modify my personal information?
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: What can I do if my card details where stolen from my car? I think they used my card to buy gas. | Augmented: What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.
+VAL | [card_linking] | ACCEPT | Reason: ... | Original: What do I do if I already had a card with you guys? | Augmented: What should I do if I already have an existing card linked with your bank?
+VAL | [apple_pay_or_google_pay] | UNKNOWN | Reason: N/A | Original: my google pay seems to be acting up. | Augmented: my apple pay is malfunctioning
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I can't find my code | Augmented: I've misplaced my passcode
+VAL | [edit_personal_details] | ACCEPT | Reason: N/A | Original: I need to update my demographics. | Augmented: I'd like to modify my personal information.
+VAL | [transaction_charged_twice] | ACCEPT | Reason: ... | Original: I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back? | Augmented: I accidentally used a duplicate credit card to make a purchase, and it was reflected on my account twice. I've since cancelled the card, but I'd like to know how to recover the extra charge.
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: N/A | Original: hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent. | Augmented: I'm concerned that someone has compromised my card information, as I've noticed an unauthorized transaction on my app from a location that's not near my usual shopping spots. I'm counting on getting that refund to cover my rent payment.
+VAL | [compromised_card] | ACCEPT | Reason: ... | Original: I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more? | Augmented: I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: I need my card as quick as possible | Augmented: I'd like to receive my card as soon as possible.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: Can somebody else top up my account? | Augmented: Can someone else add funds to my account using my card?
+VAL_SUMMARY | ACCEPT: 34 | REVIEW: 1 | REJECT: 0 | UNKNOWN: 3 | Accept Rate: 0.8947

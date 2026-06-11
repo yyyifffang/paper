@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "What is the exchange charge for accepting an international transfer?",
+    "I'm attempting to make a payment to my new landlord, but it seems the transfer hasn't been received by them despite being sent a few days ago. Can you confirm that the payment has been processed successfully?",
+    "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account.",
+    "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system.",
+    "Can the top-up limit be increased without any restrictions?",
+    "Can I use my credit card to add funds to my account?",
+    "Why hasn't my account balance been updated after a cash deposit? It's been a few days now.",
+    "Are U.S. citizens eligible to use this card?",
+    "How do the rules work for increasing my credit limit?",
+    "How do you handle physical card delivery?",
+    "I authorized a payment using my card, but the status remains pending. Can you tell me when I can expect it to be processed?",
+    "I'd like to cancel a recent purchase and obtain a refund. Could you assist me in reversing the transaction so I can retrieve the funds? It's crucial that I get the refund as soon as possible.",
+    "Can I recover my passcode if I've forgotten it?",
+    "Why hasn't my account balance been updated after a recent cheque or cash deposit? I've been waiting for an extended period and would like to know when I can expect the funds to reflect in my account.",
+    "Why hasn't the transfer to my account been reflected in my balance?",
+    "Can I create individual accounts for my children?",
+    "What happens if I make a cash deposit or deposit a cheque by mistake?",
+    "We're having trouble verifying a payment made at a store I didn't visit.",
+    "Why hasn't my top-up been processed yet?",
+    "I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?",
+    "If my identity verification process hasn't been completed, can I still access my account?",
+    "We accept a range of cards and currencies for transactions.",
+    "I'm concerned about the status of my recent payment. Can you please let me know when I can expect it to be processed?",
+    "You can top up your account using either cash or cheque.",
+    "I made a transfer to my family on Friday, but they haven't received it yet.",
+    "I'm puzzled as to why there's a cash withdrawal that I didn't initiate showing up in my account.",
+    "I'm still waiting to receive the cash.",
+    "I'd like to dispute a charge on my statement that was incorrectly applied.",
+    "I'd like to generate a new personal identification number.",
+    "Why hasn't my international transfer from France been reflected in my account yet? I initiated the transfer two days ago, but my balance still hasn't been updated.",
+    "I've forgotten my passcode, could you please reset it for me?",
+    "Where do you typically deliver physical cards to customers?",
+    "The incorrect account was mistakenly used for a transfer.",
+    "I'm having trouble accessing my card with my PIN, can you assist me?"
+  ],
+  "generated_labels": [
+    31,
+    66,
+    34,
+    61,
+    60,
+    62,
+    6,
+    24,
+    60,
+    43,
+    45,
+    52,
+    44,
+    6,
+    5,
+    1,
+    6,
+    16,
+    47,
+    64,
+    74,
+    54,
+    45,
+    58,
+    66,
+    20,
+    75,
+    52,
+    21,
+    5,
+    44,
+    43,
+    8,
+    49
+  ],
+  "source_texts": [
+    "How much do I have to pay to accept an international transfer?",
+    "I'm trying to make a payment to my new landlord. Even though the payment was sent a few days ago, it isn't clearing on their side. Can you verify that payment has been made?",
+    "Why is it showing that my account has been charged a dollar that is showing as pending?",
+    "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+    "Is the top-up amount unlimited?",
+    "Can a credit card be used to transfer money?",
+    "Why is my check still not showing up on my account? It's been a week already",
+    "Is this card available to Americans?",
+    "What are the rules for a top-up?",
+    "Where do you deliver cards to?",
+    "I made a payment with my card and it hasn't changed. How long do you think this will take?",
+    "Hello, I have recently made a purchase and have decided to cancel my purchase. Is there any way that you can cancel that transaction for me so I can get the money back? It's very important.",
+    "Can my password be reset if I do not have it?",
+    "How long do deposits take to appear? I've been waiting for more than a week and need the money!",
+    "Where is the transfer to my account?",
+    "Is it possible for me to set up separate accounts for my kids?",
+    "What happens if I deposit a cheque accidentally?",
+    "I think there's a purchase at a store that I didn't go to.",
+    "Isn't my top-up supposed to mean its complete?",
+    "I got an unexpected charge on my transfers. How can I correct this?",
+    "If my identy verifacation hasn't gone through can I use my account?",
+    "Do you have a list of cards and currencies you support?",
+    "I was wondering how long does it take for a payment to go thru? It seems my last payment is stuck and hasn't moved.",
+    "What types of top-up methods do you accept?",
+    "I sent money to my family last Friday but they don't have it.",
+    "I am confused why there is cash I did not accept in my account",
+    "I haven't received my cash yet.",
+    "My statement has a charge that shouldn't have been made.",
+    "I want to create a new pin.",
+    "Do international transfers take longer?? I made a transfer from France 2 days ago but it's still not there yet...",
+    "I can't remember my app code, can you reset it?",
+    "What are the places that you deliver cards to?",
+    "The wrong account was used during a transaction.",
+    "My PIN can't access my card, can you help?."
+  ],
+  "records": [
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "How much do I have to pay to accept an international transfer?",
+      "generated": "What is the exchange charge for accepting an international transfer?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I'm trying to make a payment to my new landlord. Even though the payment was sent a few days ago, it isn't clearing on their side. Can you verify that payment has been made?",
+      "generated": "I'm attempting to make a payment to my new landlord, but it seems the transfer hasn't been received by them despite being sent a few days ago. Can you confirm that the payment has been processed successfully?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is it showing that my account has been charged a dollar that is showing as pending?",
+      "generated": "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+      "generated": "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is the top-up amount unlimited?",
+      "generated": "Can the top-up limit be increased without any restrictions?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can a credit card be used to transfer money?",
+      "generated": "Can I use my credit card to add funds to my account?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why is my check still not showing up on my account? It's been a week already",
+      "generated": "Why hasn't my account balance been updated after a cash deposit? It's been a few days now."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Is this card available to Americans?",
+      "generated": "Are U.S. citizens eligible to use this card?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What are the rules for a top-up?",
+      "generated": "How do the rules work for increasing my credit limit?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Where do you deliver cards to?",
+      "generated": "How do you handle physical card delivery?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a payment with my card and it hasn't changed. How long do you think this will take?",
+      "generated": "I authorized a payment using my card, but the status remains pending. Can you tell me when I can expect it to be processed?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Hello, I have recently made a purchase and have decided to cancel my purchase. Is there any way that you can cancel that transaction for me so I can get the money back? It's very important.",
+      "generated": "I'd like to cancel a recent purchase and obtain a refund. Could you assist me in reversing the transaction so I can retrieve the funds? It's crucial that I get the refund as soon as possible."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Can my password be reset if I do not have it?",
+      "generated": "Can I recover my passcode if I've forgotten it?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "How long do deposits take to appear? I've been waiting for more than a week and need the money!",
+      "generated": "Why hasn't my account balance been updated after a recent cheque or cash deposit? I've been waiting for an extended period and would like to know when I can expect the funds to reflect in my account."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Where is the transfer to my account?",
+      "generated": "Why hasn't the transfer to my account been reflected in my balance?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Is it possible for me to set up separate accounts for my kids?",
+      "generated": "Can I create individual accounts for my children?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "What happens if I deposit a cheque accidentally?",
+      "generated": "What happens if I make a cash deposit or deposit a cheque by mistake?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I think there's a purchase at a store that I didn't go to.",
+      "generated": "We're having trouble verifying a payment made at a store I didn't visit."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Isn't my top-up supposed to mean its complete?",
+      "generated": "Why hasn't my top-up been processed yet?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I got an unexpected charge on my transfers. How can I correct this?",
+      "generated": "I'm surprised to see an additional fee on my transfer transactions. Can you help me resolve this issue?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "If my identy verifacation hasn't gone through can I use my account?",
+      "generated": "If my identity verification process hasn't been completed, can I still access my account?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do you have a list of cards and currencies you support?",
+      "generated": "We accept a range of cards and currencies for transactions."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I was wondering how long does it take for a payment to go thru? It seems my last payment is stuck and hasn't moved.",
+      "generated": "I'm concerned about the status of my recent payment. Can you please let me know when I can expect it to be processed?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What types of top-up methods do you accept?",
+      "generated": "You can top up your account using either cash or cheque."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I sent money to my family last Friday but they don't have it.",
+      "generated": "I made a transfer to my family on Friday, but they haven't received it yet."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I am confused why there is cash I did not accept in my account",
+      "generated": "I'm puzzled as to why there's a cash withdrawal that I didn't initiate showing up in my account."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I haven't received my cash yet.",
+      "generated": "I'm still waiting to receive the cash."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "My statement has a charge that shouldn't have been made.",
+      "generated": "I'd like to dispute a charge on my statement that was incorrectly applied."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I want to create a new pin.",
+      "generated": "I'd like to generate a new personal identification number."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Do international transfers take longer?? I made a transfer from France 2 days ago but it's still not there yet...",
+      "generated": "Why hasn't my international transfer from France been reflected in my account yet? I initiated the transfer two days ago, but my balance still hasn't been updated."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't remember my app code, can you reset it?",
+      "generated": "I've forgotten my passcode, could you please reset it for me?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What are the places that you deliver cards to?",
+      "generated": "Where do you typically deliver physical cards to customers?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "The wrong account was used during a transaction.",
+      "generated": "The incorrect account was mistakenly used for a transfer."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "My PIN can't access my card, can you help?.",
+      "generated": "I'm having trouble accessing my card with my PIN, can you assist me?"
+    }
+  ]
+}

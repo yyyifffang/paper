@@ -1,0 +1,73 @@
+GEN | [atm_support] | Orig: Can I use my card to withdraw from my account? -> Aug: Can I make a withdrawal from my account using my card?
+GEN | [top_up_by_card_charge] | Orig: is it free to add money to my card -> Aug: is there a charge for topping up my card balance?
+GEN | [supported_cards_and_currencies] | Orig: How can I get funds into my account from my American Express? -> Aug: What methods are available for depositing funds into my account using my American Express card?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Does it cost me to add cash? -> Aug: Is there a fee for topping up my account via bank transfer?
+GEN | [transfer_fee_charged] | Orig: I have a fee listed for a transfer. -> Aug: A charge is showing for a transfer transaction.
+GEN | [top_up_by_card_charge] | Orig: how much does it cost to add money -> Aug: what is the charge for topping up my account using my card?
+GEN | [transfer_fee_charged] | Orig: I bought something online and it says there was a fee to transfer money. Isn't that free? -> Aug: I made an online purchase and noticed that a transfer fee was deducted from the transaction. Shouldn't this be a free service?
+GEN | [topping_up_by_card] | Orig: How do I to up by card? -> Aug: How can I add funds to my account using my card?
+GEN | [passcode_forgotten] | Orig: Please help me.  I don't know my code to get into the app. -> Aug: I'm having trouble remembering my passcode to access the app.
+GEN | [transfer_fee_charged] | Orig: I shouldn't be charged any fee for transferring . -> Aug: I'm surprised to see a fee applied to my transfer.
+GEN | [verify_source_of_funds] | Orig: where can I get the info for my funds -> Aug: Can you please provide me with the source of my funds?
+GEN | [automatic_top_up] | Orig: Can I add money in intervals to my account?  I will be traveling. -> Aug: Can I set up recurring deposits to my account, so I can maintain a steady balance while I'm away on my trip?
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I add physical money to my card? -> Aug: You can replenish your card balance by depositing cash or cheque.
+GEN | [verify_top_up] | Orig: How do i secure a top-up card? -> Aug: How can I confirm the details of my top-up card?
+GEN | [top_up_by_cash_or_cheque] | Orig: how can i add money to my account if you don't accept cash -> Aug: Can I deposit funds into my account if you don't accept cash?
+GEN | [apple_pay_or_google_pay] | Orig: Apple pay is not accepting my American Express card, can you assist me with this problem? -> Aug: Google Pay is not recognizing my American Express card, can you help me resolve this issue?
+GEN | [supported_cards_and_currencies] | Orig: What card or currency can I use to pay? -> Aug: What payment methods or currencies are accepted for transactions?
+GEN | [top_up_by_card_charge] | Orig: Can I get information on topping up? -> Aug: How do I go about charging my card to top up my account?
+GEN | [cash_withdrawal_not_recognised] | Orig: Some cash shows up on my app. -> Aug: There's an unexpected cash withdrawal showing up on my account.
+GEN | [card_acceptance] | Orig: Where do I pay with my card? -> Aug: How can I use my card for payment?
+GEN | [card_linking] | Orig: If I have a credit card with you how I get set up to link to it? -> Aug: If I already have a credit card account with your bank, how do I go about linking it to my profile?
+GEN | [card_acceptance] | Orig: How can I know where my card will be accepted? -> Aug: What areas can I expect to find merchants that accept my card?
+GEN | [top_up_by_cash_or_cheque] | Orig: What are my payment options for topping off my account? -> Aug: You can replenish your account balance using either cash or cheque payment methods.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks. -> Aug: I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?
+GEN | [top_up_by_cash_or_cheque] | Orig: I need a hand here, I need to top up cash. -> Aug: I require assistance with topping up my account using cash.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: How long does a transfer from a UK account take? I just made one and it doesn't seem to be working, wondering if everything is okay -> Aug: I recently initiated a transfer from my UK account, but my account balance hasn't been updated yet. Can you please let me know what's causing the delay?
+GEN | [transfer_into_account] | Orig: show me how to transfer to my account -> Aug: display the process for transferring funds into my account
+GEN | [card_swallowed] | Orig: Please send a new card; the ATM ate mine. -> Aug: Please dispatch a replacement card; I think I've lost the one I had, as it seems to have been swallowed by the ATM.
+GEN | [card_swallowed] | Orig: What should I do with my stuck ATM? -> Aug: What should I do about my jammed ATM card?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Please check to see if the band transfer I made a while ago from my UK account has safely arrived. -> Aug: Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination.
+GEN | [direct_debit_payment_not_recognised] | Orig: Why is there a direct debit set up in my name? -> Aug: We've noticed a direct debit payment that doesn't seem to be recognized in your account records.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I thought I was going to receive more currency? -> Aug: I expected a better exchange rate for my cash withdrawal.
+GEN | [pending_transfer] | Orig: As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far. -> Aug: Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time.
+GEN | [lost_or_stolen_card] | Orig: I lost my wallet and all my cards were in it. -> Aug: I misplaced my wallet, which contained all my credit cards.
+GEN | [card_delivery_estimate] | Orig: I need my card as quick as possible -> Aug: I'd like to receive my card as soon as possible.
+GEN | [top_up_limits] | Orig: Is there any amount in which I would get cut off from topping up? -> Aug: Is there a specific limit beyond which I would no longer be able to increase my limits by topping up?
+VAL | [atm_support] | ACCEPT | Reason: ... | Original: Can I use my card to withdraw from my account? | Augmented: Can I make a withdrawal from my account using my card?
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: is it free to add money to my card | Augmented: is there a charge for topping up my card balance?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: How can I get funds into my account from my American Express? | Augmented: What methods are available for depositing funds into my account using my American Express card?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: Does it cost me to add cash? | Augmented: Is there a fee for topping up my account via bank transfer?
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: I have a fee listed for a transfer. | Augmented: A charge is showing for a transfer transaction.
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: N/A | Original: how much does it cost to add money | Augmented: what is the charge for topping up my account using my card?
+VAL | [transfer_fee_charged] | REVIEW | Reason: ... | Original: I bought something online and it says there was a fee to transfer money. Isn't that free? | Augmented: I made an online purchase and noticed that a transfer fee was deducted from the transaction. Shouldn't this be a free service?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: How do I to up by card? | Augmented: How can I add funds to my account using my card?
+VAL | [passcode_forgotten] | ACCEPT | Reason: ... | Original: Please help me.  I don't know my code to get into the app. | Augmented: I'm having trouble remembering my passcode to access the app.
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: I shouldn't be charged any fee for transferring . | Augmented: I'm surprised to see a fee applied to my transfer.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: where can I get the info for my funds | Augmented: Can you please provide me with the source of my funds?
+VAL | [automatic_top_up] | ACCEPT | Reason: N/A | Original: Can I add money in intervals to my account?  I will be traveling. | Augmented: Can I set up recurring deposits to my account, so I can maintain a steady balance while I'm away on my trip?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: How can I add physical money to my card? | Augmented: You can replenish your card balance by depositing cash or cheque.
+VAL | [verify_top_up] | REVIEW | Reason: N/A | Original: How do i secure a top-up card? | Augmented: How can I confirm the details of my top-up card?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: how can i add money to my account if you don't accept cash | Augmented: Can I deposit funds into my account if you don't accept cash?
+VAL | [apple_pay_or_google_pay] | UNKNOWN | Reason: N/A | Original: Apple pay is not accepting my American Express card, can you assist me with this problem? | Augmented: Google Pay is not recognizing my American Express card, can you help me resolve this issue?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: What card or currency can I use to pay? | Augmented: What payment methods or currencies are accepted for transactions?
+VAL | [top_up_by_card_charge] | ACCEPT | Reason: ... | Original: Can I get information on topping up? | Augmented: How do I go about charging my card to top up my account?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: Some cash shows up on my app. | Augmented: There's an unexpected cash withdrawal showing up on my account.
+VAL | [card_acceptance] | ACCEPT | Reason: N/A | Original: Where do I pay with my card? | Augmented: How can I use my card for payment?
+VAL | [card_linking] | ACCEPT | Reason: ... | Original: If I have a credit card with you how I get set up to link to it? | Augmented: If I already have a credit card account with your bank, how do I go about linking it to my profile?
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: How can I know where my card will be accepted? | Augmented: What areas can I expect to find merchants that accept my card?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: What are my payment options for topping off my account? | Augmented: You can replenish your account balance using either cash or cheque payment methods.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks. | Augmented: I'm planning to initiate a transfer from a UK account, but I'm concerned that my account balance won't be updated immediately. Can you confirm if the transfer will be processed quickly, or will it take an extended period of time?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: I need a hand here, I need to top up cash. | Augmented: I require assistance with topping up my account using cash.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: How long does a transfer from a UK account take? I just made one and it doesn't seem to be working, wondering if everything is okay | Augmented: I recently initiated a transfer from my UK account, but my account balance hasn't been updated yet. Can you please let me know what's causing the delay?
+VAL | [transfer_into_account] | ACCEPT | Reason: ... | Original: show me how to transfer to my account | Augmented: display the process for transferring funds into my account
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: Please send a new card; the ATM ate mine. | Augmented: Please dispatch a replacement card; I think I've lost the one I had, as it seems to have been swallowed by the ATM.
+VAL | [card_swallowed] | ACCEPT | Reason: Both texts refer to the same issue of an ATM card being stuck in the machine, which aligns with the 'card_swallowed' intent. | Original: What should I do with my stuck ATM? | Augmented: What should I do about my jammed ATM card?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: Please check to see if the band transfer I made a while ago from my UK account has safely arrived. | Augmented: Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination.
+VAL | [direct_debit_payment_not_recognised] | UNKNOWN | Reason: N/A | Original: Why is there a direct debit set up in my name? | Augmented: We've noticed a direct debit payment that doesn't seem to be recognized in your account records.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | ACCEPT | Reason: N/A | Original: I thought I was going to receive more currency? | Augmented: I expected a better exchange rate for my cash withdrawal.
+VAL | [pending_transfer] | ACCEPT | Reason: ... | Original: As I double checked that I have the correct account details that i submitted , they're right for sure. Transfer is still pending so far. | Augmented: Upon re-verifying the account information I provided, I'm confident it's accurate. The transfer remains in a pending state at this time.
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: N/A | Original: I lost my wallet and all my cards were in it. | Augmented: I misplaced my wallet, which contained all my credit cards.
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: I need my card as quick as possible | Augmented: I'd like to receive my card as soon as possible.
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: Is there any amount in which I would get cut off from topping up? | Augmented: Is there a specific limit beyond which I would no longer be able to increase my limits by topping up?
+VAL_SUMMARY | ACCEPT: 32 | REVIEW: 2 | REJECT: 0 | UNKNOWN: 2 | Accept Rate: 0.8889

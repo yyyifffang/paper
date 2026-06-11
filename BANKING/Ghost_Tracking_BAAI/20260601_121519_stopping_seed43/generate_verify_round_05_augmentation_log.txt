@@ -1,0 +1,81 @@
+GEN | [verify_my_identity] | Orig: why do I need to show ID -> Aug: what's the purpose of verifying my identity
+GEN | [card_arrival] | Orig: Was there a number to track that I could get? -> Aug: Is there a tracking number I can use to monitor the status of my card arrival?
+GEN | [passcode_forgotten] | Orig: I can't find my code -> Aug: I've misplaced my passcode
+GEN | [why_verify_identity] | Orig: Why do I have to give you my drivers license -> Aug: We're verifying your identity to ensure the security and integrity of your account.
+GEN | [top_up_limits] | Orig: What is the daily limit on my card? -> Aug: What is the daily spending limit on my credit card?
+GEN | [disposable_card_limits] | Orig: On my disposable card, is there a transaction limit? -> Aug: Can I know the spending limit on my disposable card?
+GEN | [card_delivery_estimate] | Orig: Are the delivery days flexible?  My schedule only allows me to be a available on specific dates. -> Aug: Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?
+GEN | [card_payment_fee_charged] | Orig: How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info. -> Aug: Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.
+GEN | [why_verify_identity] | Orig: Why are you asking so many questions about who I am -> Aug: What's the purpose behind all these inquiries about my identity?
+GEN | [disposable_card_limits] | Orig: What is the number of transactions I get with a disposable card? -> Aug: How many transactions can I make with a disposable card?
+GEN | [getting_virtual_card] | Orig: explain the virtual card -> Aug: Describe the virtual card process
+GEN | [card_not_working] | Orig: HOW LONG TO TAKE THE TIME TO SOLVE -> Aug: How long will it take to resolve the issue with my card not working?
+GEN | [get_disposable_virtual_card] | Orig: What is the procedure for depositing a virtual card -> Aug: How do I obtain a disposable virtual card and use it for transactions?
+GEN | [top_up_failed] | Orig: I'm not sure if my pop-up went through. -> Aug: I'm unsure if my top-up was successfully processed.
+GEN | [passcode_forgotten] | Orig: I don't know the code for the app. -> Aug: I've forgotten the passcode for the mobile banking app.
+GEN | [getting_virtual_card] | Orig: And do you have virtual cards instead of physical ones? -> Aug: Are there any digital cards available instead of traditional physical cards?
+GEN | [disposable_card_limits] | Orig: How many payments can I make using a virtual card? -> Aug: What is the maximum number of transactions I can make with a disposable card?
+GEN | [why_verify_identity] | Orig: Why do you need so much id info from me? -> Aug: We're asking for this information to ensure your identity is verified accurately.
+GEN | [lost_or_stolen_phone] | Orig: I don't have my mobile device and am unable to make the payment because I forgot my details. -> Aug: I've misplaced my phone and can't access my account information to make the payment.
+GEN | [card_arrival] | Orig: maximum how many days get the courier? -> Aug: How long does it take for the courier to deliver the card?
+GEN | [card_delivery_estimate] | Orig: can you express my card to me? -> Aug: Can you provide an estimate for the delivery of my card?
+GEN | [card_not_working] | Orig: I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account? -> Aug: I attempted to book a flight online this morning, but my credit card details aren't being accepted. Is there an issue with my account?
+GEN | [why_verify_identity] | Orig: Why do you need my name and ID -> Aug: We're verifying your identity to ensure the security and integrity of your account.
+GEN | [automatic_top_up] | Orig: How low does the balance have to be before the system updates? -> Aug: At what point does the account balance need to reach before the automatic top-up feature kicks in?
+GEN | [direct_debit_payment_not_recognised] | Orig: I don't recognise a Direct Debit payment -> Aug: We're unable to identify a Direct Debit payment in your account records.
+GEN | [verify_top_up] | Orig: I'm being asked for a verification code. Where do I find it? -> Aug: I'm being requested to provide a verification code. Can you please guide me on how to obtain it?
+GEN | [card_payment_not_recognised] | Orig: I didn't do a payment and I have it now. -> Aug: I've missed a payment and I'm providing the payment now.
+GEN | [verify_my_identity] | Orig: why do I have to show my ID -> Aug: Can you please confirm your identity by providing your identification documents?
+GEN | [card_delivery_estimate] | Orig: If I need delivery on a certain day, is that something that could be accommodated? -> Aug: Can you confirm if it's possible to arrange for the card delivery on a specific date?
+GEN | [getting_virtual_card] | Orig: I would love one of the virtual cards! -> Aug: I'd like to obtain a virtual card, please.
+GEN | [visa_or_mastercard] | Orig: Mastercard is preferred to me. -> Aug: I have a preference for Mastercard.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Can you see my new balance yet? -> Aug: Have you checked my account balance recently?
+GEN | [why_verify_identity] | Orig: Why does it matter that I prove my identity? -> Aug: What's the purpose of verifying my identity?
+GEN | [verify_my_identity] | Orig: Can I get information on the identity checks? -> Aug: May I request information about the verification process for your identity?
+GEN | [direct_debit_payment_not_recognised] | Orig: Why is there a direct debit set up in my name? -> Aug: We've noticed a direct debit payment that doesn't seem to be recognized in your account records.
+GEN | [unable_to_verify_identity] | Orig: I am having a problem proving who I am -> Aug: We're having trouble confirming your identity
+GEN | [card_delivery_estimate] | Orig: can the delivery be specific to my needs? -> Aug: Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?
+GEN | [unable_to_verify_identity] | Orig: The app does not believe that I am myself -> Aug: The system is unable to confirm that the information provided matches your identity.
+GEN | [card_delivery_estimate] | Orig: Can I pay more to get it deliver quicker? -> Aug: Is there an option to expedite the delivery of my card for an additional fee?
+GEN | [card_arrival] | Orig: can you share card tracking number? -> Aug: can you provide the tracking number for my card?
+VAL | [verify_my_identity] | REVIEW | Reason: N/A | Original: why do I need to show ID | Augmented: what's the purpose of verifying my identity
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: Was there a number to track that I could get? | Augmented: Is there a tracking number I can use to monitor the status of my card arrival?
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I can't find my code | Augmented: I've misplaced my passcode
+VAL | [why_verify_identity] | UNKNOWN | Reason: N/A | Original: Why do I have to give you my drivers license | Augmented: We're verifying your identity to ensure the security and integrity of your account.
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: What is the daily limit on my card? | Augmented: What is the daily spending limit on my credit card?
+VAL | [disposable_card_limits] | ACCEPT | Reason: ... | Original: On my disposable card, is there a transaction limit? | Augmented: Can I know the spending limit on my disposable card?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: Are the delivery days flexible?  My schedule only allows me to be a available on specific dates. | Augmented: Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?
+VAL | [card_payment_fee_charged] | UNKNOWN | Reason: N/A | Original: How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info. | Augmented: Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.
+VAL | [why_verify_identity] | ACCEPT | Reason: ... | Original: Why are you asking so many questions about who I am | Augmented: What's the purpose behind all these inquiries about my identity?
+VAL | [disposable_card_limits] | ACCEPT | Reason: ... | Original: What is the number of transactions I get with a disposable card? | Augmented: How many transactions can I make with a disposable card?
+VAL | [getting_virtual_card] | ACCEPT | Reason: N/A | Original: explain the virtual card | Augmented: Describe the virtual card process
+VAL | [card_not_working] | ACCEPT | Reason: N/A | Original: HOW LONG TO TAKE THE TIME TO SOLVE | Augmented: How long will it take to resolve the issue with my card not working?
+VAL | [get_disposable_virtual_card] | REVIEW | Reason: N/A | Original: What is the procedure for depositing a virtual card | Augmented: How do I obtain a disposable virtual card and use it for transactions?
+VAL | [top_up_failed] | ACCEPT | Reason: N/A | Original: I'm not sure if my pop-up went through. | Augmented: I'm unsure if my top-up was successfully processed.
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I don't know the code for the app. | Augmented: I've forgotten the passcode for the mobile banking app.
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: And do you have virtual cards instead of physical ones? | Augmented: Are there any digital cards available instead of traditional physical cards?
+VAL | [disposable_card_limits] | ACCEPT | Reason: N/A | Original: How many payments can I make using a virtual card? | Augmented: What is the maximum number of transactions I can make with a disposable card?
+VAL | [why_verify_identity] | ACCEPT | Reason: ... | Original: Why do you need so much id info from me? | Augmented: We're asking for this information to ensure your identity is verified accurately.
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: I don't have my mobile device and am unable to make the payment because I forgot my details. | Augmented: I've misplaced my phone and can't access my account information to make the payment.
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: maximum how many days get the courier? | Augmented: How long does it take for the courier to deliver the card?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: ... | Original: can you express my card to me? | Augmented: Can you provide an estimate for the delivery of my card?
+VAL | [card_not_working] | ACCEPT | Reason: ... | Original: I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account? | Augmented: I attempted to book a flight online this morning, but my credit card details aren't being accepted. Is there an issue with my account?
+VAL | [why_verify_identity] | UNKNOWN | Reason: N/A | Original: Why do you need my name and ID | Augmented: We're verifying your identity to ensure the security and integrity of your account.
+VAL | [automatic_top_up] | ACCEPT | Reason: N/A | Original: How low does the balance have to be before the system updates? | Augmented: At what point does the account balance need to reach before the automatic top-up feature kicks in?
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: The augmented text preserves the same issue of a Direct Debit payment not being recognized, which aligns with the original intent. It does not introduce any ambiguity or unsupported information. | Original: I don't recognise a Direct Debit payment | Augmented: We're unable to identify a Direct Debit payment in your account records.
+VAL | [verify_top_up] | ACCEPT | Reason: ... | Original: I'm being asked for a verification code. Where do I find it? | Augmented: I'm being requested to provide a verification code. Can you please guide me on how to obtain it?
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I didn't do a payment and I have it now. | Augmented: I've missed a payment and I'm providing the payment now.
+VAL | [verify_my_identity] | ACCEPT | Reason: N/A | Original: why do I have to show my ID | Augmented: Can you please confirm your identity by providing your identification documents?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: Both texts are seeking confirmation about the possibility of arranging for card delivery on a specific date, which aligns with the target intent of 'card_delivery_estimate'. There is no contradiction or ambiguity introduced. | Original: If I need delivery on a certain day, is that something that could be accommodated? | Augmented: Can you confirm if it's possible to arrange for the card delivery on a specific date?
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: I would love one of the virtual cards! | Augmented: I'd like to obtain a virtual card, please.
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: Mastercard is preferred to me. | Augmented: I have a preference for Mastercard.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: Can you see my new balance yet? | Augmented: Have you checked my account balance recently?
+VAL | [why_verify_identity] | ACCEPT | Reason: ... | Original: Why does it matter that I prove my identity? | Augmented: What's the purpose of verifying my identity?
+VAL | [verify_my_identity] | ACCEPT | Reason: N/A | Original: Can I get information on the identity checks? | Augmented: May I request information about the verification process for your identity?
+VAL | [direct_debit_payment_not_recognised] | UNKNOWN | Reason: N/A | Original: Why is there a direct debit set up in my name? | Augmented: We've noticed a direct debit payment that doesn't seem to be recognized in your account records.
+VAL | [unable_to_verify_identity] | ACCEPT | Reason: N/A | Original: I am having a problem proving who I am | Augmented: We're having trouble confirming your identity
+VAL | [card_delivery_estimate] | UNKNOWN | Reason: N/A | Original: can the delivery be specific to my needs? | Augmented: Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?
+VAL | [unable_to_verify_identity] | ACCEPT | Reason: N/A | Original: The app does not believe that I am myself | Augmented: The system is unable to confirm that the information provided matches your identity.
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: Can I pay more to get it deliver quicker? | Augmented: Is there an option to expedite the delivery of my card for an additional fee?
+VAL | [card_arrival] | ACCEPT | Reason: ... | Original: can you share card tracking number? | Augmented: can you provide the tracking number for my card?
+VAL_SUMMARY | ACCEPT: 33 | REVIEW: 2 | REJECT: 0 | UNKNOWN: 5 | Accept Rate: 0.8250

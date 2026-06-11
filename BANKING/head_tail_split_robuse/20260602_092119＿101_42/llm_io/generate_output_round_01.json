@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "Why did my funds revert when I made a top-up attempt??",
+    "Why is the transfer status still showing as pending?",
+    "I was unexpectedly billed for the card payment processing fee. Can you explain why?",
+    "Is there a maximum age requirement for our services?",
+    "Please explain the functionality of disposable virtual cards.",
+    "The incorrect exchange rate was applied to a recent transaction.",
+    "I deposited some cash and my account balance still shows the old amount.",
+    "How can I make an exchange between British Pounds and US Dollars through the app?",
+    "What's the purpose of verifying my identity?",
+    "Can you please tell me how to get a spare card?",
+    "How can I obtain additional physical debit/credit cards?",
+    "I attempted to initiate a transaction to a specific account, but it was unsuccessful.",
+    "Will I incur a charge for topping up my account via bank transfer?",
+    "I have a transfer that's currently pending and I'd like some information about it.",
+    "Please clarify the reason behind the reversal of the recent top-up transaction.",
+    "Why isn't my payment showing up?",
+    "The exchange rate used for my cash withdrawal seems to be incorrect.",
+    "What's going on with confirming top-up transactions?",
+    "I'm unsure if my top-up was successfully processed.",
+    "I mistakenly initiated a transfer to the wrong account.",
+    "We currently offer services in which nations?",
+    "I'd like to modify my personal information to reflect a new address.",
+    "The funds I transferred into my account haven't been reflected in my balance.",
+    "The transfer to a designated recipient was not permitted; is there an alternative method I can use to complete the transaction?",
+    "Can you help me understand why my card payment was declined?",
+    "can you help me resolve the issue with my top-up attempt?",
+    "In which regions or nations does your bank provide its services?",
+    "Once I have my card, how do I link it to the app?",
+    "I'm confused about the direct debit payment on my statement, as I didn't authorise it.",
+    "I was surprised to find that the exchange rate was off when I withdrew cash.",
+    "I'm expecting a new card and would appreciate an update on when it will arrive.",
+    "Are physical cards a fee-based service?",
+    "I believe my credit card information has been compromised, and I'm concerned that unauthorized transactions have been made at locations I've never visited. I'd like to prevent any further transactions on my credit card account.",
+    "To confirm your identity, what steps can I take to verify your information?",
+    "Can I access my account before the identity verification process is completed?",
+    "I recently noticed an old payment in my account that I didn't initiate. Can I still contest it, even though it's been a while since it was made?",
+    "We're happy to assist you in investigating the unusual direct debit payment that appears in your account records."
+  ],
+  "generated_labels": [
+    61,
+    48,
+    15,
+    1,
+    37,
+    17,
+    6,
+    33,
+    74,
+    39,
+    39,
+    7,
+    56,
+    48,
+    61,
+    53,
+    76,
+    71,
+    59,
+    8,
+    24,
+    30,
+    5,
+    7,
+    25,
+    59,
+    24,
+    13,
+    28,
+    76,
+    11,
+    43,
+    22,
+    69,
+    74,
+    28,
+    28
+  ],
+  "source_texts": [
+    "Why did my money disappear when I topped up??",
+    "What is the reason a transfer shows as pending?",
+    "I received an extra charge for using the card. Why?",
+    "Do you have any age limit?",
+    "Please tell me how disposable virtual cards work?",
+    "The currency exchange rate was wrong for a purchase I made.",
+    "I made a deposit and the balance hasn't been updated.",
+    "Where can i exchange between GBP and USD",
+    "Why does it matter that I prove my identity?",
+    "How do I obtain a second card?",
+    "How do i request more physical cards?",
+    "i tried to do a transfer to an account but it didn't work",
+    "Will I be fined for topping up by transfer?",
+    "I have a trasnger that is pending and wondered about it.",
+    "Please explain why the funds I added were returned to my account.",
+    "How come I can't find my payment?",
+    "Why is the exchange rate different than expected on my transaction?",
+    "What's up with verifying top-ups?",
+    "I'm not sure if my pop-up went through.",
+    "I submitted a transaction but it was for the incorrect account.",
+    "Which countries do you currently support?",
+    "I need to update my address.",
+    "My transfer into my account isn't showing up.",
+    "the transfer to an account wasn't allowed is there any other way for me to do it",
+    "Could you please tell me why my card payment didn't work?",
+    "is there a way to fix my top up",
+    "What countries do you operate in?",
+    "Now that I have my card, how do I connect it to the app?",
+    "I don't know where this debit transaction on my statement came from.",
+    "I noticed my exchange rate was incorrect when I got cash.",
+    "I know I'm getting a new card but would like know when I can expect to receive it.",
+    "Do physical cards cost money?",
+    "I think someone stole my card number and brought stuff in different places that I have never been to. I need to suspend any further purchase on my credit card.",
+    "What do I need to do to perform identity checks?",
+    "Can I already use my account although the identity verification has not passed yet?",
+    "I just found a payment from a while back in my account that I didn't make.  Can I still dispute it even though it was a couple of months ago?",
+    "Please help my find out why there is an odd direct debit in my records."
+  ],
+  "records": [
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Why did my money disappear when I topped up??",
+      "generated": "Why did my funds revert when I made a top-up attempt??"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "What is the reason a transfer shows as pending?",
+      "generated": "Why is the transfer status still showing as pending?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I received an extra charge for using the card. Why?",
+      "generated": "I was unexpectedly billed for the card payment processing fee. Can you explain why?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Do you have any age limit?",
+      "generated": "Is there a maximum age requirement for our services?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Please tell me how disposable virtual cards work?",
+      "generated": "Please explain the functionality of disposable virtual cards."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The currency exchange rate was wrong for a purchase I made.",
+      "generated": "The incorrect exchange rate was applied to a recent transaction."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I made a deposit and the balance hasn't been updated.",
+      "generated": "I deposited some cash and my account balance still shows the old amount."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Where can i exchange between GBP and USD",
+      "generated": "How can I make an exchange between British Pounds and US Dollars through the app?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why does it matter that I prove my identity?",
+      "generated": "What's the purpose of verifying my identity?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How do I obtain a second card?",
+      "generated": "Can you please tell me how to get a spare card?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How do i request more physical cards?",
+      "generated": "How can I obtain additional physical debit/credit cards?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "i tried to do a transfer to an account but it didn't work",
+      "generated": "I attempted to initiate a transaction to a specific account, but it was unsuccessful."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will I be fined for topping up by transfer?",
+      "generated": "Will I incur a charge for topping up my account via bank transfer?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have a trasnger that is pending and wondered about it.",
+      "generated": "I have a transfer that's currently pending and I'd like some information about it."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Please explain why the funds I added were returned to my account.",
+      "generated": "Please clarify the reason behind the reversal of the recent top-up transaction."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "How come I can't find my payment?",
+      "generated": "Why isn't my payment showing up?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why is the exchange rate different than expected on my transaction?",
+      "generated": "The exchange rate used for my cash withdrawal seems to be incorrect."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What's up with verifying top-ups?",
+      "generated": "What's going on with confirming top-up transactions?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I'm not sure if my pop-up went through.",
+      "generated": "I'm unsure if my top-up was successfully processed."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I submitted a transaction but it was for the incorrect account.",
+      "generated": "I mistakenly initiated a transfer to the wrong account."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Which countries do you currently support?",
+      "generated": "We currently offer services in which nations?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I need to update my address.",
+      "generated": "I'd like to modify my personal information to reflect a new address."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "My transfer into my account isn't showing up.",
+      "generated": "The funds I transferred into my account haven't been reflected in my balance."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "the transfer to an account wasn't allowed is there any other way for me to do it",
+      "generated": "The transfer to a designated recipient was not permitted; is there an alternative method I can use to complete the transaction?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Could you please tell me why my card payment didn't work?",
+      "generated": "Can you help me understand why my card payment was declined?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "is there a way to fix my top up",
+      "generated": "can you help me resolve the issue with my top-up attempt?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "What countries do you operate in?",
+      "generated": "In which regions or nations does your bank provide its services?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Now that I have my card, how do I connect it to the app?",
+      "generated": "Once I have my card, how do I link it to the app?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I don't know where this debit transaction on my statement came from.",
+      "generated": "I'm confused about the direct debit payment on my statement, as I didn't authorise it."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I noticed my exchange rate was incorrect when I got cash.",
+      "generated": "I was surprised to find that the exchange rate was off when I withdrew cash."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I know I'm getting a new card but would like know when I can expect to receive it.",
+      "generated": "I'm expecting a new card and would appreciate an update on when it will arrive."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do physical cards cost money?",
+      "generated": "Are physical cards a fee-based service?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I think someone stole my card number and brought stuff in different places that I have never been to. I need to suspend any further purchase on my credit card.",
+      "generated": "I believe my credit card information has been compromised, and I'm concerned that unauthorized transactions have been made at locations I've never visited. I'd like to prevent any further transactions on my credit card account."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "What do I need to do to perform identity checks?",
+      "generated": "To confirm your identity, what steps can I take to verify your information?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can I already use my account although the identity verification has not passed yet?",
+      "generated": "Can I access my account before the identity verification process is completed?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I just found a payment from a while back in my account that I didn't make.  Can I still dispute it even though it was a couple of months ago?",
+      "generated": "I recently noticed an old payment in my account that I didn't initiate. Can I still contest it, even though it's been a while since it was made?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Please help my find out why there is an odd direct debit in my records.",
+      "generated": "We're happy to assist you in investigating the unusual direct debit payment that appears in your account records."
+    }
+  ]
+}

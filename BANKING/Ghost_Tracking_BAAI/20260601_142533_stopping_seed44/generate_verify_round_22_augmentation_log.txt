@@ -1,0 +1,71 @@
+GEN | [visa_or_mastercard] | Orig: Which type of card will I receive? -> Aug: What kind of payment card will I be issued?
+GEN | [lost_or_stolen_card] | Orig: I'm panicking!  I lost my card!  Help! -> Aug: I'm in a state of distress - I've misplaced my card and I need assistance!
+GEN | [get_physical_card] | Orig: How long do I wait for my PIN -> Aug: How soon can I obtain my physical card?
+GEN | [beneficiary_not_allowed] | Orig: Why is allowance not being given to my beneficiary? -> Aug: Why is the beneficiary not eligible to receive the allowance?
+GEN | [get_physical_card] | Orig: do i need to wait for my card before i get pin -> Aug: Do I need to wait for my physical card before I obtain my PIN?
+GEN | [card_acceptance] | Orig: You accepts my card? -> Aug: Is your card accepted?
+GEN | [card_swallowed] | Orig: I have lost my credit card in the ATM! -> Aug: I accidentally left my credit card in the ATM machine.
+GEN | [card_arrival] | Orig: I was expecting my new card by now. -> Aug: I'm still waiting for my new card to arrive.
+GEN | [receiving_money] | Orig: Do I need to add my salary? -> Aug: Must I include my income?
+GEN | [pin_blocked] | Orig: I enetered the wrong information, I need my account unblocked How do I do that? -> Aug: I mistakenly entered incorrect details, please help me resolve the issue and unblock my account.
+GEN | [visa_or_mastercard] | Orig: Can I select my card scheme or do you choose it for me? -> Aug: Do you allow me to choose between Visa and Mastercard, or do you automatically select the card type for me?
+GEN | [request_refund] | Orig: Canceling my order is what I need to do right now. -> Aug: I'd like to terminate my recent purchase and initiate a refund process.
+GEN | [card_swallowed] | Orig: The ATM didnt return my card! -> Aug: The ATM swallowed my card!
+GEN | [top_up_by_cash_or_cheque] | Orig: Is there somewhere I can send a check to add to my account? -> Aug: Can I send a check to deposit funds into my account?
+GEN | [transfer_not_received_by_recipient] | Orig: Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out? -> Aug: I made a transfer to my landlord a few days ago, but he's telling me he didn't receive it. I've double-checked the account number and it's correct. Can you assist me in resolving this issue?
+GEN | [card_payment_wrong_exchange_rate] | Orig: Does the fee for exchange change? -> Aug: Is the exchange rate fee subject to change?
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I put more money into my account? -> Aug: How can I add funds to my account using cash or cheque?
+GEN | [card_delivery_estimate] | Orig: What is the length of time for one of these items to come to the U.S? -> Aug: How long does it typically take for one of these items to arrive in the United States?
+GEN | [disposable_card_limits] | Orig: Is there a transaction limit on a disposable card? -> Aug: What are the spending limits for a disposable card?
+GEN | [get_physical_card] | Orig: How long does it take for me to get my pin -> Aug: How long does it take to obtain my physical card?
+GEN | [visa_or_mastercard] | Orig: What type of card will I receive? -> Aug: What kind of payment card will I be issued?
+GEN | [top_up_by_cash_or_cheque] | Orig: I need a hand here, I need to top up cash. -> Aug: I require assistance with topping up my account using cash.
+GEN | [Refund_not_showing_up] | Orig: It's been more than a week since I had a return charged to my card, why hasn't it showed up? -> Aug: It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement.
+GEN | [request_refund] | Orig: My product was faulty. -> Aug: The item I purchased was defective.
+GEN | [transfer_not_received_by_recipient] | Orig: I dont see my reciept -> Aug: I'm unable to locate the transfer receipt.
+GEN | [transfer_fee_charged] | Orig: I have a fee listed for a transfer. -> Aug: A charge is showing for a transfer transaction.
+GEN | [disposable_card_limits] | Orig: What is the number of transactions I get with a disposable card? -> Aug: How many transactions can I make with a disposable card?
+GEN | [card_linking] | Orig: If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it? -> Aug: If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?
+GEN | [get_physical_card] | Orig: my pin hasn't arrived in the post! How do I cancel it or get a new one? -> Aug: My physical card has not been delivered. Can I request a new one or cancel the existing order?
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're planning to establish a savings plan for my child's future education expenses.
+GEN | [declined_cash_withdrawal] | Orig: Is my card actually working? It's the first time I tried using it -> Aug: Is my card functioning properly? I'm trying to make a cash withdrawal for the first time
+GEN | [supported_cards_and_currencies] | Orig: Will you accept my credit card, it my only one. -> Aug: Can you accept my credit card, as it's the only one I have?
+GEN | [card_payment_fee_charged] | Orig: Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees. -> Aug: I'm trying to understand the fee policy for my account. I've noticed that I've been charged fees for certain transactions, but not for others, and I'm having trouble identifying a pattern. Can you help me understand the fee structure?
+GEN | [age_limit] | Orig: My daughter needs to open account. -> Aug: A minor is seeking to establish a new account.
+GEN | [disposable_card_limits] | Orig: What limits are there on the virtual cards? -> Aug: What restrictions are in place for the disposable cards?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: Which type of card will I receive? | Augmented: What kind of payment card will I be issued?
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: ... | Original: I'm panicking!  I lost my card!  Help! | Augmented: I'm in a state of distress - I've misplaced my card and I need assistance!
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: How long do I wait for my PIN | Augmented: How soon can I obtain my physical card?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: Why is allowance not being given to my beneficiary? | Augmented: Why is the beneficiary not eligible to receive the allowance?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: do i need to wait for my card before i get pin | Augmented: Do I need to wait for my physical card before I obtain my PIN?
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: You accepts my card? | Augmented: Is your card accepted?
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: I have lost my credit card in the ATM! | Augmented: I accidentally left my credit card in the ATM machine.
+VAL | [card_arrival] | ACCEPT | Reason: ... | Original: I was expecting my new card by now. | Augmented: I'm still waiting for my new card to arrive.
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Do I need to add my salary? | Augmented: Must I include my income?
+VAL | [pin_blocked] | ACCEPT | Reason: ... | Original: I enetered the wrong information, I need my account unblocked How do I do that? | Augmented: I mistakenly entered incorrect details, please help me resolve the issue and unblock my account.
+VAL | [visa_or_mastercard] | ACCEPT | Reason: ... | Original: Can I select my card scheme or do you choose it for me? | Augmented: Do you allow me to choose between Visa and Mastercard, or do you automatically select the card type for me?
+VAL | [request_refund] | ACCEPT | Reason: N/A | Original: Canceling my order is what I need to do right now. | Augmented: I'd like to terminate my recent purchase and initiate a refund process.
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: The ATM didnt return my card! | Augmented: The ATM swallowed my card!
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: Is there somewhere I can send a check to add to my account? | Augmented: Can I send a check to deposit funds into my account?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: ... | Original: Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out? | Augmented: I made a transfer to my landlord a few days ago, but he's telling me he didn't receive it. I've double-checked the account number and it's correct. Can you assist me in resolving this issue?
+VAL | [card_payment_wrong_exchange_rate] | REVIEW | Reason: N/A | Original: Does the fee for exchange change? | Augmented: Is the exchange rate fee subject to change?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: How can I put more money into my account? | Augmented: How can I add funds to my account using cash or cheque?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: What is the length of time for one of these items to come to the U.S? | Augmented: How long does it typically take for one of these items to arrive in the United States?
+VAL | [disposable_card_limits] | ACCEPT | Reason: Both texts are asking about the spending or transaction limits on a disposable card, which aligns with the target intent of 'disposable_card_limits'. There is no contradiction, and the text is specific enough to belong to this intent. | Original: Is there a transaction limit on a disposable card? | Augmented: What are the spending limits for a disposable card?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: How long does it take for me to get my pin | Augmented: How long does it take to obtain my physical card?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: What type of card will I receive? | Augmented: What kind of payment card will I be issued?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: I need a hand here, I need to top up cash. | Augmented: I require assistance with topping up my account using cash.
+VAL | [Refund_not_showing_up] | ACCEPT | Reason: The augmented text preserves the same banking intent of a refund not showing up, and it does not introduce any contradictory or unsupported information. | Original: It's been more than a week since I had a return charged to my card, why hasn't it showed up? | Augmented: It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement.
+VAL | [request_refund] | ACCEPT | Reason: N/A | Original: My product was faulty. | Augmented: The item I purchased was defective.
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: I dont see my reciept | Augmented: I'm unable to locate the transfer receipt.
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: I have a fee listed for a transfer. | Augmented: A charge is showing for a transfer transaction.
+VAL | [disposable_card_limits] | ACCEPT | Reason: ... | Original: What is the number of transactions I get with a disposable card? | Augmented: How many transactions can I make with a disposable card?
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it? | Augmented: If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: my pin hasn't arrived in the post! How do I cancel it or get a new one? | Augmented: My physical card has not been delivered. Can I request a new one or cancel the existing order?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: We want to start a college fund for my daughter. | Augmented: We're planning to establish a savings plan for my child's future education expenses.
+VAL | [declined_cash_withdrawal] | ACCEPT | Reason: N/A | Original: Is my card actually working? It's the first time I tried using it | Augmented: Is my card functioning properly? I'm trying to make a cash withdrawal for the first time
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: Will you accept my credit card, it my only one. | Augmented: Can you accept my credit card, as it's the only one I have?
+VAL | [card_payment_fee_charged] | REVIEW | Reason: The augmented text is close to the original intent but lacks the explicit mention of a fee being charged. While it discusses the fee structure and inconsistencies, it does not directly state that a fee has been charged, which is a crucial element of the target intent. | Original: Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees. | Augmented: I'm trying to understand the fee policy for my account. I've noticed that I've been charged fees for certain transactions, but not for others, and I'm having trouble identifying a pattern. Can you help me understand the fee structure?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: My daughter needs to open account. | Augmented: A minor is seeking to establish a new account.
+VAL | [disposable_card_limits] | ACCEPT | Reason: N/A | Original: What limits are there on the virtual cards? | Augmented: What restrictions are in place for the disposable cards?
+VAL_SUMMARY | ACCEPT: 33 | REVIEW: 2 | REJECT: 0 | UNKNOWN: 0 | Accept Rate: 0.9429

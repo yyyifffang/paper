@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I thought your service allowed for cryptocurrency deposits, but it seems that's not the case. Now, I'm concerned that the funds I attempted to add have vanished from my account, and I'd appreciate clarification on what's happening.",
+    "What is the location of my card's PIN?",
+    "We've received a payment from an unknown cardholder.",
+    "I deposited a cheque into my account, but my account balance remains unchanged.",
+    "At what age can my child start using these services?",
+    "How can I obtain a physical card?",
+    "Are there any fees associated with making a cash withdrawal?",
+    "The transfer to the intended recipient was unsuccessful.",
+    "Can I make a currency exchange using this app, specifically converting dollars to pounds?",
+    "What's the purpose of verifying my identity?",
+    "Can I have a spare card issued to me?",
+    "Can I obtain a spare card without incurring any additional charges?",
+    "I'm in a bind and need immediate assistance. I mistakenly sent a payment to the wrong account number due to a typing error. Can you please cancel the transfer as soon as possible? I don't see an option to do so through the app.",
+    "Are there any charges associated with adding funds to a card?",
+    "I entered my PIN incorrectly multiple times and it's now been blocked. Can you assist me in resolving this issue?",
+    "Why did my funds revert when I made a top-up attempt??",
+    "Why did I get a refund for my payment after a week?",
+    "The exchange rate used for my cash withdrawal seems to be incorrect.",
+    "What's going on with confirming top-up transactions?",
+    "I didn't receive the funds I attempted to add to my card.",
+    "What's the reason for the decline of my payment using my card?",
+    "I'd like to update my personal details.",
+    "I recently initiated a transfer from France, but my account balance hasn't been updated yet. Could it be that international transfers take a bit longer to process?",
+    "I'd like to correct a mistake I made with a recent transaction. Could you please reverse the transfer? I need it resolved by tomorrow.",
+    "Why was my cash withdrawal request denied at the ATM?",
+    "Can I increase my daily limit to any amount I choose whenever I want?",
+    "Your card payment was declined, and I'm wondering what the reason is.",
+    "What should I do if my physical credit/debit card is not functioning properly?",
+    "How many transactions can I make with a disposable card before it's no longer valid?",
+    "I was surprised to find that the exchange rate was off when I withdrew cash.",
+    "I placed an order for my card, but it hasn't arrived yet",
+    "What can I do if I've forgotten my passcode?",
+    "To confirm your identity, what steps can I take to verify your information?",
+    "Can I access my account before the identity verification process is completed?",
+    "What is the limit on the number of transactions I can make with my disposable card?",
+    "Weird direct debit transaction"
+  ],
+  "generated_labels": [
+    61,
+    49,
+    16,
+    6,
+    1,
+    38,
+    19,
+    7,
+    33,
+    74,
+    39,
+    39,
+    8,
+    57,
+    49,
+    61,
+    53,
+    76,
+    71,
+    59,
+    25,
+    30,
+    5,
+    8,
+    26,
+    60,
+    25,
+    14,
+    29,
+    76,
+    11,
+    44,
+    69,
+    74,
+    29,
+    28
+  ],
+  "source_texts": [
+    "I was under the impression that you offer crypto top up; however,  it doesn't appear to be working. The money has now disappeared from my account so I need to know what the deal is?",
+    "Where do I find PIN for my card?",
+    "There's a card payment with a name I don't recognize",
+    "I put money into my account in the form of a cheque, but my balance did not change.",
+    "Is there an age limit to when my child can use these services?",
+    "How do I get a PIN?",
+    "Do I get charged for withdrawals?",
+    "My account transfer was not cleared.",
+    "Can I use this app to exchange between dollars and pounds?",
+    "Why does it matter that I prove my identity?",
+    "Am I allowed to carry an additional card?",
+    "Are there any fees to get additional cards?",
+    "I need urgent help. I realize I sent my payment to the wrong account number. I made a typo. Please cancel the transfer now. There isn't an option from the app.",
+    "Is there a fee for topping up a card?",
+    "\nI put the wrong pin too many times and now it is blocked. Can you help me unblock it?",
+    "Why did my money disappear when I topped up??",
+    "Why have I received a rebate for my payment after a week?",
+    "Why is the exchange rate different than expected on my transaction?",
+    "What's up with verifying top-ups?",
+    "I didn't see the money I added to my card.",
+    "Why has my card been declined?",
+    "I need to change my contact information.",
+    "I just made a transfer from France 2 days ago. It has not yet reached my bank. Is it possible it takes longer because it was an international transfer?",
+    "Hi , I just came to know I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow.",
+    "Why can I not get cash from the ATM?",
+    "Can I top-up any amount I wish on any given day?",
+    "Do you know why my card payment has been declined?",
+    "What to do if my physical card is not working?",
+    "Are there a certain amount of transactions i can do with one disposable card?",
+    "I noticed my exchange rate was incorrect when I got cash.",
+    "I ordered my card but it still isn't here",
+    "What should I do if my passcode won't work?",
+    "What do I need to do to perform identity checks?",
+    "Can I already use my account although the identity verification has not passed yet?",
+    "How many times can I use my disposable card?",
+    "Weird Direct Debit payment"
+  ],
+  "records": [
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I was under the impression that you offer crypto top up; however,  it doesn't appear to be working. The money has now disappeared from my account so I need to know what the deal is?",
+      "generated": "I thought your service allowed for cryptocurrency deposits, but it seems that's not the case. Now, I'm concerned that the funds I attempted to add have vanished from my account, and I'd appreciate clarification on what's happening."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "Where do I find PIN for my card?",
+      "generated": "What is the location of my card's PIN?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There's a card payment with a name I don't recognize",
+      "generated": "We've received a payment from an unknown cardholder."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I put money into my account in the form of a cheque, but my balance did not change.",
+      "generated": "I deposited a cheque into my account, but my account balance remains unchanged."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Is there an age limit to when my child can use these services?",
+      "generated": "At what age can my child start using these services?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "How do I get a PIN?",
+      "generated": "How can I obtain a physical card?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Do I get charged for withdrawals?",
+      "generated": "Are there any fees associated with making a cash withdrawal?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "My account transfer was not cleared.",
+      "generated": "The transfer to the intended recipient was unsuccessful."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app to exchange between dollars and pounds?",
+      "generated": "Can I make a currency exchange using this app, specifically converting dollars to pounds?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why does it matter that I prove my identity?",
+      "generated": "What's the purpose of verifying my identity?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Am I allowed to carry an additional card?",
+      "generated": "Can I have a spare card issued to me?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Are there any fees to get additional cards?",
+      "generated": "Can I obtain a spare card without incurring any additional charges?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I need urgent help. I realize I sent my payment to the wrong account number. I made a typo. Please cancel the transfer now. There isn't an option from the app.",
+      "generated": "I'm in a bind and need immediate assistance. I mistakenly sent a payment to the wrong account number due to a typing error. Can you please cancel the transfer as soon as possible? I don't see an option to do so through the app."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is there a fee for topping up a card?",
+      "generated": "Are there any charges associated with adding funds to a card?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "\nI put the wrong pin too many times and now it is blocked. Can you help me unblock it?",
+      "generated": "I entered my PIN incorrectly multiple times and it's now been blocked. Can you assist me in resolving this issue?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Why did my money disappear when I topped up??",
+      "generated": "Why did my funds revert when I made a top-up attempt??"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why have I received a rebate for my payment after a week?",
+      "generated": "Why did I get a refund for my payment after a week?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why is the exchange rate different than expected on my transaction?",
+      "generated": "The exchange rate used for my cash withdrawal seems to be incorrect."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What's up with verifying top-ups?",
+      "generated": "What's going on with confirming top-up transactions?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I didn't see the money I added to my card.",
+      "generated": "I didn't receive the funds I attempted to add to my card."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Why has my card been declined?",
+      "generated": "What's the reason for the decline of my payment using my card?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I need to change my contact information.",
+      "generated": "I'd like to update my personal details."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I just made a transfer from France 2 days ago. It has not yet reached my bank. Is it possible it takes longer because it was an international transfer?",
+      "generated": "I recently initiated a transfer from France, but my account balance hasn't been updated yet. Could it be that international transfers take a bit longer to process?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Hi , I just came to know I made the wrong transaction  yesterday. Would  you please make it correct?I need it by tomorrow.",
+      "generated": "I'd like to correct a mistake I made with a recent transaction. Could you please reverse the transfer? I need it resolved by tomorrow."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can I not get cash from the ATM?",
+      "generated": "Why was my cash withdrawal request denied at the ATM?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Can I top-up any amount I wish on any given day?",
+      "generated": "Can I increase my daily limit to any amount I choose whenever I want?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Do you know why my card payment has been declined?",
+      "generated": "Your card payment was declined, and I'm wondering what the reason is."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What to do if my physical card is not working?",
+      "generated": "What should I do if my physical credit/debit card is not functioning properly?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Are there a certain amount of transactions i can do with one disposable card?",
+      "generated": "How many transactions can I make with a disposable card before it's no longer valid?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I noticed my exchange rate was incorrect when I got cash.",
+      "generated": "I was surprised to find that the exchange rate was off when I withdrew cash."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I ordered my card but it still isn't here",
+      "generated": "I placed an order for my card, but it hasn't arrived yet"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "What should I do if my passcode won't work?",
+      "generated": "What can I do if I've forgotten my passcode?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "What do I need to do to perform identity checks?",
+      "generated": "To confirm your identity, what steps can I take to verify your information?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can I already use my account although the identity verification has not passed yet?",
+      "generated": "Can I access my account before the identity verification process is completed?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "How many times can I use my disposable card?",
+      "generated": "What is the limit on the number of transactions I can make with my disposable card?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Weird Direct Debit payment",
+      "generated": "Weird direct debit transaction"
+    }
+  ]
+}

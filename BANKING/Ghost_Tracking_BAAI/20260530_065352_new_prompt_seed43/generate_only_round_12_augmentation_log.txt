@@ -1,0 +1,39 @@
+GEN | [top_up_by_cash_or_cheque] | Orig: What is your check-cashing policy? -> Aug: You can top up your account by cash or cheque.
+GEN | [edit_personal_details] | Orig: details need to be modified -> Aug: information needs to be updated
+GEN | [exchange_charge] | Orig: Do I pay extra for exchange? -> Aug: Is there an additional fee for exchanging funds?
+GEN | [getting_spare_card] | Orig: I would like to get additional physical cards at this time -> Aug: I'd like to obtain extra physical debit/credit cards right now
+GEN | [card_delivery_estimate] | Orig: i need to add express delivery if that's an option -> Aug: I'd like to inquire about the possibility of expedited shipping for my card delivery.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you offer SWIFT transfers? -> Aug: Can you facilitate bank transfers for topping up my account?
+GEN | [why_verify_identity] | Orig: I still want to use my account but haven't verified is that OK? -> Aug: I'd like to continue using my account, but I haven't completed the verification process. Is that acceptable?
+GEN | [card_about_to_expire] | Orig: Are there any express fees if i want my new card faster? -> Aug: Can I expect any additional charges if I opt for expedited delivery of my new card?
+GEN | [extra_charge_on_statement] | Orig: What is the dollar that I have pending on my statement there? -> Aug: What is the additional charge that I see on my statement?
+GEN | [verify_source_of_funds] | Orig: Can I see my available money? -> Aug: Can you confirm the source of the funds in my account before I check my available balance?
+GEN | [getting_spare_card] | Orig: Can another family member hold a card for this account in addition to mine? -> Aug: Can I have a spare card issued for this account, in addition to the one I already have?
+GEN | [activate_my_card] | Orig: You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there. -> Aug: You can complete the process quickly. Simply navigate to your account, select the "Activate" option, and follow the prompts to finish.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you take SWIFT transfers? -> Aug: Can you accept bank transfers via international wire transfer?
+GEN | [pending_cash_withdrawal] | Orig: I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money! -> Aug: I attempted to withdraw cash from an ATM in the city centre earlier, but the machine refused my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?
+GEN | [card_swallowed] | Orig: What should I do with my stuck ATM? -> Aug: What should I do about my jammed ATM card?
+GEN | [getting_virtual_card] | Orig: I need to make a purchase online, where is my virtual card? -> Aug: I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?
+GEN | [fiat_currency_support] | Orig: How can I solve my issue with holding multiple currencies? -> Aug: What steps can I take to resolve the problem of managing multiple fiat currencies?
+GEN | [automatic_top_up] | Orig: Can I have money transferred into my account at different intervals along my trip? -> Aug: Can I set up recurring transfers to my account during my trip?
+GEN | [edit_personal_details] | Orig: I just had a wedding and I want to take my spouses name. -> Aug: I recently got married and I'd like to update my personal details to reflect my new married name.
+GEN | [order_physical_card] | Orig: What do I owe for a new card? -> Aug: How much will I need to pay for a physical credit card?
+GEN | [age_limit] | Orig: What about my children? -> Aug: What about my minors?
+GEN | [change_pin] | Orig: I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM? -> Aug: I'm currently traveling in Spain and I'm concerned that someone might have noticed my PIN. Can I modify it at a nearby ATM?
+GEN | [change_pin] | Orig: I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country? -> Aug: I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?
+GEN | [getting_virtual_card] | Orig: Which part of the app do I order virtual cards from? -> Aug: Where can I find the option to request a virtual card within the app?
+GEN | [getting_virtual_card] | Orig: Please let me know how to place an order for a virtual card -> Aug: Please inform me about the process of acquiring a virtual card
+GEN | [cash_withdrawal_not_recognised] | Orig: Some cash shows up on my app. -> Aug: There's an unexpected cash withdrawal showing up on my account.
+GEN | [passcode_forgotten] | Orig: Please help me.  I don't know my code to get into the app. -> Aug: I'm having trouble remembering my passcode to access the app.
+GEN | [change_pin] | Orig: How can I change my Rowlock ? -> Aug: How do I modify my PIN?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I thought I was going to receive more currency? -> Aug: I expected a better exchange rate for my cash withdrawal.
+GEN | [wrong_amount_of_cash_received] | Orig: If the ATM only gave me 10 pounds instead of the 30 I requested, what do I do? -> Aug: I was given less cash than I expected, as I only received 10 pounds when I asked for 30.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Can I Transfer from SWIFT? -> Aug: Can I make a bank transfer to top up my account?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do you accept SWIFT transfers? -> Aug: Can you facilitate bank transfers for top-ups?
+GEN | [virtual_card_not_working] | Orig: I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why? -> Aug: I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?
+GEN | [extra_charge_on_statement] | Orig: I wanted to know about a pending dollar that is on my statement. -> Aug: I'd like to inquire about an additional charge that appears on my latest statement.
+GEN | [why_verify_identity] | Orig: Can i make transactions before identity verification? -> Aug: Can I initiate transactions before completing the identity verification process?
+GEN | [change_pin] | Orig: While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain? -> Aug: As I'm currently in Spain, I'm concerned that someone might have seen my PIN and I'd like to change it; can I do so at an ATM here or is there another option available?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are SWIFT Transfers available at this bank? -> Aug: Can I use bank transfer to top up my account at this bank?
+GEN | [wrong_amount_of_cash_received] | Orig: ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now! -> Aug: The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I going to see a charge for a SEPA transfer? -> Aug: Will I be charged a fee for a bank transfer using the Single Euro Payments Area (SEPA) system?

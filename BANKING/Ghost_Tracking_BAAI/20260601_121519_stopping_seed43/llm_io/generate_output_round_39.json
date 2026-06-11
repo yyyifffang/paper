@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "The system was unable to confirm my identity.",
+    "I'd like to request a new physical card.",
+    "Do you support credit card payments?",
+    "Why hasn't my cash deposit been reflected in my account balance?",
+    "Are there any plans to expand the list of supported fiat currencies in the future?",
+    "Can I withdraw cash from an ATM while abroad without incurring additional fees due to an incorrect exchange rate for the cash withdrawal?",
+    "Can the top-up limit be increased without any restrictions?",
+    "Why hasn't my account balance been updated after a recent cheque or cash deposit? I've been waiting for an extended period and would like to know when I can expect the funds to reflect in my account.",
+    "We're having trouble confirming your identity. It seems we're unable to verify the information provided.",
+    "Can I obtain a spare card for my account to gift it to my daughter?",
+    "The incorrect account was mistakenly used for a transfer.",
+    "Can you confirm the origin of the funds that are readily available in my account?",
+    "We've noticed an unusual payment on your account, made by a merchant you don't have a record of. Could you please confirm if this is a direct debit payment that was not recognized by our system?",
+    "Can you provide a replacement card for me in China?",
+    "What types of payment cards do you accept?",
+    "I'm unable to identify a transaction on my credit card statement.",
+    "Can I receive a physical card?",
+    "Can I have multiple cards linked to my account?",
+    "Need assistance with the exchange fee?",
+    "I require an expedited transfer to China. Can you inform me about the estimated timeframe for the transfer to reach its destination?",
+    "We didn't recognize this payment from you.",
+    "We accept which payment methods, specifically Visa or Mastercard?",
+    "Will I be charged for exchanging foreign currencies?",
+    "How do I get my physical card delivered?",
+    "I made an error and used the incorrect account. Can you assist me?",
+    "I'm confused, as I've been able to make transfers successfully in the past, but my recent attempts have been declined. I've tried multiple times, but the outcome is the same - my card is being rejected. Can you help me understand why this is happening?",
+    "I'm trying to figure out where this payment on my account originated from. Can you help me identify the source of this transaction?",
+    "I'm concerned that my credit card is nearing its expiration date, what are the consequences?",
+    "I'd like to cancel a recent purchase and obtain a refund. Could you assist me in reversing the transaction so I can retrieve the funds? It's crucial that I get the refund as soon as possible.",
+    "We're having trouble confirming your identity.",
+    "My card has been stolen and someone is using it to make unauthorized transactions. Can you help me stop them from accessing my account and withdrawing cash?",
+    "I'm having issues sending funds to a designated recipient.",
+    "I've noticed some unauthorized transactions on my card. Could you please take steps to prevent any further unauthorized activity?",
+    "What are the additional charges for withdrawing cash from an ATM?"
+  ],
+  "generated_labels": [
+    68,
+    43,
+    54,
+    6,
+    36,
+    76,
+    60,
+    6,
+    68,
+    39,
+    8,
+    70,
+    28,
+    9,
+    73,
+    16,
+    43,
+    39,
+    31,
+    67,
+    16,
+    73,
+    31,
+    43,
+    8,
+    27,
+    16,
+    9,
+    52,
+    68,
+    20,
+    7,
+    22,
+    19
+  ],
+  "source_texts": [
+    "The app failed to verify me.",
+    "I need to order a new card.",
+    "Will you accept my credit card?",
+    "Why hasn't my cheque processed?",
+    "Will you be adding more currencies in the future?",
+    "Is it possible to use an ATM when I am not in the country and make a withdraw with out extra fees?",
+    "Is the top-up amount unlimited?",
+    "How long do deposits take to appear? I've been waiting for more than a week and need the money!",
+    "What's wrong with my ID? I can't verify it.",
+    "If I want to be able to give my daughter a card for my account, would I be allowed to get one for her?",
+    "The wrong account was used during a transaction.",
+    "Can you tell me where my readily available cash has come from?",
+    "There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.",
+    "Will you send me a new card in China?",
+    "What credit cards do you carry",
+    "i dont recognize a charge on my card",
+    "Do I get a real card?",
+    "How many different cards can I have for my account?",
+    "Exchange fee help?",
+    "I need to transfer something to China. It is urgent. How many days will it take to get there?",
+    "i didnt do this charge",
+    "What cards do you offer?",
+    "Will I get charged on a foreign currencies exchange?",
+    "Card delivery services? Where?",
+    "I goofed up and used the wrong account.  Please help.",
+    "Why do you keep declining my transfers? It's been working well so far, but when I just tried to buy something, the card got declined. I tried it a few times, but same thing happened every try.",
+    "How do I find out how or where this transaction on my account came from?",
+    "I think my card is expiring, what happens then?",
+    "Hello, I have recently made a purchase and have decided to cancel my purchase. Is there any way that you can cancel that transaction for me so I can get the money back? It's very important.",
+    "I dont have identification",
+    "Somebody stole my wallet and is using my card! Can you do something so they can't keep taking my money?",
+    "I am having trouble transferring money to a beneficiery.",
+    "There are fraudulent charges that I didn't make on my card. Can you please put in the safeguards necessary to stop this from happening anymore?",
+    "Explain the extra ATM fees."
+  ],
+  "records": [
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app failed to verify me.",
+      "generated": "The system was unable to confirm my identity."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need to order a new card.",
+      "generated": "I'd like to request a new physical card."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Will you accept my credit card?",
+      "generated": "Do you support credit card payments?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why hasn't my cheque processed?",
+      "generated": "Why hasn't my cash deposit been reflected in my account balance?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Will you be adding more currencies in the future?",
+      "generated": "Are there any plans to expand the list of supported fiat currencies in the future?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Is it possible to use an ATM when I am not in the country and make a withdraw with out extra fees?",
+      "generated": "Can I withdraw cash from an ATM while abroad without incurring additional fees due to an incorrect exchange rate for the cash withdrawal?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is the top-up amount unlimited?",
+      "generated": "Can the top-up limit be increased without any restrictions?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "How long do deposits take to appear? I've been waiting for more than a week and need the money!",
+      "generated": "Why hasn't my account balance been updated after a recent cheque or cash deposit? I've been waiting for an extended period and would like to know when I can expect the funds to reflect in my account."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "What's wrong with my ID? I can't verify it.",
+      "generated": "We're having trouble confirming your identity. It seems we're unable to verify the information provided."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "If I want to be able to give my daughter a card for my account, would I be allowed to get one for her?",
+      "generated": "Can I obtain a spare card for my account to gift it to my daughter?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "The wrong account was used during a transaction.",
+      "generated": "The incorrect account was mistakenly used for a transfer."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can you tell me where my readily available cash has come from?",
+      "generated": "Can you confirm the origin of the funds that are readily available in my account?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.",
+      "generated": "We've noticed an unusual payment on your account, made by a merchant you don't have a record of. Could you please confirm if this is a direct debit payment that was not recognized by our system?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Will you send me a new card in China?",
+      "generated": "Can you provide a replacement card for me in China?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "What credit cards do you carry",
+      "generated": "What types of payment cards do you accept?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i dont recognize a charge on my card",
+      "generated": "I'm unable to identify a transaction on my credit card statement."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do I get a real card?",
+      "generated": "Can I receive a physical card?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many different cards can I have for my account?",
+      "generated": "Can I have multiple cards linked to my account?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Exchange fee help?",
+      "generated": "Need assistance with the exchange fee?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "I need to transfer something to China. It is urgent. How many days will it take to get there?",
+      "generated": "I require an expedited transfer to China. Can you inform me about the estimated timeframe for the transfer to reach its destination?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i didnt do this charge",
+      "generated": "We didn't recognize this payment from you."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "What cards do you offer?",
+      "generated": "We accept which payment methods, specifically Visa or Mastercard?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Will I get charged on a foreign currencies exchange?",
+      "generated": "Will I be charged for exchanging foreign currencies?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Card delivery services? Where?",
+      "generated": "How do I get my physical card delivered?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I goofed up and used the wrong account.  Please help.",
+      "generated": "I made an error and used the incorrect account. Can you assist me?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Why do you keep declining my transfers? It's been working well so far, but when I just tried to buy something, the card got declined. I tried it a few times, but same thing happened every try.",
+      "generated": "I'm confused, as I've been able to make transfers successfully in the past, but my recent attempts have been declined. I've tried multiple times, but the outcome is the same - my card is being rejected. Can you help me understand why this is happening?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "How do I find out how or where this transaction on my account came from?",
+      "generated": "I'm trying to figure out where this payment on my account originated from. Can you help me identify the source of this transaction?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "I think my card is expiring, what happens then?",
+      "generated": "I'm concerned that my credit card is nearing its expiration date, what are the consequences?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Hello, I have recently made a purchase and have decided to cancel my purchase. Is there any way that you can cancel that transaction for me so I can get the money back? It's very important.",
+      "generated": "I'd like to cancel a recent purchase and obtain a refund. Could you assist me in reversing the transaction so I can retrieve the funds? It's crucial that I get the refund as soon as possible."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I dont have identification",
+      "generated": "We're having trouble confirming your identity."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Somebody stole my wallet and is using my card! Can you do something so they can't keep taking my money?",
+      "generated": "My card has been stolen and someone is using it to make unauthorized transactions. Can you help me stop them from accessing my account and withdrawing cash?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I am having trouble transferring money to a beneficiery.",
+      "generated": "I'm having issues sending funds to a designated recipient."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "There are fraudulent charges that I didn't make on my card. Can you please put in the safeguards necessary to stop this from happening anymore?",
+      "generated": "I've noticed some unauthorized transactions on my card. Could you please take steps to prevent any further unauthorized activity?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Explain the extra ATM fees.",
+      "generated": "What are the additional charges for withdrawing cash from an ATM?"
+    }
+  ]
+}

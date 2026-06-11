@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "What is the purpose of the additional charge that appears on my statement?",
+    "The exchange rate applied to my card payment is incorrect.",
+    "The rate applied to my card transaction appears to be incorrect.",
+    "I'm wondering if I was incorrectly charged a fee for using my card. Could you help me verify this? It seems like there are instances where I'm being charged for fees. Can you provide more information on this?",
+    "I've been using my card for international transactions and I'm concerned about the extra fees I'm being charged. As a loyal customer, I'd appreciate an explanation for these additional charges, as it's making me consider taking my business elsewhere.",
+    "what was the additional charge I noticed on my statement?",
+    "The exchange rate was incorrect when I made a cash withdrawal using my card in a foreign country.",
+    "I've recently relocated abroad and I've noticed an increase in the transfer fees. As a long-time customer, I'm surprised by this change in policy.",
+    "The exchange rate applied to my card payment is incorrect.",
+    "Why is the exchange rate applied to my card payment not what I was expecting?",
+    "Hi, I'm a bit puzzled - I was making an online purchase and suddenly got hit with an unexpected fee. Could you please clarify if there's an additional charge for using my card for transactions? I'm not sure what's going on!",
+    "What is the purpose of this additional €1 charge on my statement?",
+    "Can you explain the €1 charge on my recent statement?",
+    "What is the reason for the additional charge that appears on my statement?",
+    "I was double-billed at the same location during the same transaction period",
+    "What is the additional charge on my statement for?",
+    "Why was there an additional charge when I used my credit card to make the payment?",
+    "How do you determine the exchange rate for the card?",
+    "I believe the exchange rate applied to my card transaction is inaccurate.",
+    "I was charged a fee for using my card to make the payment.",
+    "I've noticed a mysterious £1 charge showing up as pending on my statement. Can you help me figure out what it's for? I'm certain I didn't make any purchases for that amount.",
+    "What is the basis for your exchange rates?",
+    "I believe a charge was added for using a credit/debit card for the transaction.",
+    "Why am I being charged these fees on my card payment?",
+    "I reside in Germany. Are you a financial institution that operates in multiple countries, including Germany? Can you provide a list of all the countries you support?",
+    "I've been double-charged for the same transaction, and I'm not sure why.",
+    "The exchange rate applied to my card transaction is incorrect",
+    "I'm surprised to see a fee applied to my card transaction.",
+    "What's the current exchange rate for my money?",
+    "Why is there an additional charge on my statement?",
+    "The exchange rate applied to my card transaction is incorrect.",
+    "Is the £1 charge on my statement an error or an incorrect entry?",
+    "I made a payment using my card, and a fee was deducted",
+    "I'm not sure why I'm being charged a fee for making a payment with my card.",
+    "I'd like to know more about your current exchange rates.",
+    "I'd be happy to explain why a fee is applied to your card payment.",
+    "What is the price of a physical card, and can you explain the fees associated with it?",
+    "I've noticed that I've been double-charged for the same transaction."
+  ],
+  "generated_labels": [
+    34,
+    17,
+    17,
+    15,
+    64,
+    34,
+    76,
+    64,
+    17,
+    17,
+    15,
+    34,
+    34,
+    34,
+    63,
+    34,
+    15,
+    32,
+    17,
+    15,
+    34,
+    32,
+    15,
+    15,
+    24,
+    63,
+    17,
+    15,
+    32,
+    34,
+    17,
+    34,
+    15,
+    15,
+    32,
+    15,
+    43,
+    63
+  ],
+  "source_texts": [
+    "What does the €1 fee mean?",
+    "Why is the exchange rate on my card wrong?",
+    "The exchange rate for my card payment doesn't seem right.",
+    "I was charged a fee for using my card. Can I check that in any way? It seems like there are occasions that I am charge for fees. Can you elaborate this?",
+    "I use my card internationally to manage payments and I just noticed that you are adding additional fees.  Why?  I am a good customer and this has me thinking about leaving.",
+    "what was the $1 fee i got",
+    "My rate is not right when I used my card in a different country's money.",
+    "I just moved overseas and I noticed that you are charging me more fees.  I am a loyal customer, is this how you expect to keep customers?",
+    "I am not receiving the correct exchange rate on my card.",
+    "Why is the exchange rate on my card payment different than I expected?",
+    "Hello! I randomly got charged an extra fee today as i was shopping online and i have no idea why! Are there extra fees for card payments? Or am i missing something here?",
+    "What is this extra €1 fee about?",
+    "Where did the  €1 fee in my statement come from",
+    "Why is there a 1 euro fee on my statement?",
+    "I was charged multiple times at the same location at the same time",
+    "What is the extra €1 on my statement for?",
+    "Why was the price higher when I paid with my card?",
+    "What do you use to figure out the exchange rate for the card?",
+    "I think the exchange rate on my card payment is incorrect.",
+    "I had to pay money for paying with my card.",
+    "There is some odd 1£ charge that appears as pending on my statement. What's that about? Pretty sure I haven't purchased anything for a pound there.",
+    "Can you explain your exchange rates basis?",
+    "I think a fee was applied for paying with a card.",
+    "What are these fees i am paying?",
+    "I live in Germany. Is that one of the countries you are in? What other countries are you in?",
+    "Why am I being charged for the same thing twice?",
+    "Exchange rate for my card payment is wrong",
+    "I don't think I should have been charged a fee to use my card.",
+    "What value can I get for my currency?",
+    "Why has my card been charged an extra pound?",
+    "The exchange rate from my card payment isn't right.",
+    "Is the 1 pound charge I can see an error or an incorrect entry?",
+    "I used my card and there was a fee",
+    "Why are you charging me fees for using my card?",
+    "I'm interested in what your exchange rates are based on.",
+    "Tell me why there is a fee for a card payment.",
+    "how much does a card cost and why do you charge me",
+    "I have two of the same charges on my account!"
+  ],
+  "records": [
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What does the €1 fee mean?",
+      "generated": "What is the purpose of the additional charge that appears on my statement?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why is the exchange rate on my card wrong?",
+      "generated": "The exchange rate applied to my card payment is incorrect."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate for my card payment doesn't seem right.",
+      "generated": "The rate applied to my card transaction appears to be incorrect."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I was charged a fee for using my card. Can I check that in any way? It seems like there are occasions that I am charge for fees. Can you elaborate this?",
+      "generated": "I'm wondering if I was incorrectly charged a fee for using my card. Could you help me verify this? It seems like there are instances where I'm being charged for fees. Can you provide more information on this?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I use my card internationally to manage payments and I just noticed that you are adding additional fees.  Why?  I am a good customer and this has me thinking about leaving.",
+      "generated": "I've been using my card for international transactions and I'm concerned about the extra fees I'm being charged. As a loyal customer, I'd appreciate an explanation for these additional charges, as it's making me consider taking my business elsewhere."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "what was the $1 fee i got",
+      "generated": "what was the additional charge I noticed on my statement?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "My rate is not right when I used my card in a different country's money.",
+      "generated": "The exchange rate was incorrect when I made a cash withdrawal using my card in a foreign country."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I just moved overseas and I noticed that you are charging me more fees.  I am a loyal customer, is this how you expect to keep customers?",
+      "generated": "I've recently relocated abroad and I've noticed an increase in the transfer fees. As a long-time customer, I'm surprised by this change in policy."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I am not receiving the correct exchange rate on my card.",
+      "generated": "The exchange rate applied to my card payment is incorrect."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why is the exchange rate on my card payment different than I expected?",
+      "generated": "Why is the exchange rate applied to my card payment not what I was expecting?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Hello! I randomly got charged an extra fee today as i was shopping online and i have no idea why! Are there extra fees for card payments? Or am i missing something here?",
+      "generated": "Hi, I'm a bit puzzled - I was making an online purchase and suddenly got hit with an unexpected fee. Could you please clarify if there's an additional charge for using my card for transactions? I'm not sure what's going on!"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What is this extra €1 fee about?",
+      "generated": "What is the purpose of this additional €1 charge on my statement?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Where did the  €1 fee in my statement come from",
+      "generated": "Can you explain the €1 charge on my recent statement?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is there a 1 euro fee on my statement?",
+      "generated": "What is the reason for the additional charge that appears on my statement?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I was charged multiple times at the same location at the same time",
+      "generated": "I was double-billed at the same location during the same transaction period"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What is the extra €1 on my statement for?",
+      "generated": "What is the additional charge on my statement for?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why was the price higher when I paid with my card?",
+      "generated": "Why was there an additional charge when I used my credit card to make the payment?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What do you use to figure out the exchange rate for the card?",
+      "generated": "How do you determine the exchange rate for the card?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I think the exchange rate on my card payment is incorrect.",
+      "generated": "I believe the exchange rate applied to my card transaction is inaccurate."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I had to pay money for paying with my card.",
+      "generated": "I was charged a fee for using my card to make the payment."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is some odd 1£ charge that appears as pending on my statement. What's that about? Pretty sure I haven't purchased anything for a pound there.",
+      "generated": "I've noticed a mysterious £1 charge showing up as pending on my statement. Can you help me figure out what it's for? I'm certain I didn't make any purchases for that amount."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Can you explain your exchange rates basis?",
+      "generated": "What is the basis for your exchange rates?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I think a fee was applied for paying with a card.",
+      "generated": "I believe a charge was added for using a credit/debit card for the transaction."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "What are these fees i am paying?",
+      "generated": "Why am I being charged these fees on my card payment?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I live in Germany. Is that one of the countries you are in? What other countries are you in?",
+      "generated": "I reside in Germany. Are you a financial institution that operates in multiple countries, including Germany? Can you provide a list of all the countries you support?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why am I being charged for the same thing twice?",
+      "generated": "I've been double-charged for the same transaction, and I'm not sure why."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Exchange rate for my card payment is wrong",
+      "generated": "The exchange rate applied to my card transaction is incorrect"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I don't think I should have been charged a fee to use my card.",
+      "generated": "I'm surprised to see a fee applied to my card transaction."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What value can I get for my currency?",
+      "generated": "What's the current exchange rate for my money?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why has my card been charged an extra pound?",
+      "generated": "Why is there an additional charge on my statement?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate from my card payment isn't right.",
+      "generated": "The exchange rate applied to my card transaction is incorrect."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Is the 1 pound charge I can see an error or an incorrect entry?",
+      "generated": "Is the £1 charge on my statement an error or an incorrect entry?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I used my card and there was a fee",
+      "generated": "I made a payment using my card, and a fee was deducted"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why are you charging me fees for using my card?",
+      "generated": "I'm not sure why I'm being charged a fee for making a payment with my card."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "I'm interested in what your exchange rates are based on.",
+      "generated": "I'd like to know more about your current exchange rates."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Tell me why there is a fee for a card payment.",
+      "generated": "I'd be happy to explain why a fee is applied to your card payment."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "how much does a card cost and why do you charge me",
+      "generated": "What is the price of a physical card, and can you explain the fees associated with it?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have two of the same charges on my account!",
+      "generated": "I've noticed that I've been double-charged for the same transaction."
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "I would like to cancel my account immediately.",
+    "I'm having trouble finalizing a transaction. I'm attempting to buy some cryptocurrency, but the app is preventing me from doing so. Can you help me understand what's blocking this process?",
+    "I require my card as soon as possible.",
+    "I mistakenly entered an incorrect account number.",
+    "Why was my payment to the designated beneficiary rejected?",
+    "I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?",
+    "You're unable to designate X as a beneficiary.",
+    "I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?",
+    "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?",
+    "I've initiated a transfer, but I've changed my mind and would like to cancel it. Can you help me stop the transfer from going through?",
+    "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?",
+    "Where can I place an order for a physical card?",
+    "How can I determine if my card has been compromised and is being used by someone else?",
+    "Can I use my smartwatch to make a payment for fuel?",
+    "The payment made with my card was declined at a retail store.",
+    "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system.",
+    "Can I obtain a card that is widely accepted in various countries, including those in Africa and Indonesia?",
+    "Can someone else add funds to my account using my card?",
+    "Suspicious activity detected on my account.",
+    "I recently got a new phone, but how do I access my card details?",
+    "Can you accept my other credit card issued in the United States? It's the only other one I possess.",
+    "When can I expect the funds to be deposited into my account?",
+    "I'm unable to locate my card top-up transaction in my digital wallet.",
+    "the amount I received from my ATM transaction was incorrect",
+    "I mistakenly initiated a transfer to the wrong account.",
+    "I accidentally left my phone behind, and now I'm unable to access the app. Does this mean I'm unable to use my card?",
+    "Why was my card payment declined at the store?",
+    "I'm unable to locate the recent card top-up in my digital wallet.",
+    "my card top-up is still pending, where can I locate it?",
+    "When will the funds be returned to my account after a failed top-up attempt?",
+    "I'm having trouble locating my physical card details, could you guide me on where to find them?",
+    "Could you please guide me on the process of confirming that my top-up transaction has been successfully processed?",
+    "Can I access this service globally or internationally?",
+    "The contactless payment method is currently unavailable.",
+    "I've recently relocated to the United States and would like to obtain a new card.",
+    "I made a payment to top up my account, but the funds are still pending, can you tell me what's going on?",
+    "I'm having trouble accessing the app and need help recovering my phone.",
+    "How can I stop a pending transfer?",
+    "My recurring payment to Apple has been declined, and I'm not sure why. They're going to retry the payment, but I need to know what's causing the issue. Can you help me understand what's happening?"
+  ],
+  "generated_labels": [
+    55,
+    7,
+    12,
+    8,
+    7,
+    35,
+    7,
+    20,
+    27,
+    8,
+    59,
+    43,
+    22,
+    2,
+    25,
+    61,
+    24,
+    62,
+    22,
+    42,
+    54,
+    67,
+    62,
+    75,
+    8,
+    42,
+    25,
+    62,
+    62,
+    47,
+    38,
+    71,
+    24,
+    23,
+    24,
+    47,
+    42,
+    8,
+    25
+  ],
+  "source_texts": [
+    "I need to close my account as soon as possible.",
+    "I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here?",
+    "I need my card right away.",
+    "I used the wrong account number!",
+    "Why wasn't my payment to beneficiary X approved?",
+    "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+    "I got a message that I cannot name X as a beneficiary.",
+    "I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?",
+    "How can I find a way to transfer money without it being rejected?",
+    "I have arranged a transfer, but no longer need to send it. How do I stop the transfer?",
+    "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+    "Show me where to order my card.",
+    "How can I tell if someone else is using my card?",
+    "Can I use my Apple Watch to pay for gas?",
+    "My card was not accepted in a shop",
+    "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+    "Can I get a card that works in other countries like Africa and Indonesia?",
+    "Can somebody else top up my account?",
+    "Questionable transactions on my account.",
+    "I just replaced my phone but how do I use my card information?",
+    "Can you accept my other card from the U.S.?  It is the only other one I have.",
+    "When will the money reach my  account?",
+    "I don't see me 'top up' in my wallet",
+    "my atm transaction was wrong",
+    "I submitted a transaction but it was for the incorrect account.",
+    "I misplaced my phone so I can't use the app! Does this mean I can't use my card?",
+    "why couldn't I use my card at a store?",
+    "I don't see my top up in my wallet.",
+    "my top up isnt there yet where do i find it",
+    "How long after a failed topup will funds refurn to account",
+    "I'm looking in the App and can't find my PIN, where should I look?",
+    "Can you explain to me the way to verify my top up has gone through?",
+    "Can I use this all over the world?",
+    "The contactless payments are not working.",
+    "I just moved to the US how do I get a card?",
+    "I already paid to top-up but the funds aren't available yet, where are they?",
+    "What do I do if I cannot access the app?",
+    "How do i cancel a charge?",
+    "May monthly payment to Apple has been declined but I don't know why, they are going to re-try the payment and it must go through, can you tell me what is going on please?"
+  ],
+  "records": [
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I need to close my account as soon as possible.",
+      "generated": "I would like to cancel my account immediately."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here?",
+      "generated": "I'm having trouble finalizing a transaction. I'm attempting to buy some cryptocurrency, but the app is preventing me from doing so. Can you help me understand what's blocking this process?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card right away.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I used the wrong account number!",
+      "generated": "I mistakenly entered an incorrect account number."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why wasn't my payment to beneficiary X approved?",
+      "generated": "Why was my payment to the designated beneficiary rejected?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+      "generated": "I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I got a message that I cannot name X as a beneficiary.",
+      "generated": "You're unable to designate X as a beneficiary."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I think someone may have cloned my card or something.  My card isn't lost but I just saw a charge of $500 cash withdraw.  Can you help me?",
+      "generated": "I'm concerned that my card may have been compromised. Although I haven't misplaced it, I've noticed an unusual cash withdrawal of $500. Can you assist me in resolving this issue?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How can I find a way to transfer money without it being rejected?",
+      "generated": "I'm trying to make a transfer, but it keeps getting declined. Can you help me figure out why it's not going through?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I have arranged a transfer, but no longer need to send it. How do I stop the transfer?",
+      "generated": "I've initiated a transfer, but I've changed my mind and would like to cancel it. Can you help me stop the transfer from going through?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+      "generated": "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Show me where to order my card.",
+      "generated": "Where can I place an order for a physical card?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "How can I tell if someone else is using my card?",
+      "generated": "How can I determine if my card has been compromised and is being used by someone else?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I use my Apple Watch to pay for gas?",
+      "generated": "Can I use my smartwatch to make a payment for fuel?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card was not accepted in a shop",
+      "generated": "The payment made with my card was declined at a retail store."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+      "generated": "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I get a card that works in other countries like Africa and Indonesia?",
+      "generated": "Can I obtain a card that is widely accepted in various countries, including those in Africa and Indonesia?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can somebody else top up my account?",
+      "generated": "Can someone else add funds to my account using my card?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "Questionable transactions on my account.",
+      "generated": "Suspicious activity detected on my account."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I just replaced my phone but how do I use my card information?",
+      "generated": "I recently got a new phone, but how do I access my card details?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you accept my other card from the U.S.?  It is the only other one I have.",
+      "generated": "Can you accept my other credit card issued in the United States? It's the only other one I possess."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will the money reach my  account?",
+      "generated": "When can I expect the funds to be deposited into my account?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I don't see me 'top up' in my wallet",
+      "generated": "I'm unable to locate my card top-up transaction in my digital wallet."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "my atm transaction was wrong",
+      "generated": "the amount I received from my ATM transaction was incorrect"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I submitted a transaction but it was for the incorrect account.",
+      "generated": "I mistakenly initiated a transfer to the wrong account."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I misplaced my phone so I can't use the app! Does this mean I can't use my card?",
+      "generated": "I accidentally left my phone behind, and now I'm unable to access the app. Does this mean I'm unable to use my card?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "why couldn't I use my card at a store?",
+      "generated": "Why was my card payment declined at the store?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I don't see my top up in my wallet.",
+      "generated": "I'm unable to locate the recent card top-up in my digital wallet."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "my top up isnt there yet where do i find it",
+      "generated": "my card top-up is still pending, where can I locate it?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "How long after a failed topup will funds refurn to account",
+      "generated": "When will the funds be returned to my account after a failed top-up attempt?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I'm looking in the App and can't find my PIN, where should I look?",
+      "generated": "I'm having trouble locating my physical card details, could you guide me on where to find them?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Can you explain to me the way to verify my top up has gone through?",
+      "generated": "Could you please guide me on the process of confirming that my top-up transaction has been successfully processed?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I use this all over the world?",
+      "generated": "Can I access this service globally or internationally?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "The contactless payments are not working.",
+      "generated": "The contactless payment method is currently unavailable."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I just moved to the US how do I get a card?",
+      "generated": "I've recently relocated to the United States and would like to obtain a new card."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I already paid to top-up but the funds aren't available yet, where are they?",
+      "generated": "I made a payment to top up my account, but the funds are still pending, can you tell me what's going on?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "What do I do if I cannot access the app?",
+      "generated": "I'm having trouble accessing the app and need help recovering my phone."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "How do i cancel a charge?",
+      "generated": "How can I stop a pending transfer?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "May monthly payment to Apple has been declined but I don't know why, they are going to re-try the payment and it must go through, can you tell me what is going on please?",
+      "generated": "My recurring payment to Apple has been declined, and I'm not sure why. They're going to retry the payment, but I need to know what's causing the issue. Can you help me understand what's happening?"
+    }
+  ]
+}

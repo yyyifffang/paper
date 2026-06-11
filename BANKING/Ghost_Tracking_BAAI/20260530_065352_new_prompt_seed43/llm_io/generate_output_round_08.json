@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "Is it necessary to remove the app before attempting to use the contactless payment feature again?",
+    "I'm not sure if the top-up request has been processed successfully.",
+    "Is my contactless payment configuration set up properly? I attempted to use it earlier, but it didn't function as expected.",
+    "Can you provide details about the limits for making deposits or adding funds to my account?",
+    "Can you explain why my top-up request is still pending?",
+    "I'd appreciate guidance on the steps to confirm the top-up process for my prepaid cards.",
+    "Why did my contactless payment fail to work at the metro station?",
+    "This account has become too burdensome, and I'd prefer to shut it down and move on.",
+    "How can I arrange for automatic top-ups to my card while I'm abroad?",
+    "I'm having trouble linking one of my cards to my account.",
+    "My payment attempt was unsuccessful. Could you check if my credit card has sufficient funds?",
+    "I think there's an error with the exchange rate applied to my card transaction. Could you verify the current interbank exchange rate for me, please?",
+    "You can replenish your card balance by depositing cash or cheque.",
+    "What can I do to resolve the PIN block issue?",
+    "The service has been unsatisfactory, I'd like to cancel my account.",
+    "Can you confirm the origin of the funds in my account before I check my balance?",
+    "The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me.",
+    "Can I link a recently discovered card to the app?",
+    "New customer attempting to top up their account for the first time today, but the transaction is not processing.",
+    "Can you assist me in confirming the card information used for a recent top-up transaction?",
+    "The amount of $1.00 remains outstanding, as previously mentioned in our previous communication.",
+    "I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible.",
+    "I'm having trouble using my card to top up because the funds I loaded onto it are no longer available.",
+    "What is the fee for a bank transfer using the Single Euro Payments Area (SEPA) system?",
+    "Can I proceed with logging in even though my identity has not been verified yet?",
+    "What methods are available for depositing funds into my account using my American Express card?",
+    "What steps can I take to remove the block on my card?",
+    "I'd like to continue using my account, but I haven't completed the verification process. Is that acceptable?",
+    "A duplicate transaction appears on my account.",
+    "What is the charge for receiving a bank transfer via SEPA?",
+    "I've tried multiple times to complete a routine transaction, but it keeps failing. Is there a technical issue with your platform that's preventing it from going through?",
+    "I'm wondering if there's a fee associated with adding funds to my card?",
+    "I'd like to increase the available balance on my card, could you guide me on how to do that?",
+    "Is reinstalling the app a potential solution to resolve the issue?"
+  ],
+  "generated_labels": [
+    23,
+    47,
+    23,
+    60,
+    47,
+    71,
+    23,
+    55,
+    4,
+    13,
+    59,
+    17,
+    58,
+    49,
+    55,
+    70,
+    72,
+    13,
+    47,
+    71,
+    34,
+    59,
+    62,
+    56,
+    74,
+    54,
+    49,
+    74,
+    63,
+    56,
+    35,
+    57,
+    60,
+    23
+  ],
+  "source_texts": [
+    "Should i uninstall the app before i try it again?",
+    "I do not think the pop up went through yet.",
+    "Are my contactless settings correct? I tried to use it today but it wasn't working.",
+    "It seems I need to get information on limits for top-ups.",
+    "Can you tell me why my pop-up is still pending?",
+    "I would like to receive instructions showing the verification process for top up cards..",
+    "Why wasn't my contactless accepted at the metro?",
+    "This place has been too much work so I'd just like to close out my account & be done.",
+    "How do I get refills to my card when I'm traveling?",
+    "I have one of your cards, but I don't know how to link it.",
+    "My credit card did not go through. Can you see if it has insufficient funds?",
+    "Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?",
+    "How can I add physical money to my card?",
+    "How do I get unblocked?",
+    "The service here is horrible, I want to delete my account.",
+    "Is there a way for me to check my balance?",
+    "What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?",
+    "Can I add a card that I just found (again) to the app?",
+    "new customer and filling gas for the first time today, not working,",
+    "Help me verify the card used on a top-up.",
+    "The $1.00 has still not been reverted as indicated in the previous email.",
+    "I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",
+    "I wasn't able to use my top up card because the money I put on there wasn't there anymore",
+    "How much will it cost me for a SEPA transfer?",
+    "Is it possible to go ahead and log in, although I have not been confirmed yet?",
+    "How can I get funds into my account from my American Express?",
+    "How do I take a block off my card?",
+    "I still want to use my account but haven't verified is that OK?",
+    "There is a transaction showing up several times.",
+    "What does it cost to receive a SEPA transfer?",
+    "I have made 5 attempts to make a very standard survey, yet I can't get it to work. What is the problem? Is there an issue related to your system?",
+    "I topped off my card is that something you will charge me for?",
+    "I need to add a serious amount of cash to my card, how do I do that?",
+    "Would reinstalling the app solve the problem?"
+  ],
+  "records": [
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Should i uninstall the app before i try it again?",
+      "generated": "Is it necessary to remove the app before attempting to use the contactless payment feature again?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I do not think the pop up went through yet.",
+      "generated": "I'm not sure if the top-up request has been processed successfully."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Are my contactless settings correct? I tried to use it today but it wasn't working.",
+      "generated": "Is my contactless payment configuration set up properly? I attempted to use it earlier, but it didn't function as expected."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "It seems I need to get information on limits for top-ups.",
+      "generated": "Can you provide details about the limits for making deposits or adding funds to my account?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Can you tell me why my pop-up is still pending?",
+      "generated": "Can you explain why my top-up request is still pending?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I would like to receive instructions showing the verification process for top up cards..",
+      "generated": "I'd appreciate guidance on the steps to confirm the top-up process for my prepaid cards."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Why wasn't my contactless accepted at the metro?",
+      "generated": "Why did my contactless payment fail to work at the metro station?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "This place has been too much work so I'd just like to close out my account & be done.",
+      "generated": "This account has become too burdensome, and I'd prefer to shut it down and move on."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How do I get refills to my card when I'm traveling?",
+      "generated": "How can I arrange for automatic top-ups to my card while I'm abroad?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I have one of your cards, but I don't know how to link it.",
+      "generated": "I'm having trouble linking one of my cards to my account."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "My credit card did not go through. Can you see if it has insufficient funds?",
+      "generated": "My payment attempt was unsuccessful. Could you check if my credit card has sufficient funds?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?",
+      "generated": "I think there's an error with the exchange rate applied to my card transaction. Could you verify the current interbank exchange rate for me, please?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How can I add physical money to my card?",
+      "generated": "You can replenish your card balance by depositing cash or cheque."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I get unblocked?",
+      "generated": "What can I do to resolve the PIN block issue?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "The service here is horrible, I want to delete my account.",
+      "generated": "The service has been unsatisfactory, I'd like to cancel my account."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Is there a way for me to check my balance?",
+      "generated": "Can you confirm the origin of the funds in my account before I check my balance?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?",
+      "generated": "The reason I was declined when trying to use my temporary virtual card to pay for a gym membership is unclear to me."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can I add a card that I just found (again) to the app?",
+      "generated": "Can I link a recently discovered card to the app?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "new customer and filling gas for the first time today, not working,",
+      "generated": "New customer attempting to top up their account for the first time today, but the transaction is not processing."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Help me verify the card used on a top-up.",
+      "generated": "Can you assist me in confirming the card information used for a recent top-up transaction?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "The $1.00 has still not been reverted as indicated in the previous email.",
+      "generated": "The amount of $1.00 remains outstanding, as previously mentioned in our previous communication."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",
+      "generated": "I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I wasn't able to use my top up card because the money I put on there wasn't there anymore",
+      "generated": "I'm having trouble using my card to top up because the funds I loaded onto it are no longer available."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much will it cost me for a SEPA transfer?",
+      "generated": "What is the fee for a bank transfer using the Single Euro Payments Area (SEPA) system?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Is it possible to go ahead and log in, although I have not been confirmed yet?",
+      "generated": "Can I proceed with logging in even though my identity has not been verified yet?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "How can I get funds into my account from my American Express?",
+      "generated": "What methods are available for depositing funds into my account using my American Express card?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I take a block off my card?",
+      "generated": "What steps can I take to remove the block on my card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I still want to use my account but haven't verified is that OK?",
+      "generated": "I'd like to continue using my account, but I haven't completed the verification process. Is that acceptable?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "There is a transaction showing up several times.",
+      "generated": "A duplicate transaction appears on my account."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "What does it cost to receive a SEPA transfer?",
+      "generated": "What is the charge for receiving a bank transfer via SEPA?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I have made 5 attempts to make a very standard survey, yet I can't get it to work. What is the problem? Is there an issue related to your system?",
+      "generated": "I've tried multiple times to complete a routine transaction, but it keeps failing. Is there a technical issue with your platform that's preventing it from going through?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I topped off my card is that something you will charge me for?",
+      "generated": "I'm wondering if there's a fee associated with adding funds to my card?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "I need to add a serious amount of cash to my card, how do I do that?",
+      "generated": "I'd like to increase the available balance on my card, could you guide me on how to do that?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Would reinstalling the app solve the problem?",
+      "generated": "Is reinstalling the app a potential solution to resolve the issue?"
+    }
+  ]
+}

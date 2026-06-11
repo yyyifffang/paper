@@ -1,0 +1,38 @@
+GEN | [card_acceptance] | Orig: Are there businesses that don't accept this card? -> Aug: Can you tell me if there are any merchants that don't accept this particular card?
+GEN | [card_arrival] | Orig: Where is my credit card that was to be mailed? -> Aug: When can I expect to receive my credit card, which was supposed to be sent to me?
+GEN | [card_arrival] | Orig: Have you sent out my card yet? -> Aug: Has my new card been dispatched already?
+GEN | [get_physical_card] | Orig: I signed up, but don't have a PIN. Where can I find it? -> Aug: I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?
+GEN | [top_up_limits] | Orig: Do I need to use a limit on top-ups? -> Aug: Must I set a limit on my top-up transactions?
+GEN | [get_physical_card] | Orig: Help, I don't know what the PIN is to my card? -> Aug: Can you assist me in retrieving the physical card details, including the PIN, as I've misplaced it?
+GEN | [supported_cards_and_currencies] | Orig: I have another card from the U.S. Will you be able to accept that one? -> Aug: I'd like to know if you support cards issued in the United States.
+GEN | [card_acceptance] | Orig: Are there limits to businesses that will accept this card? -> Aug: Can you tell me about any restrictions on the types of businesses that will accept this card?
+GEN | [pending_transfer] | Orig: Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet. -> Aug: I've reviewed my account information to confirm everything is accurate, and I'm still waiting for a pending transfer to process.
+GEN | [declined_cash_withdrawal] | Orig: Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money. -> Aug: I'm having trouble withdrawing cash from the ATM and I'm certain I entered my PIN correctly. Can you assist me with this issue?
+GEN | [declined_cash_withdrawal] | Orig: I tried to withdraw some funds from my card, but was declined. How can I get my money? -> Aug: I attempted to make a cash withdrawal using my card, but it was unsuccessful. What are my options for retrieving my funds?
+GEN | [getting_spare_card] | Orig: daughter needs card, how do i add her -> Aug: I'd like to obtain a spare card for my daughter.
+GEN | [get_physical_card] | Orig: In regards to the PIN of the card? -> Aug: Regarding the physical card's PIN information?
+GEN | [unable_to_verify_identity] | Orig: The app failed to verify me. -> Aug: The system was unable to confirm my identity.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Can I withdraw money in my hometown currency while on holiday without any additional fees? -> Aug: Can I get the correct exchange rate for a cash withdrawal in my local currency while I'm traveling, or will I be charged an incorrect rate and incur extra fees?
+GEN | [top_up_by_card_charge] | Orig: I was wondering if you will take any fees in exchange for top ups? -> Aug: Are there any charges involved when I top up my account using my card?
+GEN | [card_acceptance] | Orig: Do all businesses take this card? -> Aug: Can all merchants accept this card?
+GEN | [pending_cash_withdrawal] | Orig: Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money. -> Aug: I've checked my account and noticed a pending transaction that I didn't complete. The ATM declined my card when I tried to make the withdrawal, and I'm concerned that the transaction might still be processed. Can you cancel it since I didn't receive the cash?
+GEN | [lost_or_stolen_card] | Orig: Who can I speak with regarding a lost card? -> Aug: I'd like to report a missing credit card.
+GEN | [get_physical_card] | Orig: I have a question regarding the PIN of the card? -> Aug: I'd like to inquire about the physical card's PIN.
+GEN | [top_up_limits] | Orig: Is there a top-up limit that I have to stay under during a given period of time? -> Aug: Is there a maximum amount I'm allowed to top up within a specific timeframe?
+GEN | [declined_cash_withdrawal] | Orig: Why can I not take out cash? -> Aug: Why was my cash withdrawal request denied?
+GEN | [get_physical_card] | Orig: The card PIN is not visible anywhere? -> Aug: Can I request a physical copy of my card, as I'm unable to locate the PIN?
+GEN | [beneficiary_not_allowed] | Orig: I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages. -> Aug: I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts.
+GEN | [top_up_failed] | Orig: I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly. -> Aug: I'm unable to access my funds. Could it be due to an issue with the recent top-up attempt? I'm certain I entered the details correctly.
+GEN | [card_arrival] | Orig: Can you help me track my card? -> Aug: Can you assist me in locating my card?
+GEN | [transfer_fee_charged] | Orig: A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened? -> Aug: A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?
+GEN | [extra_charge_on_statement] | Orig: What am I being charged an extra pound when I haven't bought something worth that much? -> Aug: I'm not sure why I'm being charged an additional amount on my statement when I didn't make a purchase that warrants such a charge.
+GEN | [top_up_limits] | Orig: Do you limit my top-ups? -> Aug: Are there any restrictions on how much I can top up my account?
+GEN | [top_up_reverted] | Orig: I got an cancellation error when I was topping up. -> Aug: I encountered an error while attempting to make a top-up, and it was cancelled.
+GEN | [reverted_card_payment?] | Orig: Hey a seller just contacted me that my money didn't come through. It was definitely deducted from my account, but now it appears it's back with me! Sort this out asap please. -> Aug: Hey, I've been informed by a seller that the payment I made hasn't gone through, even though it was deducted from my account. However, it seems the funds have been reversed and are now back in my account. Can you look into this ASAP and resolve the issue?
+GEN | [card_payment_not_recognised] | Orig: Why is this payment on my app -> Aug: We're having trouble identifying this payment on your account.
+GEN | [transfer_fee_charged] | Orig: Should I be seeing a fee applied for my money transfer? -> Aug: Am I supposed to be charged a fee for the transfer of funds?
+GEN | [transaction_charged_twice] | Orig: My account seems a bit off and getting weird charges. -> Aug: My account appears to be experiencing some unusual activity, with duplicate charges showing up.
+GEN | [pending_top_up] | Orig: My top is still pending. -> Aug: My top-up request is still pending.
+GEN | [receiving_money] | Orig: How can I receive money? -> Aug: What methods are available for me to receive funds?
+GEN | [declined_cash_withdrawal] | Orig: Why can't I get cash out? -> Aug: Why was my cash withdrawal request denied?
+GEN | [atm_support] | Orig: How many ATMs will take this card? -> Aug: How many cash machines accept this card?

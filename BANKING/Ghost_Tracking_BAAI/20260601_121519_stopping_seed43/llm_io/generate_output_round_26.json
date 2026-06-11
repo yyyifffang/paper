@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I need to confirm the origin of my funds.",
+    "How do you facilitate transfers into an account?",
+    "Can you help me identify the source of my available funds?",
+    "Could you walk me through the process of transferring funds into an account?",
+    "How can I confirm the origin of my funds?",
+    "Can I check the status of my card delivery?",
+    "Are U.S. citizens eligible to use this card?",
+    "I'm experiencing an issue with a transfer to another account, and I keep receiving a decline notification. Despite verifying the information multiple times, I'm still getting the same error message.",
+    "I've made a cash deposit to my account, but my account balance hasn't been updated yet.",
+    "It appears that an unauthorized party has used my card to make a purchase, what steps can I take?",
+    "what is the origin of the funds",
+    "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance.",
+    "I'm confused, I've been making transfers without any issues, but just now, when I tried to make another one, it got declined. I've tried a few times, but the result is the same. Can you help me figure out what's going on?",
+    "We'd like to confirm the origin of your funds to ensure the transaction is legitimate and compliant with our banking regulations.",
+    "I need assistance from your customer service team to activate my card.",
+    "Why do I need to confirm the top-up?",
+    "Why was there an additional charge when I used my credit card to make the payment?",
+    "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?",
+    "I require guidance on the maximum amount I can increase my limits.",
+    "I'm having trouble finishing the activation process for my card.",
+    "my personal card information might have been compromised, since I didn't authorize these transactions",
+    "I got my new card, can you help me link it to my account so I can use it in the app?",
+    "The fee associated with my transfer appears to be excessive.",
+    "We need to confirm the origin of your funds.",
+    "Can I request a spare card in my daughter's name, which will be linked to my account?",
+    "I didn't receive the correct amount of cash.",
+    "I'm having trouble accessing the app and need help recovering my phone.",
+    "Can my friend transfer funds to me in a currency other than US dollars?",
+    "Can you provide me with a list of locations where I can use my card for transactions?",
+    "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?",
+    "I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?",
+    "Can my account be accessed by an unauthorized person? I had my phone stolen.",
+    "What is the threshold for the number of incorrect PIN attempts that will trigger a card block?",
+    "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?",
+    "You're unable to designate X as a beneficiary.",
+    "I'd like to check on the status of the card that was mailed to me.",
+    "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined."
+  ],
+  "generated_labels": [
+    70,
+    65,
+    70,
+    65,
+    70,
+    11,
+    24,
+    27,
+    6,
+    22,
+    70,
+    17,
+    27,
+    70,
+    0,
+    71,
+    15,
+    41,
+    60,
+    0,
+    22,
+    13,
+    64,
+    70,
+    39,
+    75,
+    42,
+    50,
+    10,
+    2,
+    22,
+    42,
+    49,
+    64,
+    7,
+    11,
+    35
+  ],
+  "source_texts": [
+    "I require verification for my source of funds.",
+    "What transfer methods do you accept?",
+    "How can I look at where my available cash is coming from?",
+    "Can you please explain the topping up transfer process?",
+    "What do I need to do to verify my funds?",
+    "Is there a way to track my card?",
+    "Is this card available to Americans?",
+    "I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.",
+    "I have cash deposit to my account but it is experiencing a problem",
+    "It looks like someone besides me ordered something with my card, what should I do?",
+    "where exactly does money come from",
+    "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+    "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening.",
+    "Why do I need to verify my funds?",
+    "I would like to get help from someone in your customer service department with assisting me with activating my card.",
+    "For what reason must I authenticate the top up?",
+    "Why was the price higher when I paid with my card?",
+    "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+    "I need someone to assist me with explaining how much I can top-up.",
+    "I couldn't complete card activation.",
+    "my card details could be stolen, as i didnt make these transactions",
+    "I received my card, how do I get it to work in the app?",
+    "My transfer seems to be too expensive.",
+    "My source of funds need verification.",
+    "Can my daughter also have a card issued in her name, but linked to my account?",
+    "I couldn't get the money I needed.",
+    "What do I do if I cannot access the app?",
+    "Can my friend send me money if it is not in US dollars?",
+    "Is there a list of where I can use my card?",
+    "I seem to be having trouble with my Google Pay Top. Can you please help?",
+    "I have some transactions on my account I did not make. Can you cancel my card and prevent further use.",
+    "Can my account me accessed by a thief?  I was mugged.",
+    "How many incorrect attempts cause card to be blocked?",
+    "I usually don't get charged for transfers, why was I this month?",
+    "I got a message that I cannot name X as a beneficiary.",
+    "I would like to track the card you sent to me.",
+    "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!"
+  ],
+  "records": [
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I require verification for my source of funds.",
+      "generated": "I need to confirm the origin of my funds."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What transfer methods do you accept?",
+      "generated": "How do you facilitate transfers into an account?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I look at where my available cash is coming from?",
+      "generated": "Can you help me identify the source of my available funds?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can you please explain the topping up transfer process?",
+      "generated": "Could you walk me through the process of transferring funds into an account?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What do I need to do to verify my funds?",
+      "generated": "How can I confirm the origin of my funds?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Is there a way to track my card?",
+      "generated": "Can I check the status of my card delivery?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Is this card available to Americans?",
+      "generated": "Are U.S. citizens eligible to use this card?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.",
+      "generated": "I'm experiencing an issue with a transfer to another account, and I keep receiving a decline notification. Despite verifying the information multiple times, I'm still getting the same error message."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I have cash deposit to my account but it is experiencing a problem",
+      "generated": "I've made a cash deposit to my account, but my account balance hasn't been updated yet."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "It looks like someone besides me ordered something with my card, what should I do?",
+      "generated": "It appears that an unauthorized party has used my card to make a purchase, what steps can I take?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "where exactly does money come from",
+      "generated": "what is the origin of the funds"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+      "generated": "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening.",
+      "generated": "I'm confused, I've been making transfers without any issues, but just now, when I tried to make another one, it got declined. I've tried a few times, but the result is the same. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Why do I need to verify my funds?",
+      "generated": "We'd like to confirm the origin of your funds to ensure the transaction is legitimate and compliant with our banking regulations."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I would like to get help from someone in your customer service department with assisting me with activating my card.",
+      "generated": "I need assistance from your customer service team to activate my card."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "For what reason must I authenticate the top up?",
+      "generated": "Why do I need to confirm the top-up?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why was the price higher when I paid with my card?",
+      "generated": "Why was there an additional charge when I used my credit card to make the payment?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+      "generated": "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "I need someone to assist me with explaining how much I can top-up.",
+      "generated": "I require guidance on the maximum amount I can increase my limits."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I couldn't complete card activation.",
+      "generated": "I'm having trouble finishing the activation process for my card."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "my card details could be stolen, as i didnt make these transactions",
+      "generated": "my personal card information might have been compromised, since I didn't authorize these transactions"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I received my card, how do I get it to work in the app?",
+      "generated": "I got my new card, can you help me link it to my account so I can use it in the app?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "My transfer seems to be too expensive.",
+      "generated": "The fee associated with my transfer appears to be excessive."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My source of funds need verification.",
+      "generated": "We need to confirm the origin of your funds."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can my daughter also have a card issued in her name, but linked to my account?",
+      "generated": "Can I request a spare card in my daughter's name, which will be linked to my account?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I couldn't get the money I needed.",
+      "generated": "I didn't receive the correct amount of cash."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "What do I do if I cannot access the app?",
+      "generated": "I'm having trouble accessing the app and need help recovering my phone."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can my friend send me money if it is not in US dollars?",
+      "generated": "Can my friend transfer funds to me in a currency other than US dollars?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is there a list of where I can use my card?",
+      "generated": "Can you provide me with a list of locations where I can use my card for transactions?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I seem to be having trouble with my Google Pay Top. Can you please help?",
+      "generated": "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I have some transactions on my account I did not make. Can you cancel my card and prevent further use.",
+      "generated": "I'm concerned about unauthorized activity on my account. Can you suspend my card to stop any further transactions?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Can my account me accessed by a thief?  I was mugged.",
+      "generated": "Can my account be accessed by an unauthorized person? I had my phone stolen."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How many incorrect attempts cause card to be blocked?",
+      "generated": "What is the threshold for the number of incorrect PIN attempts that will trigger a card block?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I usually don't get charged for transfers, why was I this month?",
+      "generated": "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I got a message that I cannot name X as a beneficiary.",
+      "generated": "You're unable to designate X as a beneficiary."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I would like to track the card you sent to me.",
+      "generated": "I'd like to check on the status of the card that was mailed to me."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+      "generated": "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined."
+    }
+  ]
+}

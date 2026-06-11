@@ -1,0 +1,73 @@
+GEN | [edit_personal_details] | Orig: Am I able to modify my account details? -> Aug: Can I make changes to my personal information?
+GEN | [age_limit] | Orig: What is the youngest age for an account? -> Aug: At what minimum age can I open an account?
+GEN | [edit_personal_details] | Orig: details need to be modified -> Aug: information needs to be updated
+GEN | [edit_personal_details] | Orig: Talk me through modifying my details. -> Aug: Can you guide me through the process of updating my personal information?
+GEN | [beneficiary_not_allowed] | Orig: Why won't you let me name X as a beneficiary? -> Aug: You're asking why we're not permitting X to be designated as a beneficiary.
+GEN | [terminate_account] | Orig: What are the steps to finishing up with this account? -> Aug: How do I go about closing this account?
+GEN | [why_verify_identity] | Orig: Can i make transactions before identity verification? -> Aug: Can I initiate transactions before completing the identity verification process?
+GEN | [edit_personal_details] | Orig: Can I change my name?  I am not married. -> Aug: Can I update my personal information, specifically my name, since I am not married?
+GEN | [beneficiary_not_allowed] | Orig: Why am I not allowed to add a certain beneficiary? -> Aug: You are not permitted to add a specific beneficiary.
+GEN | [age_limit] | Orig: My son has just turned 13, is he old enough for an account? -> Aug: Is my 13-year-old son eligible to open an account?
+GEN | [why_verify_identity] | Orig: Why do you need to know so much about me for my account? -> Aug: We're verifying your identity to ensure the security and integrity of your account.
+GEN | [beneficiary_not_allowed] | Orig: What are then rules on beneficiaries? -> Aug: What are the restrictions on beneficiary designations?
+GEN | [getting_virtual_card] | Orig: what is a virtual and how do i get one -> Aug: How do I obtain a virtual card, and what is its purpose?
+GEN | [terminate_account] | Orig: I would like to close my account, as I'm not happy. -> Aug: I'd like to cancel my account, as I'm no longer satisfied.
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're planning to establish a savings plan for my child's future education expenses.
+GEN | [beneficiary_not_allowed] | Orig: What is preventing me from adding a specific beneficiary? -> Aug: Why am I unable to add a particular beneficiary to my account?
+GEN | [why_verify_identity] | Orig: why are all my identity details required -> Aug: what's the purpose of verifying my personal information
+GEN | [terminate_account] | Orig: I want to close my account now. -> Aug: I'd like to cancel my account immediately.
+GEN | [edit_personal_details] | Orig: Why can't I edit my personal details? -> Aug: Why am I unable to modify my personal information?
+GEN | [why_verify_identity] | Orig: Why do I have to give you my drivers license -> Aug: We're verifying your identity to ensure the security and integrity of your account.
+GEN | [terminate_account] | Orig: Can you close my account please? -> Aug: May I assist you in canceling your account?
+GEN | [edit_personal_details] | Orig: I am interested in changing my personal details. -> Aug: I'd like to update my personal information.
+GEN | [age_limit] | Orig: Is there a possibility to open an account for my sons and daughters? -> Aug: Can I open accounts for my children?
+GEN | [age_limit] | Orig: what is the age limit for opening a new account -> Aug: what is the minimum age requirement for opening a new account
+GEN | [why_verify_identity] | Orig: Can I make transfers before my identity verification? -> Aug: Can I initiate transactions before completing the identity verification process?
+GEN | [terminate_account] | Orig: How do I close my account, since I'm dissatisfied? -> Aug: How can I terminate my account, as I'm no longer satisfied with the service?
+GEN | [terminate_account] | Orig: Help me close my account. -> Aug: Can you assist me in canceling my account?
+GEN | [why_verify_identity] | Orig: Can I use my account even though the identity verification has not passed yet? -> Aug: Can I still access my account if the identity verification process hasn't been completed yet?
+GEN | [terminate_account] | Orig: I am not satisfied with your company and wish to delete all accounts immediately. -> Aug: I am unhappy with your services and would like to cancel all accounts forthwith.
+GEN | [terminate_account] | Orig: I am dissatisfied, I would like to close my account. -> Aug: I'm unhappy with my experience and would like to cancel my account.
+GEN | [terminate_account] | Orig: I'm not happy, I want to close my account. -> Aug: I'm dissatisfied and would like to cancel my account.
+GEN | [age_limit] | Orig: What about my children? -> Aug: What about my minors?
+GEN | [edit_personal_details] | Orig: Can I edit my details? -> Aug: May I modify my personal information?
+GEN | [age_limit] | Orig: Is there an age limit to get an account? -> Aug: Are there any age restrictions for opening an account?
+GEN | [edit_personal_details] | Orig: I just got married and need to change my name on the account -> Aug: I recently got married and would like to update my personal information to reflect my new married name.
+GEN | [age_limit] | Orig: Is it possible for me to set up separate accounts for my kids? -> Aug: Can I create individual accounts for my children?
+VAL | [edit_personal_details] | ACCEPT | Reason: N/A | Original: Am I able to modify my account details? | Augmented: Can I make changes to my personal information?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: What is the youngest age for an account? | Augmented: At what minimum age can I open an account?
+VAL | [edit_personal_details] | ACCEPT | Reason: Both phrases indicate a need to change or correct personal information in a banking context. | Original: details need to be modified | Augmented: information needs to be updated
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: Talk me through modifying my details. | Augmented: Can you guide me through the process of updating my personal information?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: ... | Original: Why won't you let me name X as a beneficiary? | Augmented: You're asking why we're not permitting X to be designated as a beneficiary.
+VAL | [terminate_account] | ACCEPT | Reason: Both texts are asking about the process of ending an account relationship, which aligns with the target intent of 'terminate_account'. There is no contradiction, and the text is specific enough. | Original: What are the steps to finishing up with this account? | Augmented: How do I go about closing this account?
+VAL | [why_verify_identity] | ACCEPT | Reason: ... | Original: Can i make transactions before identity verification? | Augmented: Can I initiate transactions before completing the identity verification process?
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: Can I change my name?  I am not married. | Augmented: Can I update my personal information, specifically my name, since I am not married?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: ... | Original: Why am I not allowed to add a certain beneficiary? | Augmented: You are not permitted to add a specific beneficiary.
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: My son has just turned 13, is he old enough for an account? | Augmented: Is my 13-year-old son eligible to open an account?
+VAL | [why_verify_identity] | ACCEPT | Reason: N/A | Original: Why do you need to know so much about me for my account? | Augmented: We're verifying your identity to ensure the security and integrity of your account.
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: What are then rules on beneficiaries? | Augmented: What are the restrictions on beneficiary designations?
+VAL | [getting_virtual_card] | ACCEPT | Reason: While the wording has changed, the core question about obtaining a virtual card is preserved. | Original: what is a virtual and how do i get one | Augmented: How do I obtain a virtual card, and what is its purpose?
+VAL | [terminate_account] | ACCEPT | Reason: Both texts convey the same intent of closing/canceling an account due to dissatisfaction. | Original: I would like to close my account, as I'm not happy. | Augmented: I'd like to cancel my account, as I'm no longer satisfied.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: We want to start a college fund for my daughter. | Augmented: We're planning to establish a savings plan for my child's future education expenses.
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: Both texts are asking about the reason for not being able to add a beneficiary, preserving the intent of the original text. | Original: What is preventing me from adding a specific beneficiary? | Augmented: Why am I unable to add a particular beneficiary to my account?
+VAL | [why_verify_identity] | ACCEPT | Reason: ... | Original: why are all my identity details required | Augmented: what's the purpose of verifying my personal information
+VAL | [terminate_account] | ACCEPT | Reason: N/A | Original: I want to close my account now. | Augmented: I'd like to cancel my account immediately.
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: Why can't I edit my personal details? | Augmented: Why am I unable to modify my personal information?
+VAL | [why_verify_identity] | UNKNOWN | Reason: N/A | Original: Why do I have to give you my drivers license | Augmented: We're verifying your identity to ensure the security and integrity of your account.
+VAL | [terminate_account] | ACCEPT | Reason: ... | Original: Can you close my account please? | Augmented: May I assist you in canceling your account?
+VAL | [edit_personal_details] | ACCEPT | Reason: Both sentences convey the same intent of wanting to change personal details, which aligns with the target intent 'edit_personal_details'. There is no contradiction or ambiguity introduced. | Original: I am interested in changing my personal details. | Augmented: I'd like to update my personal information.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Is there a possibility to open an account for my sons and daughters? | Augmented: Can I open accounts for my children?
+VAL | [age_limit] | ACCEPT | Reason: Both texts are asking about the age requirement to open a new account, preserving the 'age_limit' intent. | Original: what is the age limit for opening a new account | Augmented: what is the minimum age requirement for opening a new account
+VAL | [why_verify_identity] | ACCEPT | Reason: ... | Original: Can I make transfers before my identity verification? | Augmented: Can I initiate transactions before completing the identity verification process?
+VAL | [terminate_account] | ACCEPT | Reason: ... | Original: How do I close my account, since I'm dissatisfied? | Augmented: How can I terminate my account, as I'm no longer satisfied with the service?
+VAL | [terminate_account] | ACCEPT | Reason: ... | Original: Help me close my account. | Augmented: Can you assist me in canceling my account?
+VAL | [why_verify_identity] | ACCEPT | Reason: Both texts are asking about the ability to use an account while the identity verification is pending, which aligns with the 'why_verify_identity' intent. | Original: Can I use my account even though the identity verification has not passed yet? | Augmented: Can I still access my account if the identity verification process hasn't been completed yet?
+VAL | [terminate_account] | ACCEPT | Reason: N/A | Original: I am not satisfied with your company and wish to delete all accounts immediately. | Augmented: I am unhappy with your services and would like to cancel all accounts forthwith.
+VAL | [terminate_account] | ACCEPT | Reason: ... | Original: I am dissatisfied, I would like to close my account. | Augmented: I'm unhappy with my experience and would like to cancel my account.
+VAL | [terminate_account] | ACCEPT | Reason: ... | Original: I'm not happy, I want to close my account. | Augmented: I'm dissatisfied and would like to cancel my account.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: What about my children? | Augmented: What about my minors?
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: Can I edit my details? | Augmented: May I modify my personal information?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Is there an age limit to get an account? | Augmented: Are there any age restrictions for opening an account?
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: I just got married and need to change my name on the account | Augmented: I recently got married and would like to update my personal information to reflect my new married name.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Is it possible for me to set up separate accounts for my kids? | Augmented: Can I create individual accounts for my children?
+VAL_SUMMARY | ACCEPT: 35 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 1 | Accept Rate: 0.9722

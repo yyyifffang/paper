@@ -1,0 +1,79 @@
+GEN | [getting_spare_card] | Orig: Is a new debit card free? -> Aug: Can I get a new debit card without any additional charges?
+GEN | [passcode_forgotten] | Orig: Can you tell me my code to get into the app? -> Aug: I forgot my passcode to access the app, can you help me retrieve it?
+GEN | [card_payment_fee_charged] | Orig: how do i avoid charges in the future -> Aug: what can I do to prevent being charged a fee on my card in the future?
+GEN | [compromised_card] | Orig: I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more? -> Aug: I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?
+GEN | [card_linking] | Orig: Can I put my old card back in the app? -> Aug: Can I reactivate my previous card in the app?
+GEN | [order_physical_card] | Orig: What does the bank charge for lost or stolen card replacements? -> Aug: How much does the bank charge for issuing a new physical card if my original one is lost or stolen?
+GEN | [why_verify_identity] | Orig: Why are you asking so many questions about me? -> Aug: We're verifying your identity to ensure the security and integrity of your account.
+GEN | [cash_withdrawal_not_recognised] | Orig: I am seeing unathorized transactions in the app, on my account. -> Aug: I'm noticing some suspicious activity on my account, showing up in the app without my permission.
+GEN | [topping_up_by_card] | Orig: My friends would like to add to my account. What is the procedure? -> Aug: How can I add funds to my account using my card?
+GEN | [transfer_timing] | Orig: Help! I need to transfer something to China. -> Aug: Can you assist me with arranging a transfer to China?
+GEN | [exchange_via_app] | Orig: Can I use this app to change money? -> Aug: Can I make a currency exchange using this mobile app?
+GEN | [card_linking] | Orig: How can I make my card show up in the app? -> Aug: Why isn't my card visible in the app?
+GEN | [card_linking] | Orig: Can I add a card back to the app? -> Aug: Can I link a card to the app again?
+GEN | [exchange_via_app] | Orig: My plans may change so I may need to change from GBP to AUD. -> Aug: My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars.
+GEN | [card_linking] | Orig: Can I add a card to back into the app? -> Aug: Can I link a card to my account within the app?
+GEN | [compromised_card] | Orig: I don't recognize some transactions.  Is someone else using it? -> Aug: I'm concerned about unauthorized activity on my account. Is someone else accessing my card?
+GEN | [passcode_forgotten] | Orig: I can't find my code -> Aug: I've misplaced my passcode
+GEN | [edit_personal_details] | Orig: I have a new email. -> Aug: I've received a new email address.
+GEN | [card_about_to_expire] | Orig: Am I able to get this shipped to China? -> Aug: Can I have this card about to expire sent to China?
+GEN | [verify_top_up] | Orig: I don't see the verification code for my card transfer. -> Aug: I'm having trouble finding the verification code for my recent top-up.
+GEN | [pin_blocked] | Orig: I managed to drunken block my card :(( Help! -> Aug: I accidentally locked my card due to a mistake :(( Assist me!
+GEN | [card_linking] | Orig: I have one of your cards, but I don't know how to link it. -> Aug: I'm having trouble linking one of my cards to my account.
+GEN | [card_linking] | Orig: Can I add a card that I just found (again) to the app? -> Aug: Can I link a recently discovered card to the app?
+GEN | [transfer_not_received_by_recipient] | Orig: i accidentally entered in my retailers information, what should i do next -> Aug: The transfer was mistakenly sent to the wrong recipient, what steps can I take to rectify the situation?
+GEN | [receiving_money] | Orig: How can my boss pay me directly to the card? -> Aug: How can my boss deposit funds directly to my card?
+GEN | [receiving_money] | Orig: My friend wants to send me money, can she? -> Aug: Is it possible for my friend to transfer funds to me?
+GEN | [card_about_to_expire] | Orig: Where can I have a new bank card sent to China? -> Aug: Can I request a replacement bank card to be delivered to China?
+GEN | [compromised_card] | Orig: am suspicious of my card's security -> Aug: I'm concerned about the security of my card.
+GEN | [transfer_into_account] | Orig: My account is devoid of funds. Am I permitted to submit additional money via bank transfer? -> Aug: Can I still make a deposit into my account using a bank transfer, even though my account is currently empty?
+GEN | [getting_virtual_card] | Orig: And do you have virtual cards instead of physical ones? -> Aug: Are there any digital cards available instead of traditional physical cards?
+GEN | [card_linking] | Orig: How do I make my card show up in the app? -> Aug: Why isn't my card visible in the app?
+GEN | [card_about_to_expire] | Orig: Are there restrictions on new cards in China? -> Aug: Are there any limitations on issuing new cards in China?
+GEN | [receiving_money] | Orig: I need my payment in another currency -> Aug: I require my funds in a different currency
+GEN | [fiat_currency_support] | Orig: Do you have EUR currency available for me? -> Aug: Can I get some information on the availability of the Euro currency for my transaction?
+GEN | [direct_debit_payment_not_recognised] | Orig: People are using my debit card - help! -> Aug: We've received a payment attempt from your debit card, but it's not being recognized.
+GEN | [getting_spare_card] | Orig: Can I have a spare card for this account please? -> Aug: Could you provide me with a replacement card for this account?
+GEN | [card_about_to_expire] | Orig: How do I go about ordering a new bank card? -> Aug: What steps can I take to get a replacement bank card before my current one expires?
+GEN | [compromised_card] | Orig: The card has suffered a security breach. -> Aug: The card's security has been compromised.
+GEN | [card_linking] | Orig: Will I need a new card or can I put my old card back into the app? -> Aug: Can I reactivate my existing card or do I need to request a new one for use with the app?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: Is a new debit card free? | Augmented: Can I get a new debit card without any additional charges?
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: Can you tell me my code to get into the app? | Augmented: I forgot my passcode to access the app, can you help me retrieve it?
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: N/A | Original: how do i avoid charges in the future | Augmented: what can I do to prevent being charged a fee on my card in the future?
+VAL | [compromised_card] | ACCEPT | Reason: ... | Original: I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more? | Augmented: I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: Can I put my old card back in the app? | Augmented: Can I reactivate my previous card in the app?
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: What does the bank charge for lost or stolen card replacements? | Augmented: How much does the bank charge for issuing a new physical card if my original one is lost or stolen?
+VAL | [why_verify_identity] | ACCEPT | Reason: N/A | Original: Why are you asking so many questions about me? | Augmented: We're verifying your identity to ensure the security and integrity of your account.
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: I am seeing unathorized transactions in the app, on my account. | Augmented: I'm noticing some suspicious activity on my account, showing up in the app without my permission.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: My friends would like to add to my account. What is the procedure? | Augmented: How can I add funds to my account using my card?
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: Help! I need to transfer something to China. | Augmented: Can you assist me with arranging a transfer to China?
+VAL | [exchange_via_app] | ACCEPT | Reason: ... | Original: Can I use this app to change money? | Augmented: Can I make a currency exchange using this mobile app?
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: How can I make my card show up in the app? | Augmented: Why isn't my card visible in the app?
+VAL | [card_linking] | ACCEPT | Reason: Both texts are asking about the process of associating a card with an app, which is a clear instance of the card_linking intent. | Original: Can I add a card back to the app? | Augmented: Can I link a card to the app again?
+VAL | [exchange_via_app] | ACCEPT | Reason: N/A | Original: My plans may change so I may need to change from GBP to AUD. | Augmented: My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars.
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: Can I add a card to back into the app? | Augmented: Can I link a card to my account within the app?
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: I don't recognize some transactions.  Is someone else using it? | Augmented: I'm concerned about unauthorized activity on my account. Is someone else accessing my card?
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I can't find my code | Augmented: I've misplaced my passcode
+VAL | [edit_personal_details] | ACCEPT | Reason: N/A | Original: I have a new email. | Augmented: I've received a new email address.
+VAL | [card_about_to_expire] | UNKNOWN | Reason: N/A | Original: Am I able to get this shipped to China? | Augmented: Can I have this card about to expire sent to China?
+VAL | [verify_top_up] | ACCEPT | Reason: N/A | Original: I don't see the verification code for my card transfer. | Augmented: I'm having trouble finding the verification code for my recent top-up.
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: I managed to drunken block my card :(( Help! | Augmented: I accidentally locked my card due to a mistake :(( Assist me!
+VAL | [card_linking] | ACCEPT | Reason: ... | Original: I have one of your cards, but I don't know how to link it. | Augmented: I'm having trouble linking one of my cards to my account.
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: Can I add a card that I just found (again) to the app? | Augmented: Can I link a recently discovered card to the app?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: i accidentally entered in my retailers information, what should i do next | Augmented: The transfer was mistakenly sent to the wrong recipient, what steps can I take to rectify the situation?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: How can my boss pay me directly to the card? | Augmented: How can my boss deposit funds directly to my card?
+VAL | [receiving_money] | ACCEPT | Reason: ... | Original: My friend wants to send me money, can she? | Augmented: Is it possible for my friend to transfer funds to me?
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: Where can I have a new bank card sent to China? | Augmented: Can I request a replacement bank card to be delivered to China?
+VAL | [compromised_card] | ACCEPT | Reason: Both sentences convey a sense of worry or suspicion regarding the security of a card, which is consistent with the idea that the card might have been compromised. | Original: am suspicious of my card's security | Augmented: I'm concerned about the security of my card.
+VAL | [transfer_into_account] | ACCEPT | Reason: ... | Original: My account is devoid of funds. Am I permitted to submit additional money via bank transfer? | Augmented: Can I still make a deposit into my account using a bank transfer, even though my account is currently empty?
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: And do you have virtual cards instead of physical ones? | Augmented: Are there any digital cards available instead of traditional physical cards?
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: How do I make my card show up in the app? | Augmented: Why isn't my card visible in the app?
+VAL | [card_about_to_expire] | REVIEW | Reason: N/A | Original: Are there restrictions on new cards in China? | Augmented: Are there any limitations on issuing new cards in China?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: I need my payment in another currency | Augmented: I require my funds in a different currency
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: Do you have EUR currency available for me? | Augmented: Can I get some information on the availability of the Euro currency for my transaction?
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: N/A | Original: People are using my debit card - help! | Augmented: We've received a payment attempt from your debit card, but it's not being recognized.
+VAL | [getting_spare_card] | ACCEPT | Reason: ... | Original: Can I have a spare card for this account please? | Augmented: Could you provide me with a replacement card for this account?
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: How do I go about ordering a new bank card? | Augmented: What steps can I take to get a replacement bank card before my current one expires?
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: The card has suffered a security breach. | Augmented: The card's security has been compromised.
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: Will I need a new card or can I put my old card back into the app? | Augmented: Can I reactivate my existing card or do I need to request a new one for use with the app?
+VAL_SUMMARY | ACCEPT: 37 | REVIEW: 1 | REJECT: 0 | UNKNOWN: 1 | Accept Rate: 0.9487

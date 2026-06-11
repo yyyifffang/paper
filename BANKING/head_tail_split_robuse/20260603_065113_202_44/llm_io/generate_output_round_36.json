@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "I recently made a purchase, but there's a problem. I received one item, but the payment was reversed and the amount was credited back to my account. What's going on?",
+    "How many cash machines accept this card?",
+    "How can I obtain a replacement card?",
+    "Can I access my account services if my identity has not been fully verified?",
+    "I'm having trouble making any purchases with my card today. Can you help me figure out what's going on?",
+    "I made a transfer to my family on Friday, but they haven't received it yet.",
+    "Are there any alternative card options available before my current card expires?",
+    "I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?",
+    "What can I do to avoid incurring a charge when withdrawing cash from an ATM?",
+    "I've recently relocated. Can I update my address with your bank?",
+    "Am I supposed to be charged a fee for the transfer of funds?",
+    "The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?",
+    "I require a replacement card as my previous one has been stolen.",
+    "Can I link a card to my account within the app?",
+    "When I converted my cash, the exchange rate was incorrect.",
+    "A payment made from my account was not recognized.",
+    "Are there any charges associated with using a European bank card for a top-up?",
+    "I've been mistakenly charged twice.",
+    "If I require additional cards, will I be charged a fee for obtaining them?",
+    "I'm worried that my card has been stolen.",
+    "We've noticed an unexpected payment on your statement. Can you help us understand what this payment is for?",
+    "What is the exchange charge for accepting an international transfer?",
+    "Can you facilitate additional deposits?",
+    "Can you guide me on how to exchange currency for Australian dollars instead of British pounds?",
+    "A recipient informed me that they didn't receive the full transfer I initiated, and the amount was short. I'll need to make an additional transfer to cover the shortfall. Could you please investigate this discrepancy and get back to me?",
+    "How can I reactivate my new card?",
+    "I'm having trouble sending funds, but I've successfully done so in the past. What's changed?",
+    "The transfer to the intended recipient was unsuccessful.",
+    "I recently made a card payment, but it appears to be pending. Can you tell me what the usual processing time is for a payment like this?",
+    "I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds.",
+    "A payment I made has not yet been processed.",
+    "I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize.",
+    "how can I proceed with a cash deposit or cheque top-up?",
+    "Why did you apply an incorrect exchange rate for my international transaction? I was expecting a more competitive rate for the foreign currency."
+  ],
+  "generated_labels": [
+    53,
+    3,
+    39,
+    74,
+    14,
+    66,
+    9,
+    52,
+    19,
+    30,
+    64,
+    26,
+    41,
+    13,
+    76,
+    28,
+    57,
+    63,
+    39,
+    41,
+    16,
+    31,
+    61,
+    33,
+    64,
+    0,
+    7,
+    7,
+    45,
+    4,
+    45,
+    20,
+    58,
+    17
+  ],
+  "source_texts": [
+    "Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?",
+    "How many ATMs will take this card?",
+    "What steps do I need to get another card?",
+    "Can I use my account now, even though my identity verification has not gone through yet?",
+    "I haven't been able to complete any transactions on my card today. Do you know what's wrong?",
+    "I sent money to my family last Friday but they don't have it.",
+    "Are new cards available from China?",
+    "I just bought an item and would like to stop payment can you tell me if the item has been sent yet?",
+    "How do I avoid a fee to use an ATM?",
+    "I just moved. How do I give you my new address?",
+    "Should I be seeing a fee applied for my money transfer?",
+    "The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?",
+    "I need to order a new card as my other one was stolen.",
+    "Can I add a card to back into the app?",
+    "When I exchanged currencies the value of my money changed.",
+    "Someone else charged my card!",
+    "Is there a fee for european bank cards?",
+    "I have been overcharged.",
+    "If I need more than cards will I have to pay a fee to receive them?",
+    "Help!  I fear that my card was stolen,",
+    "Why is there a random payment in my statement?",
+    "How much do I have to pay to accept an international transfer?",
+    "Do you support top ups?",
+    "Can you  tell me how to get AUD not GBP?",
+    "A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?",
+    "How can my new card be renewed?",
+    "Why am I unable to transfer money when I was able to before?",
+    "My account transfer was not cleared.",
+    "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?",
+    "I have a trip coming up and want to add money automatically.",
+    "I have a payment which has not been approved.",
+    "I believe my card has been compromised as there are funds showing that I did not receive.",
+    "how do i find top up for cash deposit",
+    "Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate"
+  ],
+  "records": [
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?",
+      "generated": "I recently made a purchase, but there's a problem. I received one item, but the payment was reversed and the amount was credited back to my account. What's going on?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How many ATMs will take this card?",
+      "generated": "How many cash machines accept this card?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "What steps do I need to get another card?",
+      "generated": "How can I obtain a replacement card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can I use my account now, even though my identity verification has not gone through yet?",
+      "generated": "Can I access my account services if my identity has not been fully verified?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I haven't been able to complete any transactions on my card today. Do you know what's wrong?",
+      "generated": "I'm having trouble making any purchases with my card today. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I sent money to my family last Friday but they don't have it.",
+      "generated": "I made a transfer to my family on Friday, but they haven't received it yet."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Are new cards available from China?",
+      "generated": "Are there any alternative card options available before my current card expires?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I just bought an item and would like to stop payment can you tell me if the item has been sent yet?",
+      "generated": "I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How do I avoid a fee to use an ATM?",
+      "generated": "What can I do to avoid incurring a charge when withdrawing cash from an ATM?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I just moved. How do I give you my new address?",
+      "generated": "I've recently relocated. Can I update my address with your bank?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Should I be seeing a fee applied for my money transfer?",
+      "generated": "Am I supposed to be charged a fee for the transfer of funds?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?",
+      "generated": "The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I need to order a new card as my other one was stolen.",
+      "generated": "I require a replacement card as my previous one has been stolen."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can I add a card to back into the app?",
+      "generated": "Can I link a card to my account within the app?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "When I exchanged currencies the value of my money changed.",
+      "generated": "When I converted my cash, the exchange rate was incorrect."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Someone else charged my card!",
+      "generated": "A payment made from my account was not recognized."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Is there a fee for european bank cards?",
+      "generated": "Are there any charges associated with using a European bank card for a top-up?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have been overcharged.",
+      "generated": "I've been mistakenly charged twice."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "If I need more than cards will I have to pay a fee to receive them?",
+      "generated": "If I require additional cards, will I be charged a fee for obtaining them?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Help!  I fear that my card was stolen,",
+      "generated": "I'm worried that my card has been stolen."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is there a random payment in my statement?",
+      "generated": "We've noticed an unexpected payment on your statement. Can you help us understand what this payment is for?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "How much do I have to pay to accept an international transfer?",
+      "generated": "What is the exchange charge for accepting an international transfer?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you support top ups?",
+      "generated": "Can you facilitate additional deposits?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can you  tell me how to get AUD not GBP?",
+      "generated": "Can you guide me on how to exchange currency for Australian dollars instead of British pounds?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?",
+      "generated": "A recipient informed me that they didn't receive the full transfer I initiated, and the amount was short. I'll need to make an additional transfer to cover the shortfall. Could you please investigate this discrepancy and get back to me?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can my new card be renewed?",
+      "generated": "How can I reactivate my new card?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why am I unable to transfer money when I was able to before?",
+      "generated": "I'm having trouble sending funds, but I've successfully done so in the past. What's changed?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "My account transfer was not cleared.",
+      "generated": "The transfer to the intended recipient was unsuccessful."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?",
+      "generated": "I recently made a card payment, but it appears to be pending. Can you tell me what the usual processing time is for a payment like this?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I have a trip coming up and want to add money automatically.",
+      "generated": "I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I have a payment which has not been approved.",
+      "generated": "A payment I made has not yet been processed."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I believe my card has been compromised as there are funds showing that I did not receive.",
+      "generated": "I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how do i find top up for cash deposit",
+      "generated": "how can I proceed with a cash deposit or cheque top-up?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate",
+      "generated": "Why did you apply an incorrect exchange rate for my international transaction? I was expecting a more competitive rate for the foreign currency."
+    }
+  ]
+}

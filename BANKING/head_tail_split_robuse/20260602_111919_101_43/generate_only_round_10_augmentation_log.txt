@@ -1,0 +1,36 @@
+GEN | [card_delivery_estimate] | Orig: can you express my card to me? -> Aug: Can you provide an estimate for the delivery of my card?
+GEN | [contactless_not_working] | Orig: Can I make a contactless payments? -> Aug: Can I use contactless payment methods?
+GEN | [activate_my_card] | Orig: I need to actuate my card. -> Aug: I'd like to activate my card.
+GEN | [contactless_not_working] | Orig: Contactless payments need to be enabled for my card. -> Aug: Contactless payment functionality is currently unavailable for my card.
+GEN | [activate_my_card] | Orig: how long should i wait ti activate my card -> Aug: when can i expect to activate my card
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I add physical money to my card? -> Aug: You can replenish your card balance by depositing cash or cheque.
+GEN | [contactless_not_working] | Orig: Why wasn't my contactless accepted at the metro? -> Aug: Why did my contactless payment fail to work at the metro station?
+GEN | [getting_spare_card] | Orig: I would like to get additional physical cards at this time -> Aug: I'd like to obtain extra physical debit/credit cards right now
+GEN | [automatic_top_up] | Orig: Can I have money transferred into my account at different intervals along my trip? -> Aug: Can I set up recurring transfers to my account during my trip?
+GEN | [supported_cards_and_currencies] | Orig: What are my payment options? -> Aug: What methods of payment do you accept?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: what are weekend rates for getting cash -> Aug: what is the exchange rate for a cash withdrawal on a weekend?
+GEN | [verify_my_identity] | Orig: why do I need to show ID -> Aug: what's the purpose of verifying my identity
+GEN | [top_up_failed] | Orig: I can't add any more money. -> Aug: I'm unable to make a successful top-up.
+GEN | [transaction_charged_twice] | Orig: I have multiple of the same transaction -> Aug: I've noticed duplicate transactions on my account.
+GEN | [transfer_into_account] | Orig: I have no more money in my account.  Is there a way to do a bank transfer to put money into my account? -> Aug: I'm running low on funds in my account. Can I initiate a transfer to replenish my account balance?
+GEN | [card_payment_not_recognised] | Orig: I've got charges on my account I did not authorize. Can I get this money back from the last couple of days that it's been coming out? I also need to freeze my card. -> Aug: I'm concerned about unauthorized transactions on my account. Can I request a refund for the recent charges? Additionally, I'd like to temporarily suspend my card to prevent further unauthorized activity.
+GEN | [receiving_money] | Orig: How can my friend pay me? -> Aug: How can I receive payment from my friend?
+GEN | [card_acceptance] | Orig: Are there limits as to where my card will be accepted? -> Aug: Can I use my card at any location, or are there specific places where it won't be accepted?
+GEN | [virtual_card_not_working] | Orig: I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why? -> Aug: I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?
+GEN | [topping_up_by_card] | Orig: Can I get my friends to add money to my account? -> Aug: Can I have my friends use their cards to top up my account?
+GEN | [cash_withdrawal_not_recognised] | Orig: I hope you can help me. My account has been compromised from a different town that I haven't been to. Can you please place a hold on my account until I can make it to the bank? -> Aug: I'm experiencing an issue with a cash withdrawal that's not being recognized. I'm concerned about unauthorized activity on my account from a location I've never visited. Could you please place a temporary hold on my account until I can visit the bank in person?
+GEN | [activate_my_card] | Orig: Explain the activation method for this card -> Aug: Describe the process to enable the functionality of this card
+GEN | [wrong_amount_of_cash_received] | Orig: Why can't I take $100 out -> Aug: I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are SWIFT Transfers available at this bank? -> Aug: Can I use bank transfer to top up my account at this bank?
+GEN | [transfer_into_account] | Orig: Can I use my bank account to send me more money? -> Aug: Can I transfer funds from my bank account to add more money to it?
+GEN | [passcode_forgotten] | Orig: I can't find my code -> Aug: I've misplaced my passcode
+GEN | [order_physical_card] | Orig: do i need to add money before i order a card -> Aug: Do I need to fund my account before placing an order for a physical card?
+GEN | [declined_transfer] | Orig: I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate. -> Aug: I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct.
+GEN | [pin_blocked] | Orig: How do I take a block off my card? -> Aug: What steps can I take to remove the block on my card?
+GEN | [fiat_currency_support] | Orig: Do you have EUR currency available for me? -> Aug: Can I get some information on the availability of the Euro currency for my transaction?
+GEN | [topping_up_by_card] | Orig: Is it possible to transfer money to my credit card? -> Aug: Can I use my credit card to add funds to my account?
+GEN | [pending_transfer] | Orig: I have a trasnger that is pending and wondered about it. -> Aug: I have a transfer that's currently pending and I'd like some information about it.
+GEN | [top_up_failed] | Orig: I really need to top-up my card today urgently but my card keeps getting declined!! Can you please help me with this problem or let me know if you have any alternatives -> Aug: I'm in a bit of an emergency and I desperately need to add funds to my card, but it's not accepting the top-up. Can you assist me with this issue or suggest an alternative solution?
+GEN | [transfer_into_account] | Orig: Can I withdraw money from another bank and transfer it into my empty account? -> Aug: Can I transfer funds from another bank into my account, which currently has no balance?
+GEN | [top_up_limits] | Orig: It seems I need to get information on limits for top-ups. -> Aug: Can you provide details about the limits for making deposits or adding funds to my account?
+GEN | [activate_my_card] | Orig: You can activate your card in a few seconds by going to account, hitting activate, and just following the directions. -> Aug: You can easily activate your card by accessing your account, selecting the 'activate' option, and following the on-screen instructions.

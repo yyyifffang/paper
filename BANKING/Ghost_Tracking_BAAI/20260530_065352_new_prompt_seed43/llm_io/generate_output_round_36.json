@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I'm trying to figure out what's going on with my recently issued card.",
+    "I'm having trouble completing a bank transfer and I'm wondering if there's an issue with insufficient funds or if I've exceeded the transfer limit.",
+    "I'm having trouble finding the automatic top-up feature, can you help me locate it?",
+    "Why are the purchases I made earlier today still pending for payment?",
+    "I'm trying to understand why the payment I made wasn't credited to the seller, as they're saying it didn't go through. Can you help me resolve this issue?",
+    "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?",
+    "Can I set up automatic top-ups for my card while I'm traveling?",
+    "Can I use my card for purchases at any location?",
+    "What are Interbank's current exchange rates?",
+    "Can I check the status of a card that has already been dispatched?",
+    "I'd like to increase my account balance by transferring funds into my account.",
+    "Why was my transfer rejected?",
+    "Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?",
+    "I'd like to transfer funds from a foreign account to this account.",
+    "What is the typical processing speed for international transfers from Europe?",
+    "When would I require a temporary virtual card?",
+    "Can you confirm the origin of the funds being transferred to my account?",
+    "Suspicious activity detected on my account.",
+    "I've forgotten my passcode, could you please reset it for me?",
+    "Why hasn't my transfer been received by the recipient yet?",
+    "I require my card as soon as possible.",
+    "what methods are available to top up my account using my American Express card?",
+    "Why was the payment for one of my transactions reversed and credited back to my account?",
+    "Can you tell me what data source is used to determine the exchange rate for the transfer I'm planning to make?",
+    "My bank card has reached its expiration date, what steps can I take to obtain a replacement physical card?",
+    "I recently reported my card as missing, but I've since located it. Can I still use it?",
+    "I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds.",
+    "What is the price of a physical card, and can you explain the fees associated with it?",
+    "When can I expect my transfer to be successfully delivered to the recipient's account?",
+    "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?",
+    "If I require additional cards, will I be charged a fee for obtaining them?",
+    "I'd like to set up an automatic transfer to top up my account whenever I'm abroad.",
+    "Is the exchange rate adjusted daily for transactions? I've noticed a discrepancy in the rate applied to my recent purchase.",
+    "I recently initiated a transfer from my UK account, but my account balance hasn't been updated yet. Can you please let me know what's causing the delay?",
+    "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?",
+    "I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?"
+  ],
+  "generated_labels": [
+    11,
+    35,
+    4,
+    45,
+    53,
+    49,
+    4,
+    10,
+    32,
+    11,
+    65,
+    27,
+    46,
+    65,
+    67,
+    37,
+    70,
+    22,
+    44,
+    66,
+    12,
+    54,
+    53,
+    32,
+    9,
+    13,
+    4,
+    43,
+    66,
+    66,
+    39,
+    4,
+    17,
+    5,
+    35,
+    53
+  ],
+  "source_texts": [
+    "I want to find out what happened to my new card?",
+    "I'm trying to make a bank transfer but It's not going through. Could there not be enough funds to transfer or something? Have I done it too many times?",
+    "I know there's an auto-top option but I can not locate it when I look?",
+    "Why are the things I bought earlier today still showing as pending?",
+    "I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here?",
+    "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+    "Can I add money to my card automatically during a trip?",
+    "Can I pay with my card anywhere?",
+    "What are Interbanks current exchange rates?",
+    "Am I able to track a card that has already been sent?",
+    "I need more money in my account. Can I add more by transferring?",
+    "How do I make my transfer go through",
+    "Why does it still charge me even though I was unable to withdraw money from the ATM?",
+    "I have money in a foreign account that I want to send to this account.",
+    "How fast are transfers from Europe?",
+    "How do I know if i need a disposable card?",
+    "Can I see where my money is being transferred from?",
+    "Questionable transactions on my account.",
+    "I can't remember my app code, can you reset it?",
+    "Why is my transaction taking so long to complete?",
+    "I need my card right away.",
+    "how can i add money from my amex card",
+    "Why did the funds for one of my purchase come back to my account?",
+    "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+    "My bank card has expired, how can I get a new physical card?",
+    "I recently reported my card as missing/lost, and I just found it. Can I still use it?",
+    "I have a trip coming up and want to add money automatically.",
+    "how much does a card cost and why do you charge me",
+    "How long do I have  to wait for my transaction to be completed?",
+    "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+    "If I need more than cards will I have to pay a fee to receive them?",
+    "I want to add money automatically when I travel.",
+    "Does the exchange rate change each day for purchases? There is a different rate on my purchase.",
+    "How long does a transfer from a UK account take? I just made one and it doesn't seem to be working, wondering if everything is okay",
+    "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+    "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?"
+  ],
+  "records": [
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I want to find out what happened to my new card?",
+      "generated": "I'm trying to figure out what's going on with my recently issued card."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I'm trying to make a bank transfer but It's not going through. Could there not be enough funds to transfer or something? Have I done it too many times?",
+      "generated": "I'm having trouble completing a bank transfer and I'm wondering if there's an issue with insufficient funds or if I've exceeded the transfer limit."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I know there's an auto-top option but I can not locate it when I look?",
+      "generated": "I'm having trouble finding the automatic top-up feature, can you help me locate it?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why are the things I bought earlier today still showing as pending?",
+      "generated": "Why are the purchases I made earlier today still pending for payment?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here?",
+      "generated": "I'm trying to understand why the payment I made wasn't credited to the seller, as they're saying it didn't go through. Can you help me resolve this issue?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+      "generated": "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money to my card automatically during a trip?",
+      "generated": "Can I set up automatic top-ups for my card while I'm traveling?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Can I pay with my card anywhere?",
+      "generated": "Can I use my card for purchases at any location?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What are Interbanks current exchange rates?",
+      "generated": "What are Interbank's current exchange rates?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Am I able to track a card that has already been sent?",
+      "generated": "Can I check the status of a card that has already been dispatched?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need more money in my account. Can I add more by transferring?",
+      "generated": "I'd like to increase my account balance by transferring funds into my account."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How do I make my transfer go through",
+      "generated": "Why was my transfer rejected?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why does it still charge me even though I was unable to withdraw money from the ATM?",
+      "generated": "Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I have money in a foreign account that I want to send to this account.",
+      "generated": "I'd like to transfer funds from a foreign account to this account."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How fast are transfers from Europe?",
+      "generated": "What is the typical processing speed for international transfers from Europe?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "How do I know if i need a disposable card?",
+      "generated": "When would I require a temporary virtual card?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I see where my money is being transferred from?",
+      "generated": "Can you confirm the origin of the funds being transferred to my account?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "Questionable transactions on my account.",
+      "generated": "Suspicious activity detected on my account."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't remember my app code, can you reset it?",
+      "generated": "I've forgotten my passcode, could you please reset it for me?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why is my transaction taking so long to complete?",
+      "generated": "Why hasn't my transfer been received by the recipient yet?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "I need my card right away.",
+      "generated": "I require my card as soon as possible."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "how can i add money from my amex card",
+      "generated": "what methods are available to top up my account using my American Express card?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why did the funds for one of my purchase come back to my account?",
+      "generated": "Why was the payment for one of my transactions reversed and credited back to my account?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+      "generated": "Can you tell me what data source is used to determine the exchange rate for the transfer I'm planning to make?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My bank card has expired, how can I get a new physical card?",
+      "generated": "My bank card has reached its expiration date, what steps can I take to obtain a replacement physical card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I recently reported my card as missing/lost, and I just found it. Can I still use it?",
+      "generated": "I recently reported my card as missing, but I've since located it. Can I still use it?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I have a trip coming up and want to add money automatically.",
+      "generated": "I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "how much does a card cost and why do you charge me",
+      "generated": "What is the price of a physical card, and can you explain the fees associated with it?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long do I have  to wait for my transaction to be completed?",
+      "generated": "When can I expect my transfer to be successfully delivered to the recipient's account?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+      "generated": "Why haven't my friend received the transfer I sent her? Is there a way to expedite the transfer process, as she's in urgent need of the funds?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "If I need more than cards will I have to pay a fee to receive them?",
+      "generated": "If I require additional cards, will I be charged a fee for obtaining them?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I want to add money automatically when I travel.",
+      "generated": "I'd like to set up an automatic transfer to top up my account whenever I'm abroad."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the exchange rate change each day for purchases? There is a different rate on my purchase.",
+      "generated": "Is the exchange rate adjusted daily for transactions? I've noticed a discrepancy in the rate applied to my recent purchase."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How long does a transfer from a UK account take? I just made one and it doesn't seem to be working, wondering if everything is okay",
+      "generated": "I recently initiated a transfer from my UK account, but my account balance hasn't been updated yet. Can you please let me know what's causing the delay?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+      "generated": "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?",
+      "generated": "I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?"
+    }
+  ]
+}

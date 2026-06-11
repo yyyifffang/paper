@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "How do I receive my physical card?",
+    "I'm not currently in possession of my physical card.",
+    "I'm missing my physical card.",
+    "Can you provide the physical card separately?",
+    "I misplaced my wallet, which contained all my credit cards.",
+    "What types of payment methods and currencies are accepted with my account?",
+    "I'm currently abroad and I'd like to modify my PIN. Could you please guide me through the process of updating it?",
+    "Can I modify my PIN if I'm currently abroad?",
+    "can you provide the tracking number for my card?",
+    "Can I get my physical card separately, including the PIN?",
+    "What are the steps to modify my PIN if I'm currently outside the country?",
+    "How do I receive my physical card?",
+    "We accept a range of cards and currencies for transactions.",
+    "We'd be happy to provide you with a list of the payment cards and currencies we currently support.",
+    "forgot passcode",
+    "Can I have this card about to expire sent to China?",
+    "Can I modify my PIN while I'm traveling internationally?",
+    "I'm curious about the list of accepted fiat currencies your institution supports.",
+    "What are the steps to modify my PIN while I'm traveling internationally?",
+    "Can I modify my PIN while I'm away on vacation?",
+    "I'm currently traveling in Europe and I urgently need to modify my PIN. Can I accomplish this remotely from my current location?",
+    "Can I receive my paycheck here?",
+    "I had my phone stolen during a robbery. The thief took everything, including my phone. I'm unable to access the app. What can I do to resolve this issue?",
+    "Could you please help me locate my card?",
+    "Can my account be accessed by an unauthorized person? I had my phone stolen.",
+    "I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?",
+    "My phone was stolen and I'm wondering if I can still access this app.",
+    "If I suspect that my credit card has been compromised, what steps should I take to address the situation?",
+    "Is the PIN card separate from the physical card?",
+    "I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?",
+    "Can I modify my PIN while I'm currently abroad in Austria?",
+    "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app.",
+    "Could you please provide me with tracking information for my card arrival?",
+    "We accept a range of cards and facilitate transactions in various currencies. Which specific cards and currencies are you interested in knowing about?",
+    "We accept a range of currencies and cards for transactions, including a variety of payment methods.",
+    "Do you support credit cards issued in the United States?",
+    "in what currencies can I receive my salary with this account?",
+    "I was robbed yesterday and they took my phone. I'm unable to access the app, so I require assistance.",
+    "I'm unable to locate my virtual card. Can you help me understand why it's not showing up?"
+  ],
+  "generated_labels": [
+    38,
+    38,
+    38,
+    38,
+    41,
+    54,
+    21,
+    21,
+    11,
+    38,
+    21,
+    38,
+    54,
+    54,
+    44,
+    9,
+    21,
+    36,
+    21,
+    21,
+    21,
+    50,
+    42,
+    11,
+    42,
+    21,
+    42,
+    22,
+    38,
+    21,
+    21,
+    33,
+    11,
+    54,
+    54,
+    54,
+    50,
+    42,
+    40
+  ],
+  "source_texts": [
+    "How is the PIN delivered?",
+    "I don't have a PIN at this point.",
+    "I dont have a pin",
+    "Can you deliver the PIN separately?",
+    "I lost my wallet and all my cards were in it.",
+    "What are the currencies and cards that are supported with my account?",
+    "I have been travelling overseas and I need to change my PIN. Can you tell me how this is done?",
+    "Is it possible to change my pin if i am out of the country?",
+    "can you share card tracking number?",
+    "Is the PIN separately delivered?",
+    "If I am not in the country and I need to change my PIN, how can this be done?",
+    "How is my PIN sent?",
+    "Do you have a list of cards and currencies you support?",
+    "Do you have a list of the cards and currencies supported?",
+    "passcode retrieval",
+    "Am I able to get this shipped to China?",
+    "Can I change my PIN abroad?",
+    "I would like to know which fiat currencies are recognized by your organization.",
+    "How do I change my PIN abroad?",
+    "Can I change my PIN on holiday?",
+    "I'm on vacation in Europe but I desperately need to change my PIN. Can I do this from abroad?",
+    "Can my salary be received here?",
+    "I was mugged.  They took everything.  I can't use the app.  What do I do?",
+    "Can you track my card for me?",
+    "Can my account me accessed by a thief?  I was mugged.",
+    "I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country?",
+    "My things were stolen and I need to know if I can still use this app.",
+    "What do I do if I believe to be a victim of credit card fraud?",
+    "Does the PIN come under separate cover?",
+    "I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here?",
+    "How can I change my PIN even though I'm out of the country in Austria at the moment?",
+    "I am from X but am traveling to Y - how do I get currency for Y?",
+    "Was there a way for me to get tracking for that?",
+    "Can you tell me what cards and currencies you support?",
+    "What are the various currencies and cards that you offer support for?",
+    "do you accept from usa credit card?",
+    "what currencies can I receive my salary in with this?",
+    "I got mugged yesterday and they took everything. I can't use the app, so I need some help.",
+    "I look but I see no virtual card. Why is that?"
+  ],
+  "records": [
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "How is the PIN delivered?",
+      "generated": "How do I receive my physical card?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I don't have a PIN at this point.",
+      "generated": "I'm not currently in possession of my physical card."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I dont have a pin",
+      "generated": "I'm missing my physical card."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Can you deliver the PIN separately?",
+      "generated": "Can you provide the physical card separately?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I lost my wallet and all my cards were in it.",
+      "generated": "I misplaced my wallet, which contained all my credit cards."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are the currencies and cards that are supported with my account?",
+      "generated": "What types of payment methods and currencies are accepted with my account?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I have been travelling overseas and I need to change my PIN. Can you tell me how this is done?",
+      "generated": "I'm currently abroad and I'd like to modify my PIN. Could you please guide me through the process of updating it?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Is it possible to change my pin if i am out of the country?",
+      "generated": "Can I modify my PIN if I'm currently abroad?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "can you share card tracking number?",
+      "generated": "can you provide the tracking number for my card?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Is the PIN separately delivered?",
+      "generated": "Can I get my physical card separately, including the PIN?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "If I am not in the country and I need to change my PIN, how can this be done?",
+      "generated": "What are the steps to modify my PIN if I'm currently outside the country?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "How is my PIN sent?",
+      "generated": "How do I receive my physical card?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do you have a list of cards and currencies you support?",
+      "generated": "We accept a range of cards and currencies for transactions."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do you have a list of the cards and currencies supported?",
+      "generated": "We'd be happy to provide you with a list of the payment cards and currencies we currently support."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "passcode retrieval",
+      "generated": "forgot passcode"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Am I able to get this shipped to China?",
+      "generated": "Can I have this card about to expire sent to China?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my PIN abroad?",
+      "generated": "Can I modify my PIN while I'm traveling internationally?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "I would like to know which fiat currencies are recognized by your organization.",
+      "generated": "I'm curious about the list of accepted fiat currencies your institution supports."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "How do I change my PIN abroad?",
+      "generated": "What are the steps to modify my PIN while I'm traveling internationally?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my PIN on holiday?",
+      "generated": "Can I modify my PIN while I'm away on vacation?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I'm on vacation in Europe but I desperately need to change my PIN. Can I do this from abroad?",
+      "generated": "I'm currently traveling in Europe and I urgently need to modify my PIN. Can I accomplish this remotely from my current location?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can my salary be received here?",
+      "generated": "Can I receive my paycheck here?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I was mugged.  They took everything.  I can't use the app.  What do I do?",
+      "generated": "I had my phone stolen during a robbery. The thief took everything, including my phone. I'm unable to access the app. What can I do to resolve this issue?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Can you track my card for me?",
+      "generated": "Could you please help me locate my card?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Can my account me accessed by a thief?  I was mugged.",
+      "generated": "Can my account be accessed by an unauthorized person? I had my phone stolen."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country?",
+      "generated": "I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "My things were stolen and I need to know if I can still use this app.",
+      "generated": "My phone was stolen and I'm wondering if I can still access this app."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What do I do if I believe to be a victim of credit card fraud?",
+      "generated": "If I suspect that my credit card has been compromised, what steps should I take to address the situation?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Does the PIN come under separate cover?",
+      "generated": "Is the PIN card separate from the physical card?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here?",
+      "generated": "I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "How can I change my PIN even though I'm out of the country in Austria at the moment?",
+      "generated": "Can I modify my PIN while I'm currently abroad in Austria?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "I am from X but am traveling to Y - how do I get currency for Y?",
+      "generated": "I'm currently in X but heading to Y, and I'd like to know how to obtain the local currency for Y using the app."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Was there a way for me to get tracking for that?",
+      "generated": "Could you please provide me with tracking information for my card arrival?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you tell me what cards and currencies you support?",
+      "generated": "We accept a range of cards and facilitate transactions in various currencies. Which specific cards and currencies are you interested in knowing about?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are the various currencies and cards that you offer support for?",
+      "generated": "We accept a range of currencies and cards for transactions, including a variety of payment methods."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "do you accept from usa credit card?",
+      "generated": "Do you support credit cards issued in the United States?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "what currencies can I receive my salary in with this?",
+      "generated": "in what currencies can I receive my salary with this account?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I got mugged yesterday and they took everything. I can't use the app, so I need some help.",
+      "generated": "I was robbed yesterday and they took my phone. I'm unable to access the app, so I require assistance."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I look but I see no virtual card. Why is that?",
+      "generated": "I'm unable to locate my virtual card. Can you help me understand why it's not showing up?"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+GEN | [verify_my_identity] | Orig: Tell me what the steps for the identity checks are -> Aug: Explain the process for verifying my identity
+GEN | [card_arrival] | Orig: I haven't gotten my credit card in the mail. -> Aug: I'm still waiting for my credit card to arrive.
+GEN | [why_verify_identity] | Orig: I don't want to use this method to identify myself. -> Aug: I'm hesitant to confirm my identity through this process.
+GEN | [change_pin] | Orig: I must change my PIN as soon as possible. -> Aug: I need to update my PIN immediately.
+GEN | [verify_my_identity] | Orig: How recent do my documents need to be for verification? -> Aug: What is the age requirement for the documents I need to provide for verification purposes?
+GEN | [declined_cash_withdrawal] | Orig: My ATM transaction was cancelled. -> Aug: My cash withdrawal attempt was declined.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I'm upset because I got charged a ridiculous fee when making an ATM withdrawal over a holiday weekend.  It didn't notify me beforehand either or I wouldn't have ever done it. -> Aug: I'm frustrated because I was unexpectedly charged an excessive fee for a cash withdrawal made during a bank holiday, without prior notice, which would have prevented me from making the transaction in the first place.
+GEN | [visa_or_mastercard] | Orig: I anticipate getting a Visa card -> Aug: I'm expecting to receive a Mastercard
+GEN | [request_refund] | Orig: I want this fee reversed from my account. -> Aug: I'd like to request a reversal of this fee from my account.
+GEN | [card_arrival] | Orig: I'm still waiting for my new card. -> Aug: I'm expecting my new card to arrive soon.
+GEN | [cash_withdrawal_charge] | Orig: I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction? -> Aug: I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Am I going to be charged for receiving  money? -> Aug: Will I be charged a fee for receiving a top-up via bank transfer?
+GEN | [card_delivery_estimate] | Orig: What is the length of time for one of these items to come to the U.S? -> Aug: How long does it typically take for one of these items to arrive in the United States?
+GEN | [pin_blocked] | Orig: My card got blocked, how do I reset? -> Aug: My PIN has been blocked, what's the process to unblock it?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Do I get charged if I am receiving money? -> Aug: Will I be charged a fee when I receive funds through bank transfer?
+GEN | [cash_withdrawal_not_recognised] | Orig: I did not get the cash that is showing up in my app. -> Aug: The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.
+GEN | [visa_or_mastercard] | Orig: What type of card will I receive? -> Aug: What kind of payment card will I be issued?
+GEN | [extra_charge_on_statement] | Orig: My statement shows a 1£ purchase pending. I do not remember making this purchase, please let me know what this is about. -> Aug: My statement has a pending charge for £1 that I don't recognize. Can you help me understand what this transaction is about?
+GEN | [transaction_charged_twice] | Orig: My card was declined but it shows as multiple charges? -> Aug: I made a purchase, but it looks like I've been charged twice, even though my card was declined.
+GEN | [age_limit] | Orig: How old can one use your service? -> Aug: At what age can someone utilize your service?
+GEN | [card_not_working] | Orig: How do I re-order a damaged card? -> Aug: I'd like to replace a faulty card.
+GEN | [change_pin] | Orig: I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here? -> Aug: I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?
+GEN | [card_linking] | Orig: Can you please reactivate my card? -> Aug: May I assist you in reactivating your card?
+GEN | [verify_my_identity] | Orig: How and where can I find the identity checks? -> Aug: Where can I locate the identity verification process?
+GEN | [pending_transfer] | Orig: Hello, I went ahead and checked my account details to be sure, and they are definitely correct.  I've had a transfer pending for a while, and I can't understand why it hasn't gone through yet. -> Aug: I've reviewed my account information to confirm everything is accurate, and I'm still waiting for a pending transfer to process.
+GEN | [pending_cash_withdrawal] | Orig: How do I get my cash withdrawal to show? -> Aug: Why is my cash withdrawal pending and not showing up?
+GEN | [wrong_amount_of_cash_received] | Orig: I requested a higher amount for my cash withdrawal -> Aug: I was expecting a larger sum for my cash withdrawal
+GEN | [exchange_charge] | Orig: Do exchanges cost more? -> Aug: Are there any additional fees associated with exchanging funds?
+GEN | [transfer_into_account] | Orig: My account is depleted. Can I transfer funds from another bank? -> Aug: My account is running low. Can I transfer money from another financial institution into my account?
+GEN | [cancel_transfer] | Orig: I made a transaction, but I made it to an account I didn't mean to make it to. -> Aug: I accidentally sent a transfer to the wrong account, and I'd like to cancel it.
+GEN | [card_not_working] | Orig: The card that I have isn't working. This is the physical card. -> Aug: The physical card I possess is not functioning properly.
+GEN | [transfer_into_account] | Orig: I have money in a foreign account that I want to send to this account. -> Aug: I'd like to transfer funds from a foreign account to this account.
+GEN | [card_payment_fee_charged] | Orig: I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before. -> Aug: I'd like to be informed when an extra charge is applied to my payment. I recently checked the app and noticed an additional fee associated with one of the transactions. I was not notified about this beforehand.
+GEN | [top_up_by_bank_transfer_charge] | Orig: Are SWIFT Transfers available at this bank? -> Aug: Can I use bank transfer to top up my account at this bank?
+GEN | [lost_or_stolen_card] | Orig: I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away. -> Aug: I'd like to report my card as stolen and request that it be immediately suspended or deactivated to prevent any unauthorized transactions.

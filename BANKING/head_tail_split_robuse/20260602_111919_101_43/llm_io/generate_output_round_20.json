@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "which locations do you have in your country?",
+    "display the process for transferring funds into my account",
+    "We need to confirm the origin of your funds",
+    "We've received a payment attempt from your debit card, but it's not being recognized.",
+    "How many spare cards can I have issued to me?",
+    "I'm upset because I was unexpectedly charged a fee for making a transaction with my credit card.",
+    "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?",
+    "What are the charges for withdrawing cash from an ATM?",
+    "I'd like to transfer funds into my account.",
+    "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?",
+    "I'm noticing some suspicious activity on my account, showing up in the app without my permission.",
+    "Describe the process to enable the functionality of this card",
+    "I'd like to obtain a virtual card, please.",
+    "The exchange rate used for the cash withdrawal was incorrect.",
+    "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?",
+    "A charge is showing for a transfer transaction.",
+    "I'm currently abroad in China and require a replacement card as my existing one is nearing its expiration date. Can you assist me with this request?",
+    "How can I activate this card?",
+    "Which countries do your accounts support international transactions to and from?",
+    "We're planning to establish a savings plan for my child's future education expenses.",
+    "I was charged a fee for withdrawing cash.",
+    "There's an unexpected cash amount appearing on my account.",
+    "Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination.",
+    "I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?",
+    "I'm being requested to provide a verification code. Can you please guide me on how to obtain it?",
+    "We're showing an unexpected cash balance in your account. Can you help us understand why this is happening?",
+    "Can you provide a replacement card?",
+    "I've been assessed a charge for withdrawing cash",
+    "When did you begin being charged for cash withdrawals? What's the current fee amount? I'm surprised to hear it's no longer free.",
+    "Will I be charged for requesting additional cards?",
+    "Can you provide a replacement card for me in China?",
+    "Can I access this service globally or internationally?",
+    "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.",
+    "I was surprised to see a payment processing fee on my account. Can I request an exception since I wasn't aware of the fee beforehand?",
+    "I'd like to assign a spare card to a family member. Can I do that?",
+    "My personal details, specifically my address, are inaccurate in your records."
+  ],
+  "generated_labels": [
+    24,
+    65,
+    70,
+    28,
+    39,
+    15,
+    19,
+    19,
+    65,
+    17,
+    20,
+    0,
+    40,
+    76,
+    64,
+    64,
+    9,
+    0,
+    24,
+    1,
+    19,
+    20,
+    5,
+    40,
+    71,
+    20,
+    39,
+    19,
+    19,
+    39,
+    9,
+    24,
+    22,
+    15,
+    39,
+    30
+  ],
+  "source_texts": [
+    "where do you have locations at",
+    "show me how to transfer to my account",
+    "My funds must be verified",
+    "People are using my debit card - help!",
+    "How many active cards can I have?",
+    "I am angry that I got charged for using my card.",
+    "How much can I withdrawal in one month without incurring fees?",
+    "Could you explain your rules for ATM fees?",
+    "I need to deposit money to my account",
+    "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+    "I am seeing unathorized transactions in the app, on my account.",
+    "Explain the activation method for this card",
+    "I would love one of the virtual cards!",
+    "An overseas cash transfer did not work correctly",
+    "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+    "I have a fee listed for a transfer.",
+    "I'm in China and need a new card. Please help.",
+    "How do I active this card?",
+    "What countries do your accounts send and receive to?",
+    "We want to start a college fund for my daughter.",
+    "I was charged for getting cash.",
+    "THere is some cash that is showing up on my app.",
+    "Please check to see if the band transfer I made a while ago from my UK account has safely arrived.",
+    "I need to make a purchase online, where is my virtual card?",
+    "I'm being asked for a verification code. Where do I find it?",
+    "Why is there extra cash in my account?",
+    "Do you send duplicate cards?",
+    "I have been charged a fee for getting cash",
+    "When did you start charging to make a withdrawal? How much is it now? I always thought it was free.",
+    "Am I gonna be charged for sending out more cards?",
+    "Will you send me a new card in China?",
+    "Can I use this all over the world?",
+    "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+    "I got charged a service fee on my account. Can it be waived since I didn't know about it before?",
+    "I would like to use one of my cards for a family member. Is that allowed?",
+    "My address is incorrect on my file."
+  ],
+  "records": [
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "where do you have locations at",
+      "generated": "which locations do you have in your country?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "show me how to transfer to my account",
+      "generated": "display the process for transferring funds into my account"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My funds must be verified",
+      "generated": "We need to confirm the origin of your funds"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "People are using my debit card - help!",
+      "generated": "We've received a payment attempt from your debit card, but it's not being recognized."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many active cards can I have?",
+      "generated": "How many spare cards can I have issued to me?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I am angry that I got charged for using my card.",
+      "generated": "I'm upset because I was unexpectedly charged a fee for making a transaction with my credit card."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How much can I withdrawal in one month without incurring fees?",
+      "generated": "What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Could you explain your rules for ATM fees?",
+      "generated": "What are the charges for withdrawing cash from an ATM?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need to deposit money to my account",
+      "generated": "I'd like to transfer funds into my account."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+      "generated": "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I am seeing unathorized transactions in the app, on my account.",
+      "generated": "I'm noticing some suspicious activity on my account, showing up in the app without my permission."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "Explain the activation method for this card",
+      "generated": "Describe the process to enable the functionality of this card"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I would love one of the virtual cards!",
+      "generated": "I'd like to obtain a virtual card, please."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "An overseas cash transfer did not work correctly",
+      "generated": "The exchange rate used for the cash withdrawal was incorrect."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+      "generated": "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I have a fee listed for a transfer.",
+      "generated": "A charge is showing for a transfer transaction."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "I'm in China and need a new card. Please help.",
+      "generated": "I'm currently abroad in China and require a replacement card as my existing one is nearing its expiration date. Can you assist me with this request?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How do I active this card?",
+      "generated": "How can I activate this card?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "What countries do your accounts send and receive to?",
+      "generated": "Which countries do your accounts support international transactions to and from?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "We want to start a college fund for my daughter.",
+      "generated": "We're planning to establish a savings plan for my child's future education expenses."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I was charged for getting cash.",
+      "generated": "I was charged a fee for withdrawing cash."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "THere is some cash that is showing up on my app.",
+      "generated": "There's an unexpected cash amount appearing on my account."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Please check to see if the band transfer I made a while ago from my UK account has safely arrived.",
+      "generated": "Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I need to make a purchase online, where is my virtual card?",
+      "generated": "I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I'm being asked for a verification code. Where do I find it?",
+      "generated": "I'm being requested to provide a verification code. Can you please guide me on how to obtain it?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Why is there extra cash in my account?",
+      "generated": "We're showing an unexpected cash balance in your account. Can you help us understand why this is happening?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Do you send duplicate cards?",
+      "generated": "Can you provide a replacement card?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I have been charged a fee for getting cash",
+      "generated": "I've been assessed a charge for withdrawing cash"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "When did you start charging to make a withdrawal? How much is it now? I always thought it was free.",
+      "generated": "When did you begin being charged for cash withdrawals? What's the current fee amount? I'm surprised to hear it's no longer free."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Am I gonna be charged for sending out more cards?",
+      "generated": "Will I be charged for requesting additional cards?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Will you send me a new card in China?",
+      "generated": "Can you provide a replacement card for me in China?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I use this all over the world?",
+      "generated": "Can I access this service globally or internationally?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What can I do if my card details where stolen from my car? I think they used my card to buy gas.",
+      "generated": "What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I got charged a service fee on my account. Can it be waived since I didn't know about it before?",
+      "generated": "I was surprised to see a payment processing fee on my account. Can I request an exception since I wasn't aware of the fee beforehand?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I would like to use one of my cards for a family member. Is that allowed?",
+      "generated": "I'd like to assign a spare card to a family member. Can I do that?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "My address is incorrect on my file.",
+      "generated": "My personal details, specifically my address, are inaccurate in your records."
+    }
+  ]
+}

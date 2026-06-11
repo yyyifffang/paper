@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I'm having an issue with my top-up, and I've been waiting for over an hour for it to process. Could you please expedite it for me?",
+    "Is there a fee associated with ordering a physical card for myself?",
+    "A fee has been added to your statement.",
+    "I've been waiting for a bit, but my account balance still hasn't reflected the recent transfer, could you assist me with this issue?",
+    "Can I make unlimited top-ups to my account limits?",
+    "Can the top-up limit be increased without any restrictions?",
+    "The ATM swallowed my card, and I want to know why it's holding onto it.",
+    "A mysterious transaction appeared on my card statement",
+    "I'm being overcharged on my card transaction.",
+    "Why is my designated recipient not functioning properly?",
+    "I'd like to inquire about the transfer fee associated with moving funds.",
+    "Why hasn't my top-up been processed yet?",
+    "I failed to retrieve my card from the ATM.",
+    "Are there any charges associated with making a top-up payment using my card?",
+    "How many limit increases can I perform?",
+    "I'm unable to access my funds. Could it be due to an issue with the recent top-up attempt? I'm certain I entered the details correctly.",
+    "What types of cards and currencies do you support?",
+    "How do I get my physical card delivered?",
+    "How can I place an order for a physical card?",
+    "Please explain why I was assessed an extra fee when I made the payment using my card.",
+    "Why hasn't my account balance been updated after I made a transfer from another bank account?",
+    "When will the funds be returned to my account after a failed top-up attempt?",
+    "How do I obtain a physical bank card?",
+    "My payment was declined at a store.",
+    "Can I send a check to deposit funds into my account?",
+    "Can you confirm the origin of the funds being transferred to my account?",
+    "I've misplaced my passcode",
+    "Can you confirm the origin of the funds that are readily available in my account?",
+    "How can I obtain a physical card?",
+    "I'm wondering why I was charged an additional fee on my recent statement.",
+    "When can I expect the funds to be credited to my account?",
+    "Can I request a replacement card over the phone?",
+    "I'd like to place an order for a physical card. Can you guide me through the process?",
+    "If I make a card deposit, what payment methods and currencies are available to me?",
+    "Can I use Apple Pay to add funds to my account?",
+    "How many times can I increase my limits?"
+  ],
+  "generated_labels": [
+    47,
+    43,
+    34,
+    5,
+    60,
+    60,
+    18,
+    16,
+    17,
+    7,
+    64,
+    47,
+    18,
+    57,
+    60,
+    59,
+    54,
+    43,
+    43,
+    15,
+    5,
+    47,
+    43,
+    25,
+    58,
+    70,
+    44,
+    70,
+    43,
+    34,
+    67,
+    9,
+    43,
+    54,
+    2,
+    60
+  ],
+  "source_texts": [
+    "I think something is wrong with your top up.  I've been waiting a little over an hour for this to go through, can you send it through for me?",
+    "Does it cost anyting to get my own card?",
+    "$1 charge in transaction.",
+    "It has been a couple of hours but I do not see my balance updated, can you help?",
+    "Can I use as many top-ups as I want?",
+    "Is the top-up amount unlimited?",
+    "Why did the ATM take my card and keep it?",
+    "A random charge got added to my card",
+    "I am being charged the wrong amount on my card.",
+    "Why is my beneficiary not working?",
+    "I need to know how much it costs to transfer funds.",
+    "Isn't my top-up supposed to mean its complete?",
+    "I didn't get my card back from the ATM.",
+    "Are their fee's for top ups?",
+    "How many top-ups can I use?",
+    "I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly.",
+    "Can I use any card and currency?",
+    "Card delivery services? Where?",
+    "How to order my card?",
+    "Please tell me why I was charged additionally when I used the card.",
+    "Why didn't the money I transferred into my account get added to my balance?",
+    "How long after a failed topup will funds refurn to account",
+    "What's the procedure for getting a card?",
+    "My card couldn't pay in a shop.",
+    "Is there somewhere I can send a check to add to my account?",
+    "Can I see where my money is being transferred from?",
+    "I forgot my code",
+    "Can you tell me where my readily available cash has come from?",
+    "What do I need to do in order to get a new card?",
+    "Why did a transaction I made charge me $1?",
+    "How long does it take for the money to show up in my account?",
+    "Can I order a new card by phone?",
+    "I'm interested in getting a card. How does one go about doing that?",
+    "If I top up by card, what options do I have re: currency and card type?",
+    "Am I able to Top Up with Apply Pay?",
+    "What number of times can I top-up?"
+  ],
+  "records": [
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I think something is wrong with your top up.  I've been waiting a little over an hour for this to go through, can you send it through for me?",
+      "generated": "I'm having an issue with my top-up, and I've been waiting for over an hour for it to process. Could you please expedite it for me?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Does it cost anyting to get my own card?",
+      "generated": "Is there a fee associated with ordering a physical card for myself?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "$1 charge in transaction.",
+      "generated": "A fee has been added to your statement."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "It has been a couple of hours but I do not see my balance updated, can you help?",
+      "generated": "I've been waiting for a bit, but my account balance still hasn't reflected the recent transfer, could you assist me with this issue?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Can I use as many top-ups as I want?",
+      "generated": "Can I make unlimited top-ups to my account limits?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is the top-up amount unlimited?",
+      "generated": "Can the top-up limit be increased without any restrictions?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "Why did the ATM take my card and keep it?",
+      "generated": "The ATM swallowed my card, and I want to know why it's holding onto it."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "A random charge got added to my card",
+      "generated": "A mysterious transaction appeared on my card statement"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I am being charged the wrong amount on my card.",
+      "generated": "I'm being overcharged on my card transaction."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is my beneficiary not working?",
+      "generated": "Why is my designated recipient not functioning properly?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I need to know how much it costs to transfer funds.",
+      "generated": "I'd like to inquire about the transfer fee associated with moving funds."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Isn't my top-up supposed to mean its complete?",
+      "generated": "Why hasn't my top-up been processed yet?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I didn't get my card back from the ATM.",
+      "generated": "I failed to retrieve my card from the ATM."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are their fee's for top ups?",
+      "generated": "Are there any charges associated with making a top-up payment using my card?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How many top-ups can I use?",
+      "generated": "How many limit increases can I perform?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly.",
+      "generated": "I'm unable to access my funds. Could it be due to an issue with the recent top-up attempt? I'm certain I entered the details correctly."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can I use any card and currency?",
+      "generated": "What types of cards and currencies do you support?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Card delivery services? Where?",
+      "generated": "How do I get my physical card delivered?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "How to order my card?",
+      "generated": "How can I place an order for a physical card?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Please tell me why I was charged additionally when I used the card.",
+      "generated": "Please explain why I was assessed an extra fee when I made the payment using my card."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why didn't the money I transferred into my account get added to my balance?",
+      "generated": "Why hasn't my account balance been updated after I made a transfer from another bank account?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "How long after a failed topup will funds refurn to account",
+      "generated": "When will the funds be returned to my account after a failed top-up attempt?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What's the procedure for getting a card?",
+      "generated": "How do I obtain a physical bank card?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card couldn't pay in a shop.",
+      "generated": "My payment was declined at a store."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Is there somewhere I can send a check to add to my account?",
+      "generated": "Can I send a check to deposit funds into my account?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I see where my money is being transferred from?",
+      "generated": "Can you confirm the origin of the funds being transferred to my account?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I forgot my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can you tell me where my readily available cash has come from?",
+      "generated": "Can you confirm the origin of the funds that are readily available in my account?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What do I need to do in order to get a new card?",
+      "generated": "How can I obtain a physical card?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why did a transaction I made charge me $1?",
+      "generated": "I'm wondering why I was charged an additional fee on my recent statement."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take for the money to show up in my account?",
+      "generated": "When can I expect the funds to be credited to my account?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I order a new card by phone?",
+      "generated": "Can I request a replacement card over the phone?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I'm interested in getting a card. How does one go about doing that?",
+      "generated": "I'd like to place an order for a physical card. Can you guide me through the process?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "If I top up by card, what options do I have re: currency and card type?",
+      "generated": "If I make a card deposit, what payment methods and currencies are available to me?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Am I able to Top Up with Apply Pay?",
+      "generated": "Can I use Apple Pay to add funds to my account?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What number of times can I top-up?",
+      "generated": "How many times can I increase my limits?"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I accidentally locked my card due to a mistake :(( Assist me!",
+    "Which fiat currencies are restricted for holding a large amount, and what are the limitations?",
+    "I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card?",
+    "I'm wondering if there's a fee associated with adding funds to my card?",
+    "How can I use my debit or credit card for payment?",
+    "Are there any specific places or situations where my card won't be accepted?",
+    "I'm noticing some suspicious activity on my account, showing up in the app without my permission.",
+    "Can you please clarify how I can confirm the origin of the funds?",
+    "Why did my card get debited when I used it to add funds to my account, but the updated balance isn't reflecting in my wallet?",
+    "Can I set up recurring transfers to my account during my trip?",
+    "I'm experiencing an issue with a cash withdrawal that's not being recognized. I'm concerned about unauthorized activity on my account from a location I've never visited. Could you please place a temporary hold on my account until I can visit the bank in person?",
+    "Can I use my card at any location, or are there specific places where it won't be accepted?",
+    "How can I access funds from my card?",
+    "What should I do about my jammed ATM card?",
+    "I'd like to add funds to my card.",
+    "Require an update to my personal information, specifically my address.",
+    "Can I request a replacement bank card to be delivered to China?",
+    "My account is running low. Can you tell me how I can deposit funds into my account?",
+    "The funds I attempted to add are not showing up on my card.",
+    "The ATM at Metro bank on High St. Kensington failed to dispense my card, and the bank is currently closed. How do I retrieve a card that was swallowed by an ATM machine?",
+    "I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.",
+    "Can I reissue my card? I previously reported it lost, but I've since located it and would like to reactivate it.",
+    "The amount of $1.00 remains outstanding, as previously mentioned in our previous communication.",
+    "I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?",
+    "I'm unable to make a successful top-up.",
+    "My card requires a recharge.",
+    "Why was I issued a Visa or Mastercard that's not the one I specifically asked for?",
+    "what is the charge for topping up my account using my card?",
+    "Do I need to fund my account before placing an order for a physical card?",
+    "I'd like to reactivate my card, as I initially thought it was misplaced, but I just found it in my coat when I woke up.",
+    "what to do if my card got swallowed by the ATM and I need a replacement",
+    "Why do I have to pay a fee to withdraw cash from the ATM?",
+    "can I allow others to use the app to deposit funds into my account using their card?",
+    "Are there any limitations on the locations where I can use my card?",
+    "I require my card to be delivered shortly.",
+    "I've reviewed my statement and noticed a charge for using an ATM. Can you explain why I was charged for this transaction?"
+  ],
+  "generated_labels": [
+    49,
+    36,
+    41,
+    57,
+    10,
+    10,
+    20,
+    70,
+    62,
+    4,
+    20,
+    10,
+    3,
+    18,
+    62,
+    30,
+    9,
+    65,
+    59,
+    18,
+    37,
+    13,
+    34,
+    26,
+    59,
+    62,
+    73,
+    57,
+    43,
+    13,
+    18,
+    19,
+    62,
+    10,
+    12,
+    19
+  ],
+  "source_texts": [
+    "I managed to drunken block my card :(( Help!",
+    "What currencies can I not hold many in, if so what are they?",
+    "I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?",
+    "I topped off my card is that something you will charge me for?",
+    "Where do I pay with my debit or credit card?",
+    "Is there anywhere I can't use my card?",
+    "I am seeing unathorized transactions in the app, on my account.",
+    "how do i track the moeney",
+    "Why was my card charged when topping off my balance but it's not showing up in my wallet balance?",
+    "Can I have money transferred into my account at different intervals along my trip?",
+    "I hope you can help me. My account has been compromised from a different town that I haven't been to. Can you please place a hold on my account until I can make it to the bank?",
+    "Are there limits as to where my card will be accepted?",
+    "Where can I get money from my card?",
+    "What should I do with my stuck ATM?",
+    "I need my card topped up,",
+    "Need to report a change of address.",
+    "Where can I have a new bank card sent to China?",
+    "My money is all gone. What ways are okay to add money to my account?",
+    "My money I added isn't on my card.",
+    "The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?",
+    "I have heard about these disposable virtual cards but don't understand how they work.",
+    "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+    "The $1.00 has still not been reverted as indicated in the previous email.",
+    "I'm trying to take money from my account but its not letting me. Help!",
+    "I can't add any more money.",
+    "My card needs to be topped up.",
+    "Why did I get a different card then requested?",
+    "how much is the fee for topping by card",
+    "do i need to add money before i order a card",
+    "I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.",
+    "how to get new card after atm eats it",
+    "How come I got to pay to get my money from the ATM?",
+    "can other people use the app to add money to my account",
+    "Is there restrictions on where I can use my card?",
+    "My card is needed soon",
+    "I just had a look at my statement. Why have I been changed for using the ATM?"
+  ],
+  "records": [
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I managed to drunken block my card :(( Help!",
+      "generated": "I accidentally locked my card due to a mistake :(( Assist me!"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What currencies can I not hold many in, if so what are they?",
+      "generated": "Which fiat currencies are restricted for holding a large amount, and what are the limitations?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?",
+      "generated": "I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I topped off my card is that something you will charge me for?",
+      "generated": "I'm wondering if there's a fee associated with adding funds to my card?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my debit or credit card?",
+      "generated": "How can I use my debit or credit card for payment?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is there anywhere I can't use my card?",
+      "generated": "Are there any specific places or situations where my card won't be accepted?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I am seeing unathorized transactions in the app, on my account.",
+      "generated": "I'm noticing some suspicious activity on my account, showing up in the app without my permission."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "how do i track the moeney",
+      "generated": "Can you please clarify how I can confirm the origin of the funds?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Why was my card charged when topping off my balance but it's not showing up in my wallet balance?",
+      "generated": "Why did my card get debited when I used it to add funds to my account, but the updated balance isn't reflecting in my wallet?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I have money transferred into my account at different intervals along my trip?",
+      "generated": "Can I set up recurring transfers to my account during my trip?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I hope you can help me. My account has been compromised from a different town that I haven't been to. Can you please place a hold on my account until I can make it to the bank?",
+      "generated": "I'm experiencing an issue with a cash withdrawal that's not being recognized. I'm concerned about unauthorized activity on my account from a location I've never visited. Could you please place a temporary hold on my account until I can visit the bank in person?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Are there limits as to where my card will be accepted?",
+      "generated": "Can I use my card at any location, or are there specific places where it won't be accepted?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where can I get money from my card?",
+      "generated": "How can I access funds from my card?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "What should I do with my stuck ATM?",
+      "generated": "What should I do about my jammed ATM card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I need my card topped up,",
+      "generated": "I'd like to add funds to my card."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Need to report a change of address.",
+      "generated": "Require an update to my personal information, specifically my address."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Where can I have a new bank card sent to China?",
+      "generated": "Can I request a replacement bank card to be delivered to China?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "My money is all gone. What ways are okay to add money to my account?",
+      "generated": "My account is running low. Can you tell me how I can deposit funds into my account?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "My money I added isn't on my card.",
+      "generated": "The funds I attempted to add are not showing up on my card."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?",
+      "generated": "The ATM at Metro bank on High St. Kensington failed to dispense my card, and the bank is currently closed. How do I retrieve a card that was swallowed by an ATM machine?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I have heard about these disposable virtual cards but don't understand how they work.",
+      "generated": "I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+      "generated": "Can I reissue my card? I previously reported it lost, but I've since located it and would like to reactivate it."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "The $1.00 has still not been reverted as indicated in the previous email.",
+      "generated": "The amount of $1.00 remains outstanding, as previously mentioned in our previous communication."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I'm trying to take money from my account but its not letting me. Help!",
+      "generated": "I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I can't add any more money.",
+      "generated": "I'm unable to make a successful top-up."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My card needs to be topped up.",
+      "generated": "My card requires a recharge."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Why did I get a different card then requested?",
+      "generated": "Why was I issued a Visa or Mastercard that's not the one I specifically asked for?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "how much is the fee for topping by card",
+      "generated": "what is the charge for topping up my account using my card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "do i need to add money before i order a card",
+      "generated": "Do I need to fund my account before placing an order for a physical card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.",
+      "generated": "I'd like to reactivate my card, as I initially thought it was misplaced, but I just found it in my coat when I woke up."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "how to get new card after atm eats it",
+      "generated": "what to do if my card got swallowed by the ATM and I need a replacement"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How come I got to pay to get my money from the ATM?",
+      "generated": "Why do I have to pay a fee to withdraw cash from the ATM?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "can other people use the app to add money to my account",
+      "generated": "can I allow others to use the app to deposit funds into my account using their card?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is there restrictions on where I can use my card?",
+      "generated": "Are there any limitations on the locations where I can use my card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "My card is needed soon",
+      "generated": "I require my card to be delivered shortly."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I just had a look at my statement. Why have I been changed for using the ATM?",
+      "generated": "I've reviewed my statement and noticed a charge for using an ATM. Can you explain why I was charged for this transaction?"
+    }
+  ]
+}

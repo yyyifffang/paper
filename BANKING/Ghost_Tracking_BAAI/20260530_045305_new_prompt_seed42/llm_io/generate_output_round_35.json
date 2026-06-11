@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?",
+    "Are there any alternative card options available before my current card expires?",
+    "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?",
+    "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?",
+    "I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction.",
+    "The account balance remains unchanged.",
+    "I'd like to inquire about the physical card's PIN.",
+    "I'm still waiting for the ID verification process to complete, so can I use my account already?",
+    "I was unable to complete a transfer from my account.",
+    "I was expecting a larger sum for my cash withdrawal",
+    "I misplaced my card and require a replacement, what's the fee for a new one?",
+    "Regarding the physical card's PIN information?",
+    "Can I use a transfer to receive the funds I'm expecting?",
+    "The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?",
+    "Can you provide a list of merchants that accept this particular card?",
+    "I've been actively utilizing my account to manage international payments for my vacation property, and I'm surprised to see exorbitant fees cropping up. Shouldn't my loyalty as a frequent user be recognized?",
+    "Duplicate transaction appearing on my account statement.",
+    "Why is my cash withdrawal pending and not showing up?",
+    "The transfer of funds from my account was unsuccessful.",
+    "Can I use my card at all merchant locations?",
+    "Why was my cash withdrawal request denied?",
+    "Can you facilitate additional deposits?",
+    "I've checked my account and noticed a pending transaction that I didn't complete. The ATM declined my card when I tried to make the withdrawal, and I'm concerned that the transaction might still be processed. Can you cancel it since I didn't receive the cash?",
+    "I'm having trouble finding the automatic top-up feature, can you help me locate it?",
+    "You gave me less cash than I was supposed to get when I withdrew some money.",
+    "Can I request a replacement card before my current one expires?",
+    "How long does it take for a cheque to clear before I can use it to top up my account?",
+    "What financial institutions or merchants accept the card?",
+    "We're having trouble verifying your identity, despite your login credentials being accurate.",
+    "Could you kindly inform me if the refund for my recent large purchase has been processed and credited to my account? I've been waiting for a while, as I requested it from the merchant a few days ago, but I haven't received any update yet.",
+    "We'd like to confirm the origin of your funds to ensure the transaction is legitimate and compliant with our banking regulations.",
+    "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance.",
+    "I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?",
+    "I mistakenly entered my PIN and now I'm unable to access my account, can you help me log in?",
+    "What is the process and timeline for replacing an expiring card?",
+    "Can I select a delivery time that fits my schedule?"
+  ],
+  "generated_labels": [
+    74,
+    9,
+    49,
+    30,
+    76,
+    5,
+    38,
+    74,
+    35,
+    75,
+    39,
+    38,
+    50,
+    26,
+    10,
+    64,
+    63,
+    46,
+    35,
+    10,
+    26,
+    61,
+    46,
+    4,
+    75,
+    9,
+    58,
+    10,
+    68,
+    51,
+    70,
+    75,
+    53,
+    49,
+    9,
+    12
+  ],
+  "source_texts": [
+    "My ID verification hasn't gone through yet, but can I use my account anyway?",
+    "Are new cards available from China?",
+    "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+    "my identity hasn't been verified and i can't edit my details, what's next",
+    "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.",
+    "The balance has not been updated.",
+    "I have a question regarding the PIN of the card?",
+    "I'm waiting for the ID verification to go through still, so is it too soon to use my account?",
+    "I couldnt transfer money from my account.",
+    "I requested a higher amount for my cash withdrawal",
+    "I lost my card and need a new one, will it cost me?",
+    "In regards to the PIN of the card?",
+    "Can I use a transfer to receive my transfer?",
+    "The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?",
+    "Do you have a list of businesses that accept this card?",
+    "So I've been using my account frequently to manage payments for my vacation house in a different country, and now I'm getting hit with ridiculously high fees! What's with that? Ought not I be rewarded as a frequent user?",
+    "Transaction showing up many times.",
+    "How do I get my cash withdrawal to show?",
+    "I was unable to transfer money from my account.",
+    "Will my card work at all merchant locations?",
+    "Why can't I get cash out?",
+    "Do you support top ups?",
+    "Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money.",
+    "I know there's an auto-top option but I can not locate it when I look?",
+    "You shorted me money when I tried to make a withdrawal.",
+    "Can I order a new card with the app?",
+    "How long before a check I send clears?",
+    "Who accepts the card?",
+    "The app isn't letting me log in, but my info is correct.",
+    "Please update me on whether you have received the funds for the refund of the large purchase I made recently. I have requested this from the merchant days ago but still haven't got anything.",
+    "Why do I need to verify my funds?",
+    "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+    "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?",
+    "I logged in wrong and am blocked, how do I log in?",
+    "What is the cost and time frame of getting a new card?",
+    "can I choose delivery times to suite me?"
+  ],
+  "records": [
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "My ID verification hasn't gone through yet, but can I use my account anyway?",
+      "generated": "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Are new cards available from China?",
+      "generated": "Are there any alternative card options available before my current card expires?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+      "generated": "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "my identity hasn't been verified and i can't edit my details, what's next",
+      "generated": "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Hello, in these holidays i have been overcharged on the amount i have withdrawn on one of your ATMs. I did not had any clue about the horrible charges otherwise i would not have withdrawn.",
+      "generated": "I'm experiencing an issue with the exchange rate for a cash withdrawal I made at one of your ATMs during the holidays. I was unaware of the incorrect rate, otherwise I wouldn't have proceeded with the transaction."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "The balance has not been updated.",
+      "generated": "The account balance remains unchanged."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I have a question regarding the PIN of the card?",
+      "generated": "I'd like to inquire about the physical card's PIN."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I'm waiting for the ID verification to go through still, so is it too soon to use my account?",
+      "generated": "I'm still waiting for the ID verification process to complete, so can I use my account already?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I couldnt transfer money from my account.",
+      "generated": "I was unable to complete a transfer from my account."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I requested a higher amount for my cash withdrawal",
+      "generated": "I was expecting a larger sum for my cash withdrawal"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I lost my card and need a new one, will it cost me?",
+      "generated": "I misplaced my card and require a replacement, what's the fee for a new one?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "In regards to the PIN of the card?",
+      "generated": "Regarding the physical card's PIN information?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I use a transfer to receive my transfer?",
+      "generated": "Can I use a transfer to receive the funds I'm expecting?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?",
+      "generated": "The ATM machine is declining my cash withdrawal attempt. I've tried using two different ATMs, but the issue persists. Could you kindly verify if there's a problem with my account?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Do you have a list of businesses that accept this card?",
+      "generated": "Can you provide a list of merchants that accept this particular card?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "So I've been using my account frequently to manage payments for my vacation house in a different country, and now I'm getting hit with ridiculously high fees! What's with that? Ought not I be rewarded as a frequent user?",
+      "generated": "I've been actively utilizing my account to manage international payments for my vacation property, and I'm surprised to see exorbitant fees cropping up. Shouldn't my loyalty as a frequent user be recognized?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Transaction showing up many times.",
+      "generated": "Duplicate transaction appearing on my account statement."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How do I get my cash withdrawal to show?",
+      "generated": "Why is my cash withdrawal pending and not showing up?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I was unable to transfer money from my account.",
+      "generated": "The transfer of funds from my account was unsuccessful."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Will my card work at all merchant locations?",
+      "generated": "Can I use my card at all merchant locations?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I get cash out?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you support top ups?",
+      "generated": "Can you facilitate additional deposits?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money.",
+      "generated": "I've checked my account and noticed a pending transaction that I didn't complete. The ATM declined my card when I tried to make the withdrawal, and I'm concerned that the transaction might still be processed. Can you cancel it since I didn't receive the cash?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I know there's an auto-top option but I can not locate it when I look?",
+      "generated": "I'm having trouble finding the automatic top-up feature, can you help me locate it?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "You shorted me money when I tried to make a withdrawal.",
+      "generated": "You gave me less cash than I was supposed to get when I withdrew some money."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I order a new card with the app?",
+      "generated": "Can I request a replacement card before my current one expires?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How long before a check I send clears?",
+      "generated": "How long does it take for a cheque to clear before I can use it to top up my account?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Who accepts the card?",
+      "generated": "What financial institutions or merchants accept the card?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app isn't letting me log in, but my info is correct.",
+      "generated": "We're having trouble verifying your identity, despite your login credentials being accurate."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Please update me on whether you have received the funds for the refund of the large purchase I made recently. I have requested this from the merchant days ago but still haven't got anything.",
+      "generated": "Could you kindly inform me if the refund for my recent large purchase has been processed and credited to my account? I've been waiting for a while, as I requested it from the merchant a few days ago, but I haven't received any update yet."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Why do I need to verify my funds?",
+      "generated": "We'd like to confirm the origin of your funds to ensure the transaction is legitimate and compliant with our banking regulations."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+      "generated": "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?",
+      "generated": "I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I logged in wrong and am blocked, how do I log in?",
+      "generated": "I mistakenly entered my PIN and now I'm unable to access my account, can you help me log in?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What is the cost and time frame of getting a new card?",
+      "generated": "What is the process and timeline for replacing an expiring card?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "can I choose delivery times to suite me?",
+      "generated": "Can I select a delivery time that fits my schedule?"
+    }
+  ]
+}

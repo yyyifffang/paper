@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "What should I do if the ATM swallows my card?",
+    "We're showing an unexpected cash balance in your account. Can you help us understand why this is happening?",
+    "The ATM is refusing to dispense my card, and I urgently require it to be returned to me.",
+    "The payment was not processed due to a card issue.",
+    "Unfortunately, I was unable to withdraw cash from my account.",
+    "I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?",
+    "A store I frequent refused to accept my payment.",
+    "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance.",
+    "The ATM swallowed my card!",
+    "my account shows a lower balance than I expected",
+    "My cash withdrawal was declined at the ATM in Notting Hill, and I'm wondering if there's an issue with my card.",
+    "I require assistance with topping up my account using cash.",
+    "I was unexpectedly charged an extra amount on my statement.",
+    "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?",
+    "I'd like to connect my card to my account.",
+    "I didn't receive the funds I attempted to add to my card.",
+    "I'm upset because I was unexpectedly charged a fee for making a transaction with my credit card.",
+    "I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?",
+    "How long does it typically take to process a pending cash withdrawal request?",
+    "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with.",
+    "why hasn't my account balance been updated after the deposit I made this morning?",
+    "Why was my cash withdrawal request denied?",
+    "I misplaced my card and require a replacement.",
+    "Why hasn't my account balance been updated after I deposited a cheque or cash?",
+    "You can top up your account using cash or cheque, but what are the restrictions on the methods I can use to do so?",
+    "I'm concerned that the deposit from my recent cheque hasn't been reflected in my account balance yet, as I mailed it to you a few days ago.",
+    "What steps can I take to reactivate my blocked card?",
+    "Why hasn't my account balance been updated after I deposited a cheque or cash?",
+    "Are you unable to process certain cryptocurrency transactions? I attempted to perform a top-up, but the funds vanished. I'm unsure what's happening or what I'm doing incorrectly, could you please assist me?",
+    "I'm unable to make any transactions with my card.",
+    "Why do I have to pay a fee to withdraw cash from the ATM?",
+    "I was given less cash than I expected, as I only received 10 pounds when I asked for 30.",
+    "The amount of cash I received is not what I was expecting.",
+    "What types of fiat currencies can I store in my account?",
+    "I was overcharged for the item, and the amount doesn't match the expected exchange rate.",
+    "The item I purchased was defective.",
+    "how do i configure my apple pay-enabled smartwatch to link to my account?"
+  ],
+  "generated_labels": [
+    18,
+    20,
+    18,
+    25,
+    26,
+    26,
+    25,
+    75,
+    18,
+    75,
+    26,
+    58,
+    34,
+    75,
+    13,
+    59,
+    15,
+    19,
+    46,
+    20,
+    6,
+    26,
+    41,
+    6,
+    58,
+    6,
+    49,
+    6,
+    61,
+    14,
+    19,
+    75,
+    75,
+    36,
+    17,
+    52,
+    2
+  ],
+  "source_texts": [
+    "What do I do after the ATM takes my card.",
+    "Why is there extra cash in my account?",
+    "The ATM won't give me my card back. I need it back now!",
+    "I couldn't pay with my card",
+    "When I tried to access my cash, I wasn't allowed!",
+    "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+    "A shop I go to didn't let me pay.",
+    "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+    "The ATM didnt return my card!",
+    "my cash balance less than what I thought",
+    "My card didn't work at the ATM in Notting Hill.  Is my card working?",
+    "I need a hand here, I need to top up cash.",
+    "I was made to pay an additional pound!",
+    "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+    "I would like to link my card to my account.",
+    "I didn't see the money I added to my card.",
+    "I am angry that I got charged for using my card.",
+    "I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?",
+    "How long does it take to verify a cash withdraw?",
+    "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+    "where is my money from this morning",
+    "Why can I not take out cash?",
+    "I lost my card n need a new one.",
+    "Why hasn't my account updated?",
+    "What is not accepted in order for me to top up my account?",
+    "I am worried about the amount of my cheque, which should be credited to my account few days before. As i have already sent you the cheque.",
+    "How do I unblock my card?",
+    "When will my deposit be processed?",
+    "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help.",
+    "I can't use my card for anything",
+    "How come I got to pay to get my money from the ATM?",
+    "If the ATM only gave me 10 pounds instead of the 30 I requested, what do I do?",
+    "My cash received does not match what has been requested",
+    "What kind of money can I hold?",
+    "I was charged the wing amount for an item.",
+    "My product was faulty.",
+    "how do i set up my apple pay watch to connect to my account"
+  ],
+  "records": [
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "What do I do after the ATM takes my card.",
+      "generated": "What should I do if the ATM swallows my card?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Why is there extra cash in my account?",
+      "generated": "We're showing an unexpected cash balance in your account. Can you help us understand why this is happening?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "The ATM won't give me my card back. I need it back now!",
+      "generated": "The ATM is refusing to dispense my card, and I urgently require it to be returned to me."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I couldn't pay with my card",
+      "generated": "The payment was not processed due to a card issue."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "When I tried to access my cash, I wasn't allowed!",
+      "generated": "Unfortunately, I was unable to withdraw cash from my account."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+      "generated": "I'm having trouble withdrawing cash from an ATM using my card. I've tried entering my PIN, but it's not working. Can you help me resolve this issue?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "A shop I go to didn't let me pay.",
+      "generated": "A store I frequent refused to accept my payment."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "ATM is broken. It did not give me the full amount (30 pounds.)  I'm standing here with only 10 pounds and it's telling me it gave me 30 pounds. I need assistance now!",
+      "generated": "The ATM malfunctioned, dispensing an incorrect amount, leaving me with only 10 pounds instead of the expected 30 pounds, and I require immediate assistance."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "The ATM didnt return my card!",
+      "generated": "The ATM swallowed my card!"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "my cash balance less than what I thought",
+      "generated": "my account shows a lower balance than I expected"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "My card didn't work at the ATM in Notting Hill.  Is my card working?",
+      "generated": "My cash withdrawal was declined at the ATM in Notting Hill, and I'm wondering if there's an issue with my card."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I need a hand here, I need to top up cash.",
+      "generated": "I require assistance with topping up my account using cash."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I was made to pay an additional pound!",
+      "generated": "I was unexpectedly charged an extra amount on my statement."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+      "generated": "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I would like to link my card to my account.",
+      "generated": "I'd like to connect my card to my account."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I didn't see the money I added to my card.",
+      "generated": "I didn't receive the funds I attempted to add to my card."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I am angry that I got charged for using my card.",
+      "generated": "I'm upset because I was unexpectedly charged a fee for making a transaction with my credit card."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?",
+      "generated": "I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How long does it take to verify a cash withdraw?",
+      "generated": "How long does it typically take to process a pending cash withdrawal request?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I want my card frozen right away. Money was taken out in an odd location I have never heard of.",
+      "generated": "I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "where is my money from this morning",
+      "generated": "why hasn't my account balance been updated after the deposit I made this morning?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can I not take out cash?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I lost my card n need a new one.",
+      "generated": "I misplaced my card and require a replacement."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why hasn't my account updated?",
+      "generated": "Why hasn't my account balance been updated after I deposited a cheque or cash?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What is not accepted in order for me to top up my account?",
+      "generated": "You can top up your account using cash or cheque, but what are the restrictions on the methods I can use to do so?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I am worried about the amount of my cheque, which should be credited to my account few days before. As i have already sent you the cheque.",
+      "generated": "I'm concerned that the deposit from my recent cheque hasn't been reflected in my account balance yet, as I mailed it to you a few days ago."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I unblock my card?",
+      "generated": "What steps can I take to reactivate my blocked card?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "When will my deposit be processed?",
+      "generated": "Why hasn't my account balance been updated after I deposited a cheque or cash?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help.",
+      "generated": "Are you unable to process certain cryptocurrency transactions? I attempted to perform a top-up, but the funds vanished. I'm unsure what's happening or what I'm doing incorrectly, could you please assist me?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't use my card for anything",
+      "generated": "I'm unable to make any transactions with my card."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "How come I got to pay to get my money from the ATM?",
+      "generated": "Why do I have to pay a fee to withdraw cash from the ATM?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "If the ATM only gave me 10 pounds instead of the 30 I requested, what do I do?",
+      "generated": "I was given less cash than I expected, as I only received 10 pounds when I asked for 30."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "My cash received does not match what has been requested",
+      "generated": "The amount of cash I received is not what I was expecting."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What kind of money can I hold?",
+      "generated": "What types of fiat currencies can I store in my account?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I was charged the wing amount for an item.",
+      "generated": "I was overcharged for the item, and the amount doesn't match the expected exchange rate."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "My product was faulty.",
+      "generated": "The item I purchased was defective."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "how do i set up my apple pay watch to connect to my account",
+      "generated": "how do i configure my apple pay-enabled smartwatch to link to my account?"
+    }
+  ]
+}

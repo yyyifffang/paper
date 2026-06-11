@@ -1,0 +1,73 @@
+GEN | [get_physical_card] | Orig: I haven't been sent my new pin! -> Aug: I need to receive my physical card.
+GEN | [transfer_not_received_by_recipient] | Orig: What happens when I money transaction doesn't show up on the receiving side? -> Aug: Why hasn't the money transfer been credited to the recipient's account?
+GEN | [pending_cash_withdrawal] | Orig: I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it? -> Aug: I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?
+GEN | [exchange_rate] | Orig: What value can I get for my currency? -> Aug: What's the current exchange rate for my money?
+GEN | [supported_cards_and_currencies] | Orig: Can you accept my other card from the U.S.?  It is the only other one I have. -> Aug: Can you accept my other credit card issued in the United States? It's the only other one I possess.
+GEN | [atm_support] | Orig: how do I know where I can get money withdrawn? -> Aug: where can I find an ATM to withdraw cash?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Can the exchange rate change while I am in the process of making a withdrawal? -> Aug: Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?
+GEN | [transfer_into_account] | Orig: I need more money in my account. Can I add more by transferring? -> Aug: I'd like to increase my account balance by transferring funds into my account.
+GEN | [fiat_currency_support] | Orig: Can I exchange my money for EUR? -> Aug: Can I convert my funds to euros?
+GEN | [transfer_timing] | Orig: How long do I have to wait for a US transfer? -> Aug: What is the typical timeframe for a US transfer to be processed?
+GEN | [pending_cash_withdrawal] | Orig: Why hasn't my withdrawal shown on my statement? -> Aug: Why is my pending cash withdrawal not reflected on my account statement?
+GEN | [get_physical_card] | Orig: can i create my own pin right away -> Aug: can I obtain my physical card immediately?
+GEN | [cash_withdrawal_not_recognised] | Orig: I believe my card has been compromised as there are funds showing that I did not receive. -> Aug: I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize.
+GEN | [card_not_working] | Orig: Why can't I use my card? -> Aug: Why is my card not functioning properly?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: Why hasn't my cheque processed? -> Aug: Why hasn't my cash deposit been reflected in my account balance?
+GEN | [top_up_by_cash_or_cheque] | Orig: Is topping up with cash allowed? -> Aug: Can I make a cash deposit to top up my account?
+GEN | [get_physical_card] | Orig: I've been waiting ages and my PIN hasn't gotten here. -> Aug: I've been waiting for a while and my physical card still hasn't arrived.
+GEN | [age_limit] | Orig: Do you have a limit for someone's age? -> Aug: Is there an age restriction in place?
+GEN | [card_payment_not_recognised] | Orig: i dont recognize a charge on my card -> Aug: I'm unable to identify a transaction on my credit card statement.
+GEN | [card_not_working] | Orig: Why won't my card accept any transactions? -> Aug: Why is my card unable to process any transactions?
+GEN | [transfer_into_account] | Orig: Can I withdraw money from another bank and transfer it into my empty account? -> Aug: Can I transfer funds from another bank into my account, which currently has no balance?
+GEN | [reverted_card_payment?] | Orig: What should I do if my card payment was cancelled? -> Aug: What happens if my card payment was reversed?
+GEN | [cash_withdrawal_charge] | Orig: Is there a charge for getting cash? -> Aug: Are there any fees associated with withdrawing cash?
+GEN | [virtual_card_not_working] | Orig: I can't make purchases with my virtual card. -> Aug: I'm having trouble using my virtual card to make transactions.
+GEN | [getting_virtual_card] | Orig: I need to order a new card, can you please direct me to the virtual cards? -> Aug: I'd like to request a new virtual card, could you guide me on how to obtain one?
+GEN | [compromised_card] | Orig: Questionable transactions on my account. -> Aug: Suspicious activity detected on my account.
+GEN | [transfer_timing] | Orig: When will the money reach my  account? -> Aug: When can I expect the funds to be deposited into my account?
+GEN | [cash_withdrawal_not_recognised] | Orig: I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP -> Aug: I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP.
+GEN | [reverted_card_payment?] | Orig: Under what condition will my payment revert? -> Aug: What circumstances would cause my payment to be reversed?
+GEN | [disposable_card_limits] | Orig: Are there limits on the virtual cards? -> Aug: Are there any restrictions on the usage of disposable cards?
+GEN | [automatic_top_up] | Orig: How do I access the option to top up? -> Aug: How can I initiate an automatic top-up process?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Hello I have a UK account.  Can you please check if everything is alright with it?  I made a transfer a couple hours ago but it doesn't show up yet. -> Aug: Hi, I'd like to inquire about my UK account. I've recently made a transfer, but my account balance hasn't been updated yet. Could you please look into this and let me know what's going on?
+GEN | [top_up_limits] | Orig: What are the rules for a top-up? -> Aug: How do the rules work for increasing my credit limit?
+GEN | [country_support] | Orig: Can the card be mailed to Europe? -> Aug: Can the card be shipped to Europe?
+GEN | [why_verify_identity] | Orig: Why do you need so much information about me -> Aug: We're asking for this information to ensure we're verifying your identity accurately
+GEN | [direct_debit_payment_not_recognised] | Orig: I didn't set up a direct debit payment on my account. -> Aug: We didn't find a direct debit payment arrangement linked to your account.
+VAL | [get_physical_card] | UNKNOWN | Reason: N/A | Original: I haven't been sent my new pin! | Augmented: I need to receive my physical card.
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: Both texts are asking about a situation where a money transfer did not reach the intended recipient, preserving the same intent. | Original: What happens when I money transaction doesn't show up on the receiving side? | Augmented: Why hasn't the money transfer been credited to the recipient's account?
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: ... | Original: I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it? | Augmented: I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?
+VAL | [exchange_rate] | ACCEPT | Reason: N/A | Original: What value can I get for my currency? | Augmented: What's the current exchange rate for my money?
+VAL | [supported_cards_and_currencies] | ACCEPT | Reason: N/A | Original: Can you accept my other card from the U.S.?  It is the only other one I have. | Augmented: Can you accept my other credit card issued in the United States? It's the only other one I possess.
+VAL | [atm_support] | ACCEPT | Reason: Both texts are seeking information on locating an ATM for withdrawing money, which aligns with the 'atm_support' intent. | Original: how do I know where I can get money withdrawn? | Augmented: where can I find an ATM to withdraw cash?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | ACCEPT | Reason: N/A | Original: Can the exchange rate change while I am in the process of making a withdrawal? | Augmented: Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?
+VAL | [transfer_into_account] | ACCEPT | Reason: ... | Original: I need more money in my account. Can I add more by transferring? | Augmented: I'd like to increase my account balance by transferring funds into my account.
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: Can I exchange my money for EUR? | Augmented: Can I convert my funds to euros?
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: How long do I have to wait for a US transfer? | Augmented: What is the typical timeframe for a US transfer to be processed?
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: Both texts are asking about a withdrawal that has not yet been reflected on the account statement, indicating a pending transaction. | Original: Why hasn't my withdrawal shown on my statement? | Augmented: Why is my pending cash withdrawal not reflected on my account statement?
+VAL | [get_physical_card] | UNKNOWN | Reason: N/A | Original: can i create my own pin right away | Augmented: can I obtain my physical card immediately?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: I believe my card has been compromised as there are funds showing that I did not receive. | Augmented: I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize.
+VAL | [card_not_working] | ACCEPT | Reason: ... | Original: Why can't I use my card? | Augmented: Why is my card not functioning properly?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: N/A | Original: Why hasn't my cheque processed? | Augmented: Why hasn't my cash deposit been reflected in my account balance?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: Is topping up with cash allowed? | Augmented: Can I make a cash deposit to top up my account?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: I've been waiting ages and my PIN hasn't gotten here. | Augmented: I've been waiting for a while and my physical card still hasn't arrived.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: Do you have a limit for someone's age? | Augmented: Is there an age restriction in place?
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: i dont recognize a charge on my card | Augmented: I'm unable to identify a transaction on my credit card statement.
+VAL | [card_not_working] | ACCEPT | Reason: ... | Original: Why won't my card accept any transactions? | Augmented: Why is my card unable to process any transactions?
+VAL | [transfer_into_account] | ACCEPT | Reason: N/A | Original: Can I withdraw money from another bank and transfer it into my empty account? | Augmented: Can I transfer funds from another bank into my account, which currently has no balance?
+VAL | [reverted_card_payment?] | ACCEPT | Reason: N/A | Original: What should I do if my card payment was cancelled? | Augmented: What happens if my card payment was reversed?
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: Is there a charge for getting cash? | Augmented: Are there any fees associated with withdrawing cash?
+VAL | [virtual_card_not_working] | ACCEPT | Reason: ... | Original: I can't make purchases with my virtual card. | Augmented: I'm having trouble using my virtual card to make transactions.
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: I need to order a new card, can you please direct me to the virtual cards? | Augmented: I'd like to request a new virtual card, could you guide me on how to obtain one?
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: Questionable transactions on my account. | Augmented: Suspicious activity detected on my account.
+VAL | [transfer_timing] | ACCEPT | Reason: ... | Original: When will the money reach my  account? | Augmented: When can I expect the funds to be deposited into my account?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: The augmented text maintains the core issue of a missing cash withdrawal and does not introduce any new or contradictory information. | Original: I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP | Augmented: I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP.
+VAL | [reverted_card_payment?] | ACCEPT | Reason: ... | Original: Under what condition will my payment revert? | Augmented: What circumstances would cause my payment to be reversed?
+VAL | [disposable_card_limits] | ACCEPT | Reason: N/A | Original: Are there limits on the virtual cards? | Augmented: Are there any restrictions on the usage of disposable cards?
+VAL | [automatic_top_up] | ACCEPT | Reason: N/A | Original: How do I access the option to top up? | Augmented: How can I initiate an automatic top-up process?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: The augmented text preserves the same banking intent by focusing on the unupdated account balance after a recent transfer. It does not introduce any new or unsupported information. | Original: Hello I have a UK account.  Can you please check if everything is alright with it?  I made a transfer a couple hours ago but it doesn't show up yet. | Augmented: Hi, I'd like to inquire about my UK account. I've recently made a transfer, but my account balance hasn't been updated yet. Could you please look into this and let me know what's going on?
+VAL | [top_up_limits] | ACCEPT | Reason: N/A | Original: What are the rules for a top-up? | Augmented: How do the rules work for increasing my credit limit?
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: Can the card be mailed to Europe? | Augmented: Can the card be shipped to Europe?
+VAL | [why_verify_identity] | ACCEPT | Reason: N/A | Original: Why do you need so much information about me | Augmented: We're asking for this information to ensure we're verifying your identity accurately
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I didn't set up a direct debit payment on my account. | Augmented: We didn't find a direct debit payment arrangement linked to your account.
+VAL_SUMMARY | ACCEPT: 34 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 2 | Accept Rate: 0.9444

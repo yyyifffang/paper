@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "Why is my payment being declined? Is there an issue with my account or a problem with the transaction that's causing it to be rejected? What steps can I take to resolve this issue and get my payment processed successfully?",
+    "Can I make exchanges through this app for both US dollars and British pounds?",
+    "Did my card payment get reversed from my account?",
+    "Can I use my card at all merchant locations?",
+    "The transfer of funds from my account was unsuccessful.",
+    "I believe there's been an error with the transfer I initiated",
+    "Why isn't my card's contactless payment feature working today?",
+    "Is there a charge for topping up my account using my card in USD?",
+    "My previous attempt to activate my card was unsuccessful.",
+    "I recently reported my card as missing, but I've since located it. Can I still use it?",
+    "We're having trouble confirming your identity.",
+    "I'm trying to figure out what's going on with my recently issued card.",
+    "Why was I charged an extra fee when I used my card to make a payment?",
+    "I've misplaced my physical card, and I urgently need to make an online purchase. Can I obtain a virtual card immediately to complete the transaction?",
+    "Can you confirm the origin of the funds being transferred to my account?",
+    "I was sent a payment in British Pounds, can I convert it to a different currency?",
+    "Are there any fees associated with withdrawing cash from my account? I recall making a withdrawal recently and being charged for it.",
+    "Can you assist me in resolving the issue with my card not functioning properly?",
+    "Is the exchange rate adjusted daily for transactions? I've noticed a discrepancy in the rate applied to my recent purchase.",
+    "When will the transfer be delivered to the recipient?",
+    "I've misplaced my card.",
+    "I've checked my account and noticed a pending transaction that I didn't complete. The ATM declined my card when I tried to make the withdrawal, and I'm concerned that the transaction might still be processed. Can you cancel it since I didn't receive the cash?",
+    "Why was my payment rejected by the app?",
+    "I'm missing my physical card. Can you help me obtain a new one?",
+    "I'm reviewing my recent transaction history and noticed an unexpected fee. Could you check if the exchange rate was accurate for the purchase I made last weekend?",
+    "Can I withdraw cash from an ATM while abroad without incurring additional fees due to an incorrect exchange rate for the cash withdrawal?",
+    "We've noticed an unusual payment on your account, made by a merchant you don't have a record of. Could you please confirm if this is a direct debit payment that was not recognized by our system?",
+    "I need assistance. My credit card has gone astray.",
+    "I've misplaced my card and need assistance.",
+    "I'm trying to understand why my payment was declined",
+    "When can I expect the funds to be credited to my account?",
+    "Why am I being charged an additional fee for making a payment with my card?",
+    "Can I access my physical card information through the mobile app?",
+    "Can I get a spare card added to my account?",
+    "I'm having issues sending funds to a designated recipient.",
+    "We're having trouble confirming your identity. It seems we're unable to verify the information provided."
+  ],
+  "generated_labels": [
+    25,
+    33,
+    53,
+    10,
+    35,
+    27,
+    23,
+    57,
+    0,
+    13,
+    68,
+    11,
+    15,
+    40,
+    70,
+    50,
+    19,
+    14,
+    17,
+    66,
+    41,
+    46,
+    53,
+    43,
+    17,
+    76,
+    28,
+    41,
+    41,
+    25,
+    67,
+    15,
+    38,
+    39,
+    7,
+    68
+  ],
+  "source_texts": [
+    "Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?",
+    "Can I use this app for both USD and GBP?",
+    "My card payment has not been withdrawn from my account",
+    "Will my card work at all merchant locations?",
+    "I was unable to transfer money from my account.",
+    "I think there has been a mistake with my transfer",
+    "How can I fix my card if the contactless function didn't work this morning?",
+    "Do you charge a fee for adding money in USD?",
+    "My card activation attempt failed.",
+    "I recently reported my card as missing/lost, and I just found it. Can I still use it?",
+    "I dont have identification",
+    "I want to find out what happened to my new card?",
+    "Why did I have to pay an additional amount when using my card to pay?",
+    "I have lost my card, but need to place an online order! How do I get a virtual card instantly?",
+    "Can I see where my money is being transferred from?",
+    "I received a transfer in GBP how do I change it to a different currency?",
+    "Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this.",
+    "Need help to get my card to work.",
+    "Does the exchange rate change each day for purchases? There is a different rate on my purchase.",
+    "When are you going to transfer the money?",
+    "I cant find my card.",
+    "Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money.",
+    "Why wasn't my payment accepted by the app",
+    "I still don't have a card. How do I get one?",
+    "I noticed an extra charge on the purchase that I made last Saturday on my account. Can you see if I received the correct exchange rate?",
+    "Is it possible to use an ATM when I am not in the country and make a withdraw with out extra fees?",
+    "There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.",
+    "Please help me.  My card is missing.",
+    "Help! I lost my card!",
+    "I was just needing to know why my card got declined",
+    "How long does it take for the money to show up in my account?",
+    "Why do I have to pay extra for using my card?",
+    "can i go into my app to find my pin",
+    "how is it possible to add another card to account",
+    "I am having trouble transferring money to a beneficiery.",
+    "What's wrong with my ID? I can't verify it."
+  ],
+  "records": [
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?",
+      "generated": "Why is my payment being declined? Is there an issue with my account or a problem with the transaction that's causing it to be rejected? What steps can I take to resolve this issue and get my payment processed successfully?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app for both USD and GBP?",
+      "generated": "Can I make exchanges through this app for both US dollars and British pounds?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My card payment has not been withdrawn from my account",
+      "generated": "Did my card payment get reversed from my account?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Will my card work at all merchant locations?",
+      "generated": "Can I use my card at all merchant locations?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I was unable to transfer money from my account.",
+      "generated": "The transfer of funds from my account was unsuccessful."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I think there has been a mistake with my transfer",
+      "generated": "I believe there's been an error with the transfer I initiated"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "How can I fix my card if the contactless function didn't work this morning?",
+      "generated": "Why isn't my card's contactless payment feature working today?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Do you charge a fee for adding money in USD?",
+      "generated": "Is there a charge for topping up my account using my card in USD?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "My card activation attempt failed.",
+      "generated": "My previous attempt to activate my card was unsuccessful."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I recently reported my card as missing/lost, and I just found it. Can I still use it?",
+      "generated": "I recently reported my card as missing, but I've since located it. Can I still use it?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I dont have identification",
+      "generated": "We're having trouble confirming your identity."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I want to find out what happened to my new card?",
+      "generated": "I'm trying to figure out what's going on with my recently issued card."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why did I have to pay an additional amount when using my card to pay?",
+      "generated": "Why was I charged an extra fee when I used my card to make a payment?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I have lost my card, but need to place an online order! How do I get a virtual card instantly?",
+      "generated": "I've misplaced my physical card, and I urgently need to make an online purchase. Can I obtain a virtual card immediately to complete the transaction?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Can I see where my money is being transferred from?",
+      "generated": "Can you confirm the origin of the funds being transferred to my account?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I received a transfer in GBP how do I change it to a different currency?",
+      "generated": "I was sent a payment in British Pounds, can I convert it to a different currency?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this.",
+      "generated": "Are there any fees associated with withdrawing cash from my account? I recall making a withdrawal recently and being charged for it."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Need help to get my card to work.",
+      "generated": "Can you assist me in resolving the issue with my card not functioning properly?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the exchange rate change each day for purchases? There is a different rate on my purchase.",
+      "generated": "Is the exchange rate adjusted daily for transactions? I've noticed a discrepancy in the rate applied to my recent purchase."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "When are you going to transfer the money?",
+      "generated": "When will the transfer be delivered to the recipient?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I cant find my card.",
+      "generated": "I've misplaced my card."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hello. I looked at my account and see that a transaction I tried to do is pending, but I did not complete that transaction. When I was at the ATM, the machine declined my card. Can you make sure that transaction does not go through because I definitely did not receive the money.",
+      "generated": "I've checked my account and noticed a pending transaction that I didn't complete. The ATM declined my card when I tried to make the withdrawal, and I'm concerned that the transaction might still be processed. Can you cancel it since I didn't receive the cash?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why wasn't my payment accepted by the app",
+      "generated": "Why was my payment rejected by the app?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I still don't have a card. How do I get one?",
+      "generated": "I'm missing my physical card. Can you help me obtain a new one?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I noticed an extra charge on the purchase that I made last Saturday on my account. Can you see if I received the correct exchange rate?",
+      "generated": "I'm reviewing my recent transaction history and noticed an unexpected fee. Could you check if the exchange rate was accurate for the purchase I made last weekend?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Is it possible to use an ATM when I am not in the country and make a withdraw with out extra fees?",
+      "generated": "Can I withdraw cash from an ATM while abroad without incurring additional fees due to an incorrect exchange rate for the cash withdrawal?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.",
+      "generated": "We've noticed an unusual payment on your account, made by a merchant you don't have a record of. Could you please confirm if this is a direct debit payment that was not recognized by our system?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Please help me.  My card is missing.",
+      "generated": "I need assistance. My credit card has gone astray."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Help! I lost my card!",
+      "generated": "I've misplaced my card and need assistance."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I was just needing to know why my card got declined",
+      "generated": "I'm trying to understand why my payment was declined"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take for the money to show up in my account?",
+      "generated": "When can I expect the funds to be credited to my account?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why do I have to pay extra for using my card?",
+      "generated": "Why am I being charged an additional fee for making a payment with my card?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "can i go into my app to find my pin",
+      "generated": "Can I access my physical card information through the mobile app?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "how is it possible to add another card to account",
+      "generated": "Can I get a spare card added to my account?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I am having trouble transferring money to a beneficiery.",
+      "generated": "I'm having issues sending funds to a designated recipient."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "What's wrong with my ID? I can't verify it.",
+      "generated": "We're having trouble confirming your identity. It seems we're unable to verify the information provided."
+    }
+  ]
+}

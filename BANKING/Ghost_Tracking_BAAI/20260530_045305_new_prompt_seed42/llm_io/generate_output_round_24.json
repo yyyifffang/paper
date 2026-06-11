@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "I've forgotten my passcode and can't access my account, what should I do to regain access?",
+    "Is my card still active? It's not functioning properly.",
+    "I've misplaced my passcode",
+    "If my identity verification process hasn't been completed, can I still access my account?",
+    "Why hasn't the recipient received my money transfer?",
+    "We've noticed a direct debit payment that doesn't seem to be recognized in your account records.",
+    "Why hasn't my account balance been updated to reflect the cash deposit I made?",
+    "I made a transfer to my landlord a few days ago, but he's telling me he didn't receive it. I've double-checked the account number and it's correct. Can you assist me in resolving this issue?",
+    "Why is my card unable to process any transactions?",
+    "Can you confirm when I can expect to receive my card?",
+    "Are there any plans to expand the list of supported fiat currencies in the future?",
+    "I'm having trouble accessing my account because I've forgotten my passcode.",
+    "I'm not sure if I authorized this payment on my recent statement.",
+    "I'm having trouble accessing my account because I've forgotten my passcode.",
+    "When can I expect to receive my credit card, which was supposed to be sent to me?",
+    "I'm trying to figure out where this payment is coming from.",
+    "I recently got married and would like to update my personal information to reflect my new married name.",
+    "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?",
+    "Can you retrieve my forgotten passcode?",
+    "Can you please confirm the source of the funds used for the recent top-up?",
+    "what is the source of the funds being transferred",
+    "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?",
+    "I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?",
+    "My PIN has been blocked, what's the process to unblock it?",
+    "How many spare cards can I have issued to me?",
+    "Despite not being based in the UK, can I still obtain a card?",
+    "I'm having trouble using my card.",
+    "Why was my cash withdrawal request denied?",
+    "Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination.",
+    "We're planning to establish a savings plan for my child's future education expenses.",
+    "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?",
+    "The exchange rate used for my recent transaction appears to be incorrect.",
+    "I'd like to update my personal information.",
+    "Will you charge me extra fees if I make a payment using an international credit/debit card?",
+    "What is the typical timeframe for international transfers to Europe?"
+  ],
+  "generated_labels": [
+    44,
+    14,
+    44,
+    74,
+    66,
+    28,
+    6,
+    66,
+    14,
+    12,
+    36,
+    44,
+    16,
+    44,
+    11,
+    16,
+    30,
+    2,
+    44,
+    70,
+    70,
+    6,
+    26,
+    49,
+    39,
+    24,
+    14,
+    26,
+    5,
+    1,
+    2,
+    17,
+    30,
+    57,
+    67
+  ],
+  "source_texts": [
+    "I'm locked out of my account as I can't remember my code, what do I do now?",
+    "Did you deactivate my card it's not working anymore",
+    "I forgot my code",
+    "If my identy verifacation hasn't gone through can I use my account?",
+    "How can I the person see my money transaction?",
+    "Why is there a direct debit set up in my name?",
+    "Where is my cash deposit in my balance?",
+    "Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out?",
+    "Why doesn't my card work for any transactions?",
+    "are you sending me my card?",
+    "Will you be adding more currencies in the future?",
+    "I can't log in",
+    "I don't think I made this transaction on my statement",
+    "I can't log in with this passocde",
+    "Where is my credit card that was to be mailed?",
+    "I need to know where this charge is coming from?",
+    "I just got married and need to change my name on the account",
+    "what can I do if I got my American Express in Apple Bay but top up is not working?",
+    "Can you lookup my password?",
+    "Where is my top-up generated from?",
+    "where are the transfers originating",
+    "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+    "I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this?",
+    "My card got blocked, how do I reset?",
+    "How many active cards can I have?",
+    "Although I am not located in the UK area, may i still receive a card?",
+    "I am unable to use my card.",
+    "Why can I not take out cash?",
+    "Please check to see if the band transfer I made a while ago from my UK account has safely arrived.",
+    "We want to start a college fund for my daughter.",
+    "I seem to be having trouble with my Google Pay Top. Can you please help?",
+    "my exchange rate looks wrong for my last payment",
+    "I need to change my data.",
+    "Will you assess me more fees if I top up with an international card?",
+    "How long do I have to wait for Europe transfers?"
+  ],
+  "records": [
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I'm locked out of my account as I can't remember my code, what do I do now?",
+      "generated": "I've forgotten my passcode and can't access my account, what should I do to regain access?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Did you deactivate my card it's not working anymore",
+      "generated": "Is my card still active? It's not functioning properly."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I forgot my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "If my identy verifacation hasn't gone through can I use my account?",
+      "generated": "If my identity verification process hasn't been completed, can I still access my account?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How can I the person see my money transaction?",
+      "generated": "Why hasn't the recipient received my money transfer?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Why is there a direct debit set up in my name?",
+      "generated": "We've noticed a direct debit payment that doesn't seem to be recognized in your account records."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Where is my cash deposit in my balance?",
+      "generated": "Why hasn't my account balance been updated to reflect the cash deposit I made?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out?",
+      "generated": "I made a transfer to my landlord a few days ago, but he's telling me he didn't receive it. I've double-checked the account number and it's correct. Can you assist me in resolving this issue?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why doesn't my card work for any transactions?",
+      "generated": "Why is my card unable to process any transactions?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "are you sending me my card?",
+      "generated": "Can you confirm when I can expect to receive my card?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Will you be adding more currencies in the future?",
+      "generated": "Are there any plans to expand the list of supported fiat currencies in the future?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't log in",
+      "generated": "I'm having trouble accessing my account because I've forgotten my passcode."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I don't think I made this transaction on my statement",
+      "generated": "I'm not sure if I authorized this payment on my recent statement."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't log in with this passocde",
+      "generated": "I'm having trouble accessing my account because I've forgotten my passcode."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Where is my credit card that was to be mailed?",
+      "generated": "When can I expect to receive my credit card, which was supposed to be sent to me?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to know where this charge is coming from?",
+      "generated": "I'm trying to figure out where this payment is coming from."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I just got married and need to change my name on the account",
+      "generated": "I recently got married and would like to update my personal information to reflect my new married name."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "what can I do if I got my American Express in Apple Bay but top up is not working?",
+      "generated": "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Can you lookup my password?",
+      "generated": "Can you retrieve my forgotten passcode?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Where is my top-up generated from?",
+      "generated": "Can you please confirm the source of the funds used for the recent top-up?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "where are the transfers originating",
+      "generated": "what is the source of the funds being transferred"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Dude I put money in the ATM last week but it ain't there! I need the money now figure this out!",
+      "generated": "I made a deposit using the ATM last week, but my account balance hasn't been updated yet. Can you help me resolve this issue ASAP?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I might need a new card because it's not working at any of the ATMs. I don't think ive used all my money. Why is it doing this?",
+      "generated": "I'm having trouble using my card at ATMs, and I'm not sure why. I've checked my account and I'm pretty sure I still have some cash available. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "My card got blocked, how do I reset?",
+      "generated": "My PIN has been blocked, what's the process to unblock it?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many active cards can I have?",
+      "generated": "How many spare cards can I have issued to me?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Although I am not located in the UK area, may i still receive a card?",
+      "generated": "Despite not being based in the UK, can I still obtain a card?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I am unable to use my card.",
+      "generated": "I'm having trouble using my card."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can I not take out cash?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Please check to see if the band transfer I made a while ago from my UK account has safely arrived.",
+      "generated": "Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "We want to start a college fund for my daughter.",
+      "generated": "We're planning to establish a savings plan for my child's future education expenses."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I seem to be having trouble with my Google Pay Top. Can you please help?",
+      "generated": "I'm experiencing an issue with my Apple Pay account. Can you assist me with that?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "my exchange rate looks wrong for my last payment",
+      "generated": "The exchange rate used for my recent transaction appears to be incorrect."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I need to change my data.",
+      "generated": "I'd like to update my personal information."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Will you assess me more fees if I top up with an international card?",
+      "generated": "Will you charge me extra fees if I make a payment using an international credit/debit card?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long do I have to wait for Europe transfers?",
+      "generated": "What is the typical timeframe for international transfers to Europe?"
+    }
+  ]
+}

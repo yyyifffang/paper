@@ -1,0 +1,35 @@
+GEN | [transfer_not_received_by_recipient] | Orig: |I moved out of my old house two weeks ago and cancelled my direct debit to my old landlord, this direct debit was working fine.  Now I've moved in to a new place and set up a transfer to a new landlord but it's not reached her yet, can you check it please? -> Aug: I recently relocated to a new residence and terminated my direct debit with my previous landlord, which was functioning correctly. Since then, I've established a new transfer to my new landlord, but it hasn't been received by her yet. Could you kindly investigate this matter for me?
+GEN | [card_payment_not_recognised] | Orig: I've got charges on my account I did not authorize. Can I get this money back from the last couple of days that it's been coming out? I also need to freeze my card. -> Aug: I'm concerned about unauthorized transactions on my account. Can I request a refund for the recent charges? Additionally, I'd like to temporarily suspend my card to prevent further unauthorized activity.
+GEN | [card_payment_not_recognised] | Orig: I didn't do a payment and I have it now. -> Aug: I've missed a payment and I'm providing the payment now.
+GEN | [cash_withdrawal_not_recognised] | Orig: I am seeing unathorized transactions in the app, on my account. -> Aug: I'm noticing some suspicious activity on my account, showing up in the app without my permission.
+GEN | [terminate_account] | Orig: Your company is lame. Shut down all my account services right now. -> Aug: Close my account immediately, as I'm extremely dissatisfied with your company's services.
+GEN | [card_payment_not_recognised] | Orig: Could you please put a freeze on my card?  There are some payments on it that I don't know where they came from. -> Aug: Can you temporarily suspend my card activity? I'm concerned about unauthorized transactions that have been made on my account.
+GEN | [pending_transfer] | Orig: I have an outgoing transaction -> Aug: I have a pending transfer
+GEN | [card_delivery_estimate] | Orig: i need to add express delivery if that's an option -> Aug: I'd like to inquire about the possibility of expedited shipping for my card delivery.
+GEN | [card_delivery_estimate] | Orig: i need to expedite my card -> Aug: I'd like to request an expedited delivery for my card.
+GEN | [lost_or_stolen_card] | Orig: Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen. -> Aug: Can you replace my card and cancel my current one, as it was stolen while I was in Spain and I'm now without a wallet?
+GEN | [fiat_currency_support] | Orig: What currencies can I not hold many in, if so what are they? -> Aug: Which fiat currencies are restricted for holding a large amount, and what are the limitations?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Balance is not up to date. -> Aug: Your account balance has not been updated after the recent bank transfer.
+GEN | [reverted_card_payment?] | Orig: Why have I received a rebate for my payment after a week? -> Aug: Why did I get a refund for my payment after a week?
+GEN | [card_delivery_estimate] | Orig: I need my card as quick as possible -> Aug: I'd like to receive my card as soon as possible.
+GEN | [card_swallowed] | Orig: How do I get my card back quickly from a bank machine that it? -> Aug: How can I retrieve my card from a bank machine as soon as possible?
+GEN | [direct_debit_payment_not_recognised] | Orig: How long after I receive my statement can I dispute payments on it? -> Aug: What is the timeframe for disputing payments on my statement after it's been received?
+GEN | [getting_spare_card] | Orig: Is a new debit card free? -> Aug: Can I get a new debit card without any additional charges?
+GEN | [card_linking] | Orig: Can I add a card to back into the app? -> Aug: Can I link a card to my account within the app?
+GEN | [country_support] | Orig: Can I get support? -> Aug: Do you need assistance?
+GEN | [fiat_currency_support] | Orig: Do you have EUR currency available for me? -> Aug: Can I get some information on the availability of the Euro currency for my transaction?
+GEN | [compromised_card] | Orig: I don't recognize some transactions.  Is someone else using it? -> Aug: I'm concerned about unauthorized activity on my account. Is someone else accessing my card?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I can still see money in my account after making a payment -> Aug: I can see the funds in my account, but the balance hasn't been updated after I made a transfer.
+GEN | [wrong_amount_of_cash_received] | Orig: Why can't I take $100 out -> Aug: I was expecting to receive a certain amount of cash, but it seems I've been given the wrong amount.
+GEN | [card_payment_not_recognised] | Orig: I need to freeze my card as soon as possible. I just checked my account and saw that there have been several payments that I don't recognize over the course of a few days. Can we investigate and get my money back? -> Aug: I'd like to report an issue with an unauthorized payment. I've reviewed my account activity and noticed some transactions that I'm not familiar with. Can you look into this and help me recover the funds?
+GEN | [terminate_account] | Orig: What are the steps to finishing up with this account? -> Aug: How do I go about closing this account?
+GEN | [card_not_working] | Orig: I seem to be unable to make any transactions. -> Aug: I'm having trouble making any transactions.
+GEN | [cash_withdrawal_not_recognised] | Orig: I want my card frozen right away. Money was taken out in an odd location I have never heard of. -> Aug: I need my account secured immediately. There was an unauthorized cash withdrawal made at a location I'm not familiar with.
+GEN | [card_not_working] | Orig: Is my card frozen? -> Aug: Is my credit card not functioning properly?
+GEN | [card_delivery_estimate] | Orig: how much to get my card in 2 days? -> Aug: Can you provide an estimate for the delivery of my card within a 2-day timeframe?
+GEN | [exchange_via_app] | Orig: Can I use this app to change money? -> Aug: Can I make a currency exchange using this mobile app?
+GEN | [card_not_working] | Orig: Why doesn't my card work for any transactions? -> Aug: Why is my card unable to process any transactions?
+GEN | [card_payment_fee_charged] | Orig: how do i avoid charges in the future -> Aug: what can I do to prevent being charged a fee on my card in the future?
+GEN | [card_delivery_estimate] | Orig: Can I have it by a certain date? -> Aug: Can you provide an estimated delivery date for the card?
+GEN | [transaction_charged_twice] | Orig: There is a transaction showing up several times. -> Aug: A duplicate transaction appears on my account.
+GEN | [order_physical_card] | Orig: What does the bank charge for lost or stolen card replacements? -> Aug: How much does the bank charge for issuing a new physical card if my original one is lost or stolen?

@@ -1,0 +1,75 @@
+GEN | [transfer_not_received_by_recipient] | Orig: I can't see if the transfer I did a couple days ago is in my account yet. I double checked my info before sending, too. Can you check this? -> Aug: I'm still waiting to see if the transfer I initiated a few days ago has been credited to my account. I've double-checked my details to ensure everything is correct. Could you please verify this for me?
+GEN | [receiving_money] | Orig: Can I receive payment in another currency? -> Aug: Can I accept payment in a different currency?
+GEN | [card_arrival] | Orig: What can I do if my card still hasn't arrived after 2 weeks? -> Aug: What can I do if my card has not yet arrived after a fortnight?
+GEN | [extra_charge_on_statement] | Orig: I see a $1 charge in a transaction. -> Aug: I noticed an additional fee in a recent transaction.
+GEN | [top_up_limits] | Orig: What's the top-up limit? -> Aug: What is the maximum amount I can add to my limits?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Where is the transfer to my account? -> Aug: Why hasn't the transfer to my account been reflected in my balance?
+GEN | [card_payment_wrong_exchange_rate] | Orig: The exchange rate given to me after a purchase, was incorrect -> Aug: The rate provided for the conversion of funds after a transaction was not accurate
+GEN | [card_linking] | Orig: I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card. -> Aug: I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card.
+GEN | [card_payment_not_recognised] | Orig: Payment I did not make. -> Aug: Transaction I attempted to process was not recognized.
+GEN | [pending_top_up] | Orig: My top up is incomplete. -> Aug: My top-up transaction is still pending.
+GEN | [card_payment_wrong_exchange_rate] | Orig: I think I was charged extra on my payment on last Saturday.  Maybe the exchange rate was wrong?  I'd like a refund. -> Aug: I'm concerned that I was overcharged for my recent payment, possibly due to an incorrect exchange rate. Could you look into this and provide a refund for the discrepancy?
+GEN | [extra_charge_on_statement] | Orig: €1 was in my statement as an extra fee. -> Aug: A charge of €1 was listed on my statement as an additional fee.
+GEN | [card_acceptance] | Orig: Which merchants accept my card? -> Aug: What businesses accept my credit/debit card?
+GEN | [cash_withdrawal_charge] | Orig: Why are fees charged for cash withdrawals? I went to withdraw some money earlier today after shopping. There's a new fee that there. -> Aug: I'm wondering why I was charged a fee for the cash withdrawal I made earlier today after making a purchase. I noticed a new fee was added.
+GEN | [reverted_card_payment?] | Orig: I cannot seem to buy something online with my card? the payment comes back, what's going on? -> Aug: I'm having trouble making an online purchase with my card, as the payment keeps getting reversed? What's causing this issue?
+GEN | [balance_not_updated_after_cheque_or_cash_deposit] | Orig: I deposited a cheque, but the balance hasn't changed yet. -> Aug: I made a cash deposit, but my account balance remains unchanged.
+GEN | [declined_card_payment] | Orig: When I tried to pay in a store my card din't work -> Aug: When I attempted to make a purchase in-store, my card was declined.
+GEN | [getting_spare_card] | Orig: Do you charge extra for duplicate cards? -> Aug: Are there any additional fees for requesting a replacement card?
+GEN | [transfer_not_received_by_recipient] | Orig: How long will a transaction to a friend take? -> Aug: When can I expect a transfer to reach my friend's account?
+GEN | [top_up_by_bank_transfer_charge] | Orig: How much is it to receive money? -> Aug: What is the fee for receiving funds via bank transfer?
+GEN | [activate_my_card] | Orig: I need to activate my card, how is that done? -> Aug: I'd like to know the process for activating my card, please.
+GEN | [verify_my_identity] | Orig: How do i change my identity? -> Aug: What steps can I take to update my personal information?
+GEN | [topping_up_by_card] | Orig: Am I the only one who can top-up my account? -> Aug: Can I perform a card-based account replenishment myself?
+GEN | [visa_or_mastercard] | Orig: Does it matter which card I use -> Aug: Is the type of credit card I use significant?
+GEN | [card_payment_wrong_exchange_rate] | Orig: It looks like the exchange rates on my card payment are wrong -> Aug: The exchange rates applied to my card transaction seem to be incorrect
+GEN | [declined_card_payment] | Orig: Why is it saying my card payment is declined when I made it? -> Aug: I'm confused, my card payment was supposed to go through, but it's being declined. Can you help me figure out why?
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I am wondering about a transfer from a different country that doesn't show up yet? -> Aug: I'm concerned about a foreign transfer that hasn't reflected in my account yet.
+GEN | [change_pin] | Orig: Can you tell me how to change my PIN? -> Aug: How do I modify my PIN?
+GEN | [age_limit] | Orig: Do you have to be 18 to make an account? -> Aug: Are you required to be at least 18 years old to open an account?
+GEN | [pending_transfer] | Orig: How long does the "pending" period of a transfer take? -> Aug: What is the typical duration of a transfer that is currently in a pending state?
+GEN | [card_not_working] | Orig: My card was working but now it doesn't. -> Aug: My card was functioning properly, but it's no longer operational.
+GEN | [unable_to_verify_identity] | Orig: The app is telling me that I am not me. -> Aug: We're having trouble confirming your identity through our system.
+GEN | [transfer_not_received_by_recipient] | Orig: Why hasn't arrived yet a transaction I did to my friend? -> Aug: Why hasn't my friend received the transaction I sent to them yet?
+GEN | [verify_top_up] | Orig: I don't see the verification code for my card transfer. -> Aug: I'm having trouble finding the verification code for my recent top-up.
+GEN | [edit_personal_details] | Orig: Can I change my details because I moved? -> Aug: Can I update my personal information since I've relocated?
+GEN | [pending_transfer] | Orig: Can you tell me when my money transfer will go through -> Aug: When can I expect the transfer to be processed?
+GEN | [country_support] | Orig: Is it possible to get a card when i'm not in the UK? -> Aug: Can I obtain a card even if I'm not currently in the UK?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: ... | Original: I can't see if the transfer I did a couple days ago is in my account yet. I double checked my info before sending, too. Can you check this? | Augmented: I'm still waiting to see if the transfer I initiated a few days ago has been credited to my account. I've double-checked my details to ensure everything is correct. Could you please verify this for me?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Can I receive payment in another currency? | Augmented: Can I accept payment in a different currency?
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: What can I do if my card still hasn't arrived after 2 weeks? | Augmented: What can I do if my card has not yet arrived after a fortnight?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: I see a $1 charge in a transaction. | Augmented: I noticed an additional fee in a recent transaction.
+VAL | [top_up_limits] | ACCEPT | Reason: ... | Original: What's the top-up limit? | Augmented: What is the maximum amount I can add to my limits?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: ... | Original: Where is the transfer to my account? | Augmented: Why hasn't the transfer to my account been reflected in my balance?
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: ... | Original: The exchange rate given to me after a purchase, was incorrect | Augmented: The rate provided for the conversion of funds after a transaction was not accurate
+VAL | [card_linking] | ACCEPT | Reason: N/A | Original: I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card. | Augmented: I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card.
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: Payment I did not make. | Augmented: Transaction I attempted to process was not recognized.
+VAL | [pending_top_up] | ACCEPT | Reason: ... | Original: My top up is incomplete. | Augmented: My top-up transaction is still pending.
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: ... | Original: I think I was charged extra on my payment on last Saturday.  Maybe the exchange rate was wrong?  I'd like a refund. | Augmented: I'm concerned that I was overcharged for my recent payment, possibly due to an incorrect exchange rate. Could you look into this and provide a refund for the discrepancy?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: €1 was in my statement as an extra fee. | Augmented: A charge of €1 was listed on my statement as an additional fee.
+VAL | [card_acceptance] | ACCEPT | Reason: ... | Original: Which merchants accept my card? | Augmented: What businesses accept my credit/debit card?
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: Why are fees charged for cash withdrawals? I went to withdraw some money earlier today after shopping. There's a new fee that there. | Augmented: I'm wondering why I was charged a fee for the cash withdrawal I made earlier today after making a purchase. I noticed a new fee was added.
+VAL | [reverted_card_payment?] | ACCEPT | Reason: ... | Original: I cannot seem to buy something online with my card? the payment comes back, what's going on? | Augmented: I'm having trouble making an online purchase with my card, as the payment keeps getting reversed? What's causing this issue?
+VAL | [balance_not_updated_after_cheque_or_cash_deposit] | ACCEPT | Reason: N/A | Original: I deposited a cheque, but the balance hasn't changed yet. | Augmented: I made a cash deposit, but my account balance remains unchanged.
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: When I tried to pay in a store my card din't work | Augmented: When I attempted to make a purchase in-store, my card was declined.
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: Do you charge extra for duplicate cards? | Augmented: Are there any additional fees for requesting a replacement card?
+VAL | [transfer_not_received_by_recipient] | REVIEW | Reason: The augmented text is close to the original intent but lacks the explicit statement that the transfer has not been received. It could be interpreted as a general inquiry about the expected time for a transfer to reach an account, which might imply successful receipt. | Original: How long will a transaction to a friend take? | Augmented: When can I expect a transfer to reach my friend's account?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: How much is it to receive money? | Augmented: What is the fee for receiving funds via bank transfer?
+VAL | [activate_my_card] | ACCEPT | Reason: ... | Original: I need to activate my card, how is that done? | Augmented: I'd like to know the process for activating my card, please.
+VAL | [verify_my_identity] | ACCEPT | Reason: N/A | Original: How do i change my identity? | Augmented: What steps can I take to update my personal information?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: Am I the only one who can top-up my account? | Augmented: Can I perform a card-based account replenishment myself?
+VAL | [visa_or_mastercard] | UNKNOWN | Reason: N/A | Original: Does it matter which card I use | Augmented: Is the type of credit card I use significant?
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: Both texts express the same concern about the accuracy of the exchange rates applied to a card transaction. | Original: It looks like the exchange rates on my card payment are wrong | Augmented: The exchange rates applied to my card transaction seem to be incorrect
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: Why is it saying my card payment is declined when I made it? | Augmented: I'm confused, my card payment was supposed to go through, but it's being declined. Can you help me figure out why?
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: I am wondering about a transfer from a different country that doesn't show up yet? | Augmented: I'm concerned about a foreign transfer that hasn't reflected in my account yet.
+VAL | [change_pin] | ACCEPT | Reason: Both texts are asking about the process of changing a personal identification number (PIN) in a banking context. | Original: Can you tell me how to change my PIN? | Augmented: How do I modify my PIN?
+VAL | [age_limit] | ACCEPT | Reason: ... | Original: Do you have to be 18 to make an account? | Augmented: Are you required to be at least 18 years old to open an account?
+VAL | [pending_transfer] | ACCEPT | Reason: ... | Original: How long does the "pending" period of a transfer take? | Augmented: What is the typical duration of a transfer that is currently in a pending state?
+VAL | [card_not_working] | ACCEPT | Reason: ... | Original: My card was working but now it doesn't. | Augmented: My card was functioning properly, but it's no longer operational.
+VAL | [unable_to_verify_identity] | ACCEPT | Reason: ... | Original: The app is telling me that I am not me. | Augmented: We're having trouble confirming your identity through our system.
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: ... | Original: Why hasn't arrived yet a transaction I did to my friend? | Augmented: Why hasn't my friend received the transaction I sent to them yet?
+VAL | [verify_top_up] | ACCEPT | Reason: N/A | Original: I don't see the verification code for my card transfer. | Augmented: I'm having trouble finding the verification code for my recent top-up.
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: Can I change my details because I moved? | Augmented: Can I update my personal information since I've relocated?
+VAL | [pending_transfer] | ACCEPT | Reason: Both texts are seeking information about the processing time of a money transfer, which aligns with the 'pending_transfer' intent. | Original: Can you tell me when my money transfer will go through | Augmented: When can I expect the transfer to be processed?
+VAL | [country_support] | ACCEPT | Reason: Both texts are asking about the possibility of getting a card while not in the UK, preserving the same intent. | Original: Is it possible to get a card when i'm not in the UK? | Augmented: Can I obtain a card even if I'm not currently in the UK?
+VAL_SUMMARY | ACCEPT: 35 | REVIEW: 1 | REJECT: 0 | UNKNOWN: 1 | Accept Rate: 0.9459

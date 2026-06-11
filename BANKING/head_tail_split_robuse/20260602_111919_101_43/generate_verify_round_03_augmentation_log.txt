@@ -1,0 +1,79 @@
+GEN | [visa_or_mastercard] | Orig: Can I get a Visa or does it have to be something else. -> Aug: Can I use a Mastercard instead, or is it specifically a Visa requirement?
+GEN | [getting_virtual_card] | Orig: what is a virtual and how do i get one -> Aug: How do I obtain a virtual card, and what is its purpose?
+GEN | [visa_or_mastercard] | Orig: I prefer Mastecard. -> Aug: I would rather use Mastercard.
+GEN | [edit_personal_details] | Orig: I am here to change my adress. -> Aug: I'd like to update my residential address.
+GEN | [change_pin] | Orig: Can I change my PIN in Austria? -> Aug: Can I modify my PIN in Austria?
+GEN | [visa_or_mastercard] | Orig: Can I get a Visa from you? -> Aug: Can I obtain a Mastercard from you instead?
+GEN | [visa_or_mastercard] | Orig: I prefer Visa, can I get that instead? -> Aug: I'd like to opt for a Visa, if possible?
+GEN | [card_delivery_estimate] | Orig: Are the delivery days flexible?  My schedule only allows me to be a available on specific dates. -> Aug: Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?
+GEN | [change_pin] | Orig: I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country? -> Aug: I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?
+GEN | [change_pin] | Orig: Do I have to change my PIN at a bank? -> Aug: Can I modify my PIN at a bank's location?
+GEN | [change_pin] | Orig: Can I change my PIN on holiday? -> Aug: Can I modify my PIN while I'm away on vacation?
+GEN | [edit_personal_details] | Orig: I am looking to change my adress. -> Aug: I'd like to update my residential address.
+GEN | [edit_personal_details] | Orig: details need to be modified -> Aug: information needs to be updated
+GEN | [change_pin] | Orig: Can I change my PIN at my local bank? -> Aug: Can I modify my PIN at a nearby bank branch?
+GEN | [beneficiary_not_allowed] | Orig: Why am I not allowed to add a certain beneficiary? -> Aug: You are not permitted to add a specific beneficiary.
+GEN | [beneficiary_not_allowed] | Orig: What are then rules on beneficiaries? -> Aug: What are the restrictions on beneficiary designations?
+GEN | [visa_or_mastercard] | Orig: I want to get a Visa -> Aug: I'd like to obtain a Mastercard
+GEN | [pin_blocked] | Orig: What should I do if I exceed my PIN tries? -> Aug: What should I do if I reach the maximum number of PIN attempts allowed?
+GEN | [top_up_by_cash_or_cheque] | Orig: What is your check-cashing policy? -> Aug: You can top up your account by cash or cheque.
+GEN | [change_pin] | Orig: Do I need to speak to a representative to change my pin? -> Aug: Can I request assistance from a representative to modify my personal identification number (PIN)?
+GEN | [top_up_by_cash_or_cheque] | Orig: Can I purchase with cash or cheque? -> Aug: May I pay using cash or by cheque?
+GEN | [beneficiary_not_allowed] | Orig: Why won't you let me name X as a beneficiary? -> Aug: You're asking why we're not permitting X to be designated as a beneficiary.
+GEN | [beneficiary_not_allowed] | Orig: What is preventing me from adding a specific beneficiary? -> Aug: Why am I unable to add a particular beneficiary to my account?
+GEN | [card_delivery_estimate] | Orig: i need to add express delivery if that's an option -> Aug: I'd like to inquire about the possibility of expedited shipping for my card delivery.
+GEN | [terminate_account] | Orig: This place has been too much work so I'd just like to close out my account & be done. -> Aug: This account has become too burdensome, and I'd prefer to shut it down and move on.
+GEN | [change_pin] | Orig: I must change my PIN as soon as possible. -> Aug: I need to update my PIN immediately.
+GEN | [change_pin] | Orig: How can I change my Rowlock ? -> Aug: How do I modify my PIN?
+GEN | [top_up_by_cash_or_cheque] | Orig: where can i deposit a check -> Aug: where can i make a deposit by cheque
+GEN | [edit_personal_details] | Orig: I must change my address. -> Aug: I need to update my residential information.
+GEN | [change_pin] | Orig: Help me with a PIN change. -> Aug: Assist me in updating my PIN.
+GEN | [pin_blocked] | Orig: What if I type in the wrong PIN too many times? -> Aug: What happens if I enter my PIN incorrectly multiple times?
+GEN | [card_delivery_estimate] | Orig: can the delivery be specific to my needs? -> Aug: Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?
+GEN | [terminate_account] | Orig: I want to close my account now. -> Aug: I'd like to cancel my account immediately.
+GEN | [receiving_money] | Orig: What do I need to do to get my salary through this? -> Aug: How can I receive my salary payment through this channel?
+GEN | [visa_or_mastercard] | Orig: I need a Visa and a Mastercard from you. -> Aug: I require both a Visa and a Mastercard from your institution.
+GEN | [change_pin] | Orig: I want to change my PIN - do I need to be in a bank? -> Aug: I'd like to modify my PIN - must I visit a bank branch to do so?
+GEN | [verify_my_identity] | Orig: What type of ID do you accept? -> Aug: We accept various forms of identification. Which one would you like to provide?
+GEN | [top_up_by_cash_or_cheque] | Orig: Do you take checks? -> Aug: Can you accept payments by cheque or cash?
+GEN | [edit_personal_details] | Orig: Talk me through modifying my details. -> Aug: Can you guide me through the process of updating my personal information?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: ... | Original: Can I get a Visa or does it have to be something else. | Augmented: Can I use a Mastercard instead, or is it specifically a Visa requirement?
+VAL | [getting_virtual_card] | ACCEPT | Reason: While the wording has changed, the core question about obtaining a virtual card is preserved. | Original: what is a virtual and how do i get one | Augmented: How do I obtain a virtual card, and what is its purpose?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: ... | Original: I prefer Mastecard. | Augmented: I would rather use Mastercard.
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: I am here to change my adress. | Augmented: I'd like to update my residential address.
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: Can I change my PIN in Austria? | Augmented: Can I modify my PIN in Austria?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: N/A | Original: Can I get a Visa from you? | Augmented: Can I obtain a Mastercard from you instead?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: ... | Original: I prefer Visa, can I get that instead? | Augmented: I'd like to opt for a Visa, if possible?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: Are the delivery days flexible?  My schedule only allows me to be a available on specific dates. | Augmented: Can you accommodate my schedule, which has specific availability on certain dates, for the card delivery?
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country? | Augmented: I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: Do I have to change my PIN at a bank? | Augmented: Can I modify my PIN at a bank's location?
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: Can I change my PIN on holiday? | Augmented: Can I modify my PIN while I'm away on vacation?
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: I am looking to change my adress. | Augmented: I'd like to update my residential address.
+VAL | [edit_personal_details] | ACCEPT | Reason: Both phrases indicate a need to change or correct personal information in a banking context. | Original: details need to be modified | Augmented: information needs to be updated
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: Can I change my PIN at my local bank? | Augmented: Can I modify my PIN at a nearby bank branch?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: ... | Original: Why am I not allowed to add a certain beneficiary? | Augmented: You are not permitted to add a specific beneficiary.
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: N/A | Original: What are then rules on beneficiaries? | Augmented: What are the restrictions on beneficiary designations?
+VAL | [visa_or_mastercard] | REJECT | Reason: N/A | Original: I want to get a Visa | Augmented: I'd like to obtain a Mastercard
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: What should I do if I exceed my PIN tries? | Augmented: What should I do if I reach the maximum number of PIN attempts allowed?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: What is your check-cashing policy? | Augmented: You can top up your account by cash or cheque.
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: Do I need to speak to a representative to change my pin? | Augmented: Can I request assistance from a representative to modify my personal identification number (PIN)?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: Both texts are asking about the possibility of paying for something using cash or cheque, preserving the same intent. | Original: Can I purchase with cash or cheque? | Augmented: May I pay using cash or by cheque?
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: ... | Original: Why won't you let me name X as a beneficiary? | Augmented: You're asking why we're not permitting X to be designated as a beneficiary.
+VAL | [beneficiary_not_allowed] | ACCEPT | Reason: Both texts are asking about the reason for not being able to add a beneficiary, preserving the intent of the original text. | Original: What is preventing me from adding a specific beneficiary? | Augmented: Why am I unable to add a particular beneficiary to my account?
+VAL | [card_delivery_estimate] | ACCEPT | Reason: N/A | Original: i need to add express delivery if that's an option | Augmented: I'd like to inquire about the possibility of expedited shipping for my card delivery.
+VAL | [terminate_account] | ACCEPT | Reason: ... | Original: This place has been too much work so I'd just like to close out my account & be done. | Augmented: This account has become too burdensome, and I'd prefer to shut it down and move on.
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: I must change my PIN as soon as possible. | Augmented: I need to update my PIN immediately.
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: How can I change my Rowlock ? | Augmented: How do I modify my PIN?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: where can i deposit a check | Augmented: where can i make a deposit by cheque
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: I must change my address. | Augmented: I need to update my residential information.
+VAL | [change_pin] | ACCEPT | Reason: ... | Original: Help me with a PIN change. | Augmented: Assist me in updating my PIN.
+VAL | [pin_blocked] | ACCEPT | Reason: N/A | Original: What if I type in the wrong PIN too many times? | Augmented: What happens if I enter my PIN incorrectly multiple times?
+VAL | [card_delivery_estimate] | UNKNOWN | Reason: N/A | Original: can the delivery be specific to my needs? | Augmented: Can you provide more details about your specific needs, so we can tailor the delivery of your card to meet them?
+VAL | [terminate_account] | ACCEPT | Reason: N/A | Original: I want to close my account now. | Augmented: I'd like to cancel my account immediately.
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: What do I need to do to get my salary through this? | Augmented: How can I receive my salary payment through this channel?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: ... | Original: I need a Visa and a Mastercard from you. | Augmented: I require both a Visa and a Mastercard from your institution.
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: I want to change my PIN - do I need to be in a bank? | Augmented: I'd like to modify my PIN - must I visit a bank branch to do so?
+VAL | [verify_my_identity] | ACCEPT | Reason: N/A | Original: What type of ID do you accept? | Augmented: We accept various forms of identification. Which one would you like to provide?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: Do you take checks? | Augmented: Can you accept payments by cheque or cash?
+VAL | [edit_personal_details] | ACCEPT | Reason: ... | Original: Talk me through modifying my details. | Augmented: Can you guide me through the process of updating my personal information?
+VAL_SUMMARY | ACCEPT: 37 | REVIEW: 0 | REJECT: 1 | UNKNOWN: 1 | Accept Rate: 0.9487

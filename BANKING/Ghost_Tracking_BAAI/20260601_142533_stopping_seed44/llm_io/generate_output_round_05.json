@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "We need to confirm the origin of your funds.",
+    "Please confirm the origin of the funds used for this transaction.",
+    "I need to confirm the origin of my funds.",
+    "I need to confirm the origin of my funds.",
+    "We need to confirm the origin of your funds.",
+    "How can I get my salary payment?",
+    "You have a supplementary credit card issued in the United States. Can you use it for transactions with us?",
+    "I'm wondering if you support any other credit cards besides the one I'm using, specifically one from the United States.",
+    "What types of payment methods and currencies are accepted with my account?",
+    "What happens if a payment to a merchant is declined or reversed?",
+    "Can I receive my paycheck here?",
+    "How can I confirm the origin of my funds?",
+    "We accept various credit cards issued in the United States.",
+    "Hi, I'm getting a few \"decline\" notifications regarding my card. Is everything okay with my account?",
+    "Can I obtain a Mastercard from you instead?",
+    "Who is the source of the funds being used to make this transaction?",
+    "I would rather use Mastercard.",
+    "Can I use contactless payment methods?",
+    "This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?",
+    "We're unable to identify the direct debit payment you're referring to.",
+    "How do I obtain a disposable virtual card and use it for transactions?",
+    "We accept a range of currencies and cards for transactions, including a variety of payment methods.",
+    "Can you please confirm the origin of the funds used for this transaction?",
+    "How can I receive payment from my friend?",
+    "My virtual card was declined for a car rental, and I'm wondering why.",
+    "Can my employer use this service to transfer funds to me?",
+    "Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined.",
+    "At what point does the account balance need to reach before the automatic top-up feature kicks in?",
+    "I'm wondering if you support credit cards issued in the United States.",
+    "Can I deposit funds using a US-issued card?",
+    "Can you confirm the origin of the funds used for this transaction?",
+    "I'm certain I have sufficient funds, yet the merchant refused to accept my payment method.",
+    "where is the origin of the funds used for this transaction?",
+    "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?",
+    "This morning, I attempted to withdraw cash from my card, but the transaction was declined. Despite being functional previously, it seems there's an issue with my card. Could you kindly investigate the matter?",
+    "I'd like to update my personal information as my marital status has changed, and I'd like to modify my name to accurately reflect this change.",
+    "Can I withdraw cash from my home country using one of your machines while I'm on holiday? I'm worried about not having any local currency with me and would like to know if I'll be charged a fee for this service.",
+    "I'd like to confirm the origin of my funds.",
+    "Do you support credit cards issued in the United States?"
+  ],
+  "generated_labels": [
+    70,
+    70,
+    70,
+    70,
+    70,
+    50,
+    54,
+    54,
+    54,
+    53,
+    50,
+    70,
+    54,
+    25,
+    73,
+    70,
+    73,
+    23,
+    26,
+    28,
+    37,
+    54,
+    70,
+    50,
+    72,
+    50,
+    26,
+    4,
+    54,
+    54,
+    70,
+    25,
+    70,
+    29,
+    26,
+    30,
+    76,
+    70,
+    54
+  ],
+  "source_texts": [
+    "My source of funds require verification.",
+    "Please verify my source of funds.",
+    "I have to verify my source of funds.",
+    "I require verification of my source of funds.",
+    "My source of funds need verification.",
+    "What can I use to receive my salary?",
+    "I have a second credit card from the US. Will you take it?",
+    "I only have one other credit card from the US. Do you accept that?",
+    "What are the currencies and cards that are supported with my account?",
+    "What happens if a merchant doesn't accept  you payment?",
+    "Can my salary be received here?",
+    "What do I do to verify my source of funds?",
+    "Do you accept credit cards from the US",
+    "Hi, is everything in good standing with my card? I am receiving multiple \"decline\" messages.",
+    "Can I get a Visa from you?",
+    "Who is giving me my money?",
+    "I prefer Mastecard.",
+    "Can I make a contactless payments?",
+    "This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined.",
+    "what is the word?",
+    "What is the procedure for depositing a virtual card",
+    "What are the various currencies and cards that you offer support for?",
+    "How do I verify my source of funds?",
+    "How can my friend pay me?",
+    "My Virtual card was rejected for a car rental. Why?",
+    "Will my employer be able to pay me with this service",
+    "Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",
+    "How low does the balance have to be before the system updates?",
+    "I have a US credit card, will you accept it?",
+    "can i add funds  with a card from the united states",
+    "Verify my source of funds?",
+    "I'm sure I have enough money so why didn't the store accept my card?",
+    "what is source of my money",
+    "i tried using a virtual card for a hotel but it didn't work, why not",
+    "Hi, In morning, i was trying to withdraw money from my card, but it got declined. So far it was working fine. Could you please check my card.",
+    "My marital status has change, I got to correct my name to reflect that.",
+    "Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this?",
+    "I would like to verify my source of funds.",
+    "do you accept from usa credit card?"
+  ],
+  "records": [
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My source of funds require verification.",
+      "generated": "We need to confirm the origin of your funds."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Please verify my source of funds.",
+      "generated": "Please confirm the origin of the funds used for this transaction."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I have to verify my source of funds.",
+      "generated": "I need to confirm the origin of my funds."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I require verification of my source of funds.",
+      "generated": "I need to confirm the origin of my funds."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My source of funds need verification.",
+      "generated": "We need to confirm the origin of your funds."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What can I use to receive my salary?",
+      "generated": "How can I get my salary payment?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I have a second credit card from the US. Will you take it?",
+      "generated": "You have a supplementary credit card issued in the United States. Can you use it for transactions with us?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I only have one other credit card from the US. Do you accept that?",
+      "generated": "I'm wondering if you support any other credit cards besides the one I'm using, specifically one from the United States."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are the currencies and cards that are supported with my account?",
+      "generated": "What types of payment methods and currencies are accepted with my account?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "What happens if a merchant doesn't accept  you payment?",
+      "generated": "What happens if a payment to a merchant is declined or reversed?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can my salary be received here?",
+      "generated": "Can I receive my paycheck here?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What do I do to verify my source of funds?",
+      "generated": "How can I confirm the origin of my funds?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do you accept credit cards from the US",
+      "generated": "We accept various credit cards issued in the United States."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Hi, is everything in good standing with my card? I am receiving multiple \"decline\" messages.",
+      "generated": "Hi, I'm getting a few \"decline\" notifications regarding my card. Is everything okay with my account?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get a Visa from you?",
+      "generated": "Can I obtain a Mastercard from you instead?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Who is giving me my money?",
+      "generated": "Who is the source of the funds being used to make this transaction?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I prefer Mastecard.",
+      "generated": "I would rather use Mastercard."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Can I make a contactless payments?",
+      "generated": "Can I use contactless payment methods?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined.",
+      "generated": "This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "what is the word?",
+      "generated": "We're unable to identify the direct debit payment you're referring to."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "What is the procedure for depositing a virtual card",
+      "generated": "How do I obtain a disposable virtual card and use it for transactions?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are the various currencies and cards that you offer support for?",
+      "generated": "We accept a range of currencies and cards for transactions, including a variety of payment methods."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How do I verify my source of funds?",
+      "generated": "Can you please confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can my friend pay me?",
+      "generated": "How can I receive payment from my friend?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My Virtual card was rejected for a car rental. Why?",
+      "generated": "My virtual card was declined for a car rental, and I'm wondering why."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Will my employer be able to pay me with this service",
+      "generated": "Can my employer use this service to transfer funds to me?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",
+      "generated": "Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How low does the balance have to be before the system updates?",
+      "generated": "At what point does the account balance need to reach before the automatic top-up feature kicks in?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I have a US credit card, will you accept it?",
+      "generated": "I'm wondering if you support credit cards issued in the United States."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "can i add funds  with a card from the united states",
+      "generated": "Can I deposit funds using a US-issued card?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Verify my source of funds?",
+      "generated": "Can you confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I'm sure I have enough money so why didn't the store accept my card?",
+      "generated": "I'm certain I have sufficient funds, yet the merchant refused to accept my payment method."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "what is source of my money",
+      "generated": "where is the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "i tried using a virtual card for a hotel but it didn't work, why not",
+      "generated": "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Hi, In morning, i was trying to withdraw money from my card, but it got declined. So far it was working fine. Could you please check my card.",
+      "generated": "This morning, I attempted to withdraw cash from my card, but the transaction was declined. Despite being functional previously, it seems there's an issue with my card. Could you kindly investigate the matter?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "My marital status has change, I got to correct my name to reflect that.",
+      "generated": "I'd like to update my personal information as my marital status has changed, and I'd like to modify my name to accurately reflect this change."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this?",
+      "generated": "Can I withdraw cash from my home country using one of your machines while I'm on holiday? I'm worried about not having any local currency with me and would like to know if I'll be charged a fee for this service."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I would like to verify my source of funds.",
+      "generated": "I'd like to confirm the origin of my funds."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "do you accept from usa credit card?",
+      "generated": "Do you support credit cards issued in the United States?"
+    }
+  ]
+}

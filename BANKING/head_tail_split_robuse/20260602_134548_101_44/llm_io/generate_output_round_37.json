@@ -1,0 +1,298 @@
+{
+  "generated_texts": [
+    "I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?",
+    "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?",
+    "How long does it typically take for a transfer to be processed?",
+    "How can I reactivate my new card?",
+    "Why haven't I received the funds after topping up my account?",
+    "I'm trying to figure out what happened to my funds. I recently made a top-up payment, but it seems to have been reversed or cancelled. Can you help me understand what's going on?",
+    "I'm having an issue with my account. I deposited cash yesterday, but my balance hasn't been updated. Could you please investigate and let me know what's going on?",
+    "We're having trouble confirming your identity.",
+    "Why is my card not functioning properly?",
+    "Can you assist me in resolving the issue with my card not functioning properly?",
+    "My account balance is still zero despite the recent card top-up I made an hour ago.",
+    "I'm having trouble using my card. Can you assist me?",
+    "I'm still waiting for the transfer to reach the recipient.",
+    "I'm unable to locate the recent card top-up in my digital wallet.",
+    "Why hasn't my top-up been processed yet?",
+    "Why isn't my card-based top-up reflected in my account balance?",
+    "Why hasn't the money transfer been credited to the recipient's account?",
+    "Why was my payment to the designated beneficiary rejected?",
+    "can i make a transfer within the app?",
+    "I've been mistakenly charged twice.",
+    "What steps can I take to finalize my pending top-up?",
+    "Why is my cash withdrawal pending and not showing up?",
+    "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?",
+    "They informed me that they didn't receive the entire amount I transferred to them, and I'd appreciate it if you could investigate this issue.",
+    "What methods are available for me to receive funds?",
+    "The transfer of funds from my account was unsuccessful.",
+    "I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?",
+    "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system.",
+    "We didn't process a payment at this merchant.",
+    "What is the process and timeline for replacing an expiring card?",
+    "What is the typical timeframe for a US transfer to be processed?",
+    "How can I connect my bank account to my transfer account?"
+  ],
+  "generated_labels": [
+    46,
+    46,
+    48,
+    0,
+    47,
+    61,
+    6,
+    68,
+    14,
+    14,
+    62,
+    14,
+    66,
+    62,
+    47,
+    62,
+    66,
+    7,
+    65,
+    63,
+    47,
+    46,
+    49,
+    64,
+    50,
+    35,
+    35,
+    61,
+    16,
+    9,
+    67,
+    65
+  ],
+  "source_texts": [
+    "I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it?",
+    "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+    "What is the average pending time for a transaction?",
+    "How can my new card be renewed?",
+    "Where are my funds? I topped off my car but it didn't seem to complete.",
+    "I need someone to find out where my money has gone to? It has disappeared. I completed a top up earlier and seen it had went through. Since it has now disappeared I need to know what's going on.",
+    "i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong?",
+    "I dont have identification",
+    "Why can't I use my card?",
+    "Need help to get my card to work.",
+    "My wallet is empty even though I topped it up an hour ago.",
+    "I can't seem to use my card. Can you help?",
+    "I am just waiting for the transaction to be completed.",
+    "I don't see my top up in my wallet.",
+    "Isn't my top-up supposed to mean its complete?",
+    "Why is my 'top up' not showing up in my wallet?",
+    "What happens when I money transaction doesn't show up on the receiving side?",
+    "Why wasn't my payment to beneficiary X approved?",
+    "can i transfer money i the app",
+    "I have been overcharged.",
+    "How do I make my top up complete?",
+    "How do I get my cash withdrawal to show?",
+    "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+    "Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?",
+    "How can I receive money?",
+    "I was unable to transfer money from my account.",
+    "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+    "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+    "I didn't make a payment at this business.",
+    "What is the cost and time frame of getting a new card?",
+    "How long do I have to wait for a US transfer?",
+    "How can I link my bank to my top up account?"
+  ],
+  "records": [
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it?",
+      "generated": "I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+      "generated": "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "What is the average pending time for a transaction?",
+      "generated": "How long does it typically take for a transfer to be processed?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can my new card be renewed?",
+      "generated": "How can I reactivate my new card?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Where are my funds? I topped off my car but it didn't seem to complete.",
+      "generated": "Why haven't I received the funds after topping up my account?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I need someone to find out where my money has gone to? It has disappeared. I completed a top up earlier and seen it had went through. Since it has now disappeared I need to know what's going on.",
+      "generated": "I'm trying to figure out what happened to my funds. I recently made a top-up payment, but it seems to have been reversed or cancelled. Can you help me understand what's going on?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong?",
+      "generated": "I'm having an issue with my account. I deposited cash yesterday, but my balance hasn't been updated. Could you please investigate and let me know what's going on?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I dont have identification",
+      "generated": "We're having trouble confirming your identity."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why can't I use my card?",
+      "generated": "Why is my card not functioning properly?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Need help to get my card to work.",
+      "generated": "Can you assist me in resolving the issue with my card not functioning properly?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My wallet is empty even though I topped it up an hour ago.",
+      "generated": "My account balance is still zero despite the recent card top-up I made an hour ago."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't seem to use my card. Can you help?",
+      "generated": "I'm having trouble using my card. Can you assist me?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I am just waiting for the transaction to be completed.",
+      "generated": "I'm still waiting for the transfer to reach the recipient."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I don't see my top up in my wallet.",
+      "generated": "I'm unable to locate the recent card top-up in my digital wallet."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Isn't my top-up supposed to mean its complete?",
+      "generated": "Why hasn't my top-up been processed yet?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Why is my 'top up' not showing up in my wallet?",
+      "generated": "Why isn't my card-based top-up reflected in my account balance?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "What happens when I money transaction doesn't show up on the receiving side?",
+      "generated": "Why hasn't the money transfer been credited to the recipient's account?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why wasn't my payment to beneficiary X approved?",
+      "generated": "Why was my payment to the designated beneficiary rejected?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "can i transfer money i the app",
+      "generated": "can i make a transfer within the app?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have been overcharged.",
+      "generated": "I've been mistakenly charged twice."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "How do I make my top up complete?",
+      "generated": "What steps can I take to finalize my pending top-up?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How do I get my cash withdrawal to show?",
+      "generated": "Why is my cash withdrawal pending and not showing up?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+      "generated": "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?",
+      "generated": "They informed me that they didn't receive the entire amount I transferred to them, and I'd appreciate it if you could investigate this issue."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can I receive money?",
+      "generated": "What methods are available for me to receive funds?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I was unable to transfer money from my account.",
+      "generated": "The transfer of funds from my account was unsuccessful."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+      "generated": "I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+      "generated": "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I didn't make a payment at this business.",
+      "generated": "We didn't process a payment at this merchant."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What is the cost and time frame of getting a new card?",
+      "generated": "What is the process and timeline for replacing an expiring card?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long do I have to wait for a US transfer?",
+      "generated": "What is the typical timeframe for a US transfer to be processed?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "How can I link my bank to my top up account?",
+      "generated": "How can I connect my bank account to my transfer account?"
+    }
+  ]
+}

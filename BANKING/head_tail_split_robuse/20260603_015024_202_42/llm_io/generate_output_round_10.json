@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "I'm having trouble making any transactions.",
+    "I'm having trouble finding the verification code for my recent top-up.",
+    "I've misplaced my passcode",
+    "I tried to make a purchase using my card, but it didn't work when I went to a restaurant for lunch. Can you help me figure out what's going on?",
+    "I've been trying to use my card for a week, but it's still not functioning properly.",
+    "My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars.",
+    "I've forgotten the passcode for the mobile banking app.",
+    "Could you please reactivate my card, as I initially misplaced it but have since located it in my jacket pocket?",
+    "What steps can I take to activate my card and start using it?",
+    "I'd appreciate guidance on the steps to confirm the top-up process for my prepaid cards.",
+    "This payment made with the card is not being recognized.",
+    "What steps can I take to prevent unauthorized transactions on my compromised card?",
+    "Why is my card unable to process any transactions?",
+    "We've received a payment attempt from your debit card, but it's not being recognized.",
+    "You're wondering why your cash withdrawal was declined despite having sufficient funds in your account.",
+    "I'm unable to make any transactions with my card.",
+    "Are my paychecks in British Pounds, and do I need to set up a specific setting for that?",
+    "Unfortunately, I was unable to withdraw cash from my account.",
+    "You can complete the process quickly. Simply navigate to your account, select the \"Activate\" option, and follow the prompts to finish.",
+    "Why was my payment reversed and credited back to my card?",
+    "Is my British pound salary eligible for direct deposit into my account without conversion?",
+    "How can I charge my card without incurring any fees?",
+    "I'm having trouble remembering my passcode to access the app.",
+    "I'm having trouble adding more funds to my card, as it's been declined repeatedly, and I urgently need to use it. Can you assist me in resolving this issue or suggest alternative solutions?",
+    "Will my account reflect my latest paycheck?",
+    "I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible.",
+    "What is the threshold for the number of incorrect PIN attempts that will trigger a card block?",
+    "I recently got married and I'd like to update my personal details to reflect my new married name.",
+    "My account is running low. Can you tell me how I can deposit funds into my account?",
+    "I'm having trouble using my card to top up because the funds I loaded onto it are no longer available.",
+    "The transfer was mistakenly sent to the wrong recipient, what steps can I take to rectify the situation?",
+    "What's the phone number to report a lost or stolen card?",
+    "If I suspect that my credit card has been compromised, what steps should I take to address the situation?",
+    "I recently purchased a product, but I'm considering returning it.",
+    "Why was my cash withdrawal request denied?",
+    "Hi, I'm getting a few \"decline\" notifications regarding my card. Is everything okay with my account?",
+    "Have you checked my account balance recently?",
+    "I'm unable to access my account funds.",
+    "My purse was snatched, and the thief has already made a withdrawal using my card. I'm in a tight spot and need your assistance to prevent further unauthorized transactions."
+  ],
+  "generated_labels": [
+    14,
+    71,
+    44,
+    14,
+    14,
+    33,
+    44,
+    13,
+    0,
+    71,
+    16,
+    22,
+    14,
+    28,
+    26,
+    14,
+    50,
+    26,
+    0,
+    53,
+    50,
+    57,
+    44,
+    59,
+    50,
+    59,
+    49,
+    30,
+    65,
+    62,
+    66,
+    41,
+    22,
+    52,
+    26,
+    25,
+    5,
+    26,
+    20
+  ],
+  "source_texts": [
+    "I seem to be unable to make any transactions.",
+    "I don't see the verification code for my card transfer.",
+    "I can't find my code",
+    "I wasn't able to use my card today when I went out for lunch. Wondering why that is?",
+    "For a week now, I have tried to use my card and it is still not working.",
+    "My plans may change so I may need to change from GBP to AUD.",
+    "I don't know the code for the app.",
+    "Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket.",
+    "How can I make my card ready to use?",
+    "I would like to receive instructions showing the verification process for top up cards..",
+    "This card payment isn't is recognition.",
+    "How do I stop fraud to my card?",
+    "Why doesn't my card work for any transactions?",
+    "People are using my debit card - help!",
+    "why would i be declined if i had money iin my account",
+    "I can't use my card for anything",
+    "My salary is in GBP, is this something I need to configure?",
+    "When I tried to access my cash, I wasn't allowed!",
+    "You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",
+    "Why has my money been returned back to my card.",
+    "My salary is in GBP, do I need to exchange it before putting it into my account?",
+    "Where can i top my card for free?",
+    "Please help me.  I don't know my code to get into the app.",
+    "I need to add more funds to my card today because it keeps being declined, and I need to use it immediately. Can you fix this or tell me alternatives?",
+    "Will my GPB update my salary",
+    "I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",
+    "How many incorrect attempts cause card to be blocked?",
+    "I just had a wedding and I want to take my spouses name.",
+    "My money is all gone. What ways are okay to add money to my account?",
+    "I wasn't able to use my top up card because the money I put on there wasn't there anymore",
+    "i accidentally entered in my retailers information, what should i do next",
+    "What's the phone number to freeze a card?",
+    "What do I do if I believe to be a victim of credit card fraud?",
+    "I bought a product a week ago, but may need to return it.",
+    "Why can't I take money from my account?",
+    "Hi, is everything in good standing with my card? I am receiving multiple \"decline\" messages.",
+    "Can you see my new balance yet?",
+    "I can't get any money from my account.",
+    "My wallet was just stolen, and they've already used my card! Please help, I can't afford to lose more money!"
+  ],
+  "records": [
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I seem to be unable to make any transactions.",
+      "generated": "I'm having trouble making any transactions."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I don't see the verification code for my card transfer.",
+      "generated": "I'm having trouble finding the verification code for my recent top-up."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't find my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I wasn't able to use my card today when I went out for lunch. Wondering why that is?",
+      "generated": "I tried to make a purchase using my card, but it didn't work when I went to a restaurant for lunch. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "For a week now, I have tried to use my card and it is still not working.",
+      "generated": "I've been trying to use my card for a week, but it's still not functioning properly."
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "My plans may change so I may need to change from GBP to AUD.",
+      "generated": "My travel plans might be altered, which could require me to switch from British Pounds to Australian Dollars."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I don't know the code for the app.",
+      "generated": "I've forgotten the passcode for the mobile banking app."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket.",
+      "generated": "Could you please reactivate my card, as I initially misplaced it but have since located it in my jacket pocket?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can I make my card ready to use?",
+      "generated": "What steps can I take to activate my card and start using it?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I would like to receive instructions showing the verification process for top up cards..",
+      "generated": "I'd appreciate guidance on the steps to confirm the top-up process for my prepaid cards."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "This card payment isn't is recognition.",
+      "generated": "This payment made with the card is not being recognized."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "How do I stop fraud to my card?",
+      "generated": "What steps can I take to prevent unauthorized transactions on my compromised card?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why doesn't my card work for any transactions?",
+      "generated": "Why is my card unable to process any transactions?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "People are using my debit card - help!",
+      "generated": "We've received a payment attempt from your debit card, but it's not being recognized."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "why would i be declined if i had money iin my account",
+      "generated": "You're wondering why your cash withdrawal was declined despite having sufficient funds in your account."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I can't use my card for anything",
+      "generated": "I'm unable to make any transactions with my card."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My salary is in GBP, is this something I need to configure?",
+      "generated": "Are my paychecks in British Pounds, and do I need to set up a specific setting for that?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "When I tried to access my cash, I wasn't allowed!",
+      "generated": "Unfortunately, I was unable to withdraw cash from my account."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",
+      "generated": "You can complete the process quickly. Simply navigate to your account, select the \"Activate\" option, and follow the prompts to finish."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why has my money been returned back to my card.",
+      "generated": "Why was my payment reversed and credited back to my card?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My salary is in GBP, do I need to exchange it before putting it into my account?",
+      "generated": "Is my British pound salary eligible for direct deposit into my account without conversion?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Where can i top my card for free?",
+      "generated": "How can I charge my card without incurring any fees?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Please help me.  I don't know my code to get into the app.",
+      "generated": "I'm having trouble remembering my passcode to access the app."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I need to add more funds to my card today because it keeps being declined, and I need to use it immediately. Can you fix this or tell me alternatives?",
+      "generated": "I'm having trouble adding more funds to my card, as it's been declined repeatedly, and I urgently need to use it. Can you assist me in resolving this issue or suggest alternative solutions?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Will my GPB update my salary",
+      "generated": "Will my account reflect my latest paycheck?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",
+      "generated": "I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How many incorrect attempts cause card to be blocked?",
+      "generated": "What is the threshold for the number of incorrect PIN attempts that will trigger a card block?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "I just had a wedding and I want to take my spouses name.",
+      "generated": "I recently got married and I'd like to update my personal details to reflect my new married name."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "My money is all gone. What ways are okay to add money to my account?",
+      "generated": "My account is running low. Can you tell me how I can deposit funds into my account?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I wasn't able to use my top up card because the money I put on there wasn't there anymore",
+      "generated": "I'm having trouble using my card to top up because the funds I loaded onto it are no longer available."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "i accidentally entered in my retailers information, what should i do next",
+      "generated": "The transfer was mistakenly sent to the wrong recipient, what steps can I take to rectify the situation?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "What's the phone number to freeze a card?",
+      "generated": "What's the phone number to report a lost or stolen card?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What do I do if I believe to be a victim of credit card fraud?",
+      "generated": "If I suspect that my credit card has been compromised, what steps should I take to address the situation?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I bought a product a week ago, but may need to return it.",
+      "generated": "I recently purchased a product, but I'm considering returning it."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I take money from my account?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Hi, is everything in good standing with my card? I am receiving multiple \"decline\" messages.",
+      "generated": "Hi, I'm getting a few \"decline\" notifications regarding my card. Is everything okay with my account?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you see my new balance yet?",
+      "generated": "Have you checked my account balance recently?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I can't get any money from my account.",
+      "generated": "I'm unable to access my account funds."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "My wallet was just stolen, and they've already used my card! Please help, I can't afford to lose more money!",
+      "generated": "My purse was snatched, and the thief has already made a withdrawal using my card. I'm in a tight spot and need your assistance to prevent further unauthorized transactions."
+    }
+  ]
+}

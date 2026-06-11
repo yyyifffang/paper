@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "What is the daily spending limit on my credit card?",
+    "Why did my contactless payment fail to work at the metro station?",
+    "I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed.",
+    "still need to obtain my physical card",
+    "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?",
+    "What should I do if my card is not functioning properly?",
+    "What's the reason for the fee deducted from my account for the recent transfer?",
+    "my personal card information might have been compromised, since I didn't authorize these transactions",
+    "I'm trying to understand the fee policy for my account. I've noticed that I've been charged fees for certain transactions, but not for others, and I'm having trouble identifying a pattern. Can you help me understand the fee structure?",
+    "Can you help me understand how the payment was processed on my account?",
+    "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time",
+    "Are there any charges associated with bank transfers that I should be aware of?",
+    "When can I expect my recent card payment to be processed and credited to my account, as it's been a few days since I made the payment and it's still pending?",
+    "My personal details, specifically my address, are inaccurate in your records.",
+    "Can I transfer funds to specific accounts, or are there limitations in place?",
+    "I'm concerned that the deposit from my recent cheque hasn't been reflected in my account balance yet, as I mailed it to you a few days ago.",
+    "When can I expect the funds to be credited to my account?",
+    "What charges do I need to pay when I process a payment?",
+    "Please describe the steps involved in obtaining a virtual card.",
+    "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?",
+    "Will I be charged a fee when I receive a bank transfer to top up my account?",
+    "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?",
+    "Will all ATMs reject my card?",
+    "The virtual payment card I was using wouldn't accept my transaction.",
+    "How can I add funds to my account using my credit card?",
+    "The card is not functioning properly and won't be recognized by the payment terminal.",
+    "I'd like to obtain a virtual card.",
+    "I need to update my PIN immediately.",
+    "Can I see my latest refund reflected in my account statement?",
+    "Is the card accepted by all parties involved?",
+    "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?",
+    "Why hasn't my account balance been updated after I deposited a cheque or cash?",
+    "I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?",
+    "Adding funds to your account using your credit card",
+    "I'd like to obtain a virtual card.",
+    "Is the exchange rate offered by this app identical to those provided by other third-party services?",
+    "Are you unable to process certain cryptocurrency transactions? I attempted to perform a top-up, but the funds vanished. I'm unsure what's happening or what I'm doing incorrectly, could you please assist me?"
+  ],
+  "generated_labels": [
+    60,
+    23,
+    35,
+    38,
+    64,
+    14,
+    64,
+    22,
+    15,
+    16,
+    26,
+    56,
+    45,
+    30,
+    7,
+    6,
+    67,
+    15,
+    40,
+    17,
+    56,
+    2,
+    3,
+    72,
+    62,
+    14,
+    40,
+    21,
+    51,
+    10,
+    64,
+    6,
+    21,
+    62,
+    40,
+    32,
+    61
+  ],
+  "source_texts": [
+    "What is the daily limit on my card?",
+    "Why wasn't my contactless accepted at the metro?",
+    "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+    "still need to get card pin",
+    "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+    "What should I do if I can't use my card?",
+    "Why was money taken for a transfer?",
+    "my card details could be stolen, as i didnt make these transactions",
+    "Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees.",
+    "Is there any way to know how the transaction got on my account?",
+    "Is my card actually working? It's the first time I tried using it",
+    "Can third party fees affect a transfer?",
+    "How long does it actually take my card payment to make it to the account? I've made a payment a couple of days ago but it hasn't moved since.",
+    "My address is incorrect on my file.",
+    "Are there restrictions to transfers to certain accounts?",
+    "I am worried about the amount of my cheque, which should be credited to my account few days before. As i have already sent you the cheque.",
+    "When will the money be made available in my account?",
+    "What are the fees imposed when I make a transaction?",
+    "Please explain to me the process of getting a virtual card.",
+    "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+    "Do I get charged if I get money?",
+    "what can I do if I got my American Express in Apple Bay but top up is not working?",
+    "Will any ATM's decline my card?",
+    "My disposable virtual card wouldn't process my payment?",
+    "How do I transfer funds directly from my credit card?",
+    "Why won't the machine accept my card anymore?",
+    "I want to get my hands on one of those virtual cards!",
+    "I must change my PIN as soon as possible.",
+    "Can I check my recent refund in my statement?",
+    "Is the card welcomed by everybody?",
+    "I usually don't get charged for transfers, why was I this month?",
+    "Why hasn't my account updated?",
+    "I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here?",
+    "Transferring money using credit card",
+    "I want one of the virtual cards!",
+    "Does this app have the same exchange rate as third parties?",
+    "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help."
+  ],
+  "records": [
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What is the daily limit on my card?",
+      "generated": "What is the daily spending limit on my credit card?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Why wasn't my contactless accepted at the metro?",
+      "generated": "Why did my contactless payment fail to work at the metro station?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?",
+      "generated": "I'm experiencing an issue with a transaction and I need assistance with completing a payment for a property purchase, as my mortgage payment is pending and I'm unable to proceed."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "still need to get card pin",
+      "generated": "still need to obtain my physical card"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?",
+      "generated": "Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What should I do if I can't use my card?",
+      "generated": "What should I do if my card is not functioning properly?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Why was money taken for a transfer?",
+      "generated": "What's the reason for the fee deducted from my account for the recent transfer?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "my card details could be stolen, as i didnt make these transactions",
+      "generated": "my personal card information might have been compromised, since I didn't authorize these transactions"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees.",
+      "generated": "I'm trying to understand the fee policy for my account. I've noticed that I've been charged fees for certain transactions, but not for others, and I'm having trouble identifying a pattern. Can you help me understand the fee structure?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Is there any way to know how the transaction got on my account?",
+      "generated": "Can you help me understand how the payment was processed on my account?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Is my card actually working? It's the first time I tried using it",
+      "generated": "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can third party fees affect a transfer?",
+      "generated": "Are there any charges associated with bank transfers that I should be aware of?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it actually take my card payment to make it to the account? I've made a payment a couple of days ago but it hasn't moved since.",
+      "generated": "When can I expect my recent card payment to be processed and credited to my account, as it's been a few days since I made the payment and it's still pending?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "My address is incorrect on my file.",
+      "generated": "My personal details, specifically my address, are inaccurate in your records."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Are there restrictions to transfers to certain accounts?",
+      "generated": "Can I transfer funds to specific accounts, or are there limitations in place?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I am worried about the amount of my cheque, which should be credited to my account few days before. As i have already sent you the cheque.",
+      "generated": "I'm concerned that the deposit from my recent cheque hasn't been reflected in my account balance yet, as I mailed it to you a few days ago."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will the money be made available in my account?",
+      "generated": "When can I expect the funds to be credited to my account?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "What are the fees imposed when I make a transaction?",
+      "generated": "What charges do I need to pay when I process a payment?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "Please explain to me the process of getting a virtual card.",
+      "generated": "Please describe the steps involved in obtaining a virtual card."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+      "generated": "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Do I get charged if I get money?",
+      "generated": "Will I be charged a fee when I receive a bank transfer to top up my account?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "what can I do if I got my American Express in Apple Bay but top up is not working?",
+      "generated": "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Will any ATM's decline my card?",
+      "generated": "Will all ATMs reject my card?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card wouldn't process my payment?",
+      "generated": "The virtual payment card I was using wouldn't accept my transaction."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I transfer funds directly from my credit card?",
+      "generated": "How can I add funds to my account using my credit card?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why won't the machine accept my card anymore?",
+      "generated": "The card is not functioning properly and won't be recognized by the payment terminal."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I want to get my hands on one of those virtual cards!",
+      "generated": "I'd like to obtain a virtual card."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I must change my PIN as soon as possible.",
+      "generated": "I need to update my PIN immediately."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Can I check my recent refund in my statement?",
+      "generated": "Can I see my latest refund reflected in my account statement?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is the card welcomed by everybody?",
+      "generated": "Is the card accepted by all parties involved?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I usually don't get charged for transfers, why was I this month?",
+      "generated": "I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why hasn't my account updated?",
+      "generated": "Why hasn't my account balance been updated after I deposited a cheque or cash?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here?",
+      "generated": "I'm currently abroad and I need to update my PIN urgently. Can I make this change remotely?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Transferring money using credit card",
+      "generated": "Adding funds to your account using your credit card"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I want one of the virtual cards!",
+      "generated": "I'd like to obtain a virtual card."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Does this app have the same exchange rate as third parties?",
+      "generated": "Is the exchange rate offered by this app identical to those provided by other third-party services?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help.",
+      "generated": "Are you unable to process certain cryptocurrency transactions? I attempted to perform a top-up, but the funds vanished. I'm unsure what's happening or what I'm doing incorrectly, could you please assist me?"
+    }
+  ]
+}

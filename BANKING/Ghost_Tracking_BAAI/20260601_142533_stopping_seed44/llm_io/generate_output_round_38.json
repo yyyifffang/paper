@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "Why is this happening? I've attempted to make a transfer multiple times, but it keeps failing. Is there a technical issue with the system? This is a simple transfer, and I expect it to work smoothly.",
+    "The amount of cash I requested has not been delivered.",
+    "I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?",
+    "Need assistance with the exchange fee?",
+    "A supplementary fee has been added to your statement.",
+    "How long does it typically take for international transfers to be processed? I made an online purchase a few days ago and initiated the transfer promptly, but the vendor is telling me that the funds are still pending.",
+    "I'm attempting to make a payment to my new landlord, but it seems the transfer hasn't been received by them despite being sent a few days ago. Can you confirm that the payment has been processed successfully?",
+    "I'd like to request a new physical card.",
+    "I've attempted to initiate a standard bank transfer, but it keeps failing. I've tried multiple times, at least five, but none of them have been successful. Can you help me identify the issue?",
+    "I've been mistakenly charged twice.",
+    "Can my friend transfer funds to me in a currency other than US dollars?",
+    "What methods are available for me to receive funds?",
+    "Can I continue to use my credit card after its expiration date?",
+    "I attempted to make a payment using my credit/debit card, but it was unsuccessful.",
+    "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system.",
+    "Why is my temporary card not functioning properly?",
+    "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP.",
+    "I'm curious about the status of a transfer I initiated, which is currently pending.",
+    "I'm having trouble finalizing a transaction. I'm attempting to buy some cryptocurrency, but the app is preventing me from doing so. Can you help me understand what's blocking this process?",
+    "Can all merchants accept this card?",
+    "I would like to cancel my account immediately.",
+    "Why am I unable to add funds to my top-up account?",
+    "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?",
+    "My payment was declined at a store.",
+    "You assured me there would be no charges, but I've been slapped with a fee. Can you explain this discrepancy?",
+    "Can I make a bank transfer to top up my account?",
+    "I'm at the ATM and it's only dispensing 10 pounds, but I requested to withdraw 30. The app shows I have 30 pounds available, what should I do now?",
+    "I'm unable to locate the transfer I sent to a friend from my account.",
+    "I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?",
+    "Can you please confirm your identity by providing your identification documents?",
+    "Can you facilitate additional deposits?",
+    "My account balance is still zero despite the recent card top-up I made an hour ago.",
+    "Why is my pending cash withdrawal not reflected on my account statement?",
+    "I'm having trouble making any purchases with my card today. Can you help me figure out what's going on?"
+  ],
+  "generated_labels": [
+    35,
+    75,
+    66,
+    31,
+    34,
+    48,
+    66,
+    43,
+    35,
+    63,
+    50,
+    50,
+    9,
+    25,
+    61,
+    72,
+    20,
+    48,
+    7,
+    10,
+    55,
+    61,
+    74,
+    25,
+    15,
+    56,
+    75,
+    66,
+    35,
+    69,
+    61,
+    62,
+    46,
+    14
+  ],
+  "source_texts": [
+    "What is happening?  I have tried to transfer money 5x already.  Is the system down?  This shouldnt be happening as this is a basic transfer.",
+    "The cash I asked for still hasn't been received",
+    "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?",
+    "Exchange fee help?",
+    "There is a charge for an additional pound.",
+    "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.",
+    "I'm trying to make a payment to my new landlord. Even though the payment was sent a few days ago, it isn't clearing on their side. Can you verify that payment has been made?",
+    "I need to order a new card.",
+    "I can't seem to make a standard bank transfer. I have tried at least five times already but none of them are going through. Please tell me what is wrong?",
+    "I have been overcharged.",
+    "Can my friend send me money if it is not in US dollars?",
+    "How can I receive money?",
+    "Can I keep using my card after it expires?",
+    "I tried to pay with my card and it didn't work",
+    "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+    "Why is my disposable card not working?",
+    "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+    "I wanted to know why there is a transfer of mine pending.",
+    "I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here?",
+    "Do all businesses take this card?",
+    "I need to close my account as soon as possible.",
+    "How come I can't put money in my top up account?",
+    "My ID verification hasn't gone through yet, but can I use my account anyway?",
+    "My card couldn't pay in a shop.",
+    "You promised no fees but now I've got one. What the hell!?",
+    "Can I transfer using SWIFT?",
+    "Hey I am standing in front of an ATM here, it only gave me 10 pounds even though I wanted to withdraw 30! Seems like the app has 30 pounds, what do I do??",
+    "I don't see the transaction I made to a friend on my account.",
+    "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+    "why do I have to show my ID",
+    "Do you support top ups?",
+    "My wallet is empty even though I topped it up an hour ago.",
+    "Why hasn't my withdrawal shown on my statement?",
+    "I haven't been able to complete any transactions on my card today. Do you know what's wrong?"
+  ],
+  "records": [
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "What is happening?  I have tried to transfer money 5x already.  Is the system down?  This shouldnt be happening as this is a basic transfer.",
+      "generated": "Why is this happening? I've attempted to make a transfer multiple times, but it keeps failing. Is there a technical issue with the system? This is a simple transfer, and I expect it to work smoothly."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "The cash I asked for still hasn't been received",
+      "generated": "The amount of cash I requested has not been delivered."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?",
+      "generated": "I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Exchange fee help?",
+      "generated": "Need assistance with the exchange fee?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "There is a charge for an additional pound.",
+      "generated": "A supplementary fee has been added to your statement."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.",
+      "generated": "How long does it typically take for international transfers to be processed? I made an online purchase a few days ago and initiated the transfer promptly, but the vendor is telling me that the funds are still pending."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I'm trying to make a payment to my new landlord. Even though the payment was sent a few days ago, it isn't clearing on their side. Can you verify that payment has been made?",
+      "generated": "I'm attempting to make a payment to my new landlord, but it seems the transfer hasn't been received by them despite being sent a few days ago. Can you confirm that the payment has been processed successfully?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need to order a new card.",
+      "generated": "I'd like to request a new physical card."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I can't seem to make a standard bank transfer. I have tried at least five times already but none of them are going through. Please tell me what is wrong?",
+      "generated": "I've attempted to initiate a standard bank transfer, but it keeps failing. I've tried multiple times, at least five, but none of them have been successful. Can you help me identify the issue?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have been overcharged.",
+      "generated": "I've been mistakenly charged twice."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can my friend send me money if it is not in US dollars?",
+      "generated": "Can my friend transfer funds to me in a currency other than US dollars?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can I receive money?",
+      "generated": "What methods are available for me to receive funds?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I keep using my card after it expires?",
+      "generated": "Can I continue to use my credit card after its expiration date?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I tried to pay with my card and it didn't work",
+      "generated": "I attempted to make a payment using my credit/debit card, but it was unsuccessful."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.",
+      "generated": "Hello, I've successfully made a top-up payment, but my account hasn't been credited. Could you assist me in resolving this issue, as I suspect there might be a technical glitch in the system."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Why is my disposable card not working?",
+      "generated": "Why is my temporary card not functioning properly?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+      "generated": "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I wanted to know why there is a transfer of mine pending.",
+      "generated": "I'm curious about the status of a transfer I initiated, which is currently pending."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I really was trying to complete this exhange. I was trying to purchase some crypto but the app won't allow me to do it. Can you tell me what's going on here?",
+      "generated": "I'm having trouble finalizing a transaction. I'm attempting to buy some cryptocurrency, but the app is preventing me from doing so. Can you help me understand what's blocking this process?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Do all businesses take this card?",
+      "generated": "Can all merchants accept this card?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I need to close my account as soon as possible.",
+      "generated": "I would like to cancel my account immediately."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "How come I can't put money in my top up account?",
+      "generated": "Why am I unable to add funds to my top-up account?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "My ID verification hasn't gone through yet, but can I use my account anyway?",
+      "generated": "Since my ID verification is still pending, can I still access my account or is it locked until the verification is complete?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card couldn't pay in a shop.",
+      "generated": "My payment was declined at a store."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "You promised no fees but now I've got one. What the hell!?",
+      "generated": "You assured me there would be no charges, but I've been slapped with a fee. Can you explain this discrepancy?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can I transfer using SWIFT?",
+      "generated": "Can I make a bank transfer to top up my account?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Hey I am standing in front of an ATM here, it only gave me 10 pounds even though I wanted to withdraw 30! Seems like the app has 30 pounds, what do I do??",
+      "generated": "I'm at the ATM and it's only dispensing 10 pounds, but I requested to withdraw 30. The app shows I have 30 pounds available, what should I do now?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I don't see the transaction I made to a friend on my account.",
+      "generated": "I'm unable to locate the transfer I sent to a friend from my account."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+      "generated": "I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "why do I have to show my ID",
+      "generated": "Can you please confirm your identity by providing your identification documents?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you support top ups?",
+      "generated": "Can you facilitate additional deposits?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My wallet is empty even though I topped it up an hour ago.",
+      "generated": "My account balance is still zero despite the recent card top-up I made an hour ago."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why hasn't my withdrawal shown on my statement?",
+      "generated": "Why is my pending cash withdrawal not reflected on my account statement?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I haven't been able to complete any transactions on my card today. Do you know what's wrong?",
+      "generated": "I'm having trouble making any purchases with my card today. Can you help me figure out what's going on?"
+    }
+  ]
+}

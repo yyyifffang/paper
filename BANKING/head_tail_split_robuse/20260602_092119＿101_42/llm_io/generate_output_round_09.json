@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I'm currently without my mobile device, which is preventing me from accessing the system to finalize the transaction.",
+    "can i reach out to customer support if i'm having trouble updating my personal information?",
+    "I'm still waiting for the transfer to be successfully delivered to the recipient.",
+    "The app is displaying a higher withdrawal amount than what I physically deposited at the ATM.",
+    "A pending cash withdrawal is awaiting processing.",
+    "I've just got a new card and I'm having trouble topping it up. I attempted to add funds about half an hour ago, but the transaction is still pending. Can you help me resolve this issue?",
+    "The cash transfer I initiated hasn't been reflected on the recipient's end.",
+    "Hi, I urgently need your assistance. I've misplaced my wallet and noticed an unauthorized cash withdrawal. I'm worried about losing more money if this issue isn't resolved promptly.",
+    "When will the payment I made using my card be processed and cleared?",
+    "How do I initiate an exchange?",
+    "I've noticed duplicate transactions on my account.",
+    "My virtual card is experiencing technical difficulties.",
+    "I got my Virtual card details, but I'm having trouble using it for a transaction. Can you help me figure out what's going on and what I can do to resolve the issue?",
+    "I'm pretty sure I left my wallet on the bus, and I just got to the office. I'm worried someone might use my card. Can I report it lost or stolen?",
+    "How much does the bank charge for issuing a new physical card if my original one is lost or stolen?",
+    "I recently made a deposit, but my account balance hasn't been updated yet. Could you please help me with this issue?",
+    "I'm not currently in possession of my physical card.",
+    "When will a recent purchase be marked as complete and no longer pending?",
+    "halt the transfer",
+    "Can I make a currency exchange using this mobile app?",
+    "I'm having trouble making any transactions.",
+    "My payment is still pending, what's the next step?",
+    "I've misplaced my card at my parents' residence. Could you kindly provide me with a replacement card until I can retrieve the original one?",
+    "I've misplaced my passcode",
+    "I am expecting a payment to be cleared",
+    "My temporary virtual card is not functioning properly.",
+    "Can you clarify the multiple transaction dates listed on my account statement?",
+    "I made a cash deposit, but my account balance hasn't been updated yet. Is there an issue with the transaction?",
+    "I tried to make a purchase using my card, but it didn't work when I went to a restaurant for lunch. Can you help me figure out what's going on?",
+    "What should I do if I reach the maximum number of PIN attempts allowed?",
+    "I'm expecting my transfer to be received by the recipient.",
+    "What steps can I take to remove the block on my card?",
+    "When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?",
+    "How can I add funds to my account using my card?",
+    "Why hasn't my account balance been updated after I deposited a cheque or cash?",
+    "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time",
+    "What's the phone number to report a lost or stolen card?",
+    "My account is running low. Can you tell me how I can deposit funds into my account?"
+  ],
+  "generated_labels": [
+    42,
+    30,
+    66,
+    75,
+    46,
+    47,
+    66,
+    20,
+    45,
+    32,
+    63,
+    72,
+    72,
+    41,
+    43,
+    6,
+    38,
+    45,
+    8,
+    33,
+    14,
+    45,
+    39,
+    44,
+    45,
+    72,
+    63,
+    6,
+    14,
+    49,
+    66,
+    49,
+    19,
+    62,
+    6,
+    26,
+    41,
+    65
+  ],
+  "source_texts": [
+    "I don't have my cell phone with me so I cannot access the system to complete the transaction.",
+    "should i contact customer support if i can't edit details",
+    "I am just waiting on the completion of the transaction.",
+    "Help, your app is showing a larger WD than I actually did earlier at an ATM.",
+    "I have a withdrawal waiting to go through.",
+    "I have a new card and I can't add money to it.  I tried about 30 minutes ago and it is still pending.  What do I do?",
+    "My cash transaction isn't showing on my receipt",
+    "Hello, Please look into this matter urgently. As i have lost my wallet and i can see one withdrawal, now i do not want to loose more money.",
+    "When is a payment I made with my card going to clear>",
+    "What's the process for exchanges?",
+    "I have multiple of the same transaction",
+    "My virtual card is just not going through.",
+    "I received my Virtual card information, but was unable to use it to make a purchase. Why did this happen and what can I do?",
+    "I think my wallet fell out on the Tube today! I realized as soon as I got to my desk. How do I cut off the card?",
+    "What does the bank charge for lost or stolen card replacements?",
+    "I made a deposit a couple of days back it's, as of yet, not gone in! It would be ideal if you assist me with this",
+    "I don't have a PIN at this point.",
+    "How long does it take for a new purchase to stop being considered pending?",
+    "stop the transaction",
+    "Can I use this app to change money?",
+    "I seem to be unable to make any transactions.",
+    "My card has been pending for a while, what should I do?",
+    "I have left my card at my parents house. Can you send me a spare one please to use in the meantime?",
+    "I can't find my code",
+    "I am waiting for a payment to be processed",
+    "My throwaway virtual card won't work",
+    "Can you explain the various transaction times shown on my statement?",
+    "I tried using a check to update my balance, but it isn't work? Is something wrong?",
+    "I wasn't able to use my card today when I went out for lunch. Wondering why that is?",
+    "What should I do if I exceed my PIN tries?",
+    "I'm waiting for my transaction to complete.",
+    "How do I take a block off my card?",
+    "Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now?",
+    "My friends would like to add to my account. What is the procedure?",
+    "When will my deposit be processed?",
+    "Is my card actually working? It's the first time I tried using it",
+    "What's the phone number to freeze a card?",
+    "My money is all gone. What ways are okay to add money to my account?"
+  ],
+  "records": [
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I don't have my cell phone with me so I cannot access the system to complete the transaction.",
+      "generated": "I'm currently without my mobile device, which is preventing me from accessing the system to finalize the transaction."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "should i contact customer support if i can't edit details",
+      "generated": "can i reach out to customer support if i'm having trouble updating my personal information?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I am just waiting on the completion of the transaction.",
+      "generated": "I'm still waiting for the transfer to be successfully delivered to the recipient."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Help, your app is showing a larger WD than I actually did earlier at an ATM.",
+      "generated": "The app is displaying a higher withdrawal amount than what I physically deposited at the ATM."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I have a withdrawal waiting to go through.",
+      "generated": "A pending cash withdrawal is awaiting processing."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I have a new card and I can't add money to it.  I tried about 30 minutes ago and it is still pending.  What do I do?",
+      "generated": "I've just got a new card and I'm having trouble topping it up. I attempted to add funds about half an hour ago, but the transaction is still pending. Can you help me resolve this issue?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "My cash transaction isn't showing on my receipt",
+      "generated": "The cash transfer I initiated hasn't been reflected on the recipient's end."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Hello, Please look into this matter urgently. As i have lost my wallet and i can see one withdrawal, now i do not want to loose more money.",
+      "generated": "Hi, I urgently need your assistance. I've misplaced my wallet and noticed an unauthorized cash withdrawal. I'm worried about losing more money if this issue isn't resolved promptly."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "When is a payment I made with my card going to clear>",
+      "generated": "When will the payment I made using my card be processed and cleared?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What's the process for exchanges?",
+      "generated": "How do I initiate an exchange?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I have multiple of the same transaction",
+      "generated": "I've noticed duplicate transactions on my account."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My virtual card is just not going through.",
+      "generated": "My virtual card is experiencing technical difficulties."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I received my Virtual card information, but was unable to use it to make a purchase. Why did this happen and what can I do?",
+      "generated": "I got my Virtual card details, but I'm having trouble using it for a transaction. Can you help me figure out what's going on and what I can do to resolve the issue?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I think my wallet fell out on the Tube today! I realized as soon as I got to my desk. How do I cut off the card?",
+      "generated": "I'm pretty sure I left my wallet on the bus, and I just got to the office. I'm worried someone might use my card. Can I report it lost or stolen?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What does the bank charge for lost or stolen card replacements?",
+      "generated": "How much does the bank charge for issuing a new physical card if my original one is lost or stolen?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I made a deposit a couple of days back it's, as of yet, not gone in! It would be ideal if you assist me with this",
+      "generated": "I recently made a deposit, but my account balance hasn't been updated yet. Could you please help me with this issue?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I don't have a PIN at this point.",
+      "generated": "I'm not currently in possession of my physical card."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it take for a new purchase to stop being considered pending?",
+      "generated": "When will a recent purchase be marked as complete and no longer pending?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "stop the transaction",
+      "generated": "halt the transfer"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can I use this app to change money?",
+      "generated": "Can I make a currency exchange using this mobile app?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I seem to be unable to make any transactions.",
+      "generated": "I'm having trouble making any transactions."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "My card has been pending for a while, what should I do?",
+      "generated": "My payment is still pending, what's the next step?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I have left my card at my parents house. Can you send me a spare one please to use in the meantime?",
+      "generated": "I've misplaced my card at my parents' residence. Could you kindly provide me with a replacement card until I can retrieve the original one?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't find my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I am waiting for a payment to be processed",
+      "generated": "I am expecting a payment to be cleared"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My throwaway virtual card won't work",
+      "generated": "My temporary virtual card is not functioning properly."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Can you explain the various transaction times shown on my statement?",
+      "generated": "Can you clarify the multiple transaction dates listed on my account statement?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I tried using a check to update my balance, but it isn't work? Is something wrong?",
+      "generated": "I made a cash deposit, but my account balance hasn't been updated yet. Is there an issue with the transaction?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I wasn't able to use my card today when I went out for lunch. Wondering why that is?",
+      "generated": "I tried to make a purchase using my card, but it didn't work when I went to a restaurant for lunch. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "What should I do if I exceed my PIN tries?",
+      "generated": "What should I do if I reach the maximum number of PIN attempts allowed?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I'm waiting for my transaction to complete.",
+      "generated": "I'm expecting my transfer to be received by the recipient."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I take a block off my card?",
+      "generated": "What steps can I take to remove the block on my card?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Since when do you charge to make a withdrawal? I've always done it for free. So how much is it now?",
+      "generated": "When did you start charging for cash withdrawals? I've always been able to do it without incurring a fee. How much does it cost now?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My friends would like to add to my account. What is the procedure?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "When will my deposit be processed?",
+      "generated": "Why hasn't my account balance been updated after I deposited a cheque or cash?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Is my card actually working? It's the first time I tried using it",
+      "generated": "Is my card functioning properly? I'm trying to make a cash withdrawal for the first time"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "What's the phone number to freeze a card?",
+      "generated": "What's the phone number to report a lost or stolen card?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "My money is all gone. What ways are okay to add money to my account?",
+      "generated": "My account is running low. Can you tell me how I can deposit funds into my account?"
+    }
+  ]
+}

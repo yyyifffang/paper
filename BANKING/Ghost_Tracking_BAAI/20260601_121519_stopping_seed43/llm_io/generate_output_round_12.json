@@ -1,0 +1,370 @@
+{
+  "generated_texts": [
+    "You can top up your account by cash or cheque.",
+    "What payment methods do you accept for card reloads?",
+    "I'm unable to locate the transfer receipt.",
+    "What steps can I take to activate my card and start using it?",
+    "What steps can I take to verify the security settings on my card through the mobile app?",
+    "I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?",
+    "What should I do about my jammed ATM card?",
+    "You can complete the process quickly. Simply navigate to your account, select the \"Activate\" option, and follow the prompts to finish.",
+    "I'm having trouble remembering my passcode to access the app.",
+    "How do I confirm my card details for a top-up?",
+    "I'm currently traveling in Spain and I'm concerned that someone might have noticed my PIN. Can I modify it at a nearby ATM?",
+    "I'd like to activate my card.",
+    "How can I retrieve my card from a bank machine as soon as possible?",
+    "How do you receive your physical credit cards?",
+    "I'm unable to make a successful top-up.",
+    "I'm disputing a transaction",
+    "I attempted to withdraw cash from an ATM in the city centre earlier, but the machine refused my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?",
+    "How can I replenish my account balance using a cheque or cash?",
+    "How can I add funds to my account using my card?",
+    "Your account balance has not been updated after the recent bank transfer.",
+    "Is there a fee associated with recharging a US-issued card?",
+    "The funds I attempted to add are not showing up on my card.",
+    "I'd like to settle the payment using a cheque.",
+    "The refund for my card is missing from my latest statement.",
+    "I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card usage.",
+    "Could you inform me when you deduct extra charges for transactions? I recently checked the app and noticed an unexpected fee on one of the payments, which I wasn't aware of beforehand.",
+    "Please inform me about the process of acquiring a virtual card",
+    "As I'm currently in Spain, I'm concerned that someone might have seen my PIN and I'd like to change it; can I do so at an ATM here or is there another option available?",
+    "I'll dispatch a cheque to replenish my account balance",
+    "What can I do about the transfer that was declined?",
+    "Can you clarify the multiple transaction dates listed on my account statement?",
+    "Can I deposit funds into my account if you don't accept cash?",
+    "Can I initiate transactions before completing the identity verification process?",
+    "There's an unexpected cash withdrawal showing up on my account.",
+    "Where can I find the option to request a virtual card within the app?",
+    "What about my minors?",
+    "Why isn't my refund showing up in my account?",
+    "The app has cancelled the recent top-up I made. What should I do now?",
+    "How can I configure my credit card to facilitate card-based transactions?",
+    "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?"
+  ],
+  "generated_labels": [
+    58,
+    54,
+    66,
+    0,
+    14,
+    21,
+    18,
+    0,
+    44,
+    71,
+    21,
+    0,
+    18,
+    43,
+    59,
+    16,
+    46,
+    58,
+    62,
+    5,
+    57,
+    59,
+    58,
+    51,
+    16,
+    15,
+    40,
+    21,
+    58,
+    27,
+    63,
+    58,
+    74,
+    20,
+    40,
+    1,
+    51,
+    61,
+    62,
+    17
+  ],
+  "source_texts": [
+    "What is your check-cashing policy?",
+    "My card wants to be topped what do you guys support?",
+    "I dont see my reciept",
+    "How can I make my card ready to use?",
+    "How do I check security settings using the app?",
+    "I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country?",
+    "What should I do with my stuck ATM?",
+    "You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",
+    "Please help me.  I don't know my code to get into the app.",
+    "What is the verification process for my card?",
+    "I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM?",
+    "I need to actuate my card.",
+    "How do I get my card back quickly from a bank machine that it?",
+    "Where do you export the cards to?",
+    "I can't add any more money.",
+    "i disagree with a charge",
+    "I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!",
+    "How can I fill up my gas tank using a check?",
+    "How do I to up by card?",
+    "Balance is not up to date.",
+    "Are there any charges for topping up a US-issued card?",
+    "My money I added isn't on my card.",
+    "I want to use a cheque to pay.",
+    "Card refund is not showing up in my statement.",
+    "I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card.",
+    "Let me know when you charge extra for payments please. I just checked the app earlier when I saw that there was an additional fee on one of the payments that I wasn't warned about before.",
+    "Please let me know how to place an order for a virtual card",
+    "While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain?",
+    "I'll send a check to top up my account",
+    "What do I do with my \"decline\" message on a transfer?",
+    "Can you explain the various transaction times shown on my statement?",
+    "how can i add money to my account if you don't accept cash",
+    "Can i make transactions before identity verification?",
+    "Some cash shows up on my app.",
+    "Which part of the app do I order virtual cards from?",
+    "What about my children?",
+    "Why hasn't my return cleared my account?",
+    "The app reversed a top off I had.  What should I do?",
+    "How do i set up my credit card to send transfers?",
+    "What is your exchange rate between UK pounds and Russian rubles for my last transaction"
+  ],
+  "records": [
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What is your check-cashing policy?",
+      "generated": "You can top up your account by cash or cheque."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "My card wants to be topped what do you guys support?",
+      "generated": "What payment methods do you accept for card reloads?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I dont see my reciept",
+      "generated": "I'm unable to locate the transfer receipt."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can I make my card ready to use?",
+      "generated": "What steps can I take to activate my card and start using it?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I check security settings using the app?",
+      "generated": "What steps can I take to verify the security settings on my card through the mobile app?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country?",
+      "generated": "I'm currently abroad in Austria, but I urgently need to modify my PIN. Can I still make this change despite being in a different country?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "What should I do with my stuck ATM?",
+      "generated": "What should I do about my jammed ATM card?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",
+      "generated": "You can complete the process quickly. Simply navigate to your account, select the \"Activate\" option, and follow the prompts to finish."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Please help me.  I don't know my code to get into the app.",
+      "generated": "I'm having trouble remembering my passcode to access the app."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What is the verification process for my card?",
+      "generated": "How do I confirm my card details for a top-up?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "I am on vacation in Spain and think someone saw my pin when… Can I change it at a local ATM?",
+      "generated": "I'm currently traveling in Spain and I'm concerned that someone might have noticed my PIN. Can I modify it at a nearby ATM?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I need to actuate my card.",
+      "generated": "I'd like to activate my card."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "How do I get my card back quickly from a bank machine that it?",
+      "generated": "How can I retrieve my card from a bank machine as soon as possible?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Where do you export the cards to?",
+      "generated": "How do you receive your physical credit cards?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I can't add any more money.",
+      "generated": "I'm unable to make a successful top-up."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i disagree with a charge",
+      "generated": "I'm disputing a transaction"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!",
+      "generated": "I attempted to withdraw cash from an ATM in the city centre earlier, but the machine refused my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How can I fill up my gas tank using a check?",
+      "generated": "How can I replenish my account balance using a cheque or cash?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do I to up by card?",
+      "generated": "How can I add funds to my account using my card?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Balance is not up to date.",
+      "generated": "Your account balance has not been updated after the recent bank transfer."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are there any charges for topping up a US-issued card?",
+      "generated": "Is there a fee associated with recharging a US-issued card?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "My money I added isn't on my card.",
+      "generated": "The funds I attempted to add are not showing up on my card."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I want to use a cheque to pay.",
+      "generated": "I'd like to settle the payment using a cheque."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Card refund is not showing up in my statement.",
+      "generated": "The refund for my card is missing from my latest statement."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card.",
+      "generated": "I'm trying to understand the recent transactions on my account. There have been some unusual charges showing up. Can I get a refund for these amounts? Additionally, I'd like to temporarily suspend my card usage."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Let me know when you charge extra for payments please. I just checked the app earlier when I saw that there was an additional fee on one of the payments that I wasn't warned about before.",
+      "generated": "Could you inform me when you deduct extra charges for transactions? I recently checked the app and noticed an unexpected fee on one of the payments, which I wasn't aware of beforehand."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "Please let me know how to place an order for a virtual card",
+      "generated": "Please inform me about the process of acquiring a virtual card"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain?",
+      "generated": "As I'm currently in Spain, I'm concerned that someone might have seen my PIN and I'd like to change it; can I do so at an ATM here or is there another option available?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I'll send a check to top up my account",
+      "generated": "I'll dispatch a cheque to replenish my account balance"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What do I do with my \"decline\" message on a transfer?",
+      "generated": "What can I do about the transfer that was declined?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Can you explain the various transaction times shown on my statement?",
+      "generated": "Can you clarify the multiple transaction dates listed on my account statement?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how can i add money to my account if you don't accept cash",
+      "generated": "Can I deposit funds into my account if you don't accept cash?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Can i make transactions before identity verification?",
+      "generated": "Can I initiate transactions before completing the identity verification process?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Some cash shows up on my app.",
+      "generated": "There's an unexpected cash withdrawal showing up on my account."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "Which part of the app do I order virtual cards from?",
+      "generated": "Where can I find the option to request a virtual card within the app?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "What about my children?",
+      "generated": "What about my minors?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Why hasn't my return cleared my account?",
+      "generated": "Why isn't my refund showing up in my account?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "The app reversed a top off I had.  What should I do?",
+      "generated": "The app has cancelled the recent top-up I made. What should I do now?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "How do i set up my credit card to send transfers?",
+      "generated": "How can I configure my credit card to facilitate card-based transactions?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+      "generated": "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I attempted to withdraw cash from an ATM in the city centre earlier, but the machine refused my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?",
+    "You can complete the process quickly. Simply navigate to your account, select the \"Activate\" option, and follow the prompts to finish.",
+    "Can you replace my card and cancel my current one, as it was stolen while I was in Spain and I'm now without a wallet?",
+    "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?",
+    "I was given the wrong amount of money",
+    "I'm having some issues with my card, I'm not sure what's going on, I attempted to use the ATM earlier but it didn't work, and it appears that the cash withdrawal is still pending, could you please assist me in canceling it?",
+    "I urgently require access to an ATM.",
+    "Can I use contactless payment methods?",
+    "Have you checked my account balance recently?",
+    "Contactless payment functionality is currently unavailable for my card.",
+    "Why did my contactless payment fail to work at the metro station?",
+    "What types of payment methods and currencies are accepted with my account?",
+    "How long will it take to resolve the issue with my card not working?",
+    "Has there been any recent use or transactions on my card?",
+    "Can you assist me in generating multiple temporary cards daily?",
+    "The payment using my card was not accepted in the store.",
+    "I'm unsure if my top-up was successfully processed.",
+    "A minor is seeking to establish a new account.",
+    "Can I have a spare card issued for this account, in addition to the one I already have?",
+    "I'm having trouble with my contactless payment method.",
+    "Can I request a replacement bank card to be delivered to China?",
+    "We'd be happy to inform you about the cards and currencies we currently accept.",
+    "I've been trying to use my card for a week, but it's still not functioning properly.",
+    "I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?",
+    "When can I expect a pending card payment to be processed and move to an authorized status?",
+    "How can my boss deposit funds directly to my card?",
+    "what is the minimum age requirement for opening a new account",
+    "I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction appears to be pending, and I'm concerned that I might be charged for a transaction I didn't authorize.",
+    "Why is my card not allowing me to make online transactions? I've been trying for two weeks now.",
+    "The virtual payment card I was using wouldn't accept my transaction.",
+    "Whom should I contact regarding the ATM consuming my card?",
+    "I was expecting to receive the full amount of $100, but instead, I only got $20.",
+    "I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!",
+    "When I went to withdraw $100, the machine only dispensed $20.",
+    "I'm not sure if the top-up request has been processed successfully.",
+    "Can I make a withdrawal from my account using my card?"
+  ],
+  "generated_labels": [
+    46,
+    0,
+    41,
+    29,
+    75,
+    46,
+    3,
+    23,
+    5,
+    23,
+    23,
+    54,
+    14,
+    41,
+    29,
+    25,
+    59,
+    1,
+    39,
+    23,
+    9,
+    54,
+    14,
+    72,
+    45,
+    50,
+    1,
+    46,
+    53,
+    72,
+    18,
+    75,
+    20,
+    75,
+    47,
+    3
+  ],
+  "source_texts": [
+    "I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!",
+    "You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",
+    "Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.",
+    "i tried using a virtual card for a hotel but it didn't work, why not",
+    "It kept my cash",
+    "Hello, I'm having trouble with my card, I don't understand what's happening, I tried using the ATM machine earlier but it wasn't working but seems like the transactions is still in progress, can you cancel it for me?",
+    "I need an ATM right now!",
+    "Can I make a contactless payments?",
+    "Can you see my new balance yet?",
+    "Contactless payments need to be enabled for my card.",
+    "Why wasn't my contactless accepted at the metro?",
+    "What are the currencies and cards that are supported with my account?",
+    "HOW LONG TO TAKE THE TIME TO SOLVE",
+    "Has there been any activity on my card today?",
+    "Help me create several temp cards every day.",
+    "I couldn't pay with card in a shop",
+    "I'm not sure if my pop-up went through.",
+    "My daughter needs to open account.",
+    "Can another family member hold a card for this account in addition to mine?",
+    "I can't get a contactless payment to work.",
+    "Where can I have a new bank card sent to China?",
+    "Can you tell me which cards and currencies are supported?",
+    "For a week now, I have tried to use my card and it is still not working.",
+    "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?",
+    "How long does it take for a purchase to go from pending to authorised?",
+    "How can my boss pay me directly to the card?",
+    "what is the age limit for opening a new account",
+    "I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make.",
+    "Can you tell me why my card isn't letting me make purchases online? It's been 2 weeks I've been trying.",
+    "My disposable virtual card wouldn't process my payment?",
+    "Who do I talk to about the ATM swallowing my card?",
+    "how come when i asked for 100 it only gave me 20.00 in the app",
+    "Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP!",
+    "When I went to $100, all the machine would give me was $20.",
+    "I do not think the pop up went through yet.",
+    "Can I use my card to withdraw from my account?"
+  ],
+  "records": [
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!",
+      "generated": "I attempted to withdraw cash from an ATM in the city centre earlier, but the machine refused my card. The transaction still appears as pending in my account. Could you please cancel it as I'm certain I didn't receive the funds?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.",
+      "generated": "You can complete the process quickly. Simply navigate to your account, select the \"Activate\" option, and follow the prompts to finish."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.",
+      "generated": "Can you replace my card and cancel my current one, as it was stolen while I was in Spain and I'm now without a wallet?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "i tried using a virtual card for a hotel but it didn't work, why not",
+      "generated": "I attempted to utilize a disposable card for a hotel booking, but it was unsuccessful, could you please explain why?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "It kept my cash",
+      "generated": "I was given the wrong amount of money"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hello, I'm having trouble with my card, I don't understand what's happening, I tried using the ATM machine earlier but it wasn't working but seems like the transactions is still in progress, can you cancel it for me?",
+      "generated": "I'm having some issues with my card, I'm not sure what's going on, I attempted to use the ATM earlier but it didn't work, and it appears that the cash withdrawal is still pending, could you please assist me in canceling it?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need an ATM right now!",
+      "generated": "I urgently require access to an ATM."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Can I make a contactless payments?",
+      "generated": "Can I use contactless payment methods?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you see my new balance yet?",
+      "generated": "Have you checked my account balance recently?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Contactless payments need to be enabled for my card.",
+      "generated": "Contactless payment functionality is currently unavailable for my card."
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Why wasn't my contactless accepted at the metro?",
+      "generated": "Why did my contactless payment fail to work at the metro station?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What are the currencies and cards that are supported with my account?",
+      "generated": "What types of payment methods and currencies are accepted with my account?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "HOW LONG TO TAKE THE TIME TO SOLVE",
+      "generated": "How long will it take to resolve the issue with my card not working?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Has there been any activity on my card today?",
+      "generated": "Has there been any recent use or transactions on my card?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Help me create several temp cards every day.",
+      "generated": "Can you assist me in generating multiple temporary cards daily?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I couldn't pay with card in a shop",
+      "generated": "The payment using my card was not accepted in the store."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I'm not sure if my pop-up went through.",
+      "generated": "I'm unsure if my top-up was successfully processed."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "My daughter needs to open account.",
+      "generated": "A minor is seeking to establish a new account."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Can another family member hold a card for this account in addition to mine?",
+      "generated": "Can I have a spare card issued for this account, in addition to the one I already have?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "I can't get a contactless payment to work.",
+      "generated": "I'm having trouble with my contactless payment method."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Where can I have a new bank card sent to China?",
+      "generated": "Can I request a replacement bank card to be delivered to China?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you tell me which cards and currencies are supported?",
+      "generated": "We'd be happy to inform you about the cards and currencies we currently accept."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "For a week now, I have tried to use my card and it is still not working.",
+      "generated": "I've been trying to use my card for a week, but it's still not functioning properly."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?",
+      "generated": "I attempted to utilize my temporary virtual payment card to settle a recurring payment for a gym membership, but it was declined. Can you help me identify the reason behind this issue?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "How long does it take for a purchase to go from pending to authorised?",
+      "generated": "When can I expect a pending card payment to be processed and move to an authorized status?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can my boss pay me directly to the card?",
+      "generated": "How can my boss deposit funds directly to my card?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "what is the age limit for opening a new account",
+      "generated": "what is the minimum age requirement for opening a new account"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make.",
+      "generated": "I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction appears to be pending, and I'm concerned that I might be charged for a transaction I didn't authorize."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Can you tell me why my card isn't letting me make purchases online? It's been 2 weeks I've been trying.",
+      "generated": "Why is my card not allowing me to make online transactions? I've been trying for two weeks now."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card wouldn't process my payment?",
+      "generated": "The virtual payment card I was using wouldn't accept my transaction."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "Who do I talk to about the ATM swallowing my card?",
+      "generated": "Whom should I contact regarding the ATM consuming my card?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "how come when i asked for 100 it only gave me 20.00 in the app",
+      "generated": "I was expecting to receive the full amount of $100, but instead, I only got $20."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP!",
+      "generated": "I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "When I went to $100, all the machine would give me was $20.",
+      "generated": "When I went to withdraw $100, the machine only dispensed $20."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I do not think the pop up went through yet.",
+      "generated": "I'm not sure if the top-up request has been processed successfully."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I use my card to withdraw from my account?",
+      "generated": "Can I make a withdrawal from my account using my card?"
+    }
+  ]
+}

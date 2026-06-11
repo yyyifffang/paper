@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "If I'm unable to select my preferred payment method, will I still be able to make purchases with my Visa or Mastercard at any merchant?",
+    "Can you walk me through the process of verifying my identity?",
+    "Where can I withdraw cash from an ATM or a bank branch?",
+    "I require a one-time use virtual card for online transactions",
+    "The exchange rate applied to my card payment appears to be inaccurate.",
+    "Can I set up automatic top-ups for my card while I'm traveling?",
+    "Can you accept my credit card, as it's the only one I have?",
+    "I'm attempting to reverse a transfer I initiated earlier today",
+    "What is the maximum amount allowed for automatic top-ups?",
+    "What is the age requirement for the documents I need to provide for verification purposes?",
+    "I'd like to set up an automatic transfer to top up my account whenever I'm abroad.",
+    "What's the process for exchanging foreign currencies for cash transfers?",
+    "I was overcharged for the item, and the amount doesn't match the expected exchange rate.",
+    "Can you confirm your date of birth with me?",
+    "I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds.",
+    "How can I confirm the details of my card?",
+    "I'd like to deposit funds into my account using my American Express card.",
+    "How can I update my address information?",
+    "I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?",
+    "I'd like to use my American Express card to deposit funds into my account.",
+    "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance.",
+    "The amount of cash I received is not what I was expecting.",
+    "I mistakenly entered an incorrect account number.",
+    "Please assist me. My temporary virtual card is not functioning properly.",
+    "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?",
+    "I'm wondering if it's acceptable to use a US-issued card?",
+    "Can I receive a physical card to carry with me?",
+    "Can I deposit funds into my account if you don't accept cash?",
+    "Are you limiting my limit increases?",
+    "Can you assist me in locating the recent transfer I made?",
+    "Please inform me about the available currencies I can use to replenish my account balance.",
+    "I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function.",
+    "What are the restrictions on disposable card usage?",
+    "Are you able to assist with transactions involving the Euro currency?",
+    "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?"
+  ],
+  "generated_labels": [
+    73,
+    69,
+    3,
+    37,
+    17,
+    4,
+    54,
+    8,
+    4,
+    69,
+    4,
+    32,
+    17,
+    74,
+    4,
+    71,
+    54,
+    30,
+    22,
+    54,
+    17,
+    75,
+    8,
+    72,
+    75,
+    54,
+    43,
+    58,
+    60,
+    5,
+    54,
+    37,
+    29,
+    36,
+    3
+  ],
+  "source_texts": [
+    "If I can't choose my card type will I be able to use it everywhere?",
+    "Let me know what the steps for the identity checks are",
+    "What locations can I get money from?",
+    "I need a single use card for shopping online",
+    "It seems that the rate I got is incorrect.",
+    "Can I add money to my card automatically during a trip?",
+    "Will you accept my credit card, it my only one.",
+    "I am trying to revert a transcation I did this morning",
+    "What is the limit on Auto top?",
+    "How recent do my documents need to be for verification?",
+    "I want to add money automatically when I travel.",
+    "If I need to cash foreign transfers, how does that work?",
+    "I was charged the wing amount for an item.",
+    "Do you need my birthdate?",
+    "I have a trip coming up and want to add money automatically.",
+    "What can I do to verify my card?",
+    "I wish to use my American Express to put funds into my account.",
+    "How do I input a new address?",
+    "I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more?",
+    "I'd like to use my American Express to place money into my account.",
+    "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+    "My cash received does not match what has been requested",
+    "I used the wrong account number!",
+    "Please help me.  My disposable virtual card won't work right.",
+    "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+    "I only have a card from the US is that okay?",
+    "Do I get a card to keep in my wallet?",
+    "how can i add money to my account if you don't accept cash",
+    "Do you limit my top-offs?",
+    "Help me find the transfer that I did.",
+    "Please let me know what currency I can use to top up my account?",
+    "I have heard about these disposable virtual cards but don't understand how they work.",
+    "Are there any limits if I use these virtual cards?",
+    "Do you deal with EUR?",
+    "I need to withdraw money. Where can I do that?"
+  ],
+  "records": [
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "If I can't choose my card type will I be able to use it everywhere?",
+      "generated": "If I'm unable to select my preferred payment method, will I still be able to make purchases with my Visa or Mastercard at any merchant?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Let me know what the steps for the identity checks are",
+      "generated": "Can you walk me through the process of verifying my identity?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "What locations can I get money from?",
+      "generated": "Where can I withdraw cash from an ATM or a bank branch?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I need a single use card for shopping online",
+      "generated": "I require a one-time use virtual card for online transactions"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "It seems that the rate I got is incorrect.",
+      "generated": "The exchange rate applied to my card payment appears to be inaccurate."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money to my card automatically during a trip?",
+      "generated": "Can I set up automatic top-ups for my card while I'm traveling?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Will you accept my credit card, it my only one.",
+      "generated": "Can you accept my credit card, as it's the only one I have?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I am trying to revert a transcation I did this morning",
+      "generated": "I'm attempting to reverse a transfer I initiated earlier today"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "What is the limit on Auto top?",
+      "generated": "What is the maximum amount allowed for automatic top-ups?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How recent do my documents need to be for verification?",
+      "generated": "What is the age requirement for the documents I need to provide for verification purposes?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I want to add money automatically when I travel.",
+      "generated": "I'd like to set up an automatic transfer to top up my account whenever I'm abroad."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "If I need to cash foreign transfers, how does that work?",
+      "generated": "What's the process for exchanging foreign currencies for cash transfers?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I was charged the wing amount for an item.",
+      "generated": "I was overcharged for the item, and the amount doesn't match the expected exchange rate."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Do you need my birthdate?",
+      "generated": "Can you confirm your date of birth with me?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I have a trip coming up and want to add money automatically.",
+      "generated": "I'm planning a trip and would like to set up automatic top-ups to ensure I have sufficient funds."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What can I do to verify my card?",
+      "generated": "How can I confirm the details of my card?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I wish to use my American Express to put funds into my account.",
+      "generated": "I'd like to deposit funds into my account using my American Express card."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "How do I input a new address?",
+      "generated": "How can I update my address information?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more?",
+      "generated": "I recently discovered that my card was used in a location I've never visited. Can you please take immediate action to prevent further unauthorized transactions?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I'd like to use my American Express to place money into my account.",
+      "generated": "I'd like to use my American Express card to deposit funds into my account."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.",
+      "generated": "Please review the transaction from last weekend, as I believe I was incorrectly charged a higher exchange rate. Appreciate your assistance."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "My cash received does not match what has been requested",
+      "generated": "The amount of cash I received is not what I was expecting."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I used the wrong account number!",
+      "generated": "I mistakenly entered an incorrect account number."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Please help me.  My disposable virtual card won't work right.",
+      "generated": "Please assist me. My temporary virtual card is not functioning properly."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+      "generated": "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "I only have a card from the US is that okay?",
+      "generated": "I'm wondering if it's acceptable to use a US-issued card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do I get a card to keep in my wallet?",
+      "generated": "Can I receive a physical card to carry with me?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "how can i add money to my account if you don't accept cash",
+      "generated": "Can I deposit funds into my account if you don't accept cash?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Do you limit my top-offs?",
+      "generated": "Are you limiting my limit increases?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Help me find the transfer that I did.",
+      "generated": "Can you assist me in locating the recent transfer I made?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Please let me know what currency I can use to top up my account?",
+      "generated": "Please inform me about the available currencies I can use to replenish my account balance."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I have heard about these disposable virtual cards but don't understand how they work.",
+      "generated": "I'm curious about the temporary virtual cards I've heard about, but I'm not sure how they function."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Are there any limits if I use these virtual cards?",
+      "generated": "What are the restrictions on disposable card usage?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you deal with EUR?",
+      "generated": "Are you able to assist with transactions involving the Euro currency?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need to withdraw money. Where can I do that?",
+      "generated": "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?"
+    }
+  ]
+}

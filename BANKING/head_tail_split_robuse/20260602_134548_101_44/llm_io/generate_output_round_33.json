@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?",
+    "How many transactions can I make with a disposable card?",
+    "I misplaced my card and require a replacement, what's the fee for a new one?",
+    "Can I check the status of my card delivery?",
+    "Where can I place an order for a physical card?",
+    "Could you please help me locate my card?",
+    "Can I request a replacement card before my current one expires?",
+    "I'm having trouble making any purchases with my card today. Can you help me figure out what's going on?",
+    "How will the newly received card be reflected in the app?",
+    "What information can you provide about the disposable card limits, such as the descriptions associated with them?",
+    "Is there a charge for topping up my account using my card in USD?",
+    "What types of identification documents are accepted for verification?",
+    "I'd like to dispute a charge on my statement that was incorrectly applied.",
+    "Where can I locate the identity verification process?",
+    "I'd like to know the transaction limit for my disposable card.",
+    "What happens if I make a cash deposit or deposit a cheque by mistake?",
+    "Inquiring about the current status of my recently issued card?",
+    "Hey, I've been informed by a seller that the payment I made hasn't gone through, even though it was deducted from my account. However, it seems the funds have been reversed and are now back in my account. Can you look into this ASAP and resolve the issue?",
+    "If I've damaged my card, what should I do?",
+    "I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?",
+    "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?",
+    "Why was my card payment declined at the store?",
+    "I'm concerned that someone might have unauthorized access to my card. I've checked my app and noticed a few transactions that I'm certain I didn't make. Could you investigate this issue and let me know what's happening?",
+    "Why is my temporary card not functioning properly?",
+    "Are there any fees associated with receiving a bank transfer to top up your account?",
+    "What happens if my card payment was reversed?",
+    "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well.",
+    "Why is my pending cash withdrawal not reflected on my account statement?",
+    "I've recently relocated to the United States and would like to obtain a new card.",
+    "Can I make a bank transfer to top up my account?",
+    "Can you provide information about the card's arrival status?",
+    "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.",
+    "what is the origin of the funds",
+    "What steps can a US citizen take to obtain a new credit card?",
+    "Can I receive a physical card?",
+    "I'm having trouble sending funds, but I've successfully done so in the past. What's changed?",
+    "What fee will be deducted for a bank transfer top-up?"
+  ],
+  "generated_labels": [
+    53,
+    29,
+    39,
+    11,
+    43,
+    11,
+    9,
+    14,
+    13,
+    29,
+    57,
+    69,
+    52,
+    69,
+    29,
+    6,
+    11,
+    53,
+    14,
+    52,
+    45,
+    25,
+    16,
+    72,
+    56,
+    53,
+    41,
+    46,
+    24,
+    56,
+    11,
+    20,
+    70,
+    24,
+    43,
+    7,
+    56
+  ],
+  "source_texts": [
+    "The money is still in my account even though I already paid -- I don't understand what happened.",
+    "What is the number of transactions I get with a disposable card?",
+    "I lost my card and need a new one, will it cost me?",
+    "Is there a way to track my card?",
+    "Show me where to order my card.",
+    "Can you track my card for me?",
+    "Can I order a new card with the app?",
+    "I haven't been able to complete any transactions on my card today. Do you know what's wrong?",
+    "Card has been received, how will it show up on the app?",
+    "Where can I find a list of descriptions the disposable cards have?",
+    "Do you charge a fee for adding money in USD?",
+    "What form of identification is accepted?",
+    "My statement has a charge that shouldn't have been made.",
+    "How and where can I find the identity checks?",
+    "I have a disposable card, how many transactions can I make?",
+    "What happens if I deposit a cheque accidentally?",
+    "How can I check on the status of my new card?",
+    "Hey a seller just contacted me that my money didn't come through. It was definitely deducted from my account, but now it appears it's back with me! Sort this out asap please.",
+    "What do I do if i accidentally broke my card?",
+    "I just bought an item and would like to stop payment can you tell me if the item has been sent yet?",
+    "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+    "why couldn't I use my card at a store?",
+    "Is it possible someone has access to my card? I noticed that there are a couple of payments in the app I'm sure I did not make. Can you find out what's going on here?",
+    "Why is my disposable card not working?",
+    "Are you aware of any charges for receiving money?",
+    "What should I do if my card payment was cancelled?",
+    "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+    "Why hasn't my withdrawal shown on my statement?",
+    "I just moved to the US how do I get a card?",
+    "Can I Transfer from SWIFT?",
+    "Do you have info about the card on delivery?",
+    "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+    "where exactly does money come from",
+    "How does a US resident go about acquiring a new card?",
+    "Do I get a real card?",
+    "Why am I unable to transfer money when I was able to before?",
+    "For SEPA transfers, what kind of charge will be applied?"
+  ],
+  "records": [
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "The money is still in my account even though I already paid -- I don't understand what happened.",
+      "generated": "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "What is the number of transactions I get with a disposable card?",
+      "generated": "How many transactions can I make with a disposable card?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I lost my card and need a new one, will it cost me?",
+      "generated": "I misplaced my card and require a replacement, what's the fee for a new one?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Is there a way to track my card?",
+      "generated": "Can I check the status of my card delivery?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Show me where to order my card.",
+      "generated": "Where can I place an order for a physical card?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Can you track my card for me?",
+      "generated": "Could you please help me locate my card?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I order a new card with the app?",
+      "generated": "Can I request a replacement card before my current one expires?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I haven't been able to complete any transactions on my card today. Do you know what's wrong?",
+      "generated": "I'm having trouble making any purchases with my card today. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Card has been received, how will it show up on the app?",
+      "generated": "How will the newly received card be reflected in the app?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Where can I find a list of descriptions the disposable cards have?",
+      "generated": "What information can you provide about the disposable card limits, such as the descriptions associated with them?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Do you charge a fee for adding money in USD?",
+      "generated": "Is there a charge for topping up my account using my card in USD?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "What form of identification is accepted?",
+      "generated": "What types of identification documents are accepted for verification?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "My statement has a charge that shouldn't have been made.",
+      "generated": "I'd like to dispute a charge on my statement that was incorrectly applied."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How and where can I find the identity checks?",
+      "generated": "Where can I locate the identity verification process?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "I have a disposable card, how many transactions can I make?",
+      "generated": "I'd like to know the transaction limit for my disposable card."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "What happens if I deposit a cheque accidentally?",
+      "generated": "What happens if I make a cash deposit or deposit a cheque by mistake?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "How can I check on the status of my new card?",
+      "generated": "Inquiring about the current status of my recently issued card?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Hey a seller just contacted me that my money didn't come through. It was definitely deducted from my account, but now it appears it's back with me! Sort this out asap please.",
+      "generated": "Hey, I've been informed by a seller that the payment I made hasn't gone through, even though it was deducted from my account. However, it seems the funds have been reversed and are now back in my account. Can you look into this ASAP and resolve the issue?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "What do I do if i accidentally broke my card?",
+      "generated": "If I've damaged my card, what should I do?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I just bought an item and would like to stop payment can you tell me if the item has been sent yet?",
+      "generated": "I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+      "generated": "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "why couldn't I use my card at a store?",
+      "generated": "Why was my card payment declined at the store?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Is it possible someone has access to my card? I noticed that there are a couple of payments in the app I'm sure I did not make. Can you find out what's going on here?",
+      "generated": "I'm concerned that someone might have unauthorized access to my card. I've checked my app and noticed a few transactions that I'm certain I didn't make. Could you investigate this issue and let me know what's happening?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Why is my disposable card not working?",
+      "generated": "Why is my temporary card not functioning properly?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are you aware of any charges for receiving money?",
+      "generated": "Are there any fees associated with receiving a bank transfer to top up your account?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "What should I do if my card payment was cancelled?",
+      "generated": "What happens if my card payment was reversed?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+      "generated": "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why hasn't my withdrawal shown on my statement?",
+      "generated": "Why is my pending cash withdrawal not reflected on my account statement?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I just moved to the US how do I get a card?",
+      "generated": "I've recently relocated to the United States and would like to obtain a new card."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can I Transfer from SWIFT?",
+      "generated": "Can I make a bank transfer to top up my account?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Do you have info about the card on delivery?",
+      "generated": "Can you provide information about the card's arrival status?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+      "generated": "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "where exactly does money come from",
+      "generated": "what is the origin of the funds"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "How does a US resident go about acquiring a new card?",
+      "generated": "What steps can a US citizen take to obtain a new credit card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do I get a real card?",
+      "generated": "Can I receive a physical card?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why am I unable to transfer money when I was able to before?",
+      "generated": "I'm having trouble sending funds, but I've successfully done so in the past. What's changed?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "For SEPA transfers, what kind of charge will be applied?",
+      "generated": "What fee will be deducted for a bank transfer top-up?"
+    }
+  ]
+}

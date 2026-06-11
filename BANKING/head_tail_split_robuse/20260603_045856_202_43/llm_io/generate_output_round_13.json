@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "Are there any specific places or situations where my card won't be accepted?",
+    "We want to ensure the origin of your funds is legitimate and secure.",
+    "Is my credit card not functioning properly?",
+    "I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card?",
+    "I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?",
+    "What is the additional charge that I see on my statement?",
+    "Who is eligible for assistance?",
+    "Has there been any recent use or transactions on my card?",
+    "I'm having trouble accessing my account because I've forgotten my passcode.",
+    "What can I do about the transfer that was declined?",
+    "Is it necessary to remove the app before attempting to use the contactless payment feature again?",
+    "I have a pending outgoing transaction",
+    "I haven't received the transfer yet.",
+    "My recent top-up reversal has just occurred, and it's only been a few weeks since it happened.",
+    "I'm planning a trip and attempted to exchange my Russian rubles for UK pounds, but your company's exchange rate was higher than expected. Was there an error with my transaction?",
+    "Are there additional fees for exchanging funds?",
+    "my account balance isn't reflecting the recent transfer",
+    "I mistakenly entered an incorrect account number.",
+    "Is there a fee associated with recharging a US-issued card?",
+    "Will there be an additional fee if I use a European bank card to make a top-up payment?",
+    "Describe outstanding cash withdrawal requests.",
+    "If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?",
+    "I think the exchange rate used for my card payment was incorrect and I was overcharged",
+    "I'm seeing the same transaction repeatedly on my card statement.",
+    "Are there any locations that don't accept my card?",
+    "What happens if my top-up transaction is reversed?",
+    "Can I set up recurring transfers to my account during my trip?",
+    "Should I request a replacement card before securing my compromised card?",
+    "Are there any charges for making a top-up payment using my card in Europe?",
+    "I haven't received my recent transfer.",
+    "How can I update my address information?",
+    "my apple pay is malfunctioning",
+    "halt the transfer",
+    "Can you assist me with arranging a transfer to China?",
+    "The funds I attempted to add are not showing up on my card.",
+    "I'm unable to access my account funds.",
+    "I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible.",
+    "I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!"
+  ],
+  "generated_labels": [
+    10,
+    70,
+    14,
+    41,
+    26,
+    34,
+    24,
+    41,
+    44,
+    27,
+    23,
+    48,
+    66,
+    61,
+    17,
+    31,
+    5,
+    8,
+    57,
+    57,
+    46,
+    13,
+    17,
+    63,
+    10,
+    61,
+    4,
+    22,
+    57,
+    66,
+    30,
+    2,
+    8,
+    67,
+    59,
+    26,
+    59,
+    20
+  ],
+  "source_texts": [
+    "Is there anywhere I can't use my card?",
+    "What kind of security protects my money?",
+    "Is my card frozen?",
+    "I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?",
+    "I'm trying to take money from my account but its not letting me. Help!",
+    "What is the dollar that I have pending on my statement there?",
+    "Who gets support?",
+    "Has there been any activity on my card today?",
+    "I can't log in with this passocde",
+    "What do I do with my \"decline\" message on a transfer?",
+    "Should i uninstall the app before i try it again?",
+    "I have an outgoing transfer",
+    "wheres my money receipt",
+    "It's only been a few weeks my my top-up got cancelled",
+    "I'm going on a trip soon and I needed to convert my Russian ruble to UK pounds, but when I did, your company charged me above the exchange rate. Did you mess up my transaction?",
+    "Do I have to pay more for exchanges?",
+    "help my money isnt showing up",
+    "I used the wrong account number!",
+    "Are there any charges for topping up a US-issued card?",
+    "Will you charge me more if I use a European bank card for a top up?",
+    "Explain pending transactions.",
+    "If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?",
+    "I believe you charged me too much to exchange my money",
+    "My card is showing the same transaction over and over again.",
+    "Are there any places that won't take my card?",
+    "What if my top up is reverted?",
+    "Can I have money transferred into my account at different intervals along my trip?",
+    "Should I order a new card before I freeze my original one?",
+    "Are there still fees for european top-ups?",
+    "Where is my last money transaction",
+    "How do I input a new address?",
+    "my google pay seems to be acting up.",
+    "stop the transaction",
+    "Help! I need to transfer something to China.",
+    "My money I added isn't on my card.",
+    "I can't get any money from my account.",
+    "I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",
+    "Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP!"
+  ],
+  "records": [
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is there anywhere I can't use my card?",
+      "generated": "Are there any specific places or situations where my card won't be accepted?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What kind of security protects my money?",
+      "generated": "We want to ensure the origin of your funds is legitimate and secure."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Is my card frozen?",
+      "generated": "Is my credit card not functioning properly?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?",
+      "generated": "I'm not sure where I last used my card, but I think I might have misplaced it. Can you check my account activity to see the last transaction made with my card?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I'm trying to take money from my account but its not letting me. Help!",
+      "generated": "I'm having trouble accessing my funds and making a cash withdrawal. Can you assist me?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "What is the dollar that I have pending on my statement there?",
+      "generated": "What is the additional charge that I see on my statement?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Who gets support?",
+      "generated": "Who is eligible for assistance?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Has there been any activity on my card today?",
+      "generated": "Has there been any recent use or transactions on my card?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't log in with this passocde",
+      "generated": "I'm having trouble accessing my account because I've forgotten my passcode."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What do I do with my \"decline\" message on a transfer?",
+      "generated": "What can I do about the transfer that was declined?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "Should i uninstall the app before i try it again?",
+      "generated": "Is it necessary to remove the app before attempting to use the contactless payment feature again?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have an outgoing transfer",
+      "generated": "I have a pending outgoing transaction"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "wheres my money receipt",
+      "generated": "I haven't received the transfer yet."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "It's only been a few weeks my my top-up got cancelled",
+      "generated": "My recent top-up reversal has just occurred, and it's only been a few weeks since it happened."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I'm going on a trip soon and I needed to convert my Russian ruble to UK pounds, but when I did, your company charged me above the exchange rate. Did you mess up my transaction?",
+      "generated": "I'm planning a trip and attempted to exchange my Russian rubles for UK pounds, but your company's exchange rate was higher than expected. Was there an error with my transaction?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Do I have to pay more for exchanges?",
+      "generated": "Are there additional fees for exchanging funds?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "help my money isnt showing up",
+      "generated": "my account balance isn't reflecting the recent transfer"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I used the wrong account number!",
+      "generated": "I mistakenly entered an incorrect account number."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are there any charges for topping up a US-issued card?",
+      "generated": "Is there a fee associated with recharging a US-issued card?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Will you charge me more if I use a European bank card for a top up?",
+      "generated": "Will there be an additional fee if I use a European bank card to make a top-up payment?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Explain pending transactions.",
+      "generated": "Describe outstanding cash withdrawal requests."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?",
+      "generated": "If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I believe you charged me too much to exchange my money",
+      "generated": "I think the exchange rate used for my card payment was incorrect and I was overcharged"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My card is showing the same transaction over and over again.",
+      "generated": "I'm seeing the same transaction repeatedly on my card statement."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Are there any places that won't take my card?",
+      "generated": "Are there any locations that don't accept my card?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "What if my top up is reverted?",
+      "generated": "What happens if my top-up transaction is reversed?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I have money transferred into my account at different intervals along my trip?",
+      "generated": "Can I set up recurring transfers to my account during my trip?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "Should I order a new card before I freeze my original one?",
+      "generated": "Should I request a replacement card before securing my compromised card?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Are there still fees for european top-ups?",
+      "generated": "Are there any charges for making a top-up payment using my card in Europe?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Where is my last money transaction",
+      "generated": "I haven't received my recent transfer."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "How do I input a new address?",
+      "generated": "How can I update my address information?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "my google pay seems to be acting up.",
+      "generated": "my apple pay is malfunctioning"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "stop the transaction",
+      "generated": "halt the transfer"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "Help! I need to transfer something to China.",
+      "generated": "Can you assist me with arranging a transfer to China?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "My money I added isn't on my card.",
+      "generated": "The funds I attempted to add are not showing up on my card."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I can't get any money from my account.",
+      "generated": "I'm unable to access my account funds."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",
+      "generated": "I'm having trouble topping up my card, and it's consistently being declined. I urgently need help resolving this issue as soon as possible."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Someone has a copy of my card !! I definitely still have it here but someone just made a 500£ cash withdrawal, HELP!",
+      "generated": "I've misplaced my card, but I'm certain I still have it. However, someone has made a £500 cash withdrawal, and I urgently need assistance!"
+    }
+  ]
+}

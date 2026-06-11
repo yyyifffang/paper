@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "Will the automatic top-up feature trigger a refill when my account balance reaches zero?",
+    "It seems that my request to top up was unsuccessful.",
+    "Will this automatically top up my account when the time is suitable?",
+    "Why hasn't the recipient received my money transfer?",
+    "We need to confirm the origin of your funds.",
+    "When will the transfer be processed and reflected in my account balance?",
+    "What's the typical timeframe for processing my transfer?",
+    "why hasn't my account balance been updated after the deposit I made this morning?",
+    "I'd like to activate my card and begin making transactions.",
+    "Why is the beneficiary not eligible to receive the allowance?",
+    "I didn't reverse my top-up.",
+    "Can you please confirm the source of the funds used for the recent top-up?",
+    "Why hasn't my account balance been updated after I deposited a cheque or cash?",
+    "I'm having trouble transferring funds as it seems to be malfunctioning. I've attempted to make the transfer multiple times, but it's not going through. I'm not doing anything out of the ordinary, just my usual routine.",
+    "How do I confirm my card details for a top-up?",
+    "I need to confirm the origin of my funds.",
+    "Can I move some money from another account into my current account?",
+    "When did the fee for withdrawing cash from my account start? I've always been able to do this without incurring a charge before. What's the amount of the fee going to be?",
+    "I'd like to make a bank transfer to top up my account.",
+    "I'm experiencing an issue with a transfer to another account, and I keep receiving a decline notification. Despite verifying the information multiple times, I'm still getting the same error message.",
+    "Unfortunately, due to an incorrect PIN entry, your cash withdrawal has been declined.",
+    "when can I expect the top-up amount to be credited to my account balance?",
+    "When can I expect my funds to be deposited into my account?",
+    "To facilitate a transfer, could you please provide me with your bank account information?",
+    "I must have keyed in my PIN incorrectly.",
+    "I misplaced my card and require a replacement.",
+    "Can you confirm if my top-up was unsuccessful? It appears it didn't go through.",
+    "I'm trying to send some funds to a friend who's in a tight spot and needs the money quickly. Can you tell me when she'll be able to access the transferred amount?",
+    "How many spare cards can I have issued to me?",
+    "I got my new card, can you help me link it to my account so I can use it in the app?",
+    "Can I have my account replenished by my friends using their cards?",
+    "What currencies can I exchange through the app?",
+    "I was looking forward to a night out with friends, but unfortunately, my cash withdrawal request was declined, and I'm not sure why.",
+    "Why was the exchange rate used for my cash withdrawal so inaccurate?",
+    "I tried to enter my PIN multiple times.",
+    "can I allow others to use the app to deposit funds into my account using their card?",
+    "What's the reason for the fee deducted from my account for the recent transfer?",
+    "how can I learn about incoming transactions?"
+  ],
+  "generated_labels": [
+    4,
+    59,
+    4,
+    66,
+    70,
+    48,
+    67,
+    6,
+    0,
+    7,
+    61,
+    70,
+    6,
+    35,
+    71,
+    70,
+    65,
+    19,
+    56,
+    27,
+    26,
+    47,
+    67,
+    65,
+    49,
+    41,
+    59,
+    66,
+    39,
+    13,
+    62,
+    33,
+    26,
+    76,
+    49,
+    62,
+    64,
+    50
+  ],
+  "source_texts": [
+    "Will the system automatically update once there is no more money left?",
+    "It does not appear that my message went through.",
+    "When the time is right will this automatically replenish my balance?",
+    "How can I the person see my money transaction?",
+    "My source of funds require verification.",
+    "When will the transaction post to my account?",
+    "How long does it take to get my money",
+    "where is my money from this morning",
+    "I want to start using my card.",
+    "Why is allowance not being given to my beneficiary?",
+    "I didn't cancel my top-up.",
+    "Where is my top-up generated from?",
+    "Why hasn't my account updated?",
+    "I think youre system may be broken because I have tried transfer money 5x and it isnt working!  I'm not doing anything complicated it is what I usually do.",
+    "What is the verification process for my card?",
+    "I require verification for my source of funds.",
+    "Help! My account doesn't show any funds. Is transferring funds an option I can use?",
+    "Since when were there charges for taking out cash from my account? It's always been free for me to do this before.  How much are the charges going to be?",
+    "I want to do a swift transfer",
+    "I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.",
+    "i entered my pin in wrong and got it frozen. how many tries do i have",
+    "how long does it take to reflect in my balance a top up",
+    "When will my money be in my account?",
+    "What are my bank details so I can do a transfer?",
+    "I must have entered my PIN wrong.",
+    "I lost my card n need a new one.",
+    "Can I tell if my top off didn't work?  It doesn't seem to have.",
+    "I need to transfer some money to a friend who is in urgent need of some fast cash. How long will it take before she can use that money?",
+    "How many active cards can I have?",
+    "I received my card, how do I get it to work in the app?",
+    "Can my account be topped-up by friends of mine.",
+    "What currences are available for exchange?",
+    "i needed money for a night out with the girls but i was declined, why?",
+    "Why did you give me so little currency?",
+    "I attempted to enter my pin to many times.",
+    "can other people use the app to add money to my account",
+    "Why was money taken for a transfer?",
+    "how do i find out about transfers"
+  ],
+  "records": [
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Will the system automatically update once there is no more money left?",
+      "generated": "Will the automatic top-up feature trigger a refill when my account balance reaches zero?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "It does not appear that my message went through.",
+      "generated": "It seems that my request to top up was unsuccessful."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "When the time is right will this automatically replenish my balance?",
+      "generated": "Will this automatically top up my account when the time is suitable?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How can I the person see my money transaction?",
+      "generated": "Why hasn't the recipient received my money transfer?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My source of funds require verification.",
+      "generated": "We need to confirm the origin of your funds."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "When will the transaction post to my account?",
+      "generated": "When will the transfer be processed and reflected in my account balance?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take to get my money",
+      "generated": "What's the typical timeframe for processing my transfer?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "where is my money from this morning",
+      "generated": "why hasn't my account balance been updated after the deposit I made this morning?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I want to start using my card.",
+      "generated": "I'd like to activate my card and begin making transactions."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is allowance not being given to my beneficiary?",
+      "generated": "Why is the beneficiary not eligible to receive the allowance?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I didn't cancel my top-up.",
+      "generated": "I didn't reverse my top-up."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Where is my top-up generated from?",
+      "generated": "Can you please confirm the source of the funds used for the recent top-up?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why hasn't my account updated?",
+      "generated": "Why hasn't my account balance been updated after I deposited a cheque or cash?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I think youre system may be broken because I have tried transfer money 5x and it isnt working!  I'm not doing anything complicated it is what I usually do.",
+      "generated": "I'm having trouble transferring funds as it seems to be malfunctioning. I've attempted to make the transfer multiple times, but it's not going through. I'm not doing anything out of the ordinary, just my usual routine."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What is the verification process for my card?",
+      "generated": "How do I confirm my card details for a top-up?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I require verification for my source of funds.",
+      "generated": "I need to confirm the origin of my funds."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Help! My account doesn't show any funds. Is transferring funds an option I can use?",
+      "generated": "Can I move some money from another account into my current account?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Since when were there charges for taking out cash from my account? It's always been free for me to do this before.  How much are the charges going to be?",
+      "generated": "When did the fee for withdrawing cash from my account start? I've always been able to do this without incurring a charge before. What's the amount of the fee going to be?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "I want to do a swift transfer",
+      "generated": "I'd like to make a bank transfer to top up my account."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.",
+      "generated": "I'm experiencing an issue with a transfer to another account, and I keep receiving a decline notification. Despite verifying the information multiple times, I'm still getting the same error message."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "i entered my pin in wrong and got it frozen. how many tries do i have",
+      "generated": "Unfortunately, due to an incorrect PIN entry, your cash withdrawal has been declined."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "how long does it take to reflect in my balance a top up",
+      "generated": "when can I expect the top-up amount to be credited to my account balance?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will my money be in my account?",
+      "generated": "When can I expect my funds to be deposited into my account?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are my bank details so I can do a transfer?",
+      "generated": "To facilitate a transfer, could you please provide me with your bank account information?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I must have entered my PIN wrong.",
+      "generated": "I must have keyed in my PIN incorrectly."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I lost my card n need a new one.",
+      "generated": "I misplaced my card and require a replacement."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Can I tell if my top off didn't work?  It doesn't seem to have.",
+      "generated": "Can you confirm if my top-up was unsuccessful? It appears it didn't go through."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I need to transfer some money to a friend who is in urgent need of some fast cash. How long will it take before she can use that money?",
+      "generated": "I'm trying to send some funds to a friend who's in a tight spot and needs the money quickly. Can you tell me when she'll be able to access the transferred amount?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many active cards can I have?",
+      "generated": "How many spare cards can I have issued to me?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I received my card, how do I get it to work in the app?",
+      "generated": "I got my new card, can you help me link it to my account so I can use it in the app?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can my account be topped-up by friends of mine.",
+      "generated": "Can I have my account replenished by my friends using their cards?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "What currences are available for exchange?",
+      "generated": "What currencies can I exchange through the app?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "i needed money for a night out with the girls but i was declined, why?",
+      "generated": "I was looking forward to a night out with friends, but unfortunately, my cash withdrawal request was declined, and I'm not sure why."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why did you give me so little currency?",
+      "generated": "Why was the exchange rate used for my cash withdrawal so inaccurate?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I attempted to enter my pin to many times.",
+      "generated": "I tried to enter my PIN multiple times."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "can other people use the app to add money to my account",
+      "generated": "can I allow others to use the app to deposit funds into my account using their card?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Why was money taken for a transfer?",
+      "generated": "What's the reason for the fee deducted from my account for the recent transfer?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "how do i find out about transfers",
+      "generated": "how can I learn about incoming transactions?"
+    }
+  ]
+}

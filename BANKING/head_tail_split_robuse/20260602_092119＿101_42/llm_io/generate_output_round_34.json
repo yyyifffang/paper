@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "The ATM swallowed my card!",
+    "I'm running low on funds in my account and I'd like to know if I can make a transfer to replenish it.",
+    "When can I expect my new card to arrive by mail? What should I do if it doesn't show up?",
+    "Could you please guide me on the process of confirming that my top-up transaction has been successfully processed?",
+    "Is there an age restriction in place?",
+    "when can I expect the transfer to be reflected in my account balance?",
+    "Why are the purchases I made earlier today still pending for payment?",
+    "How long does it typically take for a seller to receive a pending transfer after I initiate the payment immediately?",
+    "We've detected an unfamiliar payment.",
+    "Why is the top-up process not functioning properly when attempting to use the app?",
+    "The ATM swallowed my card, and I want to know why it's holding onto it.",
+    "What are the requirements for charging my card for a top-up?",
+    "A Bank ATM has retained my card. What should I do next?",
+    "You gave me less cash than I was supposed to get when I withdrew some money.",
+    "When will my transfer be processed and no longer be in a pending state?",
+    "I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?",
+    "What are the charges for making a payment using a European bank card?",
+    "How do I activate my physical card's PIN?",
+    "I require a replacement card because I accidentally swallowed my original one.",
+    "I was unexpectedly billed a fee for using my card, which I believe was an error.",
+    "A surprise fee has appeared on a transfer that shouldn't have had one.",
+    "I'm unable to locate my card top-up transaction in my digital wallet.",
+    "I'd like to connect my card to my account.",
+    "I've forgotten my passcode and can't access my account, what should I do to regain access?",
+    "When can I expect a transfer from the US to be processed?",
+    "Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?",
+    "Can you inform me when you deduct fees for transactions? I've checked the app and noticed a charge that I wasn't expecting.",
+    "Why hasn't my account balance been updated after I made a transfer from another bank account?",
+    "My account balance remains the same despite the recent transfer I made.",
+    "I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?",
+    "Can I set up automatic top-ups for my card while I'm traveling?",
+    "The transfer to the intended recipient was unsuccessful.",
+    "The payment I initiated has not been fully processed.",
+    "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?",
+    "Can you provide information about the card's arrival status?"
+  ],
+  "generated_labels": [
+    18,
+    65,
+    11,
+    71,
+    1,
+    5,
+    45,
+    48,
+    28,
+    59,
+    18,
+    57,
+    18,
+    75,
+    48,
+    53,
+    57,
+    38,
+    18,
+    15,
+    64,
+    62,
+    13,
+    44,
+    67,
+    76,
+    15,
+    5,
+    5,
+    59,
+    4,
+    7,
+    45,
+    74,
+    11
+  ],
+  "source_texts": [
+    "The ATM didnt return my card!",
+    "I am out of money in my account and I was wondering if I could do a bank transfer is put more in it?",
+    "How long should it take for my new card to arrive in them mail? What should I do if I never receive it?",
+    "Can you explain to me the way to verify my top up has gone through?",
+    "Do you have a limit for someone's age?",
+    "what amount of time does it take for a transfer to reflect and be available",
+    "Why are the things I bought earlier today still showing as pending?",
+    "How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately?",
+    "I have an unknown charge.",
+    "How can correct Top up with the app to work correctly?",
+    "Why did the ATM take my card and keep it?",
+    "What do I need to know about topping up?",
+    "A Bank ATM did not give my card back. What do I do now?",
+    "You shorted me money when I tried to make a withdrawal.",
+    "When will my transfer move out of pending stage?",
+    "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?",
+    "What are the fees for using a European bank card?",
+    "When do I set up my card PIN?",
+    "I need a new card because the ATM took mine.",
+    "I was charged and shouldn't have been charged when using my card!",
+    "There is a fee from a transfer that is not supposed to be here!",
+    "I don't see me 'top up' in my wallet",
+    "I would like to link my card to my account.",
+    "I'm locked out of my account as I can't remember my code, what do I do now?",
+    "When will a transfer from the US post?",
+    "Can the exchange rate change while I am in the process of making a withdrawal?",
+    "Let me know when you charge for payments. I just checked the app and saw a fee that I wasn't warned about.",
+    "Why didn't the money I transferred into my account get added to my balance?",
+    "My balance didn't change after I transferred some money.",
+    "I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",
+    "Can I add money to my card automatically during a trip?",
+    "My account transfer was not cleared.",
+    "I made a payment that is not yet complete.",
+    "Do you think you're asking for too much information about me?",
+    "Do you have info about the card on delivery?"
+  ],
+  "records": [
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "The ATM didnt return my card!",
+      "generated": "The ATM swallowed my card!"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I am out of money in my account and I was wondering if I could do a bank transfer is put more in it?",
+      "generated": "I'm running low on funds in my account and I'd like to know if I can make a transfer to replenish it."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "How long should it take for my new card to arrive in them mail? What should I do if I never receive it?",
+      "generated": "When can I expect my new card to arrive by mail? What should I do if it doesn't show up?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Can you explain to me the way to verify my top up has gone through?",
+      "generated": "Could you please guide me on the process of confirming that my top-up transaction has been successfully processed?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Do you have a limit for someone's age?",
+      "generated": "Is there an age restriction in place?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "what amount of time does it take for a transfer to reflect and be available",
+      "generated": "when can I expect the transfer to be reflected in my account balance?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why are the things I bought earlier today still showing as pending?",
+      "generated": "Why are the purchases I made earlier today still pending for payment?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately?",
+      "generated": "How long does it typically take for a seller to receive a pending transfer after I initiate the payment immediately?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I have an unknown charge.",
+      "generated": "We've detected an unfamiliar payment."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "How can correct Top up with the app to work correctly?",
+      "generated": "Why is the top-up process not functioning properly when attempting to use the app?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "Why did the ATM take my card and keep it?",
+      "generated": "The ATM swallowed my card, and I want to know why it's holding onto it."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "What do I need to know about topping up?",
+      "generated": "What are the requirements for charging my card for a top-up?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "A Bank ATM did not give my card back. What do I do now?",
+      "generated": "A Bank ATM has retained my card. What should I do next?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "You shorted me money when I tried to make a withdrawal.",
+      "generated": "You gave me less cash than I was supposed to get when I withdrew some money."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "When will my transfer move out of pending stage?",
+      "generated": "When will my transfer be processed and no longer be in a pending state?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?",
+      "generated": "I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "What are the fees for using a European bank card?",
+      "generated": "What are the charges for making a payment using a European bank card?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "When do I set up my card PIN?",
+      "generated": "How do I activate my physical card's PIN?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I need a new card because the ATM took mine.",
+      "generated": "I require a replacement card because I accidentally swallowed my original one."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I was charged and shouldn't have been charged when using my card!",
+      "generated": "I was unexpectedly billed a fee for using my card, which I believe was an error."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "There is a fee from a transfer that is not supposed to be here!",
+      "generated": "A surprise fee has appeared on a transfer that shouldn't have had one."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I don't see me 'top up' in my wallet",
+      "generated": "I'm unable to locate my card top-up transaction in my digital wallet."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I would like to link my card to my account.",
+      "generated": "I'd like to connect my card to my account."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I'm locked out of my account as I can't remember my code, what do I do now?",
+      "generated": "I've forgotten my passcode and can't access my account, what should I do to regain access?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will a transfer from the US post?",
+      "generated": "When can I expect a transfer from the US to be processed?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can the exchange rate change while I am in the process of making a withdrawal?",
+      "generated": "Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Let me know when you charge for payments. I just checked the app and saw a fee that I wasn't warned about.",
+      "generated": "Can you inform me when you deduct fees for transactions? I've checked the app and noticed a charge that I wasn't expecting."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why didn't the money I transferred into my account get added to my balance?",
+      "generated": "Why hasn't my account balance been updated after I made a transfer from another bank account?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "My balance didn't change after I transferred some money.",
+      "generated": "My account balance remains the same despite the recent transfer I made."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",
+      "generated": "I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money to my card automatically during a trip?",
+      "generated": "Can I set up automatic top-ups for my card while I'm traveling?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "My account transfer was not cleared.",
+      "generated": "The transfer to the intended recipient was unsuccessful."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a payment that is not yet complete.",
+      "generated": "The payment I initiated has not been fully processed."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Do you think you're asking for too much information about me?",
+      "generated": "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Do you have info about the card on delivery?",
+      "generated": "Can you provide information about the card's arrival status?"
+    }
+  ]
+}

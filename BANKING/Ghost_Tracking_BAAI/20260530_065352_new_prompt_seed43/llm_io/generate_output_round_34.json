@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "what steps do i need to take to link my card?",
+    "I'm unable to complete the identity verification process.",
+    "Can I request a replacement card before my current one expires?",
+    "I attempted to make a cash withdrawal using my card, but it was unsuccessful. What are my options for retrieving my funds?",
+    "I require a replacement card as my previous one has been stolen.",
+    "How do I obtain a replacement card?",
+    "A Bank ATM has retained my card. What should I do next?",
+    "My temporary virtual card was declined",
+    "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.",
+    "How long does it take for a cheque to clear before I can use it to top up my account?",
+    "Can you tell me if there are any merchants that don't accept this particular card?",
+    "assist me in linking my card",
+    "I attempted to add funds to my card, but the transaction was reversed.",
+    "I'm in a bit of a panic - I was robbed and my phone was taken, which means they have access to my account. Can you please assist me in securing my account to prevent any unauthorized transactions?",
+    "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.",
+    "I'm having an issue with my account. I deposited cash yesterday, but my balance hasn't been updated. Could you please investigate and let me know what's going on?",
+    "The transfer of funds from my account was unsuccessful.",
+    "Can I make a cash deposit to top up my account?",
+    "I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?",
+    "I require a replacement card.",
+    "Why is the transfer still pending?",
+    "How long does it take to enable my card, as it appears to be inactive?",
+    "I'd like to place an order for a physical card.",
+    "Why is my cash withdrawal pending and not showing up?",
+    "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?",
+    "I made a cash deposit, but my account balance hasn't been updated.",
+    "Where can I place an order for a physical card?",
+    "Can you facilitate additional deposits?",
+    "I require assistance in connecting my recently issued card.",
+    "Why was my cash withdrawal request denied?",
+    "Why hasn't my account balance been updated to reflect the recent transfer I made?",
+    "I'd like to make an online purchase without using my credit card. Can you explain how a temporary virtual card works and where I can obtain one for this transaction?",
+    "I'm curious about the status of a transfer I initiated, which is currently pending.",
+    "How long does it typically take for a seller to receive a pending transfer after I initiate the payment immediately?",
+    "The transfer to the intended recipient was unsuccessful.",
+    "Please provide instructions on how to utilize the virtual disposable cards.",
+    "I'm a minor and I'm having trouble verifying my identification. Can you help me figure out why it's not working?",
+    "Will there be a fee for receiving a bank transfer?",
+    "I require a replacement card because I accidentally swallowed my original one."
+  ],
+  "generated_labels": [
+    13,
+    74,
+    9,
+    26,
+    41,
+    39,
+    18,
+    72,
+    20,
+    58,
+    10,
+    13,
+    61,
+    42,
+    20,
+    6,
+    35,
+    58,
+    46,
+    39,
+    48,
+    0,
+    43,
+    46,
+    74,
+    6,
+    43,
+    61,
+    13,
+    26,
+    5,
+    37,
+    48,
+    48,
+    7,
+    37,
+    68,
+    56,
+    18
+  ],
+  "source_texts": [
+    "how do i get the card linked",
+    "I can't do the verification.",
+    "Can I order a new card with the app?",
+    "I tried to withdraw some funds from my card, but was declined. How can I get my money?",
+    "I need to order a new card as my other one was stolen.",
+    "What's the process to receive a second card?",
+    "A Bank ATM did not give my card back. What do I do now?",
+    "My disposable virtual card got rejected",
+    "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+    "How long before a check I send clears?",
+    "Are there businesses that don't accept this card?",
+    "help me link my card",
+    "I went to top up my card and it was cancelled.",
+    "Please help!  I was mugged and everything stolen.  What do I do to stop them from accessing my account?",
+    "there is money in my account that i didnt put there",
+    "i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong?",
+    "I was unable to transfer money from my account.",
+    "Is topping up with cash allowed?",
+    "I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it?",
+    "I need a new card.",
+    "Why is the transaction not posting?",
+    "How long does it take to activate the card, as it does not look like its working?",
+    "I would like to request a card.",
+    "How do I get my cash withdrawal to show?",
+    "Do you think you're asking for too much information about me?",
+    "I put cash in my account, but I don't see it.",
+    "Show me where to order my card.",
+    "Do you support top ups?",
+    "I need some help linking my new card.",
+    "Why can't I get cash out?",
+    "Why hasn't my account updated to reflect my current balance?",
+    "I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?",
+    "I wanted to know why there is a transfer of mine pending.",
+    "How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately?",
+    "My account transfer was not cleared.",
+    "Please explain how I use the disposable cards?",
+    "i am under 18 and i am trying to verify my id. why wont it work?",
+    "Will I be charged for receiving money?",
+    "I need a new card because the ATM took mine."
+  ],
+  "records": [
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "how do i get the card linked",
+      "generated": "what steps do i need to take to link my card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I can't do the verification.",
+      "generated": "I'm unable to complete the identity verification process."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I order a new card with the app?",
+      "generated": "Can I request a replacement card before my current one expires?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I tried to withdraw some funds from my card, but was declined. How can I get my money?",
+      "generated": "I attempted to make a cash withdrawal using my card, but it was unsuccessful. What are my options for retrieving my funds?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I need to order a new card as my other one was stolen.",
+      "generated": "I require a replacement card as my previous one has been stolen."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "What's the process to receive a second card?",
+      "generated": "How do I obtain a replacement card?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "A Bank ATM did not give my card back. What do I do now?",
+      "generated": "A Bank ATM has retained my card. What should I do next?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "My disposable virtual card got rejected",
+      "generated": "My temporary virtual card was declined"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+      "generated": "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How long before a check I send clears?",
+      "generated": "How long does it take for a cheque to clear before I can use it to top up my account?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Are there businesses that don't accept this card?",
+      "generated": "Can you tell me if there are any merchants that don't accept this particular card?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "help me link my card",
+      "generated": "assist me in linking my card"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I went to top up my card and it was cancelled.",
+      "generated": "I attempted to add funds to my card, but the transaction was reversed."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Please help!  I was mugged and everything stolen.  What do I do to stop them from accessing my account?",
+      "generated": "I'm in a bit of a panic - I was robbed and my phone was taken, which means they have access to my account. Can you please assist me in securing my account to prevent any unauthorized transactions?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "there is money in my account that i didnt put there",
+      "generated": "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong?",
+      "generated": "I'm having an issue with my account. I deposited cash yesterday, but my balance hasn't been updated. Could you please investigate and let me know what's going on?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I was unable to transfer money from my account.",
+      "generated": "The transfer of funds from my account was unsuccessful."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Is topping up with cash allowed?",
+      "generated": "Can I make a cash deposit to top up my account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it?",
+      "generated": "I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I need a new card.",
+      "generated": "I require a replacement card."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Why is the transaction not posting?",
+      "generated": "Why is the transfer still pending?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How long does it take to activate the card, as it does not look like its working?",
+      "generated": "How long does it take to enable my card, as it appears to be inactive?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I would like to request a card.",
+      "generated": "I'd like to place an order for a physical card."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "How do I get my cash withdrawal to show?",
+      "generated": "Why is my cash withdrawal pending and not showing up?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Do you think you're asking for too much information about me?",
+      "generated": "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I put cash in my account, but I don't see it.",
+      "generated": "I made a cash deposit, but my account balance hasn't been updated."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Show me where to order my card.",
+      "generated": "Where can I place an order for a physical card?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you support top ups?",
+      "generated": "Can you facilitate additional deposits?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I need some help linking my new card.",
+      "generated": "I require assistance in connecting my recently issued card."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I get cash out?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Why hasn't my account updated to reflect my current balance?",
+      "generated": "Why hasn't my account balance been updated to reflect the recent transfer I made?"
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?",
+      "generated": "I'd like to make an online purchase without using my credit card. Can you explain how a temporary virtual card works and where I can obtain one for this transaction?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I wanted to know why there is a transfer of mine pending.",
+      "generated": "I'm curious about the status of a transfer I initiated, which is currently pending."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How long would does it take for a seller to receive an EU transfer if I bought something from them and sent them the money immediately?",
+      "generated": "How long does it typically take for a seller to receive a pending transfer after I initiate the payment immediately?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "My account transfer was not cleared.",
+      "generated": "The transfer to the intended recipient was unsuccessful."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "Please explain how I use the disposable cards?",
+      "generated": "Please provide instructions on how to utilize the virtual disposable cards."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "i am under 18 and i am trying to verify my id. why wont it work?",
+      "generated": "I'm a minor and I'm having trouble verifying my identification. Can you help me figure out why it's not working?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will I be charged for receiving money?",
+      "generated": "Will there be a fee for receiving a bank transfer?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "I need a new card because the ATM took mine.",
+      "generated": "I require a replacement card because I accidentally swallowed my original one."
+    }
+  ]
+}

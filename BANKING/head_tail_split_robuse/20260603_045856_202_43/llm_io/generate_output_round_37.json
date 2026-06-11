@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "Why hasn't my transfer been received by the recipient yet?",
+    "Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?",
+    "I'm a parent with minors. Can they access this service?",
+    "What is the typical timeframe for processing international transfers from Europe?",
+    "What is the typical timeframe for transferring funds from Europe to my account?",
+    "Can I obtain the Visa or Mastercard?",
+    "Do I need to exchange my British pounds for another currency before making a transfer?",
+    "Are there any restrictions on the usage of disposable cards?",
+    "Can I have my friends use their cards to top up my account?",
+    "I'm experiencing an extra verification step after attempting to make a top-up, can you help me understand why?",
+    "The balance remains the same, despite the recent deposit.",
+    "What circumstances would cause my payment to be reversed?",
+    "We're having trouble confirming your identity.",
+    "When can I expect my transfer to be successfully delivered to the recipient's account?",
+    "Can I request assistance from a representative to modify my personal identification number (PIN)?",
+    "I made a transfer, but the recipient hasn't received it yet.",
+    "I've forgotten my passcode, could you please reset it for me?",
+    "I'm having trouble completing a transfer and it's not going through as expected.",
+    "How long does it typically take for international transfers to be processed? I made an online purchase a few days ago and initiated the transfer promptly, but the vendor is telling me that the funds are still pending.",
+    "I need to receive my physical card.",
+    "I'm having trouble using my virtual card to make transactions.",
+    "Did you reverse the payment on your card?",
+    "Can the top-up limit be increased without any restrictions?",
+    "Could you please guide me on the process of confirming that my top-up transaction has been successfully processed?",
+    "I'd like to request a new virtual card, could you guide me on how to obtain one?",
+    "Can my friends use their cards to add funds to my account?",
+    "The amount of cash I requested has not been delivered.",
+    "is there a restriction preventing me from initiating transactions",
+    "What is the maximum amount I can add to my card balance at one time?",
+    "What happens if my card payment was reversed?",
+    "How do I initiate a transfer to add funds to an account?",
+    "what should I do if the ATM swallowed my card?",
+    "How do I add funds to my card using my card?",
+    "Is the balance updated instantly after a bank transfer?",
+    "They informed me that they didn't receive the entire amount I transferred to them, and I'd appreciate it if you could investigate this issue.",
+    "We've noticed an unusual payment on your account, made by a merchant you don't have a record of. Could you please confirm if this is a direct debit payment that was not recognized by our system?",
+    "I've reviewed my recent statements and noticed a significant payment that I'm certain I didn't make. Can I still contest it?"
+  ],
+  "generated_labels": [
+    66,
+    76,
+    1,
+    67,
+    67,
+    73,
+    50,
+    29,
+    62,
+    71,
+    6,
+    53,
+    68,
+    66,
+    21,
+    66,
+    44,
+    35,
+    48,
+    38,
+    72,
+    53,
+    60,
+    71,
+    40,
+    62,
+    75,
+    7,
+    60,
+    53,
+    65,
+    18,
+    62,
+    5,
+    64,
+    28,
+    28
+  ],
+  "source_texts": [
+    "Why is my transaction taking so long to complete?",
+    "Can the exchange rate change while I am in the process of making a withdrawal?",
+    "I have young kids. Can they use this service?",
+    "I need to make a transfer from Europe, how many days does this take?",
+    "How long does it take to get money from Europe?",
+    "Can I get the Mastercard?",
+    "Do I need to convert my currency from GBP before transferring?",
+    "Are there limits on the virtual cards?",
+    "Can I get my friends to add money to my account?",
+    "I just tried to top-up and now I'm getting an additional verification message, why?",
+    "the balance has not changed, but I have deposited some money",
+    "Under what condition will my payment revert?",
+    "I dont have identification",
+    "How long do I have  to wait for my transaction to be completed?",
+    "Do I need to speak to a representative to change my pin?",
+    "I sent a payment but it isn't showing up in the app",
+    "I can't remember my app code, can you reset it?",
+    "I am trying to transfer money and something is going wrong.",
+    "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.",
+    "I haven't been sent my new pin!",
+    "I can't make purchases with my virtual card.",
+    "I cancelled my card payment",
+    "Is the top-up amount unlimited?",
+    "Can you explain to me the way to verify my top up has gone through?",
+    "I need to order a new card, can you please direct me to the virtual cards?",
+    "Will my friends be able to top up my account?",
+    "The cash I asked for still hasn't been received",
+    "is there something blocking me from making transfers",
+    "What is the top-up limit on my cards?",
+    "What should I do if my card payment was cancelled?",
+    "What are the steps for  making a transfer for topping up?",
+    "what do I need to do if the ATM kept my card?",
+    "What's the process for topping up my card?",
+    "Are bank transfers immediate?",
+    "Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?",
+    "There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.",
+    "I know this very late, but I just went through my statements from the last couple months and there's one quite large-ish payment that I definitely haven't made. Is it still possible to dispute it?"
+  ],
+  "records": [
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why is my transaction taking so long to complete?",
+      "generated": "Why hasn't my transfer been received by the recipient yet?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can the exchange rate change while I am in the process of making a withdrawal?",
+      "generated": "Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "I have young kids. Can they use this service?",
+      "generated": "I'm a parent with minors. Can they access this service?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "I need to make a transfer from Europe, how many days does this take?",
+      "generated": "What is the typical timeframe for processing international transfers from Europe?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long does it take to get money from Europe?",
+      "generated": "What is the typical timeframe for transferring funds from Europe to my account?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get the Mastercard?",
+      "generated": "Can I obtain the Visa or Mastercard?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do I need to convert my currency from GBP before transferring?",
+      "generated": "Do I need to exchange my British pounds for another currency before making a transfer?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Are there limits on the virtual cards?",
+      "generated": "Are there any restrictions on the usage of disposable cards?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can I get my friends to add money to my account?",
+      "generated": "Can I have my friends use their cards to top up my account?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I just tried to top-up and now I'm getting an additional verification message, why?",
+      "generated": "I'm experiencing an extra verification step after attempting to make a top-up, can you help me understand why?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "the balance has not changed, but I have deposited some money",
+      "generated": "The balance remains the same, despite the recent deposit."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Under what condition will my payment revert?",
+      "generated": "What circumstances would cause my payment to be reversed?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "I dont have identification",
+      "generated": "We're having trouble confirming your identity."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long do I have  to wait for my transaction to be completed?",
+      "generated": "When can I expect my transfer to be successfully delivered to the recipient's account?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Do I need to speak to a representative to change my pin?",
+      "generated": "Can I request assistance from a representative to modify my personal identification number (PIN)?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I sent a payment but it isn't showing up in the app",
+      "generated": "I made a transfer, but the recipient hasn't received it yet."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't remember my app code, can you reset it?",
+      "generated": "I've forgotten my passcode, could you please reset it for me?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I am trying to transfer money and something is going wrong.",
+      "generated": "I'm having trouble completing a transfer and it's not going through as expected."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.",
+      "generated": "How long does it typically take for international transfers to be processed? I made an online purchase a few days ago and initiated the transfer promptly, but the vendor is telling me that the funds are still pending."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I haven't been sent my new pin!",
+      "generated": "I need to receive my physical card."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't make purchases with my virtual card.",
+      "generated": "I'm having trouble using my virtual card to make transactions."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I cancelled my card payment",
+      "generated": "Did you reverse the payment on your card?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is the top-up amount unlimited?",
+      "generated": "Can the top-up limit be increased without any restrictions?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Can you explain to me the way to verify my top up has gone through?",
+      "generated": "Could you please guide me on the process of confirming that my top-up transaction has been successfully processed?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I need to order a new card, can you please direct me to the virtual cards?",
+      "generated": "I'd like to request a new virtual card, could you guide me on how to obtain one?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Will my friends be able to top up my account?",
+      "generated": "Can my friends use their cards to add funds to my account?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "The cash I asked for still hasn't been received",
+      "generated": "The amount of cash I requested has not been delivered."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "is there something blocking me from making transfers",
+      "generated": "is there a restriction preventing me from initiating transactions"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What is the top-up limit on my cards?",
+      "generated": "What is the maximum amount I can add to my card balance at one time?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "What should I do if my card payment was cancelled?",
+      "generated": "What happens if my card payment was reversed?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are the steps for  making a transfer for topping up?",
+      "generated": "How do I initiate a transfer to add funds to an account?"
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "what do I need to do if the ATM kept my card?",
+      "generated": "what should I do if the ATM swallowed my card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "What's the process for topping up my card?",
+      "generated": "How do I add funds to my card using my card?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Are bank transfers immediate?",
+      "generated": "Is the balance updated instantly after a bank transfer?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?",
+      "generated": "They informed me that they didn't receive the entire amount I transferred to them, and I'd appreciate it if you could investigate this issue."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.",
+      "generated": "We've noticed an unusual payment on your account, made by a merchant you don't have a record of. Could you please confirm if this is a direct debit payment that was not recognized by our system?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I know this very late, but I just went through my statements from the last couple months and there's one quite large-ish payment that I definitely haven't made. Is it still possible to dispute it?",
+      "generated": "I've reviewed my recent statements and noticed a significant payment that I'm certain I didn't make. Can I still contest it?"
+    }
+  ]
+}

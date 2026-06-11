@@ -1,0 +1,924 @@
+Logging started: /root/paper/BANKING/head_tail_split_robuse/20260603_065113/experiment_log_Banking77_random_classsplit202_seed44_20260603_065113.txt
+
+=== Head/Tail Class Split Configuration ===
+Split mode: random
+Class split seed: 202
+Head labels (10): [0, 2, 4, 11, 25, 32, 35, 38, 42, 63]
+Tail labels (67): [1, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 33, 34, 36, 37, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76]
+==========================================
+
+Saved split config: /root/paper/BANKING/head_tail_split_robuse/20260603_065113/head_tail_split_config.json
+Loading dataset: PolyAI/banking77 (Simulated Long-Tail)
+
+=== Encoding with BAAI/bge-large-en-v1.5 ===
+
+=== Dataset Partition Summary ===
+Random seed: 44
+Head classes (10 classes): [0, 2, 4, 11, 25, 32, 35, 38, 42, 63]
+Tail classes (67 classes): [1, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 33, 34, 36, 37, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76]
+Head seed samples/class: 15
+Tail seed samples/class: 2
+Seed set size: 284
+Unlabeled pool size: 8179
+Test set size: 1540
+=================================
+
+
+============================================================
+PASSIVE LEARNING EXPERIMENT (Random)
+============================================================
+
+--- Iteration 1 ---
+Performance Summary | Macro F1: 0.0323 | Head Macro F1 (10 classes): 0.2491 | Tail Macro F1 (67 classes): 0.0000 | Accuracy: 0.1273
+
+--- Iteration 2 ---
+Performance Summary | Macro F1: 0.0395 | Head Macro F1 (10 classes): 0.2469 | Tail Macro F1 (67 classes): 0.0085 | Accuracy: 0.1325
+
+--- Iteration 3 ---
+Performance Summary | Macro F1: 0.0662 | Head Macro F1 (10 classes): 0.2492 | Tail Macro F1 (67 classes): 0.0389 | Accuracy: 0.1532
+
+--- Iteration 4 ---
+Performance Summary | Macro F1: 0.0931 | Head Macro F1 (10 classes): 0.2505 | Tail Macro F1 (67 classes): 0.0697 | Accuracy: 0.1734
+
+--- Iteration 5 ---
+Performance Summary | Macro F1: 0.1325 | Head Macro F1 (10 classes): 0.2679 | Tail Macro F1 (67 classes): 0.1123 | Accuracy: 0.2221
+
+--- Iteration 6 ---
+Performance Summary | Macro F1: 0.1577 | Head Macro F1 (10 classes): 0.2892 | Tail Macro F1 (67 classes): 0.1381 | Accuracy: 0.2506
+
+--- Iteration 7 ---
+Performance Summary | Macro F1: 0.1901 | Head Macro F1 (10 classes): 0.3083 | Tail Macro F1 (67 classes): 0.1724 | Accuracy: 0.2818
+
+--- Iteration 8 ---
+Performance Summary | Macro F1: 0.2201 | Head Macro F1 (10 classes): 0.3229 | Tail Macro F1 (67 classes): 0.2048 | Accuracy: 0.3117
+
+--- Iteration 9 ---
+Performance Summary | Macro F1: 0.2310 | Head Macro F1 (10 classes): 0.3348 | Tail Macro F1 (67 classes): 0.2155 | Accuracy: 0.3253
+
+--- Iteration 10 ---
+Performance Summary | Macro F1: 0.2753 | Head Macro F1 (10 classes): 0.3589 | Tail Macro F1 (67 classes): 0.2628 | Accuracy: 0.3675
+
+--- Iteration 11 ---
+Performance Summary | Macro F1: 0.3189 | Head Macro F1 (10 classes): 0.3873 | Tail Macro F1 (67 classes): 0.3087 | Accuracy: 0.4097
+
+--- Iteration 12 ---
+Performance Summary | Macro F1: 0.3671 | Head Macro F1 (10 classes): 0.4129 | Tail Macro F1 (67 classes): 0.3603 | Accuracy: 0.4461
+
+--- Iteration 13 ---
+Performance Summary | Macro F1: 0.3972 | Head Macro F1 (10 classes): 0.4389 | Tail Macro F1 (67 classes): 0.3909 | Accuracy: 0.4766
+
+--- Iteration 14 ---
+Performance Summary | Macro F1: 0.4358 | Head Macro F1 (10 classes): 0.4631 | Tail Macro F1 (67 classes): 0.4318 | Accuracy: 0.5091
+
+--- Iteration 15 ---
+Performance Summary | Macro F1: 0.4747 | Head Macro F1 (10 classes): 0.5088 | Tail Macro F1 (67 classes): 0.4696 | Accuracy: 0.5481
+
+--- Iteration 16 ---
+Performance Summary | Macro F1: 0.4831 | Head Macro F1 (10 classes): 0.5286 | Tail Macro F1 (67 classes): 0.4764 | Accuracy: 0.5532
+
+--- Iteration 17 ---
+Performance Summary | Macro F1: 0.5125 | Head Macro F1 (10 classes): 0.5451 | Tail Macro F1 (67 classes): 0.5076 | Accuracy: 0.5779
+
+--- Iteration 18 ---
+Performance Summary | Macro F1: 0.5394 | Head Macro F1 (10 classes): 0.5748 | Tail Macro F1 (67 classes): 0.5342 | Accuracy: 0.6026
+
+--- Iteration 19 ---
+Performance Summary | Macro F1: 0.5830 | Head Macro F1 (10 classes): 0.6187 | Tail Macro F1 (67 classes): 0.5777 | Accuracy: 0.6390
+
+--- Iteration 20 ---
+Performance Summary | Macro F1: 0.6057 | Head Macro F1 (10 classes): 0.6270 | Tail Macro F1 (67 classes): 0.6025 | Accuracy: 0.6558
+
+--- Iteration 21 ---
+Performance Summary | Macro F1: 0.6125 | Head Macro F1 (10 classes): 0.6349 | Tail Macro F1 (67 classes): 0.6092 | Accuracy: 0.6623
+
+--- Iteration 22 ---
+Performance Summary | Macro F1: 0.6226 | Head Macro F1 (10 classes): 0.6530 | Tail Macro F1 (67 classes): 0.6180 | Accuracy: 0.6753
+
+--- Iteration 23 ---
+Performance Summary | Macro F1: 0.6351 | Head Macro F1 (10 classes): 0.6730 | Tail Macro F1 (67 classes): 0.6294 | Accuracy: 0.6857
+
+--- Iteration 24 ---
+Performance Summary | Macro F1: 0.6404 | Head Macro F1 (10 classes): 0.6849 | Tail Macro F1 (67 classes): 0.6338 | Accuracy: 0.6909
+
+--- Iteration 25 ---
+Performance Summary | Macro F1: 0.6401 | Head Macro F1 (10 classes): 0.6970 | Tail Macro F1 (67 classes): 0.6316 | Accuracy: 0.6922
+
+--- Iteration 26 ---
+Performance Summary | Macro F1: 0.6514 | Head Macro F1 (10 classes): 0.7138 | Tail Macro F1 (67 classes): 0.6420 | Accuracy: 0.7039
+
+--- Iteration 27 ---
+Performance Summary | Macro F1: 0.6626 | Head Macro F1 (10 classes): 0.7227 | Tail Macro F1 (67 classes): 0.6537 | Accuracy: 0.7117
+
+--- Iteration 28 ---
+Performance Summary | Macro F1: 0.6806 | Head Macro F1 (10 classes): 0.7362 | Tail Macro F1 (67 classes): 0.6723 | Accuracy: 0.7227
+
+--- Iteration 29 ---
+Performance Summary | Macro F1: 0.6860 | Head Macro F1 (10 classes): 0.7380 | Tail Macro F1 (67 classes): 0.6783 | Accuracy: 0.7292
+
+--- Iteration 30 ---
+Performance Summary | Macro F1: 0.6885 | Head Macro F1 (10 classes): 0.7371 | Tail Macro F1 (67 classes): 0.6812 | Accuracy: 0.7305
+
+--- Iteration 31 ---
+Performance Summary | Macro F1: 0.6929 | Head Macro F1 (10 classes): 0.7557 | Tail Macro F1 (67 classes): 0.6835 | Accuracy: 0.7344
+
+--- Iteration 32 ---
+Performance Summary | Macro F1: 0.6978 | Head Macro F1 (10 classes): 0.7686 | Tail Macro F1 (67 classes): 0.6872 | Accuracy: 0.7383
+
+[Stopping Auto-Triggered by Plateau]
+  Reason: Macro F1 and Tail F1 showed limited improvement for the last 3 consecutive iterations.
+  Recent Macro F1 deltas: [0.002425, 0.00445, 0.004854]
+  Recent Tail F1 deltas: [0.002923, 0.002338, 0.003662]
+  min_delta: 0.005, patience: 3
+*** [Ghost Tracking] Plateau stopping triggered at Iteration 32. Continuing to max iterations. ***
+
+--- Iteration 33 ---
+Performance Summary | Macro F1: 0.7016 | Head Macro F1 (10 classes): 0.7722 | Tail Macro F1 (67 classes): 0.6910 | Accuracy: 0.7416
+
+--- Iteration 34 ---
+Performance Summary | Macro F1: 0.6894 | Head Macro F1 (10 classes): 0.7596 | Tail Macro F1 (67 classes): 0.6789 | Accuracy: 0.7338
+
+--- Iteration 35 ---
+Performance Summary | Macro F1: 0.7166 | Head Macro F1 (10 classes): 0.7795 | Tail Macro F1 (67 classes): 0.7072 | Accuracy: 0.7539
+
+--- Iteration 36 ---
+Performance Summary | Macro F1: 0.7228 | Head Macro F1 (10 classes): 0.7837 | Tail Macro F1 (67 classes): 0.7137 | Accuracy: 0.7571
+
+--- Iteration 37 ---
+Performance Summary | Macro F1: 0.7341 | Head Macro F1 (10 classes): 0.7894 | Tail Macro F1 (67 classes): 0.7259 | Accuracy: 0.7662
+
+--- Iteration 38 ---
+Performance Summary | Macro F1: 0.7431 | Head Macro F1 (10 classes): 0.8029 | Tail Macro F1 (67 classes): 0.7342 | Accuracy: 0.7734
+
+--- Iteration 39 ---
+Performance Summary | Macro F1: 0.7463 | Head Macro F1 (10 classes): 0.8146 | Tail Macro F1 (67 classes): 0.7361 | Accuracy: 0.7773
+
+--- Iteration 40 ---
+Performance Summary | Macro F1: 0.7441 | Head Macro F1 (10 classes): 0.8088 | Tail Macro F1 (67 classes): 0.7345 | Accuracy: 0.7760
+
+============================================================
+ACTIVE LEARNING BASELINE (Warmup + Entropy)
+============================================================
+
+--- Iteration 1 ---
+Performance Summary | Macro F1: 0.0323 | Head Macro F1 (10 classes): 0.2491 | Tail Macro F1 (67 classes): 0.0000 | Accuracy: 0.1273
+
+--- Iteration 2 ---
+Performance Summary | Macro F1: 0.0395 | Head Macro F1 (10 classes): 0.2469 | Tail Macro F1 (67 classes): 0.0085 | Accuracy: 0.1325
+
+--- Iteration 3 ---
+Performance Summary | Macro F1: 0.0662 | Head Macro F1 (10 classes): 0.2492 | Tail Macro F1 (67 classes): 0.0389 | Accuracy: 0.1532
+
+--- Iteration 4 ---
+Performance Summary | Macro F1: 0.0940 | Head Macro F1 (10 classes): 0.2902 | Tail Macro F1 (67 classes): 0.0648 | Accuracy: 0.1857
+
+--- Iteration 5 ---
+Performance Summary | Macro F1: 0.1460 | Head Macro F1 (10 classes): 0.3190 | Tail Macro F1 (67 classes): 0.1202 | Accuracy: 0.2435
+
+--- Iteration 6 ---
+Performance Summary | Macro F1: 0.1807 | Head Macro F1 (10 classes): 0.3350 | Tail Macro F1 (67 classes): 0.1577 | Accuracy: 0.2779
+
+--- Iteration 7 ---
+Performance Summary | Macro F1: 0.2124 | Head Macro F1 (10 classes): 0.3440 | Tail Macro F1 (67 classes): 0.1928 | Accuracy: 0.3078
+
+--- Iteration 8 ---
+Performance Summary | Macro F1: 0.2608 | Head Macro F1 (10 classes): 0.3623 | Tail Macro F1 (67 classes): 0.2456 | Accuracy: 0.3448
+
+--- Iteration 9 ---
+Performance Summary | Macro F1: 0.2878 | Head Macro F1 (10 classes): 0.3818 | Tail Macro F1 (67 classes): 0.2738 | Accuracy: 0.3792
+
+--- Iteration 10 ---
+Performance Summary | Macro F1: 0.3098 | Head Macro F1 (10 classes): 0.3939 | Tail Macro F1 (67 classes): 0.2972 | Accuracy: 0.3987
+
+--- Iteration 11 ---
+Performance Summary | Macro F1: 0.3383 | Head Macro F1 (10 classes): 0.4187 | Tail Macro F1 (67 classes): 0.3263 | Accuracy: 0.4305
+
+--- Iteration 12 ---
+Performance Summary | Macro F1: 0.3834 | Head Macro F1 (10 classes): 0.4438 | Tail Macro F1 (67 classes): 0.3744 | Accuracy: 0.4643
+
+--- Iteration 13 ---
+Performance Summary | Macro F1: 0.3893 | Head Macro F1 (10 classes): 0.4600 | Tail Macro F1 (67 classes): 0.3787 | Accuracy: 0.4675
+
+--- Iteration 14 ---
+Performance Summary | Macro F1: 0.4131 | Head Macro F1 (10 classes): 0.4842 | Tail Macro F1 (67 classes): 0.4024 | Accuracy: 0.4903
+
+--- Iteration 15 ---
+Performance Summary | Macro F1: 0.4624 | Head Macro F1 (10 classes): 0.5204 | Tail Macro F1 (67 classes): 0.4537 | Accuracy: 0.5312
+
+--- Iteration 16 ---
+Performance Summary | Macro F1: 0.4968 | Head Macro F1 (10 classes): 0.5422 | Tail Macro F1 (67 classes): 0.4901 | Accuracy: 0.5623
+
+--- Iteration 17 ---
+Performance Summary | Macro F1: 0.5062 | Head Macro F1 (10 classes): 0.5852 | Tail Macro F1 (67 classes): 0.4944 | Accuracy: 0.5766
+
+--- Iteration 18 ---
+Performance Summary | Macro F1: 0.5380 | Head Macro F1 (10 classes): 0.6167 | Tail Macro F1 (67 classes): 0.5263 | Accuracy: 0.6006
+
+--- Iteration 19 ---
+Performance Summary | Macro F1: 0.5951 | Head Macro F1 (10 classes): 0.6463 | Tail Macro F1 (67 classes): 0.5875 | Accuracy: 0.6435
+
+--- Iteration 20 ---
+Performance Summary | Macro F1: 0.6193 | Head Macro F1 (10 classes): 0.6463 | Tail Macro F1 (67 classes): 0.6153 | Accuracy: 0.6584
+
+--- Iteration 21 ---
+Performance Summary | Macro F1: 0.6240 | Head Macro F1 (10 classes): 0.6790 | Tail Macro F1 (67 classes): 0.6158 | Accuracy: 0.6688
+
+--- Iteration 22 ---
+Performance Summary | Macro F1: 0.6541 | Head Macro F1 (10 classes): 0.7082 | Tail Macro F1 (67 classes): 0.6460 | Accuracy: 0.6922
+
+--- Iteration 23 ---
+Performance Summary | Macro F1: 0.6519 | Head Macro F1 (10 classes): 0.7075 | Tail Macro F1 (67 classes): 0.6436 | Accuracy: 0.6922
+
+--- Iteration 24 ---
+Performance Summary | Macro F1: 0.6549 | Head Macro F1 (10 classes): 0.7320 | Tail Macro F1 (67 classes): 0.6434 | Accuracy: 0.6955
+
+--- Iteration 25 ---
+Performance Summary | Macro F1: 0.6651 | Head Macro F1 (10 classes): 0.7486 | Tail Macro F1 (67 classes): 0.6526 | Accuracy: 0.7006
+
+--- Iteration 26 ---
+Performance Summary | Macro F1: 0.6907 | Head Macro F1 (10 classes): 0.7550 | Tail Macro F1 (67 classes): 0.6812 | Accuracy: 0.7247
+
+--- Iteration 27 ---
+Performance Summary | Macro F1: 0.7090 | Head Macro F1 (10 classes): 0.7674 | Tail Macro F1 (67 classes): 0.7003 | Accuracy: 0.7390
+
+--- Iteration 28 ---
+Performance Summary | Macro F1: 0.7339 | Head Macro F1 (10 classes): 0.7833 | Tail Macro F1 (67 classes): 0.7265 | Accuracy: 0.7578
+
+--- Iteration 29 ---
+Performance Summary | Macro F1: 0.7370 | Head Macro F1 (10 classes): 0.7880 | Tail Macro F1 (67 classes): 0.7294 | Accuracy: 0.7610
+
+--- Iteration 30 ---
+Performance Summary | Macro F1: 0.7506 | Head Macro F1 (10 classes): 0.8015 | Tail Macro F1 (67 classes): 0.7430 | Accuracy: 0.7734
+
+--- Iteration 31 ---
+Performance Summary | Macro F1: 0.7773 | Head Macro F1 (10 classes): 0.8379 | Tail Macro F1 (67 classes): 0.7683 | Accuracy: 0.7961
+
+--- Iteration 32 ---
+Performance Summary | Macro F1: 0.7635 | Head Macro F1 (10 classes): 0.8379 | Tail Macro F1 (67 classes): 0.7524 | Accuracy: 0.7831
+
+--- Iteration 33 ---
+Performance Summary | Macro F1: 0.7629 | Head Macro F1 (10 classes): 0.8393 | Tail Macro F1 (67 classes): 0.7514 | Accuracy: 0.7844
+
+--- Iteration 34 ---
+Performance Summary | Macro F1: 0.7656 | Head Macro F1 (10 classes): 0.8342 | Tail Macro F1 (67 classes): 0.7553 | Accuracy: 0.7870
+
+[Stopping Auto-Triggered by Plateau]
+  Reason: Macro F1 and Tail F1 showed limited improvement for the last 3 consecutive iterations.
+  Recent Macro F1 deltas: [-0.013811, -0.000641, 0.002726]
+  Recent Tail F1 deltas: [-0.015876, -0.000952, 0.003903]
+  min_delta: 0.005, patience: 3
+*** [Ghost Tracking] Plateau stopping triggered at Iteration 34. Continuing to max iterations. ***
+
+--- Iteration 35 ---
+Performance Summary | Macro F1: 0.7805 | Head Macro F1 (10 classes): 0.8432 | Tail Macro F1 (67 classes): 0.7712 | Accuracy: 0.8013
+
+--- Iteration 36 ---
+Performance Summary | Macro F1: 0.7921 | Head Macro F1 (10 classes): 0.8484 | Tail Macro F1 (67 classes): 0.7837 | Accuracy: 0.8104
+
+--- Iteration 37 ---
+Performance Summary | Macro F1: 0.8144 | Head Macro F1 (10 classes): 0.8693 | Tail Macro F1 (67 classes): 0.8062 | Accuracy: 0.8266
+
+--- Iteration 38 ---
+Performance Summary | Macro F1: 0.8112 | Head Macro F1 (10 classes): 0.8660 | Tail Macro F1 (67 classes): 0.8030 | Accuracy: 0.8247
+
+--- Iteration 39 ---
+Performance Summary | Macro F1: 0.8236 | Head Macro F1 (10 classes): 0.8625 | Tail Macro F1 (67 classes): 0.8178 | Accuracy: 0.8338
+
+--- Iteration 40 ---
+Performance Summary | Macro F1: 0.8255 | Head Macro F1 (10 classes): 0.8640 | Tail Macro F1 (67 classes): 0.8198 | Accuracy: 0.8344
+
+============================================================
+PROPOSED FRAMEWORK (Generate-only)
+============================================================
+
+--- Iteration 1 ---
+Performance Summary | Macro F1: 0.0323 | Head Macro F1 (10 classes): 0.2491 | Tail Macro F1 (67 classes): 0.0000 | Accuracy: 0.1273
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_01.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_01.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_01_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 319
+
+--- Iteration 2 ---
+Performance Summary | Macro F1: 0.0838 | Head Macro F1 (10 classes): 0.2623 | Tail Macro F1 (67 classes): 0.0571 | Accuracy: 0.1760
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_02.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_02.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_02_augmentation_log.txt
+Accepted without validator: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 396
+
+--- Iteration 3 ---
+Performance Summary | Macro F1: 0.1387 | Head Macro F1 (10 classes): 0.2949 | Tail Macro F1 (67 classes): 0.1154 | Accuracy: 0.2468
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_03.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_03.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_03_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 474
+
+--- Iteration 4 ---
+Performance Summary | Macro F1: 0.1706 | Head Macro F1 (10 classes): 0.3622 | Tail Macro F1 (67 classes): 0.1420 | Accuracy: 0.2838
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_04.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_04.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_04_augmentation_log.txt
+Accepted without validator: 33/33 (Rate: 1.00)
+Synthetic added: 33
+Labeled size after synthetic: 547
+
+--- Iteration 5 ---
+Performance Summary | Macro F1: 0.1980 | Head Macro F1 (10 classes): 0.3876 | Tail Macro F1 (67 classes): 0.1697 | Accuracy: 0.3097
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_05.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_05.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_05_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 623
+
+--- Iteration 6 ---
+Performance Summary | Macro F1: 0.2511 | Head Macro F1 (10 classes): 0.4369 | Tail Macro F1 (67 classes): 0.2234 | Accuracy: 0.3662
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_06.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_06.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_06_augmentation_log.txt
+Accepted without validator: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 700
+
+--- Iteration 7 ---
+Performance Summary | Macro F1: 0.3241 | Head Macro F1 (10 classes): 0.4922 | Tail Macro F1 (67 classes): 0.2990 | Accuracy: 0.4227
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_07.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_07.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_07_augmentation_log.txt
+Accepted without validator: 33/33 (Rate: 1.00)
+Synthetic added: 33
+Labeled size after synthetic: 773
+
+--- Iteration 8 ---
+Performance Summary | Macro F1: 0.3443 | Head Macro F1 (10 classes): 0.5181 | Tail Macro F1 (67 classes): 0.3184 | Accuracy: 0.4383
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_08.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_08.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_08_augmentation_log.txt
+Accepted without validator: 39/39 (Rate: 1.00)
+Synthetic added: 39
+Labeled size after synthetic: 852
+
+--- Iteration 9 ---
+Performance Summary | Macro F1: 0.4069 | Head Macro F1 (10 classes): 0.5864 | Tail Macro F1 (67 classes): 0.3801 | Accuracy: 0.4987
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_09.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_09.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_09_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 927
+
+--- Iteration 10 ---
+Performance Summary | Macro F1: 0.4648 | Head Macro F1 (10 classes): 0.6113 | Tail Macro F1 (67 classes): 0.4430 | Accuracy: 0.5442
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_10.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_10.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_10_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 1005
+
+--- Iteration 11 ---
+Performance Summary | Macro F1: 0.5292 | Head Macro F1 (10 classes): 0.6680 | Tail Macro F1 (67 classes): 0.5085 | Accuracy: 0.5968
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_11.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_11.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_11_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 1081
+
+--- Iteration 12 ---
+Performance Summary | Macro F1: 0.5711 | Head Macro F1 (10 classes): 0.7062 | Tail Macro F1 (67 classes): 0.5509 | Accuracy: 0.6312
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_12.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_12.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_12_augmentation_log.txt
+Accepted without validator: 39/39 (Rate: 1.00)
+Synthetic added: 39
+Labeled size after synthetic: 1160
+
+--- Iteration 13 ---
+Performance Summary | Macro F1: 0.5707 | Head Macro F1 (10 classes): 0.7124 | Tail Macro F1 (67 classes): 0.5495 | Accuracy: 0.6266
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_13.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_13.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_13_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 1238
+
+--- Iteration 14 ---
+Performance Summary | Macro F1: 0.5998 | Head Macro F1 (10 classes): 0.7444 | Tail Macro F1 (67 classes): 0.5782 | Accuracy: 0.6519
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_14.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_14.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_14_augmentation_log.txt
+Accepted without validator: 33/33 (Rate: 1.00)
+Synthetic added: 33
+Labeled size after synthetic: 1311
+
+--- Iteration 15 ---
+Performance Summary | Macro F1: 0.6385 | Head Macro F1 (10 classes): 0.7610 | Tail Macro F1 (67 classes): 0.6202 | Accuracy: 0.6805
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_15.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_15.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_15_augmentation_log.txt
+Accepted without validator: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 1388
+
+--- Iteration 16 ---
+Performance Summary | Macro F1: 0.6864 | Head Macro F1 (10 classes): 0.7936 | Tail Macro F1 (67 classes): 0.6704 | Accuracy: 0.7214
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_16.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_16.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_16_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 1466
+
+--- Iteration 17 ---
+Performance Summary | Macro F1: 0.7153 | Head Macro F1 (10 classes): 0.7968 | Tail Macro F1 (67 classes): 0.7031 | Accuracy: 0.7442
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_17.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_17.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_17_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 1542
+
+--- Iteration 18 ---
+Performance Summary | Macro F1: 0.7479 | Head Macro F1 (10 classes): 0.8066 | Tail Macro F1 (67 classes): 0.7391 | Accuracy: 0.7714
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_18.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_18.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_18_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 1620
+
+--- Iteration 19 ---
+Performance Summary | Macro F1: 0.7502 | Head Macro F1 (10 classes): 0.8122 | Tail Macro F1 (67 classes): 0.7409 | Accuracy: 0.7727
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_19.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_19.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_19_augmentation_log.txt
+Accepted without validator: 34/34 (Rate: 1.00)
+Synthetic added: 34
+Labeled size after synthetic: 1694
+
+--- Iteration 20 ---
+Performance Summary | Macro F1: 0.7483 | Head Macro F1 (10 classes): 0.8502 | Tail Macro F1 (67 classes): 0.7330 | Accuracy: 0.7734
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_20.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_20.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_20_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 1770
+
+--- Iteration 21 ---
+Performance Summary | Macro F1: 0.7648 | Head Macro F1 (10 classes): 0.8591 | Tail Macro F1 (67 classes): 0.7507 | Accuracy: 0.7870
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_21.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_21.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_21_augmentation_log.txt
+Accepted without validator: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 1847
+
+--- Iteration 22 ---
+Performance Summary | Macro F1: 0.7933 | Head Macro F1 (10 classes): 0.8783 | Tail Macro F1 (67 classes): 0.7806 | Accuracy: 0.8065
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_22.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_22.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_22_augmentation_log.txt
+Accepted without validator: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 1924
+
+--- Iteration 23 ---
+Performance Summary | Macro F1: 0.7943 | Head Macro F1 (10 classes): 0.8897 | Tail Macro F1 (67 classes): 0.7800 | Accuracy: 0.8084
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_23.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_23.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_23_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2000
+
+--- Iteration 24 ---
+Performance Summary | Macro F1: 0.7987 | Head Macro F1 (10 classes): 0.8739 | Tail Macro F1 (67 classes): 0.7875 | Accuracy: 0.8117
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_24.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_24.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_24_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 2078
+
+--- Iteration 25 ---
+Performance Summary | Macro F1: 0.8187 | Head Macro F1 (10 classes): 0.8776 | Tail Macro F1 (67 classes): 0.8100 | Accuracy: 0.8260
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_25.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_25.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_25_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 2153
+
+--- Iteration 26 ---
+Performance Summary | Macro F1: 0.8249 | Head Macro F1 (10 classes): 0.8832 | Tail Macro F1 (67 classes): 0.8162 | Accuracy: 0.8312
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_26.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_26.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_26_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2229
+
+--- Iteration 27 ---
+Performance Summary | Macro F1: 0.8362 | Head Macro F1 (10 classes): 0.8965 | Tail Macro F1 (67 classes): 0.8272 | Accuracy: 0.8416
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_27.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_27.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_27_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2305
+
+--- Iteration 28 ---
+Performance Summary | Macro F1: 0.8313 | Head Macro F1 (10 classes): 0.8898 | Tail Macro F1 (67 classes): 0.8226 | Accuracy: 0.8364
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_28.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_28.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_28_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 2383
+
+--- Iteration 29 ---
+Performance Summary | Macro F1: 0.8333 | Head Macro F1 (10 classes): 0.9026 | Tail Macro F1 (67 classes): 0.8230 | Accuracy: 0.8396
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_29.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_29.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_29_augmentation_log.txt
+Accepted without validator: 39/39 (Rate: 1.00)
+Synthetic added: 39
+Labeled size after synthetic: 2462
+
+--- Iteration 30 ---
+Performance Summary | Macro F1: 0.8513 | Head Macro F1 (10 classes): 0.9044 | Tail Macro F1 (67 classes): 0.8433 | Accuracy: 0.8519
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_30.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_30.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_30_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 2537
+
+--- Iteration 31 ---
+Performance Summary | Macro F1: 0.8455 | Head Macro F1 (10 classes): 0.8970 | Tail Macro F1 (67 classes): 0.8378 | Accuracy: 0.8474
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_31.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_31.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_31_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 2612
+
+--- Iteration 32 ---
+Performance Summary | Macro F1: 0.8526 | Head Macro F1 (10 classes): 0.9034 | Tail Macro F1 (67 classes): 0.8451 | Accuracy: 0.8539
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_32.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_32.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_32_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2688
+
+--- Iteration 33 ---
+Performance Summary | Macro F1: 0.8524 | Head Macro F1 (10 classes): 0.9023 | Tail Macro F1 (67 classes): 0.8449 | Accuracy: 0.8532
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_33.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_33.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_33_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 2766
+
+--- Iteration 34 ---
+Performance Summary | Macro F1: 0.8669 | Head Macro F1 (10 classes): 0.9004 | Tail Macro F1 (67 classes): 0.8619 | Accuracy: 0.8662
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_34.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_34.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_34_augmentation_log.txt
+Accepted without validator: 39/39 (Rate: 1.00)
+Synthetic added: 39
+Labeled size after synthetic: 2845
+
+--- Iteration 35 ---
+Performance Summary | Macro F1: 0.8633 | Head Macro F1 (10 classes): 0.9013 | Tail Macro F1 (67 classes): 0.8577 | Accuracy: 0.8649
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_35.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_35.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_35_augmentation_log.txt
+Accepted without validator: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 2923
+
+--- Iteration 36 ---
+Performance Summary | Macro F1: 0.8651 | Head Macro F1 (10 classes): 0.9064 | Tail Macro F1 (67 classes): 0.8589 | Accuracy: 0.8669
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_36.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_36.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_36_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2999
+
+--- Iteration 37 ---
+Performance Summary | Macro F1: 0.8710 | Head Macro F1 (10 classes): 0.9030 | Tail Macro F1 (67 classes): 0.8662 | Accuracy: 0.8734
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_37.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_37.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_37_augmentation_log.txt
+Accepted without validator: 33/33 (Rate: 1.00)
+Synthetic added: 33
+Labeled size after synthetic: 3072
+
+--- Iteration 38 ---
+Performance Summary | Macro F1: 0.8823 | Head Macro F1 (10 classes): 0.9127 | Tail Macro F1 (67 classes): 0.8778 | Accuracy: 0.8838
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_38.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_38.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_38_augmentation_log.txt
+Accepted without validator: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 3147
+
+--- Iteration 39 ---
+Performance Summary | Macro F1: 0.8794 | Head Macro F1 (10 classes): 0.9045 | Tail Macro F1 (67 classes): 0.8757 | Accuracy: 0.8805
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_39.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_39.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_only_round_39_augmentation_log.txt
+Accepted without validator: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 3223
+
+--- Iteration 40 ---
+Performance Summary | Macro F1: 0.8809 | Head Macro F1 (10 classes): 0.9112 | Tail Macro F1 (67 classes): 0.8764 | Accuracy: 0.8818
+
+============================================================
+PROPOSED FRAMEWORK (Generate-and-Verify)
+============================================================
+
+--- Iteration 1 ---
+Performance Summary | Macro F1: 0.0323 | Head Macro F1 (10 classes): 0.2491 | Tail Macro F1 (67 classes): 0.0000 | Accuracy: 0.1273
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_01.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_01.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_01_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_01.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_01.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_01_augmentation_log.txt
+Accepted: 34/35 (Rate: 0.97)
+Synthetic added: 34
+Labeled size after synthetic: 318
+
+--- Iteration 2 ---
+Performance Summary | Macro F1: 0.0853 | Head Macro F1 (10 classes): 0.2673 | Tail Macro F1 (67 classes): 0.0581 | Accuracy: 0.1766
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_02.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_02.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_02_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_02.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_02.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_02_augmentation_log.txt
+Accepted: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 395
+
+--- Iteration 3 ---
+Performance Summary | Macro F1: 0.1380 | Head Macro F1 (10 classes): 0.2945 | Tail Macro F1 (67 classes): 0.1146 | Accuracy: 0.2468
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_03.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_03.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_03_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_03.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_03.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_03_augmentation_log.txt
+Accepted: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 473
+
+--- Iteration 4 ---
+Performance Summary | Macro F1: 0.1688 | Head Macro F1 (10 classes): 0.3641 | Tail Macro F1 (67 classes): 0.1396 | Accuracy: 0.2825
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_04.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_04.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_04_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_04.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_04.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_04_augmentation_log.txt
+Accepted: 32/32 (Rate: 1.00)
+Synthetic added: 32
+Labeled size after synthetic: 545
+
+--- Iteration 5 ---
+Performance Summary | Macro F1: 0.1983 | Head Macro F1 (10 classes): 0.3822 | Tail Macro F1 (67 classes): 0.1709 | Accuracy: 0.3117
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_05.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_05.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_05_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_05.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_05.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_05_augmentation_log.txt
+Accepted: 32/35 (Rate: 0.91)
+Synthetic added: 32
+Labeled size after synthetic: 617
+
+--- Iteration 6 ---
+Performance Summary | Macro F1: 0.2504 | Head Macro F1 (10 classes): 0.4298 | Tail Macro F1 (67 classes): 0.2237 | Accuracy: 0.3675
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_06.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_06.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_06_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_06.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_06.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_06_augmentation_log.txt
+Accepted: 33/35 (Rate: 0.94)
+Synthetic added: 33
+Labeled size after synthetic: 690
+
+--- Iteration 7 ---
+Performance Summary | Macro F1: 0.3202 | Head Macro F1 (10 classes): 0.4828 | Tail Macro F1 (67 classes): 0.2960 | Accuracy: 0.4201
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_07.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_07.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_07_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_07.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_07.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_07_augmentation_log.txt
+Accepted: 37/39 (Rate: 0.95)
+Synthetic added: 37
+Labeled size after synthetic: 767
+
+--- Iteration 8 ---
+Performance Summary | Macro F1: 0.3609 | Head Macro F1 (10 classes): 0.5411 | Tail Macro F1 (67 classes): 0.3340 | Accuracy: 0.4584
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_08.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_08.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_08_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_08.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_08.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_08_augmentation_log.txt
+Accepted: 35/38 (Rate: 0.92)
+Synthetic added: 35
+Labeled size after synthetic: 842
+
+--- Iteration 9 ---
+Performance Summary | Macro F1: 0.4424 | Head Macro F1 (10 classes): 0.5915 | Tail Macro F1 (67 classes): 0.4201 | Accuracy: 0.5234
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_09.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_09.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_09_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_09.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_09.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_09_augmentation_log.txt
+Accepted: 34/38 (Rate: 0.89)
+Synthetic added: 34
+Labeled size after synthetic: 916
+
+--- Iteration 10 ---
+Performance Summary | Macro F1: 0.4811 | Head Macro F1 (10 classes): 0.6054 | Tail Macro F1 (67 classes): 0.4626 | Accuracy: 0.5565
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_10.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_10.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_10_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_10.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_10.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_10_augmentation_log.txt
+Accepted: 35/38 (Rate: 0.92)
+Synthetic added: 35
+Labeled size after synthetic: 991
+
+--- Iteration 11 ---
+Performance Summary | Macro F1: 0.5185 | Head Macro F1 (10 classes): 0.6224 | Tail Macro F1 (67 classes): 0.5030 | Accuracy: 0.5825
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_11.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_11.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_11_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_11.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_11.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_11_augmentation_log.txt
+Accepted: 34/35 (Rate: 0.97)
+Synthetic added: 34
+Labeled size after synthetic: 1065
+
+--- Iteration 12 ---
+Performance Summary | Macro F1: 0.5762 | Head Macro F1 (10 classes): 0.6959 | Tail Macro F1 (67 classes): 0.5584 | Accuracy: 0.6318
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_12.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_12.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_12_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_12.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_12.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_12_augmentation_log.txt
+Accepted: 33/35 (Rate: 0.94)
+Synthetic added: 33
+Labeled size after synthetic: 1138
+
+--- Iteration 13 ---
+Performance Summary | Macro F1: 0.5888 | Head Macro F1 (10 classes): 0.7246 | Tail Macro F1 (67 classes): 0.5685 | Accuracy: 0.6396
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_13.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_13.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_13_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_13.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_13.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_13_augmentation_log.txt
+Accepted: 37/39 (Rate: 0.95)
+Synthetic added: 37
+Labeled size after synthetic: 1215
+
+--- Iteration 14 ---
+Performance Summary | Macro F1: 0.6088 | Head Macro F1 (10 classes): 0.7441 | Tail Macro F1 (67 classes): 0.5887 | Accuracy: 0.6558
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_14.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_14.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_14_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_14.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_14.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_14_augmentation_log.txt
+Accepted: 37/38 (Rate: 0.97)
+Synthetic added: 37
+Labeled size after synthetic: 1292
+
+--- Iteration 15 ---
+Performance Summary | Macro F1: 0.6684 | Head Macro F1 (10 classes): 0.7789 | Tail Macro F1 (67 classes): 0.6519 | Accuracy: 0.7071
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_15.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_15.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_15_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_15.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_15.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_15_augmentation_log.txt
+Accepted: 34/35 (Rate: 0.97)
+Synthetic added: 34
+Labeled size after synthetic: 1366
+
+--- Iteration 16 ---
+Performance Summary | Macro F1: 0.6810 | Head Macro F1 (10 classes): 0.7772 | Tail Macro F1 (67 classes): 0.6667 | Accuracy: 0.7201
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_16.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_16.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_16_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_16.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_16.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_16_augmentation_log.txt
+Accepted: 36/37 (Rate: 0.97)
+Synthetic added: 36
+Labeled size after synthetic: 1442
+
+--- Iteration 17 ---
+Performance Summary | Macro F1: 0.7262 | Head Macro F1 (10 classes): 0.8019 | Tail Macro F1 (67 classes): 0.7150 | Accuracy: 0.7552
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_17.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_17.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_17_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_17.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_17.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_17_augmentation_log.txt
+Accepted: 37/38 (Rate: 0.97)
+Synthetic added: 37
+Labeled size after synthetic: 1519
+
+--- Iteration 18 ---
+Performance Summary | Macro F1: 0.7267 | Head Macro F1 (10 classes): 0.8000 | Tail Macro F1 (67 classes): 0.7158 | Accuracy: 0.7591
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_18.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_18.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_18_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_18.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_18.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_18_augmentation_log.txt
+Accepted: 37/38 (Rate: 0.97)
+Synthetic added: 37
+Labeled size after synthetic: 1596
+
+--- Iteration 19 ---
+Performance Summary | Macro F1: 0.7437 | Head Macro F1 (10 classes): 0.8183 | Tail Macro F1 (67 classes): 0.7325 | Accuracy: 0.7734
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_19.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_19.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_19_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_19.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_19.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_19_augmentation_log.txt
+Accepted: 32/33 (Rate: 0.97)
+Synthetic added: 32
+Labeled size after synthetic: 1668
+
+--- Iteration 20 ---
+Performance Summary | Macro F1: 0.7470 | Head Macro F1 (10 classes): 0.8462 | Tail Macro F1 (67 classes): 0.7322 | Accuracy: 0.7779
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_20.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_20.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_20_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_20.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_20.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_20_augmentation_log.txt
+Accepted: 34/37 (Rate: 0.92)
+Synthetic added: 34
+Labeled size after synthetic: 1742
+
+--- Iteration 21 ---
+Performance Summary | Macro F1: 0.7546 | Head Macro F1 (10 classes): 0.8575 | Tail Macro F1 (67 classes): 0.7392 | Accuracy: 0.7786
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_21.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_21.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_21_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_21.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_21.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_21_augmentation_log.txt
+Accepted: 30/34 (Rate: 0.88)
+Synthetic added: 30
+Labeled size after synthetic: 1812
+
+--- Iteration 22 ---
+Performance Summary | Macro F1: 0.7929 | Head Macro F1 (10 classes): 0.8907 | Tail Macro F1 (67 classes): 0.7784 | Accuracy: 0.8058
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_22.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_22.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_22_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_22.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_22.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_22_augmentation_log.txt
+Accepted: 33/35 (Rate: 0.94)
+Synthetic added: 33
+Labeled size after synthetic: 1885
+
+--- Iteration 23 ---
+Performance Summary | Macro F1: 0.7940 | Head Macro F1 (10 classes): 0.8830 | Tail Macro F1 (67 classes): 0.7807 | Accuracy: 0.8084
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_23.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_23.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_23_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_23.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_23.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_23_augmentation_log.txt
+Accepted: 37/39 (Rate: 0.95)
+Synthetic added: 37
+Labeled size after synthetic: 1962
+
+--- Iteration 24 ---
+Performance Summary | Macro F1: 0.8089 | Head Macro F1 (10 classes): 0.8759 | Tail Macro F1 (67 classes): 0.7989 | Accuracy: 0.8195
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_24.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_24.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_24_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_24.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_24.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_24_augmentation_log.txt
+Accepted: 35/37 (Rate: 0.95)
+Synthetic added: 35
+Labeled size after synthetic: 2037
+
+--- Iteration 25 ---
+Performance Summary | Macro F1: 0.8162 | Head Macro F1 (10 classes): 0.8862 | Tail Macro F1 (67 classes): 0.8058 | Accuracy: 0.8247
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_25.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_25.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_25_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_25.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_25.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_25_augmentation_log.txt
+Accepted: 34/36 (Rate: 0.94)
+Synthetic added: 34
+Labeled size after synthetic: 2111
+
+--- Iteration 26 ---
+Performance Summary | Macro F1: 0.8181 | Head Macro F1 (10 classes): 0.8840 | Tail Macro F1 (67 classes): 0.8082 | Accuracy: 0.8273
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_26.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_26.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_26_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_26.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_26.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_26_augmentation_log.txt
+Accepted: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 2188
+
+--- Iteration 27 ---
+Performance Summary | Macro F1: 0.8319 | Head Macro F1 (10 classes): 0.8956 | Tail Macro F1 (67 classes): 0.8224 | Accuracy: 0.8396
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_27.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_27.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_27_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_27.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_27.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_27_augmentation_log.txt
+Accepted: 32/35 (Rate: 0.91)
+Synthetic added: 32
+Labeled size after synthetic: 2260
+
+--- Iteration 28 ---
+Performance Summary | Macro F1: 0.8140 | Head Macro F1 (10 classes): 0.8662 | Tail Macro F1 (67 classes): 0.8062 | Accuracy: 0.8240
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_28.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_28.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_28_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_28.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_28.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_28_augmentation_log.txt
+Accepted: 39/39 (Rate: 1.00)
+Synthetic added: 39
+Labeled size after synthetic: 2339
+
+--- Iteration 29 ---
+Performance Summary | Macro F1: 0.8250 | Head Macro F1 (10 classes): 0.8746 | Tail Macro F1 (67 classes): 0.8176 | Accuracy: 0.8338
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_29.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_29.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_29_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_29.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_29.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_29_augmentation_log.txt
+Accepted: 35/35 (Rate: 1.00)
+Synthetic added: 35
+Labeled size after synthetic: 2414
+
+--- Iteration 30 ---
+Performance Summary | Macro F1: 0.8321 | Head Macro F1 (10 classes): 0.8869 | Tail Macro F1 (67 classes): 0.8239 | Accuracy: 0.8383
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_30.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_30.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_30_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_30.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_30.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_30_augmentation_log.txt
+Accepted: 32/36 (Rate: 0.89)
+Synthetic added: 32
+Labeled size after synthetic: 2486
+
+--- Iteration 31 ---
+Performance Summary | Macro F1: 0.8445 | Head Macro F1 (10 classes): 0.9025 | Tail Macro F1 (67 classes): 0.8358 | Accuracy: 0.8500
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_31.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_31.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_31_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_31.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_31.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_31_augmentation_log.txt
+Accepted: 37/37 (Rate: 1.00)
+Synthetic added: 37
+Labeled size after synthetic: 2563
+
+--- Iteration 32 ---
+Performance Summary | Macro F1: 0.8485 | Head Macro F1 (10 classes): 0.8957 | Tail Macro F1 (67 classes): 0.8414 | Accuracy: 0.8532
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_32.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_32.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_32_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_32.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_32.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_32_augmentation_log.txt
+Accepted: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 2639
+
+--- Iteration 33 ---
+Performance Summary | Macro F1: 0.8532 | Head Macro F1 (10 classes): 0.8977 | Tail Macro F1 (67 classes): 0.8465 | Accuracy: 0.8565
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_33.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_33.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_33_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_33.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_33.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_33_augmentation_log.txt
+Accepted: 38/38 (Rate: 1.00)
+Synthetic added: 38
+Labeled size after synthetic: 2717
+
+--- Iteration 34 ---
+Performance Summary | Macro F1: 0.8551 | Head Macro F1 (10 classes): 0.8948 | Tail Macro F1 (67 classes): 0.8492 | Accuracy: 0.8597
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_34.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_34.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_34_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_34.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_34.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_34_augmentation_log.txt
+Accepted: 38/40 (Rate: 0.95)
+Synthetic added: 38
+Labeled size after synthetic: 2795
+
+--- Iteration 35 ---
+Performance Summary | Macro F1: 0.8628 | Head Macro F1 (10 classes): 0.8934 | Tail Macro F1 (67 classes): 0.8583 | Accuracy: 0.8669
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_35.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_35.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_35_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_35.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_35.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_35_augmentation_log.txt
+Accepted: 31/34 (Rate: 0.91)
+Synthetic added: 31
+Labeled size after synthetic: 2866
+
+--- Iteration 36 ---
+Performance Summary | Macro F1: 0.8713 | Head Macro F1 (10 classes): 0.8993 | Tail Macro F1 (67 classes): 0.8672 | Accuracy: 0.8734
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_36.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_36.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_36_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_36.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_36.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_36_augmentation_log.txt
+Accepted: 33/34 (Rate: 0.97)
+Synthetic added: 33
+Labeled size after synthetic: 2939
+
+--- Iteration 37 ---
+Performance Summary | Macro F1: 0.8714 | Head Macro F1 (10 classes): 0.8997 | Tail Macro F1 (67 classes): 0.8672 | Accuracy: 0.8740
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_37.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_37.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_37_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_37.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_37.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_37_augmentation_log.txt
+Accepted: 34/35 (Rate: 0.97)
+Synthetic added: 34
+Labeled size after synthetic: 3013
+
+--- Iteration 38 ---
+Performance Summary | Macro F1: 0.8723 | Head Macro F1 (10 classes): 0.9035 | Tail Macro F1 (67 classes): 0.8677 | Accuracy: 0.8747
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_38.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_38.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_38_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_38.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_38.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_38_augmentation_log.txt
+Accepted: 36/39 (Rate: 0.92)
+Synthetic added: 36
+Labeled size after synthetic: 3089
+
+--- Iteration 39 ---
+Performance Summary | Macro F1: 0.8709 | Head Macro F1 (10 classes): 0.9001 | Tail Macro F1 (67 classes): 0.8665 | Accuracy: 0.8734
+
+[Stopping Auto-Triggered by Plateau]
+  Reason: Macro F1 and Tail F1 showed limited improvement for the last 3 consecutive iterations.
+  Recent Macro F1 deltas: [0.000106, 0.000894, -0.001444]
+  Recent Tail F1 deltas: [6.6e-05, 0.000465, -0.001154]
+  min_delta: 0.005, patience: 3
+*** [Ghost Tracking] Plateau stopping triggered at Iteration 39. Continuing to max iterations. ***
+Running generator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_generate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_input_round_39.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/generate_output_round_39.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_39_augmentation_log.txt
+Running validator subprocess: /usr/bin/python3 /root/paper/BANKING/llm_validate_worker.py --input-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_input_round_39.json --output-json /root/paper/BANKING/head_tail_split_robuse/20260603_065113/llm_io/validate_output_round_39.json --log-file /root/paper/BANKING/head_tail_split_robuse/20260603_065113/generate_verify_round_39_augmentation_log.txt
+Accepted: 36/36 (Rate: 1.00)
+Synthetic added: 36
+Labeled size after synthetic: 3165
+
+--- Iteration 40 ---
+Performance Summary | Macro F1: 0.8728 | Head Macro F1 (10 classes): 0.9136 | Tail Macro F1 (67 classes): 0.8667 | Accuracy: 0.8760
+Saved f1 curve: /root/paper/BANKING/head_tail_split_robuse/20260603_065113/f1_curve_20260603_065113.png
+Saved tail_f1 curve: /root/paper/BANKING/head_tail_split_robuse/20260603_065113/tail_f1_curve_20260603_065113.png
+Saved Head/Tail comparison: /root/paper/BANKING/head_tail_split_robuse/20260603_065113/head_tail_f1_comparison_20260603_065113.png
+Saved confusion matrix comparison: /root/paper/BANKING/head_tail_split_robuse/20260603_065113/confusion_matrix_comparison_20260603_065113.png
+
+================================================================================
+PLATEAU-AWARE SAVING SUMMARY
+================================================================================
+          Framework  Plateau_Stop_Iteration  Saved_Iterations  Stop_Macro_F1  Stop_Tail_F1  Final_Macro_F1  Final_Tail_F1  Macro_F1_Gap_To_Final  Tail_F1_Gap_To_Final  Saved_Query_Labels  Saved_Generation_Requests  Saved_Valid_Generated  Saved_Verification_Requests  Saved_Synthetic_Accepted
+            Passive                      32                 8       0.697761      0.687193        0.744145       0.734490               0.046383              0.047297                 320                          0                      0                            0                         0
+             Active                      34                 6       0.765584      0.755347        0.825515       0.819772               0.059931              0.064425                 240                          0                      0                            0                         0
+      Generate-only                      40                 0       0.880943      0.876431        0.880943       0.876431               0.000000              0.000000                   0                          0                      0                            0                         0
+Generate-and-Verify                      39                 1       0.870894      0.866535        0.872789       0.866704               0.001895              0.000169                  40                         40                     36                           36                        36
+
+Saved plateau saving table: /root/paper/BANKING/head_tail_split_robuse/20260603_065113/plateau_saving_table_20260603_065113.csv
+
+================================================================================
+FRAMEWORK COMPARISON SUMMARY
+================================================================================
+          Framework  Macro_F1  Weighted_F1  Accuracy  Head_F1  Tail_F1  Plateau_Stop_Iteration
+            Passive  0.744145     0.744145  0.775974 0.808827 0.734490                      32
+             Active  0.825515     0.825515  0.834416 0.863990 0.819772                      34
+      Generate-only  0.880943     0.880943  0.881818 0.911178 0.876431                      40
+Generate-and-Verify  0.872789     0.872789  0.875974 0.913558 0.866704                      39
+
+Saved: /root/paper/BANKING/head_tail_split_robuse/20260603_065113/metrics_table_Banking77_Refactored_20260603_065113.csv
+
+=== Experimental Run Completed ===
+Final Generate-and-Verify Macro F1: 0.8728
+Final Generate-and-Verify Head Macro F1: 0.9136
+Final Generate-and-Verify Tail Macro F1: 0.8667

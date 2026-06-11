@@ -1,0 +1,69 @@
+GEN | [receiving_money] | Orig: Will my GPB update my salary -> Aug: Will my account reflect my latest paycheck?
+GEN | [edit_personal_details] | Orig: My address is incorrect on my file. -> Aug: My personal details, specifically my address, are inaccurate in your records.
+GEN | [exchange_charge] | Orig: Would you be able to offer me a discount, since I need to exchange currencies frequently? -> Aug: Could you provide a discount for me, as I regularly need to exchange currencies?
+GEN | [exchange_charge] | Orig: Do you offer a discount for those who perform frequent currency exchanges? -> Aug: Are there any special deals or promotions available for customers who regularly exchange currencies?
+GEN | [direct_debit_payment_not_recognised] | Orig: If I found an error in my account for a transaction I didn't make, how long to I have to dispute it? -> Aug: We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?
+GEN | [extra_charge_on_statement] | Orig: I was made to pay an additional pound! -> Aug: I was unexpectedly charged an extra amount on my statement.
+GEN | [compromised_card] | Orig: My card was stolen and used to make several purchases. Please freeze my card so no one can use it. -> Aug: My credit card was compromised and unauthorized transactions were made. I need you to temporarily suspend my card to prevent further misuse.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: I can still see money in my account after making a payment -> Aug: I can see the funds in my account, but the balance hasn't been updated after I made a transfer.
+GEN | [get_physical_card] | Orig: I signed up, but don't have a PIN. Where can I find it? -> Aug: I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?
+GEN | [card_swallowed] | Orig: What should I do if the atm eats my card? -> Aug: If my card gets sucked into the ATM, what should I do next?
+GEN | [reverted_card_payment?] | Orig: HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it? -> Aug: Why was the payment made to my account if the seller claims they haven't received it? Can you clarify when the payment will be reversed?
+GEN | [card_swallowed] | Orig: An ATM swallowed my credit card! -> Aug: The ATM seems to have devoured my credit card.
+GEN | [card_swallowed] | Orig: how to get new card after atm eats it -> Aug: what to do if my card got swallowed by the ATM and I need a replacement
+GEN | [card_payment_wrong_exchange_rate] | Orig: What is your exchange rate between UK pounds and Russian rubles for my last transaction -> Aug: What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?
+GEN | [exchange_via_app] | Orig: What do I need to do to exchange my money? -> Aug: To initiate a currency exchange, what are the steps I need to take using the app?
+GEN | [atm_support] | Orig: What locations can I get money from? -> Aug: Where can I withdraw cash from an ATM or a bank branch?
+GEN | [transfer_not_received_by_recipient] | Orig: The app isn't showing my transactions -> Aug: The app is not displaying my recent transactions
+GEN | [card_swallowed] | Orig: My card was eaten by the cash machine what do I do? -> Aug: My card seems to have been swallowed by the ATM, what should I do now?
+GEN | [fiat_currency_support] | Orig: Will you be adding more currencies in the future? -> Aug: Are there any plans to expand the list of supported fiat currencies in the future?
+GEN | [card_swallowed] | Orig: I have lost my credit card in the ATM! -> Aug: I accidentally left my credit card in the ATM machine.
+GEN | [card_about_to_expire] | Orig: Are there restrictions on new cards in China? -> Aug: Are there any limitations on issuing new cards in China?
+GEN | [receiving_money] | Orig: Do you support direct deposits from my employer? -> Aug: Can you accept direct deposits from my employer's payroll department?
+GEN | [cash_withdrawal_not_recognised] | Orig: THere is some cash that is showing up on my app. -> Aug: There's an unexpected cash amount appearing on my account.
+GEN | [extra_charge_on_statement] | Orig: I wanted to know about a pending dollar that is on my statement. -> Aug: I'd like to inquire about an additional charge that appears on my latest statement.
+GEN | [topping_up_by_card] | Orig: How do I to up by card? -> Aug: How can I add funds to my account using my card?
+GEN | [order_physical_card] | Orig: What do I do to get ahold of my own card? -> Aug: How can I obtain my physical credit card?
+GEN | [change_pin] | Orig: I can't freeze my account as I need the card as I am traveling, how do I change my pin? -> Aug: I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?
+GEN | [top_up_by_cash_or_cheque] | Orig: Do you accept cash? -> Aug: Can you make a cash deposit or pay by cheque?
+GEN | [get_physical_card] | Orig: my pin hasn't arrived in the post! How do I cancel it or get a new one? -> Aug: My physical card has not been delivered. Can I request a new one or cancel the existing order?
+GEN | [top_up_by_cash_or_cheque] | Orig: how can i add money to my account if you don't accept cash -> Aug: Can I deposit funds into my account if you don't accept cash?
+GEN | [card_payment_wrong_exchange_rate] | Orig: Does the fee for exchange change? -> Aug: Is the exchange rate fee subject to change?
+GEN | [transfer_not_received_by_recipient] | Orig: I do not know where the transaction is. -> Aug: I'm not aware of the status of the transfer.
+GEN | [top_up_by_cash_or_cheque] | Orig: I can't find how to top up my account with a check.  Where is that? -> Aug: You're looking for the option to replenish your account balance using a check. Can you please let me guide you on how to do that?
+GEN | [card_arrival] | Orig: I don't have my card after 1 week. What are my next steps? -> Aug: I haven't received my card yet, and it's been a week. What should I do now?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Will my GPB update my salary | Augmented: Will my account reflect my latest paycheck?
+VAL | [edit_personal_details] | ACCEPT | Reason: The augmented text maintains the intent of correcting an error in personal details, specifically the address. | Original: My address is incorrect on my file. | Augmented: My personal details, specifically my address, are inaccurate in your records.
+VAL | [exchange_charge] | ACCEPT | Reason: ... | Original: Would you be able to offer me a discount, since I need to exchange currencies frequently? | Augmented: Could you provide a discount for me, as I regularly need to exchange currencies?
+VAL | [exchange_charge] | ACCEPT | Reason: N/A | Original: Do you offer a discount for those who perform frequent currency exchanges? | Augmented: Are there any special deals or promotions available for customers who regularly exchange currencies?
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: N/A | Original: If I found an error in my account for a transaction I didn't make, how long to I have to dispute it? | Augmented: We've noticed a direct debit payment that doesn't match your account records. Can you please let us know how long you'd like to dispute this transaction?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: ... | Original: I was made to pay an additional pound! | Augmented: I was unexpectedly charged an extra amount on my statement.
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: My card was stolen and used to make several purchases. Please freeze my card so no one can use it. | Augmented: My credit card was compromised and unauthorized transactions were made. I need you to temporarily suspend my card to prevent further misuse.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: The augmented text preserves the same banking intent by indicating that the user can see the funds but the balance is not being updated, which matches the original intent. | Original: I can still see money in my account after making a payment | Augmented: I can see the funds in my account, but the balance hasn't been updated after I made a transfer.
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: I signed up, but don't have a PIN. Where can I find it? | Augmented: I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: What should I do if the atm eats my card? | Augmented: If my card gets sucked into the ATM, what should I do next?
+VAL | [reverted_card_payment?] | ACCEPT | Reason: N/A | Original: HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it? | Augmented: Why was the payment made to my account if the seller claims they haven't received it? Can you clarify when the payment will be reversed?
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: An ATM swallowed my credit card! | Augmented: The ATM seems to have devoured my credit card.
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: how to get new card after atm eats it | Augmented: what to do if my card got swallowed by the ATM and I need a replacement
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: N/A | Original: What is your exchange rate between UK pounds and Russian rubles for my last transaction | Augmented: What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?
+VAL | [exchange_via_app] | ACCEPT | Reason: ... | Original: What do I need to do to exchange my money? | Augmented: To initiate a currency exchange, what are the steps I need to take using the app?
+VAL | [atm_support] | ACCEPT | Reason: N/A | Original: What locations can I get money from? | Augmented: Where can I withdraw cash from an ATM or a bank branch?
+VAL | [transfer_not_received_by_recipient] | UNKNOWN | Reason: N/A | Original: The app isn't showing my transactions | Augmented: The app is not displaying my recent transactions
+VAL | [card_swallowed] | ACCEPT | Reason: The augmented text maintains the same intent of a card being swallowed by a machine and needing guidance on what to do next. | Original: My card was eaten by the cash machine what do I do? | Augmented: My card seems to have been swallowed by the ATM, what should I do now?
+VAL | [fiat_currency_support] | ACCEPT | Reason: N/A | Original: Will you be adding more currencies in the future? | Augmented: Are there any plans to expand the list of supported fiat currencies in the future?
+VAL | [card_swallowed] | ACCEPT | Reason: ... | Original: I have lost my credit card in the ATM! | Augmented: I accidentally left my credit card in the ATM machine.
+VAL | [card_about_to_expire] | REVIEW | Reason: N/A | Original: Are there restrictions on new cards in China? | Augmented: Are there any limitations on issuing new cards in China?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: Do you support direct deposits from my employer? | Augmented: Can you accept direct deposits from my employer's payroll department?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: THere is some cash that is showing up on my app. | Augmented: There's an unexpected cash amount appearing on my account.
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: I wanted to know about a pending dollar that is on my statement. | Augmented: I'd like to inquire about an additional charge that appears on my latest statement.
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: How do I to up by card? | Augmented: How can I add funds to my account using my card?
+VAL | [order_physical_card] | ACCEPT | Reason: Both texts are seeking information on how to obtain a physical card, which is consistent with the target intent. | Original: What do I do to get ahold of my own card? | Augmented: How can I obtain my physical credit card?
+VAL | [change_pin] | ACCEPT | Reason: N/A | Original: I can't freeze my account as I need the card as I am traveling, how do I change my pin? | Augmented: I'm planning a trip and need to keep my account active, can you guide me on how to modify my PIN code?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: Do you accept cash? | Augmented: Can you make a cash deposit or pay by cheque?
+VAL | [get_physical_card] | ACCEPT | Reason: N/A | Original: my pin hasn't arrived in the post! How do I cancel it or get a new one? | Augmented: My physical card has not been delivered. Can I request a new one or cancel the existing order?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: how can i add money to my account if you don't accept cash | Augmented: Can I deposit funds into my account if you don't accept cash?
+VAL | [card_payment_wrong_exchange_rate] | REVIEW | Reason: N/A | Original: Does the fee for exchange change? | Augmented: Is the exchange rate fee subject to change?
+VAL | [transfer_not_received_by_recipient] | ACCEPT | Reason: N/A | Original: I do not know where the transaction is. | Augmented: I'm not aware of the status of the transfer.
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: I can't find how to top up my account with a check.  Where is that? | Augmented: You're looking for the option to replenish your account balance using a check. Can you please let me guide you on how to do that?
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: I don't have my card after 1 week. What are my next steps? | Augmented: I haven't received my card yet, and it's been a week. What should I do now?
+VAL_SUMMARY | ACCEPT: 31 | REVIEW: 2 | REJECT: 0 | UNKNOWN: 1 | Accept Rate: 0.9118

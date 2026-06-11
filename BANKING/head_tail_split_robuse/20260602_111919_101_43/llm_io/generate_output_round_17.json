@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I'm having trouble finding the automatic top-up feature, can you help me locate it?",
+    "I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?",
+    "I was charged a fee for using my card to make the payment.",
+    "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?",
+    "The system is unable to confirm your identity.",
+    "I'm trying to transfer funds to my account, but it's not possible.",
+    "Can I receive the physical card separately?",
+    "My cash withdrawal was declined at the ATM in Notting Hill, and I'm wondering if there's an issue with my card.",
+    "The system is unable to confirm that the user is the account holder.",
+    "The system is unable to confirm your identity through our usual verification methods.",
+    "What methods are available for depositing funds into my account using my American Express card?",
+    "Why is my pending top-up for my new account not processed immediately?",
+    "I shouldn't be charged a fee if my credit card was stolen.",
+    "I mistakenly selected the wrong account.",
+    "I'm reviewing my account activity and noticed an unexpected direct debit payment. I'm certain I didn't initiate the transaction, so I'd appreciate it if you could investigate and reverse the charge, restoring the funds to my account.",
+    "I attempted to withdraw cash using my ATM card at your Notting Hill branch, but it was unsuccessful. Is there an issue with my card or the machine?",
+    "Google Pay is not recognizing my American Express card, can you help me resolve this issue?",
+    "My account is running low. Can you tell me how I can deposit funds into my account?",
+    "I attempted to make a cash withdrawal at an ATM in Notting Hill using my card, but it was unsuccessful. This is my first attempt to use it. Is my card functional?",
+    "If I notice suspicious activity on my compromised card, what steps should I take?",
+    "We're having trouble confirming your identity through our system.",
+    "I need assistance from your customer service team to activate my card.",
+    "I'm trying to understand the fee policy for my account. I've noticed that I've been charged fees for certain transactions, but not for others, and I'm having trouble identifying a pattern. Can you help me understand the fee structure?",
+    "What steps can I take to extend the validity of my card?",
+    "I require assistance with topping up my account using cash.",
+    "There's an unexpected cash withdrawal showing up on my account.",
+    "The transfer to a designated recipient was not permitted; is there an alternative method I can use to complete the transaction?",
+    "What steps can I take to verify the security settings on my card through the mobile app?",
+    "I'm still waiting to receive my physical card. Can you help me with that?",
+    "I haven't received the transfer yet.",
+    "What charges can I anticipate when ordering a physical card from your institution?",
+    "I require guidance on the maximum amount I can increase my limits.",
+    "We're having trouble confirming your account information.",
+    "I'm still waiting for my physical card. Can I obtain it from your end?",
+    "The recipient's account does not show the transferred funds.",
+    "I made an online purchase and noticed that a transfer fee was deducted from the transaction. Shouldn't this be a free service?"
+  ],
+  "generated_labels": [
+    4,
+    38,
+    15,
+    2,
+    68,
+    7,
+    38,
+    26,
+    68,
+    68,
+    54,
+    47,
+    41,
+    8,
+    28,
+    26,
+    2,
+    65,
+    26,
+    22,
+    68,
+    0,
+    15,
+    9,
+    58,
+    20,
+    7,
+    14,
+    38,
+    66,
+    43,
+    60,
+    68,
+    38,
+    66,
+    64
+  ],
+  "source_texts": [
+    "I know there's an auto-top option but I can not locate it when I look?",
+    "I signed up, but don't have a PIN. Where can I find it?",
+    "I had to pay money for paying with my card.",
+    "what can I do if I got my American Express in Apple Bay but top up is not working?",
+    "The app doesn't believe its me.",
+    "I need to transfer to my account and cant.",
+    "Is the PIN sent in another message?",
+    "My card didn't work at the ATM in Notting Hill.  Is my card working?",
+    "The app is not able to realize that it is me.",
+    "The app doesn't believe that I am myself",
+    "How can I get funds into my account from my American Express?",
+    "Why is  my  top  up for  my  new account  not  instant",
+    "A fee shouldn't apply to me if my card was stolen.",
+    "I used the wrong account.",
+    "I was checking the app for my account and I noticed there is an authorized charge on it.  I haven't used my card today, so I know I didn't do it.  I would like the transaction reversed and the money replaced.",
+    "I tried using my ATM card at your Notting Hill location today.  It did not work.  Am I doing something wrong?",
+    "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+    "My money is all gone. What ways are okay to add money to my account?",
+    "I tried to use my card to withdrawal money from the ATM in Notting Hill but it didn't work. This is the first time I've tried using it. Is my card working?",
+    "What do I do if I detect fraudulent use on my car?",
+    "The app doesn't think it's me.",
+    "I would like to get help from someone in your customer service department with assisting me with activating my card.",
+    "Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees.",
+    "How do I get a new expiration date?",
+    "I need a hand here, I need to top up cash.",
+    "Some cash shows up on my app.",
+    "the transfer to an account wasn't allowed is there any other way for me to do it",
+    "How do I check security settings using the app?",
+    "I didn't get a PIN yet. What gives?",
+    "wheres my money receipt",
+    "Can you tell me exactly what fees I will expect to see in regards to your cards?",
+    "I need someone to assist me with explaining how much I can top-up.",
+    "Problem verifying my account",
+    "I haven't received my PIN yet. Do I need to get it from you?",
+    "Money is not in recipients account.",
+    "I bought something online and it says there was a fee to transfer money. Isn't that free?"
+  ],
+  "records": [
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I know there's an auto-top option but I can not locate it when I look?",
+      "generated": "I'm having trouble finding the automatic top-up feature, can you help me locate it?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I signed up, but don't have a PIN. Where can I find it?",
+      "generated": "I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I had to pay money for paying with my card.",
+      "generated": "I was charged a fee for using my card to make the payment."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "what can I do if I got my American Express in Apple Bay but top up is not working?",
+      "generated": "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't believe its me.",
+      "generated": "The system is unable to confirm your identity."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I need to transfer to my account and cant.",
+      "generated": "I'm trying to transfer funds to my account, but it's not possible."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Is the PIN sent in another message?",
+      "generated": "Can I receive the physical card separately?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "My card didn't work at the ATM in Notting Hill.  Is my card working?",
+      "generated": "My cash withdrawal was declined at the ATM in Notting Hill, and I'm wondering if there's an issue with my card."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app is not able to realize that it is me.",
+      "generated": "The system is unable to confirm that the user is the account holder."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't believe that I am myself",
+      "generated": "The system is unable to confirm your identity through our usual verification methods."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "How can I get funds into my account from my American Express?",
+      "generated": "What methods are available for depositing funds into my account using my American Express card?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Why is  my  top  up for  my  new account  not  instant",
+      "generated": "Why is my pending top-up for my new account not processed immediately?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "A fee shouldn't apply to me if my card was stolen.",
+      "generated": "I shouldn't be charged a fee if my credit card was stolen."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I used the wrong account.",
+      "generated": "I mistakenly selected the wrong account."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I was checking the app for my account and I noticed there is an authorized charge on it.  I haven't used my card today, so I know I didn't do it.  I would like the transaction reversed and the money replaced.",
+      "generated": "I'm reviewing my account activity and noticed an unexpected direct debit payment. I'm certain I didn't initiate the transaction, so I'd appreciate it if you could investigate and reverse the charge, restoring the funds to my account."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I tried using my ATM card at your Notting Hill location today.  It did not work.  Am I doing something wrong?",
+      "generated": "I attempted to withdraw cash using my ATM card at your Notting Hill branch, but it was unsuccessful. Is there an issue with my card or the machine?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+      "generated": "Google Pay is not recognizing my American Express card, can you help me resolve this issue?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "My money is all gone. What ways are okay to add money to my account?",
+      "generated": "My account is running low. Can you tell me how I can deposit funds into my account?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I tried to use my card to withdrawal money from the ATM in Notting Hill but it didn't work. This is the first time I've tried using it. Is my card working?",
+      "generated": "I attempted to make a cash withdrawal at an ATM in Notting Hill using my card, but it was unsuccessful. This is my first attempt to use it. Is my card functional?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What do I do if I detect fraudulent use on my car?",
+      "generated": "If I notice suspicious activity on my compromised card, what steps should I take?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't think it's me.",
+      "generated": "We're having trouble confirming your identity through our system."
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I would like to get help from someone in your customer service department with assisting me with activating my card.",
+      "generated": "I need assistance from your customer service team to activate my card."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees.",
+      "generated": "I'm trying to understand the fee policy for my account. I've noticed that I've been charged fees for certain transactions, but not for others, and I'm having trouble identifying a pattern. Can you help me understand the fee structure?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How do I get a new expiration date?",
+      "generated": "What steps can I take to extend the validity of my card?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I need a hand here, I need to top up cash.",
+      "generated": "I require assistance with topping up my account using cash."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Some cash shows up on my app.",
+      "generated": "There's an unexpected cash withdrawal showing up on my account."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "the transfer to an account wasn't allowed is there any other way for me to do it",
+      "generated": "The transfer to a designated recipient was not permitted; is there an alternative method I can use to complete the transaction?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I check security settings using the app?",
+      "generated": "What steps can I take to verify the security settings on my card through the mobile app?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I didn't get a PIN yet. What gives?",
+      "generated": "I'm still waiting to receive my physical card. Can you help me with that?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "wheres my money receipt",
+      "generated": "I haven't received the transfer yet."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can you tell me exactly what fees I will expect to see in regards to your cards?",
+      "generated": "What charges can I anticipate when ordering a physical card from your institution?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "I need someone to assist me with explaining how much I can top-up.",
+      "generated": "I require guidance on the maximum amount I can increase my limits."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "Problem verifying my account",
+      "generated": "We're having trouble confirming your account information."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I haven't received my PIN yet. Do I need to get it from you?",
+      "generated": "I'm still waiting for my physical card. Can I obtain it from your end?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Money is not in recipients account.",
+      "generated": "The recipient's account does not show the transferred funds."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I bought something online and it says there was a fee to transfer money. Isn't that free?",
+      "generated": "I made an online purchase and noticed that a transfer fee was deducted from the transaction. Shouldn't this be a free service?"
+    }
+  ]
+}

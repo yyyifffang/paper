@@ -1,0 +1,75 @@
+GEN | [verify_source_of_funds] | Orig: how do i track the moeney -> Aug: Can you please clarify how I can confirm the origin of the funds?
+GEN | [why_verify_identity] | Orig: Why do I have to give you my drivers license -> Aug: We're verifying your identity to ensure the security and integrity of your account.
+GEN | [country_support] | Orig: Who gets support? -> Aug: Who is eligible for assistance?
+GEN | [wrong_amount_of_cash_received] | Orig: The machine only paid me a hundred when I wanted 20 -> Aug: The machine gave me a hundred dollars, but I was expecting twenty.
+GEN | [card_about_to_expire] | Orig: How do I get a new expiration date? -> Aug: What steps can I take to extend the validity of my card?
+GEN | [extra_charge_on_statement] | Orig: The $1.00 has still not been reverted as indicated in the previous email. -> Aug: The amount of $1.00 remains outstanding, as previously mentioned in our previous communication.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I thought I was going to receive more currency? -> Aug: I expected a better exchange rate for my cash withdrawal.
+GEN | [verify_my_identity] | Orig: why do I need to show ID -> Aug: what's the purpose of verifying my identity
+GEN | [card_payment_fee_charged] | Orig: How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info. -> Aug: Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.
+GEN | [top_up_by_bank_transfer_charge] | Orig: What does it cost to receive a SEPA transfer? -> Aug: What is the charge for receiving a bank transfer via SEPA?
+GEN | [card_arrival] | Orig: Was there a way for me to get tracking for that? -> Aug: Could you please provide me with tracking information for my card arrival?
+GEN | [atm_support] | Orig: I need an ATM right now! -> Aug: I urgently require access to an ATM.
+GEN | [wrong_amount_of_cash_received] | Orig: why did i only get 20.00 -> Aug: I was expecting a larger amount, but I only received $20.00.
+GEN | [automatic_top_up] | Orig: Will the system automatically update once there is no more money left? -> Aug: Will the automatic top-up feature trigger a refill when my account balance reaches zero?
+GEN | [atm_support] | Orig: How do I know it is a Mastercard ATM? -> Aug: What are the ways to identify a Mastercard ATM?
+GEN | [contactless_not_working] | Orig: Why wasn't my contactless accepted at the metro? -> Aug: Why did my contactless payment fail to work at the metro station?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: what are weekend rates for getting cash -> Aug: what is the exchange rate for a cash withdrawal on a weekend?
+GEN | [wrong_amount_of_cash_received] | Orig: Did a WD earlier at an ATM.  The amount showing in the App is more than I got though. -> Aug: I made a withdrawal at an ATM, but the amount reflected in the app is not what I actually received.
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I fill up my gas tank using a check? -> Aug: How can I replenish my account balance using a cheque or cash?
+GEN | [topping_up_by_card] | Orig: What information am I going to have to have in order to do a transfer with my card? -> Aug: What details do I need to provide to complete a card-based transfer?
+GEN | [pending_cash_withdrawal] | Orig: I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make. -> Aug: I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction appears to be pending, and I'm concerned that I might be charged for a transaction I didn't authorize.
+GEN | [declined_card_payment] | Orig: Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working. -> Aug: I'm having trouble using my new card to make payments, and it keeps getting declined. I've tried to use it multiple times to pay for gas at the Shell station near my home, but it's not working. I'm really frustrated about this issue with my new card.
+GEN | [verify_top_up] | Orig: How many digits identify the top-up verification code? -> Aug: What is the length of the top-up verification code?
+GEN | [visa_or_mastercard] | Orig: This transaction needs both a Visa and a Mastercard. -> Aug: This transaction requires both a Visa and a Mastercard.
+GEN | [pending_top_up] | Orig: Can you tell me why my pop-up is still pending? -> Aug: Can you explain why my top-up request is still pending?
+GEN | [why_verify_identity] | Orig: Why are you asking so many questions about me? -> Aug: We're verifying your identity to ensure the security and integrity of your account.
+GEN | [card_arrival] | Orig: I thought I would have received my new card at this point. -> Aug: I expected my new card to arrive by now.
+GEN | [declined_card_payment] | Orig: I couldn't pay with card in a shop -> Aug: The payment using my card was not accepted in the store.
+GEN | [age_limit] | Orig: What about my children? -> Aug: What about my minors?
+GEN | [top_up_by_bank_transfer_charge] | Orig: What are the charges for recieving SEPA transfers? -> Aug: What are the fees for receiving bank transfers via SEPA?
+GEN | [verify_top_up] | Orig: Verifying the top-up seems like a hassle. -> Aug: Confirming the top-up process appears to be a bit of a chore.
+GEN | [card_payment_fee_charged] | Orig: how do i avoid charges in the future -> Aug: what can I do to prevent being charged a fee on my card in the future?
+GEN | [exchange_charge] | Orig: Do I have to pay more for exchanges? -> Aug: Are there additional fees for exchanging funds?
+GEN | [lost_or_stolen_card] | Orig: Has there been any activity on my card today? -> Aug: Has there been any recent use or transactions on my card?
+GEN | [get_physical_card] | Orig: Is the PIN sent in another message? -> Aug: Can I receive the physical card separately?
+GEN | [receiving_money] | Orig: How do I know what my account is set to, I am paid in GBP? -> Aug: How can I confirm my account's default currency, as I receive payments in British Pounds?
+GEN | [verify_top_up] | Orig: I don't see the verification code for my card transfer. -> Aug: I'm having trouble finding the verification code for my recent top-up.
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: how do i track the moeney | Augmented: Can you please clarify how I can confirm the origin of the funds?
+VAL | [why_verify_identity] | UNKNOWN | Reason: N/A | Original: Why do I have to give you my drivers license | Augmented: We're verifying your identity to ensure the security and integrity of your account.
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: Who gets support? | Augmented: Who is eligible for assistance?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: The machine only paid me a hundred when I wanted 20 | Augmented: The machine gave me a hundred dollars, but I was expecting twenty.
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: How do I get a new expiration date? | Augmented: What steps can I take to extend the validity of my card?
+VAL | [extra_charge_on_statement] | ACCEPT | Reason: N/A | Original: The $1.00 has still not been reverted as indicated in the previous email. | Augmented: The amount of $1.00 remains outstanding, as previously mentioned in our previous communication.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | ACCEPT | Reason: N/A | Original: I thought I was going to receive more currency? | Augmented: I expected a better exchange rate for my cash withdrawal.
+VAL | [verify_my_identity] | REVIEW | Reason: N/A | Original: why do I need to show ID | Augmented: what's the purpose of verifying my identity
+VAL | [card_payment_fee_charged] | UNKNOWN | Reason: N/A | Original: How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info. | Augmented: Can you help me find out how much I have available for spending? I'm planning some significant transactions and need to know where to check for the remaining balance.
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: What does it cost to receive a SEPA transfer? | Augmented: What is the charge for receiving a bank transfer via SEPA?
+VAL | [card_arrival] | ACCEPT | Reason: N/A | Original: Was there a way for me to get tracking for that? | Augmented: Could you please provide me with tracking information for my card arrival?
+VAL | [atm_support] | ACCEPT | Reason: ... | Original: I need an ATM right now! | Augmented: I urgently require access to an ATM.
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: why did i only get 20.00 | Augmented: I was expecting a larger amount, but I only received $20.00.
+VAL | [automatic_top_up] | ACCEPT | Reason: N/A | Original: Will the system automatically update once there is no more money left? | Augmented: Will the automatic top-up feature trigger a refill when my account balance reaches zero?
+VAL | [atm_support] | ACCEPT | Reason: The augmented text preserves the same banking intent of seeking information on how to identify a Mastercard ATM. It does not add any unsupported information or become ambiguous. The intent remains focused on the target intent of 'atm_support'. | Original: How do I know it is a Mastercard ATM? | Augmented: What are the ways to identify a Mastercard ATM?
+VAL | [contactless_not_working] | ACCEPT | Reason: ... | Original: Why wasn't my contactless accepted at the metro? | Augmented: Why did my contactless payment fail to work at the metro station?
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | UNKNOWN | Reason: N/A | Original: what are weekend rates for getting cash | Augmented: what is the exchange rate for a cash withdrawal on a weekend?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: Did a WD earlier at an ATM.  The amount showing in the App is more than I got though. | Augmented: I made a withdrawal at an ATM, but the amount reflected in the app is not what I actually received.
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: N/A | Original: How can I fill up my gas tank using a check? | Augmented: How can I replenish my account balance using a cheque or cash?
+VAL | [topping_up_by_card] | ACCEPT | Reason: N/A | Original: What information am I going to have to have in order to do a transfer with my card? | Augmented: What details do I need to provide to complete a card-based transfer?
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: The augmented text preserves the intent of a pending cash withdrawal and the user's concern about the transaction status and potential unauthorized charges. There are no contradictions or unsupported details. | Original: I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make. | Augmented: I attempted to initiate a cash withdrawal, but the ATM malfunctioned. The transaction appears to be pending, and I'm concerned that I might be charged for a transaction I didn't authorize.
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working. | Augmented: I'm having trouble using my new card to make payments, and it keeps getting declined. I've tried to use it multiple times to pay for gas at the Shell station near my home, but it's not working. I'm really frustrated about this issue with my new card.
+VAL | [verify_top_up] | ACCEPT | Reason: N/A | Original: How many digits identify the top-up verification code? | Augmented: What is the length of the top-up verification code?
+VAL | [visa_or_mastercard] | ACCEPT | Reason: ... | Original: This transaction needs both a Visa and a Mastercard. | Augmented: This transaction requires both a Visa and a Mastercard.
+VAL | [pending_top_up] | ACCEPT | Reason: ... | Original: Can you tell me why my pop-up is still pending? | Augmented: Can you explain why my top-up request is still pending?
+VAL | [why_verify_identity] | ACCEPT | Reason: N/A | Original: Why are you asking so many questions about me? | Augmented: We're verifying your identity to ensure the security and integrity of your account.
+VAL | [card_arrival] | ACCEPT | Reason: ... | Original: I thought I would have received my new card at this point. | Augmented: I expected my new card to arrive by now.
+VAL | [declined_card_payment] | ACCEPT | Reason: ... | Original: I couldn't pay with card in a shop | Augmented: The payment using my card was not accepted in the store.
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: What about my children? | Augmented: What about my minors?
+VAL | [top_up_by_bank_transfer_charge] | ACCEPT | Reason: N/A | Original: What are the charges for recieving SEPA transfers? | Augmented: What are the fees for receiving bank transfers via SEPA?
+VAL | [verify_top_up] | ACCEPT | Reason: ... | Original: Verifying the top-up seems like a hassle. | Augmented: Confirming the top-up process appears to be a bit of a chore.
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: N/A | Original: how do i avoid charges in the future | Augmented: what can I do to prevent being charged a fee on my card in the future?
+VAL | [exchange_charge] | ACCEPT | Reason: N/A | Original: Do I have to pay more for exchanges? | Augmented: Are there additional fees for exchanging funds?
+VAL | [lost_or_stolen_card] | ACCEPT | Reason: N/A | Original: Has there been any activity on my card today? | Augmented: Has there been any recent use or transactions on my card?
+VAL | [get_physical_card] | UNKNOWN | Reason: N/A | Original: Is the PIN sent in another message? | Augmented: Can I receive the physical card separately?
+VAL | [receiving_money] | ACCEPT | Reason: N/A | Original: How do I know what my account is set to, I am paid in GBP? | Augmented: How can I confirm my account's default currency, as I receive payments in British Pounds?
+VAL | [verify_top_up] | ACCEPT | Reason: N/A | Original: I don't see the verification code for my card transfer. | Augmented: I'm having trouble finding the verification code for my recent top-up.
+VAL_SUMMARY | ACCEPT: 32 | REVIEW: 1 | REJECT: 0 | UNKNOWN: 4 | Accept Rate: 0.8649

@@ -1,0 +1,75 @@
+GEN | [getting_spare_card] | Orig: Can my daughter also have a card issued in her name, but linked to my account? -> Aug: Can I request a spare card in my daughter's name, which will be linked to my account?
+GEN | [getting_spare_card] | Orig: I want a new card -> Aug: I need a replacement card
+GEN | [lost_or_stolen_phone] | Orig: Is it possible to access my phone from the hotel/ -> Aug: Can I still access my phone from the hotel?
+GEN | [virtual_card_not_working] | Orig: My virtual card is just not going through. -> Aug: My virtual card is experiencing technical difficulties.
+GEN | [card_about_to_expire] | Orig: What is the cost and time frame of getting a new card? -> Aug: What is the process and timeline for replacing an expiring card?
+GEN | [card_payment_not_recognised] | Orig: I didn't make a payment at this business. -> Aug: We didn't process a payment at this merchant.
+GEN | [card_acceptance] | Orig: Is there a list of where I can use my card? -> Aug: Can you provide me with a list of locations where I can use my card for transactions?
+GEN | [pending_top_up] | Orig: It's been some time since refilled the top-up. -> Aug: It's been a while since the top-up was replenished.
+GEN | [passcode_forgotten] | Orig: I'm locked out of my account as I can't remember my code, what do I do now? -> Aug: I've forgotten my passcode and can't access my account, what should I do to regain access?
+GEN | [pending_cash_withdrawal] | Orig: Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash. -> Aug: Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.
+GEN | [order_physical_card] | Orig: I would like a card please. -> Aug: I'd like to order a physical card.
+GEN | [transfer_fee_charged] | Orig: I usually don't get charged for transfers, why was I this month? -> Aug: I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?
+GEN | [getting_spare_card] | Orig: Do you send duplicate cards? -> Aug: Can you provide a replacement card?
+GEN | [wrong_amount_of_cash_received] | Orig: My cash received does not match what has been requested -> Aug: The amount of cash I received is not what I was expecting.
+GEN | [Refund_not_showing_up] | Orig: Can I check my recent refund in my statement? -> Aug: Can I see my latest refund reflected in my account statement?
+GEN | [country_support] | Orig: I need a new card and I live in the United States. -> Aug: I require a replacement card and I am a resident of the United States.
+GEN | [card_payment_not_recognised] | Orig: Why is there an unknown card payment? -> Aug: We're unable to identify a recognized card payment.
+GEN | [wrong_amount_of_cash_received] | Orig: I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now! -> Aug: I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible.
+GEN | [virtual_card_not_working] | Orig: I can't make purchases with my virtual card. -> Aug: I'm having trouble using my virtual card to make transactions.
+GEN | [declined_card_payment] | Orig: I couldn't pay with my card -> Aug: The payment was not processed due to a card issue.
+GEN | [Refund_not_showing_up] | Orig: Please send my refund now. -> Aug: Please dispatch my refund immediately.
+GEN | [cash_withdrawal_not_recognised] | Orig: I did not get the cash that is showing up in my app. -> Aug: The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.
+GEN | [transfer_fee_charged] | Orig: I think I have an extra transfer charge. -> Aug: I believe I've been incorrectly billed for a transfer fee.
+GEN | [unable_to_verify_identity] | Orig: app malfunctioning, does not know its me -> Aug: We're experiencing technical difficulties, and our system is unable to recognize your identity.
+GEN | [virtual_card_not_working] | Orig: I can't use my virtual disposable card -> Aug: I'm having trouble accessing my virtual prepaid card
+GEN | [getting_spare_card] | Orig: How many different cards can I have for my account? -> Aug: Can I have multiple cards linked to my account?
+GEN | [getting_virtual_card] | Orig: I haven't received my virtual card yet, do yo know why? -> Aug: I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?
+GEN | [getting_spare_card] | Orig: I lost my card and need a new one, will it cost me? -> Aug: I misplaced my card and require a replacement, what's the fee for a new one?
+GEN | [wrong_amount_of_cash_received] | Orig: I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem? -> Aug: I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?
+GEN | [top_up_reverted] | Orig: top up cancellation -> Aug: reversal of a top-up request
+GEN | [top_up_failed] | Orig: I have the funds, why can I not use my top-up? -> Aug: I have sufficient funds, yet I'm unable to complete my top-up.
+GEN | [virtual_card_not_working] | Orig: My disposable virtual card got rejected -> Aug: My temporary virtual card was declined
+GEN | [top_up_by_cash_or_cheque] | Orig: i have been trying to top up my account with a check but it won't work -> Aug: I'm having trouble adding funds to my account using a cheque, but it's not processing.
+GEN | [declined_transfer] | Orig: I wanted to know why my transaction didn't go through. -> Aug: I'm curious about the reason behind the failed transfer.
+GEN | [card_arrival] | Orig: Can the card was sen to me be tracked? -> Aug: Can I track the card that was sent to me?
+GEN | [exchange_rate] | Orig: Does this app have the same exchange rate as third parties? -> Aug: Is the exchange rate offered by this app identical to those provided by other third-party services?
+GEN | [top_up_by_cash_or_cheque] | Orig: I'll send a check to top up my account -> Aug: I'll dispatch a cheque to replenish my account balance
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: Can my daughter also have a card issued in her name, but linked to my account? | Augmented: Can I request a spare card in my daughter's name, which will be linked to my account?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: I want a new card | Augmented: I need a replacement card
+VAL | [lost_or_stolen_phone] | ACCEPT | Reason: N/A | Original: Is it possible to access my phone from the hotel/ | Augmented: Can I still access my phone from the hotel?
+VAL | [virtual_card_not_working] | ACCEPT | Reason: N/A | Original: My virtual card is just not going through. | Augmented: My virtual card is experiencing technical difficulties.
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: What is the cost and time frame of getting a new card? | Augmented: What is the process and timeline for replacing an expiring card?
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: N/A | Original: I didn't make a payment at this business. | Augmented: We didn't process a payment at this merchant.
+VAL | [card_acceptance] | ACCEPT | Reason: The augmented text does not change the intent; it merely rephrases the original question to ask for a list of locations where the card can be used for transactions. | Original: Is there a list of where I can use my card? | Augmented: Can you provide me with a list of locations where I can use my card for transactions?
+VAL | [pending_top_up] | ACCEPT | Reason: N/A | Original: It's been some time since refilled the top-up. | Augmented: It's been a while since the top-up was replenished.
+VAL | [passcode_forgotten] | ACCEPT | Reason: N/A | Original: I'm locked out of my account as I can't remember my code, what do I do now? | Augmented: I've forgotten my passcode and can't access my account, what should I do to regain access?
+VAL | [pending_cash_withdrawal] | ACCEPT | Reason: N/A | Original: Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash. | Augmented: Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.
+VAL | [order_physical_card] | ACCEPT | Reason: N/A | Original: I would like a card please. | Augmented: I'd like to order a physical card.
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: I usually don't get charged for transfers, why was I this month? | Augmented: I'm surprised to see a transfer fee on my statement this month, can you explain why I was charged?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: Do you send duplicate cards? | Augmented: Can you provide a replacement card?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: N/A | Original: My cash received does not match what has been requested | Augmented: The amount of cash I received is not what I was expecting.
+VAL | [Refund_not_showing_up] | ACCEPT | Reason: N/A | Original: Can I check my recent refund in my statement? | Augmented: Can I see my latest refund reflected in my account statement?
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: I need a new card and I live in the United States. | Augmented: I require a replacement card and I am a resident of the United States.
+VAL | [card_payment_not_recognised] | ACCEPT | Reason: ... | Original: Why is there an unknown card payment? | Augmented: We're unable to identify a recognized card payment.
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now! | Augmented: I'm having an issue with the ATM and I'm not sure what to do. I requested £30, but it only dispensed £10. The machine confirmed the transaction, but I'm certain something went wrong and I'd like to resolve this as soon as possible.
+VAL | [virtual_card_not_working] | ACCEPT | Reason: ... | Original: I can't make purchases with my virtual card. | Augmented: I'm having trouble using my virtual card to make transactions.
+VAL | [declined_card_payment] | ACCEPT | Reason: N/A | Original: I couldn't pay with my card | Augmented: The payment was not processed due to a card issue.
+VAL | [Refund_not_showing_up] | ACCEPT | Reason: ... | Original: Please send my refund now. | Augmented: Please dispatch my refund immediately.
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: I did not get the cash that is showing up in my app. | Augmented: The cash withdrawal I'm seeing on my app isn't reflecting in my actual account balance.
+VAL | [transfer_fee_charged] | ACCEPT | Reason: The augmented text maintains the core idea of an extra charge for a transfer, which is consistent with the target intent. It does not introduce any new or unsupported information and remains specific to the banking context of fees. | Original: I think I have an extra transfer charge. | Augmented: I believe I've been incorrectly billed for a transfer fee.
+VAL | [unable_to_verify_identity] | ACCEPT | Reason: N/A | Original: app malfunctioning, does not know its me | Augmented: We're experiencing technical difficulties, and our system is unable to recognize your identity.
+VAL | [virtual_card_not_working] | ACCEPT | Reason: N/A | Original: I can't use my virtual disposable card | Augmented: I'm having trouble accessing my virtual prepaid card
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: How many different cards can I have for my account? | Augmented: Can I have multiple cards linked to my account?
+VAL | [getting_virtual_card] | ACCEPT | Reason: Both texts express the need for information regarding the status of a virtual card. The wording is slightly different but the intent remains the same. | Original: I haven't received my virtual card yet, do yo know why? | Augmented: I'm still waiting to receive my virtual card, could you please help me figure out why it hasn't arrived?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: I lost my card and need a new one, will it cost me? | Augmented: I misplaced my card and require a replacement, what's the fee for a new one?
+VAL | [wrong_amount_of_cash_received] | ACCEPT | Reason: ... | Original: I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem? | Augmented: I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?
+VAL | [top_up_reverted] | ACCEPT | Reason: N/A | Original: top up cancellation | Augmented: reversal of a top-up request
+VAL | [top_up_failed] | ACCEPT | Reason: ... | Original: I have the funds, why can I not use my top-up? | Augmented: I have sufficient funds, yet I'm unable to complete my top-up.
+VAL | [virtual_card_not_working] | ACCEPT | Reason: N/A | Original: My disposable virtual card got rejected | Augmented: My temporary virtual card was declined
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: i have been trying to top up my account with a check but it won't work | Augmented: I'm having trouble adding funds to my account using a cheque, but it's not processing.
+VAL | [declined_transfer] | ACCEPT | Reason: ... | Original: I wanted to know why my transaction didn't go through. | Augmented: I'm curious about the reason behind the failed transfer.
+VAL | [card_arrival] | ACCEPT | Reason: ... | Original: Can the card was sen to me be tracked? | Augmented: Can I track the card that was sent to me?
+VAL | [exchange_rate] | ACCEPT | Reason: ... | Original: Does this app have the same exchange rate as third parties? | Augmented: Is the exchange rate offered by this app identical to those provided by other third-party services?
+VAL | [top_up_by_cash_or_cheque] | ACCEPT | Reason: ... | Original: I'll send a check to top up my account | Augmented: I'll dispatch a cheque to replenish my account balance
+VAL_SUMMARY | ACCEPT: 37 | REVIEW: 0 | REJECT: 0 | UNKNOWN: 0 | Accept Rate: 1.0000

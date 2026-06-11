@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?",
+    "Can you assist me in confirming the card information used for a recent top-up transaction?",
+    "What steps can I take to verify the security settings on my card through the mobile app?",
+    "I was charged a fee for using my card to make the payment.",
+    "My purse was snatched, and the thief has already made a withdrawal using my card. I'm in a tight spot and need your assistance to prevent further unauthorized transactions.",
+    "Why did my card get debited when I used it to add funds to my account, but the updated balance isn't reflecting in my wallet?",
+    "I've missed a payment and I'm providing the payment now.",
+    "If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?",
+    "Can I modify my PIN at any ATM location?",
+    "I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges.",
+    "I'm unhappy with the services and would like to discontinue my account.",
+    "I'm wondering if there's a fee associated with adding funds to my card?",
+    "The exchange rate applied to my card payment is incorrect.",
+    "I'm hesitant to confirm my identity.",
+    "I didn't receive the funds I attempted to add to my card.",
+    "Can you temporarily suspend my card activity? I'm concerned about unauthorized transactions that have been made on my account.",
+    "Can I reissue my card? I previously reported it lost, but I've since located it and would like to reactivate it.",
+    "I was expecting to receive some cash, but instead, I was debited without any funds being transferred.",
+    "How much will I need to pay for a physical credit card?",
+    "Why did the payment I made online get reversed and credited back to my account?",
+    "Why is my card being declined, and why am I being prevented from accessing my funds? What's the reason behind this issue?",
+    "We're having trouble confirming your identity through our system.",
+    "I'm trying to stop a direct debit payment that was made from my account.",
+    "How can I use my debit or credit card for payment?",
+    "I'm curious, what's the purpose behind requesting all this personal information?",
+    "I'd like to reactivate my card, as I initially thought it was misplaced, but I just found it in my coat when I woke up.",
+    "I mistakenly selected the wrong account.",
+    "what happened to the funds after I entered incorrect details and the transaction was declined using my card?",
+    "How can I confirm the details of my top-up card?",
+    "Can I get some information on the availability of the Euro currency for my transaction?",
+    "I've made a cash deposit to my account, but my account balance hasn't been updated yet.",
+    "I'm concerned about unauthorized activity on my account. Is someone else accessing my card?",
+    "What steps can I take to review the security settings on my card?",
+    "The system is unable to confirm that the information provided matches your identity."
+  ],
+  "generated_labels": [
+    51,
+    71,
+    14,
+    15,
+    20,
+    62,
+    16,
+    13,
+    21,
+    16,
+    55,
+    57,
+    17,
+    74,
+    59,
+    16,
+    13,
+    75,
+    43,
+    53,
+    59,
+    68,
+    28,
+    10,
+    74,
+    13,
+    8,
+    62,
+    71,
+    36,
+    6,
+    22,
+    14,
+    68
+  ],
+  "source_texts": [
+    "how does my statement get updated so i know when a refund will reflect on my balance",
+    "Help me verify the card used on a top-up.",
+    "How do I check security settings using the app?",
+    "I had to pay money for paying with my card.",
+    "My wallet was just stolen, and they've already used my card! Please help, I can't afford to lose more money!",
+    "Why was my card charged when topping off my balance but it's not showing up in my wallet balance?",
+    "I didn't do a payment and I have it now.",
+    "If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?",
+    "Can I change my in at all ATM's?",
+    "I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?",
+    "i'm not satisfied with the services and no longer want to be a customer",
+    "I topped off my card is that something you will charge me for?",
+    "the exchange rate at which my card payment is at is wrong",
+    "I am not comfortable verifying my indentity.",
+    "I didn't see the money I added to my card.",
+    "Could you please put a freeze on my card?  There are some payments on it that I don't know where they came from.",
+    "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+    "i did not get any money but still was charged",
+    "What do I owe for a new card?",
+    "I tried to buy something online but my funds were transferred back to my account. What is happening?",
+    "Why are you keeping my money from me by declining my card? What is going on?",
+    "The app is telling me that I am not me.",
+    "I need to cancel a transaction on my debit card.",
+    "Where do I pay with my debit or credit card?",
+    "I don't understand why you want so much of my personal info.",
+    "I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.",
+    "I used the wrong account.",
+    "what happened to the money after i put in the wrong info and it got declined",
+    "How do i secure a top-up card?",
+    "Do you have EUR currency available for me?",
+    "I have cash deposit to my account but it is experiencing a problem",
+    "I don't recognize some transactions.  Is someone else using it?",
+    "How do I check security settings on my card?",
+    "The app does not believe that I am myself"
+  ],
+  "records": [
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "how does my statement get updated so i know when a refund will reflect on my balance",
+      "generated": "How do I get notified when a refund will be reflected on my account balance, and how will it be updated on my statement?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Help me verify the card used on a top-up.",
+      "generated": "Can you assist me in confirming the card information used for a recent top-up transaction?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I check security settings using the app?",
+      "generated": "What steps can I take to verify the security settings on my card through the mobile app?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I had to pay money for paying with my card.",
+      "generated": "I was charged a fee for using my card to make the payment."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "My wallet was just stolen, and they've already used my card! Please help, I can't afford to lose more money!",
+      "generated": "My purse was snatched, and the thief has already made a withdrawal using my card. I'm in a tight spot and need your assistance to prevent further unauthorized transactions."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Why was my card charged when topping off my balance but it's not showing up in my wallet balance?",
+      "generated": "Why did my card get debited when I used it to add funds to my account, but the updated balance isn't reflecting in my wallet?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I didn't do a payment and I have it now.",
+      "generated": "I've missed a payment and I'm providing the payment now."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?",
+      "generated": "If I locate a lost card, do I need to destroy it or can I reactivate it and continue using it?"
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my in at all ATM's?",
+      "generated": "Can I modify my PIN at any ATM location?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?",
+      "generated": "I'd like to dispute some recent transactions on my card. I didn't authorise them, and I'd like to reverse the charges."
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "i'm not satisfied with the services and no longer want to be a customer",
+      "generated": "I'm unhappy with the services and would like to discontinue my account."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "I topped off my card is that something you will charge me for?",
+      "generated": "I'm wondering if there's a fee associated with adding funds to my card?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "the exchange rate at which my card payment is at is wrong",
+      "generated": "The exchange rate applied to my card payment is incorrect."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I am not comfortable verifying my indentity.",
+      "generated": "I'm hesitant to confirm my identity."
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I didn't see the money I added to my card.",
+      "generated": "I didn't receive the funds I attempted to add to my card."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Could you please put a freeze on my card?  There are some payments on it that I don't know where they came from.",
+      "generated": "Can you temporarily suspend my card activity? I'm concerned about unauthorized transactions that have been made on my account."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "May I reactivate my card? I previously reported it lost, but have now found it safe and sound.",
+      "generated": "Can I reissue my card? I previously reported it lost, but I've since located it and would like to reactivate it."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "i did not get any money but still was charged",
+      "generated": "I was expecting to receive some cash, but instead, I was debited without any funds being transferred."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What do I owe for a new card?",
+      "generated": "How much will I need to pay for a physical credit card?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to buy something online but my funds were transferred back to my account. What is happening?",
+      "generated": "Why did the payment I made online get reversed and credited back to my account?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "Why are you keeping my money from me by declining my card? What is going on?",
+      "generated": "Why is my card being declined, and why am I being prevented from accessing my funds? What's the reason behind this issue?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app is telling me that I am not me.",
+      "generated": "We're having trouble confirming your identity through our system."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I need to cancel a transaction on my debit card.",
+      "generated": "I'm trying to stop a direct debit payment that was made from my account."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my debit or credit card?",
+      "generated": "How can I use my debit or credit card for payment?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I don't understand why you want so much of my personal info.",
+      "generated": "I'm curious, what's the purpose behind requesting all this personal information?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.",
+      "generated": "I'd like to reactivate my card, as I initially thought it was misplaced, but I just found it in my coat when I woke up."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I used the wrong account.",
+      "generated": "I mistakenly selected the wrong account."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "what happened to the money after i put in the wrong info and it got declined",
+      "generated": "what happened to the funds after I entered incorrect details and the transaction was declined using my card?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "How do i secure a top-up card?",
+      "generated": "How can I confirm the details of my top-up card?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Do you have EUR currency available for me?",
+      "generated": "Can I get some information on the availability of the Euro currency for my transaction?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I have cash deposit to my account but it is experiencing a problem",
+      "generated": "I've made a cash deposit to my account, but my account balance hasn't been updated yet."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I don't recognize some transactions.  Is someone else using it?",
+      "generated": "I'm concerned about unauthorized activity on my account. Is someone else accessing my card?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "How do I check security settings on my card?",
+      "generated": "What steps can I take to review the security settings on my card?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app does not believe that I am myself",
+      "generated": "The system is unable to confirm that the information provided matches your identity."
+    }
+  ]
+}

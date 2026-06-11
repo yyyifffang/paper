@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I've been making international transactions from this account lately. Are there any new or changed fees I should be aware of?",
+    "What steps can I take to prevent unauthorized transactions on my compromised card?",
+    "I'm unable to complete the identity verification process.",
+    "How many spare cards can I have issued to me?",
+    "The payment made with my card was declined at a retail store.",
+    "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?",
+    "Can I obtain the Visa or Mastercard?",
+    "Did you reverse the payment on your card?",
+    "I misplaced my card and require a replacement, what's the fee for a new one?",
+    "Google Pay is not recognizing my American Express card, can you help me resolve this issue?",
+    "Can you guide me on how to exchange currency for Australian dollars instead of British pounds?",
+    "Duplicate transaction appearing on my account statement.",
+    "I'm having trouble understanding how to obtain a disposable virtual card. Can you assist me?",
+    "I was unable to complete a transfer from my account.",
+    "I'd like to make an online purchase without using my credit card. Can you explain how a temporary virtual card works and where I can obtain one for this transaction?",
+    "I'm really frustrated with this ATM, it slapped me with an unexpected fee, Can you tell me why it did that?",
+    "What types of payment cards do you accept?",
+    "Can you please inform me about the payment methods you accept, specifically the cards you support?",
+    "We're having trouble verifying your identity, despite your login credentials being accurate.",
+    "How can my boss deposit funds directly to my card?",
+    "I'd rather use Mastercard, is it possible to make a change?",
+    "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?",
+    "How long does it take to enable my card, as it appears to be inactive?",
+    "I attempted to make a payment using my debit card, but it was unsuccessful.",
+    "I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?",
+    "I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?",
+    "I'm content with Mastercard and would prefer to continue using only that Visa or Mastercard.",
+    "We accept a range of currencies for top-ups, including but not limited to the following: USD, EUR, JPY, and more.",
+    "Why was my cash withdrawal request denied?",
+    "Why hasn't my cash deposit been reflected in my account balance?",
+    "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account.",
+    "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?",
+    "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash.",
+    "How many virtual cards can I have? I'd like to have a total of 8.",
+    "I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?",
+    "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?",
+    "I'd like to report a missing credit card."
+  ],
+  "generated_labels": [
+    64,
+    22,
+    74,
+    39,
+    25,
+    30,
+    73,
+    53,
+    39,
+    2,
+    33,
+    63,
+    37,
+    35,
+    37,
+    19,
+    73,
+    54,
+    68,
+    50,
+    73,
+    46,
+    0,
+    53,
+    35,
+    6,
+    73,
+    54,
+    26,
+    6,
+    8,
+    49,
+    46,
+    40,
+    52,
+    45,
+    41
+  ],
+  "source_texts": [
+    "I have used this account overseas recently. Has there been an increase in fees that I am unaware of?",
+    "How do I stop fraud to my card?",
+    "I can't do the verification.",
+    "How many active cards can I have?",
+    "My card was not accepted in a shop",
+    "my identity hasn't been verified and i can't edit my details, what's next",
+    "Can I get the Mastercard?",
+    "I cancelled my card payment",
+    "I lost my card and need a new one, will it cost me?",
+    "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+    "Can you  tell me how to get AUD not GBP?",
+    "Transaction showing up many times.",
+    "I'm not sure how disposable virtual cards work. Please help.",
+    "I couldnt transfer money from my account.",
+    "I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?",
+    "I hate this ATM, it charged me an extra fee, Why did it charge?",
+    "What credit cards do you carry",
+    "Top up my card please, which y'all support?",
+    "The app isn't letting me log in, but my info is correct.",
+    "How can my boss pay me directly to the card?",
+    "I prefer using Mastercard, can I substitute?",
+    "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+    "How long does it take to activate the card, as it does not look like its working?",
+    "I tried to use my debit card, but the payment did not work.",
+    "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+    "I put some money in my account the other day and it's not gone in yet, can you help with this?",
+    "I'm happy with Mastercard and want to stick with just that credit card.",
+    "What currency is acceptable for a top up?",
+    "Why can I not take out cash?",
+    "Why hasn't my cheque processed?",
+    "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+    "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+    "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+    "how many virtual cards can i have, i want 8",
+    "I just bought an item and would like to stop payment can you tell me if the item has been sent yet?",
+    "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+    "Who can I speak with regarding a lost card?"
+  ],
+  "records": [
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I have used this account overseas recently. Has there been an increase in fees that I am unaware of?",
+      "generated": "I've been making international transactions from this account lately. Are there any new or changed fees I should be aware of?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "How do I stop fraud to my card?",
+      "generated": "What steps can I take to prevent unauthorized transactions on my compromised card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I can't do the verification.",
+      "generated": "I'm unable to complete the identity verification process."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "How many active cards can I have?",
+      "generated": "How many spare cards can I have issued to me?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card was not accepted in a shop",
+      "generated": "The payment made with my card was declined at a retail store."
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "my identity hasn't been verified and i can't edit my details, what's next",
+      "generated": "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I get the Mastercard?",
+      "generated": "Can I obtain the Visa or Mastercard?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I cancelled my card payment",
+      "generated": "Did you reverse the payment on your card?"
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I lost my card and need a new one, will it cost me?",
+      "generated": "I misplaced my card and require a replacement, what's the fee for a new one?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Apple pay is not accepting my American Express card, can you assist me with this problem?",
+      "generated": "Google Pay is not recognizing my American Express card, can you help me resolve this issue?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can you  tell me how to get AUD not GBP?",
+      "generated": "Can you guide me on how to exchange currency for Australian dollars instead of British pounds?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Transaction showing up many times.",
+      "generated": "Duplicate transaction appearing on my account statement."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I'm not sure how disposable virtual cards work. Please help.",
+      "generated": "I'm having trouble understanding how to obtain a disposable virtual card. Can you assist me?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I couldnt transfer money from my account.",
+      "generated": "I was unable to complete a transfer from my account."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?",
+      "generated": "I'd like to make an online purchase without using my credit card. Can you explain how a temporary virtual card works and where I can obtain one for this transaction?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I hate this ATM, it charged me an extra fee, Why did it charge?",
+      "generated": "I'm really frustrated with this ATM, it slapped me with an unexpected fee, Can you tell me why it did that?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "What credit cards do you carry",
+      "generated": "What types of payment cards do you accept?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Top up my card please, which y'all support?",
+      "generated": "Can you please inform me about the payment methods you accept, specifically the cards you support?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app isn't letting me log in, but my info is correct.",
+      "generated": "We're having trouble verifying your identity, despite your login credentials being accurate."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can my boss pay me directly to the card?",
+      "generated": "How can my boss deposit funds directly to my card?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I prefer using Mastercard, can I substitute?",
+      "generated": "I'd rather use Mastercard, is it possible to make a change?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+      "generated": "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How long does it take to activate the card, as it does not look like its working?",
+      "generated": "How long does it take to enable my card, as it appears to be inactive?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I tried to use my debit card, but the payment did not work.",
+      "generated": "I attempted to make a payment using my debit card, but it was unsuccessful."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+      "generated": "I've attempted to initiate a transfer to my friend's account, but it's been declined. Could you help me figure out what's going on?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I put some money in my account the other day and it's not gone in yet, can you help with this?",
+      "generated": "I made a deposit recently, but my account balance hasn't been updated yet, could you assist me with this issue?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I'm happy with Mastercard and want to stick with just that credit card.",
+      "generated": "I'm content with Mastercard and would prefer to continue using only that Visa or Mastercard."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What currency is acceptable for a top up?",
+      "generated": "We accept a range of currencies for top-ups, including but not limited to the following: USD, EUR, JPY, and more."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can I not take out cash?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why hasn't my cheque processed?",
+      "generated": "Why hasn't my cash deposit been reflected in my account balance?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.",
+      "generated": "Can you cancel the transfer I just initiated? I made an error and accidentally entered the wrong recipient information, so I'm worried it might have been sent to the wrong account."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",
+      "generated": "I made a mistake while entering my PIN and your ATM swallowed my card. Can I retrieve it?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Please cancel the latest ATM charge on my card as my card was declined earlier today and I did not receive that cash.",
+      "generated": "Please cancel the pending cash withdrawal from my card as it was declined earlier today and I did not receive the cash."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "how many virtual cards can i have, i want 8",
+      "generated": "How many virtual cards can I have? I'd like to have a total of 8."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I just bought an item and would like to stop payment can you tell me if the item has been sent yet?",
+      "generated": "I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.",
+      "generated": "I attempted to process a payment using my card, but the transaction was unsuccessful. Could you please inform me when the payment will be finalized, as it remains pending at the moment?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Who can I speak with regarding a lost card?",
+      "generated": "I'd like to report a missing credit card."
+    }
+  ]
+}

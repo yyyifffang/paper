@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "I need to receive my physical card.",
+    "Why hasn't the money transfer been credited to the recipient's account?",
+    "I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?",
+    "What's the current exchange rate for my money?",
+    "Can you accept my other credit card issued in the United States? It's the only other one I possess.",
+    "where can I find an ATM to withdraw cash?",
+    "Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?",
+    "I'd like to increase my account balance by transferring funds into my account.",
+    "Can I convert my funds to euros?",
+    "What is the typical timeframe for a US transfer to be processed?",
+    "Why is my pending cash withdrawal not reflected on my account statement?",
+    "can I obtain my physical card immediately?",
+    "I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize.",
+    "Why is my card not functioning properly?",
+    "Why hasn't my cash deposit been reflected in my account balance?",
+    "Can I make a cash deposit to top up my account?",
+    "I've been waiting for a while and my physical card still hasn't arrived.",
+    "Is there an age restriction in place?",
+    "I'm unable to identify a transaction on my credit card statement.",
+    "Why is my card unable to process any transactions?",
+    "Can I transfer funds from another bank into my account, which currently has no balance?",
+    "What happens if my card payment was reversed?",
+    "Are there any fees associated with withdrawing cash?",
+    "I'm having trouble using my virtual card to make transactions.",
+    "I'd like to request a new virtual card, could you guide me on how to obtain one?",
+    "Suspicious activity detected on my account.",
+    "When can I expect the funds to be deposited into my account?",
+    "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP.",
+    "What circumstances would cause my payment to be reversed?",
+    "Are there any restrictions on the usage of disposable cards?",
+    "How can I initiate an automatic top-up process?",
+    "Hi, I'd like to inquire about my UK account. I've recently made a transfer, but my account balance hasn't been updated yet. Could you please look into this and let me know what's going on?",
+    "How do the rules work for increasing my credit limit?",
+    "Can the card be shipped to Europe?",
+    "We're asking for this information to ensure we're verifying your identity accurately",
+    "We didn't find a direct debit payment arrangement linked to your account."
+  ],
+  "generated_labels": [
+    38,
+    66,
+    46,
+    32,
+    54,
+    3,
+    76,
+    65,
+    36,
+    67,
+    46,
+    38,
+    20,
+    14,
+    6,
+    58,
+    38,
+    1,
+    16,
+    14,
+    65,
+    53,
+    19,
+    72,
+    40,
+    22,
+    67,
+    20,
+    53,
+    29,
+    4,
+    5,
+    60,
+    24,
+    74,
+    28
+  ],
+  "source_texts": [
+    "I haven't been sent my new pin!",
+    "What happens when I money transaction doesn't show up on the receiving side?",
+    "I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it?",
+    "What value can I get for my currency?",
+    "Can you accept my other card from the U.S.?  It is the only other one I have.",
+    "how do I know where I can get money withdrawn?",
+    "Can the exchange rate change while I am in the process of making a withdrawal?",
+    "I need more money in my account. Can I add more by transferring?",
+    "Can I exchange my money for EUR?",
+    "How long do I have to wait for a US transfer?",
+    "Why hasn't my withdrawal shown on my statement?",
+    "can i create my own pin right away",
+    "I believe my card has been compromised as there are funds showing that I did not receive.",
+    "Why can't I use my card?",
+    "Why hasn't my cheque processed?",
+    "Is topping up with cash allowed?",
+    "I've been waiting ages and my PIN hasn't gotten here.",
+    "Do you have a limit for someone's age?",
+    "i dont recognize a charge on my card",
+    "Why won't my card accept any transactions?",
+    "Can I withdraw money from another bank and transfer it into my empty account?",
+    "What should I do if my card payment was cancelled?",
+    "Is there a charge for getting cash?",
+    "I can't make purchases with my virtual card.",
+    "I need to order a new card, can you please direct me to the virtual cards?",
+    "Questionable transactions on my account.",
+    "When will the money reach my  account?",
+    "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+    "Under what condition will my payment revert?",
+    "Are there limits on the virtual cards?",
+    "How do I access the option to top up?",
+    "Hello I have a UK account.  Can you please check if everything is alright with it?  I made a transfer a couple hours ago but it doesn't show up yet.",
+    "What are the rules for a top-up?",
+    "Can the card be mailed to Europe?",
+    "Why do you need so much information about me",
+    "I didn't set up a direct debit payment on my account."
+  ],
+  "records": [
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I haven't been sent my new pin!",
+      "generated": "I need to receive my physical card."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "What happens when I money transaction doesn't show up on the receiving side?",
+      "generated": "Why hasn't the money transfer been credited to the recipient's account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I didn't receive my money earlier and it says the transaction is still in progress. Can you fix it?",
+      "generated": "I'm still waiting for my cash withdrawal to be processed, but it's stuck in pending. Can you help resolve the issue?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "What value can I get for my currency?",
+      "generated": "What's the current exchange rate for my money?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you accept my other card from the U.S.?  It is the only other one I have.",
+      "generated": "Can you accept my other credit card issued in the United States? It's the only other one I possess."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "how do I know where I can get money withdrawn?",
+      "generated": "where can I find an ATM to withdraw cash?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can the exchange rate change while I am in the process of making a withdrawal?",
+      "generated": "Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I need more money in my account. Can I add more by transferring?",
+      "generated": "I'd like to increase my account balance by transferring funds into my account."
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "Can I exchange my money for EUR?",
+      "generated": "Can I convert my funds to euros?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long do I have to wait for a US transfer?",
+      "generated": "What is the typical timeframe for a US transfer to be processed?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why hasn't my withdrawal shown on my statement?",
+      "generated": "Why is my pending cash withdrawal not reflected on my account statement?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "can i create my own pin right away",
+      "generated": "can I obtain my physical card immediately?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I believe my card has been compromised as there are funds showing that I did not receive.",
+      "generated": "I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why can't I use my card?",
+      "generated": "Why is my card not functioning properly?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why hasn't my cheque processed?",
+      "generated": "Why hasn't my cash deposit been reflected in my account balance?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Is topping up with cash allowed?",
+      "generated": "Can I make a cash deposit to top up my account?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I've been waiting ages and my PIN hasn't gotten here.",
+      "generated": "I've been waiting for a while and my physical card still hasn't arrived."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Do you have a limit for someone's age?",
+      "generated": "Is there an age restriction in place?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i dont recognize a charge on my card",
+      "generated": "I'm unable to identify a transaction on my credit card statement."
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Why won't my card accept any transactions?",
+      "generated": "Why is my card unable to process any transactions?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can I withdraw money from another bank and transfer it into my empty account?",
+      "generated": "Can I transfer funds from another bank into my account, which currently has no balance?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "What should I do if my card payment was cancelled?",
+      "generated": "What happens if my card payment was reversed?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Is there a charge for getting cash?",
+      "generated": "Are there any fees associated with withdrawing cash?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "I can't make purchases with my virtual card.",
+      "generated": "I'm having trouble using my virtual card to make transactions."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I need to order a new card, can you please direct me to the virtual cards?",
+      "generated": "I'd like to request a new virtual card, could you guide me on how to obtain one?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "Questionable transactions on my account.",
+      "generated": "Suspicious activity detected on my account."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will the money reach my  account?",
+      "generated": "When can I expect the funds to be deposited into my account?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+      "generated": "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Under what condition will my payment revert?",
+      "generated": "What circumstances would cause my payment to be reversed?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Are there limits on the virtual cards?",
+      "generated": "Are there any restrictions on the usage of disposable cards?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "How do I access the option to top up?",
+      "generated": "How can I initiate an automatic top-up process?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Hello I have a UK account.  Can you please check if everything is alright with it?  I made a transfer a couple hours ago but it doesn't show up yet.",
+      "generated": "Hi, I'd like to inquire about my UK account. I've recently made a transfer, but my account balance hasn't been updated yet. Could you please look into this and let me know what's going on?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "What are the rules for a top-up?",
+      "generated": "How do the rules work for increasing my credit limit?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can the card be mailed to Europe?",
+      "generated": "Can the card be shipped to Europe?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Why do you need so much information about me",
+      "generated": "We're asking for this information to ensure we're verifying your identity accurately"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I didn't set up a direct debit payment on my account.",
+      "generated": "We didn't find a direct debit payment arrangement linked to your account."
+    }
+  ]
+}

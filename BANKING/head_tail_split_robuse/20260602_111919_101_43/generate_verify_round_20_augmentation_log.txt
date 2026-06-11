@@ -1,0 +1,73 @@
+GEN | [country_support] | Orig: where do you have locations at -> Aug: which locations do you have in your country?
+GEN | [transfer_into_account] | Orig: show me how to transfer to my account -> Aug: display the process for transferring funds into my account
+GEN | [verify_source_of_funds] | Orig: My funds must be verified -> Aug: We need to confirm the origin of your funds
+GEN | [direct_debit_payment_not_recognised] | Orig: People are using my debit card - help! -> Aug: We've received a payment attempt from your debit card, but it's not being recognized.
+GEN | [getting_spare_card] | Orig: How many active cards can I have? -> Aug: How many spare cards can I have issued to me?
+GEN | [card_payment_fee_charged] | Orig: I am angry that I got charged for using my card. -> Aug: I'm upset because I was unexpectedly charged a fee for making a transaction with my credit card.
+GEN | [cash_withdrawal_charge] | Orig: How much can I withdrawal in one month without incurring fees? -> Aug: What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?
+GEN | [cash_withdrawal_charge] | Orig: Could you explain your rules for ATM fees? -> Aug: What are the charges for withdrawing cash from an ATM?
+GEN | [transfer_into_account] | Orig: I need to deposit money to my account -> Aug: I'd like to transfer funds into my account.
+GEN | [card_payment_wrong_exchange_rate] | Orig: What is your exchange rate between UK pounds and Russian rubles for my last transaction -> Aug: What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?
+GEN | [cash_withdrawal_not_recognised] | Orig: I am seeing unathorized transactions in the app, on my account. -> Aug: I'm noticing some suspicious activity on my account, showing up in the app without my permission.
+GEN | [activate_my_card] | Orig: Explain the activation method for this card -> Aug: Describe the process to enable the functionality of this card
+GEN | [getting_virtual_card] | Orig: I would love one of the virtual cards! -> Aug: I'd like to obtain a virtual card, please.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: An overseas cash transfer did not work correctly -> Aug: The exchange rate used for the cash withdrawal was incorrect.
+GEN | [transfer_fee_charged] | Orig: Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees? -> Aug: Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?
+GEN | [transfer_fee_charged] | Orig: I have a fee listed for a transfer. -> Aug: A charge is showing for a transfer transaction.
+GEN | [card_about_to_expire] | Orig: I'm in China and need a new card. Please help. -> Aug: I'm currently abroad in China and require a replacement card as my existing one is nearing its expiration date. Can you assist me with this request?
+GEN | [activate_my_card] | Orig: How do I active this card? -> Aug: How can I activate this card?
+GEN | [country_support] | Orig: What countries do your accounts send and receive to? -> Aug: Which countries do your accounts support international transactions to and from?
+GEN | [age_limit] | Orig: We want to start a college fund for my daughter. -> Aug: We're planning to establish a savings plan for my child's future education expenses.
+GEN | [cash_withdrawal_charge] | Orig: I was charged for getting cash. -> Aug: I was charged a fee for withdrawing cash.
+GEN | [cash_withdrawal_not_recognised] | Orig: THere is some cash that is showing up on my app. -> Aug: There's an unexpected cash amount appearing on my account.
+GEN | [balance_not_updated_after_bank_transfer] | Orig: Please check to see if the band transfer I made a while ago from my UK account has safely arrived. -> Aug: Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination.
+GEN | [getting_virtual_card] | Orig: I need to make a purchase online, where is my virtual card? -> Aug: I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?
+GEN | [verify_top_up] | Orig: I'm being asked for a verification code. Where do I find it? -> Aug: I'm being requested to provide a verification code. Can you please guide me on how to obtain it?
+GEN | [cash_withdrawal_not_recognised] | Orig: Why is there extra cash in my account? -> Aug: We're showing an unexpected cash balance in your account. Can you help us understand why this is happening?
+GEN | [getting_spare_card] | Orig: Do you send duplicate cards? -> Aug: Can you provide a replacement card?
+GEN | [cash_withdrawal_charge] | Orig: I have been charged a fee for getting cash -> Aug: I've been assessed a charge for withdrawing cash
+GEN | [cash_withdrawal_charge] | Orig: When did you start charging to make a withdrawal? How much is it now? I always thought it was free. -> Aug: When did you begin being charged for cash withdrawals? What's the current fee amount? I'm surprised to hear it's no longer free.
+GEN | [getting_spare_card] | Orig: Am I gonna be charged for sending out more cards? -> Aug: Will I be charged for requesting additional cards?
+GEN | [card_about_to_expire] | Orig: Will you send me a new card in China? -> Aug: Can you provide a replacement card for me in China?
+GEN | [country_support] | Orig: Can I use this all over the world? -> Aug: Can I access this service globally or internationally?
+GEN | [compromised_card] | Orig: What can I do if my card details where stolen from my car? I think they used my card to buy gas. -> Aug: What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.
+GEN | [card_payment_fee_charged] | Orig: I got charged a service fee on my account. Can it be waived since I didn't know about it before? -> Aug: I was surprised to see a payment processing fee on my account. Can I request an exception since I wasn't aware of the fee beforehand?
+GEN | [getting_spare_card] | Orig: I would like to use one of my cards for a family member. Is that allowed? -> Aug: I'd like to assign a spare card to a family member. Can I do that?
+GEN | [edit_personal_details] | Orig: My address is incorrect on my file. -> Aug: My personal details, specifically my address, are inaccurate in your records.
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: where do you have locations at | Augmented: which locations do you have in your country?
+VAL | [transfer_into_account] | ACCEPT | Reason: ... | Original: show me how to transfer to my account | Augmented: display the process for transferring funds into my account
+VAL | [verify_source_of_funds] | ACCEPT | Reason: N/A | Original: My funds must be verified | Augmented: We need to confirm the origin of your funds
+VAL | [direct_debit_payment_not_recognised] | ACCEPT | Reason: N/A | Original: People are using my debit card - help! | Augmented: We've received a payment attempt from your debit card, but it's not being recognized.
+VAL | [getting_spare_card] | REJECT | Reason: N/A | Original: How many active cards can I have? | Augmented: How many spare cards can I have issued to me?
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: ... | Original: I am angry that I got charged for using my card. | Augmented: I'm upset because I was unexpectedly charged a fee for making a transaction with my credit card.
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: How much can I withdrawal in one month without incurring fees? | Augmented: What is the maximum amount I can withdraw in a month without being charged a cash withdrawal fee?
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: N/A | Original: Could you explain your rules for ATM fees? | Augmented: What are the charges for withdrawing cash from an ATM?
+VAL | [transfer_into_account] | ACCEPT | Reason: N/A | Original: I need to deposit money to my account | Augmented: I'd like to transfer funds into my account.
+VAL | [card_payment_wrong_exchange_rate] | ACCEPT | Reason: N/A | Original: What is your exchange rate between UK pounds and Russian rubles for my last transaction | Augmented: What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: I am seeing unathorized transactions in the app, on my account. | Augmented: I'm noticing some suspicious activity on my account, showing up in the app without my permission.
+VAL | [activate_my_card] | ACCEPT | Reason: N/A | Original: Explain the activation method for this card | Augmented: Describe the process to enable the functionality of this card
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: I would love one of the virtual cards! | Augmented: I'd like to obtain a virtual card, please.
+VAL | [wrong_exchange_rate_for_cash_withdrawal] | ACCEPT | Reason: N/A | Original: An overseas cash transfer did not work correctly | Augmented: The exchange rate used for the cash withdrawal was incorrect.
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees? | Augmented: Are there any additional charges, such as transfer fees or currency conversion fees, when making a purchase from another country?
+VAL | [transfer_fee_charged] | ACCEPT | Reason: ... | Original: I have a fee listed for a transfer. | Augmented: A charge is showing for a transfer transaction.
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: I'm in China and need a new card. Please help. | Augmented: I'm currently abroad in China and require a replacement card as my existing one is nearing its expiration date. Can you assist me with this request?
+VAL | [activate_my_card] | ACCEPT | Reason: ... | Original: How do I active this card? | Augmented: How can I activate this card?
+VAL | [country_support] | ACCEPT | Reason: ... | Original: What countries do your accounts send and receive to? | Augmented: Which countries do your accounts support international transactions to and from?
+VAL | [age_limit] | ACCEPT | Reason: N/A | Original: We want to start a college fund for my daughter. | Augmented: We're planning to establish a savings plan for my child's future education expenses.
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: I was charged for getting cash. | Augmented: I was charged a fee for withdrawing cash.
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: THere is some cash that is showing up on my app. | Augmented: There's an unexpected cash amount appearing on my account.
+VAL | [balance_not_updated_after_bank_transfer] | ACCEPT | Reason: N/A | Original: Please check to see if the band transfer I made a while ago from my UK account has safely arrived. | Augmented: Please investigate whether the bank transfer I initiated a while back from my UK account has successfully reached its destination.
+VAL | [getting_virtual_card] | ACCEPT | Reason: ... | Original: I need to make a purchase online, where is my virtual card? | Augmented: I'm trying to make an online purchase and I'm looking for my virtual card, can you help me locate it?
+VAL | [verify_top_up] | ACCEPT | Reason: ... | Original: I'm being asked for a verification code. Where do I find it? | Augmented: I'm being requested to provide a verification code. Can you please guide me on how to obtain it?
+VAL | [cash_withdrawal_not_recognised] | ACCEPT | Reason: N/A | Original: Why is there extra cash in my account? | Augmented: We're showing an unexpected cash balance in your account. Can you help us understand why this is happening?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: Do you send duplicate cards? | Augmented: Can you provide a replacement card?
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: I have been charged a fee for getting cash | Augmented: I've been assessed a charge for withdrawing cash
+VAL | [cash_withdrawal_charge] | ACCEPT | Reason: ... | Original: When did you start charging to make a withdrawal? How much is it now? I always thought it was free. | Augmented: When did you begin being charged for cash withdrawals? What's the current fee amount? I'm surprised to hear it's no longer free.
+VAL | [getting_spare_card] | ACCEPT | Reason: ... | Original: Am I gonna be charged for sending out more cards? | Augmented: Will I be charged for requesting additional cards?
+VAL | [card_about_to_expire] | ACCEPT | Reason: N/A | Original: Will you send me a new card in China? | Augmented: Can you provide a replacement card for me in China?
+VAL | [country_support] | ACCEPT | Reason: N/A | Original: Can I use this all over the world? | Augmented: Can I access this service globally or internationally?
+VAL | [compromised_card] | ACCEPT | Reason: N/A | Original: What can I do if my card details where stolen from my car? I think they used my card to buy gas. | Augmented: What can I do if my card information was stolen from my vehicle? I suspect someone used my card to make a purchase, possibly for gas.
+VAL | [card_payment_fee_charged] | ACCEPT | Reason: N/A | Original: I got charged a service fee on my account. Can it be waived since I didn't know about it before? | Augmented: I was surprised to see a payment processing fee on my account. Can I request an exception since I wasn't aware of the fee beforehand?
+VAL | [getting_spare_card] | ACCEPT | Reason: N/A | Original: I would like to use one of my cards for a family member. Is that allowed? | Augmented: I'd like to assign a spare card to a family member. Can I do that?
+VAL | [edit_personal_details] | ACCEPT | Reason: The augmented text maintains the intent of correcting an error in personal details, specifically the address. | Original: My address is incorrect on my file. | Augmented: My personal details, specifically my address, are inaccurate in your records.
+VAL_SUMMARY | ACCEPT: 35 | REVIEW: 0 | REJECT: 1 | UNKNOWN: 0 | Accept Rate: 0.9722

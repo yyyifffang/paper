@@ -1,0 +1,37 @@
+GEN | [card_arrival] | Orig: I was expecting my new card by now. -> Aug: I'm still waiting for my new card to arrive.
+GEN | [card_arrival] | Orig: Where is my credit card that was to be mailed? -> Aug: When can I expect to receive my credit card, which was supposed to be sent to me?
+GEN | [card_delivery_estimate] | Orig: are you sending me my card? -> Aug: Can you confirm when I can expect to receive my card?
+GEN | [card_arrival] | Orig: Is there a way I can get my card expedited? -> Aug: Can I request priority shipping for my card delivery?
+GEN | [get_disposable_virtual_card] | Orig: I need a single use card for shopping online -> Aug: I require a one-time use virtual card for online transactions
+GEN | [reverted_card_payment?] | Orig: I was just contacted by a seller that let me know they didn't get my money even though I'm very sure it was removed from my account. Now it's back in my account. Get this resolved quickly. -> Aug: I'm concerned about a payment I made that was initially deducted from my account, but then reversed. The seller has informed me that they didn't receive the payment. Can you look into this and resolve the issue as soon as possible?
+GEN | [pending_transfer] | Orig: I have a pending transaction -> Aug: A transfer is currently in the process of being processed
+GEN | [cash_withdrawal_not_recognised] | Orig: A WD was just made on my account, but it was not me and I still have my card.  What to do? -> Aug: A withdrawal was processed on my account, but I didn't initiate it and I still have my card in my possession. What should I do?
+GEN | [direct_debit_payment_not_recognised] | Orig: I need to cancel a transaction on my debit card. -> Aug: I'm trying to stop a direct debit payment that was made from my account.
+GEN | [transfer_fee_charged] | Orig: Why was money taken for a transfer? -> Aug: What's the reason for the fee deducted from my account for the recent transfer?
+GEN | [beneficiary_not_allowed] | Orig: Are there restrictions to transfers to certain accounts? -> Aug: Can I transfer funds to specific accounts, or are there limitations in place?
+GEN | [card_arrival] | Orig: Can I get an update on my replacement card? -> Aug: Could you please let me know when I can expect my new card to arrive?
+GEN | [card_delivery_estimate] | Orig: I need my card immediately. -> Aug: I require my card as soon as possible.
+GEN | [top_up_by_cash_or_cheque] | Orig: How can I put more money into my account? -> Aug: How can I add funds to my account using cash or cheque?
+GEN | [passcode_forgotten] | Orig: I'm locked out of my account as I can't remember my code, what do I do now? -> Aug: I've forgotten my passcode and can't access my account, what should I do to regain access?
+GEN | [top_up_by_cash_or_cheque] | Orig: What are my payment options for topping off my account? -> Aug: You can replenish your account balance using either cash or cheque payment methods.
+GEN | [compromised_card] | Orig: It looks like someone besides me ordered something with my card, what should I do? -> Aug: It appears that an unauthorized party has used my card to make a purchase, what steps can I take?
+GEN | [topping_up_by_card] | Orig: I tried to get gas but my money was gone! -> Aug: I attempted to make a purchase, but my card balance was insufficient.
+GEN | [pending_transfer] | Orig: When will the transaction post to my account? -> Aug: When will the transfer be processed and reflected in my account balance?
+GEN | [receiving_money] | Orig: Salary in GBP has been received. Does it need to be configured into another place? -> Aug: Has the GBP salary been deposited into the correct account? If not, do you need assistance transferring it to a different location?
+GEN | [pending_transfer] | Orig: I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so. -> Aug: I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet.
+GEN | [top_up_failed] | Orig: Can I tell if my top off didn't work?  It doesn't seem to have. -> Aug: Can you confirm if my top-up was unsuccessful? It appears it didn't go through.
+GEN | [transfer_into_account] | Orig: I am looking to transfer some money from my other bank account into this one. -> Aug: I'd like to move funds from my existing account to this account.
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: I was needing you to see if the exchange rate is correct from when i got cash -> Aug: I'd like to verify the exchange rate for the cash withdrawal I made earlier to ensure it's accurate.
+GEN | [supported_cards_and_currencies] | Orig: Please let me know what currency I can use to top up my account? -> Aug: Please inform me about the available currencies I can use to replenish my account balance.
+GEN | [card_arrival] | Orig: Have you sent out my card yet? -> Aug: Has my new card been dispatched already?
+GEN | [country_support] | Orig: I'm in the EU. Can I get one of your cards? -> Aug: I'm a resident of the European Union. Can I obtain one of your credit cards?
+GEN | [declined_transfer] | Orig: I wanted to know why my transaction didn't go through. -> Aug: I'm curious about the reason behind the failed transfer.
+GEN | [transfer_into_account] | Orig: Can you please explain the topping up transfer process? -> Aug: Could you walk me through the process of transferring funds into an account?
+GEN | [declined_cash_withdrawal] | Orig: My ATM transaction was cancelled. -> Aug: My cash withdrawal attempt was declined.
+GEN | [top_up_by_card_charge] | Orig: Is there a fee for european bank cards? -> Aug: Are there any charges associated with using a European bank card for a top-up?
+GEN | [cash_withdrawal_charge] | Orig: I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud? -> Aug: I'm concerned about a recent transaction on my account that seems to be related to a cash withdrawal I made at a location outside of Nandos in Leeds. Can you help me understand what this charge is for? Is it a legitimate transaction or could it be a case of fraud?
+GEN | [transfer_into_account] | Orig: where do i go to transfer money from one account to this one -> Aug: how can I initiate a transfer from another account to this account?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Does it cost me to add cash? -> Aug: Is there a fee for topping up my account via bank transfer?
+GEN | [receiving_money] | Orig: My salary is in GBP, is this something I need to configure? -> Aug: Are my paychecks in British Pounds, and do I need to set up a specific setting for that?
+GEN | [wrong_exchange_rate_for_cash_withdrawal] | Orig: Can you check the exchange rate on a cash transaction I did overseas -> Aug: Can you verify the exchange rate used for a recent cash withdrawal I made while traveling abroad?
+GEN | [top_up_by_bank_transfer_charge] | Orig: Will there be a charge when money is added to my account? -> Aug: Will I be charged a fee when I top up my account using a bank transfer?

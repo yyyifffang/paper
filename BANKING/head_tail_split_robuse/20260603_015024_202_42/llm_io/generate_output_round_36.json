@@ -1,0 +1,334 @@
+{
+  "generated_texts": [
+    "The exchange rate for my cash withdrawal seems to be incorrect.",
+    "I mistakenly sent a payment to the wrong account for my rent yesterday and would like to rectify the situation as soon as possible, with the funds being transferred to the correct account by tomorrow at the latest.",
+    "I accidentally set up a rent payment from an incorrect account, and I'd like to switch it to the correct one as soon as possible. Can I modify the transfer to ensure timely payment?",
+    "I'm having trouble withdrawing cash from the ATM and I'm certain I entered my PIN correctly. Can you assist me with this issue?",
+    "Can you investigate why my account balance is not reflecting the recent bank transfer I made, as it's not updating yet?",
+    "Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?",
+    "Can my friend transfer funds to me in a currency other than US dollars?",
+    "Can you accept direct deposits from my employer's payroll department?",
+    "Why is the transfer still pending?",
+    "May I confirm my identity using my social security card?",
+    "I'm missing my physical card. Can you help me obtain a new one?",
+    "Is the exchange rate adjusted daily for transactions? I've noticed a discrepancy in the rate applied to my recent purchase.",
+    "What steps can I take to reactivate my blocked card?",
+    "Do I need to exchange my British pounds for another currency before making a transfer?",
+    "What steps should I take once my credit card's expiration date has passed?",
+    "I'd like to inquire about the transfer fee associated with moving funds.",
+    "I'd like to place an order for a physical card.",
+    "Why hasn't my transfer been received by the recipient yet?",
+    "What happens if my card payment was reversed?",
+    "Can you assist me in resolving the issue with my card not functioning properly?",
+    "Can I recover my passcode if I've forgotten it?",
+    "Can I select a delivery time that fits my schedule?",
+    "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?",
+    "I'd like to request a new physical card.",
+    "I attempted to perform a crypto top-up using your service, but it appears to have been unsuccessful. The funds have been debited from my account, and I'd appreciate it if you could investigate this issue.",
+    "Where do you typically deliver physical cards to customers?",
+    "I'd like to report a missing credit card.",
+    "How can I make a payment without incurring any charges?",
+    "I attempted to add funds to my card, but the transaction was reversed.",
+    "This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?",
+    "I've forgotten my passcode, could you please reset it for me?",
+    "How can I use my card for payment?",
+    "I'm reviewing my recent transaction history and noticed an unexpected fee. Could you check if the exchange rate was accurate for the purchase I made last weekend?",
+    "I encountered an error while attempting to make a top-up, and it was cancelled.",
+    "Why was I overcharged for the conversion of my UK pound to Russian ruble on my recent transaction?",
+    "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?"
+  ],
+  "generated_labels": [
+    76,
+    8,
+    8,
+    26,
+    5,
+    76,
+    50,
+    50,
+    48,
+    69,
+    43,
+    17,
+    49,
+    50,
+    9,
+    64,
+    43,
+    66,
+    53,
+    14,
+    44,
+    12,
+    74,
+    43,
+    61,
+    43,
+    41,
+    15,
+    61,
+    26,
+    44,
+    10,
+    17,
+    61,
+    17,
+    30
+  ],
+  "source_texts": [
+    "Whats wrong with my currency exchange?",
+    "Yesterday, I made an incorrect payment to the wrong account for my rent payment. I need this addressed as soon as possible and the funds transferred to the correct account by no later than tomorrow.",
+    "I stupidly initiated a rent payment from the wrong account yesterday. It can't be paid from that account, but it really needs to get paid on time. Am I able to move the payment to the right account?",
+    "Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money.",
+    "Can you check if my money has reached my account since it is not showing up yet?",
+    "Can the exchange rate change while I am in the process of making a withdrawal?",
+    "Can my friend send me money if it is not in US dollars?",
+    "Do you support direct deposits from my employer?",
+    "Why is the transaction not posting?",
+    "Can I use my social security card as a form of identity?",
+    "I still don't have a card. How do I get one?",
+    "Does the exchange rate change each day for purchases? There is a different rate on my purchase.",
+    "How do I unblock my card?",
+    "Do I need to convert my currency from GBP before transferring?",
+    "Tell me what I should do after my card expires.",
+    "I need to know how much it costs to transfer funds.",
+    "I would like to request a card.",
+    "Why is my transaction taking so long to complete?",
+    "What should I do if my card payment was cancelled?",
+    "Need help to get my card to work.",
+    "Can my password be reset if I do not have it?",
+    "can I choose delivery times to suite me?",
+    "Do you think you're asking for too much information about me?",
+    "I need to order a new card.",
+    "I thought crypto top up with something you offer. This is not working. The money has been deducted from my account. Can you find out what's going on?",
+    "What are the places that you deliver cards to?",
+    "Who can I speak with regarding a lost card?",
+    "What can i pay with out  fees",
+    "I went to top up my card and it was cancelled.",
+    "This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined.",
+    "I can't remember my app code, can you reset it?",
+    "Where can I pay with my card?",
+    "I noticed an extra charge on the purchase that I made last Saturday on my account. Can you see if I received the correct exchange rate?",
+    "I got an cancellation error when I was topping up.",
+    "Why was I charged extra on my last UK pound to Russian ruble exchange?",
+    "my identity hasn't been verified and i can't edit my details, what's next"
+  ],
+  "records": [
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Whats wrong with my currency exchange?",
+      "generated": "The exchange rate for my cash withdrawal seems to be incorrect."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Yesterday, I made an incorrect payment to the wrong account for my rent payment. I need this addressed as soon as possible and the funds transferred to the correct account by no later than tomorrow.",
+      "generated": "I mistakenly sent a payment to the wrong account for my rent yesterday and would like to rectify the situation as soon as possible, with the funds being transferred to the correct account by tomorrow at the latest."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I stupidly initiated a rent payment from the wrong account yesterday. It can't be paid from that account, but it really needs to get paid on time. Am I able to move the payment to the right account?",
+      "generated": "I accidentally set up a rent payment from an incorrect account, and I'd like to switch it to the correct one as soon as possible. Can I modify the transfer to ensure timely payment?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money.",
+      "generated": "I'm having trouble withdrawing cash from the ATM and I'm certain I entered my PIN correctly. Can you assist me with this issue?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you check if my money has reached my account since it is not showing up yet?",
+      "generated": "Can you investigate why my account balance is not reflecting the recent bank transfer I made, as it's not updating yet?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can the exchange rate change while I am in the process of making a withdrawal?",
+      "generated": "Is the exchange rate adjusted while I'm in the middle of a cash withdrawal?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can my friend send me money if it is not in US dollars?",
+      "generated": "Can my friend transfer funds to me in a currency other than US dollars?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do you support direct deposits from my employer?",
+      "generated": "Can you accept direct deposits from my employer's payroll department?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Why is the transaction not posting?",
+      "generated": "Why is the transfer still pending?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "Can I use my social security card as a form of identity?",
+      "generated": "May I confirm my identity using my social security card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I still don't have a card. How do I get one?",
+      "generated": "I'm missing my physical card. Can you help me obtain a new one?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Does the exchange rate change each day for purchases? There is a different rate on my purchase.",
+      "generated": "Is the exchange rate adjusted daily for transactions? I've noticed a discrepancy in the rate applied to my recent purchase."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How do I unblock my card?",
+      "generated": "What steps can I take to reactivate my blocked card?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do I need to convert my currency from GBP before transferring?",
+      "generated": "Do I need to exchange my British pounds for another currency before making a transfer?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Tell me what I should do after my card expires.",
+      "generated": "What steps should I take once my credit card's expiration date has passed?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I need to know how much it costs to transfer funds.",
+      "generated": "I'd like to inquire about the transfer fee associated with moving funds."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I would like to request a card.",
+      "generated": "I'd like to place an order for a physical card."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why is my transaction taking so long to complete?",
+      "generated": "Why hasn't my transfer been received by the recipient yet?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "What should I do if my card payment was cancelled?",
+      "generated": "What happens if my card payment was reversed?"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "Need help to get my card to work.",
+      "generated": "Can you assist me in resolving the issue with my card not functioning properly?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Can my password be reset if I do not have it?",
+      "generated": "Can I recover my passcode if I've forgotten it?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "can I choose delivery times to suite me?",
+      "generated": "Can I select a delivery time that fits my schedule?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Do you think you're asking for too much information about me?",
+      "generated": "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "I need to order a new card.",
+      "generated": "I'd like to request a new physical card."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I thought crypto top up with something you offer. This is not working. The money has been deducted from my account. Can you find out what's going on?",
+      "generated": "I attempted to perform a crypto top-up using your service, but it appears to have been unsuccessful. The funds have been debited from my account, and I'd appreciate it if you could investigate this issue."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What are the places that you deliver cards to?",
+      "generated": "Where do you typically deliver physical cards to customers?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Who can I speak with regarding a lost card?",
+      "generated": "I'd like to report a missing credit card."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "What can i pay with out  fees",
+      "generated": "How can I make a payment without incurring any charges?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I went to top up my card and it was cancelled.",
+      "generated": "I attempted to add funds to my card, but the transaction was reversed."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined.",
+      "generated": "This morning, I attempted to make a cash withdrawal, but my card was rejected. Could you kindly verify the issue, as this is the first time it's happened?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't remember my app code, can you reset it?",
+      "generated": "I've forgotten my passcode, could you please reset it for me?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where can I pay with my card?",
+      "generated": "How can I use my card for payment?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I noticed an extra charge on the purchase that I made last Saturday on my account. Can you see if I received the correct exchange rate?",
+      "generated": "I'm reviewing my recent transaction history and noticed an unexpected fee. Could you check if the exchange rate was accurate for the purchase I made last weekend?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I got an cancellation error when I was topping up.",
+      "generated": "I encountered an error while attempting to make a top-up, and it was cancelled."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why was I charged extra on my last UK pound to Russian ruble exchange?",
+      "generated": "Why was I overcharged for the conversion of my UK pound to Russian ruble on my recent transaction?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "my identity hasn't been verified and i can't edit my details, what's next",
+      "generated": "since my identity has not been confirmed, I'm unable to update my personal information, what are the next steps?"
+    }
+  ]
+}

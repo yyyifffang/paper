@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I misplaced my card and require a replacement, what's the fee for a new one?",
+    "I'd like to receive my salary in pesos.",
+    "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?",
+    "I'm having trouble finding the automatic top-up feature, can you help me locate it?",
+    "my phone is currently at a hotel, can I still access the app?",
+    "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well.",
+    "Duplicate transaction appearing on my account statement.",
+    "How do I get my physical card delivered?",
+    "Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?",
+    "I've recently relocated to the United States and would like to obtain a new card.",
+    "My credit card's expiration date is approaching, will you automatically issue a new one for me?",
+    "We've noticed some transactions on your bank statement that don't match any payments you've made.",
+    "Why are the purchases I made earlier today still pending for payment?",
+    "Where can I place an order for a physical card?",
+    "I'm hesitant to confirm my identity through this process.",
+    "Where can I use my card?",
+    "Can I open an account for my child, considering the age limit for minors?",
+    "Can you deliver your physical cards to any location?",
+    "How do I initiate a transfer to add funds to an account?",
+    "The balance on my account didn't update after I made a transfer.",
+    "Can I open an account for my child?",
+    "How do I turn on my new credit card?",
+    "I'd like to cancel my account, please.",
+    "I'm unable to locate a payment in my account records.",
+    "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?",
+    "I'm having trouble with my contactless payment method.",
+    "Please inform me about the charge for exchanging currencies.",
+    "I made a payment to top up my account, but the funds are still pending, can you tell me what's going on?",
+    "Can you dispatch the physical card to me?",
+    "Can I perform a bank transfer to top up my account?",
+    "my card top-up is still pending, where can I locate it?",
+    "I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?",
+    "How do I initiate a transfer into an account?",
+    "Can I receive a physical card?",
+    "What steps can a US citizen take to obtain a new credit card?",
+    "Can I use this app to deposit my paycheck?",
+    "I require a replacement card as my previous one has been stolen."
+  ],
+  "generated_labels": [
+    39,
+    50,
+    53,
+    4,
+    42,
+    41,
+    63,
+    43,
+    29,
+    24,
+    9,
+    28,
+    45,
+    43,
+    74,
+    10,
+    1,
+    43,
+    65,
+    5,
+    1,
+    0,
+    55,
+    16,
+    64,
+    23,
+    31,
+    47,
+    43,
+    56,
+    62,
+    28,
+    65,
+    43,
+    24,
+    50,
+    41
+  ],
+  "source_texts": [
+    "I lost my card and need a new one, will it cost me?",
+    "i want to get my salary deposited as pesos?",
+    "The money is still in my account even though I already paid -- I don't understand what happened.",
+    "I know there's an auto-top option but I can not locate it when I look?",
+    "phone is at a hotel, can i still use app",
+    "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+    "Transaction showing up many times.",
+    "Card delivery services? Where?",
+    "A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?",
+    "I just moved to the US how do I get a card?",
+    "My card expires soon, will you send me one automatically?",
+    "Purchases I did not make are appearing in my bank statement?",
+    "Why are the things I bought earlier today still showing as pending?",
+    "Show me where to order my card.",
+    "I don't want to use this method to identify myself.",
+    "How do I know where I can use my card?",
+    "If I want my son to have his own account is that possible?",
+    "Do you ship your cards anywhere?",
+    "What are the steps for  making a transfer for topping up?",
+    "After I transferred money the balance remained the same.",
+    "Can I get an account for my son?",
+    "How can I switch on my new card?",
+    "I no longer want this account, what should I do?",
+    "I do not recongize a payment in my account.",
+    "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+    "I can't get a contactless payment to work.",
+    "Please tell me what the exchange fee is.",
+    "I already paid to top-up but the funds aren't available yet, where are they?",
+    "Can you send me the actual card?",
+    "Am I able to do a SWIFT transfer?",
+    "my top up isnt there yet where do i find it",
+    "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+    "Whats the transfer process",
+    "Do I get a real card?",
+    "How does a US resident go about acquiring a new card?",
+    "Can this app take my salary?",
+    "I need to order a new card as my other one was stolen."
+  ],
+  "records": [
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I lost my card and need a new one, will it cost me?",
+      "generated": "I misplaced my card and require a replacement, what's the fee for a new one?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "i want to get my salary deposited as pesos?",
+      "generated": "I'd like to receive my salary in pesos."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "The money is still in my account even though I already paid -- I don't understand what happened.",
+      "generated": "The payment I made hasn't been processed, and the funds are still in my account. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I know there's an auto-top option but I can not locate it when I look?",
+      "generated": "I'm having trouble finding the automatic top-up feature, can you help me locate it?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "phone is at a hotel, can i still use app",
+      "generated": "my phone is currently at a hotel, can I still access the app?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "My card has been stolen. I reported it with the police, but I need to report it with you as well.",
+      "generated": "My credit card has been stolen, and I've already informed the authorities. Now, I'd like to notify you as well."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Transaction showing up many times.",
+      "generated": "Duplicate transaction appearing on my account statement."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Card delivery services? Where?",
+      "generated": "How do I get my physical card delivered?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?",
+      "generated": "Can you tell me more about the disposable card limits your friend mentioned? What would I need to do to activate that feature for my own account?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I just moved to the US how do I get a card?",
+      "generated": "I've recently relocated to the United States and would like to obtain a new card."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "My card expires soon, will you send me one automatically?",
+      "generated": "My credit card's expiration date is approaching, will you automatically issue a new one for me?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Purchases I did not make are appearing in my bank statement?",
+      "generated": "We've noticed some transactions on your bank statement that don't match any payments you've made."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why are the things I bought earlier today still showing as pending?",
+      "generated": "Why are the purchases I made earlier today still pending for payment?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Show me where to order my card.",
+      "generated": "Where can I place an order for a physical card?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "I don't want to use this method to identify myself.",
+      "generated": "I'm hesitant to confirm my identity through this process."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "How do I know where I can use my card?",
+      "generated": "Where can I use my card?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "If I want my son to have his own account is that possible?",
+      "generated": "Can I open an account for my child, considering the age limit for minors?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do you ship your cards anywhere?",
+      "generated": "Can you deliver your physical cards to any location?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are the steps for  making a transfer for topping up?",
+      "generated": "How do I initiate a transfer to add funds to an account?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "After I transferred money the balance remained the same.",
+      "generated": "The balance on my account didn't update after I made a transfer."
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "Can I get an account for my son?",
+      "generated": "Can I open an account for my child?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "How can I switch on my new card?",
+      "generated": "How do I turn on my new credit card?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "I no longer want this account, what should I do?",
+      "generated": "I'd like to cancel my account, please."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I do not recongize a payment in my account.",
+      "generated": "I'm unable to locate a payment in my account records."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+      "generated": "A transfer I initiated was short by a certain amount, and I need to make an additional payment to complete the full transfer. What's going on?"
+    },
+    {
+      "label": 23,
+      "label_name": "contactless_not_working",
+      "original": "I can't get a contactless payment to work.",
+      "generated": "I'm having trouble with my contactless payment method."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Please tell me what the exchange fee is.",
+      "generated": "Please inform me about the charge for exchanging currencies."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I already paid to top-up but the funds aren't available yet, where are they?",
+      "generated": "I made a payment to top up my account, but the funds are still pending, can you tell me what's going on?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can you send me the actual card?",
+      "generated": "Can you dispatch the physical card to me?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Am I able to do a SWIFT transfer?",
+      "generated": "Can I perform a bank transfer to top up my account?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "my top up isnt there yet where do i find it",
+      "generated": "my card top-up is still pending, where can I locate it?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+      "generated": "I'm showing a payment in the app, but I haven't made any transactions today. Can you help me stop it?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Whats the transfer process",
+      "generated": "How do I initiate a transfer into an account?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do I get a real card?",
+      "generated": "Can I receive a physical card?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "How does a US resident go about acquiring a new card?",
+      "generated": "What steps can a US citizen take to obtain a new credit card?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can this app take my salary?",
+      "generated": "Can I use this app to deposit my paycheck?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I need to order a new card as my other one was stolen.",
+      "generated": "I require a replacement card as my previous one has been stolen."
+    }
+  ]
+}

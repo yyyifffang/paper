@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "Why isn't my Apple Pay account functioning properly?",
+    "I'm missing a withdrawal from my account.",
+    "I mistakenly entered my PIN and now I'm unable to access my account, can you help me log in?",
+    "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.",
+    "the amount I received from my ATM transaction was incorrect",
+    "I require a Mastercard",
+    "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?",
+    "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction.",
+    "I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?",
+    "The account balance remains unchanged.",
+    "I'm unable to add funds to my account.",
+    "Must I choose between Visa or Mastercard?",
+    "How long does it take for a cheque to clear before I can use it to top up my account?",
+    "Can you help me identify the source of my available funds?",
+    "Why was my cash withdrawal request denied?",
+    "I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?",
+    "Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?",
+    "Can I use a different currency when making a payment with a card, or do I need to use euros?",
+    "Please assist me in obtaining a Mastercard.",
+    "Can you tell me if there are any merchants that don't accept this particular card?",
+    "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?",
+    "I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?",
+    "Am I supposed to be charged a fee for the transfer of funds?",
+    "Why is the transfer still pending?",
+    "I got my new card, can you help me link it to my account so I can use it in the app?",
+    "I'd like to add funds to my account using my credit card.",
+    "are there any regular exchange rate promotions available?",
+    "Can I use my Apple Pay-enabled device to fill my gas tank?",
+    "utilize your credit to top up your account",
+    "Where can I access cash from?",
+    "Where can I access cash from an ATM or a bank branch?",
+    "I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card.",
+    "I'm having an issue with my account. I deposited cash yesterday, but my balance hasn't been updated. Could you please investigate and let me know what's going on?",
+    "Why was my card payment declined at the store?",
+    "Adding funds to your account using your credit card",
+    "I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?",
+    "I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize.",
+    "We accept a range of currencies for top-ups, including but not limited to the following: USD, EUR, JPY, and more."
+  ],
+  "generated_labels": [
+    2,
+    20,
+    49,
+    20,
+    75,
+    73,
+    3,
+    20,
+    61,
+    5,
+    7,
+    73,
+    58,
+    70,
+    26,
+    75,
+    46,
+    54,
+    73,
+    10,
+    46,
+    52,
+    64,
+    48,
+    13,
+    62,
+    31,
+    2,
+    54,
+    3,
+    3,
+    13,
+    6,
+    25,
+    62,
+    59,
+    20,
+    54
+  ],
+  "source_texts": [
+    "Can you explain why my Google Pay Top isn't working?",
+    "There is money missing from my account.",
+    "I logged in wrong and am blocked, how do I log in?",
+    "there is money in my account that i didnt put there",
+    "my atm transaction was wrong",
+    "I need a Visa card",
+    "I need to withdraw money. Where can I do that?",
+    "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+    "I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that?",
+    "The balance has not been updated.",
+    "I cant transfer money into my account",
+    "Do I have to pick a creditcard brand?",
+    "How long before a check I send clears?",
+    "How can I look at where my available cash is coming from?",
+    "Why can't I get cash out?",
+    "I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?",
+    "Why does it still charge me even though I was unable to withdraw money from the ATM?",
+    "Do I have to top up in euros if I use a card, or can I use a different currency?",
+    "Please help me get a Visa card.",
+    "Are there businesses that don't accept this card?",
+    "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+    "I just bought an item and would like to stop payment can you tell me if the item has been sent yet?",
+    "Should I be seeing a fee applied for my money transfer?",
+    "Why is the transaction not posting?",
+    "I received my card, how do I get it to work in the app?",
+    "I need to transfer some money, can I use my credit card?",
+    "is there a frequent currency discount?",
+    "Can I use my Apple watch to fill my gas tank?",
+    "use my credit to add money",
+    "\nWhere can I withdraw money from?",
+    "Where can I withdraw money from?",
+    "I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.",
+    "i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong?",
+    "why couldn't I use my card at a store?",
+    "Transferring money using credit card",
+    "I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",
+    "I believe my card has been compromised as there are funds showing that I did not receive.",
+    "What currency is acceptable for a top up?"
+  ],
+  "records": [
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can you explain why my Google Pay Top isn't working?",
+      "generated": "Why isn't my Apple Pay account functioning properly?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There is money missing from my account.",
+      "generated": "I'm missing a withdrawal from my account."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I logged in wrong and am blocked, how do I log in?",
+      "generated": "I mistakenly entered my PIN and now I'm unable to access my account, can you help me log in?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "there is money in my account that i didnt put there",
+      "generated": "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "my atm transaction was wrong",
+      "generated": "the amount I received from my ATM transaction was incorrect"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "I need a Visa card",
+      "generated": "I require a Mastercard"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need to withdraw money. Where can I do that?",
+      "generated": "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I got a message saying I made a withdrawal from the bank machine, but I did not.",
+      "generated": "I received a notification indicating that I withdrew cash from an ATM, but I'm certain I didn't make the transaction."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I'm having an issue with transaction. I topped up my account and saw it went through, but that was a few days ago and the money isn't in my account any more. What's up with that?",
+      "generated": "I'm experiencing a problem with a recent transaction. I successfully added funds to my account, but the deposit was made a few days ago, and now the balance has reverted to its previous state. Can you help me understand what's going on?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "The balance has not been updated.",
+      "generated": "The account balance remains unchanged."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I cant transfer money into my account",
+      "generated": "I'm unable to add funds to my account."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Do I have to pick a creditcard brand?",
+      "generated": "Must I choose between Visa or Mastercard?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "How long before a check I send clears?",
+      "generated": "How long does it take for a cheque to clear before I can use it to top up my account?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I look at where my available cash is coming from?",
+      "generated": "Can you help me identify the source of my available funds?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Why can't I get cash out?",
+      "generated": "Why was my cash withdrawal request denied?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?",
+      "generated": "I recently visited the ATM and didn't notice until now that I was shortchanged. I'm certain my account was debited for a larger amount, specifically 100, but I only received 80. Can you help me resolve this issue?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why does it still charge me even though I was unable to withdraw money from the ATM?",
+      "generated": "Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Do I have to top up in euros if I use a card, or can I use a different currency?",
+      "generated": "Can I use a different currency when making a payment with a card, or do I need to use euros?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Please help me get a Visa card.",
+      "generated": "Please assist me in obtaining a Mastercard."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Are there businesses that don't accept this card?",
+      "generated": "Can you tell me if there are any merchants that don't accept this particular card?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+      "generated": "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I just bought an item and would like to stop payment can you tell me if the item has been sent yet?",
+      "generated": "I recently made a purchase and would like to cancel the transaction. Can you inform me if the item has already been dispatched?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Should I be seeing a fee applied for my money transfer?",
+      "generated": "Am I supposed to be charged a fee for the transfer of funds?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Why is the transaction not posting?",
+      "generated": "Why is the transfer still pending?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I received my card, how do I get it to work in the app?",
+      "generated": "I got my new card, can you help me link it to my account so I can use it in the app?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I need to transfer some money, can I use my credit card?",
+      "generated": "I'd like to add funds to my account using my credit card."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "is there a frequent currency discount?",
+      "generated": "are there any regular exchange rate promotions available?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I use my Apple watch to fill my gas tank?",
+      "generated": "Can I use my Apple Pay-enabled device to fill my gas tank?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "use my credit to add money",
+      "generated": "utilize your credit to top up your account"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "\nWhere can I withdraw money from?",
+      "generated": "Where can I access cash from?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Where can I withdraw money from?",
+      "generated": "Where can I access cash from an ATM or a bank branch?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.",
+      "generated": "I had mistakenly cancelled my card after thinking it was lost, but I've since found it in my jacket and would like to reactivate the card."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong?",
+      "generated": "I'm having an issue with my account. I deposited cash yesterday, but my balance hasn't been updated. Could you please investigate and let me know what's going on?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "why couldn't I use my card at a store?",
+      "generated": "Why was my card payment declined at the store?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Transferring money using credit card",
+      "generated": "Adding funds to your account using your credit card"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",
+      "generated": "I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I believe my card has been compromised as there are funds showing that I did not receive.",
+      "generated": "I'm concerned that my card has been compromised because I'm seeing transactions that I didn't authorize."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What currency is acceptable for a top up?",
+      "generated": "We accept a range of currencies for top-ups, including but not limited to the following: USD, EUR, JPY, and more."
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "I'm puzzled as to why my top-up transaction was unsuccessful.",
+    "Why hasn't the recent bank transfer been reflected in my account balance?",
+    "When can I expect my new card to arrive?",
+    "Why was I charged a fee for withdrawing cash?",
+    "I still need to confirm a pending payment on my account.",
+    "Can you assist me in resolving the issue with my PIN being blocked?",
+    "Can I arrange for a card to be delivered to China?",
+    "When can I expect to receive my card?",
+    "How can I get my physical card delivered?",
+    "I'd like to resolve the issue with the double billing on my account.",
+    "Can I use a bank transfer to top up my account?",
+    "What currencies does Apple Pay or Google Pay accept for top-ups?",
+    "This top-up verification process is really frustrating.",
+    "Assist me in terminating a transfer.",
+    "Can I get my local currency at an ATM? I'm traveling and need some cash, but I'm worried about the exchange rate being incorrect, which might result in an unexpected fee. Is it possible to withdraw some cash without incurring extra charges?",
+    "I'm expecting a refund, but it's not showing up on my account statement.",
+    "Why was my cash withdrawal declined at the ATM?",
+    "What would cause a card payment to be reversed?",
+    "How can I use my debit or credit card for payment?",
+    "Can you process a foreign currency deposit into my account?",
+    "I'm concerned that an unauthorized person has accessed my card information and made a cash withdrawal. I still possess the card, but I'm worried about the recent transaction. Can you help me resolve this issue and prevent any further unauthorized activities?",
+    "I'm not sure why I was charged a fee when I made a payment using my card.",
+    "The beneficiary is not authorized to receive funds.",
+    "I'm not aware of any additional charges on my account. Can you please explain why I'm being assessed a fee?",
+    "How can I modify my personal information after a recent move, as I need to reflect the changes in my profile?",
+    "I'm trying to figure out what happened to my funds. I recently made a top-up payment, but it seems to have been reversed or cancelled. Can you help me understand what's going on?",
+    "The recipient is unable to view the transferred funds.",
+    "A fee was deducted from my payment when I used my card.",
+    "When I attempted to add funds to my account using my card, the entire amount vanished.",
+    "May I place an order for a physical card?",
+    "Can you explain why the top-up needs to be verified before it can be processed?",
+    "Update my personal information.",
+    "Can you please provide instructions on how to obtain a temporary virtual card?",
+    "A payment listed on my statement is not recognized.",
+    "I made a cash deposit to my account, but my account balance hasn't been updated yet.",
+    "Can you inform me when I'm being charged an additional fee for making payments? I noticed a fee on the app that I wasn't previously notified about.",
+    "My payment made with my card has been reversed",
+    "I'm having trouble making any transactions.",
+    "I'm wondering why I was assessed a transfer fee when I moved my money, can you explain?"
+  ],
+  "generated_labels": [
+    59,
+    5,
+    11,
+    19,
+    45,
+    49,
+    9,
+    12,
+    43,
+    63,
+    56,
+    2,
+    71,
+    8,
+    76,
+    51,
+    26,
+    53,
+    10,
+    50,
+    20,
+    15,
+    7,
+    15,
+    30,
+    61,
+    66,
+    15,
+    62,
+    43,
+    71,
+    30,
+    37,
+    16,
+    6,
+    15,
+    53,
+    14,
+    64
+  ],
+  "source_texts": [
+    "I'm confused as to why my top-up did not go through.",
+    "Can you tell me why the transfer isn't showing up on my account?",
+    "When will my new card arrive?",
+    "Why did you charge me for taking out cash?",
+    "I have a payment that has not gone through yet",
+    "Can someone help me unblock my pin?",
+    "Am I able to have a card sent to China?",
+    "how soon will my card arrive?",
+    "How to receive the actual card",
+    "How do I get my money back for a duplicated charge?",
+    "Is a SWIFT transfer acceptable?",
+    "What currencies does google pay top up accept?",
+    "this verifying the top up is annoying",
+    "Help me cancel a transaction.",
+    "Can I get money in my home currency at an ATM? I'm on vacation and don't have cash with me. This is cause for a bit of concern. Is it possible to withdraw here without additional cost?",
+    "I'm due a refund and it is not on my statement.",
+    "Can you please tell me why I cant get money from the ATM?",
+    "Explain why a card payment would be cancelled?",
+    "Where do I pay with my debit or credit card?",
+    "Will you accept my salary if it's in another currency?",
+    "Someone has access to my card info.  I still have the card, but someone just withdrew cash.  How do I get this corrected/stopped?!",
+    "How was I charged extra when I used my card to pay?",
+    "Why can I not do a  transfer",
+    "Why am I being charged a hidden fee?",
+    "What should I do after I've moved and need to update my personal details?",
+    "I need someone to find out where my money has gone to? It has disappeared. I completed a top up earlier and seen it had went through. Since it has now disappeared I need to know what's going on.",
+    "Why can't the person I sent the money transfer to see it?",
+    "There was a fee charged when I paid with my card.",
+    "When I tried to top up using my card, all of the money disappeared.",
+    "Can I order a card?",
+    "Tell me why I need top-up to be verified?",
+    "Tell me how to change my details.",
+    "How do I get a disposable virtual card as well?",
+    "A payment on my statement is wrong.",
+    "I did a cash deposit to my account but it doesn't show up",
+    "Let me know when I get charged extra for payments. I saw on the app a fee I wasn't forewarned about.",
+    "My card payment has been cancelled",
+    "I seem to be unable to make any transactions.",
+    "I was charged a fee when I transferred my funds, why?"
+  ],
+  "records": [
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I'm confused as to why my top-up did not go through.",
+      "generated": "I'm puzzled as to why my top-up transaction was unsuccessful."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Can you tell me why the transfer isn't showing up on my account?",
+      "generated": "Why hasn't the recent bank transfer been reflected in my account balance?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "When will my new card arrive?",
+      "generated": "When can I expect my new card to arrive?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Why did you charge me for taking out cash?",
+      "generated": "Why was I charged a fee for withdrawing cash?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I have a payment that has not gone through yet",
+      "generated": "I still need to confirm a pending payment on my account."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "Can someone help me unblock my pin?",
+      "generated": "Can you assist me in resolving the issue with my PIN being blocked?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Am I able to have a card sent to China?",
+      "generated": "Can I arrange for a card to be delivered to China?"
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "how soon will my card arrive?",
+      "generated": "When can I expect to receive my card?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "How to receive the actual card",
+      "generated": "How can I get my physical card delivered?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "How do I get my money back for a duplicated charge?",
+      "generated": "I'd like to resolve the issue with the double billing on my account."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is a SWIFT transfer acceptable?",
+      "generated": "Can I use a bank transfer to top up my account?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "What currencies does google pay top up accept?",
+      "generated": "What currencies does Apple Pay or Google Pay accept for top-ups?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "this verifying the top up is annoying",
+      "generated": "This top-up verification process is really frustrating."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "Help me cancel a transaction.",
+      "generated": "Assist me in terminating a transfer."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Can I get money in my home currency at an ATM? I'm on vacation and don't have cash with me. This is cause for a bit of concern. Is it possible to withdraw here without additional cost?",
+      "generated": "Can I get my local currency at an ATM? I'm traveling and need some cash, but I'm worried about the exchange rate being incorrect, which might result in an unexpected fee. Is it possible to withdraw some cash without incurring extra charges?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "I'm due a refund and it is not on my statement.",
+      "generated": "I'm expecting a refund, but it's not showing up on my account statement."
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Can you please tell me why I cant get money from the ATM?",
+      "generated": "Why was my cash withdrawal declined at the ATM?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Explain why a card payment would be cancelled?",
+      "generated": "What would cause a card payment to be reversed?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my debit or credit card?",
+      "generated": "How can I use my debit or credit card for payment?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Will you accept my salary if it's in another currency?",
+      "generated": "Can you process a foreign currency deposit into my account?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Someone has access to my card info.  I still have the card, but someone just withdrew cash.  How do I get this corrected/stopped?!",
+      "generated": "I'm concerned that an unauthorized person has accessed my card information and made a cash withdrawal. I still possess the card, but I'm worried about the recent transaction. Can you help me resolve this issue and prevent any further unauthorized activities?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "How was I charged extra when I used my card to pay?",
+      "generated": "I'm not sure why I was charged a fee when I made a payment using my card."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why can I not do a  transfer",
+      "generated": "The beneficiary is not authorized to receive funds."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why am I being charged a hidden fee?",
+      "generated": "I'm not aware of any additional charges on my account. Can you please explain why I'm being assessed a fee?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "What should I do after I've moved and need to update my personal details?",
+      "generated": "How can I modify my personal information after a recent move, as I need to reflect the changes in my profile?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I need someone to find out where my money has gone to? It has disappeared. I completed a top up earlier and seen it had went through. Since it has now disappeared I need to know what's going on.",
+      "generated": "I'm trying to figure out what happened to my funds. I recently made a top-up payment, but it seems to have been reversed or cancelled. Can you help me understand what's going on?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why can't the person I sent the money transfer to see it?",
+      "generated": "The recipient is unable to view the transferred funds."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "There was a fee charged when I paid with my card.",
+      "generated": "A fee was deducted from my payment when I used my card."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "When I tried to top up using my card, all of the money disappeared.",
+      "generated": "When I attempted to add funds to my account using my card, the entire amount vanished."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can I order a card?",
+      "generated": "May I place an order for a physical card?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Tell me why I need top-up to be verified?",
+      "generated": "Can you explain why the top-up needs to be verified before it can be processed?"
+    },
+    {
+      "label": 30,
+      "label_name": "edit_personal_details",
+      "original": "Tell me how to change my details.",
+      "generated": "Update my personal information."
+    },
+    {
+      "label": 37,
+      "label_name": "get_disposable_virtual_card",
+      "original": "How do I get a disposable virtual card as well?",
+      "generated": "Can you please provide instructions on how to obtain a temporary virtual card?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "A payment on my statement is wrong.",
+      "generated": "A payment listed on my statement is not recognized."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I did a cash deposit to my account but it doesn't show up",
+      "generated": "I made a cash deposit to my account, but my account balance hasn't been updated yet."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Let me know when I get charged extra for payments. I saw on the app a fee I wasn't forewarned about.",
+      "generated": "Can you inform me when I'm being charged an additional fee for making payments? I noticed a fee on the app that I wasn't previously notified about."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My card payment has been cancelled",
+      "generated": "My payment made with my card has been reversed"
+    },
+    {
+      "label": 14,
+      "label_name": "card_not_working",
+      "original": "I seem to be unable to make any transactions.",
+      "generated": "I'm having trouble making any transactions."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I was charged a fee when I transferred my funds, why?",
+      "generated": "I'm wondering why I was assessed a transfer fee when I moved my money, can you explain?"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "generated_texts": [
+    "I attempted to refresh my account balance after depositing cash yesterday, but it appears to be stuck. Can you investigate why it's taking so long to reflect the update?",
+    "We've noticed an unusual payment on your account, made by a merchant you don't have a record of. Could you please confirm if this is a direct debit payment that was not recognized by our system?",
+    "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account.",
+    "Is there a charge for topping up my account using my card in USD?",
+    "I'm holding my card and I've just noticed that someone has made a cash withdrawal of an unknown amount. Can you assist me with this issue?",
+    "Why isn't my payment showing up?",
+    "Are U.S. citizens eligible to use this card?",
+    "I'm concerned about the status of a recent transfer from a UK account. I initiated it a short while ago, but my account balance hasn't been updated yet. Could you please confirm everything is in order?",
+    "What's going on with this transfer? It's not processing as expected.",
+    "I'd like to inquire about the transfer fee associated with moving funds.",
+    "Why am I unable to proceed with the crypto exchange? I require assistance to facilitate this transaction.",
+    "How can I link a new card to my account?",
+    "Must I choose between Visa or Mastercard?",
+    "Can I use the disposable cards anywhere, or are there specific locations where they are not accepted?",
+    "If I make a top-up payment via bank transfer, are there any charges involved?",
+    "I've forgotten my passcode, could you please reset it for me?",
+    "Why is my cash withdrawal still pending?",
+    "A payment made from my account was not recognized.",
+    "What types of payment cards do you accept?",
+    "I'm concerned that my card has been compromised and someone is attempting to make unauthorized cash withdrawals. Can you assist me in suspending my card's activity or canceling it altogether?",
+    "Is a US citizen eligible to apply for a credit card?",
+    "Are you able to provide cards to individuals residing in the United States?",
+    "Can I recover my passcode if I've forgotten it?",
+    "Why was my payment rejected by the app?",
+    "Can I set up automatic top-ups for my card while I'm traveling?",
+    "I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?",
+    "When can I expect a transfer from the US to be processed?",
+    "I'm trying to figure out where this payment on my account originated from. Can you help me identify the source of this transaction?",
+    "I'm concerned about the status of my recent payment. Can you please let me know when I can expect it to be processed?",
+    "I require assistance in connecting my recently issued card.",
+    "I'm seeking a refund due to an erroneous transaction."
+  ],
+  "generated_labels": [
+    6,
+    28,
+    34,
+    57,
+    20,
+    53,
+    24,
+    5,
+    35,
+    64,
+    7,
+    13,
+    73,
+    29,
+    56,
+    44,
+    46,
+    28,
+    73,
+    20,
+    24,
+    24,
+    44,
+    53,
+    4,
+    66,
+    67,
+    16,
+    45,
+    13,
+    52
+  ],
+  "source_texts": [
+    "I tried updating my balance by cheque yesterday but it doesn't seem to be working. Shouldn't that be faster? Please check my account something has gone wrong there.",
+    "There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.",
+    "Why is it showing that my account has been charged a dollar that is showing as pending?",
+    "Do you charge a fee for adding money in USD?",
+    "I have my card here with me and someone has just made a withdrawal for 500. Please help!",
+    "How come I can't find my payment?",
+    "Is this card available to Americans?",
+    "For you, how long do transfers normally take from a UK account? I completed one just now but nothing appears. I just need to be sure everything is okay.",
+    "How is this transfer supposed to work? It's not working for me.",
+    "I need to know how much it costs to transfer funds.",
+    "Why is this not letting me exchange crypto? I need help making this transaction go through.",
+    "Where do I go to add a new card?",
+    "Do I have to pick a creditcard brand?",
+    "Are there any places that I can't use the disposable cards at?",
+    "If I top-up by using a trasfer are there charges that applied?",
+    "I can't remember my app code, can you reset it?",
+    "Why has my withdrawal not posted?",
+    "Someone else charged my card!",
+    "What credit cards do you carry",
+    "I just lost my wallet and I think someone is using my card to withdraw my money. Can you please cancel or freeze my card?!!",
+    "Can an American resident apply to get a card?",
+    "Do you issue cards for someone living in the US?",
+    "Can my password be reset if I do not have it?",
+    "Why wasn't my payment accepted by the app",
+    "Can I add money to my card automatically during a trip?",
+    "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?",
+    "When will a transfer from the US post?",
+    "How do I find out how or where this transaction on my account came from?",
+    "I was wondering how long does it take for a payment to go thru? It seems my last payment is stuck and hasn't moved.",
+    "I need some help linking my new card.",
+    "I have an incorrect charge and would like a refund."
+  ],
+  "records": [
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "I tried updating my balance by cheque yesterday but it doesn't seem to be working. Shouldn't that be faster? Please check my account something has gone wrong there.",
+      "generated": "I attempted to refresh my account balance after depositing cash yesterday, but it appears to be stuck. Can you investigate why it's taking so long to reflect the update?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.",
+      "generated": "We've noticed an unusual payment on your account, made by a merchant you don't have a record of. Could you please confirm if this is a direct debit payment that was not recognized by our system?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Why is it showing that my account has been charged a dollar that is showing as pending?",
+      "generated": "We noticed that there's an additional charge listed on your statement that's still pending, and we'd like to clarify why it was applied to your account."
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Do you charge a fee for adding money in USD?",
+      "generated": "Is there a charge for topping up my account using my card in USD?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I have my card here with me and someone has just made a withdrawal for 500. Please help!",
+      "generated": "I'm holding my card and I've just noticed that someone has made a cash withdrawal of an unknown amount. Can you assist me with this issue?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "How come I can't find my payment?",
+      "generated": "Why isn't my payment showing up?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Is this card available to Americans?",
+      "generated": "Are U.S. citizens eligible to use this card?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "For you, how long do transfers normally take from a UK account? I completed one just now but nothing appears. I just need to be sure everything is okay.",
+      "generated": "I'm concerned about the status of a recent transfer from a UK account. I initiated it a short while ago, but my account balance hasn't been updated yet. Could you please confirm everything is in order?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "How is this transfer supposed to work? It's not working for me.",
+      "generated": "What's going on with this transfer? It's not processing as expected."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I need to know how much it costs to transfer funds.",
+      "generated": "I'd like to inquire about the transfer fee associated with moving funds."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is this not letting me exchange crypto? I need help making this transaction go through.",
+      "generated": "Why am I unable to proceed with the crypto exchange? I require assistance to facilitate this transaction."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Where do I go to add a new card?",
+      "generated": "How can I link a new card to my account?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Do I have to pick a creditcard brand?",
+      "generated": "Must I choose between Visa or Mastercard?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Are there any places that I can't use the disposable cards at?",
+      "generated": "Can I use the disposable cards anywhere, or are there specific locations where they are not accepted?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "If I top-up by using a trasfer are there charges that applied?",
+      "generated": "If I make a top-up payment via bank transfer, are there any charges involved?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't remember my app code, can you reset it?",
+      "generated": "I've forgotten my passcode, could you please reset it for me?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why has my withdrawal not posted?",
+      "generated": "Why is my cash withdrawal still pending?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Someone else charged my card!",
+      "generated": "A payment made from my account was not recognized."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "What credit cards do you carry",
+      "generated": "What types of payment cards do you accept?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I just lost my wallet and I think someone is using my card to withdraw my money. Can you please cancel or freeze my card?!!",
+      "generated": "I'm concerned that my card has been compromised and someone is attempting to make unauthorized cash withdrawals. Can you assist me in suspending my card's activity or canceling it altogether?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can an American resident apply to get a card?",
+      "generated": "Is a US citizen eligible to apply for a credit card?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Do you issue cards for someone living in the US?",
+      "generated": "Are you able to provide cards to individuals residing in the United States?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "Can my password be reset if I do not have it?",
+      "generated": "Can I recover my passcode if I've forgotten it?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why wasn't my payment accepted by the app",
+      "generated": "Why was my payment rejected by the app?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money to my card automatically during a trip?",
+      "generated": "Can I set up automatic top-ups for my card while I'm traveling?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?",
+      "generated": "I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "When will a transfer from the US post?",
+      "generated": "When can I expect a transfer from the US to be processed?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "How do I find out how or where this transaction on my account came from?",
+      "generated": "I'm trying to figure out where this payment on my account originated from. Can you help me identify the source of this transaction?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I was wondering how long does it take for a payment to go thru? It seems my last payment is stuck and hasn't moved.",
+      "generated": "I'm concerned about the status of my recent payment. Can you please let me know when I can expect it to be processed?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I need some help linking my new card.",
+      "generated": "I require assistance in connecting my recently issued card."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I have an incorrect charge and would like a refund.",
+      "generated": "I'm seeking a refund due to an erroneous transaction."
+    }
+  ]
+}

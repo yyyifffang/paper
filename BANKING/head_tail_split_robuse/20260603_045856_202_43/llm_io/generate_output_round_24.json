@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "Can you accept direct deposits from my employer's payroll department?",
+    "I'd like to increase the available balance on my card, could you guide me on how to do that?",
+    "I've already deposited the cash, yet my account remains pending. Why is my account still showing a pending status?",
+    "I'm experiencing an issue with an unauthorized cash withdrawal that was made on my account. I still have my card in my possession, but the transaction doesn't seem to be recognized by the system.",
+    "A pending cash withdrawal is awaiting processing.",
+    "Could you walk me through the process of transferring funds into an account?",
+    "Why isn't my bank transfer reflected in my account balance?",
+    "I'm still waiting to see the refund from a recent transaction with a merchant. Can you check if it's been credited to my account yet?",
+    "Can you assist me in closing my active account?",
+    "What charges do I need to pay when I process a payment?",
+    "Why was there an additional charge when I used my credit card to make the payment?",
+    "Can I transfer funds from my bank account to add more money to it?",
+    "What is the age requirement for the documents I need to provide for verification purposes?",
+    "What are the restrictions on disposable card usage?",
+    "How can I get my payroll deposited into my account?",
+    "Can I track the status of my card as it's being delivered to me?",
+    "Please inform me about the available currencies I can use to replenish my account balance.",
+    "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet.",
+    "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction.",
+    "I've stopped making payments on this card.",
+    "How do you facilitate transfers into an account?",
+    "I'm really disappointed. My payment was declined, and I'm not sure why.",
+    "What is the price of a physical card, and can you explain the fees associated with it?",
+    "Why isn't my refund appearing in my account statement?",
+    "I made a top-up and tried to make a purchase, but it's showing that my funds are still pending. Can you help me expedite this process?",
+    "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening.",
+    "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now.",
+    "A store I frequent refused to accept my payment.",
+    "Is my credit card being rejected anywhere?",
+    "Can you provide me with a list of locations where I can use my card for transactions?",
+    "I'd like to stop the transfer process and cancel the transaction.",
+    "Why is my card payment being declined when I try to use it?",
+    "What's the process for exchanging foreign currencies for cash transfers?",
+    "Are there any fees associated with withdrawing cash?",
+    "Are there any fees associated with using a credit or debit card for payment?",
+    "How do I go about terminating a transfer I initiated earlier?",
+    "If someone wants to add funds to my account, can they do so using my card?"
+  ],
+  "generated_labels": [
+    50,
+    60,
+    46,
+    20,
+    46,
+    65,
+    5,
+    51,
+    55,
+    15,
+    15,
+    65,
+    69,
+    29,
+    50,
+    11,
+    54,
+    48,
+    28,
+    53,
+    65,
+    25,
+    43,
+    51,
+    47,
+    25,
+    15,
+    25,
+    10,
+    10,
+    8,
+    25,
+    32,
+    19,
+    15,
+    8,
+    62
+  ],
+  "source_texts": [
+    "Do you support direct deposits from my employer?",
+    "I need to add a serious amount of cash to my card, how do I do that?",
+    "I have the cash already, my account still shows up as pending.  How can my account be still pending?",
+    "There are incorrect charges on my account, there was a WD that was made by someone else.  I still have my card though.",
+    "I have a withdrawal waiting to go through.",
+    "Can you please explain the topping up transfer process?",
+    "How can I fix my bank transfer to show up on my bank account?",
+    "Are the funds I requested from a merchant a few days ago in my account? I do not see them.",
+    "Can you please disable my current account.",
+    "What are the fees imposed when I make a transaction?",
+    "Why was the price higher when I paid with my card?",
+    "Can I use my bank account to send me more money?",
+    "How recent do my documents need to be for verification?",
+    "Are there any limits if I use these virtual cards?",
+    "What do I need to do to receive my payroll in the account?",
+    "Is there a way I can check on the card on route to me?",
+    "Please let me know what currency I can use to top up my account?",
+    "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+    "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+    "I have cancelled payments to this card.",
+    "What transfer methods do you accept?",
+    "I was so embarrassed. Why didn't my payment clear?",
+    "how much does a card cost and why do you charge me",
+    "When will my returned transaction show up on my account?",
+    "I topped up and went to buy something, but it says that my funds are pending. Is there a way to quicken this process?",
+    "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+    "i have used my card online before and wasn't charged, why am i charged now",
+    "A shop I go to didn't let me pay.",
+    "Is my card denied anywhere?",
+    "Is there a list of where I can use my card?",
+    "I don't need to transfer anymore and I want to cancel it.",
+    "When I use my card, it says decline?",
+    "If I need to cash foreign transfers, how does that work?",
+    "Is there a charge for getting cash?",
+    "Do you have charges now when you pay with a card?",
+    "What are the steps I need to take to cancel a transaction?",
+    "If I want a friend to top off my account, can they?"
+  ],
+  "records": [
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do you support direct deposits from my employer?",
+      "generated": "Can you accept direct deposits from my employer's payroll department?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "I need to add a serious amount of cash to my card, how do I do that?",
+      "generated": "I'd like to increase the available balance on my card, could you guide me on how to do that?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I have the cash already, my account still shows up as pending.  How can my account be still pending?",
+      "generated": "I've already deposited the cash, yet my account remains pending. Why is my account still showing a pending status?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "There are incorrect charges on my account, there was a WD that was made by someone else.  I still have my card though.",
+      "generated": "I'm experiencing an issue with an unauthorized cash withdrawal that was made on my account. I still have my card in my possession, but the transaction doesn't seem to be recognized by the system."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "I have a withdrawal waiting to go through.",
+      "generated": "A pending cash withdrawal is awaiting processing."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can you please explain the topping up transfer process?",
+      "generated": "Could you walk me through the process of transferring funds into an account?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "How can I fix my bank transfer to show up on my bank account?",
+      "generated": "Why isn't my bank transfer reflected in my account balance?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "Are the funds I requested from a merchant a few days ago in my account? I do not see them.",
+      "generated": "I'm still waiting to see the refund from a recent transaction with a merchant. Can you check if it's been credited to my account yet?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "Can you please disable my current account.",
+      "generated": "Can you assist me in closing my active account?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "What are the fees imposed when I make a transaction?",
+      "generated": "What charges do I need to pay when I process a payment?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Why was the price higher when I paid with my card?",
+      "generated": "Why was there an additional charge when I used my credit card to make the payment?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Can I use my bank account to send me more money?",
+      "generated": "Can I transfer funds from my bank account to add more money to it?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How recent do my documents need to be for verification?",
+      "generated": "What is the age requirement for the documents I need to provide for verification purposes?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Are there any limits if I use these virtual cards?",
+      "generated": "What are the restrictions on disposable card usage?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What do I need to do to receive my payroll in the account?",
+      "generated": "How can I get my payroll deposited into my account?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Is there a way I can check on the card on route to me?",
+      "generated": "Can I track the status of my card as it's being delivered to me?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Please let me know what currency I can use to top up my account?",
+      "generated": "Please inform me about the available currencies I can use to replenish my account balance."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I double checked that I have the correct account details already, they're right for sure. Transfer is still pending since forever. It should not have been done so.",
+      "generated": "I've reconfirmed my account information, and it's accurate. The transfer remains pending, and I'm surprised it hasn't been processed yet."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",
+      "generated": "Can I review a past transaction to identify who made a withdrawal from my account? I'm concerned about an unauthorized payment that occurred a few weeks ago and would like to verify who was responsible for the transaction."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I have cancelled payments to this card.",
+      "generated": "I've stopped making payments on this card."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What transfer methods do you accept?",
+      "generated": "How do you facilitate transfers into an account?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I was so embarrassed. Why didn't my payment clear?",
+      "generated": "I'm really disappointed. My payment was declined, and I'm not sure why."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "how much does a card cost and why do you charge me",
+      "generated": "What is the price of a physical card, and can you explain the fees associated with it?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "When will my returned transaction show up on my account?",
+      "generated": "Why isn't my refund appearing in my account statement?"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "I topped up and went to buy something, but it says that my funds are pending. Is there a way to quicken this process?",
+      "generated": "I made a top-up and tried to make a purchase, but it's showing that my funds are still pending. Can you help me expedite this process?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.",
+      "generated": "I'm having trouble with my card, as it's consistently being declined whenever I attempt to use it. Despite trying multiple times, it's still being rejected, and I'm unsure why this is happening."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "i have used my card online before and wasn't charged, why am i charged now",
+      "generated": "I've made online transactions with my card previously without being charged a fee, so I'm puzzled as to why I'm being charged one now."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "A shop I go to didn't let me pay.",
+      "generated": "A store I frequent refused to accept my payment."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is my card denied anywhere?",
+      "generated": "Is my credit card being rejected anywhere?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is there a list of where I can use my card?",
+      "generated": "Can you provide me with a list of locations where I can use my card for transactions?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I don't need to transfer anymore and I want to cancel it.",
+      "generated": "I'd like to stop the transfer process and cancel the transaction."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "When I use my card, it says decline?",
+      "generated": "Why is my card payment being declined when I try to use it?"
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "If I need to cash foreign transfers, how does that work?",
+      "generated": "What's the process for exchanging foreign currencies for cash transfers?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Is there a charge for getting cash?",
+      "generated": "Are there any fees associated with withdrawing cash?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Do you have charges now when you pay with a card?",
+      "generated": "Are there any fees associated with using a credit or debit card for payment?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "What are the steps I need to take to cancel a transaction?",
+      "generated": "How do I go about terminating a transfer I initiated earlier?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "If I want a friend to top off my account, can they?",
+      "generated": "If someone wants to add funds to my account, can they do so using my card?"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I'm not satisfied with the exchange rate applied to my cash withdrawal.",
+    "What are the details about my limit for making top-ups?",
+    "I'm a new customer and I was wondering if there are any extra charges or fees I should know about. I noticed something about fee-free transactions in the app, but I'm not entirely sure what it means.",
+    "I was charged a fee for using my card to make the payment.",
+    "Why is my pending top-up for my new account not processed immediately?",
+    "I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct.",
+    "We're having trouble confirming your identity through our system.",
+    "Can you assist me in generating multiple temporary cards daily?",
+    "Could you please clarify the reason behind the additional charge of one lakh rupees on my statement? I'm certain I haven't made any transactions in this amount.",
+    "We're having trouble verifying your identity, could you please assist us in resolving this issue?",
+    "I can see the funds in my account, but the balance hasn't been updated after I made a transfer.",
+    "The system is unable to confirm that the information provided matches your identity.",
+    "Can I make payments for membership fees using my virtual card?",
+    "Can I initiate a return and request a refund?",
+    "How long does it take for the courier to deliver the card?",
+    "The rate used for the foreign currency conversion was incorrect, resulting in an unexpected amount being charged to my card.",
+    "what happened to the funds after I entered incorrect details and the transaction was declined using my card?",
+    "How do I go about charging my card to top up my account?",
+    "I'm attempting to initiate a transfer from my account to another account, but I'm receiving an error notification.",
+    "When can I expect my funds to be available in my account?",
+    "I'm not sure what my card balance is after the recent top-up.",
+    "Is there a specific limit beyond which I would no longer be able to increase my limits by topping up?",
+    "What is the limit on the number of top-ups that can be processed?",
+    "I'm concerned that someone has compromised my card information, as I've noticed an unauthorized transaction on my app from a location that's not near my usual shopping spots. I'm counting on getting that refund to cover my rent payment.",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate.",
+    "The system is unable to confirm your identity through our usual verification methods.",
+    "Could you please provide me with tracking information for my card arrival?",
+    "I'm still waiting for an explanation about the additional fee that appeared on my statement.",
+    "I'm concerned about potential security risks. Can you confirm my identity to ensure my account is secure?",
+    "The exchange rate used for my recent transaction appears to be incorrect.",
+    "Why hasn't my transfer arrived yet? It's been an unacceptable delay.",
+    "Will I be charged a fee when I top up my account using a bank transfer?",
+    "Can you assist me in getting a refund for a recent purchase credited back to my account?",
+    "The exchange rate you're using seems incorrect. It's not the standard interbank rate.",
+    "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution.",
+    "I'm planning a trip abroad and I'd like to withdraw some cash from a local ATM, but I'm concerned that I'll be hit with an unfavorable exchange rate, which might result in an unexpected fee.",
+    "I require an immediate refund, but the refund amount is not showing up in my account."
+  ],
+  "generated_labels": [
+    76,
+    60,
+    15,
+    15,
+    47,
+    27,
+    68,
+    29,
+    34,
+    68,
+    5,
+    68,
+    72,
+    52,
+    11,
+    17,
+    62,
+    57,
+    27,
+    67,
+    62,
+    60,
+    60,
+    28,
+    17,
+    68,
+    11,
+    34,
+    69,
+    17,
+    66,
+    56,
+    52,
+    17,
+    17,
+    76,
+    51
+  ],
+  "source_texts": [
+    "I'm unhappy with the exchange rate your cash transactions.",
+    "How can I information on my limit for top-ups?",
+    "Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances.",
+    "I had to pay money for paying with my card.",
+    "Why is  my  top  up for  my  new account  not  instant",
+    "I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate.",
+    "The app is telling me that I am not me.",
+    "Help me create several temp cards every day.",
+    "Please explain the charge of 1L in error.  I have purchased nothing in this amount.",
+    "My identity isn't being accepted, what should I do?",
+    "I can still see money in my account after making a payment",
+    "The app does not believe that I am myself",
+    "Can I use my virtual card to complete transactions for memberships?",
+    "Do you have a return policy?",
+    "maximum how many days get the courier?",
+    "Why was the exchange wrong for the item I purchased?",
+    "what happened to the money after i put in the wrong info and it got declined",
+    "Can I get information on topping up?",
+    "I'm trying to move money from my account to elsewhere, but it's giving me an error message.",
+    "How long will I have to wait for my money to be in my account?",
+    "I cannot tell what my top up currently is.",
+    "Is there any amount in which I would get cut off from topping up?",
+    "How many top-ups can be approved?",
+    "hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent.",
+    "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+    "The app doesn't believe that I am myself",
+    "Was there a way for me to get tracking for that?",
+    "I still have not received an answer as to why I was charged $1.00 in a transaction?",
+    "im worried about fraud how do you protect my account",
+    "my exchange rate looks wrong for my last payment",
+    "When will I get my money? It's been too long.",
+    "Will there be a charge when money is added to my account?",
+    "Is there a way you can have money from a purchase I made refunded to my account.",
+    "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+    "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+    "How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.",
+    "i need a refund right away but the funds aren't available in my account"
+  ],
+  "records": [
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I'm unhappy with the exchange rate your cash transactions.",
+      "generated": "I'm not satisfied with the exchange rate applied to my cash withdrawal."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How can I information on my limit for top-ups?",
+      "generated": "What are the details about my limit for making top-ups?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances.",
+      "generated": "I'm a new customer and I was wondering if there are any extra charges or fees I should know about. I noticed something about fee-free transactions in the app, but I'm not entirely sure what it means."
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "I had to pay money for paying with my card.",
+      "generated": "I was charged a fee for using my card to make the payment."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Why is  my  top  up for  my  new account  not  instant",
+      "generated": "Why is my pending top-up for my new account not processed immediately?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate.",
+      "generated": "I've been attempting to initiate a transfer to another account, but it's consistently being declined. I've double-checked my details multiple times and they're correct."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app is telling me that I am not me.",
+      "generated": "We're having trouble confirming your identity through our system."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Help me create several temp cards every day.",
+      "generated": "Can you assist me in generating multiple temporary cards daily?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "Please explain the charge of 1L in error.  I have purchased nothing in this amount.",
+      "generated": "Could you please clarify the reason behind the additional charge of one lakh rupees on my statement? I'm certain I haven't made any transactions in this amount."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "My identity isn't being accepted, what should I do?",
+      "generated": "We're having trouble verifying your identity, could you please assist us in resolving this issue?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I can still see money in my account after making a payment",
+      "generated": "I can see the funds in my account, but the balance hasn't been updated after I made a transfer."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app does not believe that I am myself",
+      "generated": "The system is unable to confirm that the information provided matches your identity."
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Can I use my virtual card to complete transactions for memberships?",
+      "generated": "Can I make payments for membership fees using my virtual card?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Do you have a return policy?",
+      "generated": "Can I initiate a return and request a refund?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "maximum how many days get the courier?",
+      "generated": "How long does it take for the courier to deliver the card?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why was the exchange wrong for the item I purchased?",
+      "generated": "The rate used for the foreign currency conversion was incorrect, resulting in an unexpected amount being charged to my card."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "what happened to the money after i put in the wrong info and it got declined",
+      "generated": "what happened to the funds after I entered incorrect details and the transaction was declined using my card?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Can I get information on topping up?",
+      "generated": "How do I go about charging my card to top up my account?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I'm trying to move money from my account to elsewhere, but it's giving me an error message.",
+      "generated": "I'm attempting to initiate a transfer from my account to another account, but I'm receiving an error notification."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long will I have to wait for my money to be in my account?",
+      "generated": "When can I expect my funds to be available in my account?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I cannot tell what my top up currently is.",
+      "generated": "I'm not sure what my card balance is after the recent top-up."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is there any amount in which I would get cut off from topping up?",
+      "generated": "Is there a specific limit beyond which I would no longer be able to increase my limits by topping up?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "How many top-ups can be approved?",
+      "generated": "What is the limit on the number of top-ups that can be processed?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent.",
+      "generated": "I'm concerned that someone has compromised my card information, as I've noticed an unauthorized transaction on my app from a location that's not near my usual shopping spots. I'm counting on getting that refund to cover my rent payment."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the interbank rate."
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app doesn't believe that I am myself",
+      "generated": "The system is unable to confirm your identity through our usual verification methods."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Was there a way for me to get tracking for that?",
+      "generated": "Could you please provide me with tracking information for my card arrival?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I still have not received an answer as to why I was charged $1.00 in a transaction?",
+      "generated": "I'm still waiting for an explanation about the additional fee that appeared on my statement."
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "im worried about fraud how do you protect my account",
+      "generated": "I'm concerned about potential security risks. Can you confirm my identity to ensure my account is secure?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "my exchange rate looks wrong for my last payment",
+      "generated": "The exchange rate used for my recent transaction appears to be incorrect."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "When will I get my money? It's been too long.",
+      "generated": "Why hasn't my transfer arrived yet? It's been an unacceptable delay."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Will there be a charge when money is added to my account?",
+      "generated": "Will I be charged a fee when I top up my account using a bank transfer?"
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Is there a way you can have money from a purchase I made refunded to my account.",
+      "generated": "Can you assist me in getting a refund for a recent purchase credited back to my account?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is bad.This can't be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems incorrect. It's not the standard interbank rate."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.",
+      "generated": "The exchange rate you're using seems to be incorrect. It's not the rate I'm familiar with, and it's definitely not the rate I'd expect from a reputable financial institution."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.",
+      "generated": "I'm planning a trip abroad and I'd like to withdraw some cash from a local ATM, but I'm concerned that I'll be hit with an unfavorable exchange rate, which might result in an unexpected fee."
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "i need a refund right away but the funds aren't available in my account",
+      "generated": "I require an immediate refund, but the refund amount is not showing up in my account."
+    }
+  ]
+}

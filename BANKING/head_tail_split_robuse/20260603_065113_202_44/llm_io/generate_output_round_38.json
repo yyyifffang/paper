@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "Why is there a pending payment on my credit card still?",
+    "I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?",
+    "I'm unable to locate my card within the app.",
+    "are there any regular exchange rate promotions available?",
+    "What's the best way to expedite the identity verification process?",
+    "Why am I being charged for the cash withdrawal?",
+    "I'm a minor and I'm having trouble verifying my identification. Can you help me figure out why it's not working?",
+    "Can I have my friends use their cards to top up my account?",
+    "Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?",
+    "I made a single transaction, yet it's been duplicated on my statement.",
+    "Can all merchants accept this card?",
+    "The amount of cash I requested has not been delivered.",
+    "When will the transfer be delivered to the recipient?",
+    "I believe someone else has used my card, as I've never been to the location where some transactions on my statement are from. Please take immediate action to resolve this issue.",
+    "Can you tell me what data source is used to determine the exchange rate for the transfer I'm planning to make?",
+    "May I select my preferred payment method, such as Visa or Mastercard?",
+    "I've noticed an unexpected payment on my account.",
+    "The exchange rate for my cash withdrawal seems to be incorrect.",
+    "You can top up your account using either cash or cheque.",
+    "How can I link a new card to my account?",
+    "I'm trying to figure out what's going on with my recently issued card.",
+    "I'm trying to understand why the payment I made wasn't credited to the seller, as they're saying it didn't go through. Can you help me resolve this issue?",
+    "I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?",
+    "We're having trouble confirming your identity. It seems we're unable to verify the information provided.",
+    "I recently got a new phone, but how do I access my card details?",
+    "In the app, how can I access the recently added card?",
+    "I'm in a bit of a panic - I was robbed and my phone was taken, which means they have access to my account. Can you please assist me in securing my account to prevent any unauthorized transactions?",
+    "I was expecting a larger sum for my cash withdrawal",
+    "I've noticed some unauthorized transactions on my card. Could you please take steps to prevent any further unauthorized activity?",
+    "My account balance is still zero despite the recent card top-up I made an hour ago.",
+    "When can I expect my transfer to be successfully delivered to the recipient's account?",
+    "We didn't recognize this payment from you.",
+    "What is the typical timeframe for a US transfer to be processed?",
+    "I attempted to withdraw cash, but the transaction was declined.",
+    "I'd like to cancel the transfer as it was made in error and I'd like to rectify the mistake.",
+    "I'm attempting to make a payment to my new landlord, but it seems the transfer hasn't been received by them despite being sent a few days ago. Can you confirm that the payment has been processed successfully?",
+    "Why is my temporary card not functioning properly?",
+    "The top-up attempt using my credit card was declined. Can you help me understand why?",
+    "Did my card payment get reversed from my account?"
+  ],
+  "generated_labels": [
+    45,
+    19,
+    13,
+    31,
+    74,
+    19,
+    68,
+    62,
+    46,
+    63,
+    10,
+    75,
+    66,
+    22,
+    32,
+    73,
+    28,
+    76,
+    58,
+    13,
+    11,
+    53,
+    53,
+    68,
+    42,
+    13,
+    42,
+    75,
+    22,
+    62,
+    66,
+    16,
+    67,
+    26,
+    8,
+    66,
+    72,
+    59,
+    53
+  ],
+  "source_texts": [
+    "Why is their a charge pending on my card still?",
+    "I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?",
+    "I don't see my card anywhere in the app.",
+    "is there a frequent currency discount?",
+    "how do I speed up identity verification?",
+    "Why is there a charge when I took out money?",
+    "i am under 18 and i am trying to verify my id. why wont it work?",
+    "Can I get my friends to add money to my account?",
+    "Why does it still charge me even though I was unable to withdraw money from the ATM?",
+    "I only made one transaction at this place, but it's appearing multiple times.",
+    "Do all businesses take this card?",
+    "The cash I asked for still hasn't been received",
+    "When are you going to transfer the money?",
+    "I think my card has been used by somebody else since I was never in the little town where some transactions on this bill have come from. Please stop this right away.",
+    "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+    "Can I choose my card scheme?",
+    "I have an unauthorized charge.",
+    "Whats wrong with my currency exchange?",
+    "What types of top-up methods do you accept?",
+    "Where do I go to add a new card?",
+    "I want to find out what happened to my new card?",
+    "I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here?",
+    "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?",
+    "What's wrong with my ID? I can't verify it.",
+    "I just replaced my phone but how do I use my card information?",
+    "In the app, how can I make it show the new card that arrived?",
+    "Please help!  I was mugged and everything stolen.  What do I do to stop them from accessing my account?",
+    "I requested a higher amount for my cash withdrawal",
+    "There are fraudulent charges that I didn't make on my card. Can you please put in the safeguards necessary to stop this from happening anymore?",
+    "My wallet is empty even though I topped it up an hour ago.",
+    "How long do I have  to wait for my transaction to be completed?",
+    "i didnt do this charge",
+    "How long do I have to wait for a US transfer?",
+    "I tried to get funds in hard cash but it was rejected!",
+    "A payment I made is for a wrong amount can you help me correct the mistake.",
+    "I'm trying to make a payment to my new landlord. Even though the payment was sent a few days ago, it isn't clearing on their side. Can you verify that payment has been made?",
+    "Why is my disposable card not working?",
+    "My credit card for was not approved for a top-up transaction.  What happened?",
+    "My card payment has not been withdrawn from my account"
+  ],
+  "records": [
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why is their a charge pending on my card still?",
+      "generated": "Why is there a pending payment on my credit card still?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?",
+      "generated": "I noticed a charge on my receipt for the cash withdrawal I made during my recent purchase. Is it normal to be charged a fee for this type of transaction?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "I don't see my card anywhere in the app.",
+      "generated": "I'm unable to locate my card within the app."
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "is there a frequent currency discount?",
+      "generated": "are there any regular exchange rate promotions available?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "how do I speed up identity verification?",
+      "generated": "What's the best way to expedite the identity verification process?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Why is there a charge when I took out money?",
+      "generated": "Why am I being charged for the cash withdrawal?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "i am under 18 and i am trying to verify my id. why wont it work?",
+      "generated": "I'm a minor and I'm having trouble verifying my identification. Can you help me figure out why it's not working?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can I get my friends to add money to my account?",
+      "generated": "Can I have my friends use their cards to top up my account?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Why does it still charge me even though I was unable to withdraw money from the ATM?",
+      "generated": "Why am I still being charged for a cash withdrawal attempt that was unsuccessful at the ATM?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I only made one transaction at this place, but it's appearing multiple times.",
+      "generated": "I made a single transaction, yet it's been duplicated on my statement."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Do all businesses take this card?",
+      "generated": "Can all merchants accept this card?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "The cash I asked for still hasn't been received",
+      "generated": "The amount of cash I requested has not been delivered."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "When are you going to transfer the money?",
+      "generated": "When will the transfer be delivered to the recipient?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I think my card has been used by somebody else since I was never in the little town where some transactions on this bill have come from. Please stop this right away.",
+      "generated": "I believe someone else has used my card, as I've never been to the location where some transactions on my statement are from. Please take immediate action to resolve this issue."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+      "generated": "Can you tell me what data source is used to determine the exchange rate for the transfer I'm planning to make?"
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Can I choose my card scheme?",
+      "generated": "May I select my preferred payment method, such as Visa or Mastercard?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I have an unauthorized charge.",
+      "generated": "I've noticed an unexpected payment on my account."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Whats wrong with my currency exchange?",
+      "generated": "The exchange rate for my cash withdrawal seems to be incorrect."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What types of top-up methods do you accept?",
+      "generated": "You can top up your account using either cash or cheque."
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Where do I go to add a new card?",
+      "generated": "How can I link a new card to my account?"
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "I want to find out what happened to my new card?",
+      "generated": "I'm trying to figure out what's going on with my recently issued card."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here?",
+      "generated": "I'm trying to understand why the payment I made wasn't credited to the seller, as they're saying it didn't go through. Can you help me resolve this issue?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?",
+      "generated": "I recently made a purchase, and although I received one of the items, the full amount was reversed back to my account. Can you help me understand what's happening?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "What's wrong with my ID? I can't verify it.",
+      "generated": "We're having trouble confirming your identity. It seems we're unable to verify the information provided."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I just replaced my phone but how do I use my card information?",
+      "generated": "I recently got a new phone, but how do I access my card details?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "In the app, how can I make it show the new card that arrived?",
+      "generated": "In the app, how can I access the recently added card?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "Please help!  I was mugged and everything stolen.  What do I do to stop them from accessing my account?",
+      "generated": "I'm in a bit of a panic - I was robbed and my phone was taken, which means they have access to my account. Can you please assist me in securing my account to prevent any unauthorized transactions?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I requested a higher amount for my cash withdrawal",
+      "generated": "I was expecting a larger sum for my cash withdrawal"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "There are fraudulent charges that I didn't make on my card. Can you please put in the safeguards necessary to stop this from happening anymore?",
+      "generated": "I've noticed some unauthorized transactions on my card. Could you please take steps to prevent any further unauthorized activity?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "My wallet is empty even though I topped it up an hour ago.",
+      "generated": "My account balance is still zero despite the recent card top-up I made an hour ago."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long do I have  to wait for my transaction to be completed?",
+      "generated": "When can I expect my transfer to be successfully delivered to the recipient's account?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "i didnt do this charge",
+      "generated": "We didn't recognize this payment from you."
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How long do I have to wait for a US transfer?",
+      "generated": "What is the typical timeframe for a US transfer to be processed?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I tried to get funds in hard cash but it was rejected!",
+      "generated": "I attempted to withdraw cash, but the transaction was declined."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "A payment I made is for a wrong amount can you help me correct the mistake.",
+      "generated": "I'd like to cancel the transfer as it was made in error and I'd like to rectify the mistake."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I'm trying to make a payment to my new landlord. Even though the payment was sent a few days ago, it isn't clearing on their side. Can you verify that payment has been made?",
+      "generated": "I'm attempting to make a payment to my new landlord, but it seems the transfer hasn't been received by them despite being sent a few days ago. Can you confirm that the payment has been processed successfully?"
+    },
+    {
+      "label": 72,
+      "label_name": "virtual_card_not_working",
+      "original": "Why is my disposable card not working?",
+      "generated": "Why is my temporary card not functioning properly?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "My credit card for was not approved for a top-up transaction.  What happened?",
+      "generated": "The top-up attempt using my credit card was declined. Can you help me understand why?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "My card payment has not been withdrawn from my account",
+      "generated": "Did my card payment get reversed from my account?"
+    }
+  ]
+}

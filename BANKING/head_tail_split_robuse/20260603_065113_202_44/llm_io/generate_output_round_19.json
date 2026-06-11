@@ -1,0 +1,307 @@
+{
+  "generated_texts": [
+    "Will the automatic top-up feature trigger a refill when my account balance reaches zero?",
+    "I require assistance from your team to locate the closest ATM location.",
+    "Is your card accepted?",
+    "I'm in a state of distress - I've misplaced my card and I need assistance!",
+    "I'd like to activate my card and begin making transactions.",
+    "We're showing an unexpected cash balance in your account. Can you help us understand why this is happening?",
+    "I'm not sure what my card balance is after the recent top-up.",
+    "can I place a physical card order through the mobile app?",
+    "Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined.",
+    "I'd like to confirm the origin of a recent deposit.",
+    "The item I purchased was defective.",
+    "I've exceeded the allowed attempts to enter my PIN.",
+    "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?",
+    "Can I continue to use my credit card after its expiration date?",
+    "Why is my card payment being declined when I try to use it?",
+    "I recently got a new phone, do I need to set up a new account?",
+    "Is the card accepted by all parties involved?",
+    "I was overcharged for the item, and the amount doesn't match the expected exchange rate.",
+    "I require assistance with topping up my account using cash.",
+    "I'd like to assign a spare card to a family member. Can I do that?",
+    "I must have keyed in my PIN incorrectly.",
+    "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?",
+    "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?",
+    "I'd like to obtain a virtual card.",
+    "I need a replacement card because I think your machine has eaten my original one.",
+    "Can you please confirm the source of the funds used for the recent top-up?",
+    "I'd like to obtain a virtual card.",
+    "Can you assist me in confirming the card information used for a recent top-up transaction?",
+    "What's the reason behind verifying identities at our bank?",
+    "I'm confused, I've been making transfers without any issues, but just now, when I tried to make another one, it got declined. I've tried a few times, but the result is the same. Can you help me figure out what's going on?",
+    "Are you unable to process certain cryptocurrency transactions? I attempted to perform a top-up, but the funds vanished. I'm unsure what's happening or what I'm doing incorrectly, could you please assist me?",
+    "We'd be happy to inform you about the cards and currencies we currently accept.",
+    "I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account."
+  ],
+  "generated_labels": [
+    4,
+    3,
+    10,
+    41,
+    0,
+    20,
+    62,
+    43,
+    26,
+    70,
+    52,
+    49,
+    2,
+    9,
+    25,
+    42,
+    10,
+    17,
+    58,
+    39,
+    49,
+    17,
+    5,
+    40,
+    18,
+    70,
+    40,
+    71,
+    74,
+    27,
+    61,
+    54,
+    8
+  ],
+  "source_texts": [
+    "Will the system automatically update once there is no more money left?",
+    "I need help from someone in your department with finding my nearest ATM.",
+    "You accepts my card?",
+    "I'm panicking!  I lost my card!  Help!",
+    "I want to start using my card.",
+    "Why is there extra cash in my account?",
+    "I cannot tell what my top up currently is.",
+    "can i order cards on the app",
+    "Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",
+    "i need to trace a deposit",
+    "My product was faulty.",
+    "I used my pin too many times.",
+    "what can I do if I got my American Express in Apple Bay but top up is not working?",
+    "Can I keep using my card after it expires?",
+    "When I use my card, it says decline?",
+    "I just replaced my phone so do I have to make a new account?",
+    "Is the card welcomed by everybody?",
+    "I was charged the wing amount for an item.",
+    "I need a hand here, I need to top up cash.",
+    "I would like to use one of my cards for a family member. Is that allowed?",
+    "I must have entered my PIN wrong.",
+    "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+    "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+    "I want to get my hands on one of those virtual cards!",
+    "How do I get a new card as your machine swallowed mine!",
+    "Where is my top-up generated from?",
+    "I want one of the virtual cards!",
+    "Help me verify the card used on a top-up.",
+    "Is the identity check part of bank policy?",
+    "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening.",
+    "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help.",
+    "Can you tell me which cards and currencies are supported?",
+    "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?"
+  ],
+  "records": [
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Will the system automatically update once there is no more money left?",
+      "generated": "Will the automatic top-up feature trigger a refill when my account balance reaches zero?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need help from someone in your department with finding my nearest ATM.",
+      "generated": "I require assistance from your team to locate the closest ATM location."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "You accepts my card?",
+      "generated": "Is your card accepted?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I'm panicking!  I lost my card!  Help!",
+      "generated": "I'm in a state of distress - I've misplaced my card and I need assistance!"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "I want to start using my card.",
+      "generated": "I'd like to activate my card and begin making transactions."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "Why is there extra cash in my account?",
+      "generated": "We're showing an unexpected cash balance in your account. Can you help us understand why this is happening?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I cannot tell what my top up currently is.",
+      "generated": "I'm not sure what my card balance is after the recent top-up."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "can i order cards on the app",
+      "generated": "can I place a physical card order through the mobile app?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",
+      "generated": "Hello, could you please verify my card details? I've never experienced any issues with cash withdrawals before, but this morning, my attempt to withdraw cash was unexpectedly declined."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "i need to trace a deposit",
+      "generated": "I'd like to confirm the origin of a recent deposit."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "My product was faulty.",
+      "generated": "The item I purchased was defective."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I used my pin too many times.",
+      "generated": "I've exceeded the allowed attempts to enter my PIN."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "what can I do if I got my American Express in Apple Bay but top up is not working?",
+      "generated": "What can I do if I've added my American Express card to Google Pay but the top-up feature isn't functioning properly?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "Can I keep using my card after it expires?",
+      "generated": "Can I continue to use my credit card after its expiration date?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "When I use my card, it says decline?",
+      "generated": "Why is my card payment being declined when I try to use it?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I just replaced my phone so do I have to make a new account?",
+      "generated": "I recently got a new phone, do I need to set up a new account?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Is the card welcomed by everybody?",
+      "generated": "Is the card accepted by all parties involved?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "I was charged the wing amount for an item.",
+      "generated": "I was overcharged for the item, and the amount doesn't match the expected exchange rate."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "I need a hand here, I need to top up cash.",
+      "generated": "I require assistance with topping up my account using cash."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "I would like to use one of my cards for a family member. Is that allowed?",
+      "generated": "I'd like to assign a spare card to a family member. Can I do that?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I must have entered my PIN wrong.",
+      "generated": "I must have keyed in my PIN incorrectly."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "What is your exchange rate between UK pounds and Russian rubles for my last transaction",
+      "generated": "What is the exchange rate used for converting UK pounds to Russian rubles in my recent transaction?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",
+      "generated": "I'm having trouble viewing a recent transfer from my UK account in my account balance, which was made a few hours ago. Can you assist me with this issue?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I want to get my hands on one of those virtual cards!",
+      "generated": "I'd like to obtain a virtual card."
+    },
+    {
+      "label": 18,
+      "label_name": "card_swallowed",
+      "original": "How do I get a new card as your machine swallowed mine!",
+      "generated": "I need a replacement card because I think your machine has eaten my original one."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Where is my top-up generated from?",
+      "generated": "Can you please confirm the source of the funds used for the recent top-up?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I want one of the virtual cards!",
+      "generated": "I'd like to obtain a virtual card."
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Help me verify the card used on a top-up.",
+      "generated": "Can you assist me in confirming the card information used for a recent top-up transaction?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Is the identity check part of bank policy?",
+      "generated": "What's the reason behind verifying identities at our bank?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening.",
+      "generated": "I'm confused, I've been making transfers without any issues, but just now, when I tried to make another one, it got declined. I've tried a few times, but the result is the same. Can you help me figure out what's going on?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help.",
+      "generated": "Are you unable to process certain cryptocurrency transactions? I attempted to perform a top-up, but the funds vanished. I'm unsure what's happening or what I'm doing incorrectly, could you please assist me?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you tell me which cards and currencies are supported?",
+      "generated": "We'd be happy to inform you about the cards and currencies we currently accept."
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+      "generated": "I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account."
+    }
+  ]
+}

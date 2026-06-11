@@ -1,0 +1,325 @@
+{
+  "generated_texts": [
+    "Do I need to wait for my physical card before I obtain my PIN?",
+    "I'm having trouble making a payment with my new card, as it keeps getting declined. I'm quite frustrated with this situation.",
+    "Are there any fees associated with receiving a bank transfer to top up your account?",
+    "How long does it typically take for international transfers to be processed? I made an online purchase a few days ago and initiated the transfer promptly, but the vendor is telling me that the funds are still pending.",
+    "Can I obtain a card that is widely accepted in various countries, including those in Africa and Indonesia?",
+    "I'm unable to locate the transfer I sent to a friend from my account.",
+    "I've recently relocated to the United States and would like to obtain a new card.",
+    "I was sent a payment in British Pounds, can I convert it to a different currency?",
+    "I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?",
+    "My card may have been compromised.",
+    "Why was my transfer rejected?",
+    "I'm shortchanged! I received less cash than I was supposed to get. How do I resolve this issue?",
+    "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?",
+    "Can you accept my other credit card issued in the United States? It's the only other one I possess.",
+    "I've received my American Express payment through Apple Pay, but it seems the top-up process is experiencing an issue, could you assist me with this?",
+    "Can I make a bank transfer to top up my account?",
+    "Can I use international bank transfers to top up my account?",
+    "I'm having trouble completing a bank transfer and I'm wondering if there's an issue with insufficient funds or if I've exceeded the transfer limit.",
+    "Is the balance updated instantly after a bank transfer?",
+    "Why was my payment rejected by the app?",
+    "Is there a charge for topping up my account using my card in USD?",
+    "Can you please provide me with my top-up code?",
+    "I'd like to make a payment using my credit card.",
+    "How can I view my pending top-up transactions?",
+    "I'm still waiting for my virtual card to be issued",
+    "I still haven't received my physical card.",
+    "Is there a fee associated with transferring funds?",
+    "I believe there's been an error with the transfer I initiated",
+    "I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?",
+    "I haven't received my physical card yet",
+    "I was surprised to find an unexpected charge on my statement.",
+    "I'm having trouble adding funds using Apple Pay, can you help me figure out why it's not working?",
+    "I've recently relocated abroad and I've noticed an increase in the transfer fees. As a long-time customer, I'm surprised by this change in policy.",
+    "How soon can I obtain my physical card?",
+    "When I place an order for a new card, when can I expect to receive it, and what is the associated fee?"
+  ],
+  "generated_labels": [
+    38,
+    25,
+    56,
+    48,
+    24,
+    66,
+    24,
+    50,
+    66,
+    22,
+    27,
+    75,
+    46,
+    54,
+    2,
+    56,
+    56,
+    35,
+    5,
+    53,
+    57,
+    71,
+    62,
+    47,
+    40,
+    38,
+    64,
+    27,
+    38,
+    38,
+    34,
+    2,
+    64,
+    38,
+    9
+  ],
+  "source_texts": [
+    "do i need to wait for my card before i get pin",
+    "Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.",
+    "Are you aware of any charges for receiving money?",
+    "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.",
+    "Can I get a card that works in other countries like Africa and Indonesia?",
+    "I don't see the transaction I made to a friend on my account.",
+    "I just moved to the US how do I get a card?",
+    "I received a transfer in GBP how do I change it to a different currency?",
+    "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?",
+    "There's a possibility that my card was compromised.",
+    "How do I make my transfer go through",
+    "Yikes!  I didn't get the amount of money that I requested.  What do I do now?",
+    "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+    "Can you accept my other card from the U.S.?  It is the only other one I have.",
+    "I have received my American express in apple play, looks like top up has an issue, please help?",
+    "Can I transfer using SWIFT?",
+    "Can I use SWIFT transfers?",
+    "I'm trying to make a bank transfer but It's not going through. Could there not be enough funds to transfer or something? Have I done it too many times?",
+    "Are bank transfers immediate?",
+    "Why wasn't my payment accepted by the app",
+    "Do you charge a fee for adding money in USD?",
+    "Where's my top up code?",
+    "With my credit card i would like to transfer money.",
+    "Where to check top ups pending?",
+    "I ordered a virtual card but it hasn't come through yet",
+    "I am yet to receive my pin.",
+    "Are money transfers free?",
+    "I think there has been a mistake with my transfer",
+    "I signed up, but don't have a PIN. Where can I find it?",
+    "I do not have my pin yet",
+    "I had to pay a pound more than I anticipated!",
+    "i have been trying to add money with apple pay but it wont work, why?",
+    "I just moved overseas and I noticed that you are charging me more fees.  I am a loyal customer, is this how you expect to keep customers?",
+    "How long do I wait for my PIN",
+    "When will I get a new card when I order it, and how much will it cost."
+  ],
+  "records": [
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "do i need to wait for my card before i get pin",
+      "generated": "Do I need to wait for my physical card before I obtain my PIN?"
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.",
+      "generated": "I'm having trouble making a payment with my new card, as it keeps getting declined. I'm quite frustrated with this situation."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Are you aware of any charges for receiving money?",
+      "generated": "Are there any fees associated with receiving a bank transfer to top up your account?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.",
+      "generated": "How long does it typically take for international transfers to be processed? I made an online purchase a few days ago and initiated the transfer promptly, but the vendor is telling me that the funds are still pending."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I get a card that works in other countries like Africa and Indonesia?",
+      "generated": "Can I obtain a card that is widely accepted in various countries, including those in Africa and Indonesia?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I don't see the transaction I made to a friend on my account.",
+      "generated": "I'm unable to locate the transfer I sent to a friend from my account."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I just moved to the US how do I get a card?",
+      "generated": "I've recently relocated to the United States and would like to obtain a new card."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "I received a transfer in GBP how do I change it to a different currency?",
+      "generated": "I was sent a payment in British Pounds, can I convert it to a different currency?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?",
+      "generated": "I made a domestic transfer two days ago, but it seems the recipient hasn't received the funds. I've double-checked the account number to ensure it's correct. Could you look into this matter for me?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "There's a possibility that my card was compromised.",
+      "generated": "My card may have been compromised."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "How do I make my transfer go through",
+      "generated": "Why was my transfer rejected?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "Yikes!  I didn't get the amount of money that I requested.  What do I do now?",
+      "generated": "I'm shortchanged! I received less cash than I was supposed to get. How do I resolve this issue?"
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "So much time has gone by, the pending status shouldn't still be there shouldn't it?",
+      "generated": "It's been a while, and I'm surprised the pending cash withdrawal is still showing up. Shouldn't it have been resolved by now?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "Can you accept my other card from the U.S.?  It is the only other one I have.",
+      "generated": "Can you accept my other credit card issued in the United States? It's the only other one I possess."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "I have received my American express in apple play, looks like top up has an issue, please help?",
+      "generated": "I've received my American Express payment through Apple Pay, but it seems the top-up process is experiencing an issue, could you assist me with this?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can I transfer using SWIFT?",
+      "generated": "Can I make a bank transfer to top up my account?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Can I use SWIFT transfers?",
+      "generated": "Can I use international bank transfers to top up my account?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I'm trying to make a bank transfer but It's not going through. Could there not be enough funds to transfer or something? Have I done it too many times?",
+      "generated": "I'm having trouble completing a bank transfer and I'm wondering if there's an issue with insufficient funds or if I've exceeded the transfer limit."
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "Are bank transfers immediate?",
+      "generated": "Is the balance updated instantly after a bank transfer?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why wasn't my payment accepted by the app",
+      "generated": "Why was my payment rejected by the app?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "Do you charge a fee for adding money in USD?",
+      "generated": "Is there a charge for topping up my account using my card in USD?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "Where's my top up code?",
+      "generated": "Can you please provide me with my top-up code?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "With my credit card i would like to transfer money.",
+      "generated": "I'd like to make a payment using my credit card."
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Where to check top ups pending?",
+      "generated": "How can I view my pending top-up transactions?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "I ordered a virtual card but it hasn't come through yet",
+      "generated": "I'm still waiting for my virtual card to be issued"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I am yet to receive my pin.",
+      "generated": "I still haven't received my physical card."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "Are money transfers free?",
+      "generated": "Is there a fee associated with transferring funds?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I think there has been a mistake with my transfer",
+      "generated": "I believe there's been an error with the transfer I initiated"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I signed up, but don't have a PIN. Where can I find it?",
+      "generated": "I'm a new customer, but I haven't received my physical card yet. Can I get it sent to me?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I do not have my pin yet",
+      "generated": "I haven't received my physical card yet"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I had to pay a pound more than I anticipated!",
+      "generated": "I was surprised to find an unexpected charge on my statement."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "i have been trying to add money with apple pay but it wont work, why?",
+      "generated": "I'm having trouble adding funds using Apple Pay, can you help me figure out why it's not working?"
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I just moved overseas and I noticed that you are charging me more fees.  I am a loyal customer, is this how you expect to keep customers?",
+      "generated": "I've recently relocated abroad and I've noticed an increase in the transfer fees. As a long-time customer, I'm surprised by this change in policy."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "How long do I wait for my PIN",
+      "generated": "How soon can I obtain my physical card?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "When will I get a new card when I order it, and how much will it cost.",
+      "generated": "When I place an order for a new card, when can I expect to receive it, and what is the associated fee?"
+    }
+  ]
+}

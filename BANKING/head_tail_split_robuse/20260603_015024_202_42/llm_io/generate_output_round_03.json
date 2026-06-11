@@ -1,0 +1,361 @@
+{
+  "generated_texts": [
+    "Please confirm the origin of the funds used for this transaction.",
+    "I need to confirm the origin of my funds.",
+    "We need to confirm the origin of your funds.",
+    "We need to confirm the origin of your funds.",
+    "How can I get money from another person?",
+    "I need to confirm the origin of my funds.",
+    "How do I get money from another person?",
+    "What methods are available for me to receive funds?",
+    "Can you please provide information to confirm the origin of the funds used for this transaction?",
+    "Are there any fees associated with making cash withdrawals from your account? I'm surprised to find that I'm being charged for accessing my own funds, whereas my previous bank didn't impose such a charge.",
+    "May I pay using cash or by cheque?",
+    "You can top up your account by cash or cheque.",
+    "can you confirm the origin of the funds?",
+    "Can you confirm the origin of the funds used for this transaction?",
+    "I recently visited the ATM to withdraw some cash, but when I checked my transaction, I found that I was given less than the amount I requested. Specifically, I asked for 100 pounds, but only received 80. I have the receipt as proof and would like to know how to retrieve the remaining amount.",
+    "Can I withdraw cash from my home country using one of your machines while I'm on holiday? I'm worried about not having any local currency with me and would like to know if I'll be charged a fee for this service.",
+    "We need to confirm the origin of your funds",
+    "Can you please confirm the origin of the funds in your account?",
+    "Can you please confirm the origin of the funds used for your deposit?",
+    "Can I use an ATM from a different bank than my own?",
+    "Can you please confirm the origin of the funds used for this transaction?",
+    "Who is the source of the funds being used to make this transaction?",
+    "Can a friend deposit funds into my account?",
+    "How can I receive money from my friend?",
+    "I'd like to confirm the origin of my funds.",
+    "What ATMs can I use to withdraw cash?",
+    "Can you please confirm the origin of the funds used for this transaction?",
+    "I'd like to confirm the origin of my funds.",
+    "How can my friend transfer funds to me?",
+    "I'd like to confirm the origin of the funds.",
+    "Who can transfer funds to me?",
+    "I need to confirm the origin of my funds",
+    "My friend wants to transfer funds to me. What methods can they use to do so?",
+    "Can you guide me on how my friend can transfer funds to me?",
+    "The ATM dispensed an incorrect amount, and I'd like to know how to initiate a cash return. The amount I selected on the app was correct, but the machine gave me the wrong amount.",
+    "where can I find an ATM to withdraw cash?",
+    "What is the fee for receiving funds via bank transfer?",
+    "Can you confirm the origin of the funds in your account?",
+    "How can I receive my salary payment through this channel?"
+  ],
+  "generated_labels": [
+    70,
+    70,
+    70,
+    70,
+    50,
+    70,
+    50,
+    50,
+    70,
+    19,
+    58,
+    58,
+    70,
+    70,
+    75,
+    76,
+    70,
+    70,
+    70,
+    3,
+    70,
+    70,
+    50,
+    50,
+    70,
+    3,
+    70,
+    70,
+    50,
+    70,
+    50,
+    70,
+    50,
+    50,
+    75,
+    3,
+    56,
+    70,
+    50
+  ],
+  "source_texts": [
+    "Please verify my source of funds.",
+    "I require verification of my source of funds.",
+    "My source of funds need verification.",
+    "My source of funds require verification.",
+    "How do I receive money from someone?",
+    "I have to verify my source of funds.",
+    "How can I receive money from someone?",
+    "How can I receive money?",
+    "How can I receive verification for the source of my funds?",
+    "Do you charge for cash withdrawals?  I want to get my hands on my own money and you appear to be charging me for the pleasure! Why is this, you'd never get this with my high street bank!",
+    "Can I purchase with cash or cheque?",
+    "What is your check-cashing policy?",
+    "need to verify source of funds",
+    "Verify my source of funds?",
+    "So I just went to the ATM to get some cash.  I input that I needed 100 pounds but I only got 80.  I have the receipt  and I am in need of the extra money.  How do I go about obtaining the missing amount?",
+    "Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this?",
+    "My funds must be verified",
+    "What are the sources for the funds in my account?",
+    "Where did my deposit for my source of funds come from?",
+    "Can I use a different bank ATM than my own?",
+    "How do I verify my source of funds?",
+    "Who is giving me my money?",
+    "Is it ok for a friend to send me money?",
+    "How can my friend give me money?",
+    "I would like to verify my source of funds.",
+    "Which ATMs am I allowed to get money from?",
+    "How can I verify my source of funds?",
+    "I need to verify my funds.",
+    "How would my friend be able to send me money?",
+    "I need to verify the source of funds.",
+    "Who can send me money?",
+    "I must verify the source of my funds",
+    "My friend would like to send me money. What are the options available to them?",
+    "Please show me how my friend can send me money.",
+    "What do I need to do to request cash back? The ATM actually just gave me the wrong amount. The app I actually chose the right amount.",
+    "how do I know where I can get money withdrawn?",
+    "How much is it to receive money?",
+    "What is the source of the money in my account?",
+    "What do I need to do to get my salary through this?"
+  ],
+  "records": [
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Please verify my source of funds.",
+      "generated": "Please confirm the origin of the funds used for this transaction."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I require verification of my source of funds.",
+      "generated": "I need to confirm the origin of my funds."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My source of funds need verification.",
+      "generated": "We need to confirm the origin of your funds."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My source of funds require verification.",
+      "generated": "We need to confirm the origin of your funds."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How do I receive money from someone?",
+      "generated": "How can I get money from another person?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I have to verify my source of funds.",
+      "generated": "I need to confirm the origin of my funds."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can I receive money from someone?",
+      "generated": "How do I get money from another person?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can I receive money?",
+      "generated": "What methods are available for me to receive funds?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I receive verification for the source of my funds?",
+      "generated": "Can you please provide information to confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Do you charge for cash withdrawals?  I want to get my hands on my own money and you appear to be charging me for the pleasure! Why is this, you'd never get this with my high street bank!",
+      "generated": "Are there any fees associated with making cash withdrawals from your account? I'm surprised to find that I'm being charged for accessing my own funds, whereas my previous bank didn't impose such a charge."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Can I purchase with cash or cheque?",
+      "generated": "May I pay using cash or by cheque?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What is your check-cashing policy?",
+      "generated": "You can top up your account by cash or cheque."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "need to verify source of funds",
+      "generated": "can you confirm the origin of the funds?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Verify my source of funds?",
+      "generated": "Can you confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "So I just went to the ATM to get some cash.  I input that I needed 100 pounds but I only got 80.  I have the receipt  and I am in need of the extra money.  How do I go about obtaining the missing amount?",
+      "generated": "I recently visited the ATM to withdraw some cash, but when I checked my transaction, I found that I was given less than the amount I requested. Specifically, I asked for 100 pounds, but only received 80. I have the receipt as proof and would like to know how to retrieve the remaining amount."
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this?",
+      "generated": "Can I withdraw cash from my home country using one of your machines while I'm on holiday? I'm worried about not having any local currency with me and would like to know if I'll be charged a fee for this service."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "My funds must be verified",
+      "generated": "We need to confirm the origin of your funds"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What are the sources for the funds in my account?",
+      "generated": "Can you please confirm the origin of the funds in your account?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Where did my deposit for my source of funds come from?",
+      "generated": "Can you please confirm the origin of the funds used for your deposit?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Can I use a different bank ATM than my own?",
+      "generated": "Can I use an ATM from a different bank than my own?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How do I verify my source of funds?",
+      "generated": "Can you please confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "Who is giving me my money?",
+      "generated": "Who is the source of the funds being used to make this transaction?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Is it ok for a friend to send me money?",
+      "generated": "Can a friend deposit funds into my account?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How can my friend give me money?",
+      "generated": "How can I receive money from my friend?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I would like to verify my source of funds.",
+      "generated": "I'd like to confirm the origin of my funds."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Which ATMs am I allowed to get money from?",
+      "generated": "What ATMs can I use to withdraw cash?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "How can I verify my source of funds?",
+      "generated": "Can you please confirm the origin of the funds used for this transaction?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I need to verify my funds.",
+      "generated": "I'd like to confirm the origin of my funds."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "How would my friend be able to send me money?",
+      "generated": "How can my friend transfer funds to me?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I need to verify the source of funds.",
+      "generated": "I'd like to confirm the origin of the funds."
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Who can send me money?",
+      "generated": "Who can transfer funds to me?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "I must verify the source of my funds",
+      "generated": "I need to confirm the origin of my funds"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "My friend would like to send me money. What are the options available to them?",
+      "generated": "My friend wants to transfer funds to me. What methods can they use to do so?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Please show me how my friend can send me money.",
+      "generated": "Can you guide me on how my friend can transfer funds to me?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "What do I need to do to request cash back? The ATM actually just gave me the wrong amount. The app I actually chose the right amount.",
+      "generated": "The ATM dispensed an incorrect amount, and I'd like to know how to initiate a cash return. The amount I selected on the app was correct, but the machine gave me the wrong amount."
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "how do I know where I can get money withdrawn?",
+      "generated": "where can I find an ATM to withdraw cash?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much is it to receive money?",
+      "generated": "What is the fee for receiving funds via bank transfer?"
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "What is the source of the money in my account?",
+      "generated": "Can you confirm the origin of the funds in your account?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "What do I need to do to get my salary through this?",
+      "generated": "How can I receive my salary payment through this channel?"
+    }
+  ]
+}

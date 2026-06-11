@@ -1,0 +1,298 @@
+{
+  "generated_texts": [
+    "We're unable to identify the direct debit payment you're referring to.",
+    "why was a fee charged on my transfer?",
+    "I tried to enter my PIN multiple times.",
+    "I reside in Germany. Are you a financial institution that operates in multiple countries, including Germany? Can you provide a list of all the countries you support?",
+    "I was double-billed at the same location during the same transaction period",
+    "I'm concerned that someone has compromised my card information, as I've noticed an unauthorized transaction on my app from a location that's not near my usual shopping spots. I'm counting on getting that refund to cover my rent payment.",
+    "forgot passcode",
+    "I've exceeded the allowed attempts to enter my PIN.",
+    "I've misplaced my phone or it's been taken from me.",
+    "I'd like to inquire about the process for requesting a refund.",
+    "i requested $100, but I was given $80 instead",
+    "Can I receive the physical card separately?",
+    "What should I do if I reach the maximum number of PIN attempts allowed?",
+    "I'm confused as to why I was restricted from accessing my account due to incorrect PIN attempts.",
+    "The transfer was not successfully processed due to an issue.",
+    "Can I get my physical card separately, including the PIN?",
+    "I'm missing my physical card.",
+    "Can I initiate a return and request a refund?",
+    "I suspect that my card might be compromised, but I'm not entirely certain.",
+    "I must have keyed in my PIN incorrectly.",
+    "I'm worried that my card might have been compromised and someone is using it.",
+    "Could you please provide me with tracking information for my card arrival?",
+    "What is the limit on the number of incorrect PIN attempts before my account is blocked?",
+    "I'd like to inquire about any available discounts for regular exchange transactions, as they happen quite often.",
+    "Could you provide information about your refund procedure?",
+    "Unfortunately, due to an incorrect PIN entry, your cash withdrawal has been declined.",
+    "I suspect my credit card has been compromised.",
+    "If I notice suspicious activity on my compromised card, what steps should I take?",
+    "Is the PIN card separate from the physical card?",
+    "I'm worried that someone might have obtained unauthorized access to my card's information.",
+    "It appears that someone else may be using my credit card.",
+    "I've misplaced the PIN on my physical card."
+  ],
+  "generated_labels": [
+    28,
+    64,
+    49,
+    24,
+    63,
+    28,
+    44,
+    49,
+    42,
+    52,
+    75,
+    38,
+    49,
+    49,
+    27,
+    38,
+    38,
+    52,
+    22,
+    49,
+    22,
+    11,
+    49,
+    31,
+    52,
+    26,
+    22,
+    22,
+    38,
+    22,
+    22,
+    38
+  ],
+  "source_texts": [
+    "what is the word?",
+    "why was i chargged",
+    "I attempted to enter my pin to many times.",
+    "I live in Germany. Is that one of the countries you are in? What other countries are you in?",
+    "I was charged multiple times at the same location at the same time",
+    "hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent.",
+    "passcode retrieval",
+    "I used my pin too many times.",
+    "I have lost my phone or it has been stolen.",
+    "I want to know about your refund policy.",
+    "i asked for 100 only got 80",
+    "Is the PIN sent in another message?",
+    "What should I do if I exceed my PIN tries?",
+    "How come I got blocked for entering wrong pins?",
+    "What does the decline message mean",
+    "Is the PIN separately delivered?",
+    "I dont have a pin",
+    "Do you have a return policy?",
+    "I think that someone may be using my card, but I'm not sure,.",
+    "I must have entered my PIN wrong.",
+    "I can't be sure, but I think that someone may be using my card.",
+    "Was there a way for me to get tracking for that?",
+    "How many times can I enter a wrong PIN before it is blocked?",
+    "I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently.",
+    "Can you explain your refund policy, please?",
+    "i entered my pin in wrong and got it frozen. how many tries do i have",
+    "I think someone may be using my card.",
+    "What do I do if I detect fraudulent use on my car?",
+    "Does the PIN come under separate cover?",
+    "am afraid someone may have gained access to the info on my card.",
+    "Someone besides me might be using my card.",
+    "I can't find the PIN."
+  ],
+  "records": [
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "what is the word?",
+      "generated": "We're unable to identify the direct debit payment you're referring to."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "why was i chargged",
+      "generated": "why was a fee charged on my transfer?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I attempted to enter my pin to many times.",
+      "generated": "I tried to enter my PIN multiple times."
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I live in Germany. Is that one of the countries you are in? What other countries are you in?",
+      "generated": "I reside in Germany. Are you a financial institution that operates in multiple countries, including Germany? Can you provide a list of all the countries you support?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I was charged multiple times at the same location at the same time",
+      "generated": "I was double-billed at the same location during the same transaction period"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent.",
+      "generated": "I'm concerned that someone has compromised my card information, as I've noticed an unauthorized transaction on my app from a location that's not near my usual shopping spots. I'm counting on getting that refund to cover my rent payment."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "passcode retrieval",
+      "generated": "forgot passcode"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I used my pin too many times.",
+      "generated": "I've exceeded the allowed attempts to enter my PIN."
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I have lost my phone or it has been stolen.",
+      "generated": "I've misplaced my phone or it's been taken from me."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "I want to know about your refund policy.",
+      "generated": "I'd like to inquire about the process for requesting a refund."
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "i asked for 100 only got 80",
+      "generated": "i requested $100, but I was given $80 instead"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Is the PIN sent in another message?",
+      "generated": "Can I receive the physical card separately?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "What should I do if I exceed my PIN tries?",
+      "generated": "What should I do if I reach the maximum number of PIN attempts allowed?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How come I got blocked for entering wrong pins?",
+      "generated": "I'm confused as to why I was restricted from accessing my account due to incorrect PIN attempts."
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "What does the decline message mean",
+      "generated": "The transfer was not successfully processed due to an issue."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Is the PIN separately delivered?",
+      "generated": "Can I get my physical card separately, including the PIN?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I dont have a pin",
+      "generated": "I'm missing my physical card."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Do you have a return policy?",
+      "generated": "Can I initiate a return and request a refund?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I think that someone may be using my card, but I'm not sure,.",
+      "generated": "I suspect that my card might be compromised, but I'm not entirely certain."
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I must have entered my PIN wrong.",
+      "generated": "I must have keyed in my PIN incorrectly."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I can't be sure, but I think that someone may be using my card.",
+      "generated": "I'm worried that my card might have been compromised and someone is using it."
+    },
+    {
+      "label": 11,
+      "label_name": "card_arrival",
+      "original": "Was there a way for me to get tracking for that?",
+      "generated": "Could you please provide me with tracking information for my card arrival?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "How many times can I enter a wrong PIN before it is blocked?",
+      "generated": "What is the limit on the number of incorrect PIN attempts before my account is blocked?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "I wanted to know what discounts were offered for current exchanges as it is something that occurs frequently.",
+      "generated": "I'd like to inquire about any available discounts for regular exchange transactions, as they happen quite often."
+    },
+    {
+      "label": 52,
+      "label_name": "request_refund",
+      "original": "Can you explain your refund policy, please?",
+      "generated": "Could you provide information about your refund procedure?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "i entered my pin in wrong and got it frozen. how many tries do i have",
+      "generated": "Unfortunately, due to an incorrect PIN entry, your cash withdrawal has been declined."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I think someone may be using my card.",
+      "generated": "I suspect my credit card has been compromised."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "What do I do if I detect fraudulent use on my car?",
+      "generated": "If I notice suspicious activity on my compromised card, what steps should I take?"
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Does the PIN come under separate cover?",
+      "generated": "Is the PIN card separate from the physical card?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "am afraid someone may have gained access to the info on my card.",
+      "generated": "I'm worried that someone might have obtained unauthorized access to my card's information."
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "Someone besides me might be using my card.",
+      "generated": "It appears that someone else may be using my credit card."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I can't find the PIN.",
+      "generated": "I've misplaced the PIN on my physical card."
+    }
+  ]
+}

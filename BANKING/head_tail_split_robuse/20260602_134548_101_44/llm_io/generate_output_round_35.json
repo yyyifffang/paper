@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I'm having trouble accessing the app and need help recovering my phone.",
+    "How come I've been charged for the same transaction twice?",
+    "I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?",
+    "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from.",
+    "Can I have my friends use their cards to top up my account?",
+    "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?",
+    "Can I make a payment using Google Pay instead?",
+    "How many cash machines accept this card?",
+    "I'm concerned that my recent transfer didn't go through. Can you help me resolve the issue?",
+    "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?",
+    "I mistakenly processed a payment for my rent yesterday and I urgently need to reverse it by tomorrow. Can you assist me with this?",
+    "My account shows duplicate transactions.",
+    "We've noticed some transactions on your bank statement that don't match any payments you've made.",
+    "I'm having trouble locating my physical card details, could you guide me on where to find them?",
+    "What areas or locations can I use my card for transactions?",
+    "How do I initiate a transfer into an account?",
+    "I made a single transaction, yet it's been duplicated on my statement.",
+    "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP.",
+    "Why was my payment rejected by the app?",
+    "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?",
+    "I attempted to make a transfer, but it was unsuccessful. Why was the transfer not processed?",
+    "Can I access this service globally or internationally?",
+    "I'm curious about the status of a transfer I initiated, which is currently pending.",
+    "Why is the transfer still pending?",
+    "I'm worried because I only processed one transaction, but it's showing up on my statement multiple times.",
+    "My payment using my card was not accepted.",
+    "What are the charges for a standard physical card?",
+    "How can I prevent someone from using my card after I misplaced it yesterday?",
+    "I was shortchanged on my cash withdrawal",
+    "Who should I contact regarding transactions that have been mistakenly charged twice?",
+    "I tried to enter my PIN multiple times.",
+    "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?",
+    "Why am I unable to add funds to my top-up account?",
+    "We didn't find a direct debit payment arrangement linked to your account.",
+    "Can I set up automatic top-ups for my card while I'm traveling?",
+    "Can I have my account replenished by my friends using their cards?",
+    "I made a transfer, but the recipient hasn't received it yet."
+  ],
+  "generated_labels": [
+    42,
+    63,
+    59,
+    20,
+    62,
+    59,
+    2,
+    3,
+    35,
+    35,
+    8,
+    63,
+    28,
+    38,
+    10,
+    65,
+    63,
+    20,
+    53,
+    3,
+    7,
+    24,
+    48,
+    48,
+    63,
+    25,
+    43,
+    42,
+    75,
+    63,
+    49,
+    74,
+    61,
+    28,
+    4,
+    62,
+    66
+  ],
+  "source_texts": [
+    "What do I do if I cannot access the app?",
+    "Why is there are there two of the same transaction?",
+    "I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",
+    "there is money in my account that i didnt put there",
+    "Can I get my friends to add money to my account?",
+    "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+    "Can I deposit money using Apple Pay?",
+    "How many ATMs will take this card?",
+    "I think my transfer failed. What do I do now?",
+    "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+    "I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help?",
+    "My transaction is showing several times.",
+    "Purchases I did not make are appearing in my bank statement?",
+    "I'm looking in the App and can't find my PIN, where should I look?",
+    "What are the limits to where my card will be accepted?",
+    "Whats the transfer process",
+    "I only made one transaction at this place, but it's appearing multiple times.",
+    "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+    "Why wasn't my payment accepted by the app",
+    "I need to withdraw money. Where can I do that?",
+    "I tried transferring to an account but it didn't go through. What happened?",
+    "Can I use this all over the world?",
+    "I wanted to know why there is a transfer of mine pending.",
+    "Why is the transaction not posting?",
+    "I'm really concerned because I only made one transaction, but it's appearing multiple times.",
+    "My card payment wasn't declined",
+    "What fees do you charge for the standard card?",
+    "How can I stop someone from using my card after I lost it yesterday.",
+    "I did not receive all of my cash back",
+    "Who do I talk to for transactions debited twice?",
+    "I attempted to enter my pin to many times.",
+    "Do you think you're asking for too much information about me?",
+    "How come I can't put money in my top up account?",
+    "I didn't set up a direct debit payment on my account.",
+    "Can I add money to my card automatically during a trip?",
+    "Can my account be topped-up by friends of mine.",
+    "I sent a payment but it isn't showing up in the app"
+  ],
+  "records": [
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "What do I do if I cannot access the app?",
+      "generated": "I'm having trouble accessing the app and need help recovering my phone."
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Why is there are there two of the same transaction?",
+      "generated": "How come I've been charged for the same transaction twice?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",
+      "generated": "I've attempted to add funds to my card, but the transaction has failed. Could you help me identify the issue?"
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "there is money in my account that i didnt put there",
+      "generated": "I'm showing an unexpected cash withdrawal in my account, but I'm not sure where it came from."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can I get my friends to add money to my account?",
+      "generated": "Can I have my friends use their cards to top up my account?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.",
+      "generated": "I'm experiencing an issue with topping up my card, as the transaction is being declined. Could you assist me in resolving this or suggest alternative solutions if available?"
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "Can I deposit money using Apple Pay?",
+      "generated": "Can I make a payment using Google Pay instead?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "How many ATMs will take this card?",
+      "generated": "How many cash machines accept this card?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "I think my transfer failed. What do I do now?",
+      "generated": "I'm concerned that my recent transfer didn't go through. Can you help me resolve the issue?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",
+      "generated": "I'm having trouble sending funds to another person's account. It seems illogical that I'm unable to do so, as I've double-checked all my details and the funds are available. Can you help me understand why the transfer keeps getting declined?"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help?",
+      "generated": "I mistakenly processed a payment for my rent yesterday and I urgently need to reverse it by tomorrow. Can you assist me with this?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "My transaction is showing several times.",
+      "generated": "My account shows duplicate transactions."
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Purchases I did not make are appearing in my bank statement?",
+      "generated": "We've noticed some transactions on your bank statement that don't match any payments you've made."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "I'm looking in the App and can't find my PIN, where should I look?",
+      "generated": "I'm having trouble locating my physical card details, could you guide me on where to find them?"
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "What are the limits to where my card will be accepted?",
+      "generated": "What areas or locations can I use my card for transactions?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "Whats the transfer process",
+      "generated": "How do I initiate a transfer into an account?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I only made one transaction at this place, but it's appearing multiple times.",
+      "generated": "I made a single transaction, yet it's been duplicated on my statement."
+    },
+    {
+      "label": 20,
+      "label_name": "cash_withdrawal_not_recognised",
+      "original": "I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP",
+      "generated": "I'M UNABLE TO FIND THE CASH WITHDRAWAL FROM MY BANK ACCOUNT AS SHOWN IN MY APP."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "Why wasn't my payment accepted by the app",
+      "generated": "Why was my payment rejected by the app?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "I need to withdraw money. Where can I do that?",
+      "generated": "I'm looking to make a withdrawal. Can you tell me where I can access an ATM to do so?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I tried transferring to an account but it didn't go through. What happened?",
+      "generated": "I attempted to make a transfer, but it was unsuccessful. Why was the transfer not processed?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Can I use this all over the world?",
+      "generated": "Can I access this service globally or internationally?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I wanted to know why there is a transfer of mine pending.",
+      "generated": "I'm curious about the status of a transfer I initiated, which is currently pending."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "Why is the transaction not posting?",
+      "generated": "Why is the transfer still pending?"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "I'm really concerned because I only made one transaction, but it's appearing multiple times.",
+      "generated": "I'm worried because I only processed one transaction, but it's showing up on my statement multiple times."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "My card payment wasn't declined",
+      "generated": "My payment using my card was not accepted."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What fees do you charge for the standard card?",
+      "generated": "What are the charges for a standard physical card?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "How can I stop someone from using my card after I lost it yesterday.",
+      "generated": "How can I prevent someone from using my card after I misplaced it yesterday?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I did not receive all of my cash back",
+      "generated": "I was shortchanged on my cash withdrawal"
+    },
+    {
+      "label": 63,
+      "label_name": "transaction_charged_twice",
+      "original": "Who do I talk to for transactions debited twice?",
+      "generated": "Who should I contact regarding transactions that have been mistakenly charged twice?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I attempted to enter my pin to many times.",
+      "generated": "I tried to enter my PIN multiple times."
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Do you think you're asking for too much information about me?",
+      "generated": "Are you feeling overwhelmed by the amount of personal details we're asking you to provide?"
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "How come I can't put money in my top up account?",
+      "generated": "Why am I unable to add funds to my top-up account?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I didn't set up a direct debit payment on my account.",
+      "generated": "We didn't find a direct debit payment arrangement linked to your account."
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I add money to my card automatically during a trip?",
+      "generated": "Can I set up automatic top-ups for my card while I'm traveling?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can my account be topped-up by friends of mine.",
+      "generated": "Can I have my account replenished by my friends using their cards?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I sent a payment but it isn't showing up in the app",
+      "generated": "I made a transfer, but the recipient hasn't received it yet."
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "generated_texts": [
+    "I'd like to make a payment using my credit card.",
+    "What happens if I make a cash deposit or deposit a cheque by mistake?",
+    "We didn't find a direct debit payment arrangement linked to your account.",
+    "We've noticed an unexpected payment on your statement. Can you help us understand what this payment is for?",
+    "A payment made from my account was not recognized.",
+    "Can I obtain a virtual card, like the ones I've been told about?",
+    "How can I prevent someone from using my card after I misplaced it yesterday?",
+    "How can I obtain a physical card?",
+    "In what currencies can I exchange and hold my funds?",
+    "The balance remains the same, despite the recent deposit.",
+    "Can I modify my PIN at a nearby ATM while I'm in Spain? I'm concerned someone may have observed my PIN and I'd like to update it, but I'm currently on vacation.",
+    "A payment has been recorded in the app that I did not authorize.",
+    "Why are my transactions from this morning still awaiting processing?",
+    "What is the charge for topping up using a US-issued card?",
+    "I require a correct exchange rate for my cash withdrawals.",
+    "what is the origin of the funds",
+    "I'm still waiting to receive the cash.",
+    "Is there a maximum amount I'm allowed to top up within a specific timeframe?",
+    "I believe someone else has used my card, as I've never been to the location where some transactions on my statement are from. Please take immediate action to resolve this issue.",
+    "Why isn't my payment showing up?",
+    "I'm having trouble accessing the app and need help recovering my phone.",
+    "When will the transfer be delivered to the recipient?",
+    "The balance seems to be stuck and hasn't reflected the recent bank transfer.",
+    "I'd like to inquire about the transfer fee associated with moving funds.",
+    "We accept a range of payment cards",
+    "Can I have my friends use their cards to top up my account?",
+    "Will I be charged for exchanging foreign currencies?",
+    "What is the typical processing speed for international transfers from Europe?",
+    "I attempted to withdraw cash, but the transaction was declined.",
+    "What information can you provide about the disposable card limits, such as the descriptions associated with them?",
+    "I'd like to add funds to my account using my credit card.",
+    "What are the charges for a standard physical card?",
+    "Do I need to exchange my British pounds for another currency before making a transfer?",
+    "How many virtual cards can I have? I'd like to have a total of 8.",
+    "Why hasn't my cash deposit been reflected in my account balance?",
+    "I've been waiting for a bit, but my account balance still hasn't reflected the recent transfer, could you assist me with this issue?",
+    "Can I make unlimited top-ups to my account limits?",
+    "I've noticed some unauthorized transactions on my card. Could you please take steps to prevent any further unauthorized activity?"
+  ],
+  "generated_labels": [
+    62,
+    6,
+    28,
+    16,
+    28,
+    40,
+    42,
+    43,
+    36,
+    6,
+    21,
+    16,
+    45,
+    57,
+    76,
+    70,
+    75,
+    60,
+    22,
+    53,
+    42,
+    66,
+    5,
+    64,
+    54,
+    62,
+    31,
+    67,
+    26,
+    29,
+    62,
+    43,
+    50,
+    40,
+    6,
+    5,
+    60,
+    22
+  ],
+  "source_texts": [
+    "With my credit card i would like to transfer money.",
+    "What happens if I deposit a cheque accidentally?",
+    "I didn't set up a direct debit payment on my account.",
+    "Why is there a random payment in my statement?",
+    "Someone else charged my card!",
+    "Do I get to have one of those virtual cards I've heard about?",
+    "How can I stop someone from using my card after I lost it yesterday.",
+    "What do I need to do in order to get a new card?",
+    "In the exchange and holding, what fiat is allowed?",
+    "the balance has not changed, but I have deposited some money",
+    "Can I change my PIN at a nearby ATM when in Spain? I think someone saw my PIN and I need to change it but am on vacation.",
+    "There is a payment in the app that I did not approve",
+    "Why are my purchases from this morning still pending?",
+    "How much does it cost to us US cards?",
+    "I need an accurate exchange rate, when I make my withdrawals.",
+    "where exactly does money come from",
+    "I haven't received my cash yet.",
+    "Is there a top-up limit that I have to stay under during a given period of time?",
+    "I think my card has been used by somebody else since I was never in the little town where some transactions on this bill have come from. Please stop this right away.",
+    "How come I can't find my payment?",
+    "What do I do if I cannot access the app?",
+    "When are you going to transfer the money?",
+    "The balance does not appear to have updated.",
+    "I need to know how much it costs to transfer funds.",
+    "What cards do you support",
+    "Can I get my friends to add money to my account?",
+    "Will I get charged on a foreign currencies exchange?",
+    "How fast are transfers from Europe?",
+    "I tried to get funds in hard cash but it was rejected!",
+    "Where can I find a list of descriptions the disposable cards have?",
+    "I want to transfer money using my credit card.",
+    "What fees do you charge for the standard card?",
+    "Do I need to convert my currency from GBP before transferring?",
+    "how many virtual cards can i have, i want 8",
+    "Why hasn't my cheque processed?",
+    "It has been a couple of hours but I do not see my balance updated, can you help?",
+    "Can I use as many top-ups as I want?",
+    "There are fraudulent charges that I didn't make on my card. Can you please put in the safeguards necessary to stop this from happening anymore?"
+  ],
+  "records": [
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "With my credit card i would like to transfer money.",
+      "generated": "I'd like to make a payment using my credit card."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "What happens if I deposit a cheque accidentally?",
+      "generated": "What happens if I make a cash deposit or deposit a cheque by mistake?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "I didn't set up a direct debit payment on my account.",
+      "generated": "We didn't find a direct debit payment arrangement linked to your account."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "Why is there a random payment in my statement?",
+      "generated": "We've noticed an unexpected payment on your statement. Can you help us understand what this payment is for?"
+    },
+    {
+      "label": 28,
+      "label_name": "direct_debit_payment_not_recognised",
+      "original": "Someone else charged my card!",
+      "generated": "A payment made from my account was not recognized."
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "Do I get to have one of those virtual cards I've heard about?",
+      "generated": "Can I obtain a virtual card, like the ones I've been told about?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "How can I stop someone from using my card after I lost it yesterday.",
+      "generated": "How can I prevent someone from using my card after I misplaced it yesterday?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What do I need to do in order to get a new card?",
+      "generated": "How can I obtain a physical card?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "In the exchange and holding, what fiat is allowed?",
+      "generated": "In what currencies can I exchange and hold my funds?"
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "the balance has not changed, but I have deposited some money",
+      "generated": "The balance remains the same, despite the recent deposit."
+    },
+    {
+      "label": 21,
+      "label_name": "change_pin",
+      "original": "Can I change my PIN at a nearby ATM when in Spain? I think someone saw my PIN and I need to change it but am on vacation.",
+      "generated": "Can I modify my PIN at a nearby ATM while I'm in Spain? I'm concerned someone may have observed my PIN and I'd like to update it, but I'm currently on vacation."
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "There is a payment in the app that I did not approve",
+      "generated": "A payment has been recorded in the app that I did not authorize."
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "Why are my purchases from this morning still pending?",
+      "generated": "Why are my transactions from this morning still awaiting processing?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "How much does it cost to us US cards?",
+      "generated": "What is the charge for topping up using a US-issued card?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "I need an accurate exchange rate, when I make my withdrawals.",
+      "generated": "I require a correct exchange rate for my cash withdrawals."
+    },
+    {
+      "label": 70,
+      "label_name": "verify_source_of_funds",
+      "original": "where exactly does money come from",
+      "generated": "what is the origin of the funds"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I haven't received my cash yet.",
+      "generated": "I'm still waiting to receive the cash."
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Is there a top-up limit that I have to stay under during a given period of time?",
+      "generated": "Is there a maximum amount I'm allowed to top up within a specific timeframe?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "I think my card has been used by somebody else since I was never in the little town where some transactions on this bill have come from. Please stop this right away.",
+      "generated": "I believe someone else has used my card, as I've never been to the location where some transactions on my statement are from. Please take immediate action to resolve this issue."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "How come I can't find my payment?",
+      "generated": "Why isn't my payment showing up?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "What do I do if I cannot access the app?",
+      "generated": "I'm having trouble accessing the app and need help recovering my phone."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "When are you going to transfer the money?",
+      "generated": "When will the transfer be delivered to the recipient?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "The balance does not appear to have updated.",
+      "generated": "The balance seems to be stuck and hasn't reflected the recent bank transfer."
+    },
+    {
+      "label": 64,
+      "label_name": "transfer_fee_charged",
+      "original": "I need to know how much it costs to transfer funds.",
+      "generated": "I'd like to inquire about the transfer fee associated with moving funds."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "What cards do you support",
+      "generated": "We accept a range of payment cards"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can I get my friends to add money to my account?",
+      "generated": "Can I have my friends use their cards to top up my account?"
+    },
+    {
+      "label": 31,
+      "label_name": "exchange_charge",
+      "original": "Will I get charged on a foreign currencies exchange?",
+      "generated": "Will I be charged for exchanging foreign currencies?"
+    },
+    {
+      "label": 67,
+      "label_name": "transfer_timing",
+      "original": "How fast are transfers from Europe?",
+      "generated": "What is the typical processing speed for international transfers from Europe?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "I tried to get funds in hard cash but it was rejected!",
+      "generated": "I attempted to withdraw cash, but the transaction was declined."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Where can I find a list of descriptions the disposable cards have?",
+      "generated": "What information can you provide about the disposable card limits, such as the descriptions associated with them?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I want to transfer money using my credit card.",
+      "generated": "I'd like to add funds to my account using my credit card."
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "What fees do you charge for the standard card?",
+      "generated": "What are the charges for a standard physical card?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Do I need to convert my currency from GBP before transferring?",
+      "generated": "Do I need to exchange my British pounds for another currency before making a transfer?"
+    },
+    {
+      "label": 40,
+      "label_name": "getting_virtual_card",
+      "original": "how many virtual cards can i have, i want 8",
+      "generated": "How many virtual cards can I have? I'd like to have a total of 8."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "Why hasn't my cheque processed?",
+      "generated": "Why hasn't my cash deposit been reflected in my account balance?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "It has been a couple of hours but I do not see my balance updated, can you help?",
+      "generated": "I've been waiting for a bit, but my account balance still hasn't reflected the recent transfer, could you assist me with this issue?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Can I use as many top-ups as I want?",
+      "generated": "Can I make unlimited top-ups to my account limits?"
+    },
+    {
+      "label": 22,
+      "label_name": "compromised_card",
+      "original": "There are fraudulent charges that I didn't make on my card. Can you please put in the safeguards necessary to stop this from happening anymore?",
+      "generated": "I've noticed some unauthorized transactions on my card. Could you please take steps to prevent any further unauthorized activity?"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "generated_texts": [
+    "Can I receive a physical card to carry with me?",
+    "Can I retrieve a physical credit card?",
+    "I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully",
+    "How can I activate my new card so I can start using it?",
+    "You can replenish your account balance using either cash or cheque payment methods.",
+    "I'm having trouble initiating a deposit into my account.",
+    "I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts.",
+    "What are the steps to obtain my physical card?",
+    "I didn't receive the correct amount of cash.",
+    "utilize your credit to top up your account",
+    "Can you expedite the processing of my pending top-up? It's been waiting for an hour now, and I urgently need the funds to be credited to my account.",
+    "Can I send a check to deposit funds into my account?",
+    "How can I confirm the details of my card?",
+    "My cash withdrawal attempt was declined.",
+    "Can I transfer funds to specific accounts, or are there limitations in place?",
+    "How long will the extra charge appear as pending on my statement?",
+    "I'm curious about the reason behind the failed transfer.",
+    "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?",
+    "What types of fiat currencies can I store in my account?",
+    "I recently received my card, but I'm having trouble adding funds to it. I'm considering canceling my account due to this issue. Can you help me resolve this problem?",
+    "I'm still waiting for my domestic transfer to be credited to the recipient's account. I double-checked the account details a few days ago, but the payment hasn't been processed yet.",
+    "A transfer is currently in the process of being processed",
+    "I'm experiencing an issue with topping up my card, as it's been declined repeatedly. Could you assist me in resolving this issue or suggest an alternative solution, please?",
+    "My account is running low. Can I transfer money from another financial institution into my account?",
+    "I'm concerned about a payment I made that was initially deducted from my account, but then reversed. The seller has informed me that they didn't receive the payment. Can you look into this and resolve the issue as soon as possible?",
+    "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?",
+    "Can I initiate a currency exchange through the app?",
+    "I'd like to report a missing credit card.",
+    "The funds I attempted to deposit were reversed.",
+    "What are the charges for withdrawing cash from an ATM?",
+    "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined.",
+    "To facilitate a transfer, could you please provide me with your bank account information?",
+    "Can I use my Mastercard to fund my account?",
+    "I recently made a card payment, but it appears to be pending. Can you tell me what the usual processing time is for a payment like this?"
+  ],
+  "generated_labels": [
+    43,
+    43,
+    62,
+    0,
+    58,
+    65,
+    7,
+    38,
+    75,
+    54,
+    47,
+    58,
+    71,
+    26,
+    7,
+    34,
+    27,
+    41,
+    36,
+    59,
+    66,
+    48,
+    59,
+    65,
+    53,
+    75,
+    33,
+    41,
+    61,
+    19,
+    35,
+    65,
+    54,
+    45
+  ],
+  "source_texts": [
+    "Do I get a card to keep in my wallet?",
+    "Can I revive a physical card.",
+    "I tried topping off my account with a card, but the money is not in my account despite the charge going through",
+    "What do I need to do in order to use my card I just got?",
+    "What are my payment options for topping off my account?",
+    "I can't figure out how to transfer money into my account.",
+    "I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages.",
+    "How do I get started when I get my card?",
+    "I couldn't get the money I needed.",
+    "use my credit to add money",
+    "Sort your top up out please! It's been pending since an hour already, can you please make this go through asap I really need the money",
+    "Is there somewhere I can send a check to add to my account?",
+    "What can I do to verify my card?",
+    "My ATM transaction was cancelled.",
+    "Are there restrictions to transfers to certain accounts?",
+    "How long will the $1 charge show as pending?",
+    "I wanted to know why my transaction didn't go through.",
+    "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+    "What kind of money can I hold?",
+    "I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on?",
+    "Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet.",
+    "I have a pending transaction",
+    "I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives",
+    "My account is depleted. Can I transfer funds from another bank?",
+    "I was just contacted by a seller that let me know they didn't get my money even though I'm very sure it was removed from my account. Now it's back in my account. Get this resolved quickly.",
+    "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+    "Can i add a new currency to my account?",
+    "Who can I speak with regarding a lost card?",
+    "For some reason, the money I added was returned.",
+    "Could you explain your rules for ATM fees?",
+    "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+    "What are my bank details so I can do a transfer?",
+    "can i use my mastercard to add money to my account",
+    "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?"
+  ],
+  "records": [
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Do I get a card to keep in my wallet?",
+      "generated": "Can I receive a physical card to carry with me?"
+    },
+    {
+      "label": 43,
+      "label_name": "order_physical_card",
+      "original": "Can I revive a physical card.",
+      "generated": "Can I retrieve a physical credit card?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I tried topping off my account with a card, but the money is not in my account despite the charge going through",
+      "generated": "I attempted to replenish my account balance using my card, but the funds are still not available despite the transaction being processed successfully"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "What do I need to do in order to use my card I just got?",
+      "generated": "How can I activate my new card so I can start using it?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What are my payment options for topping off my account?",
+      "generated": "You can replenish your account balance using either cash or cheque payment methods."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "I can't figure out how to transfer money into my account.",
+      "generated": "I'm having trouble initiating a deposit into my account."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I have to transfer money over to my mother, and I have tried numerous times and all that keeps happening is error messages.",
+      "generated": "I've been attempting to transfer funds to my mother, but I keep encountering error messages despite multiple attempts."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "How do I get started when I get my card?",
+      "generated": "What are the steps to obtain my physical card?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I couldn't get the money I needed.",
+      "generated": "I didn't receive the correct amount of cash."
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "use my credit to add money",
+      "generated": "utilize your credit to top up your account"
+    },
+    {
+      "label": 47,
+      "label_name": "pending_top_up",
+      "original": "Sort your top up out please! It's been pending since an hour already, can you please make this go through asap I really need the money",
+      "generated": "Can you expedite the processing of my pending top-up? It's been waiting for an hour now, and I urgently need the funds to be credited to my account."
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "Is there somewhere I can send a check to add to my account?",
+      "generated": "Can I send a check to deposit funds into my account?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "What can I do to verify my card?",
+      "generated": "How can I confirm the details of my card?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "My ATM transaction was cancelled.",
+      "generated": "My cash withdrawal attempt was declined."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Are there restrictions to transfers to certain accounts?",
+      "generated": "Can I transfer funds to specific accounts, or are there limitations in place?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "How long will the $1 charge show as pending?",
+      "generated": "How long will the extra charge appear as pending on my statement?"
+    },
+    {
+      "label": 27,
+      "label_name": "declined_transfer",
+      "original": "I wanted to know why my transaction didn't go through.",
+      "generated": "I'm curious about the reason behind the failed transfer."
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?",
+      "generated": "I'm concerned that I may have misplaced my card at a restaurant, but the staff denies having it, and I'm now unsure of its whereabouts. I'm worried that it might be in the wrong hands and being used for fraudulent activities. Can you help me investigate this situation?"
+    },
+    {
+      "label": 36,
+      "label_name": "fiat_currency_support",
+      "original": "What kind of money can I hold?",
+      "generated": "What types of fiat currencies can I store in my account?"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on?",
+      "generated": "I recently received my card, but I'm having trouble adding funds to it. I'm considering canceling my account due to this issue. Can you help me resolve this problem?"
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet.",
+      "generated": "I'm still waiting for my domestic transfer to be credited to the recipient's account. I double-checked the account details a few days ago, but the payment hasn't been processed yet."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "I have a pending transaction",
+      "generated": "A transfer is currently in the process of being processed"
+    },
+    {
+      "label": 59,
+      "label_name": "top_up_failed",
+      "original": "I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives",
+      "generated": "I'm experiencing an issue with topping up my card, as it's been declined repeatedly. Could you assist me in resolving this issue or suggest an alternative solution, please?"
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "My account is depleted. Can I transfer funds from another bank?",
+      "generated": "My account is running low. Can I transfer money from another financial institution into my account?"
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I was just contacted by a seller that let me know they didn't get my money even though I'm very sure it was removed from my account. Now it's back in my account. Get this resolved quickly.",
+      "generated": "I'm concerned about a payment I made that was initially deducted from my account, but then reversed. The seller has informed me that they didn't receive the payment. Can you look into this and resolve the issue as soon as possible?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?",
+      "generated": "I attempted to withdraw £50, but I was only given £30. Where is the balance of my cash?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "Can i add a new currency to my account?",
+      "generated": "Can I initiate a currency exchange through the app?"
+    },
+    {
+      "label": 41,
+      "label_name": "lost_or_stolen_card",
+      "original": "Who can I speak with regarding a lost card?",
+      "generated": "I'd like to report a missing credit card."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "For some reason, the money I added was returned.",
+      "generated": "The funds I attempted to deposit were reversed."
+    },
+    {
+      "label": 19,
+      "label_name": "cash_withdrawal_charge",
+      "original": "Could you explain your rules for ATM fees?",
+      "generated": "What are the charges for withdrawing cash from an ATM?"
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+      "generated": "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined."
+    },
+    {
+      "label": 65,
+      "label_name": "transfer_into_account",
+      "original": "What are my bank details so I can do a transfer?",
+      "generated": "To facilitate a transfer, could you please provide me with your bank account information?"
+    },
+    {
+      "label": 54,
+      "label_name": "supported_cards_and_currencies",
+      "original": "can i use my mastercard to add money to my account",
+      "generated": "Can I use my Mastercard to fund my account?"
+    },
+    {
+      "label": 45,
+      "label_name": "pending_card_payment",
+      "original": "I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?",
+      "generated": "I recently made a card payment, but it appears to be pending. Can you tell me what the usual processing time is for a payment like this?"
+    }
+  ]
+}

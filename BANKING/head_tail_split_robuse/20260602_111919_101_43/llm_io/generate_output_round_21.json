@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?",
+    "Why is the beneficiary not eligible to receive the allowance?",
+    "I'm not sure what my card balance is after the recent top-up.",
+    "What are the transaction limits for a disposable card?",
+    "I was unable to make a transfer to a different account.",
+    "I've misplaced my passcode",
+    "I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account.",
+    "Is the PIN card separate from the physical card?",
+    "I'm unhappy with the services and would like to discontinue my account.",
+    "I'm trying to send some funds to a friend who's in a tight spot and needs the money quickly. Can you tell me when she'll be able to access the transferred amount?",
+    "You can replenish your account balance using either cash or cheque payment methods.",
+    "Are there any fees associated with receiving a bank transfer to top up my account?",
+    "Can you please tell me which ATM is nearest to my location, within a 2-mile radius?",
+    "I was shortchanged on my cash withdrawal",
+    "In the app, how can I access the recently added card?",
+    "I've exceeded the allowed attempts to enter my PIN.",
+    "How can I use my card for payment?",
+    "It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement.",
+    "how do i configure my apple pay-enabled smartwatch to link to my account?",
+    "Can I proceed with logging in even though my identity has not been verified yet?",
+    "Can someone else add funds to my account using my card?",
+    "I'd like to increase the available balance on my card, could you guide me on how to do that?",
+    "When will the transfer be processed and reflected in my account balance?",
+    "I made a transfer, but my account balance hasn't been updated.",
+    "What's the process for converting currencies?",
+    "What currencies can I exchange through the app?",
+    "I tried to enter my PIN multiple times.",
+    "Can I grant permission to someone else to access my account to make a card-based top-up?",
+    "Why was the amount of cash I received not in line with the expected exchange rate?",
+    "I'm having trouble accessing my account because I've forgotten my passcode.",
+    "Can I transfer funds to specific accounts, or are there limitations in place?",
+    "is there a charge for topping up my card balance?",
+    "I've forgotten my passcode and can't access my account, what should I do to regain access?",
+    "Unfortunately, due to an incorrect PIN entry, your cash withdrawal has been declined.",
+    "I was unexpectedly charged an extra amount on my statement.",
+    "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined.",
+    "I made a purchase and got the item, but the payment hasn't been deducted from my account yet?"
+  ],
+  "generated_labels": [
+    7,
+    7,
+    62,
+    29,
+    7,
+    44,
+    8,
+    38,
+    55,
+    66,
+    58,
+    56,
+    3,
+    75,
+    13,
+    49,
+    10,
+    51,
+    2,
+    74,
+    62,
+    60,
+    48,
+    5,
+    32,
+    33,
+    49,
+    62,
+    76,
+    44,
+    7,
+    57,
+    44,
+    26,
+    34,
+    35,
+    53
+  ],
+  "source_texts": [
+    "Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong?",
+    "Why is allowance not being given to my beneficiary?",
+    "I cannot tell what my top up currently is.",
+    "Show me the amount of transactions I can do with a disposable card.",
+    "I was unable to transfer to another account.",
+    "I forgot my code",
+    "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+    "Does the PIN come under separate cover?",
+    "i'm not satisfied with the services and no longer want to be a customer",
+    "I need to transfer some money to a friend who is in urgent need of some fast cash. How long will it take before she can use that money?",
+    "What are my payment options for topping off my account?",
+    "Is there a cost to receive money?",
+    "Is the closest ATM to me within 2 miles?",
+    "I did not receive all of my cash back",
+    "In the app, how can I make it show the new card that arrived?",
+    "I used my pin too many times.",
+    "Where do I pay with my card?",
+    "It's been more than a week since I had a return charged to my card, why hasn't it showed up?",
+    "how do i set up my apple pay watch to connect to my account",
+    "Is it possible to go ahead and log in, although I have not been confirmed yet?",
+    "Can somebody else top up my account?",
+    "I need to add a serious amount of cash to my card, how do I do that?",
+    "When will the transaction post to my account?",
+    "I did a transfer but the balance is the same.",
+    "How do you do exchanges?",
+    "What currences are available for exchange?",
+    "I attempted to enter my pin to many times.",
+    "Can I let other people have access to my account in order to top up?",
+    "Why did I only receive this much currency?",
+    "I can't log in",
+    "Are there restrictions to transfers to certain accounts?",
+    "is it free to add money to my card",
+    "I'm locked out of my account as I can't remember my code, what do I do now?",
+    "i entered my pin in wrong and got it frozen. how many tries do i have",
+    "I was made to pay an additional pound!",
+    "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+    "I purchased something and already received it, why hasn't the money taken out?"
+  ],
+  "records": [
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Hello - I'm on the app and trying to purchase crypto. It's not going through. What am I doing wrong?",
+      "generated": "I'm having trouble buying cryptocurrency through the app. The transaction won't process. Can you help me figure out what's preventing it from going through?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Why is allowance not being given to my beneficiary?",
+      "generated": "Why is the beneficiary not eligible to receive the allowance?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I cannot tell what my top up currently is.",
+      "generated": "I'm not sure what my card balance is after the recent top-up."
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Show me the amount of transactions I can do with a disposable card.",
+      "generated": "What are the transaction limits for a disposable card?"
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "I was unable to transfer to another account.",
+      "generated": "I was unable to make a transfer to a different account."
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I forgot my code",
+      "generated": "I've misplaced my passcode"
+    },
+    {
+      "label": 8,
+      "label_name": "cancel_transfer",
+      "original": "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+      "generated": "I mistakenly initiated a transfer from an incorrect account, which was supposed to be a significant payment for my rent. The account I used won't have sufficient funds to cover the amount, so it's crucial that the transfer be cancelled and reinitiated from the correct account."
+    },
+    {
+      "label": 38,
+      "label_name": "get_physical_card",
+      "original": "Does the PIN come under separate cover?",
+      "generated": "Is the PIN card separate from the physical card?"
+    },
+    {
+      "label": 55,
+      "label_name": "terminate_account",
+      "original": "i'm not satisfied with the services and no longer want to be a customer",
+      "generated": "I'm unhappy with the services and would like to discontinue my account."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I need to transfer some money to a friend who is in urgent need of some fast cash. How long will it take before she can use that money?",
+      "generated": "I'm trying to send some funds to a friend who's in a tight spot and needs the money quickly. Can you tell me when she'll be able to access the transferred amount?"
+    },
+    {
+      "label": 58,
+      "label_name": "top_up_by_cash_or_cheque",
+      "original": "What are my payment options for topping off my account?",
+      "generated": "You can replenish your account balance using either cash or cheque payment methods."
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "Is there a cost to receive money?",
+      "generated": "Are there any fees associated with receiving a bank transfer to top up my account?"
+    },
+    {
+      "label": 3,
+      "label_name": "atm_support",
+      "original": "Is the closest ATM to me within 2 miles?",
+      "generated": "Can you please tell me which ATM is nearest to my location, within a 2-mile radius?"
+    },
+    {
+      "label": 75,
+      "label_name": "wrong_amount_of_cash_received",
+      "original": "I did not receive all of my cash back",
+      "generated": "I was shortchanged on my cash withdrawal"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "In the app, how can I make it show the new card that arrived?",
+      "generated": "In the app, how can I access the recently added card?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I used my pin too many times.",
+      "generated": "I've exceeded the allowed attempts to enter my PIN."
+    },
+    {
+      "label": 10,
+      "label_name": "card_acceptance",
+      "original": "Where do I pay with my card?",
+      "generated": "How can I use my card for payment?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "It's been more than a week since I had a return charged to my card, why hasn't it showed up?",
+      "generated": "It's been over a week since the return was processed, and I'm still waiting for the refund to appear on my statement."
+    },
+    {
+      "label": 2,
+      "label_name": "apple_pay_or_google_pay",
+      "original": "how do i set up my apple pay watch to connect to my account",
+      "generated": "how do i configure my apple pay-enabled smartwatch to link to my account?"
+    },
+    {
+      "label": 74,
+      "label_name": "why_verify_identity",
+      "original": "Is it possible to go ahead and log in, although I have not been confirmed yet?",
+      "generated": "Can I proceed with logging in even though my identity has not been verified yet?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can somebody else top up my account?",
+      "generated": "Can someone else add funds to my account using my card?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "I need to add a serious amount of cash to my card, how do I do that?",
+      "generated": "I'd like to increase the available balance on my card, could you guide me on how to do that?"
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "When will the transaction post to my account?",
+      "generated": "When will the transfer be processed and reflected in my account balance?"
+    },
+    {
+      "label": 5,
+      "label_name": "balance_not_updated_after_bank_transfer",
+      "original": "I did a transfer but the balance is the same.",
+      "generated": "I made a transfer, but my account balance hasn't been updated."
+    },
+    {
+      "label": 32,
+      "label_name": "exchange_rate",
+      "original": "How do you do exchanges?",
+      "generated": "What's the process for converting currencies?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "What currences are available for exchange?",
+      "generated": "What currencies can I exchange through the app?"
+    },
+    {
+      "label": 49,
+      "label_name": "pin_blocked",
+      "original": "I attempted to enter my pin to many times.",
+      "generated": "I tried to enter my PIN multiple times."
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "Can I let other people have access to my account in order to top up?",
+      "generated": "Can I grant permission to someone else to access my account to make a card-based top-up?"
+    },
+    {
+      "label": 76,
+      "label_name": "wrong_exchange_rate_for_cash_withdrawal",
+      "original": "Why did I only receive this much currency?",
+      "generated": "Why was the amount of cash I received not in line with the expected exchange rate?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I can't log in",
+      "generated": "I'm having trouble accessing my account because I've forgotten my passcode."
+    },
+    {
+      "label": 7,
+      "label_name": "beneficiary_not_allowed",
+      "original": "Are there restrictions to transfers to certain accounts?",
+      "generated": "Can I transfer funds to specific accounts, or are there limitations in place?"
+    },
+    {
+      "label": 57,
+      "label_name": "top_up_by_card_charge",
+      "original": "is it free to add money to my card",
+      "generated": "is there a charge for topping up my card balance?"
+    },
+    {
+      "label": 44,
+      "label_name": "passcode_forgotten",
+      "original": "I'm locked out of my account as I can't remember my code, what do I do now?",
+      "generated": "I've forgotten my passcode and can't access my account, what should I do to regain access?"
+    },
+    {
+      "label": 26,
+      "label_name": "declined_cash_withdrawal",
+      "original": "i entered my pin in wrong and got it frozen. how many tries do i have",
+      "generated": "Unfortunately, due to an incorrect PIN entry, your cash withdrawal has been declined."
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I was made to pay an additional pound!",
+      "generated": "I was unexpectedly charged an extra amount on my statement."
+    },
+    {
+      "label": 35,
+      "label_name": "failed_transfer",
+      "original": "Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!",
+      "generated": "Why is the transfer to the other bank being rejected? Is my account balance not sufficient? I've tried initiating the transfer five times, but it keeps getting declined."
+    },
+    {
+      "label": 53,
+      "label_name": "reverted_card_payment?",
+      "original": "I purchased something and already received it, why hasn't the money taken out?",
+      "generated": "I made a purchase and got the item, but the payment hasn't been deducted from my account yet?"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "generated_texts": [
+    "I'm still waiting to see if the transfer I initiated a few days ago has been credited to my account. I've double-checked my details to ensure everything is correct. Could you please verify this for me?",
+    "Can I use a transfer to receive the funds I'm expecting?",
+    "What happens when my credit card's expiration date approaches?",
+    "If I want to convert my USD to GBP, can I perform the exchange through the app?",
+    "Are there any maximum limit increases available?",
+    "Can I set up automatic top-ups? How do I initiate the process?",
+    "I haven't processed this payment and it's still showing on my app.",
+    "What is the estimated delivery timeframe for shipping to the United States?",
+    "A fee was deducted from my account when I made a payment using my card.",
+    "I attempted to withdraw cash from the ATM, but my account statement indicates that the transaction is still pending. Is the machine malfunctioning? Will I be refunded the amount or will I be charged for the attempted withdrawal?",
+    "I'm currently without my mobile device, which is preventing me from accessing the system to finalize the transaction.",
+    "Why is the exchange rate applied to my card payment so inaccurate?",
+    "I saw an additional fee on my statement.",
+    "What steps can I take to update my card before it expires?",
+    "The exchange rate used for my payment was incorrect.",
+    "Why hasn't my balance been updated after I deposited a cash payment yesterday?",
+    "I'm a US resident, and I'm interested in obtaining a card.",
+    "Can I obtain a spare card without incurring any additional charges?",
+    "My refund has not arrived.",
+    "When can I expect a transfer to reach my friend's account?",
+    "What is the fee for a bank transfer top-up?",
+    "When will you be able to activate my credit card?",
+    "What steps can I take to update my personal information?",
+    "I'd like to learn about topping up my account using my credit card.",
+    "Is the type of credit card I use significant?",
+    "The exchange rate applied to my card payment is incorrect.",
+    "Can you explain why my payment made with my card was not accepted?",
+    "I'd like to set up an automatic transfer to my account. Can you guide me through the process?",
+    "Can I open accounts for my children as they reach a certain age?",
+    "May I assist you in reactivating your card?",
+    "We're having trouble confirming your identity through our system.",
+    "Why hasn't my friend received the transaction I sent to them yet?",
+    "I'm having trouble finding the verification code for my recent top-up.",
+    "I was under the impression that your service allows for cryptocurrency top-ups, but it appears to be incorrect. My funds seem to have vanished from my account. Can you explain how this supposed feature is supposed to work?",
+    "Please inform me about the limitations associated with the disposable cards.",
+    "Why are there outstanding transfers waiting to be processed?",
+    "Please provide a list of the countries where our services are available."
+  ],
+  "generated_labels": [
+    66,
+    50,
+    9,
+    33,
+    60,
+    4,
+    16,
+    12,
+    15,
+    46,
+    42,
+    17,
+    34,
+    9,
+    17,
+    6,
+    24,
+    39,
+    51,
+    66,
+    56,
+    0,
+    69,
+    62,
+    73,
+    17,
+    25,
+    4,
+    1,
+    13,
+    68,
+    66,
+    71,
+    61,
+    29,
+    48,
+    24
+  ],
+  "source_texts": [
+    "I can't see if the transfer I did a couple days ago is in my account yet. I double checked my info before sending, too. Can you check this?",
+    "Can I use a transfer to receive my transfer?",
+    "What can I expect at card expiration?",
+    "If I need to make an exchange from USD to GBP, how can I do so in the app?",
+    "Are there any top-up limits?",
+    "Can I auto-top up?  How do I do it?",
+    "I didn't make this payment and it's on my app",
+    "To deliver to the US, how long will it take?",
+    "There was a charge applied when I used my card.",
+    "Hello, I tried to take some cash out of the ATM but I looked at my statement and it still shows that it's pending. Is the machine broken? Will I receive my money back or will I be charged for this?",
+    "I don't have my cell phone with me so I cannot access the system to complete the transaction.",
+    "Why is your exchange rate so bad?",
+    "I noticed an extra pound charge?",
+    "How do I replace a card that's going to expire?",
+    "My payment had a wrong exchange rate.",
+    "What's going on with my balance? Shouldn't it be a bit higher since I deposited a cheque a day ago?",
+    "I reside in the US, but I want a card.",
+    "Will it cost me to get a second card?",
+    "My refund is not here yet",
+    "How long will a transaction to a friend take?",
+    "How much does it cost to do a transfer?",
+    "When are you going to activate my card?",
+    "How do i change my identity?",
+    "I want to know how to transfer money with my credit card",
+    "Does it matter which card I use",
+    "Why is the exchange rate on my card wrong?",
+    "Tell me why my card payment has been declined.",
+    "I would like to top up my account automatically. How do I do that?",
+    "As my kids get older are they able to get set up with their own accounts?",
+    "Can you please reactivate my card?",
+    "The app is telling me that I am not me.",
+    "Why hasn't arrived yet a transaction I did to my friend?",
+    "I don't see the verification code for my card transfer.",
+    "I thought you offer crypto top up but it doesn't seem to be right ? Money just disappeared from my account, How it would work ?",
+    "Please provide me with the restrictions of the disposable cards.",
+    "How come I have pending transfers?",
+    "Please list the countries you support."
+  ],
+  "records": [
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "I can't see if the transfer I did a couple days ago is in my account yet. I double checked my info before sending, too. Can you check this?",
+      "generated": "I'm still waiting to see if the transfer I initiated a few days ago has been credited to my account. I've double-checked my details to ensure everything is correct. Could you please verify this for me?"
+    },
+    {
+      "label": 50,
+      "label_name": "receiving_money",
+      "original": "Can I use a transfer to receive my transfer?",
+      "generated": "Can I use a transfer to receive the funds I'm expecting?"
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "What can I expect at card expiration?",
+      "generated": "What happens when my credit card's expiration date approaches?"
+    },
+    {
+      "label": 33,
+      "label_name": "exchange_via_app",
+      "original": "If I need to make an exchange from USD to GBP, how can I do so in the app?",
+      "generated": "If I want to convert my USD to GBP, can I perform the exchange through the app?"
+    },
+    {
+      "label": 60,
+      "label_name": "top_up_limits",
+      "original": "Are there any top-up limits?",
+      "generated": "Are there any maximum limit increases available?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "Can I auto-top up?  How do I do it?",
+      "generated": "Can I set up automatic top-ups? How do I initiate the process?"
+    },
+    {
+      "label": 16,
+      "label_name": "card_payment_not_recognised",
+      "original": "I didn't make this payment and it's on my app",
+      "generated": "I haven't processed this payment and it's still showing on my app."
+    },
+    {
+      "label": 12,
+      "label_name": "card_delivery_estimate",
+      "original": "To deliver to the US, how long will it take?",
+      "generated": "What is the estimated delivery timeframe for shipping to the United States?"
+    },
+    {
+      "label": 15,
+      "label_name": "card_payment_fee_charged",
+      "original": "There was a charge applied when I used my card.",
+      "generated": "A fee was deducted from my account when I made a payment using my card."
+    },
+    {
+      "label": 46,
+      "label_name": "pending_cash_withdrawal",
+      "original": "Hello, I tried to take some cash out of the ATM but I looked at my statement and it still shows that it's pending. Is the machine broken? Will I receive my money back or will I be charged for this?",
+      "generated": "I attempted to withdraw cash from the ATM, but my account statement indicates that the transaction is still pending. Is the machine malfunctioning? Will I be refunded the amount or will I be charged for the attempted withdrawal?"
+    },
+    {
+      "label": 42,
+      "label_name": "lost_or_stolen_phone",
+      "original": "I don't have my cell phone with me so I cannot access the system to complete the transaction.",
+      "generated": "I'm currently without my mobile device, which is preventing me from accessing the system to finalize the transaction."
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why is your exchange rate so bad?",
+      "generated": "Why is the exchange rate applied to my card payment so inaccurate?"
+    },
+    {
+      "label": 34,
+      "label_name": "extra_charge_on_statement",
+      "original": "I noticed an extra pound charge?",
+      "generated": "I saw an additional fee on my statement."
+    },
+    {
+      "label": 9,
+      "label_name": "card_about_to_expire",
+      "original": "How do I replace a card that's going to expire?",
+      "generated": "What steps can I take to update my card before it expires?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "My payment had a wrong exchange rate.",
+      "generated": "The exchange rate used for my payment was incorrect."
+    },
+    {
+      "label": 6,
+      "label_name": "balance_not_updated_after_cheque_or_cash_deposit",
+      "original": "What's going on with my balance? Shouldn't it be a bit higher since I deposited a cheque a day ago?",
+      "generated": "Why hasn't my balance been updated after I deposited a cash payment yesterday?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "I reside in the US, but I want a card.",
+      "generated": "I'm a US resident, and I'm interested in obtaining a card."
+    },
+    {
+      "label": 39,
+      "label_name": "getting_spare_card",
+      "original": "Will it cost me to get a second card?",
+      "generated": "Can I obtain a spare card without incurring any additional charges?"
+    },
+    {
+      "label": 51,
+      "label_name": "Refund_not_showing_up",
+      "original": "My refund is not here yet",
+      "generated": "My refund has not arrived."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "How long will a transaction to a friend take?",
+      "generated": "When can I expect a transfer to reach my friend's account?"
+    },
+    {
+      "label": 56,
+      "label_name": "top_up_by_bank_transfer_charge",
+      "original": "How much does it cost to do a transfer?",
+      "generated": "What is the fee for a bank transfer top-up?"
+    },
+    {
+      "label": 0,
+      "label_name": "activate_my_card",
+      "original": "When are you going to activate my card?",
+      "generated": "When will you be able to activate my credit card?"
+    },
+    {
+      "label": 69,
+      "label_name": "verify_my_identity",
+      "original": "How do i change my identity?",
+      "generated": "What steps can I take to update my personal information?"
+    },
+    {
+      "label": 62,
+      "label_name": "topping_up_by_card",
+      "original": "I want to know how to transfer money with my credit card",
+      "generated": "I'd like to learn about topping up my account using my credit card."
+    },
+    {
+      "label": 73,
+      "label_name": "visa_or_mastercard",
+      "original": "Does it matter which card I use",
+      "generated": "Is the type of credit card I use significant?"
+    },
+    {
+      "label": 17,
+      "label_name": "card_payment_wrong_exchange_rate",
+      "original": "Why is the exchange rate on my card wrong?",
+      "generated": "The exchange rate applied to my card payment is incorrect."
+    },
+    {
+      "label": 25,
+      "label_name": "declined_card_payment",
+      "original": "Tell me why my card payment has been declined.",
+      "generated": "Can you explain why my payment made with my card was not accepted?"
+    },
+    {
+      "label": 4,
+      "label_name": "automatic_top_up",
+      "original": "I would like to top up my account automatically. How do I do that?",
+      "generated": "I'd like to set up an automatic transfer to my account. Can you guide me through the process?"
+    },
+    {
+      "label": 1,
+      "label_name": "age_limit",
+      "original": "As my kids get older are they able to get set up with their own accounts?",
+      "generated": "Can I open accounts for my children as they reach a certain age?"
+    },
+    {
+      "label": 13,
+      "label_name": "card_linking",
+      "original": "Can you please reactivate my card?",
+      "generated": "May I assist you in reactivating your card?"
+    },
+    {
+      "label": 68,
+      "label_name": "unable_to_verify_identity",
+      "original": "The app is telling me that I am not me.",
+      "generated": "We're having trouble confirming your identity through our system."
+    },
+    {
+      "label": 66,
+      "label_name": "transfer_not_received_by_recipient",
+      "original": "Why hasn't arrived yet a transaction I did to my friend?",
+      "generated": "Why hasn't my friend received the transaction I sent to them yet?"
+    },
+    {
+      "label": 71,
+      "label_name": "verify_top_up",
+      "original": "I don't see the verification code for my card transfer.",
+      "generated": "I'm having trouble finding the verification code for my recent top-up."
+    },
+    {
+      "label": 61,
+      "label_name": "top_up_reverted",
+      "original": "I thought you offer crypto top up but it doesn't seem to be right ? Money just disappeared from my account, How it would work ?",
+      "generated": "I was under the impression that your service allows for cryptocurrency top-ups, but it appears to be incorrect. My funds seem to have vanished from my account. Can you explain how this supposed feature is supposed to work?"
+    },
+    {
+      "label": 29,
+      "label_name": "disposable_card_limits",
+      "original": "Please provide me with the restrictions of the disposable cards.",
+      "generated": "Please inform me about the limitations associated with the disposable cards."
+    },
+    {
+      "label": 48,
+      "label_name": "pending_transfer",
+      "original": "How come I have pending transfers?",
+      "generated": "Why are there outstanding transfers waiting to be processed?"
+    },
+    {
+      "label": 24,
+      "label_name": "country_support",
+      "original": "Please list the countries you support.",
+      "generated": "Please provide a list of the countries where our services are available."
+    }
+  ]
+}
